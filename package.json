@@ -1,0 +1,11 @@
+{
+  "name": "sports-data-fetcher",
+  "version": "1.0.0",
+  "description": "Sports data fetching script",
+  "main": "update-data-today.js",
+  "scripts": {
+    "start": "node update-data-today.js"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
