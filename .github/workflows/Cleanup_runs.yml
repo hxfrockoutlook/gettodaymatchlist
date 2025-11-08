@@ -1,0 +1,68 @@
+name: Cleanup old workflow runs
+
+on:
+  schedule:
+    # 每周日 22:00 北京时间 → UTC 14:00
+    - cron: "0 14 * * 0"
+  workflow_dispatch: # 支持手动触发
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Setup jq
+        run: sudo apt-get install -y jq
+
+      - name: Cleanup old workflow runs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          KEEP_DAYS: 1
+          OWNER: ${{ github.repository_owner }}
+          REPO: ${{ github.repository }}
+        run: |
+          echo "🕒 保留最近 $KEEP_DAYS 天内的 workflow runs"
+
+          THRESHOLD=$(date -d "-$KEEP_DAYS days" --utc +%Y-%m-%dT%H:%M:%SZ)
+
+          page=1
+          per_page=100
+
+          while true; do
+              runs_json=$(curl -s -H "Authorization: token $GITHUB_TOKEN" \
+                  "https://api.github.com/repos/$OWNER/$REPO/actions/runs?per_page=$per_page&page=$page")
+
+              run_count=$(echo "$runs_json" | jq '.workflow_runs | length')
+              if [[ "$run_count" -eq 0 ]]; then
+                  echo "✅ 已处理完所有 runs"
+                  break
+              fi
+
+              for run_id in $(echo "$runs_json" | jq -r '.workflow_runs[] | "\(.id) \(.created_at)"'); do
+                  id=$(echo $run_id | awk '{print $1}')
+                  created_at=$(echo $run_id | awk '{print $2}')
+
+                  if [[ "$created_at" < "$THRESHOLD" ]]; then
+                      echo "🗑️ 删除 run: $id (创建于 $created_at)"
+
+                      artifacts=$(curl -s -H "Authorization: token $GITHUB_TOKEN" \
+                          "https://api.github.com/repos/$OWNER/$REPO/actions/runs/$id/artifacts" | jq -r '.artifacts[].id')
+
+                      for artifact_id in $artifacts; do
+                          echo "   删除 artifact: $artifact_id"
+                          curl -s -X DELETE -H "Authorization: token $GITHUB_TOKEN" \
+                              "https://api.github.com/repos/$OWNER/$REPO/actions/artifacts/$artifact_id"
+                      done
+
+                      curl -s -X DELETE -H "Authorization: token $GITHUB_TOKEN" \
+                          "https://api.github.com/repos/$OWNER/$REPO/actions/runs/$id"
+                  fi
+              done
+
+              ((page++))
+          done
+
+          echo "🎉 清理完成！"
