@@ -8,6 +8,10 @@ on:
 jobs:
   fetch:
     runs-on: ubuntu-latest
+    # 添加并发控制
+    concurrency: 
+      group: ${{ github.workflow }}-${{ github.ref }}
+      cancel-in-progress: false
     permissions:
       contents: write
     
