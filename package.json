@@ -1,11 +1,16 @@
 {
   "name": "sports-data-fetcher",
   "version": "1.0.0",
-  "description": "Sports data fetching script",
-  "main": "update-data-today.js",
+  "description": "Fetch sports data from miguvideo",
+  "main": "index.js",
   "scripts": {
-    "start": "node update-data-today.js"
+    "start": "node get-match-list.js",
+    "fetch": "node get-match-list.js"
   },
-  "dependencies": {},
-  "devDependencies": {}
+  "keywords": ["sports", "data", "fetcher"],
+  "author": "Your Name",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  }
 }
