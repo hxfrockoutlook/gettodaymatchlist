@@ -39,7 +39,7 @@ jobs:
     - name: Trigger CF Worker refreshall
       if: success()
       run: |
-        echo "🔄 触发 Cloudflare Worker 全部更新..."
-        curl -s -X GET "https://getnewmatch.hxfkof-9ef.workers.dev/refreshall" \
+        echo "🔄 触发 Cloudflare Worker 当天更新..."
+        curl -s -X GET "https://getnewmatch.hxfkof-9ef.workers.dev/refreshtoday" \
           -H "User-Agent: GitHub-Actions" > /dev/null
-        echo "✅ CF Worker 全部更新已触发"
+        echo "✅ CF Worker 当天更新已触发"
