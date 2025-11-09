@@ -321,7 +321,25 @@ async function fetchAndProcessData() {
       console.log('开始获取今天全运会比赛数据...');
       const qyhMatches = await fetchQuanyunhuiMatches();
       
+      // 🔥 关键修复：在全运会数据获取节点数据前去重
+      const seenMgdbIds = new Set(); // 用于记录已处理的mgdbId
+      const uniqueQyhMatches = [];   // 存储去重后的全运会比赛
+      
       for (const qyhMatch of qyhMatches) {
+        // 如果这个mgdbId已经处理过，跳过
+        if (seenMgdbIds.has(qyhMatch.mgdbId)) {
+          console.log(`跳过重复的全运会比赛: ${qyhMatch.mgdbId} - ${qyhMatch.title}`);
+          continue;
+        }
+        
+        seenMgdbIds.add(qyhMatch.mgdbId);
+        uniqueQyhMatches.push(qyhMatch);
+      }
+      
+      console.log(`全运会数据去重: ${qyhMatches.length} -> ${uniqueQyhMatches.length} 场比赛`);
+      
+      // 只处理去重后的比赛
+      for (const qyhMatch of uniqueQyhMatches) {
         console.log(`获取全运会比赛 ${qyhMatch.mgdbId} 的节点数据...`);
         const nodes = await getMatchNodes(qyhMatch.mgdbId);
         
@@ -349,7 +367,7 @@ async function fetchAndProcessData() {
         await new Promise(resolve => setTimeout(resolve, 500));
       }
       
-      console.log(`成功添加 ${qyhMatches.length} 场全运会比赛`);
+      console.log(`成功添加 ${uniqueQyhMatches.length} 场全运会比赛`);
     } catch (error) {
       console.error('获取全运会比赛数据失败:', error.message);
     }
