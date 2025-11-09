@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-11-09 11:32:38",
+  "updateTime": "2025-11-09 12:02:23",
   "data": [
     {
       "mgdbId": "120000542663",
@@ -356,7 +356,7 @@
       "title": "南昌等六场马拉松",
       "keyword": "11月09日07:30",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "马拉松系列赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/07/6V0SHARS0INR.jpg",
@@ -380,7 +380,7 @@
       "title": "2025富川马拉松",
       "keyword": "11月09日07:30",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "马拉松系列赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/07/6V0SH9KBN86M.jpg",
@@ -404,7 +404,7 @@
       "title": "湖州交通集团·2025湖州马拉松",
       "keyword": "11月09日07:30",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "马拉松系列赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/07/6V0SH5BMKU0V.jpg",
@@ -512,14 +512,14 @@
     },
     {
       "mgdbId": "120000546673",
-      "pID": "959851292",
+      "pID": "960057063",
       "title": "NBA常规赛",
       "keyword": "11月09日09:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "火箭信贷球馆",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/08/6V0TDRHAV6VB.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/09/6V0UD2UPG0AB.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "公牛VS骑士",
       "modifyTitle": "NBA常规赛",
@@ -528,6 +528,10 @@
         "time": "11月09日09:00"
       },
       "nodes": [
+        {
+          "pID": "960057063",
+          "name": "脚踝终结者！亨特大变向晃倒吉迪双手暴扣终结"
+        },
         {
           "pID": "959851292",
           "name": "刘沛元"
@@ -580,14 +584,14 @@
     },
     {
       "mgdbId": "120000546675",
-      "pID": "959851359",
+      "pID": "960058242",
       "title": "NBA常规赛",
       "keyword": "11月09日09:00",
       "sportItemId": "2",
       "matchStatus": "1",
       "matchField": "卡西亚中心",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/08/6V0TDR9J53J9.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/09/6V0UD2LHHV24.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "开拓者VS热火",
       "modifyTitle": "NBA常规赛",
@@ -601,29 +605,29 @@
           "name": "连睿 周鹏 刘铁"
         },
         {
-          "pID": "959851239",
-          "name": "湖人 vs 老鹰"
-        },
-        {
           "pID": "959851376",
           "name": "邢晨"
         },
         {
           "pID": "959851420",
           "name": "英文原声"
+        },
+        {
+          "pID": "960058242",
+          "name": "这就是冠军成员的实力！威金斯关键三分正中靶心"
         }
       ]
     },
     {
       "mgdbId": "120000546676",
-      "pID": "959851434",
+      "pID": "960058364",
       "title": "NBA常规赛",
       "keyword": "11月09日09:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "冰霜银行中心",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/08/6V0TDRKL210T.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/09/6V0UD1IJS84D.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "鹈鹕VS马刺",
       "modifyTitle": "NBA常规赛",
@@ -641,8 +645,8 @@
           "name": "英文原声"
         },
         {
-          "pID": "960054786",
-          "name": "复出状态拉满！福克斯变向回拉三分+自抢补篮打进"
+          "pID": "960058364",
+          "name": "25/26赛季NBA常规赛全场集锦：鹈鹕119:126马刺（20251109）"
         }
       ]
     },
@@ -780,7 +784,7 @@
       "title": "江汉大学vs华中师范大学",
       "keyword": "11月09日12:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "武汉城市足球超级联赛",
       "padImg": "",
@@ -905,7 +909,7 @@
     {
       "mgdbId": "120000560410",
       "pID": "960014398",
-      "title": "汉超城区组��赛 蔡甸区vs东湖高新区",
+      "title": "汉超城区组决赛 蔡甸区vs东湖高新区",
       "keyword": "11月09日15:30",
       "sportItemId": "1",
       "matchStatus": "0",
