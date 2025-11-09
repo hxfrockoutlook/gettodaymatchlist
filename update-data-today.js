@@ -60,47 +60,42 @@ async function getMatchNodes(mgdbId) {
   const nodes = [];
   
   try {
-    const response = await fetchWithRetry(`https://www.miguvideo.com/p/live/${mgdbId}`, {
+    const response = await fetchWithRetry(`https://vms-sc.miguvideo.com/vms-match/v6/staticcache/basic/basic-data/${mgdbId}/miguvideo`, {
       headers: {
-        'referer': 'https://www.miguvideo.com/p/schedule/',
-        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0'
+        'appVersion': '2600052000',
+        'User-Agent': 'Dalvik%2F2.1.0+%28Linux%3B+U%3B+Android+9%3B+TAS-AN00+Build%2FPQ3A.190705.08211809%29',
+        'terminalId': 'android',
+        'appCode': 'miguvideo_default_android',
+        'appType': '3',
+        'appId': 'miguvideo',
+        'Content-Type': 'application/json'
       }
     });
     
-    const html = response.data;
-    const initialDataMatch = html.match(/window\.__INITIAL_BASIC_DATA__\s*=\s*({[^;]+});/);
+    const jsonData = JSON.parse(response.data);
     
-    if (initialDataMatch) {
-      try {
-        const initialData = JSON.parse(initialDataMatch[1]);
-        const matchData = initialData[mgdbId];
-        
-        if (matchData && matchData.code === 200 && matchData.body && matchData.body.multiPlayList) {
-          
-          // 按照原来的顺序处理节点数据：preList → liveList → replayList
-          const processNodeList = (nodeList) => {
-            if (nodeList) {
-              for (const item of nodeList) {
-                const nodeKey = `${item.pID}|${item.name}`;
-                if (!seenNodes.has(nodeKey)) {
-                  seenNodes.add(nodeKey);
-                  nodes.push({
-                    pID: item.pID,
-                    name: item.name
-                  });
-                }
-              }
+    if (jsonData.code === 200 && jsonData.body && jsonData.body.multiPlayList) {
+      
+      // 按照新的顺序处理节点数据：replayList → liveList → preList
+      const processNodeList = (nodeList) => {
+        if (nodeList) {
+          for (const item of nodeList) {
+            const nodeKey = `${item.pID}|${item.name}`;
+            if (!seenNodes.has(nodeKey)) {
+              seenNodes.add(nodeKey);
+              nodes.push({
+                pID: item.pID,
+                name: item.name
+              });
             }
-          };
-          
-          // 保持原来的处理顺序
-          processNodeList(matchData.body.multiPlayList.preList);
-          processNodeList(matchData.body.multiPlayList.liveList);
-          processNodeList(matchData.body.multiPlayList.replayList);
+          }
         }
-      } catch (parseError) {
-        console.error(`解析 JSON 数据失败 (mgdbId: ${mgdbId}):`, parseError.message);
-      }
+      };
+      
+      // 保持新的处理顺序：replayList → liveList → preList
+      processNodeList(jsonData.body.multiPlayList.replayList);
+      processNodeList(jsonData.body.multiPlayList.liveList);
+      processNodeList(jsonData.body.multiPlayList.preList);
     }
   } catch (error) {
     console.error(`获取节点数据失败 (mgdbId: ${mgdbId}):`, error.message);
