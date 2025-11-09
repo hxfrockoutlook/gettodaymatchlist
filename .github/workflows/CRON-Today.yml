@@ -36,9 +36,10 @@ jobs:
         git add sports-data-today.json  # 改为提交今天的文件
         git diff --staged --quiet || (git commit -m "Update today sports data [skip ci]" && git push)
         
-    - name: Trigger CF Worker refresh
+    - name: Trigger CF Worker refreshall
       if: success()
       run: |
-        echo "🔄 触发 Cloudflare Worker 更新..."
-        curl -X GET "https://getnewmatch.hxfkof-9ef.workers.dev/refreshtoday" \
-          -H "User-Agent: GitHub-Actions"
+        echo "🔄 触发 Cloudflare Worker 全部更新..."
+        curl -s -X GET "https://getnewmatch.hxfkof-9ef.workers.dev/refreshall" \
+          -H "User-Agent: GitHub-Actions" > /dev/null
+        echo "✅ CF Worker 全部更新已触发"
