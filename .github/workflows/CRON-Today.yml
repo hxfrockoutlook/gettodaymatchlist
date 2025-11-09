@@ -35,3 +35,10 @@ jobs:
         git config --local user.name "GitHub Action"
         git add sports-data-today.json  # 改为提交今天的文件
         git diff --staged --quiet || (git commit -m "Update today sports data [skip ci]" && git push)
+        
+    - name: Trigger CF Worker refresh
+      if: success()
+      run: |
+        echo "🔄 触发 Cloudflare Worker 更新..."
+        curl -X GET "https://getnewmatch.hxfkof-9ef.workers.dev/refreshtoday" \
+          -H "User-Agent: GitHub-Actions"
