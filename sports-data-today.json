@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-11-11 00:31:21",
+  "updateTime": "2025-11-11 01:01:27",
   "data": [
     {
       "mgdbId": "120000546686",
@@ -339,6 +339,18 @@
         {
           "pID": "960111524",
           "name": "赛场原声"
+        },
+        {
+          "pID": "960113868",
+          "name": "综合信号"
+        },
+        {
+          "pID": "960113887",
+          "name": "全景视角"
+        },
+        {
+          "pID": "960113924",
+          "name": "纵向视角1"
         }
       ]
     },
@@ -630,7 +642,7 @@
       "mgdbId": "120000556110",
       "pID": "120000556110",
       "title": "篮球男子成年组半决赛 四川vs浙江",
-      "keyword": "11月11日16:00",
+      "keyword": "11月11日15:30",
       "sportItemId": "",
       "matchStatus": "",
       "matchField": "",
@@ -641,9 +653,14 @@
       "modifyTitle": "篮球男子成年组半决赛 四川vs浙江",
       "presenters": "",
       "matchInfo": {
-        "time": "11月11日16:00"
+        "time": "11月11日15:30"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "960113863",
+          "name": "孙博 曾令旭 李根"
+        }
+      ]
     },
     {
       "mgdbId": "120000556125",
@@ -845,7 +862,7 @@
       "mgdbId": "120000556159",
       "pID": "120000556159",
       "title": "篮球女子成年组小组赛 山东vs广东",
-      "keyword": "11月11日19:25",
+      "keyword": "11月11日19:20",
       "sportItemId": "",
       "matchStatus": "",
       "matchField": "",
@@ -856,9 +873,17 @@
       "modifyTitle": "篮球女子成年组小组赛 山东vs广东",
       "presenters": "",
       "matchInfo": {
-        "time": "11月11日19:25"
+        "time": "11月11日19:20"
       },
       "nodes": [
+        {
+          "pID": "960113994",
+          "name": "张泽欣"
+        },
+        {
+          "pID": "960113984",
+          "name": "赛场原声"
+        },
         {
           "pID": "960113674",
           "name": "综合信号"
@@ -866,6 +891,14 @@
         {
           "pID": "960113713",
           "name": "全景视角"
+        },
+        {
+          "pID": "960113763",
+          "name": "纵向视角1"
+        },
+        {
+          "pID": "960113811",
+          "name": "纵向视角2"
         }
       ]
     },
@@ -960,7 +993,7 @@
     {
       "mgdbId": "120000559632",
       "pID": "120000559632",
-      "title": "跳水 女子3米跳板决赛 陈艺文冲金",
+      "title": "跳水 女子3米跳板决赛",
       "keyword": "11月11日15:45",
       "sportItemId": "",
       "matchStatus": "",
@@ -968,7 +1001,7 @@
       "competitionName": "全运会",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
       "competitionLogo": "",
-      "pkInfoTitle": "跳水 女子3米跳板决赛 陈艺文冲金",
+      "pkInfoTitle": "跳水 女子3米跳板决赛",
       "modifyTitle": "跳水 女子3米跳板决赛 陈艺文冲金",
       "presenters": "",
       "matchInfo": {
@@ -1004,7 +1037,7 @@
     {
       "mgdbId": "120000559631",
       "pID": "120000559631",
-      "title": "跳水 男子10米跳台预赛/半决赛 练俊杰、曹缘登场",
+      "title": "跳水 男子10米跳台预赛/半决赛 练俊杰登场",
       "keyword": "11月11日09:50",
       "sportItemId": "",
       "matchStatus": "",
@@ -1012,7 +1045,7 @@
       "competitionName": "全运会",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
       "competitionLogo": "",
-      "pkInfoTitle": "跳水 男子10米跳台预赛/半决赛 练俊杰、曹缘登场",
+      "pkInfoTitle": "跳水 男子10米跳台预赛/半决赛 练俊杰登场",
       "modifyTitle": "跳水 男子10米跳台预赛/半决赛 练俊杰登场",
       "presenters": "",
       "matchInfo": {
@@ -1084,32 +1117,36 @@
           "name": "运动员视角2"
         },
         {
-          "pID": "960113507",
+          "pID": "960113728",
+          "name": "2号桌"
+        },
+        {
+          "pID": "960113732",
+          "name": "3号桌"
+        },
+        {
+          "pID": "960113743",
           "name": "4号桌"
         },
         {
-          "pID": "960113525",
+          "pID": "960113747",
           "name": "5号桌"
         },
         {
-          "pID": "960113556",
+          "pID": "960113765",
           "name": "6号桌"
         },
         {
-          "pID": "960113573",
+          "pID": "960113776",
           "name": "7号桌"
         },
         {
-          "pID": "960113581",
+          "pID": "960113786",
           "name": "8号桌"
         },
         {
-          "pID": "960113588",
+          "pID": "960113790",
           "name": "9号桌"
-        },
-        {
-          "pID": "960113728",
-          "name": "2号桌"
         }
       ]
     },
@@ -1210,6 +1247,134 @@
         {
           "pID": "960113709",
           "name": "9号桌"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000558972",
+      "pID": "120000558972",
+      "title": "羽毛球 石宇奇率江苏队迎战北京队",
+      "keyword": "11月11日18:50",
+      "sportItemId": "",
+      "matchStatus": "",
+      "matchField": "",
+      "competitionName": "全运会",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
+      "competitionLogo": "",
+      "pkInfoTitle": "羽毛球 石宇奇率江苏队迎战北京队",
+      "modifyTitle": "羽毛球 男子团体小组赛E组/F组",
+      "presenters": "",
+      "matchInfo": {
+        "time": "11月11日18:50"
+      },
+      "nodes": [
+        {
+          "pID": "960111912",
+          "name": "孙宁智"
+        },
+        {
+          "pID": "960111942",
+          "name": "1号场"
+        },
+        {
+          "pID": "960112068",
+          "name": "综合信号"
+        },
+        {
+          "pID": "960112141",
+          "name": "运动员视角1"
+        },
+        {
+          "pID": "960112185",
+          "name": "运动员视角2"
+        },
+        {
+          "pID": "960112242",
+          "name": "网口视角"
+        },
+        {
+          "pID": "960112953",
+          "name": "2号场"
+        },
+        {
+          "pID": "960112974",
+          "name": "3号场"
+        },
+        {
+          "pID": "960112994",
+          "name": "4号场"
+        },
+        {
+          "pID": "960113013",
+          "name": "5号场"
+        },
+        {
+          "pID": "960113084",
+          "name": "6号场"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000558971",
+      "pID": "120000558971",
+      "title": "羽毛球 浙江VS江苏黄雅琼登场",
+      "keyword": "11月11日13:50",
+      "sportItemId": "",
+      "matchStatus": "",
+      "matchField": "",
+      "competitionName": "全运会",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
+      "competitionLogo": "",
+      "pkInfoTitle": "羽毛球 浙江VS江苏黄雅琼登场",
+      "modifyTitle": "羽毛球 女子团体小组赛E组/F组",
+      "presenters": "",
+      "matchInfo": {
+        "time": "11月11日13:50"
+      },
+      "nodes": [
+        {
+          "pID": "960111851",
+          "name": "余博洋"
+        },
+        {
+          "pID": "960111877",
+          "name": "1号场"
+        },
+        {
+          "pID": "960112042",
+          "name": "综合信号"
+        },
+        {
+          "pID": "960112100",
+          "name": "运动员视角1"
+        },
+        {
+          "pID": "960112163",
+          "name": "运动员视角2"
+        },
+        {
+          "pID": "960112230",
+          "name": "网口视角"
+        },
+        {
+          "pID": "960112750",
+          "name": "2号场"
+        },
+        {
+          "pID": "960112764",
+          "name": "3号场"
+        },
+        {
+          "pID": "960112782",
+          "name": "4号场"
+        },
+        {
+          "pID": "960112791",
+          "name": "5号场"
+        },
+        {
+          "pID": "960112813",
+          "name": "6号场"
         }
       ]
     }
