@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-11-10 21:31:38",
+  "updateTime": "2025-11-10 22:01:48",
   "data": [
     {
       "mgdbId": "120000559309",
@@ -681,16 +681,16 @@
     {
       "mgdbId": "120000559809",
       "pID": "959918424",
-      "title": "杭州VS金华",
+      "title": "杭州79-69金华",
       "keyword": "11月10日19:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "浙江省城市篮球联赛",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/7/16/1000000012931063812e.png",
-      "pkInfoTitle": "杭州VS金华",
-      "modifyTitle": "杭州VS金华",
+      "pkInfoTitle": "杭州79-69金华",
+      "modifyTitle": "杭州79-69金华",
       "presenters": "",
       "matchInfo": {
         "time": "11月10日19:30"
@@ -821,7 +821,7 @@
     {
       "mgdbId": "120000558959",
       "pID": "120000558959",
-      "title": "乒乓球 王楚钦斩获首胜 向鹏、蒯曼登场",
+      "title": "王楚钦勇夺开门红 蒯曼战术致胜",
       "keyword": "11月10日17:55",
       "sportItemId": "",
       "matchStatus": "",
@@ -829,7 +829,7 @@
       "competitionName": "全运会",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
       "competitionLogo": "",
-      "pkInfoTitle": "乒乓球 王楚钦斩获首胜 向鹏、蒯曼登场",
+      "pkInfoTitle": "王楚钦勇夺开门红 蒯曼战术致胜",
       "modifyTitle": "乒乓球 成年组混双1/8决赛及男女单1/16决赛等",
       "presenters": "",
       "matchInfo": {
@@ -837,36 +837,20 @@
       },
       "nodes": [
         {
-          "pID": "960081023",
-          "name": "4号桌"
-        },
-        {
-          "pID": "960080973",
-          "name": "3号桌"
-        },
-        {
           "pID": "960080867",
           "name": "周冠达 周泽昊"
         },
         {
-          "pID": "960080898",
-          "name": "1号桌"
-        },
-        {
-          "pID": "960081039",
-          "name": "5号桌"
+          "pID": "960081023",
+          "name": "4号桌"
         },
         {
           "pID": "960081102",
           "name": "7号桌"
         },
         {
-          "pID": "960081117",
-          "name": "8号桌"
-        },
-        {
-          "pID": "960080941",
-          "name": "2号桌"
+          "pID": "960080898",
+          "name": "1号桌"
         },
         {
           "pID": "960081307",
@@ -883,6 +867,22 @@
         {
           "pID": "960081443",
           "name": "运动员视角2"
+        },
+        {
+          "pID": "960080973",
+          "name": "3号桌"
+        },
+        {
+          "pID": "960081039",
+          "name": "5号桌"
+        },
+        {
+          "pID": "960081117",
+          "name": "8号桌"
+        },
+        {
+          "pID": "960080941",
+          "name": "2号桌"
         }
       ]
     },
@@ -1093,7 +1093,7 @@
     {
       "mgdbId": "120000559630",
       "pID": "120000559630",
-      "title": "跳水 女子10米跳台决赛 陈芋汐冲冠",
+      "title": "跳水  陈芋汐夺单人项个人首金",
       "keyword": "11月10日19:15",
       "sportItemId": "",
       "matchStatus": "",
@@ -1101,7 +1101,7 @@
       "competitionName": "全运会",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
       "competitionLogo": "",
-      "pkInfoTitle": "跳水 女子10米跳台决赛 陈芋汐冲冠",
+      "pkInfoTitle": "跳水  陈芋汐夺单人项个人首金",
       "modifyTitle": "跳水 女子10米跳台决赛 陈芋汐冲冠",
       "presenters": "",
       "matchInfo": {
@@ -1173,7 +1173,7 @@
     {
       "mgdbId": "120000556152",
       "pID": "120000556152",
-      "title": "篮球女子成年组小组赛 山西vs上海",
+      "title": "篮球女子成年组小组赛 山西57-111上海",
       "keyword": "11月10日19:20",
       "sportItemId": "",
       "matchStatus": "",
@@ -1181,7 +1181,7 @@
       "competitionName": "全运会",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
       "competitionLogo": "",
-      "pkInfoTitle": "篮球女子成年组小组赛 山西vs上海",
+      "pkInfoTitle": "篮球女子成年组小组赛 山西57-111上海",
       "modifyTitle": "篮球女子成年组小组赛 山西vs上海",
       "presenters": "",
       "matchInfo": {
@@ -1229,8 +1229,8 @@
       },
       "nodes": [
         {
-          "pID": "960107832",
-          "name": "杀疯了！原帅首节狂轰5记三分 单节19分水花四溅"
+          "pID": "960109393",
+          "name": "2025全运会全场集锦：篮球男子成年组1/4决赛 辽宁88-61山东"
         },
         {
           "pID": "960080330",
@@ -1281,8 +1281,8 @@
       },
       "nodes": [
         {
-          "pID": "960108437",
-          "name": "腰腹力爆炸！胡明轩杀神附体连轰8分手真硬"
+          "pID": "960109248",
+          "name": "2025全运会全场集锦：篮球男子成年组1/4决赛 天津65-107广东"
         },
         {
           "pID": "960079640",
@@ -1389,10 +1389,6 @@
           "name": "2号场"
         },
         {
-          "pID": "960081868",
-          "name": "3号场"
-        },
-        {
           "pID": "960082006",
           "name": "4号场"
         },
@@ -1415,6 +1411,10 @@
         {
           "pID": "960082538",
           "name": "网口视角"
+        },
+        {
+          "pID": "960081868",
+          "name": "3号场"
         }
       ]
     },
@@ -1745,7 +1745,7 @@
     {
       "mgdbId": "120000559393",
       "pID": "120000559393",
-      "title": "强强对话！正播男足广东vs上海",
+      "title": "张志雄点射！广东U20决赛将战湖北",
       "keyword": "11月10日19:35",
       "sportItemId": "",
       "matchStatus": "",
@@ -1753,8 +1753,8 @@
       "competitionName": "全运会",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
       "competitionLogo": "",
-      "pkInfoTitle": "强强对话！正播男足广东vs上海",
-      "modifyTitle": "强强对话！正播男足广东vs上海",
+      "pkInfoTitle": "张志雄点射！广东U20决赛将战湖北",
+      "modifyTitle": "张志雄点射！广东U20决赛将战湖北",
       "presenters": "",
       "matchInfo": {
         "time": "11月10日19:35"
