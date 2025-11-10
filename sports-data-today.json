@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-11-10 19:31:36",
+  "updateTime": "2025-11-10 20:01:39",
   "data": [
     {
       "mgdbId": "120000559309",
@@ -837,12 +837,16 @@
       },
       "nodes": [
         {
-          "pID": "960080898",
-          "name": "1号桌"
+          "pID": "960081102",
+          "name": "7号桌"
         },
         {
           "pID": "960081307",
           "name": "热身场"
+        },
+        {
+          "pID": "960080898",
+          "name": "1号桌"
         },
         {
           "pID": "960080941",
@@ -863,10 +867,6 @@
         {
           "pID": "960081051",
           "name": "6号桌"
-        },
-        {
-          "pID": "960081102",
-          "name": "7号桌"
         },
         {
           "pID": "960081183",
@@ -1735,6 +1735,34 @@
         {
           "pID": "960082627",
           "name": "轨道视角"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000559393",
+      "pID": "120000559393",
+      "title": "强强对话！正播男足广东vs上海",
+      "keyword": "11月10日19:35",
+      "sportItemId": "",
+      "matchStatus": "",
+      "matchField": "",
+      "competitionName": "全运会",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
+      "competitionLogo": "",
+      "pkInfoTitle": "强强对话！正播男足广东vs上海",
+      "modifyTitle": "强强对话！正播男足广东vs上海",
+      "presenters": "",
+      "matchInfo": {
+        "time": "11月10日19:35"
+      },
+      "nodes": [
+        {
+          "pID": "960080218",
+          "name": "鹿中原"
+        },
+        {
+          "pID": "960080186",
+          "name": "赛场原声"
         }
       ]
     }
