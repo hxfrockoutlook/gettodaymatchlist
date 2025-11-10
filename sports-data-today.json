@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-11-10 16:31:30",
+  "updateTime": "2025-11-10 17:01:42",
   "data": [
     {
       "mgdbId": "120000559309",
@@ -703,6 +703,50 @@
       ]
     },
     {
+      "mgdbId": "120000558950",
+      "pID": "120000558950",
+      "title": "羽毛球 第4比赛日白天场",
+      "keyword": "11月10日13:50",
+      "sportItemId": "",
+      "matchStatus": "",
+      "matchField": "",
+      "competitionName": "全运会",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
+      "competitionLogo": "",
+      "pkInfoTitle": "羽毛球 第4比赛日白天场",
+      "modifyTitle": "羽毛球 女子团体小组赛E组/F组",
+      "presenters": "",
+      "matchInfo": {
+        "time": "11月10日13:50"
+      },
+      "nodes": [
+        {
+          "pID": "960081528",
+          "name": "6号场"
+        },
+        {
+          "pID": "960081195",
+          "name": "1号场"
+        },
+        {
+          "pID": "960082291",
+          "name": "综合信号"
+        },
+        {
+          "pID": "960082378",
+          "name": "运动员视角1"
+        },
+        {
+          "pID": "960082486",
+          "name": "运动员视角2"
+        },
+        {
+          "pID": "960082534",
+          "name": "网口视角"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000558949",
       "pID": "120000558949",
       "title": "游泳多项半决赛及决赛 孙杨潘展乐争金",
@@ -969,7 +1013,7 @@
     {
       "mgdbId": "120000559629",
       "pID": "120000559629",
-      "title": "跳水 男子3米跳板决赛 郑九源、王宗源出战",
+      "title": "男子3米跳板决赛 郑九源、王宗源出战",
       "keyword": "11月10日15:45",
       "sportItemId": "",
       "matchStatus": "",
@@ -977,7 +1021,7 @@
       "competitionName": "全运会",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
       "competitionLogo": "",
-      "pkInfoTitle": "跳水 男子3米跳板决赛 郑九源、王宗源出战",
+      "pkInfoTitle": "男子3米跳板决赛 郑九源、王宗源出战",
       "modifyTitle": "跳水 男子3米跳板决赛 郑九源、王宗源出战",
       "presenters": "",
       "matchInfo": {
@@ -1353,10 +1397,6 @@
           "name": "5号场"
         },
         {
-          "pID": "960082070",
-          "name": "6号场"
-        },
-        {
           "pID": "960082358",
           "name": "综合信号"
         },
@@ -1675,62 +1715,6 @@
         {
           "pID": "960082627",
           "name": "轨道视角"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000558950",
-      "pID": "120000558950",
-      "title": "正播全运羽毛球 贾一凡/张弛领衔出战",
-      "keyword": "11月10日13:50",
-      "sportItemId": "",
-      "matchStatus": "",
-      "matchField": "",
-      "competitionName": "全运会",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
-      "competitionLogo": "",
-      "pkInfoTitle": "正播全运羽毛球 贾一凡/张弛领衔出战",
-      "modifyTitle": "正播全运羽毛球 贾一凡/张弛领衔出战",
-      "presenters": "",
-      "matchInfo": {
-        "time": "11月10日13:50"
-      },
-      "nodes": [
-        {
-          "pID": "960081504",
-          "name": "5号场"
-        },
-        {
-          "pID": "960081195",
-          "name": "1号场"
-        },
-        {
-          "pID": "960081528",
-          "name": "6号场"
-        },
-        {
-          "pID": "960082291",
-          "name": "综合信号"
-        },
-        {
-          "pID": "960082378",
-          "name": "运动员视角1"
-        },
-        {
-          "pID": "960082486",
-          "name": "运动员视角2"
-        },
-        {
-          "pID": "960082534",
-          "name": "网口视角"
-        },
-        {
-          "pID": "960081240",
-          "name": "孙宁智"
-        },
-        {
-          "pID": "958667592",
-          "name": "CCTV16"
         }
       ]
     }
