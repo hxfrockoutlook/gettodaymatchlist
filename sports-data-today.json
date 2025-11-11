@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-11-11 08:31:22",
+  "updateTime": "2025-11-11 09:01:29",
   "data": [
     {
       "mgdbId": "120000546686",
@@ -128,10 +128,10 @@
       "title": "NBA常规赛",
       "keyword": "11月11日09:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "联合中心球馆",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/10/6V0VADTDFRRI.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/11/6V106E0I9LVG.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "马刺VS公牛",
       "modifyTitle": "NBA常规赛",
@@ -291,9 +291,93 @@
       ]
     },
     {
+      "mgdbId": "120000558994",
+      "pID": "120000558994",
+      "title": "滑板 第2比赛日",
+      "keyword": "11月11日08:55",
+      "sportItemId": "",
+      "matchStatus": "",
+      "matchField": "",
+      "competitionName": "全运会",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
+      "competitionLogo": "",
+      "pkInfoTitle": "滑板 第2比赛日",
+      "modifyTitle": "滑板 第2比赛日",
+      "presenters": "",
+      "matchInfo": {
+        "time": "11月11日08:55"
+      },
+      "nodes": [
+        {
+          "pID": "960111476",
+          "name": "滑板"
+        },
+        {
+          "pID": "960111528",
+          "name": "滑板"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000559728",
+      "pID": "120000559728",
+      "title": "网球 商竣程率北京队冲决赛",
+      "keyword": "11月11日09:50",
+      "sportItemId": "",
+      "matchStatus": "",
+      "matchField": "",
+      "competitionName": "全运会",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
+      "competitionLogo": "",
+      "pkInfoTitle": "网球 商竣程率北京队冲决赛",
+      "modifyTitle": "网球 青年组男子团队、女子团体半决赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "11月11日09:50"
+      },
+      "nodes": [
+        {
+          "pID": "960111696",
+          "name": "单文强"
+        },
+        {
+          "pID": "960111758",
+          "name": "单文强"
+        },
+        {
+          "pID": "960112619",
+          "name": "李宁"
+        },
+        {
+          "pID": "960111935",
+          "name": "李宁"
+        },
+        {
+          "pID": "960111801",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "960112256",
+          "name": "综合信号"
+        },
+        {
+          "pID": "960112291",
+          "name": "战术视角"
+        },
+        {
+          "pID": "960112328",
+          "name": "运动员视角1"
+        },
+        {
+          "pID": "960112362",
+          "name": "运动员视角2"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000558993",
       "pID": "120000558993",
-      "title": "摔跤 多项决赛",
+      "title": "摔跤 第2比赛日下午场 多项决赛",
       "keyword": "11月11日15:50",
       "sportItemId": "",
       "matchStatus": "",
@@ -301,7 +385,7 @@
       "competitionName": "全运会",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
       "competitionLogo": "",
-      "pkInfoTitle": "摔跤 多项决赛",
+      "pkInfoTitle": "摔跤 第2比赛日下午场 多项决赛",
       "modifyTitle": "摔跤 第2比赛日下午场 多项决赛",
       "presenters": "",
       "matchInfo": {
@@ -337,12 +421,12 @@
       },
       "nodes": [
         {
-          "pID": "960111353",
-          "name": "王琰博"
-        },
-        {
           "pID": "960111376",
           "name": "赛场原声"
+        },
+        {
+          "pID": "960111353",
+          "name": "王琰博"
         }
       ]
     },
@@ -1249,24 +1333,8 @@
       },
       "nodes": [
         {
-          "pID": "960111501",
-          "name": "小马哥"
-        },
-        {
           "pID": "960111367",
           "name": "1号桌"
-        },
-        {
-          "pID": "960111606",
-          "name": "综合信号"
-        },
-        {
-          "pID": "960111617",
-          "name": "运动员视角1"
-        },
-        {
-          "pID": "960111641",
-          "name": "运动员视角2"
         },
         {
           "pID": "960113634",
@@ -1289,10 +1357,6 @@
           "name": "6号桌"
         },
         {
-          "pID": "960113688",
-          "name": "周泽昊"
-        },
-        {
           "pID": "960113692",
           "name": "7号桌"
         },
@@ -1301,8 +1365,76 @@
           "name": "8号桌"
         },
         {
+          "pID": "960111641",
+          "name": "运动员视角2"
+        },
+        {
+          "pID": "960111617",
+          "name": "运动员视角1"
+        },
+        {
+          "pID": "960111606",
+          "name": "综合信号"
+        },
+        {
+          "pID": "960111501",
+          "name": "小马哥"
+        },
+        {
+          "pID": "960113688",
+          "name": "周泽昊"
+        },
+        {
           "pID": "960113709",
           "name": "9号桌"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000558991",
+      "pID": "120000558991",
+      "title": "摔跤 第2比赛日上午场",
+      "keyword": "11月11日09:55",
+      "sportItemId": "",
+      "matchStatus": "",
+      "matchField": "",
+      "competitionName": "全运会",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
+      "competitionLogo": "",
+      "pkInfoTitle": "摔跤 第2比赛日上午场",
+      "modifyTitle": "摔跤 第2比赛日上午场",
+      "presenters": "",
+      "matchInfo": {
+        "time": "11月11日09:55"
+      },
+      "nodes": [
+        {
+          "pID": "960111632",
+          "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000558977",
+      "pID": "120000558977",
+      "title": "柔道  多项1/16决赛、1/8决赛、1/4决赛及半决赛",
+      "keyword": "11月11日08:55",
+      "sportItemId": "",
+      "matchStatus": "",
+      "matchField": "",
+      "competitionName": "全运会",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
+      "competitionLogo": "",
+      "pkInfoTitle": "柔道  多项1/16决赛、1/8决赛、1/4决赛及半决赛",
+      "modifyTitle": "柔道 第2比赛日白天场",
+      "presenters": "",
+      "matchInfo": {
+        "time": "11月11日08:55"
+      },
+      "nodes": [
+        {
+          "pID": "960112093",
+          "name": "赛场原声"
         }
       ]
     },
