@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-11-11 08:01:26",
+  "updateTime": "2025-11-11 08:31:22",
   "data": [
     {
       "mgdbId": "120000546686",
@@ -100,7 +100,7 @@
       "title": "NBA常规赛",
       "keyword": "11月11日08:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "卡西亚中心",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/10/6V0VADNNMS0V.jpg",
@@ -287,6 +287,62 @@
         {
           "pID": "959918771",
           "name": "2025浙江省城市篮球联赛: 丽水VS宁波"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000558993",
+      "pID": "120000558993",
+      "title": "摔跤 多项决赛",
+      "keyword": "11月11日15:50",
+      "sportItemId": "",
+      "matchStatus": "",
+      "matchField": "",
+      "competitionName": "全运会",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
+      "competitionLogo": "",
+      "pkInfoTitle": "摔跤 多项决赛",
+      "modifyTitle": "摔跤 第2比赛日下午场 多项决赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "11月11日15:50"
+      },
+      "nodes": [
+        {
+          "pID": "960112289",
+          "name": "汪乐"
+        },
+        {
+          "pID": "960111933",
+          "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000558973",
+      "pID": "120000558973",
+      "title": "拳击 多项1/4决赛、半决赛及决赛",
+      "keyword": "11月11日13:55",
+      "sportItemId": "",
+      "matchStatus": "",
+      "matchField": "",
+      "competitionName": "全运会",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
+      "competitionLogo": "",
+      "pkInfoTitle": "拳击 多项1/4决赛、半决赛及决赛",
+      "modifyTitle": "拳击 多项1/4决赛、半决赛及决赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "11月11日13:55"
+      },
+      "nodes": [
+        {
+          "pID": "960111353",
+          "name": "王琰博"
+        },
+        {
+          "pID": "960111376",
+          "name": "赛场原声"
         }
       ]
     },
