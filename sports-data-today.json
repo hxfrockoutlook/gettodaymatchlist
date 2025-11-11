@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-11-11 09:31:26",
+  "updateTime": "2025-11-11 10:01:29",
   "data": [
     {
       "mgdbId": "120000546686",
@@ -188,7 +188,7 @@
       "title": "NBA常规赛",
       "keyword": "11月11日10:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "凤凰城竞技场",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/10/6V0VAE685OT5.jpg",
@@ -216,7 +216,7 @@
       "title": "NBA常规赛",
       "keyword": "11月11日10:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "德尔塔中心球馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/10/6V0VAEBSA3KE.jpg",
@@ -449,12 +449,12 @@
           "name": "8号桌"
         },
         {
-          "pID": "960111641",
-          "name": "运动员视角2"
-        },
-        {
           "pID": "960111617",
           "name": "运动员视角1"
+        },
+        {
+          "pID": "960111641",
+          "name": "运动员视角2"
         },
         {
           "pID": "960111606",
@@ -521,19 +521,19 @@
       },
       "nodes": [
         {
-          "pID": "960111696",
-          "name": "单文强"
-        },
-        {
           "pID": "960111758",
           "name": "单文强"
         },
         {
-          "pID": "960112619",
-          "name": "李宁"
+          "pID": "960111696",
+          "name": "单文强"
         },
         {
           "pID": "960111935",
+          "name": "李宁"
+        },
+        {
+          "pID": "960112619",
           "name": "李宁"
         },
         {
@@ -675,6 +675,10 @@
         {
           "pID": "960113924",
           "name": "纵向视角1"
+        },
+        {
+          "pID": "960113939",
+          "name": "纵向视角2"
         }
       ]
     },
