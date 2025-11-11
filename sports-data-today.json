@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-11-12 07:01:13",
+  "updateTime": "2025-11-12 07:31:13",
   "data": [
     {
       "mgdbId": "120000546695",
@@ -627,6 +627,102 @@
       ]
     },
     {
+      "mgdbId": "120000559000",
+      "pID": "120000559000",
+      "title": "羽毛球 第6比赛日白天场",
+      "keyword": "11月12日13:55",
+      "sportItemId": "",
+      "matchStatus": "",
+      "matchField": "",
+      "competitionName": "全运会",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
+      "competitionLogo": "",
+      "pkInfoTitle": "羽毛球 第6比赛日白天场",
+      "modifyTitle": "羽毛球 男子/女子团体5-8名附加赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "11月12日13:55"
+      },
+      "nodes": [
+        {
+          "pID": "960147603",
+          "name": "1号场"
+        },
+        {
+          "pID": "960147298",
+          "name": "运动员视角1"
+        },
+        {
+          "pID": "960147315",
+          "name": "运动员视角2"
+        },
+        {
+          "pID": "960147355",
+          "name": "网口视角"
+        },
+        {
+          "pID": "960148086",
+          "name": "2号场"
+        },
+        {
+          "pID": "960148101",
+          "name": "3号场"
+        },
+        {
+          "pID": "960149162",
+          "name": "综合信号"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000559001",
+      "pID": "120000559001",
+      "title": "羽毛球 第6比赛日晚间场",
+      "keyword": "11月12日18:50",
+      "sportItemId": "",
+      "matchStatus": "",
+      "matchField": "",
+      "competitionName": "全运会",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
+      "competitionLogo": "",
+      "pkInfoTitle": "羽毛球 第6比赛日晚间场",
+      "modifyTitle": "羽毛球 男子/女子团体半决赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "11月12日18:50"
+      },
+      "nodes": [
+        {
+          "pID": "960147425",
+          "name": "孙宁智"
+        },
+        {
+          "pID": "960147371",
+          "name": "综合信号"
+        },
+        {
+          "pID": "960147406",
+          "name": "运动员视角1"
+        },
+        {
+          "pID": "960147429",
+          "name": "运动员视角2"
+        },
+        {
+          "pID": "960147467",
+          "name": "邵凌霄"
+        },
+        {
+          "pID": "960147473",
+          "name": "网口视角"
+        },
+        {
+          "pID": "960147538",
+          "name": "1号场"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000556097",
       "pID": "120000556097",
       "title": "篮球男子成年组铜牌赛 四川vs辽宁",
@@ -765,7 +861,7 @@
     {
       "mgdbId": "120000560854",
       "pID": "120000560854",
-      "title": "三人篮球第1比赛日晚间场 王哲林张宁出战",
+      "title": "三人篮球第1比赛日晚间��� 王哲林张宁出战",
       "keyword": "11月12日16:20",
       "sportItemId": "",
       "matchStatus": "",
@@ -773,7 +869,7 @@
       "competitionName": "全运会",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
       "competitionLogo": "",
-      "pkInfoTitle": "三人篮球第1比赛日晚间场 王哲林张宁出战",
+      "pkInfoTitle": "三人篮球第1比赛日晚间��� 王哲林张宁出战",
       "modifyTitle": "三人篮球第1比赛日晚间场 王哲林张宁出战",
       "presenters": "",
       "matchInfo": {
@@ -1137,6 +1233,50 @@
         },
         {
           "pID": "960147193",
+          "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000558996",
+      "pID": "120000558996",
+      "title": "9点播游泳 覃海洋、张展硕出战",
+      "keyword": "11月12日08:50",
+      "sportItemId": "",
+      "matchStatus": "",
+      "matchField": "",
+      "competitionName": "全运会",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
+      "competitionLogo": "",
+      "pkInfoTitle": "9点播游泳 覃海洋、张展硕出战",
+      "modifyTitle": "9点播游泳 覃海洋、张展硕出战",
+      "presenters": "",
+      "matchInfo": {
+        "time": "11月12日08:50"
+      },
+      "nodes": [
+        {
+          "pID": "960147222",
+          "name": "柳亚鹏"
+        },
+        {
+          "pID": "960146217",
+          "name": "综合信号"
+        },
+        {
+          "pID": "960146254",
+          "name": "全程视角"
+        },
+        {
+          "pID": "960146303",
+          "name": "轨道视角"
+        },
+        {
+          "pID": "960146331",
+          "name": "近景视角"
+        },
+        {
+          "pID": "960147247",
           "name": "赛场原声"
         }
       ]
