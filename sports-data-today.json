@@ -1,17 +1,17 @@
 {
   "success": true,
-  "updateTime": "2025-11-11 10:31:25",
+  "updateTime": "2025-11-11 11:01:37",
   "data": [
     {
       "mgdbId": "120000546686",
-      "pID": "960023282",
+      "pID": "960118755",
       "title": "NBA常规赛",
       "keyword": "11月11日08:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "安利中心",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/11/6V106TUPE6E6.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/11/6V1070M1M8K8.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "开拓者VS魔术",
       "modifyTitle": "NBA常规赛",
@@ -21,16 +21,16 @@
       },
       "nodes": [
         {
+          "pID": "960118755",
+          "name": "惩罚你的失误！贝恩高难度逆天超远三分压哨绝杀"
+        },
+        {
           "pID": "960023282",
           "name": "邵化谦 季孟年"
         },
         {
           "pID": "960023268",
           "name": "邢晨"
-        },
-        {
-          "pID": "960022995",
-          "name": "同看湖人"
         },
         {
           "pID": "960023148",
@@ -40,18 +40,18 @@
     },
     {
       "mgdbId": "120000546687",
-      "pID": "960022995",
+      "pID": "960118807",
       "title": "NBA常规赛",
       "keyword": "11月11日08:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "光谱中心",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/11/6V106UQGC6UN.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "湖人VS黄蜂",
       "modifyTitle": "NBA常规赛",
-      "presenters": "孙博 马健 曾令旭 郑泽鹏",
+      "presenters": "马健 曾令旭 孙博 郑泽鹏",
       "matchInfo": {
         "time": "11月11日08:00"
       },
@@ -1403,6 +1403,34 @@
         {
           "pID": "960111981",
           "name": "正面视角"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000560843",
+      "pID": "120000560843",
+      "title": "举重 女子55公斤级决赛：奥运名将黎雅君冲金",
+      "keyword": "11月11日14:50",
+      "sportItemId": "",
+      "matchStatus": "",
+      "matchField": "",
+      "competitionName": "全运会",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
+      "competitionLogo": "",
+      "pkInfoTitle": "举重 女子55公斤级决赛：奥运名将黎雅君冲金",
+      "modifyTitle": "举重第2比赛日 女子55公斤级决赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "11月11日14:50"
+      },
+      "nodes": [
+        {
+          "pID": "960111724",
+          "name": "邢天宇"
+        },
+        {
+          "pID": "960111798",
+          "name": "赛场原声"
         }
       ]
     },
