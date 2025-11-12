@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-11-12 22:01:51",
+  "updateTime": "2025-11-12 22:31:36",
   "data": [
     {
       "mgdbId": "120000546695",
@@ -304,7 +304,7 @@
       "title": "亚冠女足小组赛",
       "keyword": "11月12日20:30",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "图瓦纳青训球场",
       "competitionName": "亚冠女足",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000560374/202511071136_374591_H169_1080.webp",
@@ -380,7 +380,7 @@
       "title": "排球第11比赛日 男子U20决赛等",
       "keyword": "11月12日12:50",
       "sportItemId": "",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "全运会",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
@@ -548,7 +548,7 @@
       "title": "乒乓球 王楚钦勇闯七局 林诗栋逆转",
       "keyword": "11月12日17:55",
       "sportItemId": "",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "全运会",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
@@ -565,32 +565,12 @@
           "name": "1号桌"
         },
         {
-          "pID": "960144929",
-          "name": "周冠达 小马哥"
-        },
-        {
-          "pID": "960165488",
-          "name": "2号桌"
-        },
-        {
           "pID": "960165496",
           "name": "3号桌"
         },
         {
           "pID": "960165513",
           "name": "4号桌"
-        },
-        {
-          "pID": "960165563",
-          "name": "5号桌"
-        },
-        {
-          "pID": "960165588",
-          "name": "6号桌"
-        },
-        {
-          "pID": "960165607",
-          "name": "7号桌"
         },
         {
           "pID": "960146392",
@@ -603,6 +583,26 @@
         {
           "pID": "960146359",
           "name": "综合信号"
+        },
+        {
+          "pID": "960144929",
+          "name": "周冠达 小马哥"
+        },
+        {
+          "pID": "960165488",
+          "name": "2号桌"
+        },
+        {
+          "pID": "960165607",
+          "name": "7号桌"
+        },
+        {
+          "pID": "960165563",
+          "name": "5号桌"
+        },
+        {
+          "pID": "960165588",
+          "name": "6号桌"
         },
         {
           "pID": "960165628",
@@ -949,6 +949,10 @@
       },
       "nodes": [
         {
+          "pID": "960191255",
+          "name": "2025全运会全场回放：篮球女子U18 9-12名排位赛 浙江54-73重庆"
+        },
+        {
           "pID": "960146860",
           "name": "赛场原声"
         }
@@ -989,7 +993,7 @@
     {
       "mgdbId": "120000559001",
       "pID": "120000559001",
-      "title": "陈雨菲率浙江队取胜",
+      "title": "羽毛球 第6比赛日晚间场",
       "keyword": "11月12日18:50",
       "sportItemId": "",
       "matchStatus": "1",
@@ -997,7 +1001,7 @@
       "competitionName": "全运会",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
       "competitionLogo": "",
-      "pkInfoTitle": "陈雨菲率浙江队取胜",
+      "pkInfoTitle": "羽毛球 第6比赛日晚间场",
       "modifyTitle": "羽毛球 男子/女子团体半决赛",
       "presenters": "",
       "matchInfo": {
@@ -1405,7 +1409,7 @@
     {
       "mgdbId": "120000559375",
       "pID": "120000559375",
-      "title": "加时鏖战！正免费播男足广东湖北争金",
+      "title": "点球大战！正免费播男足广东湖北争金",
       "keyword": "11月12日19:30",
       "sportItemId": "",
       "matchStatus": "1",
@@ -1413,8 +1417,8 @@
       "competitionName": "全运会",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
       "competitionLogo": "",
-      "pkInfoTitle": "加时鏖战！正免费播男足广东湖北争金",
-      "modifyTitle": "加时鏖战！正免费播男足广东湖北争金",
+      "pkInfoTitle": "点球大战！正免费播男足广东湖北争金",
+      "modifyTitle": "点球大战！正免费播男足广东湖北争金",
       "presenters": "",
       "matchInfo": {
         "time": "11月12日19:30"
@@ -1464,7 +1468,7 @@
       "title": "举重女子71公斤级决赛",
       "keyword": "11月12日18:50",
       "sportItemId": "",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "全运会",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
