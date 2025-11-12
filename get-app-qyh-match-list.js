@@ -200,11 +200,11 @@ async function fetchFromURL(url) {
               // 判断比赛状态
               let matchStatus;
               if (currentHHMM < startTimeHHMM) {
-                matchStatus = 0; // 未开始
+                matchStatus = '0'; // 未开始
               } else if (currentHHMM > endTimeHHMM) {
-                matchStatus = 2; // 已结束
+                matchStatus = '2'; // 已结束
               } else {
-                matchStatus = 1; // 进行中
+                matchStatus = '1'; // 进行中
               }
               
               results.push({
