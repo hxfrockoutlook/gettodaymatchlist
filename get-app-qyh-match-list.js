@@ -87,133 +87,153 @@ async function fetchQuanyunhuiMatches() {
   console.log(`合并去重后共有 ${uniqueMatches.length} 场全运会比赛`);
   return uniqueMatches;
   
-  // 内部辅助函数：从单个URL获取数据
-  async function fetchFromURL(url) {
-    return new Promise((resolve, reject) => {
-      const options = {
-        headers: {
-          'Connection': 'keep-alive',
-          'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
-          'authority': new URL(url).hostname,
-          'referer': 'https://www.miguvideo.com/p/schedule/',
-          'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36'
-        }
-      };
+// 内部辅助函数：从单个URL获取数据
+async function fetchFromURL(url) {
+  return new Promise((resolve, reject) => {
+    const options = {
+      headers: {
+        'Connection': 'keep-alive',
+        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'authority': new URL(url).hostname,
+        'referer': 'https://www.miguvideo.com/p/schedule/',
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36'
+      }
+    };
+    
+    const req = https.get(url, options, (res) => {
+      if (res.statusCode !== 200) {
+        reject(new Error(`状态码错误: ${res.statusCode}`));
+        return;
+      }
       
-      const req = https.get(url, options, (res) => {
-        if (res.statusCode !== 200) {
-          reject(new Error(`状态码错误: ${res.statusCode}`));
-          return;
-        }
-        
-        let data = '';
-        res.on('data', (chunk) => {
-          data += chunk;
-        });
-        
-        res.on('end', () => {
-          try {
-            const htmlContent = data;
-            
-            // 正则匹配开头部分
-            const pattern = /{"name":"([^"\\]*(?:\\.[^"\\]*)*)"\s*,\s*"pID":"([^"\\]*(?:\\.[^"\\]*)*)"\s*,\s*"title":"([^"\\]*(?:\\.[^"\\]*)*)"/g;
-            const matches = [];
-            let match;
-            
-            while ((match = pattern.exec(htmlContent)) !== null) {
-              matches.push(match);
-            }
-            
-            if (matches.length === 0) {
-              reject(new Error('未找到任何 JSON 结构'));
-              return;
-            }
-            
-            const results = [];
-            const today = getShanghaiDate(); // 使用与主数据相同的今天日期
-            
-            for (const match of matches) {
-              const start = match.index;
-              let count = 0;
-              let end = -1;
-              
-              for (let i = start; i < htmlContent.length; i++) {
-                if (htmlContent[i] === '{') {
-                  count++;
-                } else if (htmlContent[i] === '}') {
-                  count--;
-                  if (count === 0) {
-                    end = i + 1;
-                    break;
-                  }
-                }
-              }
-              
-              if (end === -1) {
-                continue;
-              }
-              
-              const jsonStr = htmlContent.substring(start, end);
-              
-              try {
-                const m = JSON.parse(jsonStr);
-                const compName = m.competitionName;
-                
-                if (compName !== '全运会') {
-                  continue;
-                }
-                
-                const name = m.name || '';
-                const title = m.title || '';
-                const pID = m.pID || '';
-                const startTimeRaw = m.startTime || '';
-                
-                const keytime = parseKeyword(startTimeRaw);
-                
-                // 解析比赛日期（从keytime中提取YYYYMMDD格式）
-                const matchMonth = keytime.substring(0, 2);
-                const matchDay = keytime.substring(3, 5);
-                const matchYear = today.substring(0, 4); // 使用当前年份
-                const matchDate = `${matchYear}${matchMonth}${matchDay}`;
-                
-                // 关键判断：只保留"今天"的比赛
-                if (matchDate !== today) {
-                  continue; // 不是今天的 → 直接跳过！
-                }
-                
-                results.push({
-                  mgdbId: pID,
-                  keyword: keytime,
-                  pkInfoTitle: title,
-                  modifyTitle: name,
-                  title: title,
-                  competitionName: compName
-                });
-                
-              } catch (parseError) {
-                // 忽略JSON解析错误，继续处理下一个
-                continue;
-              }
-            }
-            
-            resolve(results);
-            
-          } catch (error) {
-            reject(new Error(`处理响应失败: ${error.message}`));
+      let data = '';
+      res.on('data', (chunk) => {
+        data += chunk;
+      });
+      
+      res.on('end', () => {
+        try {
+          const htmlContent = data;
+          
+          // 正则匹配开头部分
+          const pattern = /{"name":"([^"\\]*(?:\\.[^"\\]*)*)"\s*,\s*"pID":"([^"\\]*(?:\\.[^"\\]*)*)"\s*,\s*"title":"([^"\\]*(?:\\.[^"\\]*)*)"/g;
+          const matches = [];
+          let match;
+          
+          while ((match = pattern.exec(htmlContent)) !== null) {
+            matches.push(match);
           }
-        });
-      });
-      
-      req.on('error', (error) => {
-        reject(new Error(`请求失败: ${error.message}`));
-      });
-      
-      req.setTimeout(10000, () => {
-        req.destroy();
-        reject(new Error('请求超时'));
+          
+          if (matches.length === 0) {
+            reject(new Error('未找到任何 JSON 结构'));
+            return;
+          }
+          
+          const results = [];
+          const today = getShanghaiDate(); // 使用与主数据相同的今天日期
+          
+          for (const match of matches) {
+            const start = match.index;
+            let count = 0;
+            let end = -1;
+            
+            for (let i = start; i < htmlContent.length; i++) {
+              if (htmlContent[i] === '{') {
+                count++;
+              } else if (htmlContent[i] === '}') {
+                count--;
+                if (count === 0) {
+                  end = i + 1;
+                  break;
+                }
+              }
+            }
+            
+            if (end === -1) {
+              continue;
+            }
+            
+            const jsonStr = htmlContent.substring(start, end);
+            
+            try {
+              const m = JSON.parse(jsonStr);
+              const compName = m.competitionName;
+              
+              if (compName !== '全运会') {
+                continue;
+              }
+              
+              const name = m.name || '';
+              const title = m.title || '';
+              const pID = m.pID || '';
+              const startTimeRaw = m.startTime || '';
+              const endTimeRaw = m.endTime || '';
+              
+              const keytime = parseKeyword(startTimeRaw);
+              
+              // 解析比赛日期（从keytime中提取YYYYMMDD格式）
+              const matchMonth = keytime.substring(0, 2);
+              const matchDay = keytime.substring(3, 5);
+              const matchYear = today.substring(0, 4); // 使用当前年份
+              const matchDate = `${matchYear}${matchMonth}${matchDay}`;
+              
+              // 关键判断：只保留"今天"的比赛
+              if (matchDate !== today) {
+                continue; // 不是今天的 → 直接跳过！
+              }
+              
+              // 获取开始时间和结束时间的HH:MM格式
+              const startTimeHHMM = startTimeRaw.substring(8, 10) + ':' + startTimeRaw.substring(10, 12); // 提取HH:MM
+              const endTimeHHMM = endTimeRaw.substring(8, 10) + ':' + endTimeRaw.substring(10, 12); // 提取HH:MM
+              
+              // 获取当前时间的HH:MM格式
+              const now = new Date();
+              const currentHHMM = now.getHours().toString().padStart(2, '0') + ':' + 
+                                 now.getMinutes().toString().padStart(2, '0');
+              
+              // 判断比赛状态
+              let matchStatus;
+              if (currentHHMM < startTimeHHMM) {
+                matchStatus = 0; // 未开始
+              } else if (currentHHMM > endTimeHHMM) {
+                matchStatus = 2; // 已结束
+              } else {
+                matchStatus = 1; // 进行中
+              }
+              
+              results.push({
+                mgdbId: pID,
+                keyword: keytime,
+                pkInfoTitle: title,
+                modifyTitle: name,
+                title: title,
+                competitionName: compName,
+                matchStatus: matchStatus
+              });
+              
+            } catch (parseError) {
+              // 忽略JSON解析错误，继续处理下一个
+              continue;
+            }
+          }
+          
+          resolve(results);
+          
+        } catch (error) {
+          reject(new Error(`处理响应失败: ${error.message}`));
+        }
       });
     });
-  }
+    
+    req.on('error', (error) => {
+      reject(new Error(`请求失败: ${error.message}`));
+    });
+    
+    req.setTimeout(10000, () => {
+      req.destroy();
+      reject(new Error('请求超时'));
+    });
+  });
 }
 
 async function fetchWithRetry(url, options, maxRetries = 2) {
