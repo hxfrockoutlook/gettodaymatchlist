@@ -86,6 +86,7 @@ async function fetchQuanyunhuiMatches() {
   
   console.log(`合并去重后共有 ${uniqueMatches.length} 场全运会比赛`);
   return uniqueMatches;
+}
   
 // 内部辅助函数：从单个URL获取数据
 async function fetchFromURL(url) {
