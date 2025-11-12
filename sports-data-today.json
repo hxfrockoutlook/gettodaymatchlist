@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-11-12 09:31:23",
+  "updateTime": "2025-11-12 10:10:33",
   "data": [
     {
       "mgdbId": "120000546695",
@@ -128,7 +128,7 @@
       "title": "NBA常规赛",
       "keyword": "11月12日10:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "德尔塔中心球馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/11/6V104LMGIDF1.jpg",
@@ -283,6 +283,94 @@
       ]
     },
     {
+      "mgdbId": "120000559372",
+      "pID": "120000559372",
+      "title": "足球 男子20岁以下组7/8名决赛 新疆vs福建",
+      "keyword": "11月12日09:50",
+      "sportItemId": "",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "全运会",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
+      "competitionLogo": "",
+      "pkInfoTitle": "足球 男子20岁以下组7/8名决赛 新疆vs福建",
+      "modifyTitle": "足球 男子20岁以下组7/8名决赛 新疆vs福建",
+      "presenters": "",
+      "matchInfo": {
+        "time": "11月12日09:50"
+      },
+      "nodes": [
+        {
+          "pID": "960146659",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "960147367",
+          "name": "张天翼"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000559023",
+      "pID": "120000559023",
+      "title": "攀岩 第1比赛日",
+      "keyword": "11月12日09:55",
+      "sportItemId": "",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "全运会",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
+      "competitionLogo": "",
+      "pkInfoTitle": "攀岩 第1比赛日",
+      "modifyTitle": "攀岩 第1比赛日",
+      "presenters": "",
+      "matchInfo": {
+        "time": "11月12日09:55"
+      },
+      "nodes": [
+        {
+          "pID": "960142719",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "960142768",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "960146232",
+          "name": "综合信号"
+        },
+        {
+          "pID": "960146273",
+          "name": "全景视角"
+        },
+        {
+          "pID": "960146344",
+          "name": "近景视角1"
+        },
+        {
+          "pID": "960146370",
+          "name": "近景视角2"
+        },
+        {
+          "pID": "960146409",
+          "name": "综合信号"
+        },
+        {
+          "pID": "960146445",
+          "name": "全景视角"
+        },
+        {
+          "pID": "960146463",
+          "name": "近景视角1"
+        },
+        {
+          "pID": "960146484",
+          "name": "近景视角2"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000559016",
       "pID": "120000559016",
       "title": "乒乓球 王楚钦出战 林诗栋vs黄友政",
@@ -307,6 +395,10 @@
         {
           "pID": "960144945",
           "name": "1号桌"
+        },
+        {
+          "pID": "960146327",
+          "name": "热身场"
         },
         {
           "pID": "960146359",
@@ -339,13 +431,18 @@
       "matchInfo": {
         "time": "11月12日10:00"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "960146327",
+          "name": "热身场"
+        }
+      ]
     },
     {
       "mgdbId": "120000559015",
       "pID": "120000559015",
       "title": "乒乓球 孙颖莎冲八强 樊振东迎战薛飞",
-      "keyword": "11月12日09:50",
+      "keyword": "11月12日09:55",
       "sportItemId": "",
       "matchStatus": "1",
       "matchField": "",
@@ -356,7 +453,7 @@
       "modifyTitle": "乒乓球 成年组男女单1/8决赛等",
       "presenters": "",
       "matchInfo": {
-        "time": "11月12日09:50"
+        "time": "11月12日09:55"
       },
       "nodes": [
         {
@@ -1228,6 +1325,10 @@
       },
       "nodes": [
         {
+          "pID": "960143931",
+          "name": "CCTV5+"
+        },
+        {
           "pID": "960147222",
           "name": "柳亚鹏"
         },
@@ -1241,7 +1342,7 @@
         },
         {
           "pID": "960146303",
-          "name": "轨道视角"
+          "name": "轨��视角"
         },
         {
           "pID": "960146331",
@@ -1250,6 +1351,10 @@
         {
           "pID": "960147247",
           "name": "赛场原声"
+        },
+        {
+          "pID": "960146303",
+          "name": "轨道视角"
         }
       ]
     },
