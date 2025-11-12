@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-11-12 19:01:50",
+  "updateTime": "2025-11-12 19:31:38",
   "data": [
     {
       "mgdbId": "120000546695",
@@ -199,30 +199,6 @@
       ]
     },
     {
-      "mgdbId": "120000560846",
-      "pID": "960146746",
-      "title": "上海U20 vs 山东U20",
-      "keyword": "11月12日16:00",
-      "sportItemId": "1",
-      "matchStatus": "2",
-      "matchField": "深圳宝安体育中心体育场",
-      "competitionName": "足球智能观赛",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000560846/202511121815_229684_H169_1080.webp",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/11/10/100000001368106ae06f.jpg",
-      "pkInfoTitle": "上海U20 vs 山东U20",
-      "modifyTitle": "全运足球男子U20铜牌赛 上海vs山东（智能观赛）",
-      "presenters": "",
-      "matchInfo": {
-        "time": "11月12日16:00"
-      },
-      "nodes": [
-        {
-          "pID": "960146700",
-          "name": "2025年全运会足球: 足球 男子U20 铜牌赛 上海v山东（赛场原声）"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000560375",
       "pID": "960014367",
       "title": "亚冠女足小组赛",
@@ -417,8 +393,12 @@
       },
       "nodes": [
         {
-          "pID": "960146172",
-          "name": "女子U18 重庆vs四川"
+          "pID": "960146206",
+          "name": "女子成年组 辽宁vs上海"
+        },
+        {
+          "pID": "960146374",
+          "name": "女子成年组 云南vs四川"
         },
         {
           "pID": "960146127",
@@ -443,14 +423,6 @@
         {
           "pID": "960146110",
           "name": "男子成年组 广东vs河北"
-        },
-        {
-          "pID": "960146206",
-          "name": "女子成年组 辽宁vs上海"
-        },
-        {
-          "pID": "960146374",
-          "name": "女子成年组 云南vs四川"
         }
       ]
     },
@@ -1037,24 +1009,8 @@
           "name": "孙宁智"
         },
         {
-          "pID": "960147371",
-          "name": "综合信号"
-        },
-        {
-          "pID": "960147406",
-          "name": "运动员视角1"
-        },
-        {
-          "pID": "960147429",
-          "name": "运动员视角2"
-        },
-        {
           "pID": "960147467",
           "name": "邵凌霄"
-        },
-        {
-          "pID": "960147473",
-          "name": "网口视角"
         },
         {
           "pID": "960147538",
@@ -1071,6 +1027,22 @@
         {
           "pID": "960167231",
           "name": "4号场"
+        },
+        {
+          "pID": "960147371",
+          "name": "综合信号"
+        },
+        {
+          "pID": "960147406",
+          "name": "运动员视角1"
+        },
+        {
+          "pID": "960147429",
+          "name": "运动员视角2"
+        },
+        {
+          "pID": "960147473",
+          "name": "网口视角"
         }
       ]
     },
@@ -1165,6 +1137,10 @@
       },
       "nodes": [
         {
+          "pID": "960190300",
+          "name": "2025全运会全场集锦：篮球男子U18小组赛II组 辽宁75-79浙江"
+        },
+        {
           "pID": "960143737",
           "name": "赛场原声"
         },
@@ -1204,6 +1180,10 @@
         "time": "11月12日16:20"
       },
       "nodes": [
+        {
+          "pID": "960188883",
+          "name": "2025全运会全场回放：篮球男子U18小组赛II组 湖南69-92上海（薛思佳）"
+        },
         {
           "pID": "960143629",
           "name": "薛思佳"
@@ -1260,6 +1240,10 @@
         "time": "11月12日16:50"
       },
       "nodes": [
+        {
+          "pID": "960189986",
+          "name": "2025全运会全场集锦：篮球男子U22小组赛Ⅰ组 山东84-67辽宁"
+        },
         {
           "pID": "960145439",
           "name": "荣浩达"
@@ -1320,7 +1304,7 @@
       "title": "篮球女子18岁以下组半决赛广东VS江苏",
       "keyword": "11月12日19:20",
       "sportItemId": "",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "全运会",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
@@ -1532,7 +1516,7 @@
       "title": "足球 男子U20组金牌赛 广东vs湖北",
       "keyword": "11月12日19:30",
       "sportItemId": "",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "全运会",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
@@ -1614,9 +1598,9 @@
       "mgdbId": "120000560801",
       "pID": "120000560801",
       "title": "垒球第3比赛日",
-      "keyword": "11月12日08:48",
+      "keyword": "11月12日18:45",
       "sportItemId": "",
-      "matchStatus": "2",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "全运会",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
@@ -1625,7 +1609,7 @@
       "modifyTitle": "垒球第3比赛日",
       "presenters": "",
       "matchInfo": {
-        "time": "11月12日08:48"
+        "time": "11月12日18:45"
       },
       "nodes": [
         {
