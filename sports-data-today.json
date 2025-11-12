@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-11-12 12:31:39",
+  "updateTime": "2025-11-12 13:01:45",
   "data": [
     {
       "mgdbId": "120000546695",
@@ -136,11 +136,11 @@
     },
     {
       "mgdbId": "120000546699",
-      "pID": "960027576",
+      "pID": "960159670",
       "title": "NBA常规赛",
       "keyword": "11月12日10:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "德尔塔中心球馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/12/6V114ISM44A8.jpg",
@@ -152,6 +152,10 @@
         "time": "11月12日10:00"
       },
       "nodes": [
+        {
+          "pID": "960159670",
+          "name": "这也能进？小乔治对抗后仰中距离高难度命中"
+        },
         {
           "pID": "960027576",
           "name": "姜帆"
@@ -201,7 +205,7 @@
       "competitionName": "亚冠女足",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000560375/202511071138_352299_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/9/1000000013211060eb7f.png",
-      "pkInfoTitle": "伊斯佩女足 vs 东京绿茵美人",
+      "pkInfoTitle": "体育体教学院 vs 东京绿茵美人",
       "modifyTitle": "亚冠女足小组赛",
       "presenters": "沈云怡",
       "matchInfo": {
@@ -277,7 +281,7 @@
       "competitionName": "亚冠女足",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000560374/202511071136_374591_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/9/1000000013211060eb7f.png",
-      "pkInfoTitle": "Naegohyang vs 水原FMC",
+      "pkInfoTitle": "故乡 vs 水原",
       "modifyTitle": "亚冠女足小组赛",
       "presenters": "胡小凡",
       "matchInfo": {
@@ -629,20 +633,16 @@
       },
       "nodes": [
         {
-          "pID": "960144906",
-          "name": "周泽昊（一号桌）"
-        },
-        {
           "pID": "960147322",
           "name": "肖扬（四号桌）"
         },
         {
-          "pID": "960144867",
-          "name": "1号桌"
+          "pID": "960144906",
+          "name": "周泽昊（一号桌）"
         },
         {
-          "pID": "960146327",
-          "name": "热身场"
+          "pID": "960148424",
+          "name": "6号桌"
         },
         {
           "pID": "960148319",
@@ -653,24 +653,28 @@
           "name": "3号桌"
         },
         {
-          "pID": "960148343",
-          "name": "4号桌"
-        },
-        {
           "pID": "960148381",
           "name": "5号桌"
         },
         {
-          "pID": "960148424",
-          "name": "6号桌"
+          "pID": "960146327",
+          "name": "热身场"
+        },
+        {
+          "pID": "960148513",
+          "name": "9号桌"
         },
         {
           "pID": "960148462",
           "name": "7号桌"
         },
         {
-          "pID": "960148513",
-          "name": "9号桌"
+          "pID": "960148343",
+          "name": "4号桌"
+        },
+        {
+          "pID": "960144867",
+          "name": "1号桌"
         },
         {
           "pID": "960146246",
@@ -689,7 +693,7 @@
     {
       "mgdbId": "120000556092",
       "pID": "120000556092",
-      "title": "篮球男子成年组12-14名排位赛 第3场",
+      "title": "篮球男子成年组12-14名排位赛 吉林102-88湖北",
       "keyword": "11月12日09:50",
       "sportItemId": "",
       "matchStatus": "1",
@@ -697,7 +701,7 @@
       "competitionName": "全运会",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
       "competitionLogo": "",
-      "pkInfoTitle": "篮球男子成年组12-14名排位赛 第3场",
+      "pkInfoTitle": "篮球男子成年组12-14名排位赛 吉林102-88湖北",
       "modifyTitle": "篮球男子成年组12-14排位赛 吉林vs湖北",
       "presenters": "",
       "matchInfo": {
