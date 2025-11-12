@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-11-12 21:31:46",
+  "updateTime": "2025-11-12 22:01:51",
   "data": [
     {
       "mgdbId": "120000546695",
@@ -232,7 +232,7 @@
       "title": "优雅天使杯day1",
       "keyword": "11月12日16:30",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "“优雅天使杯”国际艺术体操锦标赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/07/6V0SI6A03SGA.jpg",
@@ -508,7 +508,7 @@
       "title": "攀岩 第1比赛日",
       "keyword": "11月12日17:25",
       "sportItemId": "",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "全运会",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
@@ -545,7 +545,7 @@
     {
       "mgdbId": "120000559016",
       "pID": "120000559016",
-      "title": "乒乓球 王楚钦出战 林诗栋vs黄友政",
+      "title": "乒乓球 王楚钦勇闯七局 林诗栋逆转",
       "keyword": "11月12日17:55",
       "sportItemId": "",
       "matchStatus": "1",
@@ -553,13 +553,17 @@
       "competitionName": "全运会",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
       "competitionLogo": "",
-      "pkInfoTitle": "乒乓球 王楚钦出战 林诗栋vs黄友政",
+      "pkInfoTitle": "乒乓球 王楚钦勇闯七局 林诗栋逆转",
       "modifyTitle": "乒乓球 成年组男女单1/8决赛等",
       "presenters": "",
       "matchInfo": {
         "time": "11月12日17:55"
       },
       "nodes": [
+        {
+          "pID": "960144945",
+          "name": "1号桌"
+        },
         {
           "pID": "960144929",
           "name": "周冠达 小马哥"
@@ -573,24 +577,8 @@
           "name": "3号桌"
         },
         {
-          "pID": "960144945",
-          "name": "1号桌"
-        },
-        {
-          "pID": "960165607",
-          "name": "7号桌"
-        },
-        {
           "pID": "960165513",
           "name": "4号桌"
-        },
-        {
-          "pID": "960146327",
-          "name": "热身场"
-        },
-        {
-          "pID": "960165628",
-          "name": "8号桌"
         },
         {
           "pID": "960165563",
@@ -601,8 +589,8 @@
           "name": "6号桌"
         },
         {
-          "pID": "960165661",
-          "name": "9号桌"
+          "pID": "960165607",
+          "name": "7号桌"
         },
         {
           "pID": "960146392",
@@ -615,6 +603,18 @@
         {
           "pID": "960146359",
           "name": "综合信号"
+        },
+        {
+          "pID": "960165628",
+          "name": "8号桌"
+        },
+        {
+          "pID": "960165661",
+          "name": "9号桌"
+        },
+        {
+          "pID": "960146327",
+          "name": "热身场"
         }
       ]
     },
@@ -805,8 +805,8 @@
       },
       "nodes": [
         {
-          "pID": "960158252",
-          "name": "2025全运会回放：三人篮球男子小组赛C组 江苏17-20广东"
+          "pID": "960164802",
+          "name": "2025全运会全场回放：三人篮球第1比赛日 上午场（李月擎、周钰波）"
         },
         {
           "pID": "960142853",
@@ -989,7 +989,7 @@
     {
       "mgdbId": "120000559001",
       "pID": "120000559001",
-      "title": "羽毛球 第6比赛日晚间场",
+      "title": "陈雨菲率浙江队取胜",
       "keyword": "11月12日18:50",
       "sportItemId": "",
       "matchStatus": "1",
@@ -997,7 +997,7 @@
       "competitionName": "全运会",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
       "competitionLogo": "",
-      "pkInfoTitle": "羽毛球 第6比赛日晚间场",
+      "pkInfoTitle": "陈雨菲率浙江队取胜",
       "modifyTitle": "羽毛球 男子/女子团体半决赛",
       "presenters": "",
       "matchInfo": {
@@ -1005,16 +1005,8 @@
       },
       "nodes": [
         {
-          "pID": "960147467",
-          "name": "邵凌霄"
-        },
-        {
           "pID": "960147538",
           "name": "1号场"
-        },
-        {
-          "pID": "960167169",
-          "name": "3号场"
         },
         {
           "pID": "960167231",
@@ -1196,7 +1188,7 @@
       "title": "三人篮球第1比赛日晚间场 王哲林完美发挥",
       "keyword": "11月12日16:20",
       "sportItemId": "",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "全运会",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
@@ -1256,7 +1248,7 @@
       "title": "篮球男子成年组金牌赛 浙江65-101广东",
       "keyword": "11月12日18:20",
       "sportItemId": "",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "全运会",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
@@ -1268,6 +1260,10 @@
         "time": "11月12日18:20"
       },
       "nodes": [
+        {
+          "pID": "960195266",
+          "name": "2025全运会全场集锦：篮球男子成年组金牌赛 浙江65-101广东"
+        },
         {
           "pID": "960147236",
           "name": "呼叫我的球搭子"
@@ -1385,7 +1381,7 @@
     {
       "mgdbId": "120000556134",
       "pID": "120000556134",
-      "title": "篮球男子22岁以下组小组赛 湖北vs福建",
+      "title": "篮球男子22岁以下组小组赛 湖北85-102福建",
       "keyword": "11月12日19:50",
       "sportItemId": "",
       "matchStatus": "2",
@@ -1393,7 +1389,7 @@
       "competitionName": "全运会",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
       "competitionLogo": "",
-      "pkInfoTitle": "篮球男子22岁以下组小组赛 湖北vs福建",
+      "pkInfoTitle": "篮球男子22岁以下组小组赛 湖北85-102福建",
       "modifyTitle": "篮球男子22岁以下组小组赛 湖北vs福建",
       "presenters": "",
       "matchInfo": {
@@ -1409,7 +1405,7 @@
     {
       "mgdbId": "120000559375",
       "pID": "120000559375",
-      "title": "钟文点射！正免费播男足广东领先湖北",
+      "title": "加时鏖战！正免费播男足广东湖北争金",
       "keyword": "11月12日19:30",
       "sportItemId": "",
       "matchStatus": "1",
@@ -1417,8 +1413,8 @@
       "competitionName": "全运会",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
       "competitionLogo": "",
-      "pkInfoTitle": "钟文点射！正免费播男足广东领先湖北",
-      "modifyTitle": "钟文点射！正免费播男足广东领先湖北",
+      "pkInfoTitle": "加时鏖战！正免费播男足广东湖北争金",
+      "modifyTitle": "加时鏖战！正免费播男足广东湖北争金",
       "presenters": "",
       "matchInfo": {
         "time": "11月12日19:30"
@@ -1552,7 +1548,7 @@
       "title": "垒球第3比赛日",
       "keyword": "11月12日18:45",
       "sportItemId": "",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "全运会",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
@@ -1576,7 +1572,7 @@
       "title": "棒球第1比赛日",
       "keyword": "11月12日08:48",
       "sportItemId": "",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "全运会",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
