@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-11-12 17:01:38",
+  "updateTime": "2025-11-12 17:31:44",
   "data": [
     {
       "mgdbId": "120000546695",
@@ -209,7 +209,7 @@
       "competitionName": "足球智能观赛",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/11/10/100000001368106ae06f.jpg",
-      "pkInfoTitle": "上海U20 vs 山东U20",
+      "pkInfoTitle": "全运足球男子U20铜牌赛 上海vs山东（智能观赛）",
       "modifyTitle": "全运足球男子U20铜牌赛 上海vs山东（智能观赛）",
       "presenters": "",
       "matchInfo": {
@@ -353,7 +353,7 @@
     {
       "mgdbId": "120000559000",
       "pID": "120000559000",
-      "title": "羽毛球 王祉怡率湖北队迎战江西队",
+      "title": "王祉怡率湖北3-1战胜江西",
       "keyword": "11月12日13:55",
       "sportItemId": "",
       "matchStatus": "1",
@@ -361,7 +361,7 @@
       "competitionName": "全运会",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
       "competitionLogo": "",
-      "pkInfoTitle": "羽毛球 王祉怡率湖北队迎战江西队",
+      "pkInfoTitle": "王祉怡率湖北3-1战胜江西",
       "modifyTitle": "羽毛球 男子/女子团体5-8名附加赛",
       "presenters": "",
       "matchInfo": {
@@ -371,14 +371,6 @@
         {
           "pID": "960147603",
           "name": "1号场"
-        },
-        {
-          "pID": "960148086",
-          "name": "2号场"
-        },
-        {
-          "pID": "960148101",
-          "name": "3号场"
         },
         {
           "pID": "960149162",
@@ -395,6 +387,14 @@
         {
           "pID": "960147355",
           "name": "网口视角"
+        },
+        {
+          "pID": "960148086",
+          "name": "2号场"
+        },
+        {
+          "pID": "960148101",
+          "name": "3号场"
         }
       ]
     },
@@ -417,16 +417,20 @@
       },
       "nodes": [
         {
-          "pID": "960145463",
-          "name": "男子U18 河南vs福建"
-        },
-        {
           "pID": "960145537",
           "name": "男子U18 辽宁vs山西"
         },
         {
+          "pID": "960145463",
+          "name": "男子U18 河南vs福建"
+        },
+        {
           "pID": "960146172",
           "name": "女子U18 重庆vs四川"
+        },
+        {
+          "pID": "960145815",
+          "name": "男子U20 3-4名决赛"
         },
         {
           "pID": "960146127",
@@ -439,10 +443,6 @@
         {
           "pID": "960145673",
           "name": "男子U18 上海vs广东"
-        },
-        {
-          "pID": "960145815",
-          "name": "男子U20 3-4名决赛"
         },
         {
           "pID": "960145923",
@@ -564,7 +564,7 @@
       "title": "攀岩 第1比赛日",
       "keyword": "11月12日17:25",
       "sportItemId": "",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "全运会",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
@@ -701,7 +701,7 @@
     {
       "mgdbId": "120000559015",
       "pID": "120000559015",
-      "title": "乒乓球 孙颖莎4-1晋级 樊振东力克薛飞",
+      "title": "乒乓球 孙颖莎、樊振东晋级 陈梦4-0何卓佳",
       "keyword": "11月12日09:55",
       "sportItemId": "",
       "matchStatus": "2",
@@ -709,7 +709,7 @@
       "competitionName": "全运会",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
       "competitionLogo": "",
-      "pkInfoTitle": "乒乓球 孙颖莎4-1晋级 樊振东力克薛飞",
+      "pkInfoTitle": "乒乓球 孙颖莎、樊振东晋级 陈梦4-0何卓佳",
       "modifyTitle": "乒乓球 成年组男女单1/8决赛等",
       "presenters": "",
       "matchInfo": {
