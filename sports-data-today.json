@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-11-12 16:01:52",
+  "updateTime": "2025-11-12 16:32:57",
   "data": [
     {
       "mgdbId": "120000546695",
@@ -201,7 +201,7 @@
     {
       "mgdbId": "120000560846",
       "pID": "960146746",
-      "title": "上海U20 vs 山东U20",
+      "title": "全运足球男子U20铜牌赛 上海vs山东（智能观赛）",
       "keyword": "11月12日16:00",
       "sportItemId": "1",
       "matchStatus": "1",
@@ -209,13 +209,18 @@
       "competitionName": "足球智能观赛",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/11/10/100000001368106ae06f.jpg",
-      "pkInfoTitle": "上海U20 vs 山东U20",
-      "modifyTitle": "足球智能观赛3rd Place Final",
+      "pkInfoTitle": "全运足球男子U20铜牌赛 上海vs山东（智能观赛）",
+      "modifyTitle": "全运足球男子U20铜牌赛 上海vs山东（智能观赛）",
       "presenters": "",
       "matchInfo": {
         "time": "11月12日16:00"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "960146700",
+          "name": "2025年全运会足球: 足球 男子U20 铜牌赛 上海v山东（赛场原声）"
+        }
+      ]
     },
     {
       "mgdbId": "120000560375",
@@ -223,7 +228,7 @@
       "title": "亚冠女足小组赛",
       "keyword": "11月12日16:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "图瓦纳青训球场",
       "competitionName": "亚冠女足",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000560375/202511071138_352299_H169_1080.webp",
@@ -251,7 +256,7 @@
       "title": "优雅天使杯day1",
       "keyword": "11月12日16:30",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "“优雅天使杯”国际艺术体操锦标赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/07/6V0SI6A03SGA.jpg",
@@ -278,7 +283,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "东亚超级联赛",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/12/6V1127KKFP3D.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/10/3/100000001347106aef35.png",
       "pkInfoTitle": "首尔SK骑士vs香港东方",
       "modifyTitle": "东亚超级联赛",
@@ -296,7 +301,7 @@
     {
       "mgdbId": "120000560845",
       "pID": "960143262",
-      "title": "广东U20 vs 湖北U20",
+      "title": "全运足球男子U20金牌赛 广东vs湖北（智能观赛）",
       "keyword": "11月12日19:45",
       "sportItemId": "1",
       "matchStatus": "0",
@@ -304,13 +309,18 @@
       "competitionName": "足球智能观赛",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/11/10/100000001368106ae06f.jpg",
-      "pkInfoTitle": "广东U20 vs 湖北U20",
-      "modifyTitle": "足球智能观赛Final",
+      "pkInfoTitle": "全运足球男子U20金牌赛 广东vs湖北（智能观赛）",
+      "modifyTitle": "全运足球男子U20金牌赛 广东vs湖北（智能观���）",
       "presenters": "",
       "matchInfo": {
         "time": "11月12日19:45"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "960143307",
+          "name": "2025年全运会足球: 足球 男子U20金牌赛 广东vs湖北（赛场原声）"
+        }
+      ]
     },
     {
       "mgdbId": "120000560374",
@@ -407,8 +417,12 @@
       },
       "nodes": [
         {
-          "pID": "960145952",
-          "name": "男子U20 湖北vs澳门"
+          "pID": "960145463",
+          "name": "男子U18 河南vs福建"
+        },
+        {
+          "pID": "960145537",
+          "name": "男子U18 辽宁vs山西"
         },
         {
           "pID": "960146172",
@@ -417,14 +431,6 @@
         {
           "pID": "960146127",
           "name": "女子U18 江苏vs广东"
-        },
-        {
-          "pID": "960145537",
-          "name": "男子U18 辽宁vs山西"
-        },
-        {
-          "pID": "960145463",
-          "name": "男子U18 河南vs福建"
         },
         {
           "pID": "960145572",
@@ -579,26 +585,6 @@
           "name": "赛场原声"
         },
         {
-          "pID": "960142719",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "960146232",
-          "name": "综合信号"
-        },
-        {
-          "pID": "960146273",
-          "name": "全景视角"
-        },
-        {
-          "pID": "960146344",
-          "name": "近景视角1"
-        },
-        {
-          "pID": "960146370",
-          "name": "近景视角2"
-        },
-        {
           "pID": "960146409",
           "name": "综合信号"
         },
@@ -635,16 +621,16 @@
       },
       "nodes": [
         {
-          "pID": "960144945",
-          "name": "1号桌"
-        },
-        {
           "pID": "960144929",
           "name": "周冠达 小马哥"
         },
         {
           "pID": "960146327",
           "name": "热身场"
+        },
+        {
+          "pID": "960144945",
+          "name": "1号桌"
         },
         {
           "pID": "960165488",
@@ -1047,6 +1033,10 @@
       },
       "nodes": [
         {
+          "pID": "960166717",
+          "name": "2025全运会全场集锦：篮球男子U22小组赛II组 广东155-69江西"
+        },
+        {
           "pID": "960144118",
           "name": "张泽欣"
         },
@@ -1101,6 +1091,18 @@
         {
           "pID": "960147538",
           "name": "1号场"
+        },
+        {
+          "pID": "960167101",
+          "name": "2号场"
+        },
+        {
+          "pID": "960167169",
+          "name": "3号场"
+        },
+        {
+          "pID": "960167231",
+          "name": "4号场"
         }
       ]
     },
@@ -1178,7 +1180,7 @@
       "title": "篮球男子18岁以下组小组赛 辽宁vs浙江",
       "keyword": "11月12日16:20",
       "sportItemId": "",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "全运会",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
@@ -1218,7 +1220,7 @@
       "title": "篮球男子18岁以下组小组赛 湖南vs上海",
       "keyword": "11月12日16:20",
       "sportItemId": "",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "全运会",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
@@ -1246,7 +1248,7 @@
       "title": "三人篮球第1比赛日晚间场 王哲林张宁出战",
       "keyword": "11月12日16:20",
       "sportItemId": "",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "全运会",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
