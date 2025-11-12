@@ -188,7 +188,7 @@ async function fetchQuanyunhuiMatches() {
                   modifyTitle: name,
                   title: title,
                   competitionName: compName,
-                  matchStatus: 1
+                  matchStatus: '1'
                 });
                 
               } catch (parseError) {
