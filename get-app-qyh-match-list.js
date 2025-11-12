@@ -186,10 +186,16 @@ async function fetchFromURL(url) {
               const startTimeHHMM = startTimeRaw.substring(8, 10) + ':' + startTimeRaw.substring(10, 12); // 提取HH:MM
               const endTimeHHMM = endTimeRaw.substring(8, 10) + ':' + endTimeRaw.substring(10, 12); // 提取HH:MM
               
-              // 获取当前时间的HH:MM格式
+              // 获取当前时间的HH:MM格式（上海时间）
+              const shanghaiTime = getShanghaiTime(); // 使用已有的上海时间函数
+              const currentHHMM = shanghaiTime.substring(11, 16); // 提取HH:MM部分
+
+              // 获取当前时间的HH:MM格式（上海时间）
+              /*
               const now = new Date();
-              const currentHHMM = now.getHours().toString().padStart(2, '0') + ':' + 
-                                 now.getMinutes().toString().padStart(2, '0');
+              const shanghaiTime = new Date(now.getTime() + 8 * 60 * 60 * 1000);
+              const currentHHMM = shanghaiTime.getUTCHours().toString().padStart(2, '0') + ':' + 
+                                 shanghaiTime.getUTCMinutes().toString().padStart(2, '0'); */
               
               // 判断比赛状态
               let matchStatus;
@@ -406,7 +412,7 @@ async function fetchAndProcessData() {
           title: qyhMatch.title,
           keyword: qyhMatch.keyword,
           sportItemId: "", // 全运会数据中可能没有这个字段
-          matchStatus: "1", // 全运会数据中可能没有这个字段
+          matchStatus: qyhMatch.matchStatus, // 全运会数据中可能没有这个字段
           matchField: "",
           competitionName: qyhMatch.competitionName,
           padImg: "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp", // 固定图片
