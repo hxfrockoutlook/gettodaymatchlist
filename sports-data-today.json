@@ -1,17 +1,17 @@
 {
   "success": true,
-  "updateTime": "2025-11-12 11:01:38",
+  "updateTime": "2025-11-12 11:31:26",
   "data": [
     {
       "mgdbId": "120000546695",
-      "pID": "960024453",
+      "pID": "960156945",
       "title": "NBA常规赛",
       "keyword": "11月12日08:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "巴克莱中心",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/11/6V104L6HIGJA.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/12/6V1149EQGR8R.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "猛龙VS篮网",
       "modifyTitle": "NBA常规赛",
@@ -32,11 +32,11 @@
     },
     {
       "mgdbId": "120000546696",
-      "pID": "960024542",
+      "pID": "960155681",
       "title": "NBA常规赛",
       "keyword": "11月12日08:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "麦迪逊广场花园",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/12/6V1144I6ADG7.jpg",
@@ -685,7 +685,7 @@
     {
       "mgdbId": "120000556092",
       "pID": "120000556092",
-      "title": "篮球男子成年组12-14名排位赛 第3场",
+      "title": "篮球男子成年组12-14名排位赛 吉林102-88湖北",
       "keyword": "11月12日09:50",
       "sportItemId": "",
       "matchStatus": "1",
@@ -693,7 +693,7 @@
       "competitionName": "全运会",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
       "competitionLogo": "",
-      "pkInfoTitle": "篮球男子成年组12-14名排位赛 第3场",
+      "pkInfoTitle": "篮球男子成年组12-14名排位赛 吉林102-88湖北",
       "modifyTitle": "篮球男子成年组12-14排位赛 吉林vs湖北",
       "presenters": "",
       "matchInfo": {
@@ -1415,49 +1415,29 @@
       ]
     },
     {
-      "mgdbId": "120000558996",
-      "pID": "120000558996",
-      "title": "正播游泳多项预赛 覃海洋张展硕出战",
-      "keyword": "11月12日08:50",
+      "mgdbId": "120000558302",
+      "pID": "120000558302",
+      "title": "举重第3日 何仁秀冲女子71公斤级金牌",
+      "keyword": "11月12日18:50",
       "sportItemId": "",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "全运会",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
       "competitionLogo": "",
-      "pkInfoTitle": "正播游泳多项预赛 覃海洋张展硕出战",
-      "modifyTitle": "正播游泳多项预赛 覃海洋张展硕出战",
+      "pkInfoTitle": "举重第3日 何仁秀冲女子71公斤级金牌",
+      "modifyTitle": "举重第3日 何仁秀冲女子71公斤级金牌",
       "presenters": "",
       "matchInfo": {
-        "time": "11月12日08:50"
+        "time": "11月12日18:50"
       },
       "nodes": [
         {
-          "pID": "960143931",
-          "name": "CCTV5+"
+          "pID": "960142729",
+          "name": "邢天宇"
         },
         {
-          "pID": "960147222",
-          "name": "柳亚鹏"
-        },
-        {
-          "pID": "960146217",
-          "name": "综合信号"
-        },
-        {
-          "pID": "960146254",
-          "name": "全程视角"
-        },
-        {
-          "pID": "960146303",
-          "name": "轨道视角"
-        },
-        {
-          "pID": "960146331",
-          "name": "近景视角"
-        },
-        {
-          "pID": "960147247",
+          "pID": "960142703",
           "name": "赛场原声"
         }
       ]
@@ -1666,6 +1646,50 @@
       "nodes": [
         {
           "pID": "960142809",
+          "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000558996",
+      "pID": "120000558996",
+      "title": "游泳 覃海洋、张展硕晋级决赛",
+      "keyword": "11月12日08:50",
+      "sportItemId": "",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "全运会",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
+      "competitionLogo": "",
+      "pkInfoTitle": "游泳 覃海洋、张展硕晋级决赛",
+      "modifyTitle": "游泳 第3比赛日早场",
+      "presenters": "",
+      "matchInfo": {
+        "time": "11月12日08:50"
+      },
+      "nodes": [
+        {
+          "pID": "960147222",
+          "name": "柳亚鹏"
+        },
+        {
+          "pID": "960146217",
+          "name": "综合信号"
+        },
+        {
+          "pID": "960146254",
+          "name": "全程视角"
+        },
+        {
+          "pID": "960146303",
+          "name": "轨道视角"
+        },
+        {
+          "pID": "960146331",
+          "name": "近景视角"
+        },
+        {
+          "pID": "960147247",
           "name": "赛场原声"
         }
       ]
