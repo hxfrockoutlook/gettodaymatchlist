@@ -187,8 +187,7 @@ async function fetchQuanyunhuiMatches() {
                   pkInfoTitle: title,
                   modifyTitle: name,
                   title: title,
-                  competitionName: compName,
-                  matchStatus: '1'
+                  competitionName: compName
                 });
                 
               } catch (parseError) {
@@ -387,7 +386,7 @@ async function fetchAndProcessData() {
           title: qyhMatch.title,
           keyword: qyhMatch.keyword,
           sportItemId: "", // 全运会数据中可能没有这个字段
-          matchStatus: "", // 全运会数据中可能没有这个字段
+          matchStatus: "1", // 全运会数据中可能没有这个字段
           matchField: "",
           competitionName: qyhMatch.competitionName,
           padImg: "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp", // 固定图片
