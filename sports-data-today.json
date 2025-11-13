@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-11-13 09:31:54",
+  "updateTime": "2025-11-13 10:01:27",
   "data": [
     {
       "mgdbId": "120000546701",
@@ -540,7 +540,7 @@
       "title": "网球 布云朝克特、张之臻率先登场",
       "keyword": "11月13日09:50",
       "sportItemId": "",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "全运会",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
@@ -565,14 +565,6 @@
           "name": "赛场原声"
         },
         {
-          "pID": "960193420",
-          "name": "乔迁"
-        },
-        {
-          "pID": "960193179",
-          "name": "乔迁"
-        },
-        {
           "pID": "960192302",
           "name": "综合信号"
         },
@@ -587,6 +579,14 @@
         {
           "pID": "960192442",
           "name": "运动员视角2"
+        },
+        {
+          "pID": "960193420",
+          "name": "乔迁"
+        },
+        {
+          "pID": "960193179",
+          "name": "乔迁"
         }
       ]
     },
@@ -636,7 +636,7 @@
       "title": "篮球男子22岁以下组小组赛 四川vs上海",
       "keyword": "11月13日09:50",
       "sportItemId": "",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "全运会",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
@@ -664,7 +664,7 @@
       "title": "三人篮球第2比赛日上午场 王哲林战张宁",
       "keyword": "11月13日09:50",
       "sportItemId": "",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "全运会",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
@@ -1358,7 +1358,7 @@
       "title": "乒乓球 第7比赛日热身场",
       "keyword": "11月13日09:55",
       "sportItemId": "",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "全运会",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
@@ -1382,7 +1382,7 @@
       "title": "林高远/刘诗雯冲决赛 樊振东出战",
       "keyword": "11月13日09:50",
       "sportItemId": "",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "全运会",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
@@ -1449,6 +1449,30 @@
         {
           "pID": "960205141",
           "name": "4号桌"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000559018",
+      "pID": "120000559018",
+      "title": "摔跤第4比赛日 多项古典跤1/8决赛",
+      "keyword": "11月13日09:55",
+      "sportItemId": "",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "全运会",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
+      "competitionLogo": "",
+      "pkInfoTitle": "摔跤第4比赛日 多项古典跤1/8决赛",
+      "modifyTitle": "摔跤第4比赛日 多项古典跤1/8决赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "11月13日09:55"
+      },
+      "nodes": [
+        {
+          "pID": "960196003",
+          "name": "赛场原声"
         }
       ]
     },
