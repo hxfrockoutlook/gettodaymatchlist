@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-11-13 19:31:56",
+  "updateTime": "2025-11-13 20:01:49",
   "data": [
     {
       "mgdbId": "120000546701",
@@ -504,7 +504,7 @@
       "title": "亚冠女足小组赛",
       "keyword": "11月13日20:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "Sân vận động Thống Nhất (Thong Nhat Stadium)",
       "competitionName": "亚冠女足",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000560372/202511071136_918559_H169_1080.webp",
@@ -618,10 +618,6 @@
         },
         {
           "pID": "960193629",
-          "name": "双杠"
-        },
-        {
-          "pID": "960193700",
           "name": "高低杠"
         },
         {
@@ -633,12 +629,16 @@
           "name": "平衡木"
         },
         {
-          "pID": "960193960",
-          "name": "吊环"
-        },
-        {
           "pID": "960194026",
           "name": "PGM综合"
+        },
+        {
+          "pID": "960193700",
+          "name": "高低杠"
+        },
+        {
+          "pID": "960193960",
+          "name": "吊环"
         }
       ]
     },
@@ -773,24 +773,36 @@
           "name": "解说"
         },
         {
-          "pID": "960205071",
-          "name": "4号桌"
+          "pID": "960194490",
+          "name": "1号桌"
         },
         {
           "pID": "960194497",
           "name": "热身场"
         },
         {
-          "pID": "960204970",
-          "name": "3号桌"
-        },
-        {
-          "pID": "960194490",
-          "name": "1号桌"
+          "pID": "960205071",
+          "name": "4号桌"
         },
         {
           "pID": "960204853",
           "name": "2号桌"
+        },
+        {
+          "pID": "960194575",
+          "name": "运动员视角1"
+        },
+        {
+          "pID": "960194639",
+          "name": "运动员视角2"
+        },
+        {
+          "pID": "960194531",
+          "name": "综合信号"
+        },
+        {
+          "pID": "960204970",
+          "name": "3号桌"
         },
         {
           "pID": "960205664",
@@ -807,18 +819,6 @@
         {
           "pID": "960205595",
           "name": "9号桌"
-        },
-        {
-          "pID": "960194575",
-          "name": "运动员视角1"
-        },
-        {
-          "pID": "960194639",
-          "name": "运动员视角2"
-        },
-        {
-          "pID": "960194531",
-          "name": "综合信号"
         }
       ]
     },
@@ -856,7 +856,7 @@
       "title": "足球 女子成年组1-4名排位赛 江苏vs上海",
       "keyword": "11月13日19:35",
       "sportItemId": "",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "全运会",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
@@ -900,7 +900,7 @@
       "title": "足球 女子成年组1-4名排位赛 广东vs湖北",
       "keyword": "11月13日19:35",
       "sportItemId": "",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "全运会",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
@@ -1776,7 +1776,7 @@
       "title": "篮球男子18岁以下组小组赛 澳门vs北京",
       "keyword": "11月13日19:50",
       "sportItemId": "",
-      "matchStatus": "0",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "全运会",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
@@ -1816,7 +1816,7 @@
       "title": "篮球男子18岁以下组小组赛 河北vs山东",
       "keyword": "11月13日19:50",
       "sportItemId": "",
-      "matchStatus": "0",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "全运会",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
@@ -1840,7 +1840,7 @@
       "title": "篮球男子22岁以下组小组赛 辽宁vs河南",
       "keyword": "11月13日19:50",
       "sportItemId": "",
-      "matchStatus": "0",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "全运会",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
@@ -2021,7 +2021,7 @@
     {
       "mgdbId": "120000558304",
       "pID": "120000558304",
-      "title": "举重第4日 女子81公斤级决赛",
+      "title": "举重女子81公斤级决赛",
       "keyword": "11月13日18:50",
       "sportItemId": "",
       "matchStatus": "1",
@@ -2029,7 +2029,7 @@
       "competitionName": "全运会",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
       "competitionLogo": "",
-      "pkInfoTitle": "举重第4日 女子81公斤级决赛",
+      "pkInfoTitle": "举重女子81公斤级决赛",
       "modifyTitle": "举重第4日 女子81公斤级决赛",
       "presenters": "",
       "matchInfo": {
@@ -2080,7 +2080,7 @@
       "title": "摔跤第4日 古典跤多项铜牌赛、决赛",
       "keyword": "11月13日15:50",
       "sportItemId": "",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "全运会",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
