@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-11-14 09:31:20",
+  "updateTime": "2025-11-14 10:01:39",
   "data": [
     {
       "mgdbId": "120000554300",
@@ -64,7 +64,7 @@
       "title": "NBA常规赛",
       "keyword": "11月14日10:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "凤凰城竞技场",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/13/6V11V36V6QT1.png",
@@ -92,7 +92,7 @@
       "title": "NBA常规赛",
       "keyword": "11月14日10:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "德尔塔中心球馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/13/6V11V39PJ1S7.png",
@@ -324,7 +324,7 @@
       "title": "网球 王欣瑜、商竣程、黄泽林领衔出战",
       "keyword": "11月14日09:50",
       "sportItemId": "",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "全运会",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
@@ -827,6 +827,10 @@
         {
           "pID": "960263444",
           "name": "纵向视角2"
+        },
+        {
+          "pID": "960276688",
+          "name": "吕程"
         }
       ]
     },
@@ -1208,7 +1212,7 @@
       "title": "乒乓球 第8比赛日热身场",
       "keyword": "11月14日09:55",
       "sportItemId": "",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "全运会",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
@@ -1232,7 +1236,7 @@
       "title": "樊振东率上海男团出战 林高远领衔粤队",
       "keyword": "11月14日09:50",
       "sportItemId": "",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "全运会",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
@@ -1349,10 +1353,6 @@
           "name": "网口视角"
         },
         {
-          "pID": "960271316",
-          "name": "场地待定"
-        },
-        {
           "pID": "960271542",
           "name": "2号场"
         },
@@ -1367,6 +1367,66 @@
         {
           "pID": "960271615",
           "name": "8号场"
+        },
+        {
+          "pID": "960271316",
+          "name": "场地待定"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000558306",
+      "pID": "120000558306",
+      "title": "举重女子87公斤以上级决赛",
+      "keyword": "11月14日18:50",
+      "sportItemId": "",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "全运会",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
+      "competitionLogo": "",
+      "pkInfoTitle": "举重女子87公斤以上级决赛",
+      "modifyTitle": "举重女子87公斤以上级决赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "11月14日18:50"
+      },
+      "nodes": [
+        {
+          "pID": "960268830",
+          "name": "邢天宇"
+        },
+        {
+          "pID": "960268532",
+          "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000558305",
+      "pID": "120000558305",
+      "title": "举重女子87公斤级决赛",
+      "keyword": "11月14日14:50",
+      "sportItemId": "",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "全运会",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
+      "competitionLogo": "",
+      "pkInfoTitle": "举重女子87公斤级决赛",
+      "modifyTitle": "举重女子87公斤级决赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "11月14日14:50"
+      },
+      "nodes": [
+        {
+          "pID": "960268371",
+          "name": "邢天宇"
+        },
+        {
+          "pID": "960268247",
+          "name": "赛场原声"
         }
       ]
     },
