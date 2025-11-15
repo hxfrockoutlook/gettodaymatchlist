@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-11-15 09:01:47",
+  "updateTime": "2025-11-15 09:33:01",
   "data": [
     {
       "mgdbId": "120000561104",
@@ -376,7 +376,7 @@
       "title": "NBANBA杯",
       "keyword": "11月15日09:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "美国航线中心体育馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/14/6V12RLIU2EA2.png",
@@ -976,7 +976,7 @@
       "title": "田径 多项及格赛 巩立姣出战",
       "keyword": "11月15日09:20",
       "sportItemId": "",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "全运会",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
@@ -995,18 +995,6 @@
         {
           "pID": "960301314",
           "name": "综合信号"
-        },
-        {
-          "pID": "960301369",
-          "name": "田 1"
-        },
-        {
-          "pID": "960301410",
-          "name": "田 2"
-        },
-        {
-          "pID": "960301452",
-          "name": "田 3"
         },
         {
           "pID": "960301576",
@@ -1081,7 +1069,7 @@
     {
       "mgdbId": "120000559097",
       "pID": "120000559097",
-      "title": "游泳 多项预赛 张雨霏、潘展乐出战",
+      "title": "游泳 第6比赛日早场",
       "keyword": "11月15日08:50",
       "sportItemId": "",
       "matchStatus": "1",
@@ -1089,7 +1077,7 @@
       "competitionName": "全运会",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
       "competitionLogo": "",
-      "pkInfoTitle": "游泳 多项预赛 张雨霏、潘展乐出战",
+      "pkInfoTitle": "游泳 第6比赛日早场",
       "modifyTitle": "游泳 多项预赛 张雨霏、潘展乐出战",
       "presenters": "",
       "matchInfo": {
@@ -1169,7 +1157,7 @@
     {
       "mgdbId": "120000561475",
       "pID": "120000561475",
-      "title": "网球（群体） 第1比赛日",
+      "title": "网球 群众混合团体赛",
       "keyword": "11月15日08:25",
       "sportItemId": "",
       "matchStatus": "1",
@@ -1177,7 +1165,7 @@
       "competitionName": "全运会",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
       "competitionLogo": "",
-      "pkInfoTitle": "网球（群体） 第1比赛日",
+      "pkInfoTitle": "网球 群众混合团体赛",
       "modifyTitle": "网球（群体） 第1比赛日",
       "presenters": "",
       "matchInfo": {
@@ -1725,18 +1713,6 @@
           "name": "1号桌"
         },
         {
-          "pID": "960304183",
-          "name": "综合信号"
-        },
-        {
-          "pID": "960303986",
-          "name": "运动员视角1"
-        },
-        {
-          "pID": "960303935",
-          "name": "运动员视角2"
-        },
-        {
           "pID": "960307607",
           "name": "2号桌"
         },
@@ -1763,6 +1739,18 @@
         {
           "pID": "960307816",
           "name": "8号桌"
+        },
+        {
+          "pID": "960304183",
+          "name": "综合信号"
+        },
+        {
+          "pID": "960303986",
+          "name": "运动员视角1"
+        },
+        {
+          "pID": "960303935",
+          "name": "运动员视角2"
         }
       ]
     },
@@ -1786,7 +1774,7 @@
       "nodes": [
         {
           "pID": "960301192",
-          "name": "杨弋非"
+          "name": "1号场-杨弋非"
         },
         {
           "pID": "960301860",
@@ -1842,15 +1830,15 @@
         },
         {
           "pID": "960304515",
-          "name": "孙宁智"
+          "name": "2号场-孙宁智"
         },
         {
           "pID": "960304417",
-          "name": "鸿昆"
+          "name": "1号场-鸿昆"
         },
         {
           "pID": "960304564",
-          "name": "马秉聪"
+          "name": "2号场-马秉聪"
         }
       ]
     },
@@ -1881,20 +1869,12 @@
           "name": "周泽昊"
         },
         {
-          "pID": "960305086",
-          "name": "运动员视角2"
-        },
-        {
-          "pID": "960305175",
-          "name": "运动员视角1"
-        },
-        {
-          "pID": "960305415",
-          "name": "综合信号"
-        },
-        {
           "pID": "960305513",
           "name": "1号桌"
+        },
+        {
+          "pID": "960303732",
+          "name": "热身场"
         },
         {
           "pID": "960307572",
@@ -1923,6 +1903,18 @@
         {
           "pID": "960307841",
           "name": "9号桌"
+        },
+        {
+          "pID": "960305175",
+          "name": "运动员视角1"
+        },
+        {
+          "pID": "960305086",
+          "name": "运动员视角2"
+        },
+        {
+          "pID": "960305415",
+          "name": "综合信号"
         }
       ]
     },
