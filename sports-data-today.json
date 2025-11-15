@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-11-15 11:01:52",
+  "updateTime": "2025-11-15 11:31:58",
   "data": [
     {
       "mgdbId": "120000561104",
@@ -108,7 +108,7 @@
     },
     {
       "mgdbId": "120000546717",
-      "pID": "960310819",
+      "pID": "960313863",
       "title": "NBANBA杯",
       "keyword": "11月15日08:00",
       "sportItemId": "2",
@@ -125,8 +125,8 @@
       },
       "nodes": [
         {
-          "pID": "960310819",
-          "name": "应接不暇！克拉克斯顿空接暴扣 萨格斯底角三分怒射"
+          "pID": "960313863",
+          "name": "25/26赛季NBA杯全场集锦：篮网98:105魔术（20251115）"
         },
         {
           "pID": "960093450",
@@ -184,7 +184,7 @@
     },
     {
       "mgdbId": "120000546718",
-      "pID": "960313561",
+      "pID": "960313957",
       "title": "NBANBA杯",
       "keyword": "11月15日08:30",
       "sportItemId": "2",
@@ -201,8 +201,8 @@
       },
       "nodes": [
         {
-          "pID": "960313561",
-          "name": "猛张飞绣花！里德再秀欧洲步晃晕防守兴奋庆祝"
+          "pID": "960313957",
+          "name": "25/26赛季NBA杯全场集锦：76人105:114活塞（20251115）"
         },
         {
           "pID": "960093382",
@@ -279,7 +279,7 @@
       "matchStatus": "1",
       "matchField": "丰田中心球馆",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/14/6V12RL1S6U8K.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/15/6V13RKLSQ6G1.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "开拓者VS火箭",
       "modifyTitle": "NBANBA杯",
@@ -448,7 +448,7 @@
       "title": "PWC中国区八强正赛第三日",
       "keyword": "11月15日11:00",
       "sportItemId": "10",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "PWC完美世界CS挑战赛",
       "padImg": "",
@@ -541,7 +541,7 @@
     {
       "mgdbId": "120000550283",
       "pID": "958252737",
-      "title": "南充丝绸���点队 VS 遂宁舍得干队",
+      "title": "南充丝绸源点队 VS 遂宁舍得干队",
       "keyword": "11月15日15:00",
       "sportItemId": "1",
       "matchStatus": "0",
@@ -959,9 +959,133 @@
       ]
     },
     {
+      "mgdbId": "120000560794",
+      "pID": "120000560794",
+      "title": "排球第14比赛日",
+      "keyword": "11月15日12:50",
+      "sportItemId": "",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "全运会",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
+      "competitionLogo": "",
+      "pkInfoTitle": "排球第14比赛日",
+      "modifyTitle": "排球第14比赛日",
+      "presenters": "",
+      "matchInfo": {
+        "time": "11月15日12:50"
+      },
+      "nodes": [
+        {
+          "pID": "960303476",
+          "name": "女子成年组 天津vs江苏"
+        },
+        {
+          "pID": "960303658",
+          "name": "女子成年组 浙江vs福建"
+        },
+        {
+          "pID": "960303728",
+          "name": "男子U18 澳门vs福建"
+        },
+        {
+          "pID": "960303747",
+          "name": "男子U18  山东vs四川"
+        },
+        {
+          "pID": "960303774",
+          "name": "男子成年组 山东vs河北"
+        },
+        {
+          "pID": "960303869",
+          "name": "女子成年组 云南vs北京"
+        },
+        {
+          "pID": "960303942",
+          "name": "女子成年组 辽宁vs广东"
+        },
+        {
+          "pID": "960304086",
+          "name": "男子U18 重庆vs山西"
+        },
+        {
+          "pID": "960304370",
+          "name": "男子U18  江苏vs黑龙江"
+        },
+        {
+          "pID": "960304445",
+          "name": "男子成年组 澳门vs湖北"
+        },
+        {
+          "pID": "960304576",
+          "name": "女子成年组 四川vs澳门"
+        },
+        {
+          "pID": "960304674",
+          "name": "女子成年组 上海vs香港"
+        },
+        {
+          "pID": "960304780",
+          "name": "男子U18  辽宁vs河南"
+        },
+        {
+          "pID": "960305565",
+          "name": "男子U18  上海vs浙江"
+        },
+        {
+          "pID": "960305725",
+          "name": "男子成年组 广东vs江苏"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000559126",
+      "pID": "120000559126",
+      "title": "击剑 女子重剑/男子佩剑个人半决赛、铜牌赛、金牌赛",
+      "keyword": "11月15日09:00",
+      "sportItemId": "",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "全运会",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
+      "competitionLogo": "",
+      "pkInfoTitle": "击剑 女子重剑/男子佩剑个人半决赛、铜牌赛、金牌赛",
+      "modifyTitle": "击剑 女子重剑/男子佩剑个人半决赛、铜牌赛、金牌赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "11月15日09:00"
+      },
+      "nodes": [
+        {
+          "pID": "960302282",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "960302662",
+          "name": "解说"
+        },
+        {
+          "pID": "960302427",
+          "name": "综合信号"
+        },
+        {
+          "pID": "960302478",
+          "name": "全景视角"
+        },
+        {
+          "pID": "960302494",
+          "name": "左半区视角"
+        },
+        {
+          "pID": "960302537",
+          "name": "右半区视角"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000555608",
       "pID": "120000555608",
-      "title": "花样游泳 女子双人技术自选 王柳懿/王芊懿出战",
+      "title": "花样游泳女子双人技术自选",
       "keyword": "11月15日10:55",
       "sportItemId": "",
       "matchStatus": "1",
@@ -969,13 +1093,17 @@
       "competitionName": "全运会",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
       "competitionLogo": "",
-      "pkInfoTitle": "花样游泳 女子双人技术自选 王柳懿/王芊懿出战",
+      "pkInfoTitle": "花样游泳女子双人技术自选",
       "modifyTitle": "花样游泳 女子双人技术自选 王柳懿/王芊懿出战",
       "presenters": "",
       "matchInfo": {
         "time": "11月15日10:55"
       },
       "nodes": [
+        {
+          "pID": "960299989",
+          "name": "CCTV5+"
+        },
         {
           "pID": "960301341",
           "name": "赛场原声"
@@ -1657,7 +1785,7 @@
     {
       "mgdbId": "120000559732",
       "pID": "120000559732",
-      "title": "小布、吴易昺出战 王欣瑜/袁悦双打登场",
+      "title": "小布出战 吴易昺2-0晋级",
       "keyword": "11月15日09:50",
       "sportItemId": "",
       "matchStatus": "1",
@@ -1665,8 +1793,8 @@
       "competitionName": "全运会",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
       "competitionLogo": "",
-      "pkInfoTitle": "小布、吴易昺出战 王欣瑜/袁悦双打登场",
-      "modifyTitle": "网球 男、女单打第2轮&双打第1轮",
+      "pkInfoTitle": "小布出战 吴易昺2-0晋级",
+      "modifyTitle": "网球 男、女单打第2轮&双��第1轮",
       "presenters": "",
       "matchInfo": {
         "time": "11月15日09:50"
@@ -1737,7 +1865,7 @@
     {
       "mgdbId": "120000559132",
       "pID": "120000559132",
-      "title": "地表最强战！王楚钦vs樊振东",
+      "title": "半决赛：地表最强战！王楚钦vs樊振东",
       "keyword": "11月15日09:50",
       "sportItemId": "",
       "matchStatus": "1",
@@ -1745,7 +1873,7 @@
       "competitionName": "全运会",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
       "competitionLogo": "",
-      "pkInfoTitle": "地表最强战！王楚钦vs樊振东",
+      "pkInfoTitle": "半决赛：地表最强战！王楚钦vs樊振东",
       "modifyTitle": "乒乓球 成年组男单半决赛及男女团小组循环赛、青年组男单金牌赛等",
       "presenters": "",
       "matchInfo": {
@@ -1757,20 +1885,12 @@
           "name": "热身场"
         },
         {
-          "pID": "960304666",
-          "name": "小马哥"
-        },
-        {
           "pID": "960304289",
           "name": "肖扬"
         },
         {
           "pID": "960307697",
           "name": "5号桌"
-        },
-        {
-          "pID": "960304281",
-          "name": "1号桌"
         },
         {
           "pID": "960307607",
@@ -1789,12 +1909,12 @@
           "name": "6号桌"
         },
         {
-          "pID": "960307784",
-          "name": "7号桌"
+          "pID": "960304666",
+          "name": "小马哥"
         },
         {
-          "pID": "960307816",
-          "name": "8号桌"
+          "pID": "960304281",
+          "name": "1号桌"
         },
         {
           "pID": "960304183",
@@ -1807,13 +1927,21 @@
         {
           "pID": "960303935",
           "name": "运动员视角2"
+        },
+        {
+          "pID": "960307784",
+          "name": "7号桌"
+        },
+        {
+          "pID": "960307816",
+          "name": "8号桌"
         }
       ]
     },
     {
       "mgdbId": "120000559109",
       "pID": "120000559109",
-      "title": "羽毛球 陈雨菲、翁泓阳登场出战",
+      "title": "羽毛球 陈雨菲、翁泓阳、李诗沣登场亮相",
       "keyword": "11月15日11:50",
       "sportItemId": "",
       "matchStatus": "0",
@@ -1821,7 +1949,7 @@
       "competitionName": "全运会",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
       "competitionLogo": "",
-      "pkInfoTitle": "羽毛球 陈雨菲、翁泓阳登场出战",
+      "pkInfoTitle": "羽毛球 陈雨菲、翁泓阳、李诗沣登场亮相",
       "modifyTitle": "羽毛球 第9比赛日",
       "presenters": "",
       "matchInfo": {
