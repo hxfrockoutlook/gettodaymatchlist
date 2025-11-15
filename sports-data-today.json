@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-11-15 16:31:58",
+  "updateTime": "2025-11-15 17:01:54",
   "data": [
     {
       "mgdbId": "120000561104",
@@ -700,7 +700,7 @@
       "title": "UFC激战前夜-张伟丽冲击双冠王赛前特别前瞻",
       "keyword": "11月15日17:00",
       "sportItemId": "5",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "UFC前瞻与回顾",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/14/6V12TKKQEH3H.jpg",
@@ -887,6 +887,30 @@
       ]
     },
     {
+      "mgdbId": "120000561146",
+      "pID": "960303276",
+      "title": "全运足球女子成年组金牌赛 湖北vs江苏",
+      "keyword": "11月15日19:45",
+      "sportItemId": "1",
+      "matchStatus": "0",
+      "matchField": "世纪莲体育场",
+      "competitionName": "足球智能观赛",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/11/10/100000001368106ae06f.jpg",
+      "pkInfoTitle": "全运足球女子成年组金牌赛 湖北vs江苏",
+      "modifyTitle": "全运足球女子成年组金牌赛 湖北vs江苏",
+      "presenters": "",
+      "matchInfo": {
+        "time": "11月15日19:45"
+      },
+      "nodes": [
+        {
+          "pID": "960303241",
+          "name": "2025年全运会足球: 足球 女子成年组金牌赛 湖北vs江苏(吴桐,刘畅)"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000561132",
       "pID": "960251657",
       "title": "聚焦八角笼：UFC322特辑 移起助力伟丽冲击双冠王",
@@ -1061,16 +1085,8 @@
           "name": "1号场-鸿昆"
         },
         {
-          "pID": "960304564",
-          "name": "2号场-马秉聪"
-        },
-        {
           "pID": "960301860",
           "name": "1号场"
-        },
-        {
-          "pID": "960301900",
-          "name": "2号场"
         },
         {
           "pID": "960301960",
@@ -1079,10 +1095,6 @@
         {
           "pID": "960302009",
           "name": "4号场"
-        },
-        {
-          "pID": "960302032",
-          "name": "5号场"
         },
         {
           "pID": "960302122",
@@ -1119,6 +1131,18 @@
         {
           "pID": "960302202",
           "name": "8号场"
+        },
+        {
+          "pID": "960301900",
+          "name": "2号场"
+        },
+        {
+          "pID": "960304564",
+          "name": "2号场-马秉聪"
+        },
+        {
+          "pID": "960302032",
+          "name": "5号场"
         }
       ]
     },
@@ -1884,7 +1908,7 @@
       "title": "篮球男子22岁以下组小组赛 北京vs上海",
       "keyword": "11月15日16:50",
       "sportItemId": "",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "全运会",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
@@ -2093,7 +2117,7 @@
     {
       "mgdbId": "120000559132",
       "pID": "120000559132",
-      "title": "樊振东4-2王楚钦晋级决赛 林诗栋取胜",
+      "title": "樊振���4-2王楚钦晋级决赛 林诗栋取胜",
       "keyword": "11月15日09:50",
       "sportItemId": "",
       "matchStatus": "2",
@@ -2101,7 +2125,7 @@
       "competitionName": "全运会",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
       "competitionLogo": "",
-      "pkInfoTitle": "樊振东4-2王楚钦晋级决赛 林诗栋取胜",
+      "pkInfoTitle": "樊振���4-2王楚钦晋级决赛 林诗栋取胜",
       "modifyTitle": "乒乓球 成年组男单半决赛及男女团小组循环赛、青年组男单金牌赛等",
       "presenters": "",
       "matchInfo": {
@@ -2110,7 +2134,7 @@
       "nodes": [
         {
           "pID": "960318684",
-          "name": "2025全运会回放：乒乓球成年组男单���决赛 王楚钦2-4樊振东（小马哥）"
+          "name": "2025全运会回放：乒乓球成年组男单半决赛 王楚钦2-4樊振东（小马哥）"
         },
         {
           "pID": "960304281",
