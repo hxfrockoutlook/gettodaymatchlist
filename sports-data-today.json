@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-11-15 16:02:11",
+  "updateTime": "2025-11-15 16:31:58",
   "data": [
     {
       "mgdbId": "120000561104",
@@ -480,7 +480,7 @@
       "title": "UFC激战前夜：舍甫琴科特辑",
       "keyword": "11月15日13:00",
       "sportItemId": "5",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "UFC前瞻与回顾",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/14/6V12TK8T5BI1.jpg",
@@ -574,7 +574,7 @@
       "mgdbId": "120000550285",
       "pID": "958252757",
       "title": "眉山射天狼队 VS 雅安貊貊队",
-      "keyword": "11月15日15:00",
+      "keyword": "11月15日 15:00",
       "sportItemId": "1",
       "matchStatus": "1",
       "matchField": "",
@@ -585,7 +585,7 @@
       "modifyTitle": "眉山射天狼队 VS 雅安貊貊队",
       "presenters": "",
       "matchInfo": {
-        "time": "11月15日15:00"
+        "time": "11月15日 15:00"
       },
       "nodes": [
         {
@@ -624,7 +624,7 @@
       "title": "逐马计划南京站大咖分享会",
       "keyword": "11月15日15:30",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "逐马计划",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/12/6V111LBPV30S.jpg",
@@ -648,7 +648,7 @@
       "title": "张伟丽UFC回顾：见证中国丽量的荣耀之路",
       "keyword": "11月15日16:00",
       "sportItemId": "5",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "UFC前瞻与回顾",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/15/6V13OP02VM74.jpg",
@@ -672,7 +672,7 @@
       "title": "亚冠女足小组赛",
       "keyword": "11月15日16:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "图瓦纳青训球场",
       "competitionName": "亚冠女足",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000560371/202511071136_545528_H169_1080.webp",
@@ -1093,10 +1093,6 @@
           "name": "7号场"
         },
         {
-          "pID": "960302202",
-          "name": "8号场"
-        },
-        {
           "pID": "960302220",
           "name": "9号场"
         },
@@ -1119,6 +1115,10 @@
         {
           "pID": "960301192",
           "name": "1号场-杨弋非"
+        },
+        {
+          "pID": "960302202",
+          "name": "8号场"
         }
       ]
     },
@@ -1549,7 +1549,7 @@
     {
       "mgdbId": "120000559098",
       "pID": "120000559098",
-      "title": "游泳 多项决赛 覃海洋、徐嘉余冲金",
+      "title": "游泳 多项决赛 覃海洋、徐嘉余、 何詩蓓冲金",
       "keyword": "11月15日18:45",
       "sportItemId": "",
       "matchStatus": "0",
@@ -1557,7 +1557,7 @@
       "competitionName": "全运会",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
       "competitionLogo": "",
-      "pkInfoTitle": "游泳 多项决赛 覃海洋、徐嘉余冲金",
+      "pkInfoTitle": "游泳 多项决赛 覃海洋、徐嘉余、 何詩蓓冲金",
       "modifyTitle": "游泳 多项决赛 张雨霏、潘展乐冲金",
       "presenters": "",
       "matchInfo": {
@@ -1745,15 +1745,15 @@
     {
       "mgdbId": "120000556004",
       "pID": "120000556004",
-      "title": "篮球男子22岁以下组小组赛 河南vs福建",
+      "title": "篮球男子22岁以下组小组赛 河南98-95福建",
       "keyword": "11月15日13:50",
       "sportItemId": "",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "全运会",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
       "competitionLogo": "",
-      "pkInfoTitle": "篮球男子22岁以下组小组赛 河南vs福建",
+      "pkInfoTitle": "篮球男子22岁以下组小组赛 河南98-95福建",
       "modifyTitle": "篮球男子22岁以下组小组赛 河南vs福建",
       "presenters": "",
       "matchInfo": {
@@ -2110,7 +2110,7 @@
       "nodes": [
         {
           "pID": "960318684",
-          "name": "2025全运会回放：乒乓��成年组男单半决赛 王楚钦2-4樊振东（小马哥）"
+          "name": "2025全运会回放：乒乓球成年组男单���决赛 王楚钦2-4樊振东（小马哥）"
         },
         {
           "pID": "960304281",
