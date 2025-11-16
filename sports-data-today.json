@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-11-16 07:31:26",
+  "updateTime": "2025-11-16 08:01:44",
   "data": [
     {
       "mgdbId": "120000546725",
@@ -172,7 +172,7 @@
       "title": "中国鲈钓巅峰赛第三站Day2",
       "keyword": "11月16日07:50",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "中国鲈钓巅峰赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/15/6V13Q65HO8MS.png",
@@ -196,7 +196,7 @@
       "title": "NBA常规赛",
       "keyword": "11月16日08:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "盖恩布里奇体育馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/15/6V13RTP8AKO5.jpg",
@@ -224,7 +224,7 @@
       "title": "NBA常规赛",
       "keyword": "11月16日08:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "光谱中心",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/15/6V13RTRKNHG4.jpg",
@@ -835,6 +835,194 @@
         {
           "pID": "959999202",
           "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000559061",
+      "pID": "120000559061",
+      "title": "田径 多项预赛 谢震业出战",
+      "keyword": "11月16日09:20",
+      "sportItemId": "",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "全运会",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
+      "competitionLogo": "",
+      "pkInfoTitle": "田径 多项预赛 谢震业出战",
+      "modifyTitle": "田径 多项预赛 谢震业出战",
+      "presenters": "",
+      "matchInfo": {
+        "time": "11月16日09:20"
+      },
+      "nodes": [
+        {
+          "pID": "960327800",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "960327348",
+          "name": "综合信号"
+        },
+        {
+          "pID": "960327416",
+          "name": "田 1"
+        },
+        {
+          "pID": "960327990",
+          "name": "男子十项全能-铁饼"
+        },
+        {
+          "pID": "960328113",
+          "name": "田 2"
+        },
+        {
+          "pID": "960328188",
+          "name": "田 3"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000559064",
+      "pID": "120000559064",
+      "title": "田径 第2比赛日晚场",
+      "keyword": "11月16日18:50",
+      "sportItemId": "",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "全运会",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
+      "competitionLogo": "",
+      "pkInfoTitle": "田径 第2比赛日晚场",
+      "modifyTitle": "田径 第2比赛日晚场",
+      "presenters": "",
+      "matchInfo": {
+        "time": "11月16日18:50"
+      },
+      "nodes": [
+        {
+          "pID": "960327461",
+          "name": "解说"
+        },
+        {
+          "pID": "960327388",
+          "name": "综合信号"
+        },
+        {
+          "pID": "960327456",
+          "name": "田 1"
+        },
+        {
+          "pID": "960327487",
+          "name": "女子三级跳远决赛"
+        },
+        {
+          "pID": "960327498",
+          "name": "男子跳高决赛"
+        },
+        {
+          "pID": "960327964",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "960328007",
+          "name": "女子铅球、铁饼"
+        },
+        {
+          "pID": "960328129",
+          "name": "田 2"
+        },
+        {
+          "pID": "960328221",
+          "name": "田 3"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000559052",
+      "pID": "120000559052",
+      "title": "游泳 多项预赛 张雨霏、张展硕出战",
+      "keyword": "11月16日08:50",
+      "sportItemId": "",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "全运会",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
+      "competitionLogo": "",
+      "pkInfoTitle": "游泳 多项预赛 张雨霏、张展硕出战",
+      "modifyTitle": "游泳 多项预赛 张雨霏、张展硕出战",
+      "presenters": "",
+      "matchInfo": {
+        "time": "11月16日08:50"
+      },
+      "nodes": [
+        {
+          "pID": "960327182",
+          "name": "王子睿"
+        },
+        {
+          "pID": "960327209",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "960327310",
+          "name": "近景视角"
+        },
+        {
+          "pID": "960327358",
+          "name": "轨道视角"
+        },
+        {
+          "pID": "960327400",
+          "name": "全程视角"
+        },
+        {
+          "pID": "960327420",
+          "name": "综合信号"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000559055",
+      "pID": "120000559055",
+      "title": "游泳 第7比赛日晚场",
+      "keyword": "11月16日18:50",
+      "sportItemId": "",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "全运会",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
+      "competitionLogo": "",
+      "pkInfoTitle": "游泳 第7比赛日晚场",
+      "modifyTitle": "游泳 第7比赛日晚场",
+      "presenters": "",
+      "matchInfo": {
+        "time": "11月16日18:50"
+      },
+      "nodes": [
+        {
+          "pID": "960327236",
+          "name": "柳亚鹏"
+        },
+        {
+          "pID": "960327267",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "960327468",
+          "name": "轨道视角"
+        },
+        {
+          "pID": "960327447",
+          "name": "近景视角"
+        },
+        {
+          "pID": "960327483",
+          "name": "全程视角"
+        },
+        {
+          "pID": "960327508",
+          "name": "综合信号"
         }
       ]
     },
