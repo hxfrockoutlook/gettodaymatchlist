@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-11-16 10:31:48",
+  "updateTime": "2025-11-16 11:01:49",
   "data": [
     {
       "mgdbId": "120000546725",
@@ -96,7 +96,7 @@
       "title": "逐马计划2025南京马拉松",
       "keyword": "11月16日07:30",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "逐马计划",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/12/6V111L5GPE1K.jpg",
@@ -204,14 +204,14 @@
     },
     {
       "mgdbId": "120000546726",
-      "pID": "960097826",
+      "pID": "960335320",
       "title": "NBA常规赛",
       "keyword": "11月16日08:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "盖恩布里奇体育馆",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/15/6V13RTP8AKO5.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/16/6V14OGJJ34AM.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "猛龙VS步行者",
       "modifyTitle": "NBA常规赛",
@@ -220,6 +220,10 @@
         "time": "11月16日08:00"
       },
       "nodes": [
+        {
+          "pID": "960335320",
+          "name": "指东打西！巴恩斯犀利妙传助珀尔特尔轻松吃饼"
+        },
         {
           "pID": "960097826",
           "name": "徐秦威"
@@ -372,7 +376,7 @@
       "title": "PWC中国区八强正赛第四日",
       "keyword": "11月16日11:00",
       "sportItemId": "10",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "PWC完美世界CS挑战赛",
       "padImg": "",
@@ -707,7 +711,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "英女超",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000560298/202511062110_549604_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/16/6V14OGGCM7RU.png",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/10/10/6UU49F270LD4.png",
       "pkInfoTitle": "布莱顿女足vs莱斯特城女足",
       "modifyTitle": "英女超",
@@ -865,7 +869,7 @@
     {
       "mgdbId": "120000559081",
       "pID": "120000559081",
-      "title": "体操 多项个人单项决赛",
+      "title": "体操 多项个人单项决赛 张博恒、邱祺缘出战",
       "keyword": "11月16日18:20",
       "sportItemId": "",
       "matchStatus": "0",
@@ -873,7 +877,7 @@
       "competitionName": "全运会",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
       "competitionLogo": "",
-      "pkInfoTitle": "体操 多项个人单项决赛",
+      "pkInfoTitle": "体操 多项个人单项决赛 张博恒、邱祺缘出战",
       "modifyTitle": "体操 多项个人单项决赛",
       "presenters": "",
       "matchInfo": {
@@ -915,10 +919,6 @@
         {
           "pID": "960328625",
           "name": "PGM综合"
-        },
-        {
-          "pID": "960326980",
-          "name": "���低杠"
         }
       ]
     },
@@ -1065,7 +1065,7 @@
     {
       "mgdbId": "120000559064",
       "pID": "120000559064",
-      "title": "田径 第2比赛日晚���",
+      "title": "田径 第2比赛日晚场",
       "keyword": "11月16日18:50",
       "sportItemId": "",
       "matchStatus": "0",
@@ -1073,7 +1073,7 @@
       "competitionName": "全运会",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
       "competitionLogo": "",
-      "pkInfoTitle": "田径 第2比赛日晚���",
+      "pkInfoTitle": "田径 第2比赛日晚场",
       "modifyTitle": "田径 第2比赛日晚场",
       "presenters": "",
       "matchInfo": {
@@ -1279,6 +1279,10 @@
         {
           "pID": "960330029",
           "name": "7号场"
+        },
+        {
+          "pID": "960325648",
+          "name": "央视（CCTV16）"
         },
         {
           "pID": "960329471",
@@ -1633,7 +1637,7 @@
     {
       "mgdbId": "120000556001",
       "pID": "120000556001",
-      "title": "篮球男子22岁以下组9-11名排位赛 第1场",
+      "title": "篮球男子22岁以下组9-11名排位赛 四川vs福建",
       "keyword": "11月16日19:50",
       "sportItemId": "",
       "matchStatus": "0",
@@ -1641,7 +1645,7 @@
       "competitionName": "全运会",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
       "competitionLogo": "",
-      "pkInfoTitle": "篮球男子22岁以下组9-11名排位赛 第1场",
+      "pkInfoTitle": "篮球男子22岁以下组9-11名排位赛 四川vs福建",
       "modifyTitle": "篮球男子22岁以下组9-11名排位赛",
       "presenters": "",
       "matchInfo": {
@@ -1809,12 +1813,12 @@
           "name": "2号桌"
         },
         {
-          "pID": "960327635",
-          "name": "热身场"
-        },
-        {
           "pID": "960330051",
           "name": "3号桌"
+        },
+        {
+          "pID": "960251790",
+          "name": "同播UFC"
         },
         {
           "pID": "960330136",
@@ -1825,16 +1829,16 @@
           "name": "4号桌"
         },
         {
+          "pID": "960327635",
+          "name": "热身场"
+        },
+        {
           "pID": "960330269",
           "name": "周冠达 邓亚萍"
         },
         {
           "pID": "960327566",
           "name": "1号桌"
-        },
-        {
-          "pID": "960251790",
-          "name": "同播UFC"
         },
         {
           "pID": "960330104",
