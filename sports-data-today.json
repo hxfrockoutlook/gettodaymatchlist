@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-11-17 16:01:32",
+  "updateTime": "2025-11-17 16:31:34",
   "data": [
     {
       "mgdbId": "120000561107",
@@ -429,10 +429,6 @@
           "name": "3号场（孙宁智）"
         },
         {
-          "pID": "960347976",
-          "name": "4号场（马秉聪）"
-        },
-        {
           "pID": "960349119",
           "name": "1号场"
         },
@@ -471,13 +467,17 @@
         {
           "pID": "958667592",
           "name": "CCTV16"
+        },
+        {
+          "pID": "960347976",
+          "name": "4号场（马秉聪）"
         }
       ]
     },
     {
       "mgdbId": "120000558073",
       "pID": "120000558073",
-      "title": "排球 女子成年组1/4交叉赛 天津vs福建",
+      "title": "排球女子成年组1/4交叉赛",
       "keyword": "11月17日16:00",
       "sportItemId": "",
       "matchStatus": "1",
@@ -485,7 +485,7 @@
       "competitionName": "全运会",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
       "competitionLogo": "",
-      "pkInfoTitle": "排球 女子成年组1/4交叉赛 天津vs福建",
+      "pkInfoTitle": "排球女子成年组1/4交叉赛",
       "modifyTitle": "排球 女子成年组1/4交叉赛 天津vs福建",
       "presenters": "",
       "matchInfo": {
@@ -1141,21 +1141,25 @@
     {
       "mgdbId": "120000556010",
       "pID": "120000556010",
-      "title": "篮球男子22岁以下组1/4决赛 辽宁vs上海",
+      "title": "篮球男子22岁以下组1/4决赛 辽宁78-96上海",
       "keyword": "11月17日13:50",
       "sportItemId": "",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "全运会",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
       "competitionLogo": "",
-      "pkInfoTitle": "篮球男子22岁以下组1/4决赛 辽宁vs上海",
+      "pkInfoTitle": "篮球男子22岁以下组1/4决赛 辽宁78-96上海",
       "modifyTitle": "篮球男子22岁以下组1/4决赛 辽宁vs上海",
       "presenters": "",
       "matchInfo": {
         "time": "11月17日13:50"
       },
       "nodes": [
+        {
+          "pID": "960380442",
+          "name": "2025全运会全场集锦：篮球男子U22 1/4决赛 辽宁78-96上海"
+        },
         {
           "pID": "960347614",
           "name": "赛场原声"
@@ -1168,7 +1172,7 @@
       "title": "篮球男子18岁以下组5-8排位赛 吉林vs四川",
       "keyword": "11月17日16:20",
       "sportItemId": "",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "全运会",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
@@ -1196,7 +1200,7 @@
       "title": "篮球男子18岁以下组5-8排位赛 北京vs辽宁",
       "keyword": "11月17日16:20",
       "sportItemId": "",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "全运会",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
@@ -1377,18 +1381,6 @@
           "name": "热身场"
         },
         {
-          "pID": "960349482",
-          "name": "运动员视角2"
-        },
-        {
-          "pID": "960349499",
-          "name": "运动员视角1"
-        },
-        {
-          "pID": "960349527",
-          "name": "综合信号"
-        },
-        {
           "pID": "960351908",
           "name": "2号桌"
         },
@@ -1405,16 +1397,28 @@
           "name": "5号桌"
         },
         {
-          "pID": "960351990",
-          "name": "7号桌"
-        },
-        {
           "pID": "960351975",
           "name": "6号桌"
         },
         {
+          "pID": "960351990",
+          "name": "7号桌"
+        },
+        {
           "pID": "960352011",
           "name": "9号桌"
+        },
+        {
+          "pID": "960349482",
+          "name": "运动员视角2"
+        },
+        {
+          "pID": "960349499",
+          "name": "运动员视角1"
+        },
+        {
+          "pID": "960349527",
+          "name": "综合信号"
         }
       ]
     },
@@ -1439,82 +1443,6 @@
         {
           "pID": "960349546",
           "name": "热身场"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000559093",
-      "pID": "120000559093",
-      "title": "王楚钦逆转 北京男团三连胜晋级八强",
-      "keyword": "11月17日09:50",
-      "sportItemId": "",
-      "matchStatus": "2",
-      "matchField": "",
-      "competitionName": "全运会",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
-      "competitionLogo": "",
-      "pkInfoTitle": "王楚钦逆转 北京男团三连胜晋级八强",
-      "modifyTitle": "王楚钦逆转 北京男团三连胜晋级八强",
-      "presenters": "",
-      "matchInfo": {
-        "time": "11月17日09:50"
-      },
-      "nodes": [
-        {
-          "pID": "960352001",
-          "name": "8号桌"
-        },
-        {
-          "pID": "960349546",
-          "name": "热身场"
-        },
-        {
-          "pID": "960351912",
-          "name": "3号桌"
-        },
-        {
-          "pID": "960348652",
-          "name": "周泽昊"
-        },
-        {
-          "pID": "960348623",
-          "name": "周冠达"
-        },
-        {
-          "pID": "960351930",
-          "name": "4号桌"
-        },
-        {
-          "pID": "960348716",
-          "name": "1号桌"
-        },
-        {
-          "pID": "960351943",
-          "name": "5号桌"
-        },
-        {
-          "pID": "960351968",
-          "name": "6号桌"
-        },
-        {
-          "pID": "960351893",
-          "name": "2号桌"
-        },
-        {
-          "pID": "960351983",
-          "name": "7号桌"
-        },
-        {
-          "pID": "960349486",
-          "name": "综合信号"
-        },
-        {
-          "pID": "960349504",
-          "name": "运动员视角1"
-        },
-        {
-          "pID": "960349534",
-          "name": "运动员视角2"
         }
       ]
     },
@@ -1735,6 +1663,82 @@
         {
           "pID": "960347554",
           "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000559093",
+      "pID": "120000559093",
+      "title": "北京男团三连胜晋级8强 马龙单双打皆胜",
+      "keyword": "11月17日09:50",
+      "sportItemId": "",
+      "matchStatus": "2",
+      "matchField": "",
+      "competitionName": "全运会",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
+      "competitionLogo": "",
+      "pkInfoTitle": "北京男团三连胜晋级8强 马龙单双打皆胜",
+      "modifyTitle": "乒乓球 成年组男女团小组循环赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "11月17日09:50"
+      },
+      "nodes": [
+        {
+          "pID": "960352001",
+          "name": "8号桌"
+        },
+        {
+          "pID": "960349546",
+          "name": "热身场"
+        },
+        {
+          "pID": "960351912",
+          "name": "3号桌"
+        },
+        {
+          "pID": "960348652",
+          "name": "周泽昊"
+        },
+        {
+          "pID": "960348623",
+          "name": "周冠达"
+        },
+        {
+          "pID": "960351930",
+          "name": "4号桌"
+        },
+        {
+          "pID": "960348716",
+          "name": "1号桌"
+        },
+        {
+          "pID": "960351943",
+          "name": "5号桌"
+        },
+        {
+          "pID": "960351968",
+          "name": "6号桌"
+        },
+        {
+          "pID": "960351893",
+          "name": "2号桌"
+        },
+        {
+          "pID": "960351983",
+          "name": "7号桌"
+        },
+        {
+          "pID": "960349486",
+          "name": "综合信号"
+        },
+        {
+          "pID": "960349504",
+          "name": "运动员视角1"
+        },
+        {
+          "pID": "960349534",
+          "name": "运动员视角2"
         }
       ]
     }
