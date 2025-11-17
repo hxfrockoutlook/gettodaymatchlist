@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-11-17 07:31:09",
+  "updateTime": "2025-11-17 08:01:08",
   "data": [
     {
       "mgdbId": "120000561107",
@@ -52,7 +52,7 @@
     },
     {
       "mgdbId": "120000546730",
-      "pID": "960352584",
+      "pID": "960353084",
       "title": "NBA常规赛",
       "keyword": "11月17日04:30",
       "sportItemId": "2",
@@ -69,8 +69,8 @@
       },
       "nodes": [
         {
-          "pID": "960352584",
-          "name": "触目惊心！布朗倒地打到小琼斯小腿 后者倒地痛苦翻滚被搀扶离场"
+          "pID": "960353084",
+          "name": "25/26赛季NBA常规赛全场集锦：快船118:121凯尔特人（20251117）"
         },
         {
           "pID": "960229478",
@@ -148,7 +148,7 @@
       "title": "NBA常规赛",
       "keyword": "11月17日08:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "冰沙国王中心",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/16/6V14OON8OGB6.png",
@@ -180,7 +180,7 @@
       "title": "NBA常规赛",
       "keyword": "11月17日08:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "丰田中心球馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/16/6V14OPLHQGNQ.png",
@@ -901,6 +901,10 @@
       },
       "nodes": [
         {
+          "pID": "960349546",
+          "name": "热身场"
+        },
+        {
           "pID": "960348652",
           "name": "周泽昊"
         },
@@ -917,24 +921,12 @@
           "name": "1号桌"
         },
         {
-          "pID": "960349486",
-          "name": "综合信号"
-        },
-        {
-          "pID": "960349504",
-          "name": "运动员视角1"
-        },
-        {
-          "pID": "960349534",
-          "name": "运动员视角2"
+          "pID": "960351893",
+          "name": "2号桌"
         },
         {
           "pID": "960351912",
           "name": "3号桌"
-        },
-        {
-          "pID": "960351893",
-          "name": "2号桌"
         },
         {
           "pID": "960351930",
@@ -945,16 +937,28 @@
           "name": "5号桌"
         },
         {
-          "pID": "960351983",
-          "name": "7号桌"
-        },
-        {
           "pID": "960351968",
           "name": "6号桌"
         },
         {
+          "pID": "960351983",
+          "name": "7号桌"
+        },
+        {
           "pID": "960352001",
           "name": "8号桌"
+        },
+        {
+          "pID": "960349486",
+          "name": "综合信号"
+        },
+        {
+          "pID": "960349504",
+          "name": "运动员视角1"
+        },
+        {
+          "pID": "960349534",
+          "name": "运动员视角2"
         }
       ]
     }
