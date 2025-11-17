@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-11-17 11:01:33",
+  "updateTime": "2025-11-17 11:31:41",
   "data": [
     {
       "mgdbId": "120000561107",
@@ -148,7 +148,7 @@
     },
     {
       "mgdbId": "120000546733",
-      "pID": "960354136",
+      "pID": "960357533",
       "title": "NBA常规赛",
       "keyword": "11月17日08:00",
       "sportItemId": "2",
@@ -165,8 +165,8 @@
       },
       "nodes": [
         {
-          "pID": "960354136",
-          "name": "怎么跟球迷喷上了？追梦和场边身穿鹈鹕T恤球迷贴脸对喷"
+          "pID": "960357533",
+          "name": "25/26赛季NBA常规赛全场集锦：勇士124:106鹈鹕（20251117）"
         },
         {
           "pID": "960224616",
@@ -184,14 +184,14 @@
     },
     {
       "mgdbId": "120000546734",
-      "pID": "960226261",
+      "pID": "960357758",
       "title": "NBA常规赛",
       "keyword": "11月17日08:00",
       "sportItemId": "2",
       "matchStatus": "1",
       "matchField": "丰田中心球馆",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/16/6V14OPLHQGNQ.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/17/6V15LPV6RGL6.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "魔术VS火箭",
       "modifyTitle": "NBA常规赛",
@@ -200,6 +200,10 @@
         "time": "11月17日08:00"
       },
       "nodes": [
+        {
+          "pID": "960357758",
+          "name": "死神降临！杜兰特示意全部拉开叫单打 突破后仰制胜中距离"
+        },
         {
           "pID": "960226261",
           "name": "连睿 周鹏"
@@ -251,7 +255,7 @@
       "matchStatus": "1",
       "matchField": "凤凰城竞技场",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/16/6V14OQ9N9BGT.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/17/6V15LQ6OB2K3.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "老鹰VS太阳",
       "modifyTitle": "NBA常规赛",
@@ -391,6 +395,94 @@
       ]
     },
     {
+      "mgdbId": "120000558073",
+      "pID": "120000558073",
+      "title": "排球 女子成年组1/4交叉赛 天津vs福建",
+      "keyword": "11月17日16:00",
+      "sportItemId": "",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "全运会",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
+      "competitionLogo": "",
+      "pkInfoTitle": "排球 女子成年组1/4交叉赛 天津vs福建",
+      "modifyTitle": "排球 女子成年组1/4交叉赛 天津vs福建",
+      "presenters": "",
+      "matchInfo": {
+        "time": "11月17日16:00"
+      },
+      "nodes": [
+        {
+          "pID": "960347095",
+          "name": "樊宇良"
+        },
+        {
+          "pID": "960347091",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "960347240",
+          "name": "综合信号"
+        },
+        {
+          "pID": "960347529",
+          "name": "战术视角"
+        },
+        {
+          "pID": "960347569",
+          "name": "网口视角"
+        },
+        {
+          "pID": "960347605",
+          "name": "近景视角"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000558074",
+      "pID": "120000558074",
+      "title": "排球 女子成年组1/4交叉赛 北京vs山东",
+      "keyword": "11月17日19:00",
+      "sportItemId": "",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "全运会",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
+      "competitionLogo": "",
+      "pkInfoTitle": "排球 女子成年组1/4交叉赛 北京vs山东",
+      "modifyTitle": "排球 女子成年组1/4交叉赛 北京vs山东",
+      "presenters": "",
+      "matchInfo": {
+        "time": "11月17日19:00"
+      },
+      "nodes": [
+        {
+          "pID": "960347115",
+          "name": "王岩岑"
+        },
+        {
+          "pID": "960347119",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "960347195",
+          "name": "综合信号"
+        },
+        {
+          "pID": "960347661",
+          "name": "战术视角"
+        },
+        {
+          "pID": "960347687",
+          "name": "网口视角"
+        },
+        {
+          "pID": "960347710",
+          "name": "近景视角"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000558072",
       "pID": "120000558072",
       "title": "排球 女子成年组1/4交叉赛 河南vs上海",
@@ -437,15 +529,15 @@
     {
       "mgdbId": "120000558071",
       "pID": "120000558071",
-      "title": "排球女子成年组1/4交叉赛",
+      "title": "排球 女子成年组1/4交叉赛 江苏VS辽宁",
       "keyword": "11月17日10:00",
       "sportItemId": "",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "全运会",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
       "competitionLogo": "",
-      "pkInfoTitle": "排球女子成年组1/4交叉赛",
+      "pkInfoTitle": "排球 女子成年组1/4交叉赛 江苏VS辽宁",
       "modifyTitle": "排球 女子成年组1/4交叉赛 江苏VS辽宁",
       "presenters": "",
       "matchInfo": {
@@ -453,20 +545,20 @@
       },
       "nodes": [
         {
-          "pID": "960347036",
-          "name": "鸿昆"
-        },
-        {
-          "pID": "960347019",
-          "name": "赛场原声"
+          "pID": "960347188",
+          "name": "战术视角"
         },
         {
           "pID": "960347154",
           "name": "综合信号"
         },
         {
-          "pID": "960347188",
-          "name": "战术视角"
+          "pID": "960347036",
+          "name": "鸿昆"
+        },
+        {
+          "pID": "960347019",
+          "name": "赛场原声"
         },
         {
           "pID": "960347230",
@@ -501,16 +593,12 @@
           "name": "鸿昆"
         },
         {
-          "pID": "960347019",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "960347188",
-          "name": "江苏vs辽宁 战术视角"
-        },
-        {
           "pID": "960347078",
           "name": "范贵懿"
+        },
+        {
+          "pID": "960347019",
+          "name": "赛场原声"
         },
         {
           "pID": "960347063",
@@ -579,6 +667,14 @@
         {
           "pID": "960346995",
           "name": "女子U18 上海vs浙江"
+        },
+        {
+          "pID": "960347188",
+          "name": "江苏vs辽宁 战术视角"
+        },
+        {
+          "pID": "960347173",
+          "name": "女子成年组 云南vs浙���"
         }
       ]
     },
@@ -637,15 +733,15 @@
     {
       "mgdbId": "120000555933",
       "pID": "120000555933",
-      "title": "马拉松竞走混合接力决赛 杨家玉、石升吉夺金",
+      "title": "田径（竞走）马拉松竞走混合接力决赛",
       "keyword": "11月17日07:25",
       "sportItemId": "",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "全运会",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
       "competitionLogo": "",
-      "pkInfoTitle": "马拉松竞走混合接力决赛 杨家玉、石升吉夺金",
+      "pkInfoTitle": "田径（竞走）马拉松竞走混合接力决赛",
       "modifyTitle": "田径（竞走）马拉松竞走混合接力决赛",
       "presenters": "",
       "matchInfo": {
@@ -661,15 +757,15 @@
     {
       "mgdbId": "120000559133",
       "pID": "120000559133",
-      "title": "田径 多项预赛及复赛",
+      "title": "田径 多项预赛及复赛 赵杰链球获头名晋级",
       "keyword": "11月17日09:20",
       "sportItemId": "",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "全运会",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
       "competitionLogo": "",
-      "pkInfoTitle": "田径 多项预赛及复赛",
+      "pkInfoTitle": "田径 多项预赛及复赛 赵杰链球获头名晋级",
       "modifyTitle": "田径 多项预赛及复赛 葛曼棋出战",
       "presenters": "",
       "matchInfo": {
@@ -1393,10 +1489,6 @@
           "name": "3号桌"
         },
         {
-          "pID": "960351930",
-          "name": "4号桌"
-        },
-        {
           "pID": "960348716",
           "name": "1号桌"
         },
@@ -1405,16 +1497,8 @@
           "name": "5号桌"
         },
         {
-          "pID": "960351968",
-          "name": "6号桌"
-        },
-        {
           "pID": "960351893",
           "name": "2号桌"
-        },
-        {
-          "pID": "960351983",
-          "name": "7号桌"
         },
         {
           "pID": "960352001",
@@ -1431,6 +1515,74 @@
         {
           "pID": "960349534",
           "name": "运动员视角2"
+        },
+        {
+          "pID": "960351930",
+          "name": "4号桌"
+        },
+        {
+          "pID": "960351968",
+          "name": "6号桌"
+        },
+        {
+          "pID": "960351983",
+          "name": "7号桌"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000558292",
+      "pID": "120000558292",
+      "title": "举重第7比赛日 73公斤级决赛",
+      "keyword": "11月17日18:50",
+      "sportItemId": "",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "全运会",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
+      "competitionLogo": "",
+      "pkInfoTitle": "举重第7比赛日 73公斤级决赛",
+      "modifyTitle": "举重第7比赛日 73公斤级决赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "11月17日18:50"
+      },
+      "nodes": [
+        {
+          "pID": "960347622",
+          "name": "邢天宇"
+        },
+        {
+          "pID": "960347770",
+          "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000558291",
+      "pID": "120000558291",
+      "title": "举重第7比赛日 67公斤级决赛",
+      "keyword": "11月17日14:50",
+      "sportItemId": "",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "全运会",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
+      "competitionLogo": "",
+      "pkInfoTitle": "举重第7比赛日 67公斤级决赛",
+      "modifyTitle": "举重第7比赛日 67公斤级决赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "11月17日14:50"
+      },
+      "nodes": [
+        {
+          "pID": "960347561",
+          "name": "邢天宇"
+        },
+        {
+          "pID": "960347598",
+          "name": "赛场原声"
         }
       ]
     },
@@ -1512,7 +1664,7 @@
       "title": "皮划艇静水 第2比赛日",
       "keyword": "11月17日08:55",
       "sportItemId": "",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "全运会",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
