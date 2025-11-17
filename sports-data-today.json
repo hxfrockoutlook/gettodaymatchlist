@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-11-17 09:31:27",
+  "updateTime": "2025-11-17 10:01:29",
   "data": [
     {
       "mgdbId": "120000561107",
@@ -116,14 +116,14 @@
     },
     {
       "mgdbId": "120000546732",
-      "pID": "960227255",
+      "pID": "960354944",
       "title": "NBA常规赛",
       "keyword": "11月17日07:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "第一资本体育馆",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/16/6V14ONSUU8NR.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/17/6V15L9QC4JCG.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "篮网VS奇才",
       "modifyTitle": "NBA常规赛",
@@ -132,6 +132,10 @@
         "time": "11月17日07:00"
       },
       "nodes": [
+        {
+          "pID": "960354944",
+          "name": "25/26赛季NBA常规赛全场集锦：篮网129:106奇才（20251117）"
+        },
         {
           "pID": "960227255",
           "name": "刘圳展"
@@ -383,17 +387,105 @@
       ]
     },
     {
-      "mgdbId": "120000560796",
-      "pID": "120000560796",
-      "title": "排球第16比赛日 女子成年组1/4交叉赛 江苏VS辽宁等",
-      "keyword": "11月17日09:50",
+      "mgdbId": "120000558072",
+      "pID": "120000558072",
+      "title": "排球 女子成年组1/4交叉赛 河南vs上海",
+      "keyword": "11月17日13:00",
       "sportItemId": "",
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "全运会",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
       "competitionLogo": "",
-      "pkInfoTitle": "排球第16比赛日 女子成年组1/4交叉赛 江苏VS辽宁等",
+      "pkInfoTitle": "排球 女子成年组1/4交叉赛 河南vs上海",
+      "modifyTitle": "排球 女子成年组1/4交叉赛 河南vs上海",
+      "presenters": "",
+      "matchInfo": {
+        "time": "11月17日13:00"
+      },
+      "nodes": [
+        {
+          "pID": "960347078",
+          "name": "范贵懿"
+        },
+        {
+          "pID": "960347063",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "960347293",
+          "name": "综合信号"
+        },
+        {
+          "pID": "960347380",
+          "name": "战术视角"
+        },
+        {
+          "pID": "960347425",
+          "name": "网口视角"
+        },
+        {
+          "pID": "960347467",
+          "name": "近景视角"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000558071",
+      "pID": "120000558071",
+      "title": "排球 女子成年组1/4交叉赛 江苏VS辽宁",
+      "keyword": "11月17日10:00",
+      "sportItemId": "",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "全运会",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
+      "competitionLogo": "",
+      "pkInfoTitle": "排球 女子成年组1/4交叉赛 江苏VS辽宁",
+      "modifyTitle": "排球 女子成年组1/4交叉赛 江苏VS辽宁",
+      "presenters": "",
+      "matchInfo": {
+        "time": "11月17日10:00"
+      },
+      "nodes": [
+        {
+          "pID": "960347036",
+          "name": "鸿昆"
+        },
+        {
+          "pID": "960347019",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "960347154",
+          "name": "综合信号"
+        },
+        {
+          "pID": "960347188",
+          "name": "战术视角"
+        },
+        {
+          "pID": "960347230",
+          "name": "网口视角"
+        },
+        {
+          "pID": "960347261",
+          "name": "近景视角"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000560796",
+      "pID": "120000560796",
+      "title": "排球第16比赛日 女子成年组1/4交叉赛 北京vs山东等",
+      "keyword": "11月17日09:50",
+      "sportItemId": "",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "全运会",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
+      "competitionLogo": "",
+      "pkInfoTitle": "排球第16比赛日 女子成年组1/4交叉赛 北京vs山东等",
       "modifyTitle": "排球第16比赛日",
       "presenters": "",
       "matchInfo": {
@@ -413,14 +505,6 @@
           "name": "江苏vs辽宁 战术视角"
         },
         {
-          "pID": "960347230",
-          "name": "江苏vs辽宁 网口视角"
-        },
-        {
-          "pID": "960347261",
-          "name": "江苏vs辽宁 近景视角"
-        },
-        {
           "pID": "960347078",
           "name": "范贵懿"
         },
@@ -433,32 +517,12 @@
           "name": "女子成年组 四川vs香港"
         },
         {
-          "pID": "960347293",
-          "name": "河南vs上海 综合信号"
-        },
-        {
-          "pID": "960347380",
-          "name": "河南vs上海 战术视角"
-        },
-        {
-          "pID": "960347425",
-          "name": "河南vs上海 网口视角"
-        },
-        {
-          "pID": "960347467",
-          "name": "河南vs上海 近景视角"
-        },
-        {
           "pID": "960346940",
           "name": "女子U18 广东vs山东）"
         },
         {
           "pID": "960347211",
           "name": "女子成年组 澳门vs广东"
-        },
-        {
-          "pID": "960347710",
-          "name": "北京vs山东 近景视角"
         },
         {
           "pID": "960347091",
@@ -481,40 +545,28 @@
           "name": "女子成年组 云南vs浙江"
         },
         {
-          "pID": "960347195",
-          "name": "北京vs山东 综合信号"
-        },
-        {
           "pID": "960347221",
           "name": "女子U18 重庆vs北京"
         },
         {
-          "pID": "960347240",
-          "name": "天津vs福建 综合信号"
-        },
-        {
-          "pID": "960347529",
-          "name": "天津vs福建 战术视角"
-        },
-        {
-          "pID": "960347569",
-          "name": "天津vs福建 网口视角"
-        },
-        {
-          "pID": "960347605",
-          "name": "天津vs福建 近景视角"
-        },
-        {
-          "pID": "960347661",
-          "name": "北京vs山东 战术视角"
-        },
-        {
-          "pID": "960347687",
-          "name": "北京vs山东 网口视角"
-        },
-        {
           "pID": "960347330",
           "name": "女子U20 福建vs内蒙古"
+        },
+        {
+          "pID": "960347349",
+          "name": "女子U20 上海vs天津"
+        },
+        {
+          "pID": "960347297",
+          "name": "女子U18 河南vs四川"
+        },
+        {
+          "pID": "960347396",
+          "name": "女子U20 山东vs江苏"
+        },
+        {
+          "pID": "960346995",
+          "name": "女子U18 上海vs浙江"
         }
       ]
     },
@@ -530,7 +582,7 @@
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
       "competitionLogo": "",
       "pkInfoTitle": "体操 多项个人单项决赛",
-      "modifyTitle": "体操 多项个人单项决赛",
+      "modifyTitle": "体操 多项个人单��决赛",
       "presenters": "",
       "matchInfo": {
         "time": "11月17日18:20"
@@ -605,7 +657,7 @@
     {
       "mgdbId": "120000559133",
       "pID": "120000559133",
-      "title": "田径 多项预赛及复赛 葛曼棋出战",
+      "title": "田径 多项预赛及复赛",
       "keyword": "11月17日09:20",
       "sportItemId": "",
       "matchStatus": "1",
@@ -613,7 +665,7 @@
       "competitionName": "全运会",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
       "competitionLogo": "",
-      "pkInfoTitle": "田径 多项预赛及复赛 葛曼棋出战",
+      "pkInfoTitle": "田径 多项预赛及复赛",
       "modifyTitle": "田径 多项预赛及复赛 葛曼棋出战",
       "presenters": "",
       "matchInfo": {
@@ -705,7 +757,7 @@
     {
       "mgdbId": "120000559123",
       "pID": "120000559123",
-      "title": "游泳 第8比赛日早场",
+      "title": "游泳 多项预赛 汪顺、李冰洁出战",
       "keyword": "11月17日08:50",
       "sportItemId": "",
       "matchStatus": "1",
@@ -713,7 +765,7 @@
       "competitionName": "全运会",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
       "competitionLogo": "",
-      "pkInfoTitle": "游泳 第8比赛日早场",
+      "pkInfoTitle": "游泳 多项预赛 汪顺、李冰洁出战",
       "modifyTitle": "游泳 多项预赛 汪顺、李冰洁出战",
       "presenters": "",
       "matchInfo": {
@@ -868,7 +920,7 @@
       "title": "网球 王欣瑜一日双赛 小布、小商出战",
       "keyword": "11月17日09:50",
       "sportItemId": "",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "全运会",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
@@ -948,7 +1000,7 @@
       "title": "篮球男子22岁以下组1/4决赛 河南vs广东",
       "keyword": "11月17日09:50",
       "sportItemId": "",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "全运会",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
@@ -1276,7 +1328,7 @@
       "title": "乒乓球 第11比赛日热身场",
       "keyword": "11月17日09:55",
       "sportItemId": "",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "全运会",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
@@ -1297,15 +1349,15 @@
     {
       "mgdbId": "120000559093",
       "pID": "120000559093",
-      "title": "孙颖莎领衔 樊振东、王楚钦率队出战",
+      "title": "樊振东、王楚钦率队出战 马龙亮相",
       "keyword": "11月17日09:50",
       "sportItemId": "",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "全运会",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
       "competitionLogo": "",
-      "pkInfoTitle": "孙颖莎领衔 樊振东、王楚钦率队出战",
+      "pkInfoTitle": "樊振东、王楚钦率队出战 马龙亮相",
       "modifyTitle": "乒乓球 男女团小组循环赛",
       "presenters": "",
       "matchInfo": {
@@ -1461,12 +1513,12 @@
       },
       "nodes": [
         {
-          "pID": "960347602",
-          "name": "赛场原声"
-        },
-        {
           "pID": "960346175",
           "name": "CCTV5"
+        },
+        {
+          "pID": "960347602",
+          "name": "赛场原声"
         }
       ]
     },
