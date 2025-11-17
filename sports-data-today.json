@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-11-17 10:31:30",
+  "updateTime": "2025-11-17 11:01:33",
   "data": [
     {
       "mgdbId": "120000561107",
@@ -148,11 +148,11 @@
     },
     {
       "mgdbId": "120000546733",
-      "pID": "960224616",
+      "pID": "960354136",
       "title": "NBA常规赛",
       "keyword": "11月17日08:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "冰沙国王中心",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/17/6V15LI80I8IT.jpg",
@@ -565,6 +565,10 @@
           "name": "女子U20 上海vs天津"
         },
         {
+          "pID": "960347272",
+          "name": "女子U18 内蒙古vs福建"
+        },
+        {
           "pID": "960347297",
           "name": "女子U18 河南vs四川"
         },
@@ -633,7 +637,7 @@
     {
       "mgdbId": "120000555933",
       "pID": "120000555933",
-      "title": "田径（竞走）马拉松竞走混合接力决赛",
+      "title": "马拉松竞走混合接力决赛 杨家玉、石升吉夺金",
       "keyword": "11月17日07:25",
       "sportItemId": "",
       "matchStatus": "1",
@@ -641,17 +645,13 @@
       "competitionName": "全运会",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
       "competitionLogo": "",
-      "pkInfoTitle": "田径（竞走）马拉松竞走混合接力决赛",
+      "pkInfoTitle": "马拉松竞走混合接力决赛 杨家玉、石升吉夺金",
       "modifyTitle": "田径（竞走）马拉松竞走混合接力决赛",
       "presenters": "",
       "matchInfo": {
         "time": "11月17日07:25"
       },
       "nodes": [
-        {
-          "pID": "960346182",
-          "name": "CCTV5+"
-        },
         {
           "pID": "960347123",
           "name": "赛场原声"
@@ -761,15 +761,15 @@
     {
       "mgdbId": "120000559123",
       "pID": "120000559123",
-      "title": "游泳 第8比赛日早场",
+      "title": "游泳 多项预赛 张展硕预赛第一晋级决赛",
       "keyword": "11月17日08:50",
       "sportItemId": "",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "全运会",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
       "competitionLogo": "",
-      "pkInfoTitle": "游泳 第8比赛日早场",
+      "pkInfoTitle": "游泳 多项预赛 张展硕预赛第一晋级决赛",
       "modifyTitle": "游泳 多项预赛 汪顺、李冰洁出战",
       "presenters": "",
       "matchInfo": {
@@ -779,6 +779,10 @@
         {
           "pID": "960347987",
           "name": "王子睿"
+        },
+        {
+          "pID": "960346189",
+          "name": "CCTV16"
         },
         {
           "pID": "960348003",
@@ -953,6 +957,10 @@
           "name": "综合信号"
         },
         {
+          "pID": "960347066",
+          "name": "群众网球"
+        },
+        {
           "pID": "960347563",
           "name": "战术视角"
         },
@@ -977,7 +985,7 @@
     {
       "mgdbId": "120000561805",
       "pID": "120000561805",
-      "title": "群众网球  团体决赛及单打第一、二轮",
+      "title": "群众网球  男单冯河 vs 钟晋",
       "keyword": "11月17日08:25",
       "sportItemId": "",
       "matchStatus": "1",
@@ -985,7 +993,7 @@
       "competitionName": "全运会",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
       "competitionLogo": "",
-      "pkInfoTitle": "群众网球  团体决赛及单打第一、二轮",
+      "pkInfoTitle": "群众网球  男单冯河 vs 钟晋",
       "modifyTitle": "网球（群体） 团体决赛及单打第一、二轮",
       "presenters": "",
       "matchInfo": {
@@ -1517,16 +1525,8 @@
       },
       "nodes": [
         {
-          "pID": "960346189",
-          "name": "CCTV16"
-        },
-        {
           "pID": "960347602",
           "name": "赛场原声"
-        },
-        {
-          "pID": "960346175",
-          "name": "CCTV5"
         }
       ]
     },
