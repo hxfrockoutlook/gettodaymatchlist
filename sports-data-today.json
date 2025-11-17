@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-11-17 08:31:23",
+  "updateTime": "2025-11-17 09:01:32",
   "data": [
     {
       "mgdbId": "120000561107",
@@ -240,7 +240,7 @@
       "title": "NBA常规赛",
       "keyword": "11月17日09:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "凤凰城竞技场",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/16/6V14OQ9N9BGT.png",
@@ -268,7 +268,7 @@
       "title": "NBA常规赛",
       "keyword": "11月17日09:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "德尔塔中心球馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/16/6V14OQF3CKFU.png",
@@ -383,53 +383,9 @@
       ]
     },
     {
-      "mgdbId": "120000558071",
-      "pID": "120000558071",
-      "title": "排球 女子成年组1/4交叉赛 江苏VS辽宁",
-      "keyword": "11月17日10:00",
-      "sportItemId": "",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "全运会",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
-      "competitionLogo": "",
-      "pkInfoTitle": "排球 女子成年组1/4交叉赛 江苏VS辽宁",
-      "modifyTitle": "排球 女子成年组1/4交叉赛 江苏VS辽宁",
-      "presenters": "",
-      "matchInfo": {
-        "time": "11月17日10:00"
-      },
-      "nodes": [
-        {
-          "pID": "960347036",
-          "name": "鸿昆"
-        },
-        {
-          "pID": "960347019",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "960347154",
-          "name": "综合信号"
-        },
-        {
-          "pID": "960347188",
-          "name": "战术视角"
-        },
-        {
-          "pID": "960347230",
-          "name": "网口视角"
-        },
-        {
-          "pID": "960347261",
-          "name": "近景视角"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000560796",
       "pID": "120000560796",
-      "title": "排球第16比赛日",
+      "title": "排球第16比赛日 女子成年组1/4交叉赛 江苏VS辽宁等",
       "keyword": "11月17日09:50",
       "sportItemId": "",
       "matchStatus": "0",
@@ -437,7 +393,7 @@
       "competitionName": "全运会",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
       "competitionLogo": "",
-      "pkInfoTitle": "排球第16比赛日",
+      "pkInfoTitle": "排球第16比赛日 女子成年组1/4交叉赛 江苏VS辽宁等",
       "modifyTitle": "排球第16比赛日",
       "presenters": "",
       "matchInfo": {
@@ -449,16 +405,16 @@
           "name": "鸿昆"
         },
         {
+          "pID": "960347078",
+          "name": "范贵懿"
+        },
+        {
           "pID": "960347019",
           "name": "赛场原声"
         },
         {
           "pID": "960347063",
           "name": "赛场原声"
-        },
-        {
-          "pID": "960347078",
-          "name": "范贵懿"
         },
         {
           "pID": "960347091",
@@ -483,10 +439,6 @@
         {
           "pID": "960347140",
           "name": "女子成年组 四川vs香港"
-        },
-        {
-          "pID": "960347154",
-          "name": "江苏vs辽宁 综合信号"
         },
         {
           "pID": "960347188",
@@ -555,6 +507,10 @@
         {
           "pID": "960347710",
           "name": "北京vs山东 近景视角"
+        },
+        {
+          "pID": "960347211",
+          "name": "女子成年组 澳门vs��东"
         }
       ]
     },
@@ -748,7 +704,7 @@
       "title": "游泳 多项预赛 汪顺、李冰洁出战",
       "keyword": "11月17日08:50",
       "sportItemId": "",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "全运会",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
@@ -1407,6 +1363,193 @@
         {
           "pID": "960349534",
           "name": "运动员视角2"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000558071",
+      "pID": "120000558071",
+      "title": "排球 女子成年组1/4交叉赛 江苏VS辽宁",
+      "keyword": "11月17日10:00",
+      "sportItemId": "",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "全运会",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
+      "competitionLogo": "",
+      "pkInfoTitle": "排球 女子成年组1/4交叉赛 江苏VS辽宁",
+      "modifyTitle": "排球 女子成年组1/4交叉赛 江苏VS辽宁",
+      "presenters": "",
+      "matchInfo": {
+        "time": "11月17日10:00"
+      },
+      "nodes": []
+    },
+    {
+      "mgdbId": "120000560805",
+      "pID": "120000560805",
+      "title": "垒球第7比赛日",
+      "keyword": "11月17日08:48",
+      "sportItemId": "",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "全运会",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
+      "competitionLogo": "",
+      "pkInfoTitle": "垒球第7比赛日",
+      "modifyTitle": "垒球第7比赛日",
+      "presenters": "",
+      "matchInfo": {
+        "time": "11月17日08:48"
+      },
+      "nodes": [
+        {
+          "pID": "960347517",
+          "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000560810",
+      "pID": "120000560810",
+      "title": "棒球第5比赛日",
+      "keyword": "11月17日08:48",
+      "sportItemId": "",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "全运会",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
+      "competitionLogo": "",
+      "pkInfoTitle": "棒球第5比赛日",
+      "modifyTitle": "棒球第5比赛日",
+      "presenters": "",
+      "matchInfo": {
+        "time": "11月17日08:48"
+      },
+      "nodes": [
+        {
+          "pID": "960347490",
+          "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000555648",
+      "pID": "120000555648",
+      "title": "射箭男子反曲弓个人 1/8淘汰赛",
+      "keyword": "11月17日08:55",
+      "sportItemId": "",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "全运会",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
+      "competitionLogo": "",
+      "pkInfoTitle": "射箭男子反曲弓个人 1/8淘汰赛",
+      "modifyTitle": "射箭男子反曲弓个人 1/8淘汰赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "11月17日08:55"
+      },
+      "nodes": [
+        {
+          "pID": "960347579",
+          "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000559068",
+      "pID": "120000559068",
+      "title": "皮划艇静水 第2比赛日",
+      "keyword": "11月17日08:55",
+      "sportItemId": "",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "全运会",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
+      "competitionLogo": "",
+      "pkInfoTitle": "皮划艇静水 第2比赛日",
+      "modifyTitle": "皮划艇静水 第2比赛日",
+      "presenters": "",
+      "matchInfo": {
+        "time": "11月17日08:55"
+      },
+      "nodes": [
+        {
+          "pID": "960347602",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "960346175",
+          "name": "CCTV5"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000559080",
+      "pID": "120000559080",
+      "title": "击剑 男子重剑/女子花剑个人半决赛、铜牌赛、金牌赛",
+      "keyword": "11月17日08:55",
+      "sportItemId": "",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "全运会",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
+      "competitionLogo": "",
+      "pkInfoTitle": "击剑 男子重剑/女子花剑个人半决赛、铜牌赛、金牌赛",
+      "modifyTitle": "击剑 男子重剑/女子花剑个人",
+      "presenters": "",
+      "matchInfo": {
+        "time": "11月17日08:55"
+      },
+      "nodes": [
+        {
+          "pID": "960347158",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "960347135",
+          "name": "韩健"
+        },
+        {
+          "pID": "960347418",
+          "name": "综合信号"
+        },
+        {
+          "pID": "960347439",
+          "name": "全景视角"
+        },
+        {
+          "pID": "960347470",
+          "name": "左半区视角"
+        },
+        {
+          "pID": "960347501",
+          "name": "右半区视角"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000559721",
+      "pID": "120000559721",
+      "title": "射箭 男子反曲弓个人1/4淘汰赛至决赛",
+      "keyword": "11月17日14:55",
+      "sportItemId": "",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "全运会",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
+      "competitionLogo": "",
+      "pkInfoTitle": "射箭 男子反曲弓个人1/4淘汰赛至决赛",
+      "modifyTitle": "射箭 男子反曲弓个人1/4淘汰赛至决赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "11月17日14:55"
+      },
+      "nodes": [
+        {
+          "pID": "960347554",
+          "name": "赛场原声"
         }
       ]
     }
