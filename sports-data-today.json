@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-11-18 09:01:15",
+  "updateTime": "2025-11-18 09:31:11",
   "data": [
     {
       "mgdbId": "120000546738",
@@ -426,7 +426,7 @@
       "mgdbId": "120000558067",
       "pID": "120000558067",
       "title": "排球 女子成年组5-8名半决赛 辽宁vs天津",
-      "keyword": "11月18日10:00",
+      "keyword": "11月18日09:50",
       "sportItemId": "",
       "matchStatus": "0",
       "matchField": "",
@@ -437,7 +437,7 @@
       "modifyTitle": "排球 女子成年组5-8名半决赛 辽宁vs天津",
       "presenters": "",
       "matchInfo": {
-        "time": "11月18日10:00"
+        "time": "11月18日09:50"
       },
       "nodes": [
         {
@@ -604,7 +604,7 @@
       "title": "田径 多项预赛及男子标枪决赛 徐家杰争卫冕",
       "keyword": "11月18日09:20",
       "sportItemId": "",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "全运会",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
@@ -621,12 +621,8 @@
           "name": "赛场原声"
         },
         {
-          "pID": "960385044",
-          "name": "CCTV5"
-        },
-        {
           "pID": "960386792",
-          "name": "男子标枪格赛"
+          "name": "男子标枪决赛"
         },
         {
           "pID": "960386894",
@@ -647,6 +643,10 @@
         {
           "pID": "960388314",
           "name": "田3"
+        },
+        {
+          "pID": "960385044",
+          "name": "CCTV5"
         }
       ]
     },
@@ -777,7 +777,7 @@
     {
       "mgdbId": "120000559735",
       "pID": "120000559735",
-      "title": "网球 布云朝克特出战 吴易昺接场",
+      "title": "网球 左右大战！王欣瑜大战王曦雨",
       "keyword": "11月18日09:50",
       "sportItemId": "",
       "matchStatus": "0",
@@ -785,7 +785,7 @@
       "competitionName": "全运会",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
       "competitionLogo": "",
-      "pkInfoTitle": "网球 布云朝克特出战 吴易昺接场",
+      "pkInfoTitle": "网球 左右大战！王欣瑜大战王曦雨",
       "modifyTitle": "网球 布云朝克特出战 吴易昺接场",
       "presenters": "",
       "matchInfo": {
@@ -807,6 +807,10 @@
         {
           "pID": "960386458",
           "name": "群众网球"
+        },
+        {
+          "pID": "958667580",
+          "name": "CCTV5+"
         },
         {
           "pID": "960386803",
@@ -901,7 +905,7 @@
     {
       "mgdbId": "120000556039",
       "pID": "120000556039",
-      "title": "篮球男子18岁以下组铜牌赛",
+      "title": "篮球男子18岁以下组铜牌赛 浙江vs上海",
       "keyword": "11月18日16:20",
       "sportItemId": "",
       "matchStatus": "0",
@@ -909,7 +913,7 @@
       "competitionName": "全运会",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
       "competitionLogo": "",
-      "pkInfoTitle": "篮球男子18岁以下组铜牌赛",
+      "pkInfoTitle": "篮球男子18岁以下组铜牌赛 浙江vs上海",
       "modifyTitle": "篮球男子18岁以下组铜牌赛",
       "presenters": "",
       "matchInfo": {
@@ -989,7 +993,7 @@
     {
       "mgdbId": "120000556038",
       "pID": "120000556038",
-      "title": "篮球男子18岁以下组金牌赛",
+      "title": "篮球男子18岁以下组金牌赛 山东vs广东",
       "keyword": "11月18日19:50",
       "sportItemId": "",
       "matchStatus": "0",
@@ -997,7 +1001,7 @@
       "competitionName": "全运会",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
       "competitionLogo": "",
-      "pkInfoTitle": "篮球男子18岁以下组金牌赛",
+      "pkInfoTitle": "篮球男子18岁以下组金牌赛 山东vs广东",
       "modifyTitle": "篮球男子18岁以下组金牌赛",
       "presenters": "",
       "matchInfo": {
@@ -1103,13 +1107,17 @@
         {
           "pID": "960388808",
           "name": "网口视角"
+        },
+        {
+          "pID": "958667567",
+          "name": "CCTV5"
         }
       ]
     },
     {
       "mgdbId": "120000559143",
       "pID": "120000559143",
-      "title": "4强战！10时王楚钦、樊振东率队登场",
+      "title": "10时何卓佳/王添艺登场 孙颖莎接台",
       "keyword": "11月18日09:50",
       "sportItemId": "",
       "matchStatus": "0",
@@ -1117,8 +1125,8 @@
       "competitionName": "全运会",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
       "competitionLogo": "",
-      "pkInfoTitle": "4强战！10时王楚钦、樊振东率队登场",
-      "modifyTitle": "4强战！10时王楚钦、樊振东率队登场",
+      "pkInfoTitle": "10时何卓佳/王添艺登场 孙颖莎接台",
+      "modifyTitle": "10时何卓佳/王添艺登场 孙颖莎接台",
       "presenters": "",
       "matchInfo": {
         "time": "11月18日09:50"
