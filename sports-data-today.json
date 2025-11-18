@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-11-18 07:31:02",
+  "updateTime": "2025-11-18 08:01:04",
   "data": [
     {
       "mgdbId": "120000546738",
@@ -8,7 +8,7 @@
       "title": "NBA常规赛",
       "keyword": "11月18日08:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "小凯撒球馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/17/6V15JIF99LSA.png",
@@ -36,7 +36,7 @@
       "title": "NBA常规赛",
       "keyword": "11月18日08:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "富国银行中心",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/17/6V15J5V2RMKS.png",
@@ -68,7 +68,7 @@
       "title": "NBA常规赛",
       "keyword": "11月18日08:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "火箭信贷球馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/17/6V15JIIFEVTO.png",
@@ -617,7 +617,7 @@
     {
       "mgdbId": "120000559135",
       "pID": "120000559135",
-      "title": "羽毛球 翁泓阳冲决赛 陈雨菲PK韩���",
+      "title": "羽毛球 翁泓阳冲决赛 陈雨菲PK韩悦",
       "keyword": "11月18日13:45",
       "sportItemId": "",
       "matchStatus": "0",
@@ -625,7 +625,7 @@
       "competitionName": "全运会",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
       "competitionLogo": "",
-      "pkInfoTitle": "羽毛球 翁泓阳冲决赛 陈雨菲PK韩���",
+      "pkInfoTitle": "羽毛球 翁泓阳冲决赛 陈雨菲PK韩悦",
       "modifyTitle": "羽毛球 第12比赛日",
       "presenters": "",
       "matchInfo": {
@@ -809,24 +809,16 @@
           "name": "小马哥"
         },
         {
+          "pID": "960389815",
+          "name": "石楚阳"
+        },
+        {
           "pID": "960387174",
           "name": "1号桌"
         },
         {
-          "pID": "960387250",
-          "name": "综合信号"
-        },
-        {
-          "pID": "960387280",
-          "name": "运动员视角1"
-        },
-        {
-          "pID": "960387333",
-          "name": "运动员视角2"
-        },
-        {
-          "pID": "960389815",
-          "name": "石楚阳"
+          "pID": "960387366",
+          "name": "热身场"
         },
         {
           "pID": "960389882",
@@ -855,6 +847,18 @@
         {
           "pID": "960389963",
           "name": "8号桌"
+        },
+        {
+          "pID": "960387250",
+          "name": "综合信号"
+        },
+        {
+          "pID": "960387280",
+          "name": "运动员视角1"
+        },
+        {
+          "pID": "960387333",
+          "name": "运动员视角2"
         }
       ]
     }
