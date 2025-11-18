@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-11-18 19:31:18",
+  "updateTime": "2025-11-18 20:01:13",
   "data": [
     {
       "mgdbId": "120000546738",
@@ -264,7 +264,7 @@
       "title": "柯城VS余姚",
       "keyword": "11月18日19:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "浙江省城市篮球联赛",
       "padImg": "",
@@ -288,7 +288,7 @@
       "title": "绍兴VS丽水",
       "keyword": "11月18日19:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "浙江省城市篮球联赛",
       "padImg": "",
@@ -345,7 +345,7 @@
     {
       "mgdbId": "120000559144",
       "pID": "120000559144",
-      "title": "孙颖莎领衔出战 马龙、王楚钦率队冲决赛",
+      "title": "孙颖莎、王楚钦、樊振东率队晋级",
       "keyword": "11月18日17:45",
       "sportItemId": "",
       "matchStatus": "1",
@@ -353,7 +353,7 @@
       "competitionName": "全运会",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
       "competitionLogo": "",
-      "pkInfoTitle": "孙颖莎领衔出战 马龙、王楚钦率队冲决赛",
+      "pkInfoTitle": "孙颖莎、王楚钦、樊振东率队晋级",
       "modifyTitle": "乒乓球 男女团半决赛",
       "presenters": "",
       "matchInfo": {
@@ -361,16 +361,24 @@
       },
       "nodes": [
         {
-          "pID": "960387197",
-          "name": "周泽昊 周冠达 美丫"
-        },
-        {
           "pID": "960406718",
           "name": "3号桌"
         },
         {
+          "pID": "960387197",
+          "name": "周泽昊 周冠达 美丫"
+        },
+        {
           "pID": "960401253",
           "name": "5号桌"
+        },
+        {
+          "pID": "960411750",
+          "name": "小马哥"
+        },
+        {
+          "pID": "960401209",
+          "name": "2号桌"
         },
         {
           "pID": "960387208",
@@ -391,14 +399,6 @@
         {
           "pID": "960387366",
           "name": "热身场"
-        },
-        {
-          "pID": "960411750",
-          "name": "小马哥"
-        },
-        {
-          "pID": "960401209",
-          "name": "2号桌"
         }
       ]
     },
@@ -1021,10 +1021,6 @@
           "name": "赛场原声"
         },
         {
-          "pID": "960386458",
-          "name": "群众网球"
-        },
-        {
           "pID": "960386803",
           "name": "综合信号"
         },
@@ -1117,7 +1113,7 @@
     {
       "mgdbId": "120000556039",
       "pID": "120000556039",
-      "title": "篮球男子18岁以下组铜牌赛 浙���90-98上海",
+      "title": "篮球男子18岁以下组铜牌赛 浙江90-98上海",
       "keyword": "11月18日16:20",
       "sportItemId": "",
       "matchStatus": "2",
@@ -1125,7 +1121,7 @@
       "competitionName": "全运会",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
       "competitionLogo": "",
-      "pkInfoTitle": "篮球男子18岁以下组铜牌赛 浙���90-98上海",
+      "pkInfoTitle": "篮球男子18岁以下组铜牌赛 浙江90-98上海",
       "modifyTitle": "篮球男子18岁以下组铜牌赛",
       "presenters": "",
       "matchInfo": {
@@ -1220,7 +1216,7 @@
       "title": "篮球男子18岁以下组金牌赛 山东vs广东",
       "keyword": "11月18日19:50",
       "sportItemId": "",
-      "matchStatus": "0",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "全运会",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
@@ -1268,7 +1264,7 @@
       "title": "篮球男子22岁以下组5-8排位赛 浙江vs天津",
       "keyword": "11月18日19:50",
       "sportItemId": "",
-      "matchStatus": "0",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "全运会",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
@@ -1289,7 +1285,7 @@
     {
       "mgdbId": "120000558294",
       "pID": "120000558294",
-      "title": "举重男子89公斤级决赛 李大银冲金",
+      "title": "举重男子89公斤级决赛",
       "keyword": "11月18日18:50",
       "sportItemId": "",
       "matchStatus": "1",
@@ -1297,7 +1293,7 @@
       "competitionName": "全运会",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
       "competitionLogo": "",
-      "pkInfoTitle": "举重男子89公斤级决赛 李大银冲金",
+      "pkInfoTitle": "举重男子89公斤级决赛",
       "modifyTitle": "举重男子 89公斤级决赛",
       "presenters": "",
       "matchInfo": {
