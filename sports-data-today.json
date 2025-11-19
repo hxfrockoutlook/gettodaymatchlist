@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-11-19 08:31:12",
+  "updateTime": "2025-11-19 09:01:22",
   "data": [
     {
       "mgdbId": "120000554299",
@@ -120,7 +120,7 @@
       "title": "NBA常规赛",
       "keyword": "11月19日09:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "冰霜银行中心",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/18/6V16G4OS97SL.png",
@@ -436,7 +436,7 @@
       "title": "射箭 反曲弓女团半决赛/铜牌赛/决赛",
       "keyword": "11月19日08:55",
       "sportItemId": "",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "全运会",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
@@ -729,40 +729,40 @@
       },
       "nodes": [
         {
-          "pID": "960415526",
-          "name": "综合信号"
-        },
-        {
           "pID": "960415453",
           "name": "鸿昆"
+        },
+        {
+          "pID": "960415694",
+          "name": "女子成年组 辽宁vs北京"
+        },
+        {
+          "pID": "960415879",
+          "name": "男子成年组 河北vs北京"
         },
         {
           "pID": "960415469",
           "name": "范贵懿"
         },
         {
-          "pID": "960415560",
-          "name": "战术视角"
-        },
-        {
-          "pID": "960415606",
-          "name": "网口视角"
-        },
-        {
-          "pID": "960415662",
-          "name": "近景视角"
-        },
-        {
-          "pID": "960415708",
-          "name": "综合信号"
-        },
-        {
-          "pID": "960415871",
-          "name": "近景视角"
+          "pID": "960415784",
+          "name": "女子成年组 天津vs河南"
         },
         {
           "pID": "960416010",
           "name": "女子成年组 澳门vs香港"
+        },
+        {
+          "pID": "960415917",
+          "name": "男子成年组 四川vs江苏"
+        },
+        {
+          "pID": "960415526",
+          "name": "综合信号"
+        },
+        {
+          "pID": "960415708",
+          "name": "综合信号"
         },
         {
           "pID": "960416067",
@@ -783,14 +783,6 @@
         {
           "pID": "960416137",
           "name": "男子成年组 香港vs广东"
-        },
-        {
-          "pID": "960416392",
-          "name": "战术视角"
-        },
-        {
-          "pID": "960418347",
-          "name": "网口视角"
         }
       ]
     },
@@ -817,12 +809,12 @@
           "name": "解说"
         },
         {
-          "pID": "960415820",
-          "name": "赛场原声"
-        },
-        {
           "pID": "960416022",
           "name": "综合信号"
+        },
+        {
+          "pID": "960415820",
+          "name": "赛场原声"
         },
         {
           "pID": "960416143",
@@ -888,7 +880,7 @@
       "title": "竞速小轮车 第1比赛日",
       "keyword": "11月19日08:55",
       "sportItemId": "",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "全运会",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
@@ -993,6 +985,10 @@
           "name": "小马哥"
         },
         {
+          "pID": "960416035",
+          "name": "热身场"
+        },
+        {
           "pID": "960415777",
           "name": "赛场原声"
         },
@@ -1007,10 +1003,6 @@
         {
           "pID": "960415931",
           "name": "综合信号"
-        },
-        {
-          "pID": "960416035",
-          "name": "热身场"
         }
       ]
     },
@@ -1058,6 +1050,58 @@
       "nodes": [
         {
           "pID": "960416594",
+          "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000558981",
+      "pID": "120000558981",
+      "title": "皮划艇静水 第4比赛日",
+      "keyword": "11月19日08:55",
+      "sportItemId": "",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "全运会",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
+      "competitionLogo": "",
+      "pkInfoTitle": "皮划艇静水 第4比赛日",
+      "modifyTitle": "皮划艇静水 第4比赛日",
+      "presenters": "",
+      "matchInfo": {
+        "time": "11月19日08:55"
+      },
+      "nodes": [
+        {
+          "pID": "960415942",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "960414464",
+          "name": "CCTV5+"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000559717",
+      "pID": "120000559717",
+      "title": "女子水球第4比赛日 多场半决赛",
+      "keyword": "11月19日14:50",
+      "sportItemId": "",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "全运会",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
+      "competitionLogo": "",
+      "pkInfoTitle": "女子水球第4比赛日 多场半决赛",
+      "modifyTitle": "女子水球第4比赛日 多场半决赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "11月19日14:50"
+      },
+      "nodes": [
+        {
+          "pID": "960415928",
           "name": "赛场原声"
         }
       ]
