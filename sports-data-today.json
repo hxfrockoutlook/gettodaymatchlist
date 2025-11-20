@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-11-20 13:31:30",
+  "updateTime": "2025-11-20 14:01:20",
   "data": [
     {
       "mgdbId": "120000561917",
@@ -264,11 +264,11 @@
     },
     {
       "mgdbId": "120000546759",
-      "pID": "960244542",
+      "pID": "960463614",
       "title": "NBA常规赛",
       "keyword": "11月20日10:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "美国航线中心体育馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/20/6V18A81ESO2J.png",
@@ -281,6 +281,10 @@
       },
       "nodes": [
         {
+          "pID": "960463614",
+          "name": "夺命刺客！沙梅特关键时刻连中三分立大功"
+        },
+        {
           "pID": "960244542",
           "name": "邵化谦 季孟年"
         },
@@ -292,11 +296,11 @@
     },
     {
       "mgdbId": "120000546760",
-      "pID": "960387109",
+      "pID": "960463981",
       "title": "NBA常规赛",
       "keyword": "11月20日11:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "摩达中心",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/20/6V18DHLSIHPV.jpg",
@@ -308,6 +312,10 @@
         "time": "11月20日11:00"
       },
       "nodes": [
+        {
+          "pID": "960463981",
+          "name": "【球星高光】背身单打+不看人妙传！杨瀚森斩获2分2板1助"
+        },
         {
           "pID": "960387109",
           "name": "孙博 闫宇峰"
@@ -519,12 +527,40 @@
       ]
     },
     {
+      "mgdbId": "120000558288",
+      "pID": "120000558288",
+      "title": "举重男子109公斤级决赛",
+      "keyword": "11月20日14:50",
+      "sportItemId": "",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "全运会",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
+      "competitionLogo": "",
+      "pkInfoTitle": "举重男子109公斤级决赛",
+      "modifyTitle": "举重男子109公斤级决赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "11月20日14:50"
+      },
+      "nodes": [
+        {
+          "pID": "960439340",
+          "name": "邢天宇"
+        },
+        {
+          "pID": "960439109",
+          "name": "赛场原声"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000559060",
       "pID": "120000559060",
       "title": "羽毛球 雅思组合最后一舞 陈雨菲冲金",
       "keyword": "11月20日13:45",
       "sportItemId": "",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "全运会",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
@@ -539,10 +575,6 @@
         {
           "pID": "960439507",
           "name": "鸿昆 蔡赟"
-        },
-        {
-          "pID": "960439528",
-          "name": "王小羽 鲍春来"
         },
         {
           "pID": "960439591",
@@ -563,6 +595,10 @@
         {
           "pID": "960439846",
           "name": "运动员视角2"
+        },
+        {
+          "pID": "960439528",
+          "name": "王小羽 鲍春来"
         }
       ]
     },
@@ -701,6 +737,14 @@
       },
       "nodes": [
         {
+          "pID": "960439023",
+          "name": "詹俊 胡力涛"
+        },
+        {
+          "pID": "960439062",
+          "name": "詹俊 胡力涛"
+        },
+        {
           "pID": "960439075",
           "name": "赛场原声"
         },
@@ -723,14 +767,6 @@
         {
           "pID": "960439214",
           "name": "运动员视角2"
-        },
-        {
-          "pID": "960439023",
-          "name": "詹俊 胡力涛"
-        },
-        {
-          "pID": "960439062",
-          "name": "詹俊 胡力涛"
         }
       ]
     },
@@ -1140,7 +1176,7 @@
       "title": "篮球男子22岁以下组5-6排位赛 辽宁vs浙江",
       "keyword": "11月20日13:50",
       "sportItemId": "",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "全运会",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
@@ -1238,34 +1274,6 @@
         },
         {
           "pID": "960439159",
-          "name": "赛场原声"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000558288",
-      "pID": "120000558288",
-      "title": "举重男子109公斤级决赛",
-      "keyword": "11月20日14:50",
-      "sportItemId": "",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "全运会",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/21/11005/d064ae13528b4396a6194f13163cb3d3/d064ae13528b4396a6194f13163cb3d3_H169_P1080_WEBP.webp",
-      "competitionLogo": "",
-      "pkInfoTitle": "举重男子109公斤级决赛",
-      "modifyTitle": "举重 男子109公斤级决赛",
-      "presenters": "",
-      "matchInfo": {
-        "time": "11月20日14:50"
-      },
-      "nodes": [
-        {
-          "pID": "960439340",
-          "name": "邢天宇"
-        },
-        {
-          "pID": "960439109",
           "name": "赛场原声"
         }
       ]
