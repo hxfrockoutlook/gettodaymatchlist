@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-11-20 07:31:03",
+  "updateTime": "2025-11-20 08:01:08",
   "data": [
     {
       "mgdbId": "120000561917",
@@ -36,7 +36,7 @@
       "title": "NBA常规赛",
       "keyword": "11月20日08:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "盖恩布里奇体育馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/19/6V17GE7KK4CG.jpg",
@@ -64,7 +64,7 @@
       "title": "NBA常规赛",
       "keyword": "11月20日08:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "富国银行中心",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/19/6V17GEPM5Q60.jpg",
@@ -92,7 +92,7 @@
       "title": "NBA常规赛",
       "keyword": "11月20日08:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "火箭信贷球馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/19/6V17D3IRAR5B.png",
@@ -131,14 +131,14 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "勇士VS热火",
       "modifyTitle": "NBA常规赛",
-      "presenters": "李天宇 陈正昊 金佳悦 拜月宁",
+      "presenters": "李天宇 陈正昊 魏欣怡 拜月宁",
       "matchInfo": {
         "time": "11月20日08:30"
       },
       "nodes": [
         {
           "pID": "960246511",
-          "name": "李天宇 陈正昊 金佳悦"
+          "name": "李天宇 陈正昊 魏欣怡"
         },
         {
           "pID": "960246464",
@@ -465,7 +465,7 @@
     {
       "mgdbId": "120000561918",
       "pID": "960377279",
-      "title": "凯伦·威尔逊PK罗伯逊",
+      "title": "凯伦·威尔逊PK罗伯逊 艾伦迎战希金斯",
       "keyword": "11月20日22:00",
       "sportItemId": "8",
       "matchStatus": "0",
@@ -473,8 +473,8 @@
       "competitionName": "斯诺克",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "凯伦·威尔逊PK罗伯逊",
-      "modifyTitle": "斯诺克利雅得狂欢季沙特大师赛1/4决赛：凯伦·威尔逊PK罗伯逊",
+      "pkInfoTitle": "凯伦·威尔逊PK罗伯逊 艾伦迎战希金斯",
+      "modifyTitle": "斯诺克利雅得狂欢季沙特大师赛1/4决赛：凯伦·威尔逊PK罗伯逊 艾伦迎战希金斯",
       "presenters": "秦正",
       "matchInfo": {
         "time": "11月20日22:00"
@@ -676,6 +676,10 @@
         "time": "11月20日09:50"
       },
       "nodes": [
+        {
+          "pID": "960439444",
+          "name": "热身场"
+        },
         {
           "pID": "960439197",
           "name": "小马哥"
