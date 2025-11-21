@@ -27,7 +27,7 @@ jobs:
         cache: 'npm'
         
     - name: Run data fetcher
-      run: node ./get-app-qyh-match-list.js  # 改为运行新的脚本文件
+      run: node ./get-app-today-match-list.js  # 改为运行新的脚本文件
       
     - name: Commit and push if changed
       run: |
