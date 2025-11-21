@@ -51,7 +51,7 @@ function parseKeyword(startTime) {
 // 从 HTML 页面抓取全运会比赛
 async function fetchQuanyunhuiMatches() {
   const url1 = 'https://www.miguvideo.com/p/home/16ed73096e0244d1ba1034d973a020fe';
-  const url2 = 'https://display-sc.miguvideo.com/display/v3/static/f63fc8c1ab724d01997e5664b178b9f7/7360879527bc4f07b40f00ef87e20c0a/b18e43e0f21d49aabd66f8c255c00f6f/fe0bd84f525746a0aa7c4506badf43ca';
+  const url2 = 'https://display-sc.miguvideo.com/display/v3/static/9d252e2d70064d0584a79e990f51e064/432897b2b9e647488ce6baf0565bbdf2/e1645cd6b84940f2b89d759550afc591/0abe98d9b2124becb6bdff002b22aa4b';
   
   const allMatches = [];
   
