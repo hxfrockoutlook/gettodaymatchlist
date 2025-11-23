@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-11-23 20:31:36",
+  "updateTime": "2025-11-23 21:01:41",
   "data": [
     {
       "mgdbId": "120000542657",
@@ -335,7 +335,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/9106a54e6.png",
       "pkInfoTitle": "巴黎圣日耳曼 vs 勒阿弗尔",
       "modifyTitle": "法甲联赛",
-      "presenters": "鹿��原 王宇",
+      "presenters": "鹿中原 王宇",
       "matchInfo": {
         "time": "11月23日04:05"
       },
@@ -624,7 +624,7 @@
     },
     {
       "mgdbId": "120000550247",
-      "pID": "958252987",
+      "pID": "960612797",
       "title": "内江重龍酒队 VS 泸州老窖队",
       "keyword": "11月23日 15:00",
       "sportItemId": "1",
@@ -904,7 +904,7 @@
     },
     {
       "mgdbId": "120000562713",
-      "pID": "960535381",
+      "pID": "960543420",
       "title": "周金豪、高阳领衔出战 江俊晋级",
       "keyword": "11月23日17:30",
       "sportItemId": "8",
@@ -921,6 +921,10 @@
       },
       "nodes": [
         {
+          "pID": "960543420",
+          "name": "7号桌"
+        },
+        {
           "pID": "960535381",
           "name": "1号桌"
         },
@@ -929,20 +933,8 @@
           "name": "2号桌"
         },
         {
-          "pID": "960542861",
-          "name": "4号桌"
-        },
-        {
-          "pID": "960543140",
-          "name": "5号桌"
-        },
-        {
           "pID": "960544123",
           "name": "6号桌"
-        },
-        {
-          "pID": "960543420",
-          "name": "7号桌"
         },
         {
           "pID": "960542865",
@@ -951,6 +943,14 @@
         {
           "pID": "960541375",
           "name": "3号桌"
+        },
+        {
+          "pID": "960542861",
+          "name": "4号桌"
+        },
+        {
+          "pID": "960543140",
+          "name": "5号桌"
         }
       ]
     },
@@ -1188,7 +1188,7 @@
       "title": "西甲联赛",
       "keyword": "11月23日21:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "新卡洛斯·塔尔蒂耶雷体育场",
       "competitionName": "西甲",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000543901/202509121624_527341_H169_1080.webp",
