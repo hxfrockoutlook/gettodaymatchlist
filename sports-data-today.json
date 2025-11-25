@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-11-25 21:01:31",
+  "updateTime": "2025-11-25 21:31:33",
   "data": [
     {
       "mgdbId": "120000547873",
@@ -62,7 +62,7 @@
       "mgdbId": "120000543159",
       "pID": "960484392",
       "title": "意甲联赛",
-      "keyword": "11月25日01:30",
+      "keyword": "11��25日01:30",
       "sportItemId": "1",
       "matchStatus": "2",
       "matchField": "奥林匹克球场",
@@ -73,7 +73,7 @@
       "modifyTitle": "意甲联赛",
       "presenters": "吴奕博",
       "matchInfo": {
-        "time": "11月25日01:30"
+        "time": "11��25日01:30"
       },
       "nodes": [
         {
@@ -908,8 +908,8 @@
     },
     {
       "mgdbId": "120000562719",
-      "pID": "960543867",
-      "title": "刘宏宇出战 傅家俊退赛周跃龙晋级",
+      "pID": "960536558",
+      "title": "傅家俊退赛 周跃龙晋级",
       "keyword": "11月25日17:30",
       "sportItemId": "8",
       "matchStatus": "1",
@@ -917,17 +917,13 @@
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/25/6V1CU45KP6II.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "刘宏宇出战 傅家俊退赛周跃龙晋级",
-      "modifyTitle": "斯诺克英锦赛资格赛第三轮80进48：刘宏宇出战 傅家俊退赛周跃龙晋级",
+      "pkInfoTitle": "傅家俊退赛 周跃龙晋级",
+      "modifyTitle": "斯诺克英锦赛资格赛第三轮80进48：傅家俊退赛 周跃龙晋级",
       "presenters": "柏林",
       "matchInfo": {
         "time": "11月25日17:30"
       },
       "nodes": [
-        {
-          "pID": "960543867",
-          "name": "6号桌"
-        },
         {
           "pID": "960536558",
           "name": "1号桌"
@@ -941,12 +937,12 @@
           "name": "4号桌"
         },
         {
-          "pID": "960543497",
-          "name": "5号桌"
-        },
-        {
           "pID": "960543754",
           "name": "7号桌"
+        },
+        {
+          "pID": "960543867",
+          "name": "6号桌"
         },
         {
           "pID": "960538802",
@@ -955,6 +951,10 @@
         {
           "pID": "960543628",
           "name": "柏林"
+        },
+        {
+          "pID": "960543497",
+          "name": "5号桌"
         },
         {
           "pID": "960543250",
@@ -1049,7 +1049,7 @@
     {
       "mgdbId": "120000561865",
       "pID": "960357514",
-      "title": "衢州VS绍兴",
+      "title": "衢州76-71绍兴",
       "keyword": "11月25日19:30",
       "sportItemId": "2",
       "matchStatus": "1",
@@ -1057,8 +1057,8 @@
       "competitionName": "浙江省城市篮球联赛",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/7/16/1000000012931063812e.png",
-      "pkInfoTitle": "衢州VS绍兴",
-      "modifyTitle": "衢州VS绍兴",
+      "pkInfoTitle": "衢州76-71绍兴",
+      "modifyTitle": "衢州76-71绍兴",
       "presenters": "",
       "matchInfo": {
         "time": "11月25日19:30"
@@ -1072,11 +1072,11 @@
     },
     {
       "mgdbId": "120000562752",
-      "pID": "960611744",
+      "pID": "960329771",
       "title": "WCBA 季前赛",
       "keyword": "11月25日19:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "WCBA 季前赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/24/6V1C04C4OF29.jpg",
@@ -1089,6 +1089,10 @@
       },
       "nodes": [
         {
+          "pID": "960329771",
+          "name": "广东未赢够！女篮再添一冠 南粤玫瑰傲然绽放"
+        },
+        {
           "pID": "960611744",
           "name": "清流播出"
         },
@@ -1100,11 +1104,11 @@
     },
     {
       "mgdbId": "120000562753",
-      "pID": "960611610",
+      "pID": "960329771",
       "title": "WCBA 季前赛",
       "keyword": "11月25日19:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "WCBA 季前赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000562753/202511231730_189119_H169_1080.webp",
@@ -1116,6 +1120,10 @@
         "time": "11月25日19:30"
       },
       "nodes": [
+        {
+          "pID": "960329771",
+          "name": "广东未赢够！女篮再添一冠 南粤玫瑰傲然绽放"
+        },
         {
           "pID": "960611610",
           "name": "清流播出"
