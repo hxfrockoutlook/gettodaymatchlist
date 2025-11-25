@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-11-25 14:01:23",
+  "updateTime": "2025-11-25 14:31:29",
   "data": [
     {
       "mgdbId": "120000547873",
@@ -62,7 +62,7 @@
       "mgdbId": "120000543159",
       "pID": "960484392",
       "title": "意甲联赛",
-      "keyword": "11���25日01:30",
+      "keyword": "11月25日01:30",
       "sportItemId": "1",
       "matchStatus": "2",
       "matchField": "奥林匹克球场",
@@ -73,7 +73,7 @@
       "modifyTitle": "意甲联赛",
       "presenters": "吴奕博",
       "matchInfo": {
-        "time": "11���25日01:30"
+        "time": "11月25日01:30"
       },
       "nodes": [
         {
@@ -592,9 +592,9 @@
     },
     {
       "mgdbId": "120000546797",
-      "pID": "960669217",
+      "pID": "960669950",
       "title": "NBA常规赛",
-      "keyword": "11月25日 11:00",
+      "keyword": "11月25日11:00",
       "sportItemId": "2",
       "matchStatus": "2",
       "matchField": "大通中心",
@@ -605,12 +605,12 @@
       "modifyTitle": "NBA常规赛",
       "presenters": "王冠证 陈正昊 廖昕阳 拜月宁",
       "matchInfo": {
-        "time": "11月25日 11:00"
+        "time": "11月25日11:00"
       },
       "nodes": [
         {
-          "pID": "960669217",
-          "name": "得分上30！库里外线发炮手拿把掐"
+          "pID": "960669950",
+          "name": "25/26赛季NBA常规赛全场集锦：爵士117:134勇士（20251125）"
         },
         {
           "pID": "960518212",
@@ -628,7 +628,7 @@
     },
     {
       "mgdbId": "120000546798",
-      "pID": "960669752",
+      "pID": "960670121",
       "title": "NBA常规赛",
       "keyword": "11月25日11:00",
       "sportItemId": "2",
@@ -645,8 +645,8 @@
       },
       "nodes": [
         {
-          "pID": "960669752",
-          "name": "止止渴！华子变向过人直杀禁区暴扣得手"
+          "pID": "960670121",
+          "name": "25/26赛季NBA常规赛全场集锦：森林狼112:117国王（20251125）"
         },
         {
           "pID": "960518349",
@@ -664,7 +664,7 @@
       "title": "WCBA 季前赛",
       "keyword": "11月25日14:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WCBA 季前赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/24/6V1C03JH5N7R.jpg",
@@ -688,7 +688,7 @@
       "title": "WCBA 季前赛",
       "keyword": "11月25日14:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WCBA 季前赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000562749/202511231730_149012_H169_1080.webp",
@@ -779,10 +779,29 @@
       ]
     },
     {
+      "mgdbId": "120000460241",
+      "pID": "960304183",
+      "title": "亚运演示",
+      "keyword": "11月25日15:30",
+      "sportItemId": "8",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "中国飞盘联赛",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/4/14/1000000010411065f47d.png",
+      "pkInfoTitle": "亚运演示",
+      "modifyTitle": "乒乓测试挂件",
+      "presenters": "",
+      "matchInfo": {
+        "time": "11月25日15:30"
+      },
+      "nodes": []
+    },
+    {
       "mgdbId": "120000547939",
       "pID": "960497442",
       "title": "亚冠精英联赛阶段",
-      "keyword": "11月25日16:45",
+      "keyword": "11月25日15:45",
       "sportItemId": "1",
       "matchStatus": "0",
       "matchField": "墨尔本矩形球场",
@@ -793,7 +812,7 @@
       "modifyTitle": "亚冠精英联赛阶段",
       "presenters": "鲁靖明",
       "matchInfo": {
-        "time": "11月25日16:45"
+        "time": "11月25日15:45"
       },
       "nodes": [
         {
@@ -962,6 +981,14 @@
         },
         {
           "pID": "960497490",
+          "name": "赛��原声"
+        },
+        {
+          "pID": "960670051",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "960497490",
           "name": "赛场原声"
         }
       ]
@@ -1017,36 +1044,8 @@
           "name": "官方解说"
         },
         {
-          "pID": "960475445",
-          "name": "清流"
-        },
-        {
           "pID": "960475459",
           "name": "明星视角1"
-        },
-        {
-          "pID": "960475474",
-          "name": "明星视角2"
-        },
-        {
-          "pID": "960475496",
-          "name": "明星视角3"
-        },
-        {
-          "pID": "960475534",
-          "name": "明星视角4"
-        },
-        {
-          "pID": "960475545",
-          "name": "明星视角5"
-        },
-        {
-          "pID": "960475544",
-          "name": "明星视角5"
-        },
-        {
-          "pID": "960475592",
-          "name": "地图流"
         }
       ]
     },
