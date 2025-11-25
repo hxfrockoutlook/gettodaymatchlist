@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-11-25 09:01:28",
+  "updateTime": "2025-11-25 09:31:26",
   "data": [
     {
       "mgdbId": "120000547873",
@@ -62,7 +62,7 @@
       "mgdbId": "120000543159",
       "pID": "960484392",
       "title": "意甲联赛",
-      "keyword": "11月25日01:30",
+      "keyword": "11��25日01:30",
       "sportItemId": "1",
       "matchStatus": "2",
       "matchField": "奥林匹克球场",
@@ -73,7 +73,7 @@
       "modifyTitle": "意甲联赛",
       "presenters": "吴奕博",
       "matchInfo": {
-        "time": "11月25日01:30"
+        "time": "11��25日01:30"
       },
       "nodes": [
         {
@@ -1129,6 +1129,10 @@
       },
       "nodes": [
         {
+          "pID": "960543608",
+          "name": "解说"
+        },
+        {
           "pID": "960536532",
           "name": "1号桌"
         },
@@ -1141,28 +1145,24 @@
           "name": "3号桌"
         },
         {
-          "pID": "960543299",
-          "name": "8号桌"
-        },
-        {
           "pID": "960543302",
           "name": "4号桌"
-        },
-        {
-          "pID": "960543608",
-          "name": "解说"
         },
         {
           "pID": "960543684",
           "name": "5号桌"
         },
         {
+          "pID": "960543850",
+          "name": "6号桌"
+        },
+        {
           "pID": "960543774",
           "name": "7号桌"
         },
         {
-          "pID": "960543850",
-          "name": "6号桌"
+          "pID": "960543299",
+          "name": "8号桌"
         }
       ]
     },
@@ -1172,7 +1172,7 @@
       "title": "世界潜联亚洲蹼泳锦标赛 Day1上午场",
       "keyword": "11月25日09:30",
       "sportItemId": "",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "世界潜联亚洲蹼泳锦标赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/24/6V1BV7UVC14N.png",
