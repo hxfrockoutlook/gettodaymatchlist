@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-11-26 21:01:22",
+  "updateTime": "2025-11-26 21:31:16",
   "data": [
     {
       "mgdbId": "120000547871",
@@ -266,7 +266,7 @@
       "mgdbId": "120000546801",
       "pID": "960703437",
       "title": "NBANBA杯",
-      "keyword": "11月26日12:00",
+      "keyword": "11月26��12:00",
       "sportItemId": "2",
       "matchStatus": "2",
       "matchField": "加密网体育馆",
@@ -277,7 +277,7 @@
       "modifyTitle": "NBANBA杯",
       "presenters": "杨健 曾令旭 闫宇峰 大史 郑泽鹏 莫俊祺 洪荒",
       "matchInfo": {
-        "time": "11月26日12:00"
+        "time": "11月26��12:00"
       },
       "nodes": [
         {
@@ -544,7 +544,7 @@
       "title": "嘉兴VS台州湾新区",
       "keyword": "11月26日19:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "浙江省城市篮球联赛",
       "padImg": "",
@@ -581,12 +581,12 @@
       },
       "nodes": [
         {
-          "pID": "960611768",
-          "name": "清流播出"
+          "pID": "960716886",
+          "name": "25/26赛季WCBA季前赛全场集锦：四川蜀道远达vs山东赤水河酒"
         },
         {
-          "pID": "960611671",
-          "name": "河北vs武汉"
+          "pID": "960611768",
+          "name": "清流播出"
         }
       ]
     },
@@ -596,7 +596,7 @@
       "title": "WCBA 季前赛",
       "keyword": "11月26日19:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "WCBA 季前赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000562761/202511231729_152785_H169_1080.webp",
@@ -720,11 +720,11 @@
     },
     {
       "mgdbId": "120000562722",
-      "pID": "960543595",
+      "pID": "960539946",
       "title": "审判日！袁思俊吕昊天出战",
       "keyword": "11月26日21:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/26/6V1DRE4B15H2.png",
@@ -737,6 +737,10 @@
       },
       "nodes": [
         {
+          "pID": "960539946",
+          "name": "3号桌"
+        },
+        {
           "pID": "960543595",
           "name": "桌次切换"
         },
@@ -747,10 +751,6 @@
         {
           "pID": "960538544",
           "name": "2号桌"
-        },
-        {
-          "pID": "960539946",
-          "name": "3号桌"
         },
         {
           "pID": "960543384",
