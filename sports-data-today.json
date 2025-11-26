@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-11-26 14:31:11",
+  "updateTime": "2025-11-26 15:01:14",
   "data": [
     {
       "mgdbId": "120000547871",
@@ -263,7 +263,7 @@
       "matchStatus": "1",
       "matchField": "加密网体育馆",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/25/6V1CV2RA9BRS.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/26/6V1DP8L6JA6O.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "快船VS湖人",
       "modifyTitle": "NBANBA杯",
@@ -612,6 +612,7 @@
     },
     {
       "mgdbId": "120000562909",
+      "pID": "960702006",
       "title": "U17亚洲杯预选赛",
       "keyword": "11月26日19:35",
       "sportItemId": "1",
@@ -626,7 +627,12 @@
       "matchInfo": {
         "time": "11月26日19:35"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "960702006",
+          "name": "CCTV5"
+        }
+      ]
     },
     {
       "mgdbId": "120000547934",
@@ -745,6 +751,10 @@
         {
           "pID": "960543595",
           "name": "桌次切换"
+        },
+        {
+          "pID": "960702774",
+          "name": "5号桌"
         }
       ]
     },
@@ -834,7 +844,7 @@
       "title": "世界潜联亚洲蹼泳锦标赛 Day2下午场",
       "keyword": "11月26日15:00",
       "sportItemId": "",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "世界潜联亚洲蹼泳锦标赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/25/6V1CSDKHQLF3.png",
