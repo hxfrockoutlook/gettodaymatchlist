@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-11-26 17:31:08",
+  "updateTime": "2025-11-26 18:01:14",
   "data": [
     {
       "mgdbId": "120000547871",
@@ -266,7 +266,7 @@
       "mgdbId": "120000546801",
       "pID": "960703437",
       "title": "NBANBA杯",
-      "keyword": "11月26日12:00",
+      "keyword": "11���26日12:00",
       "sportItemId": "2",
       "matchStatus": "2",
       "matchField": "加密网体育馆",
@@ -277,7 +277,7 @@
       "modifyTitle": "NBANBA杯",
       "presenters": "杨健 曾令旭 闫宇峰 大史 郑泽鹏 莫俊祺 洪荒",
       "matchInfo": {
-        "time": "11月26日12:00"
+        "time": "11���26日12:00"
       },
       "nodes": [
         {
@@ -336,7 +336,7 @@
     },
     {
       "mgdbId": "120000562756",
-      "pID": "960705602",
+      "pID": "960705603",
       "title": "WCBA 季前赛",
       "keyword": "11月26日14:30",
       "sportItemId": "2",
@@ -353,7 +353,7 @@
       },
       "nodes": [
         {
-          "pID": "960705602",
+          "pID": "960705603",
           "name": "25/26赛季WCBA季前赛全场集锦：新疆天山vs浙江稠州银行"
         },
         {
@@ -452,7 +452,7 @@
       "title": "亚冠精英联赛阶段",
       "keyword": "11月26日18:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "文殊球场",
       "competitionName": "亚冠精英",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/26/6V1DQ0R4GG0G.png",
@@ -802,6 +802,62 @@
         },
         {
           "pID": "960497460",
+          "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000548461",
+      "pID": "120000548461",
+      "title": "德黑兰独立 vs 阿尔瓦斯尔",
+      "keyword": "11月26日23:45",
+      "sportItemId": "",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "亚冠二级",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/08/20/11005/4fdb7da0c1e842bb8acaa4f2c8413162/4fdb7da0c1e842bb8acaa4f2c8413162_H169_P1080_WEBP.webp",
+      "competitionLogo": "",
+      "pkInfoTitle": "德黑兰独立 vs 阿尔瓦斯尔",
+      "modifyTitle": "德黑兰独立 vs 阿尔瓦斯尔",
+      "presenters": "",
+      "matchInfo": {
+        "time": "11月26日23:45"
+      },
+      "nodes": [
+        {
+          "pID": "960497549",
+          "name": "王子睿"
+        },
+        {
+          "pID": "960497540",
+          "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000548460",
+      "pID": "120000548460",
+      "title": "艾尔扎拉 vs Goa",
+      "keyword": "11月26日23:45",
+      "sportItemId": "",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "亚冠二级",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/08/20/11005/4fdb7da0c1e842bb8acaa4f2c8413162/4fdb7da0c1e842bb8acaa4f2c8413162_H169_P1080_WEBP.webp",
+      "competitionLogo": "",
+      "pkInfoTitle": "艾尔扎拉 vs Goa",
+      "modifyTitle": "艾尔扎拉 vs Goa",
+      "presenters": "",
+      "matchInfo": {
+        "time": "11月26日23:45"
+      },
+      "nodes": [
+        {
+          "pID": "960497595",
+          "name": "张天翼"
+        },
+        {
+          "pID": "960497580",
           "name": "赛场原声"
         }
       ]
