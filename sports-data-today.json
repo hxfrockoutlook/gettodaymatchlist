@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-11-26 15:01:14",
+  "updateTime": "2025-11-26 15:31:11",
   "data": [
     {
       "mgdbId": "120000547871",
@@ -256,14 +256,14 @@
     },
     {
       "mgdbId": "120000546801",
-      "pID": "960514982",
+      "pID": "960703437",
       "title": "NBANBA杯",
       "keyword": "11月26日12:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "加密网体育馆",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/26/6V1DP8L6JA6O.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/26/6V1DPD1B1LM2.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "快船VS湖人",
       "modifyTitle": "NBANBA杯",
@@ -304,7 +304,7 @@
       "title": "CBA联赛新闻发布会",
       "keyword": "11月26日14:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "CBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/26/6V1DRNJLVDH5.jpg",
@@ -716,7 +716,7 @@
     },
     {
       "mgdbId": "120000562722",
-      "pID": "960536167",
+      "pID": "960543595",
       "title": "审判日！袁思俊吕昊天出战",
       "keyword": "11月26日21:00",
       "sportItemId": "8",
@@ -733,6 +733,10 @@
       },
       "nodes": [
         {
+          "pID": "960543595",
+          "name": "桌次切换"
+        },
+        {
           "pID": "960536167",
           "name": "1号桌"
         },
@@ -747,14 +751,6 @@
         {
           "pID": "960543384",
           "name": "4号桌"
-        },
-        {
-          "pID": "960543595",
-          "name": "桌次切换"
-        },
-        {
-          "pID": "960702774",
-          "name": "5号桌"
         }
       ]
     },
