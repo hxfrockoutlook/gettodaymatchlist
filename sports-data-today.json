@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-11-27 10:01:09",
+  "updateTime": "2025-11-27 10:31:16",
   "data": [
     {
       "mgdbId": "120000548460",
@@ -128,7 +128,7 @@
     },
     {
       "mgdbId": "120000546803",
-      "pID": "960515502",
+      "pID": "960726575",
       "title": "NBANBA杯",
       "keyword": "11月27日08:00",
       "sportItemId": "2",
@@ -144,6 +144,10 @@
         "time": "11月27日08:00"
       },
       "nodes": [
+        {
+          "pID": "960726575",
+          "name": "攻防兼备！克拉克森抢断反击欧洲步上篮得手"
+        },
         {
           "pID": "960515502",
           "name": "贾磊"
@@ -293,7 +297,7 @@
     {
       "mgdbId": "120000563220",
       "pID": "960702102",
-      "title": "单板滑雪大跳台 男/女子预赛",
+      "title": "单板滑雪大跳台预赛 苏翊鸣赛季首秀",
       "keyword": "11月27日09:10",
       "sportItemId": "8",
       "matchStatus": "1",
@@ -301,7 +305,7 @@
       "competitionName": "国际雪联世界杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/26/6V1DP7GEN1VP.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2022/11/18/100000001000106e91c3.jpg",
-      "pkInfoTitle": "单板滑雪大跳台 男/女子预赛",
+      "pkInfoTitle": "单板滑雪大跳台预赛 苏翊鸣赛季首秀",
       "modifyTitle": "2025/2026赛季国际雪联大跳台世界杯-单板滑雪大跳台 男/女子预赛",
       "presenters": "",
       "matchInfo": {
@@ -439,6 +443,51 @@
         {
           "pID": "960519081",
           "name": "洪荒"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000563247",
+      "pID": "960718245",
+      "title": "瑞昌碧源vs辽宁极兔李永波",
+      "sportItemId": "6",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "羽超联赛",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/9/e3e5fdc7-1f96-45ec-a4e7-51fd781aa197.png",
+      "pkInfoTitle": "瑞昌碧源vs辽宁极兔李永波",
+      "modifyTitle": "羽毛球超级联赛第一轮：瑞昌碧源vs辽宁极兔李永波",
+      "presenters": "",
+      "matchInfo": {},
+      "nodes": [
+        {
+          "pID": "960718245",
+          "name": "清流播出"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000563248",
+      "pID": "960718248",
+      "title": "厦门体育集团vs芜湖兴航",
+      "keyword": "11月27日12:00",
+      "sportItemId": "6",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "羽超联赛",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/9/e3e5fdc7-1f96-45ec-a4e7-51fd781aa197.png",
+      "pkInfoTitle": "厦门体育集团vs芜湖兴航",
+      "modifyTitle": "羽毛球超级联赛第一轮：厦门体育集团vs芜湖兴航",
+      "presenters": "",
+      "matchInfo": {
+        "time": "11月27日12:00"
+      },
+      "nodes": [
+        {
+          "pID": "960718248",
+          "name": "清流播出"
         }
       ]
     },
@@ -647,10 +696,6 @@
         {
           "pID": "960701981",
           "name": "赛场原声"
-        },
-        {
-          "pID": "960701981",
-          "name": "测试"
         }
       ]
     },
@@ -687,7 +732,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "乒乓球经典赛事",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/27/6V1EOJDJ32UK.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/4/3/10000000117810627118.jpg",
       "pkInfoTitle": "倒计时3天！混团世界杯看点抢先聊",
       "modifyTitle": "【一拍即合·赛事放映厅】混团世界杯倒计时3天·重温全运会混双金牌赛",
@@ -828,6 +873,7 @@
     },
     {
       "mgdbId": "120000563046",
+      "pID": "960727352",
       "title": "男篮世预赛亚洲赛区",
       "keyword": "11月27日22:00",
       "sportItemId": "2",
@@ -842,7 +888,60 @@
       "matchInfo": {
         "time": "11月27日22:00"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "960727352",
+          "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000563058",
+      "pID": "120000563058",
+      "title": "沙特阿拉伯vs印度",
+      "keyword": "11月27日23:50",
+      "sportItemId": "",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "男篮世预赛",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/11/26/11005/72259572190c4f6197b87ddfe23e1498/72259572190c4f6197b87ddfe23e1498_H169_P1080_WEBP.webp",
+      "competitionLogo": "",
+      "pkInfoTitle": "沙特阿拉伯vs印度",
+      "modifyTitle": "沙特阿拉伯vs印度",
+      "presenters": "",
+      "matchInfo": {
+        "time": "11月27日23:50"
+      },
+      "nodes": [
+        {
+          "pID": "960727430",
+          "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000563059",
+      "pID": "120000563059",
+      "title": "卡塔尔vs黎巴嫩",
+      "keyword": "11月27日23:50",
+      "sportItemId": "",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "男篮世预赛",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/11/26/11005/72259572190c4f6197b87ddfe23e1498/72259572190c4f6197b87ddfe23e1498_H169_P1080_WEBP.webp",
+      "competitionLogo": "",
+      "pkInfoTitle": "卡塔尔vs黎巴嫩",
+      "modifyTitle": "卡塔尔vs黎巴嫩",
+      "presenters": "",
+      "matchInfo": {
+        "time": "11月27日23:50"
+      },
+      "nodes": [
+        {
+          "pID": "960727392",
+          "name": "赛场原声"
+        }
+      ]
     },
     {
       "mgdbId": "120000562684",
@@ -850,7 +949,7 @@
       "title": "世界潜联亚洲蹼泳锦标赛 Day3上午场",
       "keyword": "11月27日09:30",
       "sportItemId": "",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "世界潜联亚洲蹼泳锦标赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/26/6V1DPGEM8BD1.png",
