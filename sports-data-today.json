@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-11-28 05:01:16",
+  "updateTime": "2025-11-28 05:31:16",
   "data": [
     {
       "mgdbId": "120000563058",
@@ -230,7 +230,7 @@
       "mgdbId": "120000563142",
       "pID": "960639313",
       "title": "男篮世预赛欧洲赛区",
-      "keyword": "11月28日 02:00",
+      "keyword": "11月28日02:00",
       "sportItemId": "2",
       "matchStatus": "2",
       "matchField": "Aleksandar Nikolic Hall",
@@ -241,7 +241,7 @@
       "modifyTitle": "男篮世预赛欧洲赛区",
       "presenters": "",
       "matchInfo": {
-        "time": "11月28日 02:00"
+        "time": "11月28日02:00"
       },
       "nodes": [
         {
@@ -322,7 +322,7 @@
       "mgdbId": "120000563095",
       "pID": "960639612",
       "title": "男篮世预赛非洲赛区",
-      "keyword": "11月28日 03:00",
+      "keyword": "11月28日03:00",
       "sportItemId": "2",
       "matchStatus": "2",
       "matchField": "Salle Multidisciplinaire de Radès",
@@ -333,7 +333,7 @@
       "modifyTitle": "男篮世预赛非洲赛区",
       "presenters": "",
       "matchInfo": {
-        "time": "11月28日 03:00"
+        "time": "11月28日03:00"
       },
       "nodes": [
         {
@@ -348,11 +348,11 @@
     },
     {
       "mgdbId": "120000563155",
-      "pID": "960702503",
+      "pID": "960639313",
       "title": "男篮世预赛欧洲赛区",
-      "keyword": "11月28日 03:00",
+      "keyword": "11月28日03:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Palazzetto Dello Sport",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000563155/202511261155_218907_H169_1080.webp",
@@ -361,9 +361,13 @@
       "modifyTitle": "男篮世预赛欧洲赛区",
       "presenters": "",
       "matchInfo": {
-        "time": "11月28日 03:00"
+        "time": "11月28日03:00"
       },
       "nodes": [
+        {
+          "pID": "960639313",
+          "name": "欧洲篮坛超巨环伺！德意志战车卫冕之路荆棘密布"
+        },
         {
           "pID": "960702503",
           "name": "赛场原声"
