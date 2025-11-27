@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-11-28 03:31:15",
+  "updateTime": "2025-11-28 04:01:14",
   "data": [
     {
       "mgdbId": "120000563058",
@@ -200,7 +200,7 @@
     },
     {
       "mgdbId": "120000563118",
-      "pID": "960639313",
+      "pID": "960750763",
       "title": "男篮世预赛欧洲赛区",
       "keyword": "11月28日 01:30",
       "sportItemId": "2",
@@ -217,8 +217,8 @@
       },
       "nodes": [
         {
-          "pID": "960639313",
-          "name": "欧洲篮坛超巨环伺！德意志战车卫冕之路荆棘密布"
+          "pID": "960750763",
+          "name": "2027男篮世界杯预选赛欧洲赛区A组小组赛全场集锦：丹麦vs西班牙"
         },
         {
           "pID": "960702196",
@@ -252,11 +252,11 @@
     },
     {
       "mgdbId": "120000563143",
-      "pID": "960702072",
+      "pID": "960639313",
       "title": "男篮世预赛欧洲赛区",
-      "keyword": "11月28日02:00",
+      "keyword": "11月28日 02:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Turkcell Basketball Development Centre",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000563143/202511261151_350553_H169_1080.webp",
@@ -265,9 +265,13 @@
       "modifyTitle": "男篮世预赛欧洲赛区",
       "presenters": "",
       "matchInfo": {
-        "time": "11月28日02:00"
+        "time": "11月28日 02:00"
       },
       "nodes": [
+        {
+          "pID": "960639313",
+          "name": "欧洲篮坛超巨环伺！德意志战车卫冕之路荆棘密布"
+        },
         {
           "pID": "960702072",
           "name": "赛场原声"
