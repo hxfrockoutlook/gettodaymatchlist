@@ -1,12 +1,12 @@
 {
   "success": true,
-  "updateTime": "2025-11-28 02:01:16",
+  "updateTime": "2025-11-28 02:31:17",
   "data": [
     {
       "mgdbId": "120000563058",
       "pID": "960641409",
       "title": "男篮世预赛亚洲赛区",
-      "keyword": "11月28日 00:00",
+      "keyword": "11月28日00:00",
       "sportItemId": "2",
       "matchStatus": "2",
       "matchField": "Riyadh Green Hall",
@@ -17,7 +17,7 @@
       "modifyTitle": "男篮世预赛亚洲赛区",
       "presenters": "",
       "matchInfo": {
-        "time": "11月28日 00:00"
+        "time": "11月28日00:00"
       },
       "nodes": [
         {
@@ -32,11 +32,11 @@
     },
     {
       "mgdbId": "120000563059",
-      "pID": "960727392",
+      "pID": "960641409",
       "title": "男篮世预赛亚洲赛区",
-      "keyword": "11月28日 00:00",
+      "keyword": "11月28日00:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Lusail Multipurpose Hall",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/26/6V1DQS865KFI.png",
@@ -45,9 +45,13 @@
       "modifyTitle": "男篮世预赛亚洲赛区",
       "presenters": "",
       "matchInfo": {
-        "time": "11月28日 00:00"
+        "time": "11月28日00:00"
       },
       "nodes": [
+        {
+          "pID": "960641409",
+          "name": "1分留给未来！中国男篮领衔亚洲诸强挑战澳大利亚头名宝座"
+        },
         {
           "pID": "960727392",
           "name": "赛场原声"
@@ -56,11 +60,11 @@
     },
     {
       "mgdbId": "120000563094",
-      "pID": "960702066",
+      "pID": "960639612",
       "title": "男篮世预赛非洲赛区",
       "keyword": "11月28日 00:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Salle Multidisciplinaire de Radès",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000563094/202511261140_652299_H169_1080.webp",
@@ -73,6 +77,10 @@
       },
       "nodes": [
         {
+          "pID": "960639612",
+          "name": "天赋无极限！2027男篮世预赛非洲赛区谁能脱颖而出？"
+        },
+        {
           "pID": "960702066",
           "name": "赛场原声"
         }
@@ -80,11 +88,11 @@
     },
     {
       "mgdbId": "120000563047",
-      "pID": "960727513",
+      "pID": "960641409",
       "title": "男篮世预赛亚洲赛区",
       "keyword": "11月28日00:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Prince Hamza",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/26/6V1DR0H00PO2.jpg",
@@ -97,6 +105,10 @@
       },
       "nodes": [
         {
+          "pID": "960641409",
+          "name": "1分留给未来！中国男篮领衔亚洲诸强挑战澳大利亚头名宝座"
+        },
+        {
           "pID": "960727513",
           "name": "赛场原声"
         }
@@ -104,11 +116,11 @@
     },
     {
       "mgdbId": "120000563131",
-      "pID": "960702046",
+      "pID": "960639313",
       "title": "男篮世预赛欧洲赛区",
       "keyword": "11月28日00:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Nick Galis Hall",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000563131/202511261146_510853_H169_1080.webp",
@@ -120,6 +132,10 @@
         "time": "11月28日00:30"
       },
       "nodes": [
+        {
+          "pID": "960639313",
+          "name": "欧洲篮坛超巨环伺！德意志战车卫冕之路荆棘密布"
+        },
         {
           "pID": "960702046",
           "name": "赛场原声"
