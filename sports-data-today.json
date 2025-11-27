@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-11-27 15:01:28",
+  "updateTime": "2025-11-27 15:31:16",
   "data": [
     {
       "mgdbId": "120000548460",
@@ -460,7 +460,7 @@
       "title": "瑞昌碧源vs辽宁极兔李永波",
       "keyword": "11月27日12:00",
       "sportItemId": "6",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "羽超联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/27/6V1EOM3354E4.jpg",
@@ -508,7 +508,7 @@
       "title": "单板滑雪大跳台预赛",
       "keyword": "11月27日13:40",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "国际雪联世界杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/26/6V1DP7GEN1VP.jpg",
@@ -554,7 +554,7 @@
       "mgdbId": "120000561940",
       "pID": "960546751",
       "title": "中国足球青少年精英联赛",
-      "keyword": "11月27日15:00",
+      "keyword": "11月27日 15:00",
       "sportItemId": "1",
       "matchStatus": "1",
       "matchField": "",
@@ -565,7 +565,7 @@
       "modifyTitle": "中国足球青少年精英联赛",
       "presenters": "",
       "matchInfo": {
-        "time": "11月27日15:00"
+        "time": "11月27日 15:00"
       },
       "nodes": [
         {
@@ -663,7 +663,7 @@
       "matchStatus": "0",
       "matchField": "旺角大球场",
       "competitionName": "亚冠二级",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/27/6V1EMH87BD8P.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/9/11/100000001227106e764f.png",
       "pkInfoTitle": "香港东方 vs 大阪钢巴",
       "modifyTitle": "亚冠二级小组赛",
@@ -691,7 +691,7 @@
       "matchStatus": "0",
       "matchField": "钢厂球场",
       "competitionName": "亚冠二级",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/27/6V1EMID4R7D0.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/9/11/100000001227106e764f.png",
       "pkInfoTitle": "浦项铁人 vs 曼谷玻璃",
       "modifyTitle": "亚冠二级小组赛",
@@ -1031,6 +1031,30 @@
       ]
     },
     {
+      "mgdbId": "120000562685",
+      "pID": "120000562685",
+      "title": "正播亚洲蹼泳锦标赛 Day3下午场",
+      "keyword": "11月27日15:00",
+      "sportItemId": "",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "世界潜联亚洲蹼泳锦标赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/26/6V1DPGFH7KQS.png",
+      "competitionLogo": "",
+      "pkInfoTitle": "正播亚洲蹼泳锦标赛 Day3下午场",
+      "modifyTitle": "正播亚洲蹼泳锦标赛 Day3下午场",
+      "presenters": "",
+      "matchInfo": {
+        "time": "11月27日15:00"
+      },
+      "nodes": [
+        {
+          "pID": "960509659",
+          "name": "解说"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000562684",
       "pID": "120000562684",
       "title": "世界潜联亚洲蹼泳锦标赛 Day3上午场",
@@ -1050,30 +1074,6 @@
       "nodes": [
         {
           "pID": "960509598",
-          "name": "解说"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000562685",
-      "pID": "120000562685",
-      "title": "世界潜联亚洲蹼泳锦标赛 Day3下午场",
-      "keyword": "11月27日15:00",
-      "sportItemId": "",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "世界潜联亚洲蹼泳锦标赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/26/6V1DPGFH7KQS.png",
-      "competitionLogo": "",
-      "pkInfoTitle": "世界潜联亚洲蹼泳锦标赛 Day3下午场",
-      "modifyTitle": "世界潜联亚洲蹼泳锦标赛 Day3下午场",
-      "presenters": "",
-      "matchInfo": {
-        "time": "11月27日15:00"
-      },
-      "nodes": [
-        {
-          "pID": "960509659",
           "name": "解说"
         }
       ]
