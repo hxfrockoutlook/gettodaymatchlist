@@ -1,10 +1,10 @@
 {
   "success": true,
-  "updateTime": "2025-11-29 03:32:09",
+  "updateTime": "2025-11-29 04:02:11",
   "data": [
     {
       "mgdbId": "120000563073",
-      "pID": "960639612",
+      "pID": "960770605",
       "title": "男篮世预赛非洲赛区",
       "keyword": "11月29日00:00",
       "sportItemId": "2",
@@ -21,8 +21,8 @@
       },
       "nodes": [
         {
-          "pID": "960639612",
-          "name": "天赋无极限！2027男篮世预赛非洲赛区谁能脱颖而出？"
+          "pID": "960770605",
+          "name": "2027男篮世界杯预选赛非洲赛区A组小组赛全场集锦：利比亚vs喀麦隆"
         },
         {
           "pID": "960702474",
@@ -32,7 +32,7 @@
     },
     {
       "mgdbId": "120000563190",
-      "pID": "960639313",
+      "pID": "960770710",
       "title": "男篮世预赛欧洲赛区",
       "keyword": "11月29日01:00",
       "sportItemId": "2",
@@ -49,8 +49,8 @@
       },
       "nodes": [
         {
-          "pID": "960639313",
-          "name": "欧洲篮坛超巨环伺！德意志战车卫冕之路荆棘密布"
+          "pID": "960770710",
+          "name": "2027男篮世界杯预选赛欧洲赛区G组小组赛全场集锦：匈牙利vs芬兰"
         },
         {
           "pID": "960702538",
@@ -60,11 +60,11 @@
     },
     {
       "mgdbId": "120000563202",
-      "pID": "960702224",
+      "pID": "960639313",
       "title": "男篮世预赛欧洲赛区",
       "keyword": "11月29日 01:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Bonifika Arena",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000563202/202511261206_342796_H169_1080.webp",
@@ -77,6 +77,10 @@
       },
       "nodes": [
         {
+          "pID": "960639313",
+          "name": "欧洲篮坛超巨环伺！德意志战车卫冕之路荆棘密布"
+        },
+        {
           "pID": "960702224",
           "name": "赛场原声"
         }
@@ -84,11 +88,11 @@
     },
     {
       "mgdbId": "120000563178",
-      "pID": "960702242",
+      "pID": "960639313",
       "title": "男篮世预赛欧洲赛区",
       "keyword": "11月29日 01:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Xiaomi Arena",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/27/6V1EN6MCJKGQ.png",
@@ -101,6 +105,10 @@
       },
       "nodes": [
         {
+          "pID": "960639313",
+          "name": "欧洲篮坛超巨环伺！德意志战车卫冕之路荆棘密布"
+        },
+        {
           "pID": "960702242",
           "name": "赛场原声"
         }
@@ -108,11 +116,11 @@
     },
     {
       "mgdbId": "120000563166",
-      "pID": "960702251",
+      "pID": "960639313",
       "title": "男篮世预赛欧洲赛区",
-      "keyword": "11月29日02:00",
+      "keyword": "11月29日 02:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Sports Hall \"Gradski Vrt\"",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000563166/202511261156_899200_H169_1080.webp",
@@ -121,9 +129,13 @@
       "modifyTitle": "男篮世预赛欧洲赛区",
       "presenters": "",
       "matchInfo": {
-        "time": "11月29日02:00"
+        "time": "11月29日 02:00"
       },
       "nodes": [
+        {
+          "pID": "960639313",
+          "name": "欧洲篮坛超巨环伺！德意志战车卫冕之路荆棘密布"
+        },
         {
           "pID": "960702251",
           "name": "赛场原声"
@@ -300,7 +312,7 @@
       "title": "男篮世预赛欧洲赛区",
       "keyword": "11月29日03:45",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "Polsat Plus Arena",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000563179/202511261201_614873_H169_1080.webp",
@@ -324,7 +336,7 @@
       "title": "西甲联赛",
       "keyword": "11月29日04:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "阿方索·佩雷斯球场",
       "competitionName": "西甲",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000543898/202511280816_101040_H169_1080.webp",
@@ -1922,15 +1934,11 @@
       "nodes": [
         {
           "pID": "960736693",
-          "name": "鹿中原 王���"
+          "name": "鹿中原 王宇"
         },
         {
           "pID": "960736734",
           "name": "赛场原声"
-        },
-        {
-          "pID": "960736693",
-          "name": "鹿中原 王宇"
         }
       ]
     }
