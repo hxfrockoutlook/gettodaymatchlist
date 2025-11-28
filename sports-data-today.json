@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-11-28 10:01:22",
+  "updateTime": "2025-11-28 10:31:15",
   "data": [
     {
       "mgdbId": "120000563058",
@@ -483,42 +483,10 @@
       ]
     },
     {
-      "mgdbId": "120000563354",
-      "pID": "960738891",
-      "title": "自由式滑雪大跳台资格赛",
-      "keyword": "11月28日09:10",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "国际雪联世界杯",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/28/6V1FLGI71JBV.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2022/11/18/100000001000106e91c3.jpg",
-      "pkInfoTitle": "自由式滑雪大跳台资格赛",
-      "modifyTitle": "自由式滑雪大跳台资格赛",
-      "presenters": "",
-      "matchInfo": {
-        "time": "11月28日09:10"
-      },
-      "nodes": [
-        {
-          "pID": "960738732",
-          "name": "国际雪联大跳台世界杯-自由式滑雪大跳台 女子预赛"
-        },
-        {
-          "pID": "960738789",
-          "name": "国际雪联大跳台世界杯-自由式滑雪大跳台 男子预赛第一组"
-        },
-        {
-          "pID": "960738891",
-          "name": "2025/2026赛季国际雪联大跳台世界杯-自由式滑雪大跳台 男子预赛第二组"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000562999",
       "pID": "960702001",
       "title": "男篮世预赛美洲赛区",
-      "keyword": "11月28日 09:40",
+      "keyword": "11月28日09:40",
       "sportItemId": "2",
       "matchStatus": "1",
       "matchField": "Coliseo Evangelista Mora",
@@ -529,7 +497,7 @@
       "modifyTitle": "男篮世预赛美洲赛区",
       "presenters": "",
       "matchInfo": {
-        "time": "11月28日 09:40"
+        "time": "11月28日09:40"
       },
       "nodes": [
         {
@@ -542,7 +510,7 @@
       "mgdbId": "120000563011",
       "pID": "960702019",
       "title": "男篮世预赛美洲赛区",
-      "keyword": "11月28日 09:40",
+      "keyword": "11月28日09:40",
       "sportItemId": "2",
       "matchStatus": "1",
       "matchField": "Arena Roberto Durán",
@@ -553,7 +521,7 @@
       "modifyTitle": "男篮世预赛美洲赛区",
       "presenters": "",
       "matchInfo": {
-        "time": "11月28日 09:40"
+        "time": "11月28日09:40"
       },
       "nodes": [
         {
@@ -587,6 +555,38 @@
       ]
     },
     {
+      "mgdbId": "120000563354",
+      "pID": "960738789",
+      "title": "自由式滑雪大跳台资格赛",
+      "keyword": "11月28日11:25",
+      "sportItemId": "8",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "国际雪联世界杯",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/28/6V1FLGI71JBV.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2022/11/18/100000001000106e91c3.jpg",
+      "pkInfoTitle": "自由式滑雪大跳台资格赛",
+      "modifyTitle": "自由式滑雪大跳台资格赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "11月28日11:25"
+      },
+      "nodes": [
+        {
+          "pID": "960738789",
+          "name": "国际雪联大跳台世界杯-自由式滑雪大跳台 男子预赛第一组"
+        },
+        {
+          "pID": "960738732",
+          "name": "国际雪联大跳台世界杯-自由式滑雪大跳台 女子预赛"
+        },
+        {
+          "pID": "960738891",
+          "name": "2025/2026赛季国际雪联大跳台世界杯-自由式滑雪大跳台 男子预赛第二组"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000563251",
       "pID": "960718397",
       "title": "青岛仁洲vs江苏羽超",
@@ -606,7 +606,7 @@
       "nodes": [
         {
           "pID": "960718397",
-          "name": "清流播出"
+          "name": "青岛vs江苏"
         }
       ]
     },
@@ -1028,7 +1028,7 @@
       "title": "世界潜联亚洲蹼泳锦标赛 Day4上午场",
       "keyword": "11月28日09:30",
       "sportItemId": "",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "世界潜联亚洲蹼泳锦标赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/27/6V1EO0PMOONC.png",
