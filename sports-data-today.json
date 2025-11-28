@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-11-29 07:02:05",
+  "updateTime": "2025-11-29 07:32:06",
   "data": [
     {
       "mgdbId": "120000563073",
@@ -380,7 +380,7 @@
       "title": "男篮世预赛美洲赛区",
       "keyword": "11月29日07:10",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "Coliseo Roberto Clemente",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/28/6V1FJDD85I76.jpg",
@@ -749,7 +749,7 @@
     {
       "mgdbId": "120000562975",
       "pID": "960702069",
-      "title": "男篮世预赛美洲赛区",
+      "title": "男篮��预赛美洲赛区",
       "keyword": "11月29日10:40",
       "sportItemId": "2",
       "matchStatus": "0",
@@ -1950,15 +1950,35 @@
       "nodes": [
         {
           "pID": "960736693",
-          "name": "鹿中原 王���"
+          "name": "鹿中原 王宇"
         },
         {
           "pID": "960736734",
           "name": "赛场原声"
-        },
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000562688",
+      "pID": "120000562688",
+      "title": "9时播全国自由潜水锦标赛 第一场",
+      "keyword": "11月29日09:00",
+      "sportItemId": "",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "全国自由潜水锦标赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/28/6V1FKPTK7AR2.png",
+      "competitionLogo": "",
+      "pkInfoTitle": "9时播全国自由潜水锦标赛 第一场",
+      "modifyTitle": "9时播全国自由潜水锦标赛 第一场",
+      "presenters": "",
+      "matchInfo": {
+        "time": "11月29日09:00"
+      },
+      "nodes": [
         {
-          "pID": "960736693",
-          "name": "鹿中原 王宇"
+          "pID": "960509956",
+          "name": "泳池"
         }
       ]
     }
