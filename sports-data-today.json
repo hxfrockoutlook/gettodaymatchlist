@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-11-29 03:22:30",
+  "updateTime": "2025-11-29 03:32:09",
   "data": [
     {
       "mgdbId": "120000563073",
@@ -32,11 +32,11 @@
     },
     {
       "mgdbId": "120000563190",
-      "pID": "960702538",
+      "pID": "960639313",
       "title": "男篮世预赛欧洲赛区",
       "keyword": "11月29日01:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Schaeffler Arena Savaria",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000563190/202511261201_890124_H169_1080.webp",
@@ -62,7 +62,7 @@
       "mgdbId": "120000563202",
       "pID": "960702224",
       "title": "男篮世预赛欧洲赛区",
-      "keyword": "11月29日01:00",
+      "keyword": "11月29日 01:00",
       "sportItemId": "2",
       "matchStatus": "1",
       "matchField": "Bonifika Arena",
@@ -73,7 +73,7 @@
       "modifyTitle": "男篮世预赛欧洲赛区",
       "presenters": "",
       "matchInfo": {
-        "time": "11月29日01:00"
+        "time": "11月29日 01:00"
       },
       "nodes": [
         {
@@ -86,7 +86,7 @@
       "mgdbId": "120000563178",
       "pID": "960702242",
       "title": "男篮世预赛欧洲赛区",
-      "keyword": "11月29日01:30",
+      "keyword": "11月29日 01:30",
       "sportItemId": "2",
       "matchStatus": "1",
       "matchField": "Xiaomi Arena",
@@ -97,7 +97,7 @@
       "modifyTitle": "男篮世预赛欧洲赛区",
       "presenters": "",
       "matchInfo": {
-        "time": "11月29日01:30"
+        "time": "11月29日 01:30"
       },
       "nodes": [
         {
@@ -184,7 +184,7 @@
       "title": "德甲联赛",
       "keyword": "11月29日03:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "普鲁士公园球场",
       "competitionName": "德甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000542889/929560_H169_sc.jpg",
@@ -216,7 +216,7 @@
       "title": "男篮世预赛欧洲赛区",
       "keyword": "11月29日03:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "Kindarena",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/27/6V1EN83CPTG1.png",
@@ -240,7 +240,7 @@
       "title": "法甲联赛",
       "keyword": "11月29日03:45",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "法甲",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000543615/202511280816_497411_H169_1080.webp",
@@ -272,7 +272,7 @@
       "title": "意甲联赛",
       "keyword": "11月29日03:45",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "朱塞佩·西尼加利亚体育场",
       "competitionName": "意甲",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000543793/202511280822_319443_H169_1080.webp",
@@ -651,7 +651,16 @@
       "matchInfo": {
         "time": "11月29日10:30"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "960517596",
+          "name": "姜帆 王润陶"
+        },
+        {
+          "pID": "960517793",
+          "name": "英文原声"
+        }
+      ]
     },
     {
       "mgdbId": "120000546818",
@@ -1913,11 +1922,15 @@
       "nodes": [
         {
           "pID": "960736693",
-          "name": "鹿中原 王宇"
+          "name": "鹿中原 王���"
         },
         {
           "pID": "960736734",
           "name": "赛场原声"
+        },
+        {
+          "pID": "960736693",
+          "name": "鹿中原 王宇"
         }
       ]
     }
