@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-11-29 15:02:09",
+  "updateTime": "2025-11-29 15:32:18",
   "data": [
     {
       "mgdbId": "120000563073",
@@ -1053,7 +1053,7 @@
     {
       "mgdbId": "120000551426",
       "pID": "958972000",
-      "title": "湖南省足球联赛",
+      "title": "湖南省足球联���",
       "keyword": "11月29日 15:00",
       "sportItemId": "1",
       "matchStatus": "1",
@@ -1959,6 +1959,30 @@
       ]
     },
     {
+      "mgdbId": "120000562689",
+      "pID": "120000562689",
+      "title": "全国自由潜水（泳池）锦标赛 第二场",
+      "keyword": "11月29日15:00",
+      "sportItemId": "",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "全国自由潜水锦标赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/28/6V1FKR5QNMRA.png",
+      "competitionLogo": "",
+      "pkInfoTitle": "全国自由潜水（泳池）锦标赛 第二场",
+      "modifyTitle": "全国自由潜水（泳池）锦标赛 第二场",
+      "presenters": "",
+      "matchInfo": {
+        "time": "11月29日15:00"
+      },
+      "nodes": [
+        {
+          "pID": "960510008",
+          "name": "泳池"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000562688",
       "pID": "120000562688",
       "title": "全国自由潜水（泳池）锦标赛 第一场",
@@ -2009,25 +2033,6 @@
           "name": "赛场原声"
         }
       ]
-    },
-    {
-      "mgdbId": "120000563360",
-      "pID": "120000563360",
-      "title": "单板滑雪大跳台 女子、男子决赛",
-      "keyword": "11月29日12:30",
-      "sportItemId": "",
-      "matchStatus": "2",
-      "matchField": "",
-      "competitionName": "国际雪联世界杯",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/28/6V1FJLJ86QB7.jpg",
-      "competitionLogo": "",
-      "pkInfoTitle": "单板滑雪大跳台 女子、男子决赛",
-      "modifyTitle": "单板滑雪大跳台 女子、男子决赛",
-      "presenters": "",
-      "matchInfo": {
-        "time": "11月29日12:30"
-      },
-      "nodes": []
     }
   ]
 }
