@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-11-29 16:32:11",
+  "updateTime": "2025-11-29 17:01:59",
   "data": [
     {
       "mgdbId": "120000563073",
@@ -1128,7 +1128,7 @@
       "title": "中国足球青少年精英联赛",
       "keyword": "11月29日 15:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "中国足球青少年精英联赛",
       "padImg": "",
@@ -1152,7 +1152,7 @@
       "title": "中国足球青少年精英联赛",
       "keyword": "11月29日 15:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "中国足球青少年精英联赛",
       "padImg": "",
@@ -1176,7 +1176,7 @@
       "title": "中国足球青少年精英联赛",
       "keyword": "11月29日 15:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "中国足球青少年精英联赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000561949/202511191450_585685_H169_1080.webp",
@@ -1190,34 +1190,6 @@
       "nodes": [
         {
           "pID": "960546758",
-          "name": "解说"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000563219",
-      "pID": "960702271",
-      "title": "豫排联赛总决赛",
-      "keyword": "11月29日15:00",
-      "sportItemId": "3",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "河南省女子排球城市联赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/28/6V1FKACAJE3L.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/9/10000000132010698d2a.png",
-      "pkInfoTitle": "豫排联赛总决赛",
-      "modifyTitle": "河南省女子排球城市联赛总决赛：三、四名决赛 冠军战及颁奖礼",
-      "presenters": "",
-      "matchInfo": {
-        "time": "11月29日15:00"
-      },
-      "nodes": [
-        {
-          "pID": "960702271",
-          "name": "解说"
-        },
-        {
-          "pID": "960702579",
           "name": "解说"
         }
       ]
@@ -1253,15 +1225,15 @@
     {
       "mgdbId": "120000563355",
       "pID": "960759939",
-      "title": "抽签仪式：王楚钦、孙颖莎出席",
+      "title": "抽签：国乒与中国香港同组 德法对话",
       "keyword": "11月29日16:00",
       "sportItemId": "7",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "国际乒联混合团体世界杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/28/6V1FJAJVPM8K.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/12/2/1000000011421062e5c0.png",
-      "pkInfoTitle": "抽签仪式：王楚钦、孙颖莎出席",
+      "pkInfoTitle": "抽签：国乒与中国香港同组 德法对话",
       "modifyTitle": "成都国际乒联混合团体世界杯：抽签仪式",
       "presenters": "",
       "matchInfo": {
@@ -1495,6 +1467,34 @@
         {
           "pID": "960387922",
           "name": "国语"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000563219",
+      "pID": "960702271",
+      "title": "总决赛 三、四名决赛、冠军战及颁奖礼",
+      "keyword": "11月29日19:30",
+      "sportItemId": "3",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "河南省女子排球城市联赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/28/6V1FKACAJE3L.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/9/10000000132010698d2a.png",
+      "pkInfoTitle": "总决赛 三、四名决赛、冠军战及颁奖礼",
+      "modifyTitle": "河南省女子排球城市联赛总决赛：航空港区3-0开封龙亭摘铜 冠军战及颁奖礼",
+      "presenters": "",
+      "matchInfo": {
+        "time": "11月29日19:30"
+      },
+      "nodes": [
+        {
+          "pID": "960702271",
+          "name": "解说"
+        },
+        {
+          "pID": "960702579",
+          "name": "解说"
         }
       ]
     },
