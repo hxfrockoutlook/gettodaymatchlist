@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-11-29 08:02:11",
+  "updateTime": "2025-11-29 08:32:09",
   "data": [
     {
       "mgdbId": "120000563073",
@@ -404,7 +404,7 @@
       "title": "NBANBA杯",
       "keyword": "11月29日08:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "盖恩布里奇体育馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/28/6V1FJDEIM978.png",
@@ -432,7 +432,7 @@
       "title": "NBANBA杯",
       "keyword": "11月29日08:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "光谱中心",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/28/6V1FJLQNVJBA.jpg",
@@ -460,7 +460,7 @@
       "title": "NBANBA杯",
       "keyword": "11月29日08:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "巴克莱中心",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/28/6V1FJM03ETGA.jpg",
@@ -488,7 +488,7 @@
       "title": "NBANBA杯",
       "keyword": "11月29日08:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "州立农业球馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/28/6V1FJM3QM364.jpg",
@@ -516,7 +516,7 @@
       "title": "NBANBA杯",
       "keyword": "11月29日08:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "小凯撒球馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/28/6V1FJEL9S4S3.png",
@@ -544,7 +544,7 @@
       "title": "NBANBA杯",
       "keyword": "11月29日08:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "麦迪逊广场花园",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/28/6V1FJFC46AUA.png",
@@ -1881,7 +1881,7 @@
       "competitionName": "英超",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/26/6V1DPERSGH41.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png",
-      "pkInfoTitle": "布伦特福德 vs ��恩利",
+      "pkInfoTitle": "布伦特福德 vs 伯恩利",
       "modifyTitle": "英超联赛",
       "presenters": "黄航",
       "matchInfo": {
@@ -1950,11 +1950,15 @@
       "nodes": [
         {
           "pID": "960736693",
-          "name": "鹿中原 王宇"
+          "name": "鹿中原 ��宇"
         },
         {
           "pID": "960736734",
           "name": "赛场原声"
+        },
+        {
+          "pID": "960736693",
+          "name": "鹿中原 王宇"
         }
       ]
     },
