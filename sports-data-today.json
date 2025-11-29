@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-11-29 09:02:11",
+  "updateTime": "2025-11-29 09:32:10",
   "data": [
     {
       "mgdbId": "120000563073",
@@ -232,7 +232,7 @@
     },
     {
       "mgdbId": "120000563191",
-      "pID": "960639313",
+      "pID": "960771455",
       "title": "男篮世预赛欧洲赛区",
       "keyword": "11月29日03:30",
       "sportItemId": "2",
@@ -249,8 +249,8 @@
       },
       "nodes": [
         {
-          "pID": "960639313",
-          "name": "欧洲篮坛超巨环伺！德意志战车卫冕之路荆棘密布"
+          "pID": "960771455",
+          "name": "2027男篮世界杯预选赛欧洲赛区G组小组赛全场集锦：法国vs比利时"
         },
         {
           "pID": "960702582",
@@ -378,9 +378,9 @@
       "mgdbId": "120000562986",
       "pID": "960702524",
       "title": "男篮世预赛美洲赛区",
-      "keyword": "11月29日 07:10",
+      "keyword": "11月29日07:10",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Coliseo Roberto Clemente",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/28/6V1FJDD85I76.jpg",
@@ -389,7 +389,7 @@
       "modifyTitle": "男篮世预赛美洲赛区",
       "presenters": "",
       "matchInfo": {
-        "time": "11月29日 07:10"
+        "time": "11月29日07:10"
       },
       "nodes": [
         {
@@ -594,7 +594,7 @@
       "mgdbId": "120000562974",
       "pID": "960702535",
       "title": "男篮世预赛美洲赛区",
-      "keyword": "11月29日09:10",
+      "keyword": "11月29日 09:10",
       "sportItemId": "2",
       "matchStatus": "1",
       "matchField": "Polideportivo Alexis Argüello",
@@ -605,7 +605,7 @@
       "modifyTitle": "男篮世预赛美洲赛区",
       "presenters": "",
       "matchInfo": {
-        "time": "11月29日09:10"
+        "time": "11月29日 09:10"
       },
       "nodes": [
         {
@@ -620,7 +620,7 @@
       "title": "男篮世预赛美洲赛区",
       "keyword": "11月29日09:40",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "Sir Kendal Isaacs Gymnasium",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/28/6V1FJB9QUSKO.png",
@@ -1931,6 +1931,30 @@
       ]
     },
     {
+      "mgdbId": "120000562688",
+      "pID": "120000562688",
+      "title": "全国自由潜水（泳池）锦标赛 第一场",
+      "keyword": "11月29日09:00",
+      "sportItemId": "",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "全国自由潜水锦标赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/28/6V1FKPTK7AR2.png",
+      "competitionLogo": "",
+      "pkInfoTitle": "全国自由潜水（泳池）锦标赛 第一场",
+      "modifyTitle": "全国自由潜水（泳池）锦标赛 第一场",
+      "presenters": "",
+      "matchInfo": {
+        "time": "11月29日09:00"
+      },
+      "nodes": [
+        {
+          "pID": "960509956",
+          "name": "泳池"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000542647",
       "pID": "120000542647",
       "title": "摩纳哥 vs 巴黎圣日耳曼",
@@ -1955,30 +1979,6 @@
         {
           "pID": "960736734",
           "name": "赛场原声"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000562688",
-      "pID": "120000562688",
-      "title": "9时播全国自由潜水锦标赛 第一场",
-      "keyword": "11月29日09:00",
-      "sportItemId": "",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "全国自由潜水锦标赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/28/6V1FKPTK7AR2.png",
-      "competitionLogo": "",
-      "pkInfoTitle": "9时播全国自由潜水锦标赛 第一场",
-      "modifyTitle": "9时播全国自由潜水锦标赛 第一场",
-      "presenters": "",
-      "matchInfo": {
-        "time": "11月29日09:00"
-      },
-      "nodes": [
-        {
-          "pID": "960509956",
-          "name": "泳池"
         }
       ]
     }
