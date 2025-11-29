@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-11-29 18:31:55",
+  "updateTime": "2025-11-29 19:02:17",
   "data": [
     {
       "mgdbId": "120000563073",
@@ -1252,7 +1252,7 @@
       "title": "2025和平精英全球总决赛 小组赛 第二天",
       "keyword": "11月29日18:30",
       "sportItemId": "10",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "和平精英全球总决赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/28/6V1FLUSPQDIF.jpg",
@@ -1280,7 +1280,7 @@
       "title": "浙江竞体PK辽宁极兔李永波 翁泓阳登场",
       "keyword": "11月29日18:30",
       "sportItemId": "6",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "羽超联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/29/6V1GJ4D1PR0E.jpg",
@@ -1304,7 +1304,7 @@
       "title": "青岛仁洲PK厦门银行 王祉怡出战",
       "keyword": "11月29日18:30",
       "sportItemId": "6",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "羽超联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/29/6V1GJBHV4HEM.jpg",
@@ -1334,7 +1334,7 @@
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/26/6V1DR6CP46F8.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/11/26/1000000012921065ed5d.png",
       "pkInfoTitle": "【张继科出席】开幕式及小组循环赛",
-      "modifyTitle": "张��科杯混合团体小组循环赛及开幕式",
+      "modifyTitle": "张继科杯混合团体小组循环赛及开幕式",
       "presenters": "张继科",
       "matchInfo": {
         "time": "11月29日19:00"
@@ -1472,11 +1472,11 @@
     },
     {
       "mgdbId": "120000563219",
-      "pID": "960702271",
+      "pID": "960702579",
       "title": "总决赛 三、四名决赛、冠军战及颁奖礼",
       "keyword": "11月29日19:30",
       "sportItemId": "3",
-      "matchStatus": "1",
+      "matchStatus": "0",
       "matchField": "",
       "competitionName": "河南省女子排球城市联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/28/6V1FKACAJE3L.jpg",
@@ -1489,11 +1489,11 @@
       },
       "nodes": [
         {
-          "pID": "960702271",
+          "pID": "960702579",
           "name": "解说"
         },
         {
-          "pID": "960702579",
+          "pID": "960702271",
           "name": "解说"
         }
       ]
@@ -1959,6 +1959,30 @@
       ]
     },
     {
+      "mgdbId": "120000562693",
+      "pID": "120000562693",
+      "title": "“湛江国际潜水大赛”水肺潜水公开赛 第二场",
+      "keyword": "11月29日19:00",
+      "sportItemId": "",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "湛江国际潜水大赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/28/6V1FKRJMLOSE.png",
+      "competitionLogo": "",
+      "pkInfoTitle": "“湛江国际潜水大赛”水肺潜水公开赛 第二场",
+      "modifyTitle": "“湛江国际潜水大赛”水肺潜水公开赛 第二场",
+      "presenters": "",
+      "matchInfo": {
+        "time": "11月29日19:00"
+      },
+      "nodes": [
+        {
+          "pID": "960510337",
+          "name": "解说"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000562689",
       "pID": "120000562689",
       "title": "全国自由潜水（泳池）锦标赛 第二场",
@@ -2026,15 +2050,11 @@
       "nodes": [
         {
           "pID": "960736693",
-          "name": "鹿中原 王��"
+          "name": "鹿中原 王宇"
         },
         {
           "pID": "960736734",
           "name": "赛场原声"
-        },
-        {
-          "pID": "960736693",
-          "name": "鹿中原 王宇"
         }
       ]
     }
