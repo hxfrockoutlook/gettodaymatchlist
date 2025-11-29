@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-11-30 06:01:53",
+  "updateTime": "2025-11-30 06:31:42",
   "data": [
     {
       "mgdbId": "120000542647",
@@ -208,7 +208,7 @@
       "title": "肖恩·墨菲对阵吕昊天 希金斯登场",
       "keyword": "11月30日03:00",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/28/6V1FJFF334UJ.jpg",
@@ -221,16 +221,16 @@
       },
       "nodes": [
         {
+          "pID": "960735748",
+          "name": "1号桌"
+        },
+        {
           "pID": "960735870",
           "name": "朱蒙"
         },
         {
           "pID": "960735893",
           "name": "朱峰立"
-        },
-        {
-          "pID": "960735748",
-          "name": "1号桌"
         },
         {
           "pID": "960735825",
@@ -272,10 +272,10 @@
       "title": "英超联赛",
       "keyword": "11月30日04:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "托特纳姆热刺球场",
       "competitionName": "英超",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/26/6V1DPO66UM2O.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/30/6V1HEOMAALSU.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png",
       "pkInfoTitle": "托特纳姆热刺 vs 富勒姆",
       "modifyTitle": "英超联赛",
@@ -304,7 +304,7 @@
       "title": "西甲联赛",
       "keyword": "11月30日04:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "万达大都会球场",
       "competitionName": "西甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/30/6V1HEI46919U.jpg",
@@ -336,7 +336,7 @@
       "title": "法甲联赛",
       "keyword": "11月30日04:05",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "韦洛德罗姆球场",
       "competitionName": "法甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/30/6V1HEGQUCST0.png",
@@ -351,10 +351,6 @@
         {
           "pID": "960736818",
           "name": "刘一臻"
-        },
-        {
-          "pID": "960736848",
-          "name": "赛场原声"
         }
       ]
     },
