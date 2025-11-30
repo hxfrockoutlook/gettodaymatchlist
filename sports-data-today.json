@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-12-01 05:01:36",
+  "updateTime": "2025-12-01 05:31:26",
   "data": [
     {
       "mgdbId": "120000563098",
@@ -424,7 +424,7 @@
       "title": "德甲联赛",
       "keyword": "12月01日02:30",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Europa-Park Stadion",
       "competitionName": "德甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/01/6V3I0HKO2K2D.png",
@@ -450,7 +450,7 @@
       "mgdbId": "120000563120",
       "pID": "960639313",
       "title": "男篮世预赛欧洲赛区",
-      "keyword": "12月01日 02:45",
+      "keyword": "12月01日02:45",
       "sportItemId": "2",
       "matchStatus": "2",
       "matchField": "Santiago Martin Arena",
@@ -461,7 +461,7 @@
       "modifyTitle": "男篮世预赛欧洲赛区",
       "presenters": "",
       "matchInfo": {
-        "time": "12月01日 02:45"
+        "time": "12月01日02:45"
       },
       "nodes": [
         {
@@ -478,7 +478,7 @@
       "mgdbId": "120000563061",
       "pID": "960641409",
       "title": "男篮世预赛亚洲赛区",
-      "keyword": "12月01日 03:00",
+      "keyword": "12月01日03:00",
       "sportItemId": "2",
       "matchStatus": "2",
       "matchField": "Nouhad Nawfal Sports Complex",
@@ -489,7 +489,7 @@
       "modifyTitle": "男篮世预赛亚洲赛区",
       "presenters": "",
       "matchInfo": {
-        "time": "12月01日 03:00"
+        "time": "12月01日03:00"
       },
       "nodes": [
         {
@@ -504,11 +504,11 @@
     },
     {
       "mgdbId": "120000563099",
-      "pID": "960702324",
+      "pID": "960639612",
       "title": "男篮世预赛非洲赛区",
       "keyword": "12月01日03:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Salle Multidisciplinaire de Radès",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000563099/202511261140_443640_H169_1080.webp",
@@ -521,6 +521,10 @@
       },
       "nodes": [
         {
+          "pID": "960639612",
+          "name": "天赋无极限！2027男篮世预赛非洲赛区谁能脱颖而出？"
+        },
+        {
           "pID": "960702324",
           "name": "赛场原声"
         }
@@ -528,11 +532,11 @@
     },
     {
       "mgdbId": "120000563145",
-      "pID": "960702684",
+      "pID": "960639313",
       "title": "男篮世预赛欧洲赛区",
       "keyword": "12月01日03:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Dvorana \"Mirza Delibasic\" - Skenderija",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/29/6V1GHJLKSGDA.png",
@@ -544,6 +548,10 @@
         "time": "12月01日03:00"
       },
       "nodes": [
+        {
+          "pID": "960639313",
+          "name": "欧洲篮坛超巨环伺！德意志战车卫冕之路荆棘密布"
+        },
         {
           "pID": "960702684",
           "name": "赛场原声"
@@ -1119,6 +1127,10 @@
         {
           "pID": "960739099",
           "name": "混采区"
+        },
+        {
+          "pID": "960783023",
+          "name": "侯��超 马特 周冠达"
         }
       ]
     },
