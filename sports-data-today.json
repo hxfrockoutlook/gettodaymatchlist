@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-12-01 00:11:26",
+  "updateTime": "2025-12-01 00:31:32",
   "data": [
     {
       "mgdbId": "120000563098",
@@ -131,10 +131,6 @@
         {
           "pID": "960737080",
           "name": "赛场原声"
-        },
-        {
-          "pID": "960809327",
-          "name": "赛场原声"
         }
       ]
     },
@@ -159,6 +155,10 @@
         {
           "pID": "960738059",
           "name": "詹俊 张路 李子琪"
+        },
+        {
+          "pID": "960738461",
+          "name": "球星视角"
         },
         {
           "pID": "960738031",
@@ -192,7 +192,7 @@
       "title": "德甲联赛",
       "keyword": "12月01日00:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "法兰克福竞技场",
       "competitionName": "德甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000542891/945777_H169_sc.jpg",
@@ -220,7 +220,7 @@
       "title": "男篮世预赛欧洲赛区",
       "keyword": "12月01日00:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "Svyturio Arena",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/29/6V1GGOFLP2SE.jpg",
@@ -1083,10 +1083,6 @@
         {
           "pID": "960739099",
           "name": "混采区"
-        },
-        {
-          "pID": "960783023",
-          "name": "侯英超 马��� 周冠达"
         }
       ]
     },
