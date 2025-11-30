@@ -1,12 +1,12 @@
 {
   "success": true,
-  "updateTime": "2025-12-01 00:31:32",
+  "updateTime": "2025-12-01 01:01:37",
   "data": [
     {
       "mgdbId": "120000563098",
       "pID": "960702312",
       "title": "男篮世预赛非洲赛区",
-      "keyword": "12月01日00:00",
+      "keyword": "12月01日 00:00",
       "sportItemId": "2",
       "matchStatus": "1",
       "matchField": "Salle Multidisciplinaire de Radès",
@@ -17,7 +17,7 @@
       "modifyTitle": "男篮世预赛非洲赛区",
       "presenters": "",
       "matchInfo": {
-        "time": "12月01日00:00"
+        "time": "12月01日 00:00"
       },
       "nodes": [
         {
@@ -30,7 +30,7 @@
       "mgdbId": "120000563144",
       "pID": "960702622",
       "title": "男篮世预赛欧洲赛区",
-      "keyword": "12月01日00:00",
+      "keyword": "12月01日 00:00",
       "sportItemId": "2",
       "matchStatus": "1",
       "matchField": "Site Sportif Saint-Leonard",
@@ -41,7 +41,7 @@
       "modifyTitle": "男篮世预赛欧洲赛区",
       "presenters": "",
       "matchInfo": {
-        "time": "12月01日00:00"
+        "time": "12月01日 00:00"
       },
       "nodes": [
         {
@@ -169,20 +169,20 @@
           "name": "赛场原声"
         },
         {
-          "pID": "960738077",
-          "name": "洪荒"
-        },
-        {
           "pID": "960738245",
           "name": "英文原声"
         },
         {
-          "pID": "960738120",
-          "name": "陈渤胄"
+          "pID": "960738383",
+          "name": "洪荒"
         },
         {
           "pID": "960738360",
           "name": "詹俊 张路 李子琪"
+        },
+        {
+          "pID": "960738397",
+          "name": "陈渤胄"
         }
       ]
     },
@@ -218,7 +218,7 @@
       "mgdbId": "120000563157",
       "pID": "960702674",
       "title": "男篮世预赛欧洲赛区",
-      "keyword": "12月01日00:30",
+      "keyword": "12月01日 00:30",
       "sportItemId": "2",
       "matchStatus": "1",
       "matchField": "Svyturio Arena",
@@ -229,7 +229,7 @@
       "modifyTitle": "男篮世预赛欧洲赛区",
       "presenters": "",
       "matchInfo": {
-        "time": "12月01日00:30"
+        "time": "12月01日 00:30"
       },
       "nodes": [
         {
@@ -244,7 +244,7 @@
       "title": "男篮世预赛欧洲赛区",
       "keyword": "12月01日00:45",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "Laugardalshöll",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000563156/202511261152_233642_H169_1080.webp",
@@ -268,7 +268,7 @@
       "title": "意甲联赛",
       "keyword": "12月01日01:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "蓝色意大利竞技场",
       "competitionName": "意甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000543156/640608_H169_sc.jpg",
@@ -296,7 +296,7 @@
       "title": "男篮世预赛欧洲赛区",
       "keyword": "12月01日01:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "Xiaomi Arena",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000563121/202511261146_476155_H169_1080.webp",
@@ -320,7 +320,7 @@
       "title": "男篮世预赛欧洲赛区",
       "keyword": "12月01日01:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "Centro de Desportos e Congressos de Matosinhos",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/29/6V1GGOI5G16G.jpg",
@@ -344,7 +344,7 @@
       "title": "男篮世预赛欧洲赛区",
       "keyword": "12月01日01:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "Pitesti Arena",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000563133/202511261150_972742_H169_1080.webp",
@@ -1083,6 +1083,10 @@
         {
           "pID": "960739099",
           "name": "混采区"
+        },
+        {
+          "pID": "960783023",
+          "name": "侯英超 ��特 周冠达"
         }
       ]
     },
