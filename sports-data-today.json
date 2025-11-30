@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-11-30 18:01:58",
+  "updateTime": "2025-11-30 18:31:54",
   "data": [
     {
       "mgdbId": "120000542647",
@@ -1017,7 +1017,7 @@
     {
       "mgdbId": "120000562785",
       "pID": "960738414",
-      "title": "张本兄妹领衔出战 德法登场",
+      "title": "张本兄妹率队开门红 德法登场",
       "keyword": "11月30日17:00",
       "sportItemId": "7",
       "matchStatus": "1",
@@ -1025,7 +1025,7 @@
       "competitionName": "国际乒联混合团体世界杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/29/6V1GHKE6B5J3.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/12/2/1000000011421062e5c0.png",
-      "pkInfoTitle": "张本兄妹领衔出战 德法登场",
+      "pkInfoTitle": "张本兄妹率队开门红 德法登场",
       "modifyTitle": "成都国际乒联混合团体世界杯：小组循环赛第1轮",
       "presenters": "刘馨蕊 肖扬",
       "matchInfo": {
@@ -1033,12 +1033,12 @@
       },
       "nodes": [
         {
-          "pID": "960738414",
-          "name": "国际乒联混团世界杯"
-        },
-        {
           "pID": "960738336",
           "name": "1号桌"
+        },
+        {
+          "pID": "960738414",
+          "name": "国际乒联混团世界杯"
         },
         {
           "pID": "960760051",
@@ -1058,7 +1058,7 @@
       "mgdbId": "120000563074",
       "pID": "960702227",
       "title": "男篮世预赛非洲赛区",
-      "keyword": "11月30日18:00",
+      "keyword": "11月30日 18:00",
       "sportItemId": "2",
       "matchStatus": "1",
       "matchField": "Salle Multidisciplinaire de Radès",
@@ -1069,7 +1069,7 @@
       "modifyTitle": "男篮世预赛非洲赛区",
       "presenters": "",
       "matchInfo": {
-        "time": "11月30日18:00"
+        "time": "11月30日 18:00"
       },
       "nodes": [
         {
@@ -1081,7 +1081,7 @@
     {
       "mgdbId": "120000562658",
       "pID": "960741049",
-      "title": "和平精英小组赛绿组Day3",
+      "title": "2025和平精英全球总决赛 小组赛 第三天",
       "keyword": "11月30日18:30",
       "sportItemId": "10",
       "matchStatus": "0",
@@ -1089,7 +1089,7 @@
       "competitionName": "和平精英全球总决赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/30/6V1HE5771SJ5.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/11/21/100000001006106e59f4.jpeg",
-      "pkInfoTitle": "和平精英小组赛绿组Day3",
+      "pkInfoTitle": "2025和平精英全球总决赛 小组赛 第三天",
       "modifyTitle": "2025和平精英全球总决赛 小组赛绿组 第三天",
       "presenters": "",
       "matchInfo": {
@@ -1594,6 +1594,10 @@
         },
         {
           "pID": "960737638",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "960809175",
           "name": "赛场原声"
         }
       ]
