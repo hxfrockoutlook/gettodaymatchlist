@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-11-30 20:32:06",
+  "updateTime": "2025-11-30 21:02:00",
   "data": [
     {
       "mgdbId": "120000542647",
@@ -628,7 +628,7 @@
       "title": "【训练馆视角】直击赛前训练",
       "keyword": "11月30日09:30",
       "sportItemId": "7",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "国际乒联混合团体世界杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/29/6V1GI6V6H61D.jpg",
@@ -1020,8 +1020,8 @@
     },
     {
       "mgdbId": "120000562785",
-      "pID": "960738414",
-      "title": "张本兄妹率队开门红 德法登场",
+      "pID": "960738373",
+      "title": "张本率队开门红 法国8-0大胜",
       "keyword": "11月30日17:00",
       "sportItemId": "7",
       "matchStatus": "1",
@@ -1029,7 +1029,7 @@
       "competitionName": "国际乒联混合团体世界杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/30/6V1HEOUK6E42.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/12/2/1000000011421062e5c0.png",
-      "pkInfoTitle": "张本兄妹率队开门红 德法登场",
+      "pkInfoTitle": "张本率队开门红 法国8-0大胜",
       "modifyTitle": "成都国际乒联混合团体世界杯：小组循环赛第1轮",
       "presenters": "刘馨蕊 肖扬",
       "matchInfo": {
@@ -1037,12 +1037,16 @@
       },
       "nodes": [
         {
-          "pID": "960738414",
-          "name": "国际乒联混团世界杯"
-        },
-        {
           "pID": "960738373",
           "name": "2号桌"
+        },
+        {
+          "pID": "960738515",
+          "name": "混采区"
+        },
+        {
+          "pID": "960738414",
+          "name": "国际乒联混团世界杯"
         },
         {
           "pID": "960760051",
@@ -1051,10 +1055,6 @@
         {
           "pID": "960738336",
           "name": "1号桌"
-        },
-        {
-          "pID": "960738515",
-          "name": "混采区"
         }
       ]
     },
@@ -1107,30 +1107,6 @@
         {
           "pID": "960741080",
           "name": "明星视角1"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000562973",
-      "pID": "960700321",
-      "title": "【张继科现场解说】半决赛、决赛及颁奖仪式",
-      "keyword": "11月30日18:30",
-      "sportItemId": "7",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "张继科杯全民乒乓球争霸赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/30/6V1HE80TIRJT.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/11/26/1000000012921065ed5d.png",
-      "pkInfoTitle": "【张继科现场解说】半决赛、决赛及颁奖仪式",
-      "modifyTitle": "张继科杯混合团体半决赛、决赛及颁奖仪式",
-      "presenters": "张继科",
-      "matchInfo": {
-        "time": "11月30日18:30"
-      },
-      "nodes": [
-        {
-          "pID": "960700321",
-          "name": "张继科"
         }
       ]
     },
@@ -1346,7 +1322,7 @@
       "mgdbId": "120000563060",
       "pID": "960729210",
       "title": "男篮世预赛亚洲赛区",
-      "keyword": "11月30日20:30",
+      "keyword": "11月30日 20:30",
       "sportItemId": "2",
       "matchStatus": "1",
       "matchField": "Nehru Indoor Stadium",
@@ -1357,7 +1333,7 @@
       "modifyTitle": "男篮世预赛亚洲赛区",
       "presenters": "",
       "matchInfo": {
-        "time": "11月30日20:30"
+        "time": "11月30日 20:30"
       },
       "nodes": [
         {
@@ -1372,7 +1348,7 @@
       "title": "西甲联赛",
       "keyword": "11月30日21:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "阿诺埃塔球场",
       "competitionName": "西甲",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000543418/202507102046_292648_H169_1080.webp",
@@ -1395,12 +1371,36 @@
       ]
     },
     {
+      "mgdbId": "120000562973",
+      "pID": "960700321",
+      "title": "张继科杯全民乒乓球团体赛Day2下午场",
+      "keyword": "11月30日21:00",
+      "sportItemId": "7",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "张继科杯全民乒乓球争霸赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/30/6V1HE80TIRJT.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/11/26/1000000012921065ed5d.png",
+      "pkInfoTitle": "张继科杯全民乒乓球团体赛Day2下午场",
+      "modifyTitle": "张继科杯混合团体半决赛、决赛及颁奖仪式",
+      "presenters": "张继科",
+      "matchInfo": {
+        "time": "11月30日21:00"
+      },
+      "nodes": [
+        {
+          "pID": "960700321",
+          "name": "张继科"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000563075",
       "pID": "960702245",
       "title": "男篮世预赛非洲赛区",
       "keyword": "11月30日21:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "Salle Multidisciplinaire de Radès",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000563075/202511261135_851735_H169_1080.webp",
@@ -1424,7 +1424,7 @@
       "title": "吴宜泽PK霍尔特 尼尔·罗伯逊出战",
       "keyword": "11月30日21:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/29/6V1GGNTG5L3H.jpg",
