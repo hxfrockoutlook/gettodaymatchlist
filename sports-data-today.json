@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-11-30 13:31:45",
+  "updateTime": "2025-11-30 14:03:15",
   "data": [
     {
       "mgdbId": "120000542647",
@@ -700,14 +700,14 @@
     },
     {
       "mgdbId": "120000546829",
-      "pID": "960520025",
+      "pID": "960803097",
       "title": "NBA常规赛",
       "keyword": "11月30日11:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "因图特圆顶球馆",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/29/6V1GG5UER6VH.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/30/6V1HDAIKTTU1.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "独行侠VS快船",
       "modifyTitle": "NBA常规赛",
@@ -716,6 +716,10 @@
         "time": "11月30日11:00"
       },
       "nodes": [
+        {
+          "pID": "960803097",
+          "name": "天选之子的绝对天赋！弗拉格一飞冲天隔扣祖巴茨"
+        },
         {
           "pID": "960520025",
           "name": "李天宇 徐咏 魏欣怡"
@@ -728,37 +732,37 @@
     },
     {
       "mgdbId": "120000562784",
-      "pID": "960737853",
+      "pID": "960737912",
       "title": "迎开门红！国乒8-1中国香港",
       "keyword": "11月30日11:00",
       "sportItemId": "7",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "国际乒联混合团体世界杯",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/30/6V1HD8N0APDL.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/30/6V1HDC5P8LGC.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/12/2/1000000011421062e5c0.png",
       "pkInfoTitle": "迎开门红！国乒8-1中国香港",
       "modifyTitle": "成都国际乒联混合团体世界杯：小组循环赛第1轮",
-      "presenters": "侯英超 周冠达 小马哥 朱子恒 凌维康",
+      "presenters": "朱子恒 凌维康 侯英超 周冠达 小马哥",
       "matchInfo": {
         "time": "11月30日11:00"
       },
       "nodes": [
         {
-          "pID": "960737853",
-          "name": "1号桌"
-        },
-        {
           "pID": "960737912",
           "name": "朱子恒 凌维康"
+        },
+        {
+          "pID": "960737572",
+          "name": "2号桌"
         },
         {
           "pID": "960760051",
           "name": "训练馆"
         },
         {
-          "pID": "960737572",
-          "name": "2号桌"
+          "pID": "960737853",
+          "name": "1号桌"
         },
         {
           "pID": "960738103",
@@ -824,7 +828,7 @@
       "title": "混合团体1/16、1/8及1/4淘汰赛",
       "keyword": "11月30日14:00",
       "sportItemId": "7",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "张继科杯全民乒乓球争霸赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/30/6V1HD9TOFHNM.webp",
@@ -1423,11 +1427,19 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "吴宜泽PK霍尔特 尼尔·罗伯逊出战",
       "modifyTitle": "斯诺克英锦赛正赛32进16轮次：吴宜泽PK霍尔特 尼尔·罗伯逊出战",
-      "presenters": "",
+      "presenters": "朱峰立 朱蒙",
       "matchInfo": {
         "time": "11月30日21:00"
       },
       "nodes": [
+        {
+          "pID": "960735994",
+          "name": "朱峰立"
+        },
+        {
+          "pID": "960736041",
+          "name": "朱蒙"
+        },
         {
           "pID": "960735945",
           "name": "1号桌"
@@ -1435,14 +1447,6 @@
         {
           "pID": "960735985",
           "name": "2号桌"
-        },
-        {
-          "pID": "960735994",
-          "name": "解说"
-        },
-        {
-          "pID": "960736041",
-          "name": "解说"
         }
       ]
     },
