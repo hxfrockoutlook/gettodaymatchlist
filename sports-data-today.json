@@ -1,14 +1,14 @@
 {
   "success": true,
-  "updateTime": "2025-12-02 02:31:15",
+  "updateTime": "2025-12-02 03:01:23",
   "data": [
     {
       "mgdbId": "120000563192",
-      "pID": "960702692",
+      "pID": "960639313",
       "title": "男篮世预赛欧洲赛区",
       "keyword": "12月02日 00:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Espoo Metro Arena",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/30/6V1HDR13EORO.jpg",
@@ -21,6 +21,10 @@
       },
       "nodes": [
         {
+          "pID": "960639313",
+          "name": "欧洲篮坛超巨环伺！德意志战车卫冕之路荆棘密布"
+        },
+        {
           "pID": "960702692",
           "name": "赛场原声"
         }
@@ -28,11 +32,11 @@
     },
     {
       "mgdbId": "120000563168",
-      "pID": "960702340",
+      "pID": "960639313",
       "title": "男篮世预赛欧洲赛区",
-      "keyword": "12月02日01:00",
+      "keyword": "12月02日 01:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Spyros Kyprianou Arena",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/30/6V1HDR1VIHGD.jpg",
@@ -41,9 +45,13 @@
       "modifyTitle": "男篮世预赛欧洲赛区",
       "presenters": "",
       "matchInfo": {
-        "time": "12月02日01:00"
+        "time": "12月02日 01:00"
       },
       "nodes": [
+        {
+          "pID": "960639313",
+          "name": "欧洲篮坛超巨环伺！德意志战车卫冕之路荆棘密布"
+        },
         {
           "pID": "960702340",
           "name": "赛场原声"
@@ -128,7 +136,7 @@
       "title": "男篮世预赛欧洲赛区",
       "keyword": "12月02日03:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "Xiaomi Arena",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000563169/202511261156_811923_H169_1080.webp",
@@ -148,7 +156,7 @@
     },
     {
       "mgdbId": "120000563338",
-      "pID": "960735487",
+      "pID": "960735518",
       "title": "张安达PK加里·威尔逊 马克·艾伦出战",
       "keyword": "12月02日03:00",
       "sportItemId": "8",
