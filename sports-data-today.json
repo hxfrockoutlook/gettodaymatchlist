@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-12-02 21:01:34",
+  "updateTime": "2025-12-02 21:31:26",
   "data": [
     {
       "mgdbId": "120000563192",
@@ -353,7 +353,7 @@
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/02/6V3IV65NMBKG.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
-      "pkInfoTitle": "���鹿VS奇才",
+      "pkInfoTitle": "雄鹿VS��才",
       "modifyTitle": "NBA常规赛",
       "presenters": "王凯",
       "matchInfo": {
@@ -916,7 +916,7 @@
       "title": "三战全胜！国乒小组第一晋级",
       "keyword": "12月02日17:00",
       "sportItemId": "7",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "国际乒联混合团体世界杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/02/6V3IUSOSI66Q.jpg",
@@ -1036,7 +1036,7 @@
       "title": "WCBA常规赛A组",
       "keyword": "12月02日19:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "WCBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/02/6V3IUFQE7IAV.jpg",
@@ -1088,7 +1088,7 @@
       "title": "WCBA常规赛A组",
       "keyword": "12月02日19:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "WCBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/02/6V3ISPE2VG6M.jpg",
@@ -1108,8 +1108,8 @@
     },
     {
       "mgdbId": "120000563339",
-      "pID": "960735569",
-      "title": "塞尔比迎战雷佩凡 奥沙利文PK周跃龙",
+      "pID": "960735637",
+      "title": "塞尔比VS雷佩凡 周跃龙迎战奥沙利文",
       "keyword": "12月02日21:00",
       "sportItemId": "8",
       "matchStatus": "1",
@@ -1117,16 +1117,20 @@
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/01/6V3I1FUTQKLI.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "塞尔比迎战雷佩凡 奥沙利文PK周跃龙",
-      "modifyTitle": "斯诺克英锦赛正赛32进16轮次：塞尔比迎战雷佩凡 奥沙利文PK周跃龙",
-      "presenters": "柏林",
+      "pkInfoTitle": "塞尔比VS雷佩凡 周跃龙迎战奥沙利文",
+      "modifyTitle": "斯诺克英锦赛正赛32进16轮次：塞尔比VS雷佩凡 奥沙利文PK周跃龙",
+      "presenters": "柏林 乔迁",
       "matchInfo": {
         "time": "12月02日21:00"
       },
       "nodes": [
         {
           "pID": "960735637",
-          "name": "柏林"
+          "name": "切换桌次"
+        },
+        {
+          "pID": "960735661",
+          "name": "解说：乔迁"
         },
         {
           "pID": "960735569",
