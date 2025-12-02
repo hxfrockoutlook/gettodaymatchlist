@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-12-02 16:01:25",
+  "updateTime": "2025-12-02 16:31:23",
   "data": [
     {
       "mgdbId": "120000563192",
@@ -892,7 +892,7 @@
       "title": "【训练馆视角】直击赛前训练",
       "keyword": "12月02日09:00",
       "sportItemId": "7",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "国际乒联混合团体世界杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/01/6V3I2376J4FI.jpg",
@@ -916,7 +916,7 @@
       "title": "国乒小组赛末战智利 中国台北对阵瑞典",
       "keyword": "12月02日17:00",
       "sportItemId": "7",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "国际乒联混合团体世界杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/01/6V3I29NP69MP.jpg",
@@ -951,6 +951,10 @@
         {
           "pID": "960740684",
           "name": "混采区"
+        },
+        {
+          "pID": "960783043",
+          "name": "侯英��� 马特 周冠达"
         }
       ]
     },
@@ -977,32 +981,8 @@
           "name": "官方解说"
         },
         {
-          "pID": "960740657",
-          "name": "清流"
-        },
-        {
           "pID": "960740675",
           "name": "明星视角1"
-        },
-        {
-          "pID": "960740705",
-          "name": "明星视角2"
-        },
-        {
-          "pID": "960740754",
-          "name": "明星视角3"
-        },
-        {
-          "pID": "960740777",
-          "name": "明星视角4"
-        },
-        {
-          "pID": "960740800",
-          "name": "明星视角5"
-        },
-        {
-          "pID": "960740819",
-          "name": "地图流"
         }
       ]
     },
