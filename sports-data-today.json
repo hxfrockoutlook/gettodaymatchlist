@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-12-02 12:31:29",
+  "updateTime": "2025-12-02 13:01:30",
   "data": [
     {
       "mgdbId": "120000563192",
@@ -635,39 +635,15 @@
       ]
     },
     {
-      "mgdbId": "120000562789",
-      "pID": "960760035",
-      "title": "【训练馆视角】直击赛前训练",
-      "keyword": "12月02日09:00",
-      "sportItemId": "7",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "国际乒联混合团体世界杯",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/01/6V3I2376J4FI.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/12/2/1000000011421062e5c0.png",
-      "pkInfoTitle": "【训练馆视角】直击赛前训练",
-      "modifyTitle": "成���国际乒联混合团体世界杯Day3训练馆",
-      "presenters": "",
-      "matchInfo": {
-        "time": "12月02日09:00"
-      },
-      "nodes": [
-        {
-          "pID": "960760035",
-          "name": "训练馆"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000546844",
-      "pID": "960764191",
+      "pID": "960860417",
       "title": "NBA常规赛",
       "keyword": "12月02日10:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "德尔塔中心球馆",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/01/6V3I06P8FG36.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/02/6V3J013J8SN8.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "火箭VS爵士",
       "modifyTitle": "NBA常规赛",
@@ -676,6 +652,10 @@
         "time": "12月02日10:00"
       },
       "nodes": [
+        {
+          "pID": "960860417",
+          "name": "关键挑战！主裁回看改吹小贾推人犯规 杜兰特抱怨&申京摔毛巾"
+        },
         {
           "pID": "960764191",
           "name": "连睿 曾令旭 周鹏"
@@ -751,7 +731,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "国际乒联混合团体世界杯",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/02/6V3IVV47RCVD.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/02/6V3J01O2FTR7.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/12/2/1000000011421062e5c0.png",
       "pkInfoTitle": "邱党领衔德国队晋级 法国8-6罗马尼亚",
       "modifyTitle": "成都国际乒联混合团体世界杯：小组循环赛第3轮",
@@ -769,12 +749,12 @@
           "name": "1号桌"
         },
         {
-          "pID": "960760035",
-          "name": "训练馆"
-        },
-        {
           "pID": "960815364",
           "name": "2号桌"
+        },
+        {
+          "pID": "960760035",
+          "name": "训练馆"
         },
         {
           "pID": "960740558",
@@ -891,6 +871,30 @@
         {
           "pID": "960546739",
           "name": "解说"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000562789",
+      "pID": "960760035",
+      "title": "【训练馆视角】直击赛前训练",
+      "keyword": "12月02日09:00",
+      "sportItemId": "7",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "国际乒联混合团体世界杯",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/01/6V3I2376J4FI.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/12/2/1000000011421062e5c0.png",
+      "pkInfoTitle": "【训练馆视角】直击赛前训练",
+      "modifyTitle": "成都国际乒联混合团体世界杯Day3训练馆",
+      "presenters": "",
+      "matchInfo": {
+        "time": "12月02日09:00"
+      },
+      "nodes": [
+        {
+          "pID": "960760035",
+          "name": "训练馆"
         }
       ]
     },
