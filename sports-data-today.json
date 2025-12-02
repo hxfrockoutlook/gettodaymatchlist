@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-12-03 03:31:17",
+  "updateTime": "2025-12-03 04:01:08",
   "data": [
     {
       "mgdbId": "120000563340",
@@ -108,7 +108,7 @@
       "title": "西甲联赛",
       "keyword": "12月03日04:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "西甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/27/6V1EMK01IR22.jpg",
@@ -140,7 +140,7 @@
       "title": "意大利杯1/8决赛",
       "keyword": "12月03日04:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "Allianz Stadium",
       "competitionName": "意大利杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/01/6V3I14D199DD.jpg",
@@ -380,6 +380,10 @@
         "time": "12月03日11:30"
       },
       "nodes": [
+        {
+          "pID": "960760032",
+          "name": "训练���"
+        },
         {
           "pID": "960760032",
           "name": "训练馆"
