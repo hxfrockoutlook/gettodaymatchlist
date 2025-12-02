@@ -1,11 +1,11 @@
 {
   "success": true,
-  "updateTime": "2025-12-03 06:31:08",
+  "updateTime": "2025-12-03 07:01:16",
   "data": [
     {
       "mgdbId": "120000563340",
-      "pID": "960735732",
-      "title": "凯伦·威尔逊登场 霍金斯出战",
+      "pID": "960735777",
+      "title": "霍金斯出战 凯伦·威尔逊遭淘汰",
       "keyword": "12月03日03:00",
       "sportItemId": "8",
       "matchStatus": "1",
@@ -13,13 +13,17 @@
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/01/6V3I1KP9BBC5.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "凯伦·威尔逊登场 霍金斯出战",
-      "modifyTitle": "斯诺克英锦赛正赛32进16轮次：凯伦·威尔逊登场 霍金斯出战",
+      "pkInfoTitle": "霍金斯出战 凯伦·威尔逊遭淘汰",
+      "modifyTitle": "斯诺克英锦赛正赛32进16轮次：霍金斯出战 凯伦·威尔逊遭淘汰",
       "presenters": "柏林",
       "matchInfo": {
         "time": "12月03日03:00"
       },
       "nodes": [
+        {
+          "pID": "960735777",
+          "name": "2号桌"
+        },
         {
           "pID": "960735800",
           "name": "柏林"
@@ -27,10 +31,6 @@
         {
           "pID": "960735732",
           "name": "1号桌"
-        },
-        {
-          "pID": "960735777",
-          "name": "2号桌"
         }
       ]
     },
@@ -168,7 +168,7 @@
       "title": "英超联赛",
       "keyword": "12月03日04:15",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "圣詹姆斯公园球场",
       "competitionName": "英超",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/03/6V3JQVM9KBSO.png",
@@ -380,10 +380,6 @@
         "time": "12月03日11:30"
       },
       "nodes": [
-        {
-          "pID": "960760032",
-          "name": "训练���"
-        },
         {
           "pID": "960760032",
           "name": "训练馆"
