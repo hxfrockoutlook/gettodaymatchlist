@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-12-03 09:31:14",
+  "updateTime": "2025-12-03 10:01:21",
   "data": [
     {
       "mgdbId": "120000563340",
@@ -344,7 +344,7 @@
       "title": "中国足球青少年精英联赛",
       "keyword": "12月03日10:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "中国足球青少年精英联赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000561964/202511191451_171344_H169_1080.webp",
@@ -620,6 +620,7 @@
     },
     {
       "mgdbId": "120000562510",
+      "pID": "960892691",
       "title": "CBA俱乐部杯小组赛",
       "keyword": "12月03日17:00",
       "sportItemId": "2",
@@ -630,7 +631,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/11/5/100000001240106a8316.png",
       "pkInfoTitle": "山西汾酒vs广州朗肽海本",
       "modifyTitle": "CBA俱乐部杯小组赛",
-      "presenters": "",
+      "presenters": "张泽欣",
       "matchInfo": {
         "time": "12月03日17:00"
       },
@@ -638,6 +639,10 @@
         {
           "pID": "960892691",
           "name": "张泽欣"
+        },
+        {
+          "pID": "960892671",
+          "name": "清流播出"
         }
       ]
     },
@@ -711,6 +716,7 @@
     },
     {
       "mgdbId": "120000562511",
+      "pID": "960892757",
       "title": "CBA俱乐部杯小组赛",
       "keyword": "12月03日19:30",
       "sportItemId": "2",
@@ -721,14 +727,24 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/11/5/100000001240106a8316.png",
       "pkInfoTitle": "南京天之蓝vs北京控股",
       "modifyTitle": "CBA俱乐部杯小组赛",
-      "presenters": "",
+      "presenters": "蔡凯臣",
       "matchInfo": {
         "time": "12月03日19:30"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "960892757",
+          "name": "蔡凯臣"
+        },
+        {
+          "pID": "960892741",
+          "name": "清流播出"
+        }
+      ]
     },
     {
       "mgdbId": "120000562512",
+      "pID": "960892704",
       "title": "CBA俱乐部杯小组赛",
       "keyword": "12月03日19:30",
       "sportItemId": "2",
@@ -739,11 +755,20 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/11/5/100000001240106a8316.png",
       "pkInfoTitle": "青岛崂山啤酒vs浙江方兴渡",
       "modifyTitle": "CBA俱乐部杯小组赛",
-      "presenters": "",
+      "presenters": "周鹏",
       "matchInfo": {
         "time": "12月03日19:30"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "960892704",
+          "name": "周鹏"
+        },
+        {
+          "pID": "960892701",
+          "name": "清流播出"
+        }
+      ]
     },
     {
       "mgdbId": "120000563229",
@@ -819,6 +844,7 @@
     },
     {
       "mgdbId": "120000562513",
+      "pID": "960892815",
       "title": "CBA俱乐部杯小组赛",
       "keyword": "12月03日20:00",
       "sportItemId": "2",
@@ -829,14 +855,24 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/11/5/100000001240106a8316.png",
       "pkInfoTitle": "新疆伊力特vs浙江稠州金租",
       "modifyTitle": "CBA俱乐部杯小组赛",
-      "presenters": "",
+      "presenters": "庄宁宇",
       "matchInfo": {
         "time": "12月03日20:00"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "960892815",
+          "name": "庄宁宇"
+        },
+        {
+          "pID": "960892800",
+          "name": "清流播出"
+        }
+      ]
     },
     {
       "mgdbId": "120000562514",
+      "pID": "960892830",
       "title": "CBA俱乐部杯小组赛",
       "keyword": "12月03日20:00",
       "sportItemId": "2",
@@ -847,11 +883,20 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/11/5/100000001240106a8316.png",
       "pkInfoTitle": "辽宁本钢vs江苏肯帝亚",
       "modifyTitle": "CBA俱乐部杯小组赛",
-      "presenters": "",
+      "presenters": "徐秦威",
       "matchInfo": {
         "time": "12月03日20:00"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "960892830",
+          "name": "徐秦威"
+        },
+        {
+          "pID": "960892825",
+          "name": "清流播出"
+        }
+      ]
     },
     {
       "mgdbId": "120000563341",
