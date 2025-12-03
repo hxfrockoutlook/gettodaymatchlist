@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-12-03 09:01:17",
+  "updateTime": "2025-12-03 09:31:14",
   "data": [
     {
       "mgdbId": "120000563340",
@@ -536,6 +536,7 @@
     },
     {
       "mgdbId": "120000562507",
+      "pID": "960892547",
       "title": "CBA俱乐部杯小组赛",
       "keyword": "12月03日15:00",
       "sportItemId": "2",
@@ -546,14 +547,24 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/11/5/100000001240106a8316.png",
       "pkInfoTitle": "天津先行者vs山东高速",
       "modifyTitle": "CBA俱乐部杯小组赛",
-      "presenters": "",
+      "presenters": "吴博文",
       "matchInfo": {
         "time": "12月03日15:00"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "960892547",
+          "name": "吴博文"
+        },
+        {
+          "pID": "960892542",
+          "name": "清流播出"
+        }
+      ]
     },
     {
       "mgdbId": "120000562508",
+      "pID": "960892574",
       "title": "CBA俱乐部杯小组赛",
       "keyword": "12月03日15:30",
       "sportItemId": "2",
@@ -564,14 +575,24 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/11/5/100000001240106a8316.png",
       "pkInfoTitle": "上海久事vs四川丰谷酒业",
       "modifyTitle": "CBA俱乐部杯小组赛",
-      "presenters": "",
+      "presenters": "王冠证",
       "matchInfo": {
         "time": "12月03日15:30"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "960892574",
+          "name": "王冠证"
+        },
+        {
+          "pID": "960892571",
+          "name": "清流播出"
+        }
+      ]
     },
     {
       "mgdbId": "120000562509",
+      "pID": "960892634",
       "title": "CBA俱乐部杯小组赛",
       "keyword": "12月03日17:00",
       "sportItemId": "2",
@@ -582,11 +603,20 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/11/5/100000001240106a8316.png",
       "pkInfoTitle": "长白山恩都里vs福建晋江文旅",
       "modifyTitle": "CBA俱乐部杯小组赛",
-      "presenters": "",
+      "presenters": "连睿",
       "matchInfo": {
         "time": "12月03日17:00"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "960892634",
+          "name": "连睿"
+        },
+        {
+          "pID": "960892626",
+          "name": "清流播出"
+        }
+      ]
     },
     {
       "mgdbId": "120000562510",
@@ -604,7 +634,12 @@
       "matchInfo": {
         "time": "12月03日17:00"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "960892691",
+          "name": "张泽欣"
+        }
+      ]
     },
     {
       "mgdbId": "120000562657",
