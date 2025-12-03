@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-12-04 01:15:04",
+  "updateTime": "2025-12-04 01:31:22",
   "data": [
     {
       "mgdbId": "120000550598",
@@ -677,7 +677,7 @@
       "competitionName": "国际雪联世界杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/03/6V3JQHH23C5N.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2022/11/18/100000001000106e91c3.jpg",
-      "pkInfoTitle": "自由式大跳台资格赛",
+      "pkInfoTitle": "自由式大��台资格赛",
       "modifyTitle": "自由式大跳台资格赛",
       "presenters": "",
       "matchInfo": {
@@ -1151,7 +1151,24 @@
       "matchInfo": {
         "time": "12月04日21:00"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "960736068",
+          "name": "1号桌"
+        },
+        {
+          "pID": "960736080",
+          "name": "2号桌"
+        },
+        {
+          "pID": "960736103",
+          "name": "解说"
+        },
+        {
+          "pID": "960736139",
+          "name": "演播室"
+        }
+      ]
     }
   ]
 }
