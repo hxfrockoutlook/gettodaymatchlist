@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-12-04 19:01:24",
+  "updateTime": "2025-12-04 19:31:25",
   "data": [
     {
       "mgdbId": "120000550598",
@@ -828,7 +828,7 @@
     },
     {
       "mgdbId": "120000562517",
-      "pID": "960912409",
+      "pID": "960935242",
       "title": "CBA俱乐部杯小组赛",
       "keyword": "12月04日17:00",
       "sportItemId": "2",
@@ -860,7 +860,7 @@
     },
     {
       "mgdbId": "120000562518",
-      "pID": "960912110",
+      "pID": "960935279",
       "title": "CBA俱乐部杯小组赛",
       "keyword": "12月04日17:00",
       "sportItemId": "2",
@@ -893,15 +893,15 @@
     {
       "mgdbId": "120000562797",
       "pID": "960739188",
-      "title": "国乒一日双赛均胜 中国香港VS韩国",
+      "title": "国乒一日双赛均胜 中国香港5-8韩国",
       "keyword": "12月04日17:00",
       "sportItemId": "7",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "国际乒联混合团体世界杯",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/04/6V3KOFTIPRKA.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/04/6V3KONFVL2P1.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/12/2/1000000011421062e5c0.png",
-      "pkInfoTitle": "国乒一日双赛均胜 中国香港VS韩国",
+      "pkInfoTitle": "国乒一日双赛均胜 中国香港5-8韩国",
       "modifyTitle": "成都国际乒联混合团体世界杯：第二阶段循环赛第3轮",
       "presenters": "凌维康 刘馨蕊 侯英超 周冠达 小马哥",
       "matchInfo": {
@@ -913,16 +913,12 @@
           "name": "凌维康 刘馨蕊"
         },
         {
-          "pID": "960882338",
-          "name": "国际乒联混团世界杯"
+          "pID": "960739005",
+          "name": "1号桌"
         },
         {
           "pID": "960760096",
           "name": "国际乒联混团世界杯"
-        },
-        {
-          "pID": "960739005",
-          "name": "1号桌"
         },
         {
           "pID": "960882400",
@@ -931,6 +927,10 @@
         {
           "pID": "960739405",
           "name": "混采区"
+        },
+        {
+          "pID": "960882338",
+          "name": "国际乒联混团世界杯"
         }
       ]
     },
@@ -992,7 +992,7 @@
       "title": "CBA俱乐部杯小组赛",
       "keyword": "12月04日19:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "贺龙体育馆",
       "competitionName": "CBA俱乐部杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/03/6V3JR3CHBEOV.jpg",
@@ -1048,7 +1048,7 @@
       "title": "柯城VS杭州",
       "keyword": "12月04日19:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "浙江省城市篮球联赛",
       "padImg": "",
@@ -1072,7 +1072,7 @@
       "title": "WCBA常规赛A组",
       "keyword": "12月04日19:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WCBA",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000563283/202511270532_327871_H169_1080.webp",
@@ -1096,7 +1096,7 @@
       "title": "WCBA常规赛A组",
       "keyword": "12月04日19:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WCBA",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000563289/202511270535_926280_H169_1080.webp",
@@ -1109,12 +1109,12 @@
       },
       "nodes": [
         {
-          "pID": "960762015",
-          "name": "清流播出"
-        },
-        {
           "pID": "960859765",
           "name": "解说"
+        },
+        {
+          "pID": "960762015",
+          "name": "清流播出"
         }
       ]
     },
