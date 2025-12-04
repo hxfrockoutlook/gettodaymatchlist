@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-12-04 16:01:30",
+  "updateTime": "2025-12-04 16:31:26",
   "data": [
     {
       "mgdbId": "120000550598",
@@ -138,7 +138,7 @@
       "nodes": [
         {
           "pID": "960737987",
-          "name": "黄��"
+          "name": "黄航"
         },
         {
           "pID": "960737939",
@@ -147,10 +147,6 @@
         {
           "pID": "960737968",
           "name": "英文原声"
-        },
-        {
-          "pID": "960737987",
-          "name": "黄航"
         }
       ]
     },
@@ -832,7 +828,7 @@
       "title": "CBA俱乐部杯小组赛",
       "keyword": "12月04日17:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "洪山体育馆",
       "competitionName": "CBA俱乐部杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/03/6V3JSONUTJHA.png",
@@ -860,7 +856,7 @@
       "title": "CBA俱乐部杯小组赛",
       "keyword": "12月04日17:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "广西体育中心体育馆",
       "competitionName": "CBA俱乐部杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/03/6V3JSOUDISAJ.png",
@@ -1168,7 +1164,7 @@
     },
     {
       "mgdbId": "120000563343",
-      "pID": "960736068",
+      "pID": "960736139",
       "title": "赵心童PK张安达 丁俊晖出战",
       "keyword": "12月04日21:00",
       "sportItemId": "8",
@@ -1179,11 +1175,19 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "赵心童PK张安达 丁俊晖出战",
       "modifyTitle": "斯诺克英锦赛正赛16进8轮次：赵心童PK张安达 丁俊晖出战",
-      "presenters": "",
+      "presenters": "秦正 庞卫国 柏林",
       "matchInfo": {
         "time": "12月04日21:00"
       },
       "nodes": [
+        {
+          "pID": "960736103",
+          "name": "柏林"
+        },
+        {
+          "pID": "960736139",
+          "name": "秦正 庞卫国"
+        },
         {
           "pID": "960736068",
           "name": "1号桌"
@@ -1191,14 +1195,6 @@
         {
           "pID": "960736080",
           "name": "2号桌"
-        },
-        {
-          "pID": "960736103",
-          "name": "解说"
-        },
-        {
-          "pID": "960736139",
-          "name": "演播室"
         }
       ]
     }
