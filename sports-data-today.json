@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-12-04 13:31:31",
+  "updateTime": "2025-12-04 14:01:33",
   "data": [
     {
       "mgdbId": "120000550598",
@@ -571,32 +571,8 @@
       ]
     },
     {
-      "mgdbId": "120000562795",
-      "pID": "960760096",
-      "title": "【训练馆视角】直击赛前训练",
-      "keyword": "12月04日09:00",
-      "sportItemId": "7",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "国际乒联混合团体世界杯",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/03/6V3JSFU2D41Q.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/12/2/1000000011421062e5c0.png",
-      "pkInfoTitle": "【训练馆视角】直击赛前训练",
-      "modifyTitle": "成都国际乒联混合团体世界杯Day5训练馆",
-      "presenters": "",
-      "matchInfo": {
-        "time": "12月04日09:00"
-      },
-      "nodes": [
-        {
-          "pID": "960760096",
-          "name": "训练馆"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000546861",
-      "pID": "960926420",
+      "pID": "960928654",
       "title": "NBA常规赛",
       "keyword": "12月04日09:30",
       "sportItemId": "2",
@@ -613,8 +589,8 @@
       },
       "nodes": [
         {
-          "pID": "960926420",
-          "name": "杀筐先找对抗！弗拉格强硬碰撞韦尔上篮2+1"
+          "pID": "960928654",
+          "name": "25/26赛季NBA常规赛全场集锦：热火108:118独行侠（20251204）"
         },
         {
           "pID": "960762822",
@@ -628,14 +604,14 @@
     },
     {
       "mgdbId": "120000562796",
-      "pID": "960738872",
+      "pID": "960738656",
       "title": "国乒第二阶段两连胜 法国8-3克罗地亚",
       "keyword": "12月04日10:00",
       "sportItemId": "7",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "国际乒联混合团体世界杯",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/04/6V3KPUMF56H4.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/04/6V3KN2FK3CSE.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/12/2/1000000011421062e5c0.png",
       "pkInfoTitle": "国乒第二阶段两连胜 法国8-3克罗地亚",
       "modifyTitle": "成都国际乒联混合团体世界杯：第二阶段循环赛第2轮",
@@ -645,12 +621,16 @@
       },
       "nodes": [
         {
+          "pID": "960738656",
+          "name": "1号桌"
+        },
+        {
           "pID": "960738872",
           "name": "凌维康 石楚阳"
         },
         {
-          "pID": "960738656",
-          "name": "1号桌"
+          "pID": "960881890",
+          "name": "国际乒联混团世界杯"
         },
         {
           "pID": "960883264",
@@ -663,10 +643,6 @@
         {
           "pID": "960738820",
           "name": "混采区"
-        },
-        {
-          "pID": "960881890",
-          "name": "国际乒联混团世界杯"
         }
       ]
     },
@@ -700,7 +676,7 @@
       "title": "自由式大跳台资格赛",
       "keyword": "12月04日13:40",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "国际雪联世界杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/03/6V3JQHH23C5N.png",
@@ -843,6 +819,30 @@
         {
           "pID": "960912378",
           "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000562795",
+      "pID": "960760096",
+      "title": "【训练馆视角】直击赛前训练",
+      "keyword": "12月04日15:30",
+      "sportItemId": "7",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "国际乒联混合团体世界杯",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/03/6V3JSFU2D41Q.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/12/2/1000000011421062e5c0.png",
+      "pkInfoTitle": "【训练馆视角】直击赛前训练",
+      "modifyTitle": "成都国际乒联混合团体世界杯Day5训练馆",
+      "presenters": "",
+      "matchInfo": {
+        "time": "12月04日15:30"
+      },
+      "nodes": [
+        {
+          "pID": "960760096",
+          "name": "训练馆"
         }
       ]
     },
