@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-12-05 09:31:13",
+  "updateTime": "2025-12-05 10:01:23",
   "data": [
     {
       "mgdbId": "120000550697",
@@ -276,7 +276,7 @@
       "title": "单板决赛日",
       "keyword": "12月05日09:40",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "The Snow League",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/04/6V3KO4FS0BVQ.jpg",
@@ -300,7 +300,7 @@
       "title": "中国足球青少年精英联赛",
       "keyword": "12月05日 10:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "中国足球青少年精英联赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000563762/202512041435_618869_H169_1080.webp",
@@ -363,6 +363,54 @@
         {
           "pID": "960760093",
           "name": "训练馆"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000563783",
+      "pID": "960951356",
+      "title": "厦门银行VS江苏羽超",
+      "keyword": "12月05日12:00",
+      "sportItemId": "6",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "羽超联赛",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/9/e3e5fdc7-1f96-45ec-a4e7-51fd781aa197.png",
+      "pkInfoTitle": "厦门银行VS江苏羽超",
+      "modifyTitle": "羽毛球超级联赛第五轮：厦门银行VS江苏羽超",
+      "presenters": "",
+      "matchInfo": {
+        "time": "12月05日12:00"
+      },
+      "nodes": [
+        {
+          "pID": "960951356",
+          "name": "清流播出"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000563784",
+      "pID": "960951339",
+      "title": "青岛仁洲VS芜湖兴航",
+      "keyword": "12月05日12:00",
+      "sportItemId": "6",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "羽超联赛",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/9/e3e5fdc7-1f96-45ec-a4e7-51fd781aa197.png",
+      "pkInfoTitle": "青岛仁洲VS芜湖兴航",
+      "modifyTitle": "羽毛球超级联赛第五轮：青岛仁洲VS芜湖兴航",
+      "presenters": "",
+      "matchInfo": {
+        "time": "12月05日12:00"
+      },
+      "nodes": [
+        {
+          "pID": "960951339",
+          "name": "清流播出"
         }
       ]
     },
@@ -563,6 +611,54 @@
         {
           "pID": "960944303",
           "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000563781",
+      "pID": "960951394",
+      "title": "深圳川崎羽众VS辽宁极兔李永波",
+      "keyword": "12月05日18:30",
+      "sportItemId": "6",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "羽超联赛",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/9/e3e5fdc7-1f96-45ec-a4e7-51fd781aa197.png",
+      "pkInfoTitle": "深圳川崎羽众VS辽宁极兔李永波",
+      "modifyTitle": "羽毛球超级联赛第五轮：深圳川崎羽众VS辽宁极兔李永波",
+      "presenters": "",
+      "matchInfo": {
+        "time": "12月05日18:30"
+      },
+      "nodes": [
+        {
+          "pID": "960951394",
+          "name": "清流播出"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000563782",
+      "pID": "960951372",
+      "title": "瑞昌碧源VS浙江竞体",
+      "keyword": "12月05日18:30",
+      "sportItemId": "6",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "羽超联赛",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/9/e3e5fdc7-1f96-45ec-a4e7-51fd781aa197.png",
+      "pkInfoTitle": "瑞昌碧源VS浙江竞体",
+      "modifyTitle": "羽毛球超级联赛第五轮：瑞昌碧源VS浙江竞体",
+      "presenters": "",
+      "matchInfo": {
+        "time": "12月05日18:30"
+      },
+      "nodes": [
+        {
+          "pID": "960951372",
+          "name": "清流播出"
         }
       ]
     },
@@ -850,7 +946,7 @@
       "nodes": [
         {
           "pID": "960944631",
-          "name": "邵化谦 季孟年"
+          "name": "CBA俱乐部杯"
         },
         {
           "pID": "960944620",
