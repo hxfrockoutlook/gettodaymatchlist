@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-12-05 15:31:24",
+  "updateTime": "2025-12-05 16:01:22",
   "data": [
     {
       "mgdbId": "120000550697",
@@ -409,15 +409,15 @@
     {
       "mgdbId": "120000562799",
       "pID": "960925185",
-      "title": "孙颖莎3-0速胜对手 王楚钦单打接台",
+      "title": "国乒8-4德国队 孙颖莎3-0速胜",
       "keyword": "12月05日13:00",
       "sportItemId": "7",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "国际乒联混合团体世界杯",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/05/6V3LKKDJ8RF4.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/05/6V3LKMFL4QH9.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/12/2/1000000011421062e5c0.png",
-      "pkInfoTitle": "孙颖莎3-0速胜对手 王楚钦单打接台",
+      "pkInfoTitle": "国乒8-4德国队 孙颖莎3-0速胜",
       "modifyTitle": "成都国际乒联混合团体世界杯：第二阶段循环赛第4轮",
       "presenters": "侯英超 周雨 周冠达 朱子恒",
       "matchInfo": {
@@ -437,40 +437,16 @@
           "name": "混采区"
         },
         {
+          "pID": "960742625",
+          "name": "1号桌"
+        },
+        {
           "pID": "960742632",
           "name": "2号桌"
         },
         {
           "pID": "960760093",
           "name": "训练馆"
-        },
-        {
-          "pID": "960742625",
-          "name": "1号桌"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000563677",
-      "pID": "960897962",
-      "title": "单板滑雪大跳台资格赛",
-      "keyword": "12月05日13:40",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "国际雪联世界杯",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/04/6V3KO46VKNQ2.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2022/11/18/100000001000106e91c3.jpg",
-      "pkInfoTitle": "单板滑雪大跳台资格赛",
-      "modifyTitle": "单板滑雪大跳台资格赛",
-      "presenters": "",
-      "matchInfo": {
-        "time": "12月05日13:40"
-      },
-      "nodes": [
-        {
-          "pID": "960897962",
-          "name": "国际雪联大跳台"
         }
       ]
     },
@@ -627,6 +603,30 @@
         {
           "pID": "960944303",
           "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000563677",
+      "pID": "960897962",
+      "title": "单板滑雪大跳台资格赛",
+      "keyword": "12月05日18:20",
+      "sportItemId": "8",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "国际雪联世界杯",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/04/6V3KO46VKNQ2.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2022/11/18/100000001000106e91c3.jpg",
+      "pkInfoTitle": "单板滑雪大跳台资格赛",
+      "modifyTitle": "单板滑雪大跳台资格赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "12月05日18:20"
+      },
+      "nodes": [
+        {
+          "pID": "960897962",
+          "name": "国际雪联大跳台"
         }
       ]
     },
