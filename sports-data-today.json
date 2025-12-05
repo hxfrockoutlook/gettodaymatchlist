@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-12-05 18:31:18",
+  "updateTime": "2025-12-05 19:01:24",
   "data": [
     {
       "mgdbId": "120000550697",
@@ -584,11 +584,11 @@
     },
     {
       "mgdbId": "120000562525",
-      "pID": "960944319",
+      "pID": "960962220",
       "title": "CBA俱乐部杯小组赛",
       "keyword": "12月05日17:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "广西体育中心体育馆",
       "competitionName": "CBA俱乐部杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/04/6V3KPS91ATBP.png",
@@ -600,6 +600,10 @@
         "time": "12月05日17:00"
       },
       "nodes": [
+        {
+          "pID": "960962220",
+          "name": "段立谦击地反击 栾利程一飞冲天双手炸筐"
+        },
         {
           "pID": "960944319",
           "name": "吴博文"
@@ -684,16 +688,16 @@
     },
     {
       "mgdbId": "120000562800",
-      "pID": "960760093",
-      "title": "日韩大战一触即发！张本兄妹率队出战",
+      "pID": "960742674",
+      "title": "户上/早田混双登场 美和激战李恩惠",
       "keyword": "12月05日19:00",
       "sportItemId": "7",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "国际乒联混合团体世界杯",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/04/6V3KPKHUDT95.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/05/6V3LLIDL9EKH.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/12/2/1000000011421062e5c0.png",
-      "pkInfoTitle": "日韩大战一触即发！张本兄妹率队出战",
+      "pkInfoTitle": "户上/早田混双登场 美和激战李恩惠",
       "modifyTitle": "成都国际乒联混合团体世界杯：第二阶段循环赛第4轮",
       "presenters": "肖扬",
       "matchInfo": {
@@ -701,20 +705,20 @@
       },
       "nodes": [
         {
-          "pID": "960760093",
-          "name": "训练馆"
-        },
-        {
           "pID": "960742674",
           "name": "肖扬"
         },
         {
-          "pID": "960742668",
-          "name": "1号桌"
-        },
-        {
           "pID": "960925529",
           "name": "2号桌"
+        },
+        {
+          "pID": "960760093",
+          "name": "训练馆"
+        },
+        {
+          "pID": "960742668",
+          "name": "1号桌"
         },
         {
           "pID": "960742506",
