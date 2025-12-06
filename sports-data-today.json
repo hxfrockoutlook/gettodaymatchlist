@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-12-06 18:32:28",
+  "updateTime": "2025-12-06 19:02:27",
   "data": [
     {
       "mgdbId": "120000563787",
@@ -1204,22 +1204,26 @@
     },
     {
       "mgdbId": "120000562803",
-      "pID": "960964897",
+      "pID": "960738817",
       "title": "国乒一日双赛战瑞典 中国香港对决德国",
       "keyword": "12月06日17:00",
       "sportItemId": "7",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "国际乒联混合团体世界杯",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/06/6V3MIIS8FSFQ.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/06/6V3MIL9PAGLH.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/12/2/1000000011421062e5c0.png",
       "pkInfoTitle": "国乒一日双赛战瑞典 中国香港对决德国",
       "modifyTitle": "成都国际乒联混合团体世界杯：第二阶段循环赛第6轮",
-      "presenters": "刘国正 侯英超 周冠达 刘馨蕊 凌维康",
+      "presenters": "刘馨蕊 凌维康 刘国正 侯英超 周冠达",
       "matchInfo": {
         "time": "12月06日17:00"
       },
       "nodes": [
+        {
+          "pID": "960738817",
+          "name": "刘馨蕊 凌维康"
+        },
         {
           "pID": "960964897",
           "name": "刘国正 侯英超 周冠达"
@@ -1227,10 +1231,6 @@
         {
           "pID": "960760069",
           "name": "训练馆"
-        },
-        {
-          "pID": "960738817",
-          "name": "刘馨蕊 凌维康"
         },
         {
           "pID": "960738727",
@@ -1248,11 +1248,11 @@
     },
     {
       "mgdbId": "120000563793",
-      "pID": "960970243",
+      "pID": "960979735",
       "title": "CBA俱乐部杯淘汰赛",
       "keyword": "12月06日17:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "广西体育中心体育馆",
       "competitionName": "CBA俱乐部杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/05/6V3LMPI09HM5.jpg",
@@ -1264,6 +1264,10 @@
         "time": "12月06日17:00"
       },
       "nodes": [
+        {
+          "pID": "960979735",
+          "name": "导播加鸡腿！广西南宁赛区啦啦队美女热情起舞"
+        },
         {
           "pID": "960970243",
           "name": "姜帆"
@@ -1278,7 +1282,7 @@
       "mgdbId": "120000563625",
       "pID": "960863303",
       "title": "东亚超级联赛",
-      "keyword": "12月06日17:10",
+      "keyword": "12月06日 17:10",
       "sportItemId": "2",
       "matchStatus": "1",
       "matchField": "",
@@ -1289,7 +1293,7 @@
       "modifyTitle": "东亚超级联赛",
       "presenters": "王冠证",
       "matchInfo": {
-        "time": "12月06日17:10"
+        "time": "12月06日 17:10"
       },
       "nodes": [
         {
@@ -1445,10 +1449,6 @@
           "name": "苏东 刘越 邵凌霄"
         },
         {
-          "pID": "960931017",
-          "name": "京狮 x 咪咕足协杯决赛线下观赛夜"
-        },
-        {
           "pID": "960931317",
           "name": "球星视角——法比奥"
         },
@@ -1468,7 +1468,7 @@
       "title": "德宏队VS红河队",
       "keyword": "12月06日19:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "云南省城市足球联赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000563711/202512031725_411149_H169_1080.webp",
@@ -1759,6 +1759,10 @@
         {
           "pID": "960970303",
           "name": "邵化谦 季孟年"
+        },
+        {
+          "pID": "960970270",
+          "name": "天津vs北京"
         },
         {
           "pID": "960970313",
