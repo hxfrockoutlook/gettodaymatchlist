@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-12-07 01:02:15",
+  "updateTime": "2025-12-07 01:32:05",
   "data": [
     {
       "mgdbId": "120000542644",
@@ -39,7 +39,7 @@
       "matchStatus": "1",
       "matchField": "梅阿查/圣西罗球场",
       "competitionName": "意甲",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/03/6V3JR2U5D7RM.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/07/6V3NE9703HGI.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png",
       "pkInfoTitle": "国际米兰 vs 科莫",
       "modifyTitle": "意甲联赛",
@@ -95,7 +95,7 @@
       "matchStatus": "1",
       "matchField": "艾兰路球场",
       "competitionName": "英超",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/04/6V3KNUBR0CAA.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000542376/708571_H169_sc.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png",
       "pkInfoTitle": "利兹联 vs 利物浦",
       "modifyTitle": "英超联赛",
@@ -113,12 +113,12 @@
           "name": "陈凯冬 何辉"
         },
         {
-          "pID": "960930692",
-          "name": "英文原声"
-        },
-        {
           "pID": "960930685",
           "name": "赛场原声"
+        },
+        {
+          "pID": "960930692",
+          "name": "英文原声"
         },
         {
           "pID": "960930815",
@@ -132,7 +132,7 @@
       "title": "德甲联赛",
       "keyword": "12月07日01:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "莱比锡体育场",
       "competitionName": "德甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000542884/311166_H169_sc.jpg",
@@ -160,7 +160,7 @@
       "title": "西甲联赛",
       "keyword": "12月07日01:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "西甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/04/6V3KOVLGP33D.jpg",
@@ -824,6 +824,7 @@
     },
     {
       "mgdbId": "120000562531",
+      "pID": "960993532",
       "title": "CBA俱乐部杯小组赛",
       "keyword": "12月07日15:00",
       "sportItemId": "2",
@@ -834,11 +835,20 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/11/5/100000001240106a8316.png",
       "pkInfoTitle": "青岛崂山啤酒vs天津先行者",
       "modifyTitle": "CBA俱乐部杯小组赛",
-      "presenters": "",
+      "presenters": "连睿 周鹏",
       "matchInfo": {
         "time": "12月07日15:00"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "960993532",
+          "name": "连睿 周鹏"
+        },
+        {
+          "pID": "960993561",
+          "name": "赛场原声"
+        }
+      ]
     },
     {
       "mgdbId": "120000563690",
@@ -852,7 +862,7 @@
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000563690/202512031330_727599_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/11/19/100000001375106f8922.jpg",
       "pkInfoTitle": "南岸万和医药队VS科学城高芯猛虎队",
-      "modifyTitle": "南岸万和医药队VS科学城高芯猛虎队",
+      "modifyTitle": "南��万和医药队VS科学城高芯猛虎队",
       "presenters": "",
       "matchInfo": {
         "time": "12月07日15:00"
@@ -1010,6 +1020,7 @@
     },
     {
       "mgdbId": "120000563816",
+      "pID": "960993583",
       "title": "CBA俱乐部杯小组赛第二阶段",
       "keyword": "12月07日15:00",
       "sportItemId": "2",
@@ -1020,14 +1031,24 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/11/5/100000001240106a8316.png",
       "pkInfoTitle": "山西汾酒vs广州朗肽海本",
       "modifyTitle": "CBA俱乐部杯小组赛第二阶段",
-      "presenters": "",
+      "presenters": "邵化谦 季孟年",
       "matchInfo": {
         "time": "12月07日15:00"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "960993583",
+          "name": "邵化谦 季孟年"
+        },
+        {
+          "pID": "960993609",
+          "name": "赛场原声"
+        }
+      ]
     },
     {
       "mgdbId": "120000563815",
+      "pID": "960993631",
       "title": "CBA俱乐部杯小组赛第二阶段",
       "keyword": "12月07日15:30",
       "sportItemId": "2",
@@ -1038,11 +1059,20 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/11/5/100000001240106a8316.png",
       "pkInfoTitle": "上海久事vs香港金牛",
       "modifyTitle": "CBA俱乐部杯小组赛第二阶段",
-      "presenters": "",
+      "presenters": "李天宇 曾令旭",
       "matchInfo": {
         "time": "12月07日15:30"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "960993631",
+          "name": "李天宇 曾令旭"
+        },
+        {
+          "pID": "960993667",
+          "name": "赛场原声"
+        }
+      ]
     },
     {
       "mgdbId": "120000562806",
@@ -1090,6 +1120,7 @@
     },
     {
       "mgdbId": "120000563817",
+      "pID": "960993679",
       "title": "CBA俱乐部杯小组赛第二阶段",
       "keyword": "12月07日17:00",
       "sportItemId": "2",
@@ -1098,13 +1129,22 @@
       "competitionName": "CBA俱乐部杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/06/6V3MJQO00REN.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/11/5/100000001240106a8316.png",
-      "pkInfoTitle": "浙江稠州金租vs新���伊力特",
+      "pkInfoTitle": "浙江稠州金租vs新疆伊力特",
       "modifyTitle": "CBA俱乐部杯小组赛第二阶段",
-      "presenters": "",
+      "presenters": "吴博文",
       "matchInfo": {
         "time": "12月07日17:00"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "960993679",
+          "name": "吴博文"
+        },
+        {
+          "pID": "960993670",
+          "name": "赛场原声"
+        }
+      ]
     },
     {
       "mgdbId": "120000562655",
@@ -1212,6 +1252,7 @@
     },
     {
       "mgdbId": "120000562532",
+      "pID": "960993505",
       "title": "CBA俱乐部杯小组赛",
       "keyword": "12月07日19:30",
       "sportItemId": "2",
@@ -1222,11 +1263,20 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/11/5/100000001240106a8316.png",
       "pkInfoTitle": "北京北汽vs山东高速",
       "modifyTitle": "CBA俱乐部杯小组赛",
-      "presenters": "",
+      "presenters": "连睿 周鹏",
       "matchInfo": {
         "time": "12月07日19:30"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "960993505",
+          "name": "连睿 周鹏"
+        },
+        {
+          "pID": "960993481",
+          "name": "赛场原声"
+        }
+      ]
     },
     {
       "mgdbId": "120000563236",
@@ -1378,6 +1428,7 @@
     },
     {
       "mgdbId": "120000563818",
+      "pID": "960993586",
       "title": "CBA俱乐部杯小组赛第二阶段",
       "keyword": "12月07日19:30",
       "sportItemId": "2",
@@ -1388,14 +1439,24 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/11/5/100000001240106a8316.png",
       "pkInfoTitle": "北京控股vs宁波町渥",
       "modifyTitle": "CBA俱乐部杯小组赛第二阶段",
-      "presenters": "",
+      "presenters": "李天宇 曾令旭",
       "matchInfo": {
         "time": "12月07日19:30"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "960993586",
+          "name": "李天宇 曾令旭"
+        },
+        {
+          "pID": "960993564",
+          "name": "赛场原声"
+        }
+      ]
     },
     {
       "mgdbId": "120000563819",
+      "pID": "960993634",
       "title": "CBA俱乐部杯小组赛第二阶段",
       "keyword": "12月07日19:30",
       "sportItemId": "2",
@@ -1406,11 +1467,20 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/11/5/100000001240106a8316.png",
       "pkInfoTitle": "合肥狂风vs广东东阳光",
       "modifyTitle": "CBA俱乐部杯小组赛第二阶段",
-      "presenters": "",
+      "presenters": "邵化谦 季孟年",
       "matchInfo": {
         "time": "12月07日19:30"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "960993634",
+          "name": "邵化谦 季孟年"
+        },
+        {
+          "pID": "960993611",
+          "name": "赛场原声"
+        }
+      ]
     },
     {
       "mgdbId": "120000563767",
@@ -1526,6 +1596,7 @@
     },
     {
       "mgdbId": "120000563820",
+      "pID": "960993478",
       "title": "CBA俱乐部杯小组赛第二阶段",
       "keyword": "12月07日20:00",
       "sportItemId": "2",
@@ -1536,11 +1607,20 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/11/5/100000001240106a8316.png",
       "pkInfoTitle": "长白山恩都里vs深圳马可波罗",
       "modifyTitle": "CBA俱乐部杯小组赛第二阶段",
-      "presenters": "",
+      "presenters": "王冠证",
       "matchInfo": {
         "time": "12月07日20:00"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "960993478",
+          "name": "王冠证"
+        },
+        {
+          "pID": "960993494",
+          "name": "赛场原声"
+        }
+      ]
     },
     {
       "mgdbId": "120000559799",
