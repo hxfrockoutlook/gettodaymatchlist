@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-12-06 10:32:10",
+  "updateTime": "2025-12-06 11:02:24",
   "data": [
     {
       "mgdbId": "120000563787",
@@ -212,14 +212,14 @@
     },
     {
       "mgdbId": "120000546867",
-      "pID": "960763475",
+      "pID": "960971190",
       "title": "NBA常规赛",
       "keyword": "12月06日08:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "安利中心",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/06/6V3MJ1DAAIDQ.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/06/6V3MJQK0T1NR.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "热火VS魔术",
       "modifyTitle": "NBA常规赛",
@@ -228,6 +228,10 @@
         "time": "12月06日08:00"
       },
       "nodes": [
+        {
+          "pID": "960971190",
+          "name": "这是什么处理？阿德巴约犹犹豫豫错失绝杀球"
+        },
         {
           "pID": "960763475",
           "name": "张泽欣"
@@ -240,11 +244,11 @@
     },
     {
       "mgdbId": "120000546868",
-      "pID": "960763309",
+      "pID": "960970726",
       "title": "NBA常规赛",
       "keyword": "12月06日08:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "TD彼岸花园",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/06/6V3MJQAUGVMF.jpg",
@@ -256,6 +260,10 @@
         "time": "12月06日08:00"
       },
       "nodes": [
+        {
+          "pID": "960970726",
+          "name": "回暖！里夫斯三分飙进 本场已取31分"
+        },
         {
           "pID": "960763309",
           "name": "蔡凯臣 苏群 拜月宁"
@@ -279,7 +287,7 @@
       "matchStatus": "1",
       "matchField": "麦迪逊广场花园",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/05/6V3LKMO2M721.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/06/6V3MJQN1N71L.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "爵士VS尼克斯",
       "modifyTitle": "NBA常规赛",
@@ -363,7 +371,7 @@
       "matchStatus": "1",
       "matchField": "丰业银行球馆",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/05/6V3LKN3M222J.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/06/6V3MJSDBL9JB.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "黄蜂VS猛龙",
       "modifyTitle": "NBA常规赛",
@@ -372,6 +380,10 @@
         "time": "12月06日08:30"
       },
       "nodes": [
+        {
+          "pID": "960971863",
+          "name": "客场领先24分！萨隆三分手起刀落一箭穿心"
+        },
         {
           "pID": "960764786",
           "name": "刘沛元"
@@ -595,22 +607,26 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/12/2/1000000011421062e5c0.png",
       "pkInfoTitle": "焦点战！国乒迎战日本 韩德对决",
       "modifyTitle": "成都国际乒联混合团体世界杯：第二阶段循环赛第5轮",
-      "presenters": "凌维康 侯英超 周雨 小马哥",
+      "presenters": "侯英超 周雨 小马哥 凌维康",
       "matchInfo": {
         "time": "12月06日10:00"
       },
       "nodes": [
         {
+          "pID": "960964872",
+          "name": "侯英超 周雨 小马哥"
+        },
+        {
           "pID": "960738538",
           "name": "凌维康"
         },
         {
-          "pID": "960965403",
-          "name": "1号桌"
-        },
-        {
           "pID": "960760069",
           "name": "训练馆"
+        },
+        {
+          "pID": "960965403",
+          "name": "1号桌"
         },
         {
           "pID": "960738401",
@@ -619,10 +635,6 @@
         {
           "pID": "960738629",
           "name": "混采区"
-        },
-        {
-          "pID": "960964872",
-          "name": "侯英超 周雨 小马哥"
         }
       ]
     },
@@ -1243,6 +1255,54 @@
       ]
     },
     {
+      "mgdbId": "120000563625",
+      "pID": "960863303",
+      "title": "东亚超级联赛",
+      "keyword": "12月06日17:10",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "东亚超级联赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/06/6V3MJT0TJDO3.png",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/10/3/100000001347106aef35.png",
+      "pkInfoTitle": "新北国王vs乌兰巴托野马",
+      "modifyTitle": "东亚超级联赛",
+      "presenters": "王冠证",
+      "matchInfo": {
+        "time": "12月06日17:10"
+      },
+      "nodes": [
+        {
+          "pID": "960863303",
+          "name": "王冠证"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000563626",
+      "pID": "960863360",
+      "title": "东亚超级联赛",
+      "keyword": "12月06日18:10",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "东亚超级联赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/06/6V3MJT78LJ4G.png",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/10/3/100000001347106aef35.png",
+      "pkInfoTitle": "澳门黑熊vs马尼拉电气",
+      "modifyTitle": "东亚超级联赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "12月06日18:10"
+      },
+      "nodes": [
+        {
+          "pID": "960863360",
+          "name": "清流播出1"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000562673",
       "pID": "960740569",
       "title": "和平精英复活赛Day1",
@@ -1827,7 +1887,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "斯诺克",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/06/6V3MJSA05365.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "进攻盛宴！特鲁姆普PK罗伯逊",
       "modifyTitle": "斯诺克英锦赛正赛半决赛：进攻盛宴！特鲁姆普PK罗伯逊",
