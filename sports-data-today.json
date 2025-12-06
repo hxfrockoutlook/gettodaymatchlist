@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-12-06 09:32:07",
+  "updateTime": "2025-12-06 10:02:18",
   "data": [
     {
       "mgdbId": "120000563787",
@@ -564,7 +564,7 @@
       "title": "自由式决赛日",
       "keyword": "12月06日09:40",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "The Snow League",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/05/6V3LKNGQGAAV.jpg",
@@ -722,7 +722,7 @@
       "nodes": [
         {
           "pID": "960898034",
-          "name": "解说"
+          "name": "国际雪联大跳台"
         }
       ]
     },
@@ -896,6 +896,7 @@
     },
     {
       "mgdbId": "120000562529",
+      "pID": "960970185",
       "title": "CBA俱乐部杯小组赛",
       "keyword": "12月06日15:00",
       "sportItemId": "2",
@@ -906,11 +907,20 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/11/5/100000001240106a8316.png",
       "pkInfoTitle": "山东高速vs浙江方兴渡",
       "modifyTitle": "CBA俱乐部杯小组赛",
-      "presenters": "",
+      "presenters": "连睿 周鹏",
       "matchInfo": {
         "time": "12月06日15:00"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "960970185",
+          "name": "连睿 周鹏"
+        },
+        {
+          "pID": "960970198",
+          "name": "赛场原声"
+        }
+      ]
     },
     {
       "mgdbId": "120000563683",
@@ -1082,6 +1092,7 @@
     },
     {
       "mgdbId": "120000563791",
+      "pID": "960970206",
       "title": "CBA俱乐部杯淘汰赛",
       "keyword": "12月06日15:00",
       "sportItemId": "2",
@@ -1092,14 +1103,24 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/11/5/100000001240106a8316.png",
       "pkInfoTitle": "广东东阳光vs江苏肯帝亚",
       "modifyTitle": "CBA俱乐部杯淘汰赛",
-      "presenters": "",
+      "presenters": "邵化谦 季孟年",
       "matchInfo": {
         "time": "12月06日15:00"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "960970206",
+          "name": "邵化谦 季孟年"
+        },
+        {
+          "pID": "960970212",
+          "name": "赛场原声"
+        }
+      ]
     },
     {
       "mgdbId": "120000563792",
+      "pID": "960970220",
       "title": "CBA俱乐部杯淘汰赛",
       "keyword": "12月06日15:30",
       "sportItemId": "2",
@@ -1110,11 +1131,20 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/11/5/100000001240106a8316.png",
       "pkInfoTitle": "宁波町渥vs南京天之蓝",
       "modifyTitle": "CBA俱乐部杯淘汰赛",
-      "presenters": "",
+      "presenters": "李天宇 曾令旭",
       "matchInfo": {
         "time": "12月06日15:30"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "960970220",
+          "name": "李天宇 曾令旭"
+        },
+        {
+          "pID": "960970230",
+          "name": "赛场原声"
+        }
+      ]
     },
     {
       "mgdbId": "120000563707",
@@ -1186,6 +1216,7 @@
     },
     {
       "mgdbId": "120000563793",
+      "pID": "960970243",
       "title": "CBA俱乐部杯淘汰赛",
       "keyword": "12月06日17:00",
       "sportItemId": "2",
@@ -1196,11 +1227,20 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/11/5/100000001240106a8316.png",
       "pkInfoTitle": "深圳马可波罗vs长沙勇胜",
       "modifyTitle": "CBA俱乐部杯淘汰赛",
-      "presenters": "",
+      "presenters": "姜帆",
       "matchInfo": {
         "time": "12月06日17:00"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "960970243",
+          "name": "姜帆"
+        },
+        {
+          "pID": "960970255",
+          "name": "赛场原声"
+        }
+      ]
     },
     {
       "mgdbId": "120000562673",
@@ -1211,7 +1251,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "和平精英全球总决赛",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/06/6V3MJJO5P0JN.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/11/21/100000001006106e59f4.jpeg",
       "pkInfoTitle": "和平精英复活赛Day1",
       "modifyTitle": "2025和平精英全球总决赛 复活赛 第一天",
@@ -1227,30 +1267,6 @@
         {
           "pID": "960740625",
           "name": "明星视角1"
-        },
-        {
-          "pID": "960740672",
-          "name": "明星视角5"
-        },
-        {
-          "pID": "960740660",
-          "name": "明星视角4"
-        },
-        {
-          "pID": "960740598",
-          "name": "清流"
-        },
-        {
-          "pID": "960740634",
-          "name": "明星视角2"
-        },
-        {
-          "pID": "960740646",
-          "name": "明星视角3"
-        },
-        {
-          "pID": "960740681",
-          "name": "地图流"
         }
       ]
     },
@@ -1339,10 +1355,6 @@
         {
           "pID": "960931370",
           "name": "球星视角——纳萨里奥"
-        },
-        {
-          "pID": "960966410",
-          "name": "审片间播出"
         }
       ]
     },
@@ -1372,6 +1384,7 @@
     },
     {
       "mgdbId": "120000562530",
+      "pID": "960970270",
       "title": "CBA俱乐部杯小组赛",
       "keyword": "12月06日19:30",
       "sportItemId": "2",
@@ -1382,11 +1395,20 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/11/5/100000001240106a8316.png",
       "pkInfoTitle": "天津先行者vs北京北汽",
       "modifyTitle": "CBA俱乐部杯小组赛",
-      "presenters": "",
+      "presenters": "连睿 周鹏",
       "matchInfo": {
         "time": "12月06日19:30"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "960970270",
+          "name": "连睿 周鹏"
+        },
+        {
+          "pID": "960970275",
+          "name": "赛场原声"
+        }
+      ]
     },
     {
       "mgdbId": "120000563233",
@@ -1586,6 +1608,7 @@
     },
     {
       "mgdbId": "120000563794",
+      "pID": "960970283",
       "title": "CBA俱乐部杯淘汰赛",
       "keyword": "12月06日19:30",
       "sportItemId": "2",
@@ -1596,14 +1619,24 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/11/5/100000001240106a8316.png",
       "pkInfoTitle": "香港金牛vs四川丰谷酒业",
       "modifyTitle": "CBA俱乐部杯淘汰赛",
-      "presenters": "",
+      "presenters": "李天宇 曾令旭",
       "matchInfo": {
         "time": "12月06日19:30"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "960970283",
+          "name": "李天宇 曾令旭"
+        },
+        {
+          "pID": "960970294",
+          "name": "赛场原声"
+        }
+      ]
     },
     {
       "mgdbId": "120000563795",
+      "pID": "960970303",
       "title": "CBA俱乐部杯淘汰赛",
       "keyword": "12月06日19:30",
       "sportItemId": "2",
@@ -1614,11 +1647,20 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/11/5/100000001240106a8316.png",
       "pkInfoTitle": "辽宁本钢vs广州朗肽海本",
       "modifyTitle": "CBA俱乐部杯淘汰赛",
-      "presenters": "",
+      "presenters": "邵化谦 季孟年",
       "matchInfo": {
         "time": "12月06日19:30"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "960970303",
+          "name": "邵化谦 季孟年"
+        },
+        {
+          "pID": "960970313",
+          "name": "赛场原声"
+        }
+      ]
     },
     {
       "mgdbId": "120000563708",
@@ -1674,6 +1716,7 @@
     },
     {
       "mgdbId": "120000563796",
+      "pID": "960970321",
       "title": "CBA俱乐部杯淘汰赛",
       "keyword": "12月06日20:00",
       "sportItemId": "2",
@@ -1684,11 +1727,20 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/11/5/100000001240106a8316.png",
       "pkInfoTitle": "福建晋江文旅vs新疆伊力特",
       "modifyTitle": "CBA俱乐部杯淘汰赛",
-      "presenters": "",
+      "presenters": "盛哲",
       "matchInfo": {
         "time": "12月06日20:00"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "960970321",
+          "name": "盛哲"
+        },
+        {
+          "pID": "960970339",
+          "name": "赛场原声"
+        }
+      ]
     },
     {
       "mgdbId": "120000542380",
