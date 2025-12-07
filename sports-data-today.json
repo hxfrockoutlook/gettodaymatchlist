@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-12-07 11:01:57",
+  "updateTime": "2025-12-07 11:32:03",
   "data": [
     {
       "mgdbId": "120000542644",
@@ -432,7 +432,7 @@
       "title": "神行2025宁德马拉松",
       "keyword": "12月07日07:30",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "逐马计划",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/03/6V3JT0G5S268.jpg",
@@ -496,7 +496,7 @@
       "title": "2025丽珠医药珠海马拉松",
       "keyword": "12月07日07:30",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "马拉松系列赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/05/6V3LKON65L7G.jpg",
@@ -548,14 +548,14 @@
     },
     {
       "mgdbId": "120000546881",
-      "pID": "960765199",
+      "pID": "960999109",
       "title": "NBA常规赛",
       "keyword": "12月07日08:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "火箭信贷球馆",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/07/6V3NG8J7LTJ2.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/07/6V3NH5OCVPSH.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "勇士VS骑士",
       "modifyTitle": "NBA常规赛",
@@ -564,6 +564,10 @@
         "time": "12月07日08:30"
       },
       "nodes": [
+        {
+          "pID": "960999109",
+          "name": "翻盘功亏一篑！米切尔极限三分出手不中错失绝平"
+        },
         {
           "pID": "960765199",
           "name": "姜帆 刘铁 小七"
@@ -584,7 +588,7 @@
       "title": "NBA常规赛",
       "keyword": "12月07日08:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "小凯撒球馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/07/6V3NH0K49ASV.png",
@@ -596,6 +600,10 @@
         "time": "12月07日08:30"
       },
       "nodes": [
+        {
+          "pID": "960998155",
+          "name": "硬碰硬！杜伦篮下抗开特纳双手残暴虐筐"
+        },
         {
           "pID": "960765227",
           "name": "罗森"
@@ -636,14 +644,14 @@
     },
     {
       "mgdbId": "120000546884",
-      "pID": "960765346",
+      "pID": "960997520",
       "title": "NBA常规赛",
       "keyword": "12月07日09:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "卡西亚中心",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/06/6V3MHQKDU4DF.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/07/6V3NH6JRAVHM.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "国王VS热火",
       "modifyTitle": "NBA常规赛",
@@ -652,6 +660,10 @@
         "time": "12月07日09:00"
       },
       "nodes": [
+        {
+          "pID": "960997520",
+          "name": "弹无虚发！拉文后撤步三分命中单节已得18分"
+        },
         {
           "pID": "960765346",
           "name": "徐秦威"
@@ -723,7 +735,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "国际乒联混合团体世界杯",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/07/6V3NGV86TPQE.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/07/6V3NH5LJNA7M.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/12/2/1000000011421062e5c0.png",
       "pkInfoTitle": "冲击决赛！国乒迎战韩国 日德交锋",
       "modifyTitle": "成都国际乒联混合团体世界杯：半决赛",
@@ -1355,6 +1367,10 @@
         {
           "pID": "960762264",
           "name": "解说"
+        },
+        {
+          "pID": "960762245",
+          "name": "四川vs上海"
         }
       ]
     },
@@ -1379,6 +1395,10 @@
         {
           "pID": "960762245",
           "name": "清流播出"
+        },
+        {
+          "pID": "960762264",
+          "name": "浙江vs广东"
         }
       ]
     },
