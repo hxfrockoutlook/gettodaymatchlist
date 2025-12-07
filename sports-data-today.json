@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-12-07 15:32:25",
+  "updateTime": "2025-12-07 16:02:15",
   "data": [
     {
       "mgdbId": "120000542644",
@@ -805,16 +805,16 @@
     {
       "mgdbId": "120000563776",
       "pID": "960951499",
-      "title": "浙江竞体VS深圳川崎羽众",
+      "title": "浙江竞体2-3深圳川崎羽众",
       "keyword": "12月07日12:00",
       "sportItemId": "6",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "羽超联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/06/6V3MK2N96LTF.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/9/e3e5fdc7-1f96-45ec-a4e7-51fd781aa197.png",
-      "pkInfoTitle": "浙江竞体VS深圳川崎羽众",
-      "modifyTitle": "羽毛球超级联赛第七轮：浙江竞体VS深圳川崎羽众",
+      "pkInfoTitle": "浙江竞体2-3深圳川崎羽众",
+      "modifyTitle": "羽毛球超级联赛第七轮：浙江竞体2-3深圳川崎羽众",
       "presenters": "",
       "matchInfo": {
         "time": "12月07日12:00"
@@ -1002,7 +1002,7 @@
       "mgdbId": "120000563706",
       "pID": "960904517",
       "title": "中国足球青少年精英联赛",
-      "keyword": "12月07日15:00",
+      "keyword": "12月07日 15:00",
       "sportItemId": "1",
       "matchStatus": "1",
       "matchField": "",
@@ -1013,7 +1013,7 @@
       "modifyTitle": "中国足球青少年精英联赛",
       "presenters": "",
       "matchInfo": {
-        "time": "12月07日15:00"
+        "time": "12月07日 15:00"
       },
       "nodes": [
         {
@@ -1115,7 +1115,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/12/2/1000000011421062e5c0.png",
       "pkInfoTitle": "韩国、德国争铜 19时国乒冲三连冠",
       "modifyTitle": "成都国际乒联混合团体世界杯：铜牌赛、决赛",
-      "presenters": "邓亚萍 刘国正 周冠达 李宏德",
+      "presenters": "李宏德 邓亚萍 刘国正 周冠达",
       "matchInfo": {
         "time": "12月07日17:00"
       },
@@ -1123,10 +1123,6 @@
         {
           "pID": "960760057",
           "name": "训练馆"
-        },
-        {
-          "pID": "960742544",
-          "name": "邓亚萍 刘国正 周冠达"
         },
         {
           "pID": "960739190",
@@ -1139,6 +1135,10 @@
         {
           "pID": "960739424",
           "name": "混采区"
+        },
+        {
+          "pID": "960742544",
+          "name": "邓亚萍 刘国正 周冠达"
         },
         {
           "pID": "960864772",
@@ -1421,7 +1421,7 @@
       "competitionName": "WCBA",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000563310/202511270541_481705_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/10/20/100000000535106f44f7.png",
-      "pkInfoTitle": "石家庄英励 VS 武汉盛帆黄��",
+      "pkInfoTitle": "石家庄英励 VS 武汉盛帆黄鹤",
       "modifyTitle": "WCBA常规赛A组",
       "presenters": "",
       "matchInfo": {
@@ -1831,6 +1831,34 @@
         {
           "pID": "960930513",
           "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000563821",
+      "pID": "961002040",
+      "title": "UTS伦敦站Day3",
+      "keyword": "12月07日22:15",
+      "sportItemId": "9",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "UTS",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/10/10/100000001350106aebce.jpg",
+      "pkInfoTitle": "UTS伦敦站Day3",
+      "modifyTitle": "UTS伦敦站Day3",
+      "presenters": "",
+      "matchInfo": {
+        "time": "12月07日22:15"
+      },
+      "nodes": [
+        {
+          "pID": "961002040",
+          "name": "清流"
+        },
+        {
+          "pID": "961002089",
+          "name": "英文解说"
         }
       ]
     },
