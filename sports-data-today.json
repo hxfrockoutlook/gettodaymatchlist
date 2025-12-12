@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-12-12 19:01:09",
+  "updateTime": "2025-12-12 19:31:05",
   "data": [
     {
       "mgdbId": "120000563902",
@@ -151,6 +151,10 @@
         {
           "pID": "961003079",
           "name": "英文原声"
+        },
+        {
+          "pID": "961003106",
+          "name": "姜帆 王���陶 裴优"
         }
       ]
     },
@@ -484,7 +488,7 @@
       "title": "WCBA常规赛B组",
       "keyword": "12月12日19:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WCBA",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000563280/202511270531_456527_H169_1080.webp",
@@ -508,7 +512,7 @@
       "title": "WCBA常规赛B组",
       "keyword": "12月12日19:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WCBA",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000563311/202511270541_255649_H169_1080.webp",
@@ -600,11 +604,11 @@
     },
     {
       "mgdbId": "120000562087",
-      "pID": "961139382",
+      "pID": "961142152",
       "title": "CBA常规赛",
       "keyword": "12月12日19:35",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "黄龙体育中心体育馆",
       "competitionName": "CBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/11/6V3R4HVFNS9O.png",
@@ -616,6 +620,10 @@
         "time": "12月12日19:35"
       },
       "nodes": [
+        {
+          "pID": "961142152",
+          "name": "CCTV5"
+        },
         {
           "pID": "961139382",
           "name": "图文"
