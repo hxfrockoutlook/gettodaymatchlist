@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-12-12 17:30:58",
+  "updateTime": "2025-12-12 18:01:06",
   "data": [
     {
       "mgdbId": "120000563902",
@@ -280,7 +280,7 @@
       "title": "中国足球青少年精英联赛",
       "keyword": "12月12日 14:30",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "中国足球青少年精英联赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000563982/202512111735_277339_H169_1080.webp",
@@ -301,7 +301,7 @@
     {
       "mgdbId": "120000563831",
       "pID": "961029167",
-      "title": "2025年全国体操冠军赛 第四日",
+      "title": "李鸿颜、秦梓玥和彭立焰夺金",
       "keyword": "12月12日15:30",
       "sportItemId": "8",
       "matchStatus": "1",
@@ -309,8 +309,8 @@
       "competitionName": "全国体操冠军赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/11/6V3R4HI6JSHO.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/12/8/100000001385106fe086.png",
-      "pkInfoTitle": "2025年全国体操冠军赛 第四日",
-      "modifyTitle": "2025年全国体操冠军赛 第四日",
+      "pkInfoTitle": "李鸿颜、秦梓玥和彭立焰夺金",
+      "modifyTitle": "2025年全国体操冠军赛 第四日：张智善、褚一鸣、彭立焰、秦梓玥和李鸿颜夺金",
       "presenters": "",
       "matchInfo": {
         "time": "12月12日15:30"
@@ -331,7 +331,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/11/6V3R5LM2GQEM.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/12/6V3S12MI5EU8.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "孙颖莎一日双赛 莎头组合迎战黄杜",
       "modifyTitle": "WTT香港总决赛：混双小组赛第3轮、男女单打1/4决赛",
@@ -368,10 +368,10 @@
       "title": "2025和平精英全球总决赛Day1",
       "keyword": "12月12日18:15",
       "sportItemId": "10",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "和平精英全球总决赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/11/6V3R3BAIM2T7.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/12/6V3S113BRR60.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/11/21/100000001006106e59f4.jpeg",
       "pkInfoTitle": "2025和平精英全球总决赛Day1",
       "modifyTitle": "2025和平精英全球总决赛第一天",
@@ -600,6 +600,7 @@
     },
     {
       "mgdbId": "120000562087",
+      "pID": "961139382",
       "title": "CBA常规赛",
       "keyword": "12月12日19:35",
       "sportItemId": "2",
@@ -614,7 +615,12 @@
       "matchInfo": {
         "time": "12月12日19:35"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "961139382",
+          "name": "图文"
+        }
+      ]
     },
     {
       "mgdbId": "120000563903",
