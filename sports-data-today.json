@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-12-12 12:01:03",
+  "updateTime": "2025-12-12 12:31:00",
   "data": [
     {
       "mgdbId": "120000563902",
@@ -120,7 +120,7 @@
     },
     {
       "mgdbId": "120000563411",
-      "pID": "961124732",
+      "pID": "961125540",
       "title": "NBA常规赛",
       "keyword": "12月12日09:00",
       "sportItemId": "2",
@@ -137,8 +137,8 @@
       },
       "nodes": [
         {
-          "pID": "961124732",
-          "name": "终结连败就在今天！普尔麦高文斯墨菲三分连珠炮狂轰滥炸"
+          "pID": "961125540",
+          "name": "25/26赛季NBA常规赛全场集锦：开拓者120:143鹈鹕（20251212）"
         },
         {
           "pID": "961003106",
@@ -191,7 +191,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/12/6V3S2NUIA5ET.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/12/6V3S2VD8NTNF.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "动漫组合出战！楚钦、曼昱冲单打四强",
       "modifyTitle": "WTT香港总决赛：混双小组赛第3轮、男女单打1/4决赛",
@@ -228,7 +228,7 @@
       "title": "深圳川崎羽众VS瑞昌碧源",
       "keyword": "12月12日12:00",
       "sportItemId": "6",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "羽超联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/11/6V3R5IGUCQJ1.png",
@@ -252,7 +252,7 @@
       "title": "辽宁极兔李永波VS芜湖兴航",
       "keyword": "12月12日12:00",
       "sportItemId": "6",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "羽超联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/11/6V3R5IMNNHLK.png",
@@ -399,7 +399,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/9/e3e5fdc7-1f96-45ec-a4e7-51fd781aa197.png",
       "pkInfoTitle": "江苏羽超VS青岛仁洲",
       "modifyTitle": "羽毛球超级联赛第九轮：江苏羽超VS青岛仁洲",
-      "presenters": "曹志宇",
+      "presenters": "曹志宇 马瑞",
       "matchInfo": {
         "time": "12月12日18:30"
       },
@@ -409,18 +409,18 @@
           "name": "曹志宇"
         },
         {
-          "pID": "961088578",
-          "name": "清流播出"
+          "pID": "961088596",
+          "name": "马瑞"
         },
         {
-          "pID": "961088596",
-          "name": "解说"
+          "pID": "961088578",
+          "name": "清流播出"
         }
       ]
     },
     {
       "mgdbId": "120000563952",
-      "pID": "961088613",
+      "pID": "961088623",
       "title": "浙江竞体VS厦门银行",
       "keyword": "12月12日18:30",
       "sportItemId": "6",
@@ -431,15 +431,11 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/9/e3e5fdc7-1f96-45ec-a4e7-51fd781aa197.png",
       "pkInfoTitle": "浙江竞体VS厦门银行",
       "modifyTitle": "羽毛球超级联赛第九轮：浙江竞体VS厦门银行",
-      "presenters": "轩子博",
+      "presenters": "轩子博 余嘉麒",
       "matchInfo": {
         "time": "12月12日18:30"
       },
       "nodes": [
-        {
-          "pID": "961088613",
-          "name": "清流播出"
-        },
         {
           "pID": "961088623",
           "name": "轩子博"
@@ -447,6 +443,10 @@
         {
           "pID": "961088641",
           "name": "解说"
+        },
+        {
+          "pID": "961088613",
+          "name": "清流播出"
         }
       ]
     },
