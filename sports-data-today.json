@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-12-12 10:31:02",
+  "updateTime": "2025-12-12 11:01:10",
   "data": [
     {
       "mgdbId": "120000563902",
@@ -107,6 +107,10 @@
         {
           "pID": "961000264",
           "name": "英文原声"
+        },
+        {
+          "pID": "961000228",
+          "name": "李天宇 周��� 陈正昊"
         }
       ]
     },
@@ -139,10 +143,6 @@
         {
           "pID": "961003079",
           "name": "英文原声"
-        },
-        {
-          "pID": "961003106",
-          "name": "姜帆 王润陶 ��优"
         }
       ]
     },
@@ -152,7 +152,7 @@
       "title": "NBA常规赛",
       "keyword": "12月12日11:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "金色一号中心",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/11/6V3R5DR3OT1B.png",
@@ -343,6 +343,10 @@
         {
           "pID": "961070959",
           "name": "现场视角"
+        },
+        {
+          "pID": "961122453",
+          "name": "AI轨迹实时追踪"
         }
       ]
     },
