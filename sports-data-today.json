@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-12-13 08:31:31",
+  "updateTime": "2025-12-13 09:01:36",
   "data": [
     {
       "mgdbId": "120000563904",
@@ -264,7 +264,7 @@
       "title": "NBA常规赛",
       "keyword": "12月13日09:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "联邦快递球馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/12/6V3RVSSHIT9K.png",
@@ -1027,10 +1027,6 @@
         {
           "pID": "961105074",
           "name": "赛场原声"
-        },
-        {
-          "pID": "961105121",
-          "name": "孙���轩 王宇"
         }
       ]
     },
@@ -1043,7 +1039,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "斯诺克",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/13/6V3SV1D0BAJV.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "吴安仪PK穆迪 庞俊旭、周跃龙出战",
       "modifyTitle": "斯诺克单局限时赛32进16：吴安仪PK穆迪 庞俊旭、周跃龙出战",
@@ -1053,12 +1049,12 @@
       },
       "nodes": [
         {
-          "pID": "961056242",
-          "name": "1号桌"
-        },
-        {
           "pID": "961133869",
           "name": "朱峰立"
+        },
+        {
+          "pID": "961056242",
+          "name": "1号桌"
         }
       ]
     },
