@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-12-13 12:01:34",
+  "updateTime": "2025-12-13 12:31:40",
   "data": [
     {
       "mgdbId": "120000563904",
@@ -367,30 +367,6 @@
       ]
     },
     {
-      "mgdbId": "120000564026",
-      "pID": "961123056",
-      "title": "自由式滑雪女子、男子决赛",
-      "keyword": "12月13日11:00",
-      "sportItemId": "8",
-      "matchStatus": "2",
-      "matchField": "",
-      "competitionName": "国际雪联世界杯",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/12/6V3RVT09NFQ7.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2022/11/18/100000001000106e91c3.jpg",
-      "pkInfoTitle": "自由式滑雪女子、男子决赛",
-      "modifyTitle": "自由式滑雪女子、男子决赛",
-      "presenters": "",
-      "matchInfo": {
-        "time": "12月13日11:00"
-      },
-      "nodes": [
-        {
-          "pID": "961123056",
-          "name": "2025/2026赛季国际雪联U型场地世界杯（云顶站）-自由式滑雪女子、男子决赛"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000563953",
       "pID": "961146442",
       "title": "辽宁极兔李永波VS浙江竞体",
@@ -501,7 +477,7 @@
       "competitionName": "Jr. NBA",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/3/10/100000001025106183ed.png",
-      "pkInfoTitle": "Jr. NBA校园篮球联赛江��站决赛首回合",
+      "pkInfoTitle": "Jr. NBA校园篮球联赛江苏站决赛首回合",
       "modifyTitle": "Jr. NBA",
       "presenters": "",
       "matchInfo": {
@@ -1111,7 +1087,7 @@
       "matchStatus": "0",
       "matchField": "奥林匹克球场",
       "competitionName": "意甲",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000543786/202512131154_901343_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/13/6V3SVTQB54IK.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png",
       "pkInfoTitle": "都灵 vs 克雷莫纳",
       "modifyTitle": "意甲联赛",
@@ -1341,6 +1317,25 @@
           "name": "赛场原声"
         }
       ]
+    },
+    {
+      "mgdbId": "120000564026",
+      "pID": "120000564026",
+      "title": "自由式滑雪女子、男子决赛",
+      "keyword": "12月13日11:00",
+      "sportItemId": "",
+      "matchStatus": "2",
+      "matchField": "",
+      "competitionName": "国际雪联世界杯",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/12/6V3RVT09NFQ7.jpg",
+      "competitionLogo": "",
+      "pkInfoTitle": "自由式滑雪女子、男子决赛",
+      "modifyTitle": "自由式滑雪女子、男子决赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "12月13日11:00"
+      },
+      "nodes": []
     }
   ]
 }
