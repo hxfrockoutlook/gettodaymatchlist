@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-12-14 18:02:25",
+  "updateTime": "2025-12-14 18:31:59",
   "data": [
     {
       "mgdbId": "120000542637",
@@ -824,11 +824,11 @@
     },
     {
       "mgdbId": "120000564034",
-      "pID": "961147340",
+      "pID": "961177997",
       "title": "Jr. NBA校园篮球联赛江苏站决赛次回合",
       "keyword": "12月14日15:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "Jr. NBA",
       "padImg": "",
@@ -840,6 +840,10 @@
         "time": "12月14日15:00"
       },
       "nodes": [
+        {
+          "pID": "961177997",
+          "name": "全场回放"
+        },
         {
           "pID": "961147340",
           "name": "解说"
@@ -900,7 +904,7 @@
       "title": "深圳藝品高VS吴川青年",
       "keyword": "12月14日 16:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "广东省城市足球超级联赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000563682/202512031125_935940_H169_1080.webp",
@@ -1176,10 +1180,10 @@
       "title": "决赛之夜！王曼昱迎战蒯曼 小莫PK张本",
       "keyword": "12月14日19:30",
       "sportItemId": "7",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/14/6V3TQIT4H91D.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/14/6V3TRF6I9KMT.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "决赛之夜！王曼昱迎战蒯曼 小莫PK张本",
       "modifyTitle": "WTT香港总决赛：男女单打决赛",
@@ -1205,12 +1209,12 @@
           "name": "现场视角"
         },
         {
-          "pID": "961062724",
-          "name": "邓亚萍 刘国正 周冠达"
-        },
-        {
           "pID": "961101700",
           "name": "AI轨迹实时追踪"
+        },
+        {
+          "pID": "961062724",
+          "name": "邓亚萍 刘国正 周冠达"
         }
       ]
     },
