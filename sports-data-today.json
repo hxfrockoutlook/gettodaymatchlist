@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-12-14 08:02:04",
+  "updateTime": "2025-12-14 08:31:45",
   "data": [
     {
       "mgdbId": "120000542637",
@@ -361,7 +361,7 @@
     {
       "mgdbId": "120000564024",
       "pID": "961119525",
-      "title": "2025杭���高新区（滨江）10km接力邀请赛",
+      "title": "2025杭州高新区（滨��）10km接力邀请赛",
       "keyword": "12月14日07:00",
       "sportItemId": "8",
       "matchStatus": "1",
@@ -379,6 +379,30 @@
         {
           "pID": "961119525",
           "name": "2025杭州高新区（滨江）10km接力邀请赛"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000564028",
+      "pID": "961139920",
+      "title": "深圳南山半程马拉松",
+      "keyword": "12月14日07:15",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "马拉松系列赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/13/6V3ST00HCDAM.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/4/12/1000000010301069e12a.jpg",
+      "pkInfoTitle": "深圳南山半程马拉松",
+      "modifyTitle": "深圳南山半程马拉松",
+      "presenters": "",
+      "matchInfo": {
+        "time": "12月14日07:15"
+      },
+      "nodes": [
+        {
+          "pID": "961139920",
+          "name": "解说"
         }
       ]
     },
@@ -1761,25 +1785,6 @@
           "name": "赛场原声"
         }
       ]
-    },
-    {
-      "mgdbId": "120000564028",
-      "pID": "120000564028",
-      "title": "深圳南山半程马拉松",
-      "keyword": "12月14日07:15",
-      "sportItemId": "",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "马拉松系列赛",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/04/22/11005/d7221dbe16654423a8cde96cca4fc450/d7221dbe16654423a8cde96cca4fc450_H169_P1080_WEBP.webp",
-      "competitionLogo": "",
-      "pkInfoTitle": "深圳南山半程马拉松",
-      "modifyTitle": "深圳南山半程马拉松",
-      "presenters": "",
-      "matchInfo": {
-        "time": "12月14日07:15"
-      },
-      "nodes": []
     }
   ]
 }
