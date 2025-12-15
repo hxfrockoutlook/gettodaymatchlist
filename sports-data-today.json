@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-12-15 19:01:15",
+  "updateTime": "2025-12-15 19:31:11",
   "data": [
     {
       "mgdbId": "120000542635",
@@ -507,6 +507,10 @@
         {
           "pID": "961135279",
           "name": "英文原声"
+        },
+        {
+          "pID": "961135301",
+          "name": "李天��� 陈正昊 廖昕阳"
         }
       ]
     },
@@ -608,7 +612,7 @@
       "title": "WCBA常规赛B组",
       "keyword": "12月15日19:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WCBA",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000563278/202511270532_326375_H169_1080.webp",
@@ -632,7 +636,7 @@
       "title": "WCBA常规赛B组",
       "keyword": "12月15日19:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WCBA",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000563287/202511270535_639043_H169_1080.webp",
@@ -646,6 +650,30 @@
       "nodes": [
         {
           "pID": "960958287",
+          "name": "清流播出"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000564075",
+      "pID": "961200515",
+      "title": "奥沙利文中式八球首秀",
+      "keyword": "12月15日19:30",
+      "sportItemId": "8",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "利百文群星时刻",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/12/15/10000000138710654d44.jpg",
+      "pkInfoTitle": "奥沙利文中式八球首秀",
+      "modifyTitle": "利百文群星时刻：奥沙利文中式八球首秀",
+      "presenters": "",
+      "matchInfo": {
+        "time": "12月15日19:30"
+      },
+      "nodes": [
+        {
+          "pID": "961200515",
           "name": "清流播出"
         }
       ]
