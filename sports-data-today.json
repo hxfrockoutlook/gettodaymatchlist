@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-12-17 09:00:50",
+  "updateTime": "2025-12-17 09:30:52",
   "data": [
     {
       "mgdbId": "120000564041",
@@ -44,7 +44,7 @@
       "title": "NBANBA杯",
       "keyword": "12月17日09:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "T-Mobile竞技场",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/16/6V3VKJCCJ50Q.jpg",
@@ -84,7 +84,7 @@
       "title": "安洗莹女单领衔 凤凰组合接场",
       "keyword": "12月17日09:30",
       "sportItemId": "6",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "BWF",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/16/6V3VLM7E6BK5.png",
@@ -115,7 +115,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "BWF",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/17/6V40JKCVJHSR.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "丫邦组合出战 刘圣书女双接场",
       "modifyTitle": "BWF总决赛第1日小组赛晚场丫邦组合出战 刘圣书女双接场",
@@ -386,6 +386,7 @@
     },
     {
       "mgdbId": "120000562107",
+      "pID": "961218460",
       "title": "CBA常规赛第三轮",
       "keyword": "12月17日19:35",
       "sportItemId": "2",
@@ -400,7 +401,12 @@
       "matchInfo": {
         "time": "12月17日19:35"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "961218460",
+          "name": "CCTV5"
+        }
+      ]
     }
   ]
 }
