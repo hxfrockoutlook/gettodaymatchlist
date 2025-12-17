@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-12-17 14:30:54",
+  "updateTime": "2025-12-17 15:00:52",
   "data": [
     {
       "mgdbId": "120000564041",
@@ -85,16 +85,16 @@
     {
       "mgdbId": "120000564103",
       "pID": "961213967",
-      "title": "王祉怡PK韩悦 凤凰组合获小组赛首胜",
+      "title": "王祉怡2-0韩悦 凤凰组合获小组赛首胜",
       "keyword": "12月17日09:30",
       "sportItemId": "6",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "BWF",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/17/6V40KIQTM4PF.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
-      "pkInfoTitle": "王祉怡PK韩悦 凤凰组合获小组赛首胜",
-      "modifyTitle": "BWF总决赛第1日小组赛上午场 王祉怡PK韩悦 凤凰组合获小组赛首胜",
+      "pkInfoTitle": "王祉怡2-0韩悦 凤凰组合获小组赛首胜",
+      "modifyTitle": "BWF总决赛第1日小组赛上午场 王祉怡2-0韩悦 凤凰组合获小组赛首胜",
       "presenters": "",
       "matchInfo": {
         "time": "12月17日09:30"
@@ -400,6 +400,7 @@
     },
     {
       "mgdbId": "120000562106",
+      "pID": "961227864",
       "title": "CBA常规赛第三轮",
       "keyword": "12月17日19:35",
       "sportItemId": "2",
@@ -414,7 +415,12 @@
       "matchInfo": {
         "time": "12月17日19:35"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "961227864",
+          "name": "清流播出"
+        }
+      ]
     },
     {
       "mgdbId": "120000562107",
@@ -437,6 +443,10 @@
         {
           "pID": "961218460",
           "name": "CCTV5"
+        },
+        {
+          "pID": "961227876",
+          "name": "清流播出"
         }
       ]
     }
