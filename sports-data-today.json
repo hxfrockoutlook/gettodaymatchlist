@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-12-20 09:31:47",
+  "updateTime": "2025-12-20 10:01:46",
   "data": [
     {
       "mgdbId": "120000564015",
@@ -936,7 +936,7 @@
     },
     {
       "mgdbId": "120000562119",
-      "pID": "961228748",
+      "pID": "961286373",
       "title": "CBA常规赛第四轮",
       "keyword": "12月20日19:35",
       "sportItemId": "2",
@@ -952,6 +952,10 @@
         "time": "12月20日19:35"
       },
       "nodes": [
+        {
+          "pID": "961286373",
+          "name": "CCTV5"
+        },
         {
           "pID": "961228748",
           "name": "图文直播"
@@ -1227,7 +1231,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "斯诺克",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/20/6V43B0O0EOA4.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "克里斯·韦克林 vs 马修·塞尔特",
       "modifyTitle": "斯诺克苏格兰公开赛半决赛：克里斯·韦克林 vs 马修·塞尔特",
@@ -1415,10 +1419,6 @@
         {
           "pID": "961274320",
           "name": "英文原声"
-        },
-        {
-          "pID": "961274361",
-          "name": "赛���原声"
         },
         {
           "pID": "961274361",
