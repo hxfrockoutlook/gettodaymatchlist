@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-12-20 16:01:53",
+  "updateTime": "2025-12-20 16:31:55",
   "data": [
     {
       "mgdbId": "120000564015",
@@ -530,9 +530,9 @@
       "mgdbId": "120000564062",
       "pID": "961198951",
       "title": "普洱队VS文山队",
-      "keyword": "12月20日16:00",
+      "keyword": "12月20日 16:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "云南省城市足球联赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000564062/202512151700_831926_H169_1080.webp",
@@ -541,7 +541,7 @@
       "modifyTitle": "普洱队VS文山队",
       "presenters": "",
       "matchInfo": {
-        "time": "12月20日16:00"
+        "time": "12月20日 16:00"
       },
       "nodes": [
         {
@@ -971,6 +971,10 @@
         {
           "pID": "961286373",
           "name": "CCTV5"
+        },
+        {
+          "pID": "961226082",
+          "name": "山西四川"
         },
         {
           "pID": "961228748",
