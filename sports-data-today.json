@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-12-21 15:01:40",
+  "updateTime": "2025-12-21 15:31:32",
   "data": [
     {
       "mgdbId": "120000543784",
@@ -672,7 +672,7 @@
     },
     {
       "mgdbId": "120000546930",
-      "pID": "961321043",
+      "pID": "961321528",
       "title": "NBA常规赛",
       "keyword": "12月21日11:30",
       "sportItemId": "2",
@@ -689,8 +689,8 @@
       },
       "nodes": [
         {
-          "pID": "961321043",
-          "name": "力不从心！詹姆斯遭小卡生断反击扣篮 老詹低头非常无奈"
+          "pID": "961321528",
+          "name": "25/26赛季NBA常规赛全场集锦：湖人88:103快船（20251221）"
         },
         {
           "pID": "961134811",
@@ -712,7 +712,7 @@
       "title": "滑雪空巧混合团体赛",
       "keyword": "12月21日13:55",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "国际雪联世界杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/20/6V43A4VK3G72.png",
@@ -733,16 +733,16 @@
     {
       "mgdbId": "120000564111",
       "pID": "961256589",
-      "title": "石宇奇、王祉怡冲冠 丫邦PK凤凰",
+      "title": "石宇奇、王祉怡冲冠 凤凰赛季第8冠",
       "keyword": "12月21日14:00",
       "sportItemId": "6",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "BWF",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/21/6V445PA5GGM4.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/21/6V4469A4HA1H.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
-      "pkInfoTitle": "石宇奇、王祉怡冲冠 丫邦PK凤凰",
-      "modifyTitle": "BWF总决赛第5日决赛：石宇奇、王祉怡冲冠 丫邦PK凤凰",
+      "pkInfoTitle": "石宇奇、王祉怡冲冠 凤凰赛季第8冠",
+      "modifyTitle": "BWF总决赛第5日决赛：石宇奇、王祉怡冲冠 凤凰赛季第8冠",
       "presenters": "鸿昆 余博洋 刘钟鸣 朱胤丞 轩子博 杨妮娜",
       "matchInfo": {
         "time": "12月21日14:00"
@@ -1201,6 +1201,14 @@
           "name": "CCTV5"
         },
         {
+          "pID": "961226161",
+          "name": "WCBA"
+        },
+        {
+          "pID": "961270299",
+          "name": "NBL"
+        },
+        {
           "pID": "961229367",
           "name": "图文直播"
         }
@@ -1226,30 +1234,6 @@
       "nodes": [
         {
           "pID": "961252457",
-          "name": "清流"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000564328",
-      "pID": "961252473",
-      "title": "湖南省足球联赛",
-      "keyword": "12月21日19:38",
-      "sportItemId": "1",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "湖南省足球联赛",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000564328/202512181601_264161_H169_1080.webp",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/4/100000001316106bfe97.png",
-      "pkInfoTitle": "湘西vs吐鲁番",
-      "modifyTitle": "湖南省足球联赛",
-      "presenters": "",
-      "matchInfo": {
-        "time": "12月21日19:38"
-      },
-      "nodes": [
-        {
-          "pID": "961252473",
           "name": "清流"
         }
       ]
