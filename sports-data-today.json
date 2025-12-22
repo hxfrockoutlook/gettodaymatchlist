@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-12-22 22:01:11",
+  "updateTime": "2025-12-22 22:31:15",
   "data": [
     {
       "mgdbId": "120000564017",
@@ -516,7 +516,7 @@
     },
     {
       "mgdbId": "120000563460",
-      "pID": "961226181",
+      "pID": "961342264",
       "title": "WCBA常规赛A组",
       "keyword": "12月22日19:30",
       "sportItemId": "2",
@@ -544,7 +544,7 @@
     },
     {
       "mgdbId": "120000563463",
-      "pID": "961226202",
+      "pID": "961342531",
       "title": "WCBA常规赛A组",
       "keyword": "12月22日19:30",
       "sportItemId": "2",
@@ -572,7 +572,7 @@
     },
     {
       "mgdbId": "120000563465",
-      "pID": "961226191",
+      "pID": "961342464",
       "title": "WCBA常规赛A组",
       "keyword": "12月22日19:30",
       "sportItemId": "2",
@@ -589,6 +589,10 @@
       },
       "nodes": [
         {
+          "pID": "961342464",
+          "name": "25/26赛季WCBA常规赛A组第8轮全场集锦：石家庄英励vs四川蜀道远达"
+        },
+        {
           "pID": "961226191",
           "name": "清流播出"
         }
@@ -596,7 +600,7 @@
     },
     {
       "mgdbId": "120000564163",
-      "pID": "961270410",
+      "pID": "961343458",
       "title": "NBL常规赛",
       "keyword": "12月22日19:30",
       "sportItemId": "2",
@@ -613,6 +617,10 @@
       },
       "nodes": [
         {
+          "pID": "961343458",
+          "name": "2026NBL全国男子篮球联赛常规赛第1轮全场集锦：江西鲸裕清酒vs上海玄鸟"
+        },
+        {
           "pID": "961270410",
           "name": "解说"
         },
@@ -624,14 +632,14 @@
     },
     {
       "mgdbId": "120000564187",
-      "pID": "961270469",
+      "pID": "961342642",
       "title": "NBL常规赛",
       "keyword": "12月22日19:30",
       "sportItemId": "2",
       "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBL",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000564187/202512171201_704342_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000564187/202512222206_162767_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/6/29/1000000010691064a6f5.png",
       "pkInfoTitle": "山东蜜獾 VS 张家口体文旅",
       "modifyTitle": "NBL常规赛",
@@ -780,11 +788,11 @@
     },
     {
       "mgdbId": "120000563462",
-      "pID": "961226171",
+      "pID": "961343624",
       "title": "WCBA常规赛A组",
       "keyword": "12月22日20:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "WCBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/21/6V446LDTO5NN.png",
@@ -797,8 +805,40 @@
       },
       "nodes": [
         {
+          "pID": "961343624",
+          "name": "25/26赛季WCBA常规赛A组第8轮全场集锦：新疆天山vs东莞新彤盛"
+        },
+        {
           "pID": "961226171",
           "name": "解说"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000547868",
+      "pID": "120000547868",
+      "title": "能否延续全胜？0:00沙迦vs新月",
+      "keyword": "12月22日23:45",
+      "sportItemId": "",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "亚冠精英",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/04/6V3KNGOIDKUD.png",
+      "competitionLogo": "",
+      "pkInfoTitle": "能否延续全胜？0:00沙迦vs新月",
+      "modifyTitle": "能否延续全胜？23日0:00沙迦vs新月",
+      "presenters": "",
+      "matchInfo": {
+        "time": "12月22日23:45"
+      },
+      "nodes": [
+        {
+          "pID": "961251386",
+          "name": "吴桐"
+        },
+        {
+          "pID": "961251366",
+          "name": "赛场原声"
         }
       ]
     }
