@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-12-24 09:31:07",
+  "updateTime": "2025-12-24 10:01:16",
   "data": [
     {
       "mgdbId": "120000547865",
@@ -316,7 +316,7 @@
       "title": "NBA常规赛",
       "keyword": "12月24日10:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "凤凰城竞技场",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/23/6V46084KTF5L.png",
@@ -347,10 +347,6 @@
         {
           "pID": "961278136",
           "name": "英文原声"
-        },
-        {
-          "pID": "961278195",
-          "name": "杨��� 曾令旭 马健"
         }
       ]
     },
@@ -360,7 +356,7 @@
       "title": "NBA常规赛",
       "keyword": "12月24日10:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "德尔塔中心球馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/23/6V460709DJDF.png",
@@ -843,6 +839,34 @@
         {
           "pID": "961270047",
           "name": "现场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000548441",
+      "pID": "120000548441",
+      "title": "利雅得胜利 vs 艾尔扎拉",
+      "keyword": "12月24日23:45",
+      "sportItemId": "",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "亚冠二级",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/08/20/11005/4fdb7da0c1e842bb8acaa4f2c8413162/4fdb7da0c1e842bb8acaa4f2c8413162_H169_P1080_WEBP.webp",
+      "competitionLogo": "",
+      "pkInfoTitle": "利雅得胜利 vs 艾尔扎拉",
+      "modifyTitle": "利雅得胜利 vs 艾尔扎拉",
+      "presenters": "",
+      "matchInfo": {
+        "time": "12月24日23:45"
+      },
+      "nodes": [
+        {
+          "pID": "961251347",
+          "name": "涂远"
+        },
+        {
+          "pID": "961251297",
+          "name": "赛场原声"
         }
       ]
     }
