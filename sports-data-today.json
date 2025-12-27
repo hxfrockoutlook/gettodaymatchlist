@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-12-27 17:32:26",
+  "updateTime": "2025-12-27 18:02:15",
   "data": [
     {
       "mgdbId": "120000564480",
@@ -908,7 +908,7 @@
       "title": "商竣程/伊埃拉 vs 吴易昺/福基纳",
       "keyword": "12月27日15:57",
       "sportItemId": "9",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "美高梅澳门网球名人赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/27/6V49L5O9MNQ0.png",
@@ -971,7 +971,7 @@
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/25/6V47QM1NIIGK.png",
       "pkInfoTitle": "王楚钦领衔山东魏桥对决上海地产",
       "modifyTitle": "乒超男团半决赛：山东魏桥·向尚运动vs上海地产集团",
-      "presenters": "周泽昊 周雨 常新宇 周冠达 侯英超 程靖淇",
+      "presenters": "周冠达 侯英超 程靖淇",
       "matchInfo": {
         "time": "12月27日17:00"
       },
@@ -983,10 +983,6 @@
         {
           "pID": "961428634",
           "name": "赛场原声"
-        },
-        {
-          "pID": "961444283",
-          "name": "嘉年华"
         },
         {
           "pID": "961427907",
@@ -1023,12 +1019,40 @@
       ]
     },
     {
+      "mgdbId": "120000564361",
+      "pID": "961425627",
+      "title": "美高梅澳门网球名人赛：安贝尔 vs 吴易昺",
+      "keyword": "12月27日17:45",
+      "sportItemId": "9",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "美高梅澳门网球名人赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/27/6V49KND7GNH6.png",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/12/23/100000001390106389fa.png",
+      "pkInfoTitle": "安贝尔vs吴易昺",
+      "modifyTitle": "美高梅澳门网球名人赛：安贝尔 vs 吴易昺",
+      "presenters": "",
+      "matchInfo": {
+        "time": "12月27日17:45"
+      },
+      "nodes": [
+        {
+          "pID": "961425627",
+          "name": "清流"
+        },
+        {
+          "pID": "961425641",
+          "name": "英文原声"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000564410",
       "pID": "961450162",
       "title": "龙狮青年vs福建浔兴",
       "keyword": "12月27日18:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "全国U19青年篮球联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/26/6V48PR3J7Q6Q.png",
@@ -1052,7 +1076,7 @@
       "title": "四川锦城vs山西汾酒",
       "keyword": "12月27日18:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "全国U19青年篮球联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/26/6V48Q4J7QOBJ.jpg",
@@ -1465,7 +1489,7 @@
       "competitionName": "NBL",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/26/6V48PLKM9GT9.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/6/29/1000000010691064a6f5.png",
-      "pkInfoTitle": "张家口体文旅 VS 长沙勇胜",
+      "pkInfoTitle": "张家口体文旅 VS 长沙��胜",
       "modifyTitle": "NBL常规赛",
       "presenters": "",
       "matchInfo": {
@@ -1727,34 +1751,6 @@
         {
           "pID": "961366342",
           "name": "清流播出"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000564361",
-      "pID": "961425627",
-      "title": "美高梅澳门网球名人赛：安贝尔 vs 吴易昺",
-      "keyword": "12月27日20:00",
-      "sportItemId": "9",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "美高梅澳门网球名人赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/27/6V49KND7GNH6.png",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/12/23/100000001390106389fa.png",
-      "pkInfoTitle": "男子单打 安贝尔 vs 吴易昺",
-      "modifyTitle": "美高梅澳门网球名人赛：安贝尔 vs 吴易昺",
-      "presenters": "",
-      "matchInfo": {
-        "time": "12月27日20:00"
-      },
-      "nodes": [
-        {
-          "pID": "961425627",
-          "name": "清流"
-        },
-        {
-          "pID": "961425641",
-          "name": "英文原声"
         }
       ]
     },
