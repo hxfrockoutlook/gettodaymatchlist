@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-12-27 18:32:16",
+  "updateTime": "2025-12-27 19:02:04",
   "data": [
     {
       "mgdbId": "120000564480",
@@ -235,6 +235,10 @@
         {
           "pID": "961278920",
           "name": "连睿"
+        },
+        {
+          "pID": "961278861",
+          "name": "英��原声"
         },
         {
           "pID": "961278861",
@@ -936,7 +940,7 @@
       "title": "NBL常规赛",
       "keyword": "12月27日16:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBL",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/26/6V48PLGUP4EJ.png",
@@ -996,12 +1000,12 @@
       "title": "世界网球洲际对抗赛",
       "keyword": "12月27日17:00",
       "sportItemId": "9",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "世界网球洲际对抗赛",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/12/24/10000000139210616036.png",
-      "pkInfoTitle": "瓦舍罗vs卢布列夫",
+      "pkInfoTitle": "瓦舍罗1-2卢布列夫",
       "modifyTitle": "世界网球洲际对抗赛",
       "presenters": "",
       "matchInfo": {
@@ -1097,16 +1101,16 @@
     {
       "mgdbId": "120000564402",
       "pID": "961430803",
-      "title": "盖德携手桃田表演赛亮相 石宇奇接场",
+      "title": "乔纳坦PK安东森 石宇奇接场",
       "keyword": "12月27日18:20",
       "sportItemId": "6",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "天王杯国际羽毛球公开赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/26/6V48PUBLL24M.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/27/6V49LTC73AGQ.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/12/24/1000000013911066244a.png",
-      "pkInfoTitle": "盖德携手桃田表演赛亮相 石宇奇接场",
-      "modifyTitle": "天王杯国际羽毛球公开赛第2日：盖德携手桃田表演赛亮相 石宇奇接场",
+      "pkInfoTitle": "乔纳坦PK安东森 石宇奇接场",
+      "modifyTitle": "天王杯国际羽毛球公开赛第2日：乔纳坦PK安东森 石宇奇接场",
       "presenters": "",
       "matchInfo": {
         "time": "12月27日18:20"
@@ -1179,12 +1183,40 @@
       ]
     },
     {
+      "mgdbId": "120000564372",
+      "pID": "961444586",
+      "title": "科博利/本西奇vs张之臻/王欣瑜",
+      "keyword": "12月27日18:40",
+      "sportItemId": "9",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "世界网球洲际对抗赛",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/12/24/10000000139210616036.png",
+      "pkInfoTitle": "科博利/本西奇vs张之臻/王欣瑜",
+      "modifyTitle": "世界网球洲际对抗赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "12月27日18:40"
+      },
+      "nodes": [
+        {
+          "pID": "961444586",
+          "name": "科博利/本西奇 VS 张之臻/王欣瑜（中文解说）"
+        },
+        {
+          "pID": "961444570",
+          "name": "科博利/本西奇 VS 张之臻/王欣瑜 (清流）"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000564353",
       "pID": "961443715",
       "title": "JCK觉城之夜N114：哈萨诺夫VS马戈梅德沙皮耶夫",
       "keyword": "12月27日18:55",
       "sportItemId": "5",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "JCK",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/27/6V49KB9GIKG8.png",
@@ -1207,43 +1239,15 @@
       ]
     },
     {
-      "mgdbId": "120000564372",
-      "pID": "961444586",
-      "title": "科博利/本西奇vs张之臻/王欣瑜",
-      "keyword": "12月27日19:00",
-      "sportItemId": "9",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "世界网球洲际对抗赛",
-      "padImg": "",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/12/24/10000000139210616036.png",
-      "pkInfoTitle": "科博利/本西奇vs张之臻/王欣瑜",
-      "modifyTitle": "世界网球洲际对抗赛",
-      "presenters": "",
-      "matchInfo": {
-        "time": "12月27日19:00"
-      },
-      "nodes": [
-        {
-          "pID": "961444586",
-          "name": "科博利/本西奇 VS 张之臻/王欣瑜（中文解说）"
-        },
-        {
-          "pID": "961444570",
-          "name": "科博利/本西奇 VS 张之臻/王欣瑜 (清流）"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000564460",
       "pID": "961444470",
       "title": "聚焦八角笼：2025UFC年度奖项评选",
       "keyword": "12月27日19:00",
       "sportItemId": "5",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "UFC前瞻与回顾",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/27/6V49KB054HER.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/27/6V49LRJMDFK9.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/12/11/10000000124810603b67.png",
       "pkInfoTitle": "聚焦八角笼：2025UFC年度奖项评选",
       "modifyTitle": "聚焦八角笼：2025UFC年度奖项评选",
@@ -1489,7 +1493,7 @@
       "competitionName": "NBL",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/26/6V48PLKM9GT9.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/6/29/1000000010691064a6f5.png",
-      "pkInfoTitle": "���家口体文旅 VS 长沙勇胜",
+      "pkInfoTitle": "张家口体文旅 VS 长沙勇胜",
       "modifyTitle": "NBL常规赛",
       "presenters": "",
       "matchInfo": {
