@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-12-28 15:31:49",
+  "updateTime": "2025-12-28 16:01:55",
   "data": [
     {
       "mgdbId": "120000543122",
@@ -745,16 +745,16 @@
     {
       "mgdbId": "120000564331",
       "pID": "961275542",
-      "title": "2025苏州CBSA斯诺克大师邀请赛：赵心童 vs 亨得利",
+      "title": "2025苏州CBSA斯诺克大师邀请赛：赵心童 5-3 亨得利",
       "keyword": "12月28日13:30",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/27/6V49MF5LFLDH.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "赵心童vs亨得利",
-      "modifyTitle": "2025苏州CBSA斯诺克大师邀请赛：赵心童 vs 亨得利",
+      "pkInfoTitle": "赵心童5-3亨得利",
+      "modifyTitle": "2025苏州CBSA斯诺克大师邀请赛：赵心童 5-3 亨得利",
       "presenters": "",
       "matchInfo": {
         "time": "12月28日13:30"
@@ -800,7 +800,7 @@
       "title": "美高梅澳门网球名人赛：伊埃拉 vs 米拉·安德列娃",
       "keyword": "12月28日14:17",
       "sportItemId": "9",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "美高梅澳门网球名人赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/27/6V49N0MEJTHF.png",
@@ -873,7 +873,7 @@
     {
       "mgdbId": "120000564416",
       "pID": "961450257",
-      "title": "辽宁沈阳三���vs青岛国信海天",
+      "title": "辽宁沈阳三生vs青岛国信海天",
       "keyword": "12月28日15:00",
       "sportItemId": "2",
       "matchStatus": "1",
@@ -919,6 +919,34 @@
       ]
     },
     {
+      "mgdbId": "120000564365",
+      "pID": "961425718",
+      "title": "美高梅澳门网球名人赛：商竣程 vs 吴易昺",
+      "keyword": "12月28日15:50",
+      "sportItemId": "9",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "美高梅澳门网球名人赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/27/6V49N0R8AL4J.png",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/12/23/100000001390106389fa.png",
+      "pkInfoTitle": "商竣程 vs 吴易昺",
+      "modifyTitle": "美高梅澳门网球名人赛：商竣程 vs 吴易昺",
+      "presenters": "",
+      "matchInfo": {
+        "time": "12月28日15:50"
+      },
+      "nodes": [
+        {
+          "pID": "961425718",
+          "name": "清流"
+        },
+        {
+          "pID": "961425739",
+          "name": "英文原声"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000564376",
       "pID": "961444634",
       "title": "瓦舍罗/斯瓦泰克vs卢布列夫/莱巴金娜",
@@ -943,34 +971,6 @@
         {
           "pID": "961444608",
           "name": "瓦舍罗/斯瓦泰克 VS 卢布列夫/莱巴金娜（清流）"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000564365",
-      "pID": "961425718",
-      "title": "美高梅澳门网球名人赛：商竣程 vs 吴易昺",
-      "keyword": "12月28日18:00",
-      "sportItemId": "9",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "美高梅澳门网球名人赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/27/6V49N0R8AL4J.png",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/12/23/100000001390106389fa.png",
-      "pkInfoTitle": "男子单打 商竣程 vs 吴易昺",
-      "modifyTitle": "美高梅澳门网球名人赛：商竣程 vs 吴易昺",
-      "presenters": "",
-      "matchInfo": {
-        "time": "12月28日18:00"
-      },
-      "nodes": [
-        {
-          "pID": "961425718",
-          "name": "清流"
-        },
-        {
-          "pID": "961425739",
-          "name": "英文原声"
         }
       ]
     },
@@ -1613,12 +1613,12 @@
       },
       "nodes": [
         {
-          "pID": "961466475",
-          "name": "清流播出"
-        },
-        {
           "pID": "961703297",
           "name": "朱峰立"
+        },
+        {
+          "pID": "961466475",
+          "name": "清流播出"
         }
       ]
     },
