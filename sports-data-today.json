@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-12-31 05:40:09",
+  "updateTime": "2025-12-31 06:01:11",
   "data": [
     {
       "mgdbId": "120000542332",
@@ -8,10 +8,10 @@
       "title": "英超联赛",
       "keyword": "12月31日03:30",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "伦敦奥林匹克体育场",
       "competitionName": "英超",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000542332/508833_H169_sc.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000542332/268878_H169_sc.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png",
       "pkInfoTitle": "西汉姆联 vs 布赖顿",
       "modifyTitle": "英超联赛",
@@ -40,7 +40,7 @@
       "title": "英超联赛",
       "keyword": "12月31日03:30",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "诺丁汉城市球场",
       "competitionName": "英超",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/31/6V4D9U2QIGVJ.jpg",
@@ -72,7 +72,7 @@
       "title": "英超联赛",
       "keyword": "12月31日03:30",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "斯坦福桥球场",
       "competitionName": "英超",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/31/6V4D9UQRU4PE.png",
@@ -108,10 +108,10 @@
       "title": "英超联赛",
       "keyword": "12月31日03:30",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "英超",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000542339/298384_H169_sc.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/31/6V4DA10LQ61A.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png",
       "pkInfoTitle": "伯恩利 vs 纽卡斯尔联",
       "modifyTitle": "英超联赛",
@@ -841,7 +841,12 @@
       "matchInfo": {
         "time": "12月31日18:25"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "962036050",
+          "name": "解说"
+        }
+      ]
     }
   ]
 }
