@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-12-31 10:31:06",
+  "updateTime": "2025-12-31 11:01:13",
   "data": [
     {
       "mgdbId": "120000542332",
@@ -532,6 +532,7 @@
     },
     {
       "mgdbId": "120000563719",
+      "pID": "962052204",
       "title": "WCBA常规赛A组",
       "keyword": "12月31日19:30",
       "sportItemId": "2",
@@ -546,10 +547,16 @@
       "matchInfo": {
         "time": "12月31日19:30"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "962052204",
+          "name": "解说"
+        }
+      ]
     },
     {
       "mgdbId": "120000563754",
+      "pID": "962052522",
       "title": "WCBA常规赛A组",
       "keyword": "12月31日19:30",
       "sportItemId": "2",
@@ -564,10 +571,16 @@
       "matchInfo": {
         "time": "12月31日19:30"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "962052522",
+          "name": "解说"
+        }
+      ]
     },
     {
       "mgdbId": "120000563755",
+      "pID": "962053391",
       "title": "WCBA常规赛A组",
       "keyword": "12月31日19:30",
       "sportItemId": "2",
@@ -582,10 +595,16 @@
       "matchInfo": {
         "time": "12月31日19:30"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "962053391",
+          "name": "解说"
+        }
+      ]
     },
     {
       "mgdbId": "120000563758",
+      "pID": "962052099",
       "title": "WCBA常规赛A组",
       "keyword": "12月31日19:30",
       "sportItemId": "2",
@@ -600,10 +619,16 @@
       "matchInfo": {
         "time": "12月31日19:30"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "962052099",
+          "name": "清流播出"
+        }
+      ]
     },
     {
       "mgdbId": "120000563760",
+      "pID": "962052862",
       "title": "WCBA常规赛A组",
       "keyword": "12月31日19:30",
       "sportItemId": "2",
@@ -618,7 +643,12 @@
       "matchInfo": {
         "time": "12月31日19:30"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "962052862",
+          "name": "清流播出"
+        }
+      ]
     },
     {
       "mgdbId": "120000564055",
