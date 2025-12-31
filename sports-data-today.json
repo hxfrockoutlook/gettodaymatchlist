@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-12-31 17:31:14",
+  "updateTime": "2025-12-31 18:02:29",
   "data": [
     {
       "mgdbId": "120000542332",
@@ -407,30 +407,6 @@
       ]
     },
     {
-      "mgdbId": "120000564483",
-      "pID": "961468296",
-      "title": "西双版纳越野跑第一日",
-      "keyword": "12月31日14:30",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "西双版纳越野跑",
-      "padImg": "",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/12/26/100000001394106ba6cc.png",
-      "pkInfoTitle": "西双版纳越野跑第一日",
-      "modifyTitle": "西双版纳越野跑第一日",
-      "presenters": "",
-      "matchInfo": {
-        "time": "12月31日14:30"
-      },
-      "nodes": [
-        {
-          "pID": "961468296",
-          "name": "清流播出"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000564490",
       "pID": "961471645",
       "title": "中国足球青少年精英联赛",
@@ -512,7 +488,7 @@
       "title": "四川锦城vs天津荣钢",
       "keyword": "12月31日18:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "全国U19青年篮球联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/30/6V4CE1JL0PIE.png",
@@ -536,7 +512,7 @@
       "title": "浙江广厦vs深圳新世纪",
       "keyword": "12月31日18:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "全国U19青年篮球联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/12/30/6V4CE25IPJVB.png",
@@ -686,7 +662,7 @@
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/7/16/1000000012931063812e.png",
       "pkInfoTitle": "衢州VS丽水",
-      "modifyTitle": "衢州VS丽水",
+      "modifyTitle": "衢��VS丽水",
       "presenters": "",
       "matchInfo": {
         "time": "12月31日19:30"
@@ -871,6 +847,30 @@
         {
           "pID": "961450502",
           "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000564483",
+      "pID": "961468296",
+      "title": "西双版纳越野跑第一日",
+      "keyword": "12月31日22:30",
+      "sportItemId": "8",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "西双版纳越野跑",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/12/26/100000001394106ba6cc.png",
+      "pkInfoTitle": "西双版纳越野跑第一日",
+      "modifyTitle": "西双版纳越野跑第一日",
+      "presenters": "",
+      "matchInfo": {
+        "time": "12月31日22:30"
+      },
+      "nodes": [
+        {
+          "pID": "961468296",
+          "name": "清流播出"
         }
       ]
     },
