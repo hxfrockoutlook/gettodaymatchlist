@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-01-02 10:31:16",
+  "updateTime": "2026-01-02 11:01:20",
   "data": [
     {
       "mgdbId": "120000542336",
@@ -176,11 +176,11 @@
     },
     {
       "mgdbId": "120000547012",
-      "pID": "961469839",
+      "pID": "962099560",
       "title": "NBA常规赛",
       "keyword": "01月02日08:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "小凯撒球馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/02/770HFEIKMVP3.jpg",
@@ -192,6 +192,10 @@
         "time": "01月02日08:00"
       },
       "nodes": [
+        {
+          "pID": "962099560",
+          "name": " 技惊四座！格林冲刺垫步起飞单臂劈扣韦尔"
+        },
         {
           "pID": "961469839",
           "name": "刘芳宇"
@@ -284,7 +288,7 @@
       "title": "NBA常规赛",
       "keyword": "01月02日11:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "金色一号中心",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/01/770GGDFG9VAJ.jpg",
@@ -309,15 +313,15 @@
     {
       "mgdbId": "120000564567",
       "pID": "962051242",
-      "title": "青岛仁洲vs浙江竞体",
+      "title": "季军赛：青岛仁洲vs浙江竞体",
       "keyword": "01月02日11:00",
       "sportItemId": "6",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "羽超联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/01/770GIC3N0RB9.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/9/e3e5fdc7-1f96-45ec-a4e7-51fd781aa197.png",
-      "pkInfoTitle": "青岛仁洲vs浙江竞体",
+      "pkInfoTitle": "季军赛：青岛仁洲vs浙江竞体",
       "modifyTitle": "羽超总决赛季军争夺战：青岛仁洲vs浙江竞体",
       "presenters": "朱胤丞 曹志宇",
       "matchInfo": {
@@ -585,7 +589,7 @@
     {
       "mgdbId": "120000564568",
       "pID": "962052041",
-      "title": "辽宁极兔李永波vs厦门银行",
+      "title": "决赛：辽宁极兔李永波vs厦门银行",
       "keyword": "01月02日18:00",
       "sportItemId": "6",
       "matchStatus": "0",
@@ -593,7 +597,7 @@
       "competitionName": "羽超联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/01/770GIKHR9B7V.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/9/e3e5fdc7-1f96-45ec-a4e7-51fd781aa197.png",
-      "pkInfoTitle": "辽宁极兔李永波vs厦门银行",
+      "pkInfoTitle": "决赛：辽宁极兔李永波vs厦门银行",
       "modifyTitle": "羽超总决赛冠军争夺战：辽宁极兔李永波vs厦门银行",
       "presenters": "鸿昆 王煜豪 轩子博 杨妮娜",
       "matchInfo": {
@@ -645,6 +649,24 @@
           "name": "经典赛事"
         }
       ]
+    },
+    {
+      "mgdbId": "120000564604",
+      "title": "湖南省足球联赛",
+      "keyword": "01月02日19:05",
+      "sportItemId": "1",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "湖南省足球联赛",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000564604/202601021055_188931_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/4/100000001316106bfe97.png",
+      "pkInfoTitle": "郴州队vs大湾区湖南人队",
+      "modifyTitle": "湖南省足球联赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "01月02日19:05"
+      },
+      "nodes": []
     },
     {
       "mgdbId": "120000563717",
