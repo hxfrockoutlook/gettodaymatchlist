@@ -19,6 +19,43 @@ function getShanghaiDate() {
   return `${year}${month}${day}`;
 }
 
+// 统一格式化中文日期字符串
+// 统一格式化中文日期字符串
+// 处理多种格式：将"1月03日15:00"、"1月03日 15:00"等转换为"01月03日15:00"
+function formatChineseDateTime(dateTimeStr) {
+  try {
+    if (!dateTimeStr || typeof dateTimeStr !== 'string') {
+      return dateTimeStr;
+    }
+    
+    // 去除字符串两端的空白字符
+    const trimmedStr = dateTimeStr.trim();
+    
+    // 匹配模式：数字(1-2位)月数字(1-2位)日 空格(0或多个) 数字(1-2位):数字(2位)
+    const match = trimmedStr.match(/^(\d{1,2})月(\d{1,2})日\s*(\d{1,2}):(\d{2})$/);
+    
+    if (!match) {
+      return trimmedStr; // 返回原始字符串
+    }
+    
+    // 提取匹配的组
+    let month = match[1];  // 月
+    let day = match[2];    // 日
+    let hour = match[3];   // 时
+    let minute = match[4]; // 分
+    
+    // 补全前导零（确保月份和日期都是两位数）
+    month = month.padStart(2, '0');
+    day = day.padStart(2, '0');
+    
+    // 构建格式化后的字符串
+    return `${month}月${day}日${hour}:${minute}`;
+  } catch (error) {
+    console.error(`格式化中文日期时间错误: ${dateTimeStr}`, error);
+    return dateTimeStr;
+  }
+}
+
 // 解析时间格式：202511070855 → 11月07日08:55
 function parseKeyword(startTime) {
   // 1. 清理非数字字符
@@ -351,7 +388,7 @@ async function fetchAndProcessData() {
             mgdbId: match.mgdbId,
             pID: match.pID,
             title: match.title,
-            keyword: match.keyword,
+            keyword: formatChineseDateTime(match.keyword),
             sportItemId: match.sportItemId,
             matchStatus: match.matchStatus,
             matchField: match.matchField || "",
@@ -424,7 +461,7 @@ async function fetchAndProcessData() {
         mgdbId: match.mgdbId,
         pID: match.pID,
         title: match.title,
-        keyword: match.keyword,
+        keyword: formatChineseDateTime(match.keyword),
         sportItemId: match.sportItemId,
         matchStatus: match.matchStatus,
         matchField: match.matchField,
@@ -434,7 +471,7 @@ async function fetchAndProcessData() {
         pkInfoTitle: match.pkInfoTitle,
         modifyTitle: match.modifyTitle,
         presenters: match.presenters,
-        matchInfo: { time: match.keyword },
+        matchInfo: { time: formatChineseDateTime(match.keyword) },
         nodes: nodes
       };
       
