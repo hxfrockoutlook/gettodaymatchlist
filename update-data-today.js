@@ -174,11 +174,20 @@ async function fetchAndProcessData() {
         console.log(`获取比赛 ${match.mgdbId} 的节点数据...`);
         const nodes = await getMatchNodes(match.mgdbId);
         
+        // 关键：这里必须调用格式化函数
+        const formattedDateTime = formatChineseDateTime(match.keyword);
+        
+        // 调试：打印原始值和格式化后的值
+        console.log(`比赛: ${match.title}`);
+        console.log(`原始 keyword: "${match.keyword}"`);
+        console.log(`格式化后: "${formattedDateTime}"`);
+        console.log('---');
+        
         const mergedMatch = {
           mgdbId: match.mgdbId,
           pID: match.pID,
           title: match.title,
-          keyword: formatChineseDateTime(match.keyword),  // 使用格式化函数
+          keyword: formattedDateTime,
           sportItemId: match.sportItemId,
           matchStatus: match.matchStatus,
           matchField: match.matchField || "",
@@ -188,7 +197,7 @@ async function fetchAndProcessData() {
           pkInfoTitle: match.pkInfoTitle,
           modifyTitle: match.modifyTitle,
           presenters: match.presenters ? match.presenters.map(p => p.name).join(" ") : "",
-          matchInfo: { time: formatChineseDateTime(match.keyword) },
+          matchInfo: { time: formattedDateTime },
           nodes: nodes
         };
         
