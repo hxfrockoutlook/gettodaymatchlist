@@ -20,7 +20,6 @@ function getShanghaiDate() {
 }
 
 // 统一格式化中文日期字符串
-// 统一格式化中文日期字符串
 // 处理多种格式：将"1月03日15:00"、"1月03日 15:00"等转换为"01月03日15:00"
 function formatChineseDateTime(dateTimeStr) {
   try {
