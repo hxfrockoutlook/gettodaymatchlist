@@ -19,51 +19,6 @@ function getShanghaiDate() {
   return `${year}${month}${day}`;
 }
 
-function formatChineseDateTime(dateTimeStr) {
-  try {
-    if (!dateTimeStr || typeof dateTimeStr !== 'string') {
-      console.log(`格式化的输入不是字符串: ${dateTimeStr}`);
-      return dateTimeStr;
-    }
-    
-    // 去除字符串两端的空白字符
-    const trimmedStr = dateTimeStr.trim();
-    console.log(`格式化函数调用 - 原始值: "${trimmedStr}"`);
-    
-    // 使用正则表达式匹配所有可能的情况
-    // 匹配模式：数字(1-2位)月数字(1-2位)日 空格(0或多个) 数字(1-2位):数字(2位)
-    const match = trimmedStr.match(/^(\d{1,2})月(\d{1,2})日\s*(\d{1,2}):(\d{2})$/);
-    
-    if (!match) {
-      console.warn(`日期格式无法识别: "${trimmedStr}"`);
-      return trimmedStr; // 返回原始字符串
-    }
-    
-    // 提取匹配的组
-    let month = match[1];  // 月
-    let day = match[2];    // 日
-    let hour = match[3];   // 时
-    let minute = match[4]; // 分
-    
-    // 补全前导零（确保月份和日期都是两位数）
-    month = month.padStart(2, '0');
-    day = day.padStart(2, '0');
-    
-    // 对于小时，你也可以选择是否补零
-    // 根据你的需求，如果希望小时也保持两位数，取消下面这行的注释
-    // hour = hour.padStart(2, '0');
-    
-    // 构建格式化后的字符串
-    const result = `${month}月${day}日${hour}:${minute}`;
-    console.log(`格式化结果: "${result}"`);
-    
-    return result;
-  } catch (error) {
-    console.error(`格式化中文日期时间错误: ${dateTimeStr}`, error);
-    return dateTimeStr;
-  }
-}
-
 async function fetchWithRetry(url, options, maxRetries = 2) {
   for (let attempt = 1; attempt <= maxRetries; attempt++) {
     try {
@@ -173,21 +128,12 @@ async function fetchAndProcessData() {
         // 获取节点数据
         console.log(`获取比赛 ${match.mgdbId} 的节点数据...`);
         const nodes = await getMatchNodes(match.mgdbId);
-        
-        // 关键：这里必须调用格式化函数
-        const formattedDateTime = formatChineseDateTime(match.keyword);
-        
-        // 调试：打印原始值和格式化后的值
-        console.log(`比赛: ${match.title}`);
-        console.log(`原始 keyword: "${match.keyword}"`);
-        console.log(`格式化后: "${formattedDateTime}"`);
-        console.log('---');
-        
+
         const mergedMatch = {
           mgdbId: match.mgdbId,
           pID: match.pID,
           title: match.title,
-          keyword: formattedDateTime,
+          keyword: match.keyword,
           sportItemId: match.sportItemId,
           matchStatus: match.matchStatus,
           matchField: match.matchField || "",
@@ -197,7 +143,7 @@ async function fetchAndProcessData() {
           pkInfoTitle: match.pkInfoTitle,
           modifyTitle: match.modifyTitle,
           presenters: match.presenters ? match.presenters.map(p => p.name).join(" ") : "",
-          matchInfo: { time: formattedDateTime },
+          matchInfo: { time: match.keyword },
           nodes: nodes
         };
         
