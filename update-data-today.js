@@ -19,6 +19,33 @@ function getShanghaiDate() {
   return `${year}${month}${day}`;
 }
 
+// 统一格式化中文日期字符串（将"1月03日 15:00"转换为"01月03日15:00"）
+function formatChineseDateTime(dateTimeStr) {
+  try {
+    // 匹配格式：月日时分
+    // 例如："1月03日 15:00" 或 "01月03日15:00" 或 "1月03日15:00"
+    const match = dateTimeStr.match(/(\d{1,2})月(\d{1,2})日\s*(\d{1,2}):(\d{2})/);
+    if (!match) return dateTimeStr;
+    
+    let month = match[1];
+    let day = match[2];
+    let hour = match[3];
+    let minute = match[4];
+    
+    // 补全前导零
+    month = month.padStart(2, '0');
+    day = day.padStart(2, '0');
+    
+    // 保持小时格式（如果需要，也可以给小时补零）
+    // hour = hour.padStart(2, '0');
+    
+    return `${month}月${day}日${hour}:${minute}`;
+  } catch (error) {
+    console.error(`格式化中文日期时间错误: ${dateTimeStr}`, error);
+    return dateTimeStr;
+  }
+}
+
 async function fetchWithRetry(url, options, maxRetries = 2) {
   for (let attempt = 1; attempt <= maxRetries; attempt++) {
     try {
@@ -133,7 +160,7 @@ async function fetchAndProcessData() {
           mgdbId: match.mgdbId,
           pID: match.pID,
           title: match.title,
-          keyword: match.keyword,
+          keyword: formatChineseDateTime(match.keyword),  // 使用格式化函数
           sportItemId: match.sportItemId,
           matchStatus: match.matchStatus,
           matchField: match.matchField || "",
@@ -143,7 +170,7 @@ async function fetchAndProcessData() {
           pkInfoTitle: match.pkInfoTitle,
           modifyTitle: match.modifyTitle,
           presenters: match.presenters ? match.presenters.map(p => p.name).join(" ") : "",
-          matchInfo: { time: match.keyword },
+          matchInfo: { time: formatChineseDateTime(match.keyword) },
           nodes: nodes
         };
         
