@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-01-03 10:31:26",
+  "updateTime": "2026-01-03 11:01:30",
   "data": [
     {
       "mgdbId": "120000542628",
@@ -124,11 +124,11 @@
     },
     {
       "mgdbId": "120000547016",
-      "pID": "961469721",
+      "pID": "962108235",
       "title": "NBA常规赛",
       "keyword": "01月03日08:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "盖恩布里奇体育馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/03/770ICIQUTUN3.jpg",
@@ -141,6 +141,10 @@
       },
       "nodes": [
         {
+          "pID": "962108235",
+          "name": "外接手惊现篮球场！福克斯奔袭起飞滞空舍身抢断"
+        },
+        {
           "pID": "961469721",
           "name": "徐秦威"
         },
@@ -152,7 +156,7 @@
     },
     {
       "mgdbId": "120000547017",
-      "pID": "962108238",
+      "pID": "962109085",
       "title": "NBA常规赛",
       "keyword": "01月03日08:00",
       "sportItemId": "2",
@@ -169,8 +173,8 @@
       },
       "nodes": [
         {
-          "pID": "962108238",
-          "name": "势大力沉！萨尔转身突破双手滑翔大力虐筐"
+          "pID": "962109085",
+          "name": "25-26赛季NBA常规赛全场集锦：篮网99:119奇才（20260103）"
         },
         {
           "pID": "961469766",
@@ -201,6 +205,10 @@
       },
       "nodes": [
         {
+          "pID": "962109200",
+          "name": "杀死比赛！奥孔古跳球赢回球权 再假投真突冲筐得手"
+        },
+        {
           "pID": "961469832",
           "name": "刘沛元"
         },
@@ -212,14 +220,14 @@
     },
     {
       "mgdbId": "120000547019",
-      "pID": "961469792",
+      "pID": "962109148",
       "title": "NBA常规赛",
       "keyword": "01月03日08:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "火箭信贷球馆",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/02/770HG458TIPH.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/03/770ICM2OUMTA.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "掘金VS骑士",
       "modifyTitle": "NBA常规赛",
@@ -228,6 +236,10 @@
         "time": "01月03日08:30"
       },
       "nodes": [
+        {
+          "pID": "962109148",
+          "name": "哥们太拼了！加兰发力蹬地踩飞鞋子"
+        },
         {
           "pID": "961469792",
           "name": "李天宇"
@@ -247,7 +259,7 @@
       "matchStatus": "1",
       "matchField": "联合中心球馆",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/02/770HG49N8T6D.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/03/770ICLE0D5JK.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "魔术VS公牛",
       "modifyTitle": "NBA常规赛",
@@ -392,7 +404,7 @@
       "title": "NBA常规赛",
       "keyword": "01月03日11:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "大通中心",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/03/770ICCU8L23T.jpg",
@@ -1279,6 +1291,38 @@
         {
           "pID": "962099730",
           "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000542632",
+      "pID": "120000542632",
+      "title": "摩纳哥 vs 里昂",
+      "keyword": "01月03日23:45",
+      "sportItemId": "",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "法甲",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/07/17/11005/f3eca7533a0b4854bbf51a58bbb82bb8/f3eca7533a0b4854bbf51a58bbb82bb8_H169_P1080_WEBP.webp",
+      "competitionLogo": "",
+      "pkInfoTitle": "摩纳哥 vs 里昂",
+      "modifyTitle": "摩纳哥 vs 里昂",
+      "presenters": "",
+      "matchInfo": {
+        "time": "01月03日23:45"
+      },
+      "nodes": [
+        {
+          "pID": "962099028",
+          "name": "乔迁"
+        },
+        {
+          "pID": "962099044",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "962099052",
+          "name": "乔迁"
         }
       ]
     }
