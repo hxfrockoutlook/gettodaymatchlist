@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-01-04 23:01:38",
+  "updateTime": "2026-01-04 23:31:35",
   "data": [
     {
       "mgdbId": "120000542632",
@@ -70,7 +70,7 @@
         },
         {
           "pID": "962101023",
-          "name": "颜强 徐阳 李子��"
+          "name": "颜强 徐阳 李��琪"
         }
       ]
     },
@@ -732,7 +732,7 @@
     },
     {
       "mgdbId": "120000564162",
-      "pID": "961270897",
+      "pID": "962135719",
       "title": "NBL常规赛",
       "keyword": "01月04日19:30",
       "sportItemId": "2",
@@ -748,6 +748,10 @@
         "time": "01月04日19:30"
       },
       "nodes": [
+        {
+          "pID": "962135719",
+          "name": "2026NBL全国男子篮球联赛常规赛第6轮全场集锦：长沙勇胜vs贵州猛龙"
+        },
         {
           "pID": "961270897",
           "name": "解说"
@@ -1120,10 +1124,10 @@
       "title": "西甲联赛",
       "keyword": "01月04日21:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "皮斯胡安球场",
       "competitionName": "西甲",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000543887/576046_H169_sc.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/04/770J9TH5MMAS.jpg",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/09/27/6UROS3QNB1F8.png",
       "pkInfoTitle": "塞维利亚 vs 莱万特",
       "modifyTitle": "西甲联赛",
@@ -1211,7 +1215,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png",
       "pkInfoTitle": "托特纳姆热刺 vs 桑德兰",
       "modifyTitle": "英超联赛",
-      "presenters": "娄一晨 孙蕊",
+      "presenters": "娄一晨 刘越 孙蕊",
       "matchInfo": {
         "time": "01月04日23:00"
       },
@@ -1267,42 +1271,6 @@
       ]
     },
     {
-      "mgdbId": "120000542327",
-      "pID": "962099054",
-      "title": "英超联赛",
-      "keyword": "01月04日23:00",
-      "sportItemId": "1",
-      "matchStatus": "1",
-      "matchField": "克拉文农场",
-      "competitionName": "英超",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000542327/300989_H169_sc.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png",
-      "pkInfoTitle": "富勒姆 vs 利物浦",
-      "modifyTitle": "英超联赛",
-      "presenters": "苏东 黄健翔 程思钦",
-      "matchInfo": {
-        "time": "01月04日23:00"
-      },
-      "nodes": [
-        {
-          "pID": "962099054",
-          "name": "苏东 黄健翔 程思钦"
-        },
-        {
-          "pID": "962099042",
-          "name": "英文原声"
-        },
-        {
-          "pID": "962099039",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "962099048",
-          "name": "陈凯冬 何辉"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000542328",
       "pID": "962099025",
       "title": "英超联赛",
@@ -1331,6 +1299,42 @@
         {
           "pID": "962099002",
           "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000542327",
+      "pID": "962099054",
+      "title": "英超联赛",
+      "keyword": "01月04日23:15",
+      "sportItemId": "1",
+      "matchStatus": "1",
+      "matchField": "克拉文农场",
+      "competitionName": "英超",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000542327/300989_H169_sc.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png",
+      "pkInfoTitle": "富勒姆 vs 利物浦",
+      "modifyTitle": "英超联赛",
+      "presenters": "苏东 黄健翔 程思钦",
+      "matchInfo": {
+        "time": "01月04日23:15"
+      },
+      "nodes": [
+        {
+          "pID": "962099054",
+          "name": "苏东 黄健翔 程思钦"
+        },
+        {
+          "pID": "962099042",
+          "name": "英文原声"
+        },
+        {
+          "pID": "962099039",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "962099048",
+          "name": "陈凯冬 何辉"
         }
       ]
     },
