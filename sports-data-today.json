@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-01-07 08:31:11",
+  "updateTime": "2026-01-07 09:01:11",
   "data": [
     {
       "mgdbId": "120000564099",
@@ -264,7 +264,7 @@
       "title": "NBA常规赛",
       "keyword": "01月07日09:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "联邦快递球馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/06/770L2CHOP0NM.jpg",
@@ -292,7 +292,7 @@
       "title": "NBA常规赛",
       "keyword": "01月07日09:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "標靶中心",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/06/770L2CK6JH16.jpg",
@@ -320,7 +320,7 @@
       "title": "NBA常规赛",
       "keyword": "01月07日09:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "冰沙国王中心",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/06/770L2CEPQ9RK.jpg",
@@ -352,7 +352,7 @@
       "title": "卡林斯卡娅VS佩古拉 阿尼西莫娃出战",
       "keyword": "01月07日09:00",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/06/770L2FBJ84D5.png",
@@ -376,61 +376,33 @@
     },
     {
       "mgdbId": "120000564624",
-      "pID": "962141036",
+      "pID": "962141078",
       "title": "王祉怡、凡贤组合领衔出战",
       "keyword": "01月07日09:00",
       "sportItemId": "6",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "BWF",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/06/770L1SNNM72B.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "王祉怡、凡贤组合领衔出战",
       "modifyTitle": "马来西亚羽毛球公开赛第二日1/16决赛：王祉怡、凡贤组合领衔出战",
-      "presenters": "余博洋 鸿昆 孙宁智",
+      "presenters": "",
       "matchInfo": {
         "time": "01月07日09:00"
       },
       "nodes": [
         {
-          "pID": "962141036",
-          "name": "1号场"
-        },
-        {
           "pID": "962141078",
           "name": "2号场"
         },
         {
+          "pID": "962141036",
+          "name": "1号场"
+        },
+        {
           "pID": "962141102",
           "name": "3号场"
-        },
-        {
-          "pID": "962175122",
-          "name": "鸿昆"
-        },
-        {
-          "pID": "962175147",
-          "name": "鸿昆"
-        },
-        {
-          "pID": "962175178",
-          "name": "孙宁智"
-        },
-        {
-          "pID": "962175193",
-          "name": "孙宁智"
-        },
-        {
-          "pID": "962175206",
-          "name": "孙宁智"
-        },
-        {
-          "pID": "962175220",
-          "name": "余博洋"
-        },
-        {
-          "pID": "962175232",
-          "name": "鸿昆"
         }
       ]
     },
