@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-01-08 22:31:32",
+  "updateTime": "2026-01-08 23:01:44",
   "data": [
     {
       "mgdbId": "120000564095",
@@ -154,7 +154,7 @@
       "mgdbId": "120000542315",
       "pID": "962099650",
       "title": "英超联赛",
-      "keyword": "01���08日03:30",
+      "keyword": "01月08日03:30",
       "sportItemId": "1",
       "matchStatus": "2",
       "matchField": "克拉文农场",
@@ -165,7 +165,7 @@
       "modifyTitle": "英超联赛",
       "presenters": "刘畅 颜强 程思钦",
       "matchInfo": {
-        "time": "01���08日03:30"
+        "time": "01月08日03:30"
       },
       "nodes": [
         {
@@ -1022,7 +1022,7 @@
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/08/770MT8S1R3DE.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "王曼昱横扫大藤 梁靖崑、陈幸同晋级16强",
-      "modifyTitle": "WTT多哈冠军赛：男女单打1/16决赛",
+      "modifyTitle": "WTT多哈冠军���：男女单打1/16决赛",
       "presenters": "周雨 周冠达",
       "matchInfo": {
         "time": "01月08日15:30"
@@ -1048,8 +1048,8 @@
     },
     {
       "mgdbId": "120000564610",
-      "pID": "962129547",
-      "title": "雷佩凡PK徐思 周跃龙、蓝裕豪出战",
+      "pID": "962129225",
+      "title": "周跃龙、蓝裕豪出战 雷佩凡PK徐思",
       "keyword": "01月08日18:00",
       "sportItemId": "8",
       "matchStatus": "1",
@@ -1057,13 +1057,17 @@
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/08/770MU1I5BA3B.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "雷佩凡PK徐思 周跃龙、蓝裕豪出战",
-      "modifyTitle": "斯诺克德国大师赛资格赛64进32轮次：雷佩凡PK徐思 周跃龙、蓝裕豪出战",
+      "pkInfoTitle": "周跃龙、蓝裕豪出战 雷佩凡PK徐思",
+      "modifyTitle": "斯诺克德国大师赛资格赛64进32轮次：周跃龙、蓝裕豪出战 雷佩凡PK徐思",
       "presenters": "",
       "matchInfo": {
         "time": "01月08日18:00"
       },
       "nodes": [
+        {
+          "pID": "962129225",
+          "name": "8号桌"
+        },
         {
           "pID": "962129040",
           "name": "1号桌"
@@ -1091,10 +1095,6 @@
         {
           "pID": "962129547",
           "name": "7号桌"
-        },
-        {
-          "pID": "962129225",
-          "name": "8号桌"
         }
       ]
     },
