@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-01-08 20:31:32",
+  "updateTime": "2026-01-08 21:01:39",
   "data": [
     {
       "mgdbId": "120000564095",
@@ -153,7 +153,7 @@
     {
       "mgdbId": "120000542315",
       "pID": "962099650",
-      "title": "英超联赛",
+      "title": "英超联��",
       "keyword": "01月08日03:30",
       "sportItemId": "1",
       "matchStatus": "2",
@@ -780,7 +780,7 @@
       "title": "萨巴伦卡、莱巴金娜晋级",
       "keyword": "01月08日09:00",
       "sportItemId": "9",
-      "matchStatus": "2",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/08/770MTGTL58OR.jpg",
@@ -804,7 +804,7 @@
     },
     {
       "mgdbId": "120000564625",
-      "pID": "962191262",
+      "pID": "962141216",
       "title": "石宇奇、陈雨菲晋级 圣坛组合出战",
       "keyword": "01月08日09:00",
       "sportItemId": "6",
@@ -815,26 +815,18 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "石宇奇、陈雨菲晋级 圣坛组合出战",
       "modifyTitle": "马来西亚羽毛球公开赛第三日1/8决赛：石宇奇、陈雨菲晋级 圣坛组合出战",
-      "presenters": "孙宁智 鸿昆 余博洋",
+      "presenters": "鸿昆 余博洋 孙宁智",
       "matchInfo": {
         "time": "01月08日09:00"
       },
       "nodes": [
         {
-          "pID": "962191262",
-          "name": "孙宁智"
-        },
-        {
-          "pID": "962141285",
-          "name": "2号场"
+          "pID": "962141216",
+          "name": "1号场"
         },
         {
           "pID": "962141324",
           "name": "3号场"
-        },
-        {
-          "pID": "962141216",
-          "name": "1号场"
         },
         {
           "pID": "962191129",
@@ -867,6 +859,10 @@
         {
           "pID": "962191187",
           "name": "余博洋"
+        },
+        {
+          "pID": "962191262",
+          "name": "孙宁智"
         }
       ]
     },
@@ -1027,11 +1023,28 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "王曼昱横扫大藤 梁靖崑、陈幸同晋级16强",
       "modifyTitle": "WTT多哈冠军赛：男女单打1/16决赛",
-      "presenters": "",
+      "presenters": "周雨 周冠达",
       "matchInfo": {
         "time": "01月08日15:30"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "961998097",
+          "name": "周雨 周冠达"
+        },
+        {
+          "pID": "961998074",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "962162385",
+          "name": "智能字幕"
+        },
+        {
+          "pID": "962162016",
+          "name": "AI轨迹实时追踪"
+        }
+      ]
     },
     {
       "mgdbId": "120000564610",
