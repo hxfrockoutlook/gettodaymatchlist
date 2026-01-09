@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-01-09 10:01:10",
+  "updateTime": "2026-01-09 10:31:09",
   "data": [
     {
       "mgdbId": "120000543776",
@@ -145,16 +145,16 @@
     {
       "mgdbId": "120000564665",
       "pID": "962167357",
-      "title": "伊埃拉出战 王欣瑜晋级",
+      "title": "约维奇PK克斯特拉斯 王欣瑜晋级",
       "keyword": "01月09日06:30",
       "sportItemId": "9",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/09/770NQMK8HQT1.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/09/770NR6GA75VA.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "伊埃拉出战 王欣瑜晋级",
-      "modifyTitle": "WTA奥克兰站第五日：伊埃拉出战 王欣瑜晋级",
+      "pkInfoTitle": "约维奇PK克斯特拉斯 王欣瑜晋级",
+      "modifyTitle": "WTA奥克兰站第五日：约维奇PK克斯特拉斯 王欣瑜晋级",
       "presenters": "",
       "matchInfo": {
         "time": "01月09日06:30"
@@ -312,22 +312,26 @@
     },
     {
       "mgdbId": "120000564626",
-      "pID": "962141358",
+      "pID": "962257419",
       "title": "陈雨菲2-0因达农 石宇奇PK李卓耀",
       "keyword": "01月09日09:00",
       "sportItemId": "6",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "BWF",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/08/770MU5L60R5C.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/09/770NR742306N.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "陈雨菲2-0因达农 石宇奇PK李卓耀",
       "modifyTitle": "马来西亚羽毛球公开赛第四日1/4决赛：陈雨菲2-0因达农 石宇奇PK李卓耀",
-      "presenters": "",
+      "presenters": "鸿昆",
       "matchInfo": {
         "time": "01月09日09:00"
       },
       "nodes": [
+        {
+          "pID": "962257419",
+          "name": "鸿昆"
+        },
         {
           "pID": "962141358",
           "name": "1号场"
@@ -459,6 +463,45 @@
         {
           "pID": "962162083",
           "name": "AI轨迹实时追踪"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000564863",
+      "title": "傅家俊PK许医尘 白雨露、吴安仪出战",
+      "keyword": "01月09日18:00",
+      "sportItemId": "8",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "斯诺克",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
+      "pkInfoTitle": "傅家俊PK许医尘 白雨露、吴安仪出战",
+      "modifyTitle": "威尔士公开赛资格赛128进96轮次：傅家俊PK许医尘 白雨露、吴安仪出战",
+      "presenters": "",
+      "matchInfo": {
+        "time": "01月09日18:00"
+      },
+      "nodes": []
+    },
+    {
+      "mgdbId": "300000001914",
+      "pID": "962261808",
+      "title": "篮球公园：王治郅入选FIBA名人堂",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "CBA",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/09/770NR6UASBD7.png",
+      "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/02/770HDE6N6HQ1.png",
+      "pkInfoTitle": "篮球公园：王治郅入选FIBA名人堂",
+      "modifyTitle": "篮球公园：王治郅入选FIBA名人堂",
+      "presenters": "",
+      "matchInfo": {},
+      "nodes": [
+        {
+          "pID": "962261808",
+          "name": "CCTV5"
         }
       ]
     },
@@ -768,6 +811,7 @@
     },
     {
       "mgdbId": "120000564093",
+      "pID": "962261916",
       "title": "U23亚洲杯小组赛",
       "keyword": "01月09日22:00",
       "sportItemId": "1",
@@ -778,7 +822,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2022/5/24/1000000007881064a3a2.png",
       "pkInfoTitle": "吉尔吉斯斯坦U23 vs 越南U23",
       "modifyTitle": "U23亚洲杯小组赛",
-      "presenters": "",
+      "presenters": "张昊泽",
       "matchInfo": {
         "time": "01月09日22:00"
       },
@@ -786,6 +830,10 @@
         {
           "pID": "962261916",
           "name": "张昊泽"
+        },
+        {
+          "pID": "962261958",
+          "name": "赛场原声"
         }
       ]
     },
