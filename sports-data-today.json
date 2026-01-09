@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-01-09 22:31:15",
+  "updateTime": "2026-01-09 23:01:15",
   "data": [
     {
       "mgdbId": "120000543776",
@@ -306,7 +306,7 @@
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/08/770MSCJM2UFO.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/1/8/10000000139610688b4e.png",
       "pkInfoTitle": "世界帆船对抗巡回赛总决赛1/4决赛",
-      "modifyTitle": "世界帆船对抗巡回赛总决赛1/4决赛",
+      "modifyTitle": "世界帆船对抗巡回赛总决��1/4决赛",
       "presenters": "",
       "matchInfo": {
         "time": "01月09日09:00"
@@ -388,7 +388,7 @@
       "title": "王祉怡2-0轻取 圣坛、凤凰晋级四强",
       "keyword": "01月09日15:00",
       "sportItemId": "6",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "BWF",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/09/770NR02N5GBB.png",
@@ -472,8 +472,8 @@
     },
     {
       "mgdbId": "120000564863",
-      "pID": "962264183",
-      "title": "傅家俊逆转晋级 吴安仪出战",
+      "pID": "962264281",
+      "title": "刘文炜vs巩晨智 傅家俊逆转晋级",
       "keyword": "01月09日18:00",
       "sportItemId": "8",
       "matchStatus": "1",
@@ -481,32 +481,20 @@
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/09/770NQM8QK5DF.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "傅家俊逆转晋级 吴安仪出战",
-      "modifyTitle": "威尔士公开赛资格赛128进96轮次：傅家俊逆转晋级 吴安仪出战",
+      "pkInfoTitle": "刘文炜vs巩晨智 傅家俊逆转晋级",
+      "modifyTitle": "威尔士公开赛资格赛128进96轮次：刘文炜vs巩晨智 傅家俊逆转晋级",
       "presenters": "孙嘉星",
       "matchInfo": {
         "time": "01月09日18:00"
       },
       "nodes": [
         {
-          "pID": "962264684",
-          "name": "解说"
-        },
-        {
-          "pID": "962264087",
-          "name": "1号桌"
-        },
-        {
-          "pID": "962264183",
-          "name": "2号桌"
+          "pID": "962264281",
+          "name": "4号桌"
         },
         {
           "pID": "962264223",
           "name": "3号桌"
-        },
-        {
-          "pID": "962264281",
-          "name": "4号桌"
         },
         {
           "pID": "962264375",
@@ -521,8 +509,16 @@
           "name": "7号桌"
         },
         {
-          "pID": "962264583",
-          "name": "8号桌"
+          "pID": "962264087",
+          "name": "1号桌"
+        },
+        {
+          "pID": "962264684",
+          "name": "解说"
+        },
+        {
+          "pID": "962264183",
+          "name": "2号桌"
         }
       ]
     },
@@ -581,14 +577,14 @@
     },
     {
       "mgdbId": "120000563749",
-      "pID": "962178145",
+      "pID": "962302854",
       "title": "WCBA常规赛A组",
       "keyword": "01月09日19:30",
       "sportItemId": "2",
       "matchStatus": "2",
       "matchField": "",
       "competitionName": "WCBA",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000563749/202512040537_154607_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000563749/202601092230_658195_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/10/20/100000000535106f44f7.png",
       "pkInfoTitle": "武汉盛帆黄鹤 VS 石家庄英励",
       "modifyTitle": "WCBA常规赛A组",
@@ -641,7 +637,7 @@
     },
     {
       "mgdbId": "120000564217",
-      "pID": "962152260",
+      "pID": "962303678",
       "title": "NBL常规赛",
       "keyword": "01月09日19:30",
       "sportItemId": "2",
@@ -657,6 +653,10 @@
         "time": "01月09日19:30"
       },
       "nodes": [
+        {
+          "pID": "962303678",
+          "name": "2026NBL全国男子篮球联赛常规赛第8轮全场集锦：安徽皖江龙vs张家口体文旅"
+        },
         {
           "pID": "962152260",
           "name": "解说"
