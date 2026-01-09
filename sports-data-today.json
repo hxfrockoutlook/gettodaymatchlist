@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-01-09 15:01:08",
+  "updateTime": "2026-01-09 15:31:09",
   "data": [
     {
       "mgdbId": "120000543776",
@@ -295,34 +295,6 @@
       ]
     },
     {
-      "mgdbId": "120000564619",
-      "pID": "962140648",
-      "title": "佩古拉出战 萨巴伦卡2-0凯斯",
-      "keyword": "01月09日09:00",
-      "sportItemId": "9",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "WTA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/09/770NOHFBR230.png",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "佩古拉出战 萨巴伦卡2-0凯斯",
-      "modifyTitle": "WTA布里斯班站第六日���佩古拉出战 萨巴伦卡2-0凯斯 莱巴出局",
-      "presenters": "",
-      "matchInfo": {
-        "time": "01月09日09:00"
-      },
-      "nodes": [
-        {
-          "pID": "962140648",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "962140760",
-          "name": "英文原声"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000564786",
       "pID": "962200257",
       "title": "世界帆船对抗巡回赛总决赛1/4决赛",
@@ -334,7 +306,7 @@
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/08/770MSCJM2UFO.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/1/8/10000000139610688b4e.png",
       "pkInfoTitle": "世界帆船对抗巡回赛总决赛1/4决赛",
-      "modifyTitle": "世界帆船对抗巡回赛总决赛1/4决赛",
+      "modifyTitle": "世界帆船对抗巡回赛总决��1/4决赛",
       "presenters": "",
       "matchInfo": {
         "time": "01月09日09:00"
@@ -416,7 +388,7 @@
       "title": "王祉怡迎战瓦尔达 圣坛、凤凰冲四强",
       "keyword": "01月09日15:00",
       "sportItemId": "6",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "BWF",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/09/770NROHBLFNH.png",
@@ -448,7 +420,7 @@
       "title": "林诗栋迎战杜达 周启豪PK张本智和",
       "keyword": "01月09日15:30",
       "sportItemId": "7",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/09/770NPF5LMB7C.jpg",
@@ -475,6 +447,34 @@
         {
           "pID": "962162083",
           "name": "AI轨迹实时追踪"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000564619",
+      "pID": "962140648",
+      "title": "小米拉出战 萨巴伦卡2-0凯斯",
+      "keyword": "01月09日09:00",
+      "sportItemId": "9",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "WTA",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/09/770NP466CLFK.png",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
+      "pkInfoTitle": "小米拉出战 萨巴伦卡2-0凯斯",
+      "modifyTitle": "WTA布里斯班站第六日：小米拉出战 萨巴伦卡2-0凯斯 莱巴出局",
+      "presenters": "",
+      "matchInfo": {
+        "time": "01月09日09:00"
+      },
+      "nodes": [
+        {
+          "pID": "962140648",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "962140760",
+          "name": "英文原声"
         }
       ]
     },
