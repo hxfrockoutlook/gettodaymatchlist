@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-01-09 21:01:11",
+  "updateTime": "2026-01-09 21:31:19",
   "data": [
     {
       "mgdbId": "120000543776",
@@ -306,7 +306,7 @@
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/08/770MSCJM2UFO.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/1/8/10000000139610688b4e.png",
       "pkInfoTitle": "世界帆船对抗巡回赛总决赛1/4决赛",
-      "modifyTitle": "世界帆船对抗巡回赛总决���1/4决赛",
+      "modifyTitle": "世界帆船对抗巡回赛总决赛1/4���赛",
       "presenters": "",
       "matchInfo": {
         "time": "01月09日09:00"
@@ -472,7 +472,7 @@
     },
     {
       "mgdbId": "120000564863",
-      "pID": "962264684",
+      "pID": "962264183",
       "title": "傅家俊逆转晋级 吴安仪出战",
       "keyword": "01月09日18:00",
       "sportItemId": "8",
@@ -489,16 +489,20 @@
       },
       "nodes": [
         {
+          "pID": "962264183",
+          "name": "2号桌"
+        },
+        {
+          "pID": "962264583",
+          "name": "8号桌"
+        },
+        {
           "pID": "962264684",
           "name": "解说"
         },
         {
           "pID": "962264087",
           "name": "1号桌"
-        },
-        {
-          "pID": "962264183",
-          "name": "2号桌"
         },
         {
           "pID": "962264223",
@@ -519,10 +523,6 @@
         {
           "pID": "962264515",
           "name": "7号桌"
-        },
-        {
-          "pID": "962264583",
-          "name": "8号桌"
         }
       ]
     },
@@ -553,7 +553,7 @@
       "title": "WCBA常规赛A组",
       "keyword": "01月09日19:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "WCBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/08/770MSCUENKS9.png",
@@ -577,7 +577,7 @@
       "title": "WCBA常规赛A组",
       "keyword": "01月09日19:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "WCBA",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000563749/202512040537_154607_H169_1080.webp",
@@ -605,7 +605,7 @@
       "title": "WCBA常规赛A组",
       "keyword": "01月09日19:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "WCBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/08/770MSD1LMSCK.png",
@@ -629,7 +629,7 @@
       "title": "NBL常规赛",
       "keyword": "01月09日19:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBL",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000564217/202512171202_120467_H169_1080.webp",
@@ -685,7 +685,7 @@
       "title": "NBL常规赛",
       "keyword": "01月09日19:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBL",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/08/770MRRH7H2BU.jpg",
@@ -781,11 +781,11 @@
     },
     {
       "mgdbId": "120000562203",
-      "pID": "961995429",
+      "pID": "962039487",
       "title": "CBA常规赛第12轮",
       "keyword": "01月09日19:35",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "丹阳市体育馆",
       "competitionName": "CBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/08/770MRRCC00MP.png",
@@ -797,6 +797,10 @@
         "time": "01月09日19:35"
       },
       "nodes": [
+        {
+          "pID": "962039487",
+          "name": "起伏中寻求破局的勇气！五个关键词带你重温中国篮球的2025年"
+        },
         {
           "pID": "961995429",
           "name": "图文直播"
@@ -833,7 +837,7 @@
       "title": "CBA常规赛第12轮",
       "keyword": "01月09日19:35",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "黄龙体育中心体育馆",
       "competitionName": "CBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/08/770MRP9ESF6D.png",
