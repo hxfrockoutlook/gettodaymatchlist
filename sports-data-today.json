@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-01-09 20:31:16",
+  "updateTime": "2026-01-09 21:01:11",
   "data": [
     {
       "mgdbId": "120000543776",
@@ -306,7 +306,7 @@
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/08/770MSCJM2UFO.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/1/8/10000000139610688b4e.png",
       "pkInfoTitle": "世界帆船对抗巡回赛总决赛1/4决赛",
-      "modifyTitle": "世界帆船��抗巡回赛总决赛1/4决赛",
+      "modifyTitle": "世界帆船对抗巡回赛总决���1/4决赛",
       "presenters": "",
       "matchInfo": {
         "time": "01月09日09:00"
@@ -409,15 +409,15 @@
     {
       "mgdbId": "120000564510",
       "pID": "961998181",
-      "title": "梁靖崑迎战陈垣宇 户上隼辅 VS 张禹珍",
+      "title": "梁靖崑迎战陈垣宇 蒯曼3-1早田希娜",
       "keyword": "01月09日15:30",
       "sportItemId": "7",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/09/770NQIQMIFIM.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/09/770NQN3B81G5.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "梁靖崑迎战陈垣宇 户上隼辅 VS 张禹珍",
+      "pkInfoTitle": "梁靖崑迎战陈垣宇 蒯曼3-1早田希娜",
       "modifyTitle": "WTT多哈冠军赛：男女单打1/8决赛",
       "presenters": "刘国正 周泽昊",
       "matchInfo": {
@@ -472,25 +472,33 @@
     },
     {
       "mgdbId": "120000564863",
-      "pID": "962264454",
-      "title": "傅家俊逆转晋级 吴安仪稍后出战",
+      "pID": "962264684",
+      "title": "傅家俊逆转晋级 吴安仪出战",
       "keyword": "01月09日18:00",
       "sportItemId": "8",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "斯诺克",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/09/770NR88KG3JS.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/09/770NQM8QK5DF.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "傅家俊逆转晋级 吴安仪稍后出战",
-      "modifyTitle": "威尔士公开赛资格赛128进96轮次：傅家俊逆转晋级 吴安仪稍后出战",
-      "presenters": "",
+      "pkInfoTitle": "傅家俊逆转晋级 吴安仪出战",
+      "modifyTitle": "威尔士公开赛资格赛128进96轮次：傅家俊逆转晋级 吴安仪出战",
+      "presenters": "孙嘉星",
       "matchInfo": {
         "time": "01月09日18:00"
       },
       "nodes": [
         {
-          "pID": "962264454",
-          "name": "6号桌"
+          "pID": "962264684",
+          "name": "解说"
+        },
+        {
+          "pID": "962264087",
+          "name": "1号桌"
+        },
+        {
+          "pID": "962264183",
+          "name": "2号桌"
         },
         {
           "pID": "962264223",
@@ -501,20 +509,20 @@
           "name": "4号桌"
         },
         {
-          "pID": "962264183",
-          "name": "2号桌"
+          "pID": "962264375",
+          "name": "5号桌"
+        },
+        {
+          "pID": "962264454",
+          "name": "6号桌"
         },
         {
           "pID": "962264515",
           "name": "7号桌"
         },
         {
-          "pID": "962264087",
-          "name": "1号桌"
-        },
-        {
-          "pID": "962264375",
-          "name": "5号桌"
+          "pID": "962264583",
+          "name": "8号桌"
         }
       ]
     },
