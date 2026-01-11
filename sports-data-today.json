@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-01-11 20:32:06",
+  "updateTime": "2026-01-11 21:02:07",
   "data": [
     {
       "mgdbId": "120000564088",
@@ -528,10 +528,10 @@
       "title": "总决赛王者争夺战",
       "keyword": "01月11日10:00",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "呼叫钓坛王者",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/11/770PK04NS4CS.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/11/770PKRENEB4N.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/12/15/1000000013861061b14e.png",
       "pkInfoTitle": "总决赛王者争夺战",
       "modifyTitle": "总决赛王者争夺战",
@@ -540,10 +540,6 @@
         "time": "01月11日10:00"
       },
       "nodes": [
-        {
-          "pID": "962336375",
-          "name": "解说间视角"
-        },
         {
           "pID": "961199397",
           "name": "官方解说"
@@ -571,6 +567,10 @@
         {
           "pID": "962336620",
           "name": "25-26赛季NBA常规赛全场集锦：黄蜂150:95爵士（20260111）"
+        },
+        {
+          "pID": "962336620",
+          "name": "25-26赛季NBA常���赛全场集锦：黄蜂150:95爵士（20260111）"
         },
         {
           "pID": "962112259",
@@ -1464,7 +1464,7 @@
       "title": "西甲联赛",
       "keyword": "01月11日21:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "巴列卡斯球场",
       "competitionName": "西甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000543383/859733_H169_sc.jpg",
@@ -1515,6 +1515,30 @@
         {
           "pID": "962171352",
           "name": "肖恩·墨菲 vs 吴宜泽"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000564884",
+      "pID": "962284978",
+      "title": "马术场地障碍世界杯西欧联赛",
+      "keyword": "01月11日21:00",
+      "sportItemId": "8",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "国际马联场地障碍世界杯",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/1/13/100000001010106d9f87.jpg",
+      "pkInfoTitle": "马术场地障碍世界杯西欧联赛",
+      "modifyTitle": "国际马联场地障碍世界杯",
+      "presenters": "",
+      "matchInfo": {
+        "time": "01月11日21:00"
+      },
+      "nodes": [
+        {
+          "pID": "962284978",
+          "name": "清流播出"
         }
       ]
     },
