@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-01-11 15:02:02",
+  "updateTime": "2026-01-11 15:31:54",
   "data": [
     {
       "mgdbId": "120000564088",
@@ -581,10 +581,6 @@
           "name": "25-26赛季NBA常规赛全场集锦：黄蜂150:95爵士（20260111）"
         },
         {
-          "pID": "962336620",
-          "name": "25-26赛季NBA常��赛全场集锦：黄蜂150:95爵士（20260111）"
-        },
-        {
           "pID": "962112259",
           "name": "刘沛元"
         },
@@ -675,38 +671,6 @@
         {
           "pID": "962129141",
           "name": "解说"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000564621",
-      "pID": "962140669",
-      "title": "WTA布里斯班站决赛：萨巴伦卡冲冠",
-      "keyword": "01月11日14:00",
-      "sportItemId": "9",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "WTA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/10/770OMI3TV1QM.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "萨巴伦卡vs科斯秋克",
-      "modifyTitle": "WTA布里斯班站决赛：萨巴伦卡冲冠",
-      "presenters": "单文强",
-      "matchInfo": {
-        "time": "01月11日14:00"
-      },
-      "nodes": [
-        {
-          "pID": "962140669",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "962140772",
-          "name": "英文原声"
-        },
-        {
-          "pID": "962322842",
-          "name": "单文强"
         }
       ]
     },
@@ -1421,7 +1385,7 @@
       "competitionName": "英女超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000564868/202601091015_962650_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/10/10/6UU49F270LD4.png",
-      "pkInfoTitle": "阿斯顿维拉女足vs布莱顿女足",
+      "pkInfoTitle": "阿斯顿维拉女足vs布莱��女足",
       "modifyTitle": "英女超",
       "presenters": "刘焕",
       "matchInfo": {
@@ -1875,6 +1839,38 @@
         {
           "pID": "962203804",
           "name": "AI轨迹实时追踪"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000564621",
+      "pID": "120000564621",
+      "title": "正播布里斯班决赛 萨巴力争卫冕",
+      "keyword": "01月11日14:00",
+      "sportItemId": "",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "WTA",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/10/770OMI3TV1QM.jpg",
+      "competitionLogo": "",
+      "pkInfoTitle": "正播布里斯班决赛 萨巴力争卫冕",
+      "modifyTitle": "正播布里斯班决赛 萨巴力争卫冕",
+      "presenters": "",
+      "matchInfo": {
+        "time": "01月11日14:00"
+      },
+      "nodes": [
+        {
+          "pID": "962140669",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "962140772",
+          "name": "英文原声"
+        },
+        {
+          "pID": "962322842",
+          "name": "单文强"
         }
       ]
     }
