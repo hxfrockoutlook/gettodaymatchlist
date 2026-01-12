@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-01-13 07:01:25",
+  "updateTime": "2026-01-13 07:31:14",
   "data": [
     {
       "mgdbId": "120000564085",
@@ -208,11 +208,11 @@
     },
     {
       "mgdbId": "120000565200",
-      "pID": "962335639",
+      "pID": "962335932",
       "title": "中国七位球员资格赛首轮出战！",
       "keyword": "01月13日07:00",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "澳大利亚网球公开赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/13/770RG77M9VLR.jpg",
@@ -224,6 +224,14 @@
         "time": "01月13日07:00"
       },
       "nodes": [
+        {
+          "pID": "962335932",
+          "name": "13号球场"
+        },
+        {
+          "pID": "962336026",
+          "name": "17号球场"
+        },
         {
           "pID": "962335639",
           "name": "KIA球场"
@@ -261,10 +269,6 @@
           "name": "12号球场"
         },
         {
-          "pID": "962335932",
-          "name": "13号球场"
-        },
-        {
           "pID": "962335937",
           "name": "14号球场"
         },
@@ -275,10 +279,6 @@
         {
           "pID": "962335983",
           "name": "16号球场"
-        },
-        {
-          "pID": "962336026",
-          "name": "17号球场"
         },
         {
           "pID": "962336028",
@@ -517,7 +517,7 @@
       "competitionName": "澳大利亚网球公开赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/13/770RG7G9B6B3.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/1/10/1000000010711060bffe.jpeg",
-      "pkInfoTitle": "Bai Zhuoxuan vs 科尔涅耶娃",
+      "pkInfoTitle": "白卓璇 vs 科尔涅耶娃",
       "modifyTitle": "澳大利亚网球公开赛资格赛：白卓璇 vs 科尔涅娃",
       "presenters": "佟艺",
       "matchInfo": {
