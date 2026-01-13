@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-01-13 10:01:15",
+  "updateTime": "2026-01-13 10:31:14",
   "data": [
     {
       "mgdbId": "120000564085",
@@ -225,12 +225,16 @@
       },
       "nodes": [
         {
-          "pID": "962335900",
-          "name": "8号球场"
+          "pID": "962336223",
+          "name": "11号球场"
         },
         {
           "pID": "962335850",
           "name": "ANZ球场"
+        },
+        {
+          "pID": "962335900",
+          "name": "8号球场"
         },
         {
           "pID": "962335983",
@@ -255,10 +259,6 @@
         {
           "pID": "962335894",
           "name": "7号球场"
-        },
-        {
-          "pID": "962336223",
-          "name": "11号球场"
         },
         {
           "pID": "962335925",
@@ -288,14 +288,14 @@
     },
     {
       "mgdbId": "120000547098",
-      "pID": "962276203",
+      "pID": "962367195",
       "title": "NBA常规赛",
       "keyword": "01月13日08:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "火箭信贷球馆",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/12/770QGDJARUVK.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/13/770RFKDDR1T9.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "爵士VS骑士",
       "modifyTitle": "NBA常规赛",
@@ -304,6 +304,10 @@
         "time": "01月13日08:00"
       },
       "nodes": [
+        {
+          "pID": "962367195",
+          "name": "迫近分差！加兰反击追身三分苦苦追分"
+        },
         {
           "pID": "962276203",
           "name": "贾磊"
@@ -373,16 +377,16 @@
     {
       "mgdbId": "120000564879",
       "pID": "962284003",
-      "title": "施耐德vs费尔南德斯 安德列娃领衔",
+      "title": "施耐德2-0费尔南德斯 安德列娃领衔",
       "keyword": "01月13日08:30",
       "sportItemId": "9",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/12/770QHKJNHOD8.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/13/770RFJS411Q2.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "施耐德vs费尔南德斯 安德列娃领衔",
-      "modifyTitle": "WTA阿德莱德站第二日：施耐德vs费尔南德斯 安德列娃领衔",
+      "pkInfoTitle": "施耐德2-0费尔南德斯 安德列娃领衔",
+      "modifyTitle": "WTA阿德莱德站第二日：施耐德2-0费尔南德斯 安德列娃领衔",
       "presenters": "",
       "matchInfo": {
         "time": "01月13日08:30"
@@ -510,9 +514,9 @@
       "mgdbId": "120000565252",
       "pID": "962359281",
       "title": "澳大利亚网球公开赛资格赛：齐里科 vs 袁悦",
-      "keyword": "01月13日10:00",
+      "keyword": "01月13日10:30",
       "sportItemId": "9",
-      "matchStatus": "1",
+      "matchStatus": "0",
       "matchField": "",
       "competitionName": "澳大利亚网球公开赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/13/770RG7DGJOO1.jpg",
@@ -521,7 +525,7 @@
       "modifyTitle": "澳大利亚网球公开赛资格赛：齐里科 vs 袁悦",
       "presenters": "单文强",
       "matchInfo": {
-        "time": "01月13日10:00"
+        "time": "01月13日10:30"
       },
       "nodes": [
         {
