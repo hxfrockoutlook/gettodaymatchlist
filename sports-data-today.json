@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-01-14 07:01:23",
+  "updateTime": "2026-01-14 07:31:48",
   "data": [
     {
       "mgdbId": "120000564081",
@@ -208,11 +208,11 @@
     },
     {
       "mgdbId": "120000565201",
-      "pID": "962336709",
+      "pID": "962336744",
       "title": "资格赛第三日全场次",
       "keyword": "01月14日07:00",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "澳网",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/13/770RFTTH1IBC.jpg",
@@ -225,12 +225,16 @@
       },
       "nodes": [
         {
-          "pID": "962336858",
-          "name": "13号球场"
+          "pID": "962336744",
+          "name": "ANZ球场"
         },
         {
           "pID": "962373611",
           "name": "马烨欣 vs 凯莉耶娃（佟艺）"
+        },
+        {
+          "pID": "962336858",
+          "name": "13号球场"
         },
         {
           "pID": "962336719",
@@ -239,10 +243,6 @@
         {
           "pID": "962336709",
           "name": "1573球场"
-        },
-        {
-          "pID": "962336744",
-          "name": "ANZ球场"
         },
         {
           "pID": "962336756",
@@ -312,7 +312,7 @@
       "title": "澳大利亚网球公开赛资格赛：凯莉耶娃 vs 马烨欣",
       "keyword": "01月14日07:00",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "澳网",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/13/770RFTL3PP12.jpg",
