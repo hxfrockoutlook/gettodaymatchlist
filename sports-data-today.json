@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-01-13 09:31:14",
+  "updateTime": "2026-01-13 10:01:15",
   "data": [
     {
       "mgdbId": "120000564085",
@@ -233,6 +233,10 @@
           "name": "ANZ球场"
         },
         {
+          "pID": "962335983",
+          "name": "16号球场"
+        },
+        {
           "pID": "962335639",
           "name": "KIA球场"
         },
@@ -271,10 +275,6 @@
         {
           "pID": "962335955",
           "name": "15号球场"
-        },
-        {
-          "pID": "962335983",
-          "name": "16号球场"
         },
         {
           "pID": "962336026",
@@ -402,7 +402,7 @@
       "mgdbId": "120000565286",
       "pID": "962335900",
       "title": "澳大利亚网球公开赛资格赛：吴易昺 vs 克鲁格",
-      "keyword": "01月13日08:40",
+      "keyword": "01月13日08:45",
       "sportItemId": "9",
       "matchStatus": "1",
       "matchField": "",
@@ -413,7 +413,7 @@
       "modifyTitle": "澳大利亚网球公开赛资格赛：吴易昺 vs 克鲁格",
       "presenters": "",
       "matchInfo": {
-        "time": "01月13日08:40"
+        "time": "01月13日08:45"
       },
       "nodes": [
         {
@@ -426,7 +426,7 @@
       "mgdbId": "120000565296",
       "pID": "962359229",
       "title": "澳大利亚网球公开赛资格赛：黄泽林 vs 布朗谢",
-      "keyword": "01月13日08:40",
+      "keyword": "01月13日09:15",
       "sportItemId": "9",
       "matchStatus": "1",
       "matchField": "",
@@ -437,7 +437,7 @@
       "modifyTitle": "澳大利亚网球公开赛资格赛：黄泽林 vs 布朗谢",
       "presenters": "单文强",
       "matchInfo": {
-        "time": "01月13日08:40"
+        "time": "01月13日09:15"
       },
       "nodes": [
         {
@@ -479,12 +479,40 @@
       ]
     },
     {
+      "mgdbId": "120000565266",
+      "pID": "962359322",
+      "title": "澳大利亚网球公开赛资格赛：白卓璇 vs 科尔涅娃",
+      "keyword": "01月13日09:50",
+      "sportItemId": "9",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "澳大利亚网球公开赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/13/770RG7G9B6B3.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/1/10/1000000010711060bffe.jpeg",
+      "pkInfoTitle": "白卓璇 vs 科尔涅娃",
+      "modifyTitle": "澳大利亚网球公开赛资格赛：白卓璇 vs 科尔涅娃",
+      "presenters": "佟艺",
+      "matchInfo": {
+        "time": "01月13日09:50"
+      },
+      "nodes": [
+        {
+          "pID": "962359322",
+          "name": "佟艺"
+        },
+        {
+          "pID": "962335983",
+          "name": "16号球场"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000565252",
       "pID": "962359281",
       "title": "澳大利亚网球公开赛资格赛：齐里科 vs 袁悦",
       "keyword": "01月13日10:00",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "澳大利亚网球公开赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/13/770RG7DGJOO1.jpg",
@@ -503,34 +531,6 @@
         {
           "pID": "962335900",
           "name": "8号球场"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000565266",
-      "pID": "962359322",
-      "title": "澳大利亚网球公开赛资格赛：白卓璇 vs 科尔涅娃",
-      "keyword": "01月13日10:00",
-      "sportItemId": "9",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "澳大利亚网球公开赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/13/770RG7G9B6B3.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/1/10/1000000010711060bffe.jpeg",
-      "pkInfoTitle": "白卓璇 vs 科尔涅娃",
-      "modifyTitle": "澳大利亚网球公开赛资格赛：白卓璇 vs 科尔涅娃",
-      "presenters": "佟艺",
-      "matchInfo": {
-        "time": "01月13日10:00"
-      },
-      "nodes": [
-        {
-          "pID": "962359322",
-          "name": "佟艺"
-        },
-        {
-          "pID": "962335983",
-          "name": "16号球场"
         }
       ]
     },
