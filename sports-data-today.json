@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-01-13 14:31:20",
+  "updateTime": "2026-01-13 15:01:19",
   "data": [
     {
       "mgdbId": "120000564085",
@@ -383,34 +383,6 @@
       ]
     },
     {
-      "mgdbId": "120000564879",
-      "pID": "962284003",
-      "title": "乔恩特2-0肯宁 安德列娃领衔",
-      "keyword": "01月13日08:30",
-      "sportItemId": "9",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "WTA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/13/770RD2O08LBR.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "乔恩特2-0肯宁 安德列娃领衔",
-      "modifyTitle": "WTA阿德莱德站第二日：施耐德2-0费尔南德斯 安德列娃领衔",
-      "presenters": "",
-      "matchInfo": {
-        "time": "01月13日08:30"
-      },
-      "nodes": [
-        {
-          "pID": "962284003",
-          "name": "清流"
-        },
-        {
-          "pID": "962284068",
-          "name": "英文原声"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000565286",
       "pID": "962335900",
       "title": "澳大利亚网球公开赛资格赛：吴易昺 2-0 克鲁格",
@@ -596,7 +568,7 @@
     },
     {
       "mgdbId": "120000547103",
-      "pID": "962370914",
+      "pID": "962371102",
       "title": "NBA常规赛",
       "keyword": "01月13日11:30",
       "sportItemId": "2",
@@ -613,8 +585,8 @@
       },
       "nodes": [
         {
-          "pID": "962370914",
-          "name": "能量满格回来收比赛！哈登外线强拔两记三分打停黄蜂"
+          "pID": "962371102",
+          "name": "25/26赛季NBA常规赛全场集锦：黄蜂109:117快船（20260113）"
         },
         {
           "pID": "962277081",
@@ -674,9 +646,9 @@
       "mgdbId": "120000565219",
       "pID": "962359371",
       "title": "澳大利亚网球公开赛资格赛：塔格尔 vs 高馨妤",
-      "keyword": "01月13日15:00",
+      "keyword": "01月13日14:40",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "澳大利亚网球公开赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/13/770RG7N216EC.jpg",
@@ -685,7 +657,7 @@
       "modifyTitle": "澳大利亚网球公开赛资格赛：塔格尔 vs 高馨妤",
       "presenters": "李宁",
       "matchInfo": {
-        "time": "01月13日15:00"
+        "time": "01月13日14:40"
       },
       "nodes": [
         {
@@ -695,6 +667,34 @@
         {
           "pID": "962335955",
           "name": "15号球场"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000564879",
+      "pID": "962284003",
+      "title": "WTA阿德莱德站第二日",
+      "keyword": "01月13日17:30",
+      "sportItemId": "9",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "WTA",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/13/770RD2O08LBR.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
+      "pkInfoTitle": "WTA阿德莱德站第二日",
+      "modifyTitle": "WTA阿德莱德站第二日：施耐德2-0费尔南德斯 安德列娃领衔",
+      "presenters": "",
+      "matchInfo": {
+        "time": "01月13日17:30"
+      },
+      "nodes": [
+        {
+          "pID": "962284003",
+          "name": "清流"
+        },
+        {
+          "pID": "962284068",
+          "name": "英文原声"
         }
       ]
     },
