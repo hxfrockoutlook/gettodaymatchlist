@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-01-13 09:01:23",
+  "updateTime": "2026-01-13 09:31:14",
   "data": [
     {
       "mgdbId": "120000564085",
@@ -229,10 +229,6 @@
           "name": "8号球场"
         },
         {
-          "pID": "962336026",
-          "name": "17号球场"
-        },
-        {
           "pID": "962335850",
           "name": "ANZ球场"
         },
@@ -279,6 +275,10 @@
         {
           "pID": "962335983",
           "name": "16号球场"
+        },
+        {
+          "pID": "962336026",
+          "name": "17号球场"
         },
         {
           "pID": "962336028",
@@ -411,15 +411,11 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/1/10/1000000010711060bffe.jpeg",
       "pkInfoTitle": "吴易昺 vs 克鲁格",
       "modifyTitle": "澳大利亚网球公开赛资格赛：吴易昺 vs 克鲁格",
-      "presenters": "单文强",
+      "presenters": "",
       "matchInfo": {
         "time": "01月13日08:40"
       },
       "nodes": [
-        {
-          "pID": "962359229",
-          "name": "单文强"
-        },
         {
           "pID": "962335900",
           "name": "8号球场"
@@ -428,7 +424,7 @@
     },
     {
       "mgdbId": "120000565296",
-      "pID": "962335850",
+      "pID": "962359229",
       "title": "澳大利亚网球公开赛资格赛：黄泽林 vs 布朗谢",
       "keyword": "01月13日08:40",
       "sportItemId": "9",
@@ -439,11 +435,15 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/1/10/1000000010711060bffe.jpeg",
       "pkInfoTitle": "黄泽林 vs 布朗谢",
       "modifyTitle": "澳大利亚网球公开赛资格赛：黄泽林 vs 布朗谢",
-      "presenters": "",
+      "presenters": "单文强",
       "matchInfo": {
         "time": "01月13日08:40"
       },
       "nodes": [
+        {
+          "pID": "962359229",
+          "name": "单文强"
+        },
         {
           "pID": "962335850",
           "name": "ANZ球场"
@@ -456,7 +456,7 @@
       "title": "NBA常规赛",
       "keyword": "01月13日09:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "美国航线中心体育馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/12/770QGIBAHNJ2.png",
@@ -481,7 +481,7 @@
     {
       "mgdbId": "120000565252",
       "pID": "962359281",
-      "title": "澳大利亚网球公开赛资格赛：齐里科 vs ��悦",
+      "title": "澳大利亚网球公开赛资格赛：齐里科 vs 袁悦",
       "keyword": "01月13日10:00",
       "sportItemId": "9",
       "matchStatus": "0",
@@ -758,7 +758,7 @@
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/12/770QFV7FHRB1.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/6/29/1000000010691064a6f5.png",
       "pkInfoTitle": "湖北文旅 VS 香港金牛",
-      "modifyTitle": "NBL常��赛",
+      "modifyTitle": "NBL常规赛",
       "presenters": "",
       "matchInfo": {
         "time": "01月13日19:30"
