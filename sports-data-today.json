@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-01-14 19:01:30",
+  "updateTime": "2026-01-14 19:31:19",
   "data": [
     {
       "mgdbId": "120000564081",
@@ -208,11 +208,11 @@
     },
     {
       "mgdbId": "120000565201",
-      "pID": "962374320",
+      "pID": "962336931",
       "title": "资格赛第三日全场次",
       "keyword": "01月14日07:00",
       "sportItemId": "9",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "澳网",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/14/770SAFS3IO25.jpg",
@@ -225,12 +225,12 @@
       },
       "nodes": [
         {
-          "pID": "962374320",
-          "name": "一球制胜(单文强,乔迁)"
-        },
-        {
           "pID": "962336931",
           "name": "罗德拉沃尔球场"
+        },
+        {
+          "pID": "962374320",
+          "name": "一球制胜(单文强,乔迁)"
         },
         {
           "pID": "962336756",
@@ -680,29 +680,25 @@
     },
     {
       "mgdbId": "120000565416",
-      "pID": "962384344",
-      "title": "印度站 王祉怡、王正行冲16强",
+      "pID": "962384366",
+      "title": "王祉怡晋级 圣坛组合登场",
       "keyword": "01月14日12:30",
       "sportItemId": "6",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "BWF",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/14/770SBB8BLDQQ.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/14/770SBQ3KJVS0.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
-      "pkInfoTitle": "印度站 王祉怡、王正行冲16强",
-      "modifyTitle": "印度羽毛球公开赛第二日：王祉怡、王正行冲16强 圣坛组合登场",
-      "presenters": "鸿昆",
+      "pkInfoTitle": "王祉怡晋级 圣坛组合登场",
+      "modifyTitle": "印度羽毛球公开赛第二日：王祉怡晋级 凤凰、圣坛组合登场",
+      "presenters": "余博洋",
       "matchInfo": {
         "time": "01月14日12:30"
       },
       "nodes": [
         {
-          "pID": "962384344",
-          "name": "鸿昆"
-        },
-        {
-          "pID": "962357092",
-          "name": "2号场"
+          "pID": "962384366",
+          "name": "余博洋"
         },
         {
           "pID": "962357110",
@@ -715,6 +711,10 @@
         {
           "pID": "962357138",
           "name": "4号场"
+        },
+        {
+          "pID": "962357092",
+          "name": "2号场"
         }
       ]
     },
@@ -817,16 +817,16 @@
     {
       "mgdbId": "120000565334",
       "pID": "962374320",
-      "title": "周董领衔一球制胜全明星阵容",
+      "title": "周董遭对手ACE淘汰！黑马史密斯夺冠",
       "keyword": "01月14日16:30",
       "sportItemId": "9",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "澳网",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/13/770RFSJDV8GN.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/1/10/1000000010711060bffe.jpeg",
-      "pkInfoTitle": "周董领衔一球制胜全明星阵容",
-      "modifyTitle": "澳大利亚网球公开赛：周董领衔一球制胜全明星阵容",
+      "pkInfoTitle": "周董遭对手ACE淘汰！黑马史密斯夺冠",
+      "modifyTitle": "澳大利亚网球公开赛：周董遭对手ACE淘汰！黑马史密斯夺冠",
       "presenters": "单文强 乔迁",
       "matchInfo": {
         "time": "01月14日16:30"
@@ -835,10 +835,6 @@
         {
           "pID": "962374320",
           "name": "单文强 乔迁"
-        },
-        {
-          "pID": "962342332",
-          "name": "罗德拉沃尔球场"
         }
       ]
     },
@@ -848,7 +844,7 @@
       "title": "WCBA常规赛B组",
       "keyword": "01月14日19:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WCBA",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000563726/202512040531_367265_H169_1080.webp",
@@ -872,7 +868,7 @@
       "title": "WCBA常规赛B组",
       "keyword": "01月14日19:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WCBA",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000563761/202512040541_513230_H169_1080.webp",
@@ -896,7 +892,7 @@
       "title": "WCBA常规赛A组",
       "keyword": "01月14日19:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WCBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/13/770RDBOPEQOT.jpg",
@@ -920,7 +916,7 @@
       "title": "WCBA常规赛A组",
       "keyword": "01月14日19:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WCBA",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000563813/202512060531_551311_H169_1080.webp",
@@ -944,7 +940,7 @@
       "title": "WCBA常规赛A组",
       "keyword": "01月14日19:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WCBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/13/770RDAM81366.jpg",
@@ -968,7 +964,7 @@
       "title": "U23亚洲杯小组赛",
       "keyword": "01月14日19:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "费萨尔·本·法赫德王子球场",
       "competitionName": "U23亚洲杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000564077/679470_H169_sc.jpg",
@@ -996,7 +992,7 @@
       "title": "U23亚洲杯小组赛",
       "keyword": "01月14日19:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "辛迪加竞技场",
       "competitionName": "U23亚洲杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000564080/847132_H169_sc.jpg",
@@ -1024,7 +1020,7 @@
       "title": "NBL常规赛",
       "keyword": "01月14日19:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBL",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/13/770RDQ72IFAO.jpg",
