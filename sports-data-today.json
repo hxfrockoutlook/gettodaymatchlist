@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-01-14 15:01:25",
+  "updateTime": "2026-01-14 15:31:22",
   "data": [
     {
       "mgdbId": "120000564081",
@@ -208,7 +208,7 @@
     },
     {
       "mgdbId": "120000565201",
-      "pID": "962336917",
+      "pID": "962336931",
       "title": "资格赛第三日全场次",
       "keyword": "01月14日07:00",
       "sportItemId": "9",
@@ -224,10 +224,6 @@
         "time": "01月14日07:00"
       },
       "nodes": [
-        {
-          "pID": "962336917",
-          "name": "17号球场"
-        },
         {
           "pID": "962336931",
           "name": "罗德拉沃尔球场"
@@ -289,6 +285,10 @@
           "name": "一球制胜(单文强,乔迁)"
         },
         {
+          "pID": "962336917",
+          "name": "17号球场"
+        },
+        {
           "pID": "962373735",
           "name": "吴易昺vs梅希亚(单文强)"
         },
@@ -313,7 +313,7 @@
       "competitionName": "澳网",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/13/770RFTL3PP12.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/1/10/1000000010711060bffe.jpeg",
-      "pkInfoTitle": "凯莉耶娃 2-0 马烨欣",
+      "pkInfoTitle": "凯莉耶娃 vs 马烨欣",
       "modifyTitle": "澳大利亚网球公开赛资格赛：凯莉耶娃 2-0 马烨欣",
       "presenters": "佟艺",
       "matchInfo": {
@@ -680,7 +680,7 @@
     },
     {
       "mgdbId": "120000565416",
-      "pID": "962384324",
+      "pID": "962357138",
       "title": "印度站 陆光祖、韩悦冲16强",
       "keyword": "01月14日12:30",
       "sportItemId": "6",
@@ -697,8 +697,8 @@
       },
       "nodes": [
         {
-          "pID": "962357110",
-          "name": "3号场"
+          "pID": "962357138",
+          "name": "4号场"
         },
         {
           "pID": "962357086",
@@ -709,8 +709,8 @@
           "name": "2号场"
         },
         {
-          "pID": "962357138",
-          "name": "4号场"
+          "pID": "962357110",
+          "name": "3号场"
         }
       ]
     },
