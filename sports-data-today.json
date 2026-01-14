@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-01-14 12:31:17",
+  "updateTime": "2026-01-14 13:01:19",
   "data": [
     {
       "mgdbId": "120000564081",
@@ -245,6 +245,10 @@
           "name": "13号球场"
         },
         {
+          "pID": "962336876",
+          "name": "14号球场"
+        },
+        {
           "pID": "962336719",
           "name": "KIA球场"
         },
@@ -275,10 +279,6 @@
         {
           "pID": "962336834",
           "name": "11号球场"
-        },
-        {
-          "pID": "962336876",
-          "name": "14号球场"
         },
         {
           "pID": "962336905",
@@ -545,16 +545,16 @@
     {
       "mgdbId": "120000565558",
       "pID": "962373735",
-      "title": "澳大利亚网球公开赛资格赛：梅希亚 vs 吴易昺",
+      "title": "澳大利亚网球公开赛资格赛：梅希亚 0-2 吴易昺",
       "keyword": "01月14日11:00",
       "sportItemId": "9",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "澳网",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/13/770RFTO2O9TP.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/1/10/1000000010711060bffe.jpeg",
-      "pkInfoTitle": "梅希亚 vs 吴易昺",
-      "modifyTitle": "澳大利亚网球公开赛资格赛：梅希亚 vs 吴易昺",
+      "pkInfoTitle": "梅希亚 0-2 吴易昺",
+      "modifyTitle": "澳大利亚网球公开赛资格赛：梅希亚 0-2 吴易昺",
       "presenters": "单文强",
       "matchInfo": {
         "time": "01月14日11:00"
@@ -601,16 +601,16 @@
     {
       "mgdbId": "120000565440",
       "pID": "962373687",
-      "title": "澳大利亚网球公开赛资格赛：卡辛采娃 vs 朱琳",
+      "title": "澳大利亚网球公开赛资格赛：卡辛采娃 0-2 朱琳",
       "keyword": "01月14日11:30",
       "sportItemId": "9",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "澳网",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/13/770RFTN53QL7.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/1/10/1000000010711060bffe.jpeg",
-      "pkInfoTitle": "卡辛采娃 vs 朱琳",
-      "modifyTitle": "澳大利亚网球公开赛资格赛：卡辛采娃 vs 朱琳",
+      "pkInfoTitle": "卡辛采娃 0-2 朱琳",
+      "modifyTitle": "澳大利亚网球公开赛资格赛：卡辛采娃 0-2 朱琳",
       "presenters": "李宁",
       "matchInfo": {
         "time": "01月14日11:30"
@@ -672,22 +672,26 @@
     },
     {
       "mgdbId": "120000565416",
-      "pID": "962384291",
-      "title": "印度站 王祉怡、陈雨菲冲16强",
+      "pID": "962384354",
+      "title": "印度站 陈雨菲、星驰组合出战",
       "keyword": "01月14日12:30",
       "sportItemId": "6",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "BWF",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/13/770RFKPU28N1.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/14/770SDCP2J7J7.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
-      "pkInfoTitle": "印度站 王祉怡、陈雨菲冲16强",
-      "modifyTitle": "印度羽毛球公开赛第二日：王祉怡、陈雨菲冲16强",
-      "presenters": "孙宁智 鸿昆 余博洋",
+      "pkInfoTitle": "印度站 陈雨菲、星驰组合出战",
+      "modifyTitle": "印度羽毛球公开赛第二日：陈雨菲、星驰组合冲16强",
+      "presenters": "余博洋 孙宁智",
       "matchInfo": {
         "time": "01月14日12:30"
       },
       "nodes": [
+        {
+          "pID": "962384354",
+          "name": "余博洋"
+        },
         {
           "pID": "962384291",
           "name": "孙宁智"
@@ -707,14 +711,6 @@
         {
           "pID": "962357138",
           "name": "4号场"
-        },
-        {
-          "pID": "962384324",
-          "name": "鸿昆"
-        },
-        {
-          "pID": "962384354",
-          "name": "余博洋"
         }
       ]
     },
