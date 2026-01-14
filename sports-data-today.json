@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-01-15 06:31:25",
+  "updateTime": "2026-01-15 07:01:35",
   "data": [
     {
       "mgdbId": "120000564782",
@@ -97,28 +97,28 @@
     {
       "mgdbId": "120000564675",
       "pID": "962171512",
-      "title": "斯诺克大师赛 尼尔·罗伯逊 vs 克里斯·韦克林",
+      "title": "斯诺克大师赛 尼尔·罗伯逊 6-2 克里斯·韦克林",
       "keyword": "01月15日03:00",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/11/770PIS3NLO0F.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "尼尔·罗伯逊 vs 克里斯·韦克林",
-      "modifyTitle": "斯诺克大师赛 尼尔·罗伯逊 vs 克里斯·韦克林",
+      "pkInfoTitle": "尼尔·罗伯逊 6-2 克里斯·韦克林",
+      "modifyTitle": "斯诺克大师赛 尼尔·罗伯逊 6-2 克里斯·韦克林",
       "presenters": "孙嘉星",
       "matchInfo": {
         "time": "01月15日03:00"
       },
       "nodes": [
         {
-          "pID": "962389518",
-          "name": "孙嘉星"
-        },
-        {
           "pID": "962171512",
           "name": "尼尔·罗伯逊 vs 克里斯·韦克林"
+        },
+        {
+          "pID": "962389518",
+          "name": "孙嘉星"
         }
       ]
     },
@@ -367,10 +367,6 @@
         {
           "pID": "962337073",
           "name": "罗德拉沃尔球场"
-        },
-        {
-          "pID": "962396844",
-          "name": "17��球场"
         }
       ]
     },
