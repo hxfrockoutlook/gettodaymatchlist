@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-01-15 09:31:25",
+  "updateTime": "2026-01-15 10:01:23",
   "data": [
     {
       "mgdbId": "120000564782",
@@ -296,14 +296,14 @@
     },
     {
       "mgdbId": "120000565202",
-      "pID": "962396774",
+      "pID": "962337022",
       "title": "资格赛第四日全场次",
       "keyword": "01月15日08:00",
       "sportItemId": "9",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "澳网",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/14/770SCNNJPGIN.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/15/770T9KF4DB4A.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/1/10/1000000010711060bffe.jpeg",
       "pkInfoTitle": "资格赛第四日全场次",
       "modifyTitle": "澳大利亚网球公开赛：资格赛第四日全场次",
@@ -313,8 +313,28 @@
       },
       "nodes": [
         {
+          "pID": "962337022",
+          "name": "7号球场"
+        },
+        {
+          "pID": "962396883",
+          "name": "朱琳vs什塔库西奇(单文强)"
+        },
+        {
+          "pID": "962396866",
+          "name": "吴易昺vs博耶(李宁)"
+        },
+        {
           "pID": "962396774",
           "name": "16号球场"
+        },
+        {
+          "pID": "962336748",
+          "name": "6号球场"
+        },
+        {
+          "pID": "962337051",
+          "name": "13号球场"
         },
         {
           "pID": "962336591",
@@ -325,24 +345,12 @@
           "name": "5号球场"
         },
         {
-          "pID": "962336748",
-          "name": "6号球场"
-        },
-        {
-          "pID": "962337022",
-          "name": "7号球场"
-        },
-        {
           "pID": "962337027",
           "name": "8号球场"
         },
         {
           "pID": "962337039",
           "name": "12号球场"
-        },
-        {
-          "pID": "962337051",
-          "name": "13号球场"
         },
         {
           "pID": "962337059",
@@ -359,14 +367,6 @@
         {
           "pID": "962337073",
           "name": "罗德拉沃尔球场"
-        },
-        {
-          "pID": "962396883",
-          "name": "朱琳vs什塔库西奇(单文强)"
-        },
-        {
-          "pID": "962396866",
-          "name": "吴易昺vs博耶(李宁)"
         }
       ]
     },
@@ -455,60 +455,8 @@
       ]
     },
     {
-      "mgdbId": "120000565663",
-      "pID": "962396883",
-      "title": "澳大利亚网球公开赛资格赛第三轮：朱琳 vs 什塔库西奇",
-      "keyword": "01月15日09:30",
-      "sportItemId": "9",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "澳网",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/14/770SCNU1F27V.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/1/10/1000000010711060bffe.jpeg",
-      "pkInfoTitle": "朱琳 vs 什塔库西奇",
-      "modifyTitle": "澳大利亚网球公开赛资格赛第三轮：朱琳 vs 什塔库西奇",
-      "presenters": "单文强",
-      "matchInfo": {
-        "time": "01月15日09:30"
-      },
-      "nodes": [
-        {
-          "pID": "962396883",
-          "name": "单文强"
-        },
-        {
-          "pID": "962336858",
-          "name": "13号球场"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000565682",
-      "pID": "962336917",
-      "title": "澳大利亚网球公开赛资格赛第三轮：齐丹谢克 vs 袁悦",
-      "keyword": "01月15日09:30",
-      "sportItemId": "9",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "澳网",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/14/770SCO9U6JPC.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/1/10/1000000010711060bffe.jpeg",
-      "pkInfoTitle": "齐丹谢克 vs 袁悦",
-      "modifyTitle": "澳大利亚网球公开赛资格赛第三轮：齐丹谢克 vs 袁悦",
-      "presenters": "",
-      "matchInfo": {
-        "time": "01月15日09:30"
-      },
-      "nodes": [
-        {
-          "pID": "962336917",
-          "name": "17号球场"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000565683",
-      "pID": "962336910",
+      "pID": "962396774",
       "title": "澳大利亚网球公开赛资格赛第三轮：白卓璇 vs 维德曼诺娃",
       "keyword": "01月15日09:30",
       "sportItemId": "9",
@@ -525,8 +473,60 @@
       },
       "nodes": [
         {
-          "pID": "962336910",
-          "name": "16号球场"
+          "pID": "962396774",
+          "name": "16号球场（清流）"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000565663",
+      "pID": "962396883",
+      "title": "澳大利亚网球公开赛资格赛第三轮：朱琳 vs 什塔库西奇",
+      "keyword": "01月15日09:40",
+      "sportItemId": "9",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "澳网",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/14/770SCNU1F27V.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/1/10/1000000010711060bffe.jpeg",
+      "pkInfoTitle": "朱琳 vs 什塔库西奇",
+      "modifyTitle": "澳大利亚网球公开赛资格赛第三轮：朱琳 vs 什塔库西奇",
+      "presenters": "单文强",
+      "matchInfo": {
+        "time": "01月15日09:40"
+      },
+      "nodes": [
+        {
+          "pID": "962396883",
+          "name": "单文强"
+        },
+        {
+          "pID": "962337051",
+          "name": "13号球场"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000565682",
+      "pID": "962396844",
+      "title": "澳大利亚网球公开赛资格赛第三轮：齐丹谢克 vs 袁悦",
+      "keyword": "01月15日09:40",
+      "sportItemId": "9",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "澳网",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/14/770SCO9U6JPC.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/1/10/1000000010711060bffe.jpeg",
+      "pkInfoTitle": "齐丹谢克 vs 袁悦",
+      "modifyTitle": "澳大利亚网球公开赛资格赛第三轮：齐丹谢克 vs 袁悦",
+      "presenters": "",
+      "matchInfo": {
+        "time": "01月15日09:40"
+      },
+      "nodes": [
+        {
+          "pID": "962396844",
+          "name": "17号球场（清流）"
         }
       ]
     },
@@ -534,7 +534,7 @@
       "mgdbId": "120000565684",
       "pID": "962396866",
       "title": "澳大利亚网球公开赛资格赛第三轮：吴易昺 vs 博耶",
-      "keyword": "01月15日09:30",
+      "keyword": "01月15日09:40",
       "sportItemId": "9",
       "matchStatus": "1",
       "matchField": "",
@@ -545,7 +545,7 @@
       "modifyTitle": "澳大利亚网球公开赛资格赛第三轮：吴易昺 vs 博耶",
       "presenters": "李宁",
       "matchInfo": {
-        "time": "01月15日09:30"
+        "time": "01月15日09:40"
       },
       "nodes": [
         {
@@ -553,7 +553,7 @@
           "name": "李宁"
         },
         {
-          "pID": "962336771",
+          "pID": "962336748",
           "name": "6号球场"
         }
       ]
@@ -562,7 +562,7 @@
       "mgdbId": "120000565685",
       "pID": "962336591",
       "title": "澳大利亚网球公开赛资格赛第三轮：伊梅尔 vs 黄泽林",
-      "keyword": "01月15日09:30",
+      "keyword": "01月15日09:40",
       "sportItemId": "9",
       "matchStatus": "1",
       "matchField": "",
@@ -573,7 +573,7 @@
       "modifyTitle": "澳大利亚网球公开赛资格赛第三轮：伊梅尔 vs 黄泽林",
       "presenters": "",
       "matchInfo": {
-        "time": "01月15日09:30"
+        "time": "01月15日09:40"
       },
       "nodes": [
         {
@@ -588,7 +588,7 @@
       "title": "拉杜卡努出战",
       "keyword": "01月15日10:00",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTA",
       "padImg": "",
@@ -616,7 +616,7 @@
       "title": "G联赛",
       "keyword": "01月15日10:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "G联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/14/770SBJA59I5G.png",
@@ -1093,7 +1093,7 @@
       "competitionName": "CBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/14/770SAG55E9E3.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png",
-      "pkInfoTitle": "青岛崂山啤��vs长白山恩都里",
+      "pkInfoTitle": "青岛崂山啤酒vs长白山��都里",
       "modifyTitle": "CBA常规赛第15轮",
       "presenters": "",
       "matchInfo": {
