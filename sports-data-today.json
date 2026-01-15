@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-01-15 09:01:18",
+  "updateTime": "2026-01-15 09:31:25",
   "data": [
     {
       "mgdbId": "120000564782",
@@ -296,7 +296,7 @@
     },
     {
       "mgdbId": "120000565202",
-      "pID": "962336591",
+      "pID": "962396774",
       "title": "资格赛第四日全场次",
       "keyword": "01月15日08:00",
       "sportItemId": "9",
@@ -312,6 +312,10 @@
         "time": "01月15日08:00"
       },
       "nodes": [
+        {
+          "pID": "962396774",
+          "name": "16号球场"
+        },
         {
           "pID": "962336591",
           "name": "ANZ球场"
@@ -347,10 +351,6 @@
         {
           "pID": "962337069",
           "name": "15号球场"
-        },
-        {
-          "pID": "962396774",
-          "name": "16号球场"
         },
         {
           "pID": "962396844",
@@ -460,7 +460,7 @@
       "title": "澳大利亚网球公开赛资格赛第三轮：朱琳 vs 什塔库西奇",
       "keyword": "01月15日09:30",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "澳网",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/14/770SCNU1F27V.jpg",
@@ -488,7 +488,7 @@
       "title": "澳大利亚网球公开赛资格赛第三轮：齐丹谢克 vs 袁悦",
       "keyword": "01月15日09:30",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "澳网",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/14/770SCO9U6JPC.jpg",
@@ -512,7 +512,7 @@
       "title": "澳大利亚网球公开赛资格赛第三轮：白卓璇 vs 维德曼诺娃",
       "keyword": "01月15日09:30",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "澳网",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/14/770SCOMJB8GP.jpg",
@@ -536,7 +536,7 @@
       "title": "澳大利亚网球公开赛资格赛第三轮：吴易昺 vs 博耶",
       "keyword": "01月15日09:30",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "澳网",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/14/770SCORG75LA.jpg",
@@ -564,7 +564,7 @@
       "title": "澳大利亚网球公开赛资格赛第三轮：伊梅尔 vs 黄泽林",
       "keyword": "01月15日09:30",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "澳网",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/14/770SCP851HK4.jpg",
@@ -746,10 +746,6 @@
         },
         {
           "pID": "962357160",
-          "name": "2号场"
-        },
-        {
-          "pID": "962357194",
           "name": "2号场"
         },
         {
@@ -1097,7 +1093,7 @@
       "competitionName": "CBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/14/770SAG55E9E3.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png",
-      "pkInfoTitle": "青岛崂山啤酒vs长白山恩都里",
+      "pkInfoTitle": "青岛崂山啤��vs长白山恩都里",
       "modifyTitle": "CBA常规赛第15轮",
       "presenters": "",
       "matchInfo": {
