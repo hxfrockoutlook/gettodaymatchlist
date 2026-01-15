@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-01-15 12:01:30",
+  "updateTime": "2026-01-15 12:31:25",
   "data": [
     {
       "mgdbId": "120000564782",
@@ -321,16 +321,16 @@
           "name": "17号球场"
         },
         {
-          "pID": "962396774",
-          "name": "16号球场"
-        },
-        {
           "pID": "962336591",
           "name": "ANZ球场"
         },
         {
           "pID": "962337022",
           "name": "7号球场"
+        },
+        {
+          "pID": "962337059",
+          "name": "14号球场"
         },
         {
           "pID": "962336637",
@@ -353,12 +353,12 @@
           "name": "13号球场"
         },
         {
-          "pID": "962337059",
-          "name": "14号球场"
-        },
-        {
           "pID": "962337069",
           "name": "15号球场"
+        },
+        {
+          "pID": "962396774",
+          "name": "16号球场"
         },
         {
           "pID": "962337073",
@@ -428,7 +428,7 @@
     },
     {
       "mgdbId": "120000547114",
-      "pID": "962408335",
+      "pID": "962408608",
       "title": "NBA常规赛",
       "keyword": "01月15日09:00",
       "sportItemId": "2",
@@ -445,8 +445,8 @@
       },
       "nodes": [
         {
-          "pID": "962408335",
-          "name": "传的漂亮进的干脆！琼斯圆月弯刀助攻武器准绝杀"
+          "pID": "962408608",
+          "name": "全场集锦"
         },
         {
           "pID": "962279656",
@@ -464,7 +464,7 @@
       "title": "澳大利亚网球公开赛资格赛第三轮：白卓璇 vs 维德曼诺娃",
       "keyword": "01月15日09:30",
       "sportItemId": "9",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "澳网",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/14/770SCOMJB8GP.jpg",
@@ -540,14 +540,14 @@
     },
     {
       "mgdbId": "120000565679",
-      "pID": "962390253",
+      "pID": "962409021",
       "title": "G联赛",
       "keyword": "01月15日10:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "G联赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/14/770SBJA59I5G.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/15/770TAD7V6U48.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/10/29/100000000533106f1a67.png",
       "pkInfoTitle": "俄克拉荷马城蓝 vs 撕裂之城混音",
       "modifyTitle": "G联赛",
@@ -556,6 +556,10 @@
         "time": "01月15日10:00"
       },
       "nodes": [
+        {
+          "pID": "962409021",
+          "name": "【球星高光】创发展联盟得分新高！杨瀚森22分7板3助2帽全面发挥继续历练"
+        },
         {
           "pID": "962390253",
           "name": "邢晨"
@@ -732,7 +736,7 @@
       "title": "印度站 陈雨菲、梁王组合领衔出战",
       "keyword": "01月15日12:30",
       "sportItemId": "6",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "BWF",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/14/770SBAIIDCJQ.jpg",
