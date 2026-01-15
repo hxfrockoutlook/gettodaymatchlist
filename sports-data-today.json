@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-01-15 07:31:23",
+  "updateTime": "2026-01-15 08:01:30",
   "data": [
     {
       "mgdbId": "120000564782",
@@ -244,7 +244,7 @@
       "title": "NBA常规赛",
       "keyword": "01月15日08:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "盖恩布里奇体育馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/14/770SAPK06U63.png",
@@ -272,7 +272,7 @@
       "title": "NBA常规赛",
       "keyword": "01月15日08:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "富国银行中心",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/14/770SAOPU3I9C.png",
@@ -312,14 +312,6 @@
         "time": "01月15日08:00"
       },
       "nodes": [
-        {
-          "pID": "962396866",
-          "name": "吴易昺vs博耶(李宁)"
-        },
-        {
-          "pID": "962396883",
-          "name": "朱琳vs什塔库西奇(单文强)"
-        },
         {
           "pID": "962336591",
           "name": "ANZ球场"
@@ -367,6 +359,14 @@
         {
           "pID": "962337073",
           "name": "罗德拉沃尔球场"
+        },
+        {
+          "pID": "962396883",
+          "name": "朱琳vs什塔库西奇(单文强)"
+        },
+        {
+          "pID": "962396866",
+          "name": "吴易昺vs博耶(李宁)"
         }
       ]
     },
@@ -725,7 +725,7 @@
     {
       "mgdbId": "120000565417",
       "pID": "962357156",
-      "title": "陈雨菲、梁王组合领衔出战",
+      "title": "印度站 陈雨菲、梁王组合领衔出战",
       "keyword": "01月15日12:30",
       "sportItemId": "6",
       "matchStatus": "0",
@@ -733,7 +733,7 @@
       "competitionName": "BWF",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/14/770SBAIIDCJQ.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
-      "pkInfoTitle": "陈雨菲、梁王组合领衔出战",
+      "pkInfoTitle": "印度站 陈雨菲、梁王组合领衔出战",
       "modifyTitle": "印度羽毛球公开赛第三日1/8决赛：陈雨菲、陆光祖、丫邦和梁王组合领衔出战",
       "presenters": "",
       "matchInfo": {
