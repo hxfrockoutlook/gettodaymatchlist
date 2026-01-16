@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-01-16 14:01:18",
+  "updateTime": "2026-01-16 14:31:17",
   "data": [
     {
       "mgdbId": "120000543129",
@@ -376,7 +376,7 @@
     },
     {
       "mgdbId": "120000547125",
-      "pID": "962428780",
+      "pID": "962429761",
       "title": "NBA常规赛",
       "keyword": "01月16日11:00",
       "sportItemId": "2",
@@ -393,8 +393,8 @@
       },
       "nodes": [
         {
-          "pID": "962428780",
-          "name": "玩的就是心跳！吕佩尔压哨三分球进灯亮"
+          "pID": "962429761",
+          "name": "25/26赛季NBA常规赛全场集锦：老鹰101:117开拓者（20260116）"
         },
         {
           "pID": "962278918",
@@ -408,11 +408,11 @@
     },
     {
       "mgdbId": "120000547126",
-      "pID": "962279222",
+      "pID": "962429945",
       "title": "NBA常规赛",
       "keyword": "01月16日11:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "加密网体育馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/16/770U4D6EVUBN.jpg",
@@ -424,6 +424,10 @@
         "time": "01月16日11:30"
       },
       "nodes": [
+        {
+          "pID": "962429945",
+          "name": "25-26赛季NBA常规赛全场集锦：黄蜂135:117湖人（20260116）"
+        },
         {
           "pID": "962279222",
           "name": "庄宁宇 徐咏 金佳悦"
@@ -465,16 +469,16 @@
     {
       "mgdbId": "120000564882",
       "pID": "962284321",
-      "title": "姆博科晋级决赛 安德列娃PK施耐德",
+      "title": "姆博科、安德列娃会师决赛",
       "keyword": "01月16日12:30",
       "sportItemId": "9",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/16/770U6N7UG2IS.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "姆博科晋级决赛 安德列娃PK施耐德",
-      "modifyTitle": "WTA阿德莱德站半决赛：姆博科晋级决赛 安德列娃PK施耐德",
+      "pkInfoTitle": "姆博科、安德列娃会师决赛",
+      "modifyTitle": "WTA阿德莱德站半决赛：姆博科、安德列娃会师决赛",
       "presenters": "",
       "matchInfo": {
         "time": "01月16日12:30"
@@ -492,8 +496,8 @@
     },
     {
       "mgdbId": "120000565418",
-      "pID": "962424319",
-      "title": "凤凰、王祉怡出战 韩悦PK陈雨菲",
+      "pID": "962424306",
+      "title": "凤凰、王祉怡出战",
       "keyword": "01月16日13:30",
       "sportItemId": "6",
       "matchStatus": "1",
@@ -501,17 +505,13 @@
       "competitionName": "BWF",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/16/770U4BVP46R8.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
-      "pkInfoTitle": "凤凰、王祉怡出战 韩悦PK陈雨菲",
-      "modifyTitle": "印度羽毛球公开赛第四日1/4决赛：凤凰、王祉怡出战 韩悦PK陈雨菲",
-      "presenters": "鸿昆 杨妮娜 王煜豪 余博洋",
+      "pkInfoTitle": "凤凰、王祉怡出战",
+      "modifyTitle": "印度羽毛球公开赛第四日1/4决赛：凤凰、王祉怡出战",
+      "presenters": "杨妮娜 王煜豪 余博洋",
       "matchInfo": {
         "time": "01月16日13:30"
       },
       "nodes": [
-        {
-          "pID": "962424319",
-          "name": "鸿昆"
-        },
         {
           "pID": "962424306",
           "name": "杨妮娜"
@@ -607,6 +607,27 @@
         {
           "pID": "962372970",
           "name": "智能字幕"
+        }
+      ]
+    },
+    {
+      "mgdbId": "300000001918",
+      "pID": "962429109",
+      "title": "篮球公园：坚持的力量——方硕",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "CBA",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/16/770U4JS866RU.webp",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png",
+      "pkInfoTitle": "篮球公园：坚持的力量——方硕",
+      "modifyTitle": "篮球公园：坚持的力量——方硕",
+      "presenters": "",
+      "matchInfo": {},
+      "nodes": [
+        {
+          "pID": "962429109",
+          "name": "篮球公园"
         }
       ]
     },
