@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-01-19 03:31:10",
+  "updateTime": "2026-01-19 04:01:12",
   "data": [
     {
       "mgdbId": "120000542626",
@@ -160,11 +160,11 @@
     },
     {
       "mgdbId": "120000547142",
-      "pID": "962451252",
+      "pID": "962495951",
       "title": "NBA常规赛",
       "keyword": "01月19日01:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "The O2 Arena",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/19/7710RVKSNVA9.png",
@@ -176,6 +176,10 @@
         "time": "01月19日01:00"
       },
       "nodes": [
+        {
+          "pID": "962495951",
+          "name": "25-26赛季NBA常规赛全场集锦：魔术109:126灰熊（20260119）"
+        },
         {
           "pID": "962451252",
           "name": "张泽欣"
@@ -192,10 +196,10 @@
       "title": "西甲联赛",
       "keyword": "01月19日01:30",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "巴莱多斯球场",
       "competitionName": "西甲",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000543374/202507102036_835465_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000543374/202601190336_962087_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/09/27/6UROS3QNB1F8.png",
       "pkInfoTitle": "塞尔塔 vs 巴列卡诺",
       "modifyTitle": "西甲联赛",
@@ -276,7 +280,7 @@
       "title": "法甲联赛",
       "keyword": "01月19日03:45",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "Groupama Stadium",
       "competitionName": "法甲",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000542625/202507101730_105286_H169_1080.webp",
@@ -336,7 +340,7 @@
       "title": "西甲联赛",
       "keyword": "01月19日04:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "阿诺埃塔球场",
       "competitionName": "西甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000543376/192080_H169_sc.jpg",
