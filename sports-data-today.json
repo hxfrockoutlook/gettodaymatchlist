@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-01-19 13:31:05",
+  "updateTime": "2026-01-19 14:01:14",
   "data": [
     {
       "mgdbId": "120000542626",
@@ -443,14 +443,22 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/1/10/1000000010711060bffe.jpeg",
       "pkInfoTitle": "商竣程小布出战 袁悦PK斯瓦泰克",
       "modifyTitle": "澳大利亚网球公开赛Day2：商竣程小布出战 袁悦PK斯瓦泰克",
-      "presenters": "宋光振 李宁 房朕",
+      "presenters": "房朕 宋光振 李宁",
       "matchInfo": {
         "time": "01月19日08:00"
       },
       "nodes": [
         {
+          "pID": "962434836",
+          "name": "ANZ球场"
+        },
+        {
           "pID": "962434871",
           "name": "5号球场"
+        },
+        {
+          "pID": "962492236",
+          "name": "布云朝克特vs沙波瓦洛夫（房朕）"
         },
         {
           "pID": "962492248",
@@ -463,10 +471,6 @@
         {
           "pID": "962434786",
           "name": "1573球场"
-        },
-        {
-          "pID": "962434836",
-          "name": "ANZ球场"
         },
         {
           "pID": "962434973",
@@ -503,10 +507,6 @@
         {
           "pID": "962492142",
           "name": "德约科维奇vs马丁内斯（李宁）"
-        },
-        {
-          "pID": "962492236",
-          "name": "布云朝克特vs沙波瓦洛夫（房朕）"
         },
         {
           "pID": "962492117",
@@ -660,14 +660,14 @@
     },
     {
       "mgdbId": "120000565599",
-      "pID": "962434540",
+      "pID": "962434443",
       "title": "冲正赛！薛飞、袁励岑、徐瑛彬出战",
       "keyword": "01月19日13:30",
       "sportItemId": "7",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/19/7710RN8P186S.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/19/7710RMGF2SA1.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "冲正赛！薛飞、袁励岑、徐瑛彬出战",
       "modifyTitle": "WTT马斯喀特常规挑战赛：男女单打资格赛小组赛第一、二轮",
@@ -677,24 +677,24 @@
       },
       "nodes": [
         {
-          "pID": "962434540",
-          "name": "周泽昊"
+          "pID": "962434443",
+          "name": "3号桌"
         },
         {
-          "pID": "962434202",
-          "name": "1号桌"
+          "pID": "962434540",
+          "name": "周泽昊"
         },
         {
           "pID": "962434352",
           "name": "2号桌"
         },
         {
-          "pID": "962434443",
-          "name": "3号桌"
-        },
-        {
           "pID": "962434477",
           "name": "4号桌"
+        },
+        {
+          "pID": "962434202",
+          "name": "1号桌"
         },
         {
           "pID": "962434617",
