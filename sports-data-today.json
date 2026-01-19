@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-01-19 16:01:17",
+  "updateTime": "2026-01-19 16:31:07",
   "data": [
     {
       "mgdbId": "120000542626",
@@ -453,6 +453,14 @@
           "name": "ANZ球场"
         },
         {
+          "pID": "962434497",
+          "name": "罗德拉沃尔球场"
+        },
+        {
+          "pID": "962434593",
+          "name": "玛格丽特考特球场"
+        },
+        {
           "pID": "962492117",
           "name": "袁悦vs斯瓦泰克（李宁）"
         },
@@ -511,14 +519,6 @@
         {
           "pID": "962492142",
           "name": "德约科维奇vs马丁内斯（李宁）"
-        },
-        {
-          "pID": "962434497",
-          "name": "罗德拉沃尔球场"
-        },
-        {
-          "pID": "962434593",
-          "name": "玛格丽特考特球场"
         }
       ]
     },
@@ -656,14 +656,14 @@
     },
     {
       "mgdbId": "120000565599",
-      "pID": "962434202",
+      "pID": "962434352",
       "title": "冲正赛！袁励岑、徐瑛彬出战 薛飞首轮3-0速胜",
       "keyword": "01月19日13:30",
       "sportItemId": "7",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/19/7710S9G7ISCH.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/19/7710SFQT3CF6.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "冲正赛！袁励岑、徐瑛彬出战 薛飞首轮3-0速胜",
       "modifyTitle": "WTT马斯喀特常规挑战赛：男女单打资格赛小组赛第一、二轮",
@@ -673,12 +673,12 @@
       },
       "nodes": [
         {
-          "pID": "962434202",
-          "name": "1号桌"
-        },
-        {
           "pID": "962434352",
           "name": "2号桌"
+        },
+        {
+          "pID": "962434202",
+          "name": "1号桌"
         },
         {
           "pID": "962434443",
@@ -696,7 +696,7 @@
     },
     {
       "mgdbId": "120000565826",
-      "pID": "962434836",
+      "pID": "962492236",
       "title": "澳大利亚网球公开赛：沙波瓦洛夫 vs 布云朝克特",
       "keyword": "01月19日14:10",
       "sportItemId": "9",
@@ -713,12 +713,12 @@
       },
       "nodes": [
         {
-          "pID": "962434836",
-          "name": "ANZ球场（清流）"
-        },
-        {
           "pID": "962492236",
           "name": "房朕"
+        },
+        {
+          "pID": "962434836",
+          "name": "ANZ球场（清流）"
         }
       ]
     },
