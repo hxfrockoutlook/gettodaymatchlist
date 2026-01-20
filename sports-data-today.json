@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-01-20 11:01:16",
+  "updateTime": "2026-01-20 11:31:13",
   "data": [
     {
       "mgdbId": "120000543770",
@@ -387,18 +387,18 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/1/10/1000000010711060bffe.jpeg",
       "pkInfoTitle": "莱巴金娜出战 辛纳、大坂夜场亮相",
       "modifyTitle": "澳大利亚网球公开赛Day3：莱巴金娜出战 辛纳、大坂夜场亮相",
-      "presenters": "单文强 邱超 蔡凯臣 房朕 李宁",
+      "presenters": "李宁 邱超 蔡凯臣 房朕 单文强",
       "matchInfo": {
         "time": "01月20日08:00"
       },
       "nodes": [
         {
-          "pID": "962435479",
-          "name": "玛格丽特考特球场"
+          "pID": "962507597",
+          "name": "吴易昺 vs 纳尔迪(李宁)"
         },
         {
-          "pID": "962507610",
-          "name": "王欣瑜vs加里宁娜(单文强)"
+          "pID": "962435479",
+          "name": "玛格丽特考特球场"
         },
         {
           "pID": "962435886",
@@ -409,8 +409,16 @@
           "name": "罗德拉沃尔球场"
         },
         {
+          "pID": "962507866",
+          "name": "谢尔顿vs安贝尔（清流）"
+        },
+        {
           "pID": "962435543",
           "name": "约翰凯因球场"
+        },
+        {
+          "pID": "962435845",
+          "name": "6号球场"
         },
         {
           "pID": "962435640",
@@ -427,10 +435,6 @@
         {
           "pID": "962435789",
           "name": "5号球场"
-        },
-        {
-          "pID": "962435845",
-          "name": "6号球场"
         },
         {
           "pID": "962435940",
@@ -461,10 +465,6 @@
           "name": "莱巴金娜vs尤万（清流）"
         },
         {
-          "pID": "962507866",
-          "name": "谢尔顿vs安贝尔（清流）"
-        },
-        {
           "pID": "962507882",
           "name": "国际信号（清流）"
         },
@@ -477,8 +477,8 @@
           "name": "加斯东 vs 辛纳（房朕）"
         },
         {
-          "pID": "962507597",
-          "name": "吴易昺 vs 纳尔迪(李宁)"
+          "pID": "962507610",
+          "name": "王欣瑜vs加里宁娜(单文强)"
         }
       ]
     },
@@ -544,14 +544,14 @@
     },
     {
       "mgdbId": "120000566132",
-      "pID": "962504143",
+      "pID": "962504028",
       "title": "胡哲安出战 罗徐敏/王漪朵女双领衔",
       "keyword": "01月20日09:00",
       "sportItemId": "6",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "BWF",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/20/7711RDLGMELN.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/20/7711RK1FG66Q.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "胡哲安出战 罗徐敏/王漪朵女双领衔",
       "modifyTitle": "印尼羽毛球大师赛Day1：胡哲安出战 罗徐敏/王漪朵女双领衔",
@@ -561,12 +561,12 @@
       },
       "nodes": [
         {
-          "pID": "962504143",
-          "name": "2号场地"
-        },
-        {
           "pID": "962504028",
           "name": "1号场地"
+        },
+        {
+          "pID": "962504143",
+          "name": "2号场地"
         },
         {
           "pID": "962504269",
@@ -584,11 +584,11 @@
     },
     {
       "mgdbId": "120000565897",
-      "pID": "962435886",
+      "pID": "962507610",
       "title": "澳大利亚网球公开赛：王欣瑜 vs 卡利尼娜",
       "keyword": "01月20日09:30",
       "sportItemId": "9",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "澳网",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/20/7711RV2H97G3.jpg",
@@ -601,12 +601,12 @@
       },
       "nodes": [
         {
-          "pID": "962435886",
-          "name": "7号球场（清流）"
-        },
-        {
           "pID": "962507610",
           "name": "单文强"
+        },
+        {
+          "pID": "962435886",
+          "name": "7号球场（清流）"
         }
       ]
     },
@@ -652,7 +652,7 @@
       "title": "澳大利亚网球公开赛：纳尔迪 vs 吴易昺",
       "keyword": "01月20日11:00",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "澳网",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/20/7711RV5DVLNO.jpg",
