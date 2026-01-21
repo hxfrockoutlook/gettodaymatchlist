@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-01-21 22:31:05",
+  "updateTime": "2026-01-21 23:01:08",
   "data": [
     {
       "mgdbId": "120000563873",
@@ -236,8 +236,8 @@
     },
     {
       "mgdbId": "120000566135",
-      "pID": "962504018",
-      "title": "王正行晚间登场 丫邦组合晋级16强",
+      "pID": "962541542",
+      "title": "王正行登场 丫邦组合晋级16强",
       "keyword": "01月21日09:00",
       "sportItemId": "6",
       "matchStatus": "1",
@@ -245,13 +245,17 @@
       "competitionName": "BWF",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/21/7712O4S8RBLN.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
-      "pkInfoTitle": "王正行晚间登场 丫邦组合晋级16强",
-      "modifyTitle": "印尼羽毛球大师赛Day2：陈雨菲、娃卉和丫邦组合晋级16强 王正行晚间登场",
+      "pkInfoTitle": "王正行登场 丫邦组合晋级16强",
+      "modifyTitle": "印尼羽毛球大师赛Day2：王正行登场 陈雨菲、娃卉和丫邦组合晋级16强",
       "presenters": "鸿昆",
       "matchInfo": {
         "time": "01月21日09:00"
       },
       "nodes": [
+        {
+          "pID": "962541542",
+          "name": "王正行VS贺首维"
+        },
         {
           "pID": "962504018",
           "name": "1号场地"
@@ -263,10 +267,6 @@
         {
           "pID": "962504229",
           "name": "3号场地"
-        },
-        {
-          "pID": "962541542",
-          "name": "王正行VS贺首维"
         }
       ]
     },
@@ -568,7 +568,7 @@
       "title": "NBL常规赛",
       "keyword": "01月21日19:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBL",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/20/7711PJQECSKO.png",
@@ -596,7 +596,7 @@
       "title": "NBL常规赛",
       "keyword": "01月21日19:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBL",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000564299/202601212145_903988_H169_1080.webp",
@@ -663,10 +663,6 @@
         {
           "pID": "962564839",
           "name": "23分客场大胜北控！广厦豪取7连胜 布朗26分胡金秋22+7"
-        },
-        {
-          "pID": "962565484",
-          "name": "一喜一忧！张庆鹏：真希望罗汉琛早点来 沈梓捷复出未定"
         },
         {
           "pID": "962564873",
@@ -764,29 +760,29 @@
     },
     {
       "mgdbId": "120000565608",
-      "pID": "962435860",
+      "pID": "962435895",
       "title": "梁靖崑PK黄友政 徐瑛彬迎战向鹏",
       "keyword": "01月21日21:00",
       "sportItemId": "7",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/21/7712OF38UBK7.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/21/7712OHELBOCQ.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "梁靖崑PK黄友政 徐瑛彬迎战向鹏",
       "modifyTitle": "WTT马斯喀特常规挑战赛：男女单打1/16决赛、双打1/8决赛",
-      "presenters": "周冠达 朱子恒",
+      "presenters": "朱子恒 周冠达",
       "matchInfo": {
         "time": "01月21日21:00"
       },
       "nodes": [
         {
-          "pID": "962435860",
-          "name": "周冠达"
-        },
-        {
           "pID": "962435895",
           "name": "朱子恒"
+        },
+        {
+          "pID": "962435860",
+          "name": "周冠达"
         },
         {
           "pID": "962435666",
