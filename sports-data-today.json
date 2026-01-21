@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-01-21 19:01:05",
+  "updateTime": "2026-01-21 19:31:02",
   "data": [
     {
       "mgdbId": "120000563873",
@@ -113,14 +113,6 @@
           "name": "玛格丽特考特球场"
         },
         {
-          "pID": "962433788",
-          "name": "1573球场"
-        },
-        {
-          "pID": "962433832",
-          "name": "ANZ球场"
-        },
-        {
           "pID": "962433919",
           "name": "7号球场"
         },
@@ -131,6 +123,14 @@
         {
           "pID": "962536805",
           "name": "国际信号"
+        },
+        {
+          "pID": "962433788",
+          "name": "1573球场"
+        },
+        {
+          "pID": "962433832",
+          "name": "ANZ球场"
         },
         {
           "pID": "962433860",
@@ -428,29 +428,29 @@
     },
     {
       "mgdbId": "120000565601",
-      "pID": "962435125",
+      "pID": "962435430",
       "title": "林诗栋开门红 梁靖崑/温瑞博登台冲八强",
       "keyword": "01月21日15:00",
       "sportItemId": "7",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/21/7712NBM7V8GK.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/21/7712NIA8LH4B.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "林诗栋开门红 梁靖崑/温瑞博登台冲八强",
       "modifyTitle": "WTT马斯喀特常规挑战赛：男女单打1/16决赛、双打1/8决赛",
-      "presenters": "凌维康 周泽昊",
+      "presenters": "周泽昊 凌维康",
       "matchInfo": {
         "time": "01月21日15:00"
       },
       "nodes": [
         {
-          "pID": "962435519",
-          "name": "凌维康"
-        },
-        {
           "pID": "962435430",
           "name": "周泽昊"
+        },
+        {
+          "pID": "962435519",
+          "name": "凌维康"
         },
         {
           "pID": "962435125",
@@ -556,7 +556,7 @@
       "title": "WCBA常规赛A组",
       "keyword": "01月21日19:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WCBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/20/7711PT4NB5EE.jpg",
@@ -580,7 +580,7 @@
       "title": "NBL常规赛",
       "keyword": "01月21日19:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBL",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/20/7711PJQECSKO.png",
@@ -608,7 +608,7 @@
       "title": "NBL常规赛",
       "keyword": "01月21日19:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBL",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000564299/202512171226_705099_H169_1080.webp",
@@ -636,7 +636,7 @@
       "title": "富阳VS杭州",
       "keyword": "01月21日19:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "浙江省城市篮球联赛",
       "padImg": "",
