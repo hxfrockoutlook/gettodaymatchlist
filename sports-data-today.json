@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-01-21 07:31:00",
+  "updateTime": "2026-01-21 08:03:32",
   "data": [
     {
       "mgdbId": "120000563873",
@@ -40,7 +40,7 @@
       "title": "NBA常规赛",
       "keyword": "01月21日08:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "富国银行中心",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/20/7711OV1H3HLS.png",
@@ -68,7 +68,7 @@
       "title": "白卓璇迎战萨巴！阿卡、高芙登场",
       "keyword": "01月21日08:00",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "澳网",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/21/7712P3MHK4OE.jpg",
@@ -196,7 +196,7 @@
       "title": "澳大利亚网球公开赛：萨巴伦卡 vs 白卓璇",
       "keyword": "01月21日08:00",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "澳网",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/21/7712P44BUC84.jpg",
@@ -209,12 +209,12 @@
       },
       "nodes": [
         {
-          "pID": "962433679",
-          "name": "罗德拉沃尔球场"
-        },
-        {
           "pID": "962536844",
           "name": "解说"
+        },
+        {
+          "pID": "962433679",
+          "name": "罗德拉沃尔球场"
         }
       ]
     },
