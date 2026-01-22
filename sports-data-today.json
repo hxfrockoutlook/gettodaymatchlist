@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-01-22 15:01:04",
+  "updateTime": "2026-01-22 15:31:01",
   "data": [
     {
       "mgdbId": "120000547164",
@@ -117,10 +117,6 @@
           "name": "14号球场"
         },
         {
-          "pID": "962434888",
-          "name": "15号球场"
-        },
-        {
           "pID": "962564513",
           "name": "国际信号"
         },
@@ -139,6 +135,10 @@
         {
           "pID": "962564870",
           "name": "鲁德 vs 穆纳尔（鸿昆）"
+        },
+        {
+          "pID": "962434888",
+          "name": "15号球场"
         },
         {
           "pID": "962564576",
@@ -425,7 +425,7 @@
     {
       "mgdbId": "120000566271",
       "pID": "962565075",
-      "title": "澳大利亚网球公开赛：范德尚舒普 vs 商竣程",
+      "title": "澳大利亚网球公开赛：范德尚舒普 3-0 商竣程",
       "keyword": "01月22日11:22",
       "sportItemId": "9",
       "matchStatus": "2",
@@ -433,8 +433,8 @@
       "competitionName": "澳网",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/21/7712ON9T158V.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/1/10/1000000010711060bffe.jpeg",
-      "pkInfoTitle": "范德尚舒普 vs 商竣程",
-      "modifyTitle": "澳大利亚网球公开赛：范德尚舒普 vs 商竣程",
+      "pkInfoTitle": "范德尚舒普 3-0 商竣程",
+      "modifyTitle": "澳大利亚网球公开赛：范德尚舒普 3-0 商竣程",
       "presenters": "郭丰庆",
       "matchInfo": {
         "time": "01月22日11:22"
@@ -480,7 +480,7 @@
     },
     {
       "mgdbId": "120000565603",
-      "pID": "962436018",
+      "pID": "962436032",
       "title": "冲混双半决赛！薛飞/王晓彤PK黄友政/石洵瑶",
       "keyword": "01月22日15:00",
       "sportItemId": "7",
@@ -491,18 +491,18 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "冲混双半决赛！薛飞/王晓彤PK黄友政/石洵瑶",
       "modifyTitle": "WTT马斯喀特常规挑战赛：男女单打1/8决赛、双打1/4决赛",
-      "presenters": "周泽昊 朱子恒",
+      "presenters": "朱子恒 周泽昊",
       "matchInfo": {
         "time": "01月22日15:00"
       },
       "nodes": [
         {
-          "pID": "962436018",
-          "name": "周泽昊"
-        },
-        {
           "pID": "962436032",
           "name": "朱子恒"
+        },
+        {
+          "pID": "962436018",
+          "name": "周泽昊"
         },
         {
           "pID": "962435967",
@@ -643,16 +643,7 @@
       "matchInfo": {
         "time": "01月22日19:30"
       },
-      "nodes": [
-        {
-          "pID": "962499037",
-          "name": "解说"
-        },
-        {
-          "pID": "962499410",
-          "name": "现场原声"
-        }
-      ]
+      "nodes": []
     },
     {
       "mgdbId": "120000566197",
