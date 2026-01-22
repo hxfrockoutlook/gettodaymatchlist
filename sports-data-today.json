@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-01-22 10:01:02",
+  "updateTime": "2026-01-22 10:31:02",
   "data": [
     {
       "mgdbId": "120000547164",
@@ -43,7 +43,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/1/10/1000000010711060bffe.jpeg",
       "pkInfoTitle": "王欣瑜PK奥胖 吴易昺小商冲32强",
       "modifyTitle": "澳大利亚网球公开赛Day5：王欣瑜PK奥胖 吴易昺小商冲32强",
-      "presenters": "宋光振 李宁 佟艺 蔡凯臣 刘钟鸣 单文强 鸿昆 郭丰庆 房朕",
+      "presenters": "宋光振 佟艺 蔡凯臣 刘钟鸣 单文强 鸿昆 郭丰庆 李宁 房朕",
       "matchInfo": {
         "time": "01月22日08:00"
       },
@@ -63,10 +63,6 @@
         {
           "pID": "962564914",
           "name": "谢尔顿 vs 斯威尼（宋光振）"
-        },
-        {
-          "pID": "962564991",
-          "name": "卡恰诺夫 vs 巴萨瓦雷迪（李宁）"
         },
         {
           "pID": "962434407",
@@ -129,10 +125,6 @@
           "name": "国际信号"
         },
         {
-          "pID": "962564800",
-          "name": "阿尼西莫娃 vs 西尼亚科娃（佟艺）"
-        },
-        {
           "pID": "962564952",
           "name": "斯瓦泰克 vs 布兹科娃（佟艺）"
         },
@@ -153,12 +145,20 @@
           "name": "鲁德 vs 穆纳尔（鸿昆）"
         },
         {
+          "pID": "962564800",
+          "name": "阿尼西莫娃 vs 西尼亚科娃（佟艺）"
+        },
+        {
           "pID": "962565038",
           "name": "王欣瑜 vs 奥斯塔彭科（单文强）"
         },
         {
           "pID": "962564576",
           "name": "佩古拉 vs 凯斯勒（房朕）"
+        },
+        {
+          "pID": "962564991",
+          "name": "卡恰诺夫 vs 巴萨瓦雷迪（李宁）"
         }
       ]
     },
@@ -324,7 +324,7 @@
       "title": "NBA常规赛",
       "keyword": "01月22日10:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "费哲论坛球馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/21/7712MF9F5CQ3.png",
