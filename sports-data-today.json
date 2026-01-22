@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-01-22 07:31:18",
+  "updateTime": "2026-01-22 08:01:06",
   "data": [
     {
       "mgdbId": "120000547164",
@@ -8,7 +8,7 @@
       "title": "NBA常规赛",
       "keyword": "01月22日08:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "光谱中心",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/21/7712M32SA889.png",
@@ -43,7 +43,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/1/10/1000000010711060bffe.jpeg",
       "pkInfoTitle": "王欣瑜PK奥胖 吴易昺小商冲32强",
       "modifyTitle": "澳大利亚网球公开赛Day5：王欣瑜PK奥胖 吴易昺小商冲32强",
-      "presenters": "房朕 蔡凯臣 单文强 佟艺 宋光振 刘钟鸣 鸿昆 李宁 郭丰庆",
+      "presenters": "房朕 李宁 宋光振 佟艺 蔡凯臣 刘钟鸣 单文强 鸿昆 郭丰庆",
       "matchInfo": {
         "time": "01月22日08:00"
       },
@@ -63,6 +63,10 @@
         {
           "pID": "962564576",
           "name": "佩古拉 vs 凯斯勒（房朕）"
+        },
+        {
+          "pID": "962564991",
+          "name": "卡恰诺夫 vs 巴萨瓦雷迪（李宁）"
         },
         {
           "pID": "962434287",
@@ -129,36 +133,32 @@
           "name": "国际信号"
         },
         {
-          "pID": "962564661",
-          "name": "辛纳 vs 达克沃斯（蔡凯臣）"
-        },
-        {
-          "pID": "962564768",
-          "name": "莱巴金娜 vs 格拉切娃（单文强）"
+          "pID": "962564914",
+          "name": "谢尔顿 vs 斯威尼（宋光振）"
         },
         {
           "pID": "962564800",
           "name": "阿尼西莫娃 vs 西尼亚科娃（佟艺）"
         },
         {
-          "pID": "962564914",
-          "name": "谢尔顿 vs 斯威尼（宋光振）"
+          "pID": "962564952",
+          "name": "斯瓦泰克 vs 布兹科娃（佟艺）"
+        },
+        {
+          "pID": "962564661",
+          "name": "辛纳 vs 达克沃斯（蔡凯臣）"
         },
         {
           "pID": "962564825",
           "name": "大坂直美 vs 科斯蒂亚（刘钟鸣）"
         },
         {
+          "pID": "962564768",
+          "name": "莱巴金娜 vs 格拉切娃（单文强）"
+        },
+        {
           "pID": "962564870",
           "name": "鲁德 vs 穆纳尔（鸿昆）"
-        },
-        {
-          "pID": "962564952",
-          "name": "斯瓦泰克 vs 布兹科娃（佟艺）"
-        },
-        {
-          "pID": "962564991",
-          "name": "卡恰诺夫 vs 巴萨瓦雷迪（李宁）"
         }
       ]
     },
@@ -277,7 +277,7 @@
     {
       "mgdbId": "120000566136",
       "pID": "962504315",
-      "title": "陈雨菲、丫邦组合冲击8��",
+      "title": "陈雨菲、丫邦组合冲击8强",
       "keyword": "01月22日10:00",
       "sportItemId": "6",
       "matchStatus": "0",
