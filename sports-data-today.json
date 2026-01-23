@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-01-23 13:31:06",
+  "updateTime": "2026-01-23 14:01:10",
   "data": [
     {
       "mgdbId": "120000547171",
@@ -169,10 +169,6 @@
           "name": "约维奇 vs 保利尼（单文强）"
         },
         {
-          "pID": "962586818",
-          "name": "塞伦多洛 vs 卢布列夫（刘钟鸣）"
-        },
-        {
           "pID": "962586799",
           "name": "兹维列夫 vs 诺里（李宁）"
         },
@@ -191,6 +187,10 @@
         {
           "pID": "962586772",
           "name": "布勃里克 vs 埃切维里（房朕）"
+        },
+        {
+          "pID": "962586818",
+          "name": "塞伦多洛 vs 卢布列夫（刘钟鸣）"
         },
         {
           "pID": "962586805",
@@ -324,25 +324,25 @@
     },
     {
       "mgdbId": "120000547177",
-      "pID": "962604687",
+      "pID": "962604928",
       "title": "NBA常规赛",
       "keyword": "01月23日11:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "摩达中心",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/23/7714G1FOGUO7.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "热火VS开拓者",
       "modifyTitle": "NBA常规赛",
-      "presenters": "庄宁宇 徐咏 王羽希 邢晨",
+      "presenters": "庄宁宇 徐咏 王���希 邢晨",
       "matchInfo": {
         "time": "01月23日11:00"
       },
       "nodes": [
         {
-          "pID": "962604687",
-          "name": "保留节目！乐福把球抛向空中夏普腾空起飞双手空接灌筐"
+          "pID": "962604928",
+          "name": "25/26赛季NBA常规赛全场集锦：热火110:127开拓者（20260123）"
         },
         {
           "pID": "962452007",
@@ -360,22 +360,26 @@
     },
     {
       "mgdbId": "120000547178",
-      "pID": "962451855",
+      "pID": "962605129",
       "title": "NBA常规赛",
       "keyword": "01月23日11:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "因图特圆顶球馆",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/22/7713JQQQ4U84.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/23/7714G34FFC25.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "湖人VS快船",
       "modifyTitle": "NBA常规赛",
-      "presenters": "杨健 曾令旭 苏群 洪荒",
+      "presenters": "杨健 曾令旭 苏群 洪荒 郑泽鹏 大史",
       "matchInfo": {
         "time": "01月23日11:00"
       },
       "nodes": [
+        {
+          "pID": "962605129",
+          "name": "畏惧什么？胆怯什么？东契奇大空位三分拒绝出手"
+        },
         {
           "pID": "962451855",
           "name": "杨健 曾令旭 苏群"
@@ -387,6 +391,10 @@
         {
           "pID": "962451925",
           "name": "洪荒"
+        },
+        {
+          "pID": "962451901",
+          "name": "郑泽鹏 大史"
         }
       ]
     },
@@ -399,11 +407,11 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "BWF",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/22/7713KNDRPJUI.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/23/7714G2FVB0TU.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "丫邦组合冲4强 陈雨菲登场",
       "modifyTitle": "印尼羽毛球大师赛Day4：陈雨菲领衔 国羽混双冲4强",
-      "presenters": "鸿昆 孙宁智 轩子博",
+      "presenters": "鸿昆",
       "matchInfo": {
         "time": "01月23日14:30"
       },
@@ -413,20 +421,12 @@
           "name": "阿德南/贾米尔VS蒋振邦/魏雅欣"
         },
         {
-          "pID": "962504311",
-          "name": "1号场地"
-        },
-        {
           "pID": "962504095",
           "name": "2号场地"
         },
         {
-          "pID": "962600500",
-          "name": "郭新娃/陈芳卉VS马蒂亚斯/博尔"
-        },
-        {
-          "pID": "962600551",
-          "name": "阿莱西娅/费比VS罗徐敏/王漪朵"
+          "pID": "962504311",
+          "name": "1号场地"
         }
       ]
     },
@@ -851,7 +851,7 @@
       "matchStatus": "0",
       "matchField": "阿卜杜拉国王体育城球场",
       "competitionName": "U23亚洲杯",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000566357/210654_H169_sc.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/21/7712M2BV8K80.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2022/5/24/1000000007881064a3a2.png",
       "pkInfoTitle": "越南U23 vs 韩国U23",
       "modifyTitle": "U23亚洲杯三四名决赛",
