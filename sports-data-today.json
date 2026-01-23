@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-01-23 15:01:08",
+  "updateTime": "2026-01-23 15:31:06",
   "data": [
     {
       "mgdbId": "120000547171",
@@ -85,10 +85,6 @@
           "name": "25/26赛季NBA常规赛全场集锦：黄蜂124:97魔术（20260123）"
         },
         {
-          "pID": "962600519",
-          "name": "25/26���季NBA常规赛全场集锦：黄蜂124:97魔术（20260123）"
-        },
-        {
           "pID": "962457297",
           "name": "罗森"
         },
@@ -100,7 +96,7 @@
     },
     {
       "mgdbId": "120000565975",
-      "pID": "962434949",
+      "pID": "962434989",
       "title": "阿尔卡拉斯晋级 萨巴伦卡双抢七过关",
       "keyword": "01月23日08:00",
       "sportItemId": "9",
@@ -116,10 +112,6 @@
         "time": "01月23日08:00"
       },
       "nodes": [
-        {
-          "pID": "962434949",
-          "name": "玛格丽特考特球场"
-        },
         {
           "pID": "962434989",
           "name": "约翰凯因球场"
@@ -139,6 +131,10 @@
         {
           "pID": "962434917",
           "name": "罗德拉沃尔球场"
+        },
+        {
+          "pID": "962434949",
+          "name": "玛格丽特考特球场"
         },
         {
           "pID": "962435047",
@@ -169,10 +165,6 @@
           "name": "国际信号"
         },
         {
-          "pID": "962586799",
-          "name": "兹维列夫 vs 诺里（李宁）"
-        },
-        {
           "pID": "962586689",
           "name": "兹维列夫 vs 诺里（清流）"
         },
@@ -187,6 +179,10 @@
         {
           "pID": "962586772",
           "name": "布勃里克 vs 埃切维里（房朕）"
+        },
+        {
+          "pID": "962586799",
+          "name": "兹维列夫 vs 诺里（李宁）"
         },
         {
           "pID": "962586805",
@@ -436,7 +432,7 @@
       "title": "硬碰硬！林诗栋PK达科 石油组合冲男双决赛",
       "keyword": "01月23日15:00",
       "sportItemId": "7",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/23/7714G2M0P7RV.jpg",
@@ -463,6 +459,27 @@
         {
           "pID": "962436173",
           "name": "1号桌"
+        }
+      ]
+    },
+    {
+      "mgdbId": "300000001926",
+      "pID": "962601675",
+      "title": "篮球公园：坚持的力量——刘晓宇",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "CBA",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/23/7714GK3EM545.webp",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png",
+      "pkInfoTitle": "篮球公园：坚持的力量——刘晓宇",
+      "modifyTitle": "篮球公园：坚持的力量——刘晓宇",
+      "presenters": "",
+      "matchInfo": {},
+      "nodes": [
+        {
+          "pID": "962601675",
+          "name": "CCTV5"
         }
       ]
     },
