@@ -1,10 +1,10 @@
 {
   "success": true,
-  "updateTime": "2026-01-23 11:01:06",
+  "updateTime": "2026-01-23 11:31:04",
   "data": [
     {
       "mgdbId": "120000547171",
-      "pID": "962599811",
+      "pID": "962601308",
       "title": "NBA常规赛",
       "keyword": "01月23日08:00",
       "sportItemId": "2",
@@ -20,10 +20,6 @@
         "time": "01月23日08:00"
       },
       "nodes": [
-        {
-          "pID": "962599811",
-          "name": "冲着生涯新高就去了！沃特森弧顶加长三分一箭穿心"
-        },
         {
           "pID": "962458132",
           "name": "盛哲"
@@ -87,10 +83,6 @@
         {
           "pID": "962600519",
           "name": "25/26赛季NBA常规赛全场集锦：黄蜂124:97魔术（20260123）"
-        },
-        {
-          "pID": "962600519",
-          "name": "25/26赛��NBA常规赛全场集锦：黄蜂124:97魔术（20260123）"
         },
         {
           "pID": "962457297",
@@ -232,14 +224,14 @@
     },
     {
       "mgdbId": "120000547174",
-      "pID": "962451596",
+      "pID": "962601199",
       "title": "NBA常规赛",
       "keyword": "01月23日08:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "美国航线中心体育馆",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/22/7713JQSQD88G.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/23/7714IU247VUV.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "勇士VS独行侠",
       "modifyTitle": "NBA常规赛",
@@ -248,6 +240,10 @@
         "time": "01月23日08:30"
       },
       "nodes": [
+        {
+          "pID": "962601199",
+          "name": "比赛转折点！追梦犯病连续大动作犯规打乱勇士节奏"
+        },
         {
           "pID": "962451596",
           "name": "孙博 季孟年 小七"
@@ -271,7 +267,7 @@
       "matchStatus": "1",
       "matchField": "標靶中心",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000547175/964941_H169_sc.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/23/7714ITJ8L3NL.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "公牛VS森林狼",
       "modifyTitle": "NBA常规赛",
@@ -504,6 +500,7 @@
     },
     {
       "mgdbId": "120000566904",
+      "pID": "962601072",
       "title": "激战前夜：UFC324特辑",
       "keyword": "01月23日19:00",
       "sportItemId": "5",
@@ -514,11 +511,16 @@
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/20/7711R3GE2V3R.png",
       "pkInfoTitle": "激战前夜：UFC324特辑",
       "modifyTitle": "激战前夜：UFC324特辑",
-      "presenters": "",
+      "presenters": "王琰博",
       "matchInfo": {
         "time": "01月23日19:00"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "962601072",
+          "name": "王琰博"
+        }
+      ]
     },
     {
       "mgdbId": "120000563883",
