@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-01-24 11:01:47",
+  "updateTime": "2026-01-24 11:31:43",
   "data": [
     {
       "mgdbId": "120000542619",
@@ -152,7 +152,7 @@
     },
     {
       "mgdbId": "120000565976",
-      "pID": "962433842",
+      "pID": "962616239",
       "title": "王欣瑜冲击16强 辛纳、德约轮番出战",
       "keyword": "01月24日07:00",
       "sportItemId": "9",
@@ -163,7 +163,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/1/10/1000000010711060bffe.jpeg",
       "pkInfoTitle": "王欣瑜冲击16强 辛纳、德约轮番出战",
       "modifyTitle": "澳大利亚网球公开赛Day7：王欣瑜冲击16强 辛纳、德约轮番出战",
-      "presenters": "蔡凯臣 邱超 胡力涛 刘钟鸣 单文强 宋光振",
+      "presenters": "郭丰庆 邱超 蔡凯臣 胡力涛 刘钟鸣 单文强 宋光振",
       "matchInfo": {
         "time": "01月24日07:00"
       },
@@ -173,16 +173,20 @@
           "name": "国际信号（清流）"
         },
         {
+          "pID": "962616239",
+          "name": "谢尔顿 vs 瓦舍罗（郭丰庆）"
+        },
+        {
           "pID": "962433842",
           "name": "罗德拉沃尔球场"
         },
         {
-          "pID": "962616205",
-          "name": "穆塞蒂 vs 马哈奇（蔡凯臣）"
+          "pID": "962616309",
+          "name": "诺斯科娃 vs 王欣瑜(邱超)"
         },
         {
-          "pID": "962616176",
-          "name": "卡恰诺夫 vs 达尔德里（邱超）"
+          "pID": "962616205",
+          "name": "穆塞蒂 vs 马哈奇（蔡凯臣）"
         },
         {
           "pID": "962616358",
@@ -261,10 +265,6 @@
           "name": "卡林斯卡娅 vs 斯瓦泰克（刘钟鸣）"
         },
         {
-          "pID": "962616309",
-          "name": "诺斯科娃 vs 王欣瑜(邱超)"
-        },
-        {
           "pID": "962616326",
           "name": "瓦林卡 vs 弗里茨（单文强）"
         },
@@ -316,11 +316,11 @@
     },
     {
       "mgdbId": "120000547179",
-      "pID": "962452043",
+      "pID": "962625476",
       "title": "NBA常规赛",
       "keyword": "01月24日08:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "小凯撒球馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/24/7715FR9R2S2N.jpg",
@@ -332,6 +332,10 @@
         "time": "01月24日08:00"
       },
       "nodes": [
+        {
+          "pID": "962626061",
+          "name": "25-26赛季NBA常规赛全场集锦：火箭111:104活塞（20260124）"
+        },
         {
           "pID": "962452043",
           "name": "连睿 周鹏 秋童"
@@ -372,14 +376,14 @@
     },
     {
       "mgdbId": "120000547181",
-      "pID": "962452877",
+      "pID": "962625997",
       "title": "NBA常规赛",
       "keyword": "01月24日08:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "火箭信贷球馆",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/23/7714GAMQ6TMQ.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/24/7715G0A9PN0P.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "国王VS骑士",
       "modifyTitle": "NBA常规赛",
@@ -388,6 +392,10 @@
         "time": "01月24日08:30"
       },
       "nodes": [
+        {
+          "pID": "962625997",
+          "name": "2526赛季NBA常规赛全场集锦：国王118:112骑士（20260124）"
+        },
         {
           "pID": "962452877",
           "name": "董倡硕"
@@ -400,7 +408,7 @@
     },
     {
       "mgdbId": "120000547182",
-      "pID": "962624993",
+      "pID": "962625791",
       "title": "NBA常规赛",
       "keyword": "01月24日08:30",
       "sportItemId": "2",
@@ -417,8 +425,8 @@
       },
       "nodes": [
         {
-          "pID": "962624993",
-          "name": "愿无大碍！布克不慎扭伤脚踝返回更衣室"
+          "pID": "962625791",
+          "name": "25-26赛季NBA常规赛全场集锦：太阳103:110老鹰（20260124）"
         },
         {
           "pID": "962452250",
@@ -598,9 +606,9 @@
       "mgdbId": "120000566492",
       "pID": "962616309",
       "title": "澳大利亚网球公开赛：诺斯科娃 vs 王欣瑜",
-      "keyword": "01月24日11:30",
+      "keyword": "01月24日11:10",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "澳网",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/23/7714ILEPV50C.jpg",
@@ -609,7 +617,7 @@
       "modifyTitle": "澳大利亚网球公开赛：诺斯科娃 vs 王欣瑜",
       "presenters": "邱超",
       "matchInfo": {
-        "time": "01月24日11:30"
+        "time": "01月24日11:10"
       },
       "nodes": [
         {
