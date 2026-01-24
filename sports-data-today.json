@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-01-24 17:31:38",
+  "updateTime": "2026-01-24 18:01:46",
   "data": [
     {
       "mgdbId": "120000542619",
@@ -163,7 +163,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/1/10/1000000010711060bffe.jpeg",
       "pkInfoTitle": "瓦林卡大战弗里茨 德约、斯瓦泰克登场",
       "modifyTitle": "澳大利亚网球公开赛Day7：大坂直美退赛 瓦林卡大战弗里茨 德约、斯瓦泰克登场",
-      "presenters": "胡力涛 刘钟鸣 单文强 邱超 宋光振 郭丰庆",
+      "presenters": "胡力涛 刘钟鸣 单文强 宋光振 郭丰庆",
       "matchInfo": {
         "time": "01月24日07:00"
       },
@@ -171,6 +171,10 @@
         {
           "pID": "962616439",
           "name": "国际信号（清流）"
+        },
+        {
+          "pID": "962616409",
+          "name": "莱巴金娜vs瓦伦托娃（清流）"
         },
         {
           "pID": "962433842",
@@ -193,24 +197,16 @@
           "name": "约翰凯因球场"
         },
         {
-          "pID": "962616392",
-          "name": "瓦林卡vs弗里茨（清流）"
-        },
-        {
-          "pID": "962616326",
-          "name": "瓦林卡 vs 弗里茨（单文强）"
+          "pID": "962616315",
+          "name": "莱巴金娜 vs 瓦伦托娃（单文强）"
         },
         {
           "pID": "962433970",
           "name": "KIA球场"
         },
         {
-          "pID": "962616309",
-          "name": "诺斯科娃 vs 王欣瑜(邱超)"
-        },
-        {
-          "pID": "962434619",
-          "name": "11号球场"
+          "pID": "962621669",
+          "name": "门希克 vs 奎因（宋光振）"
         },
         {
           "pID": "962434782",
@@ -233,14 +229,6 @@
           "name": "6号球场"
         },
         {
-          "pID": "962434441",
-          "name": "7号球场"
-        },
-        {
-          "pID": "962434582",
-          "name": "8号球场"
-        },
-        {
           "pID": "962434664",
           "name": "12号球场"
         },
@@ -253,28 +241,16 @@
           "name": "14号球场"
         },
         {
-          "pID": "962616315",
-          "name": "莱巴金娜 vs 瓦伦托娃（单文强）"
-        },
-        {
-          "pID": "962616439",
-          "name": "国际信��（清流）"
-        },
-        {
-          "pID": "962616409",
-          "name": "莱巴金娜vs瓦伦托娃（清流）"
-        },
-        {
           "pID": "962616213",
           "name": "西里奇 vs 鲁德（刘钟鸣）"
         },
         {
-          "pID": "962621669",
-          "name": "门希克 vs 奎因（宋光振）"
-        },
-        {
           "pID": "962616239",
           "name": "谢尔顿 vs 瓦舍罗（郭丰庆）"
+        },
+        {
+          "pID": "962434619",
+          "name": "11号球场"
         }
       ]
     },
@@ -736,11 +712,11 @@
     },
     {
       "mgdbId": "120000566895",
-      "pID": "962616392",
+      "pID": "962616326",
       "title": "澳大利亚网球公开赛：瓦林卡 vs 弗里茨",
       "keyword": "01月24日14:35",
       "sportItemId": "9",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "澳网",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/23/7714ISK0MF1N.jpg",
@@ -753,25 +729,25 @@
       },
       "nodes": [
         {
-          "pID": "962616392",
-          "name": "瓦林卡vs弗里茨（清流）"
-        },
-        {
           "pID": "962616326",
           "name": "瓦林卡 vs 弗里茨（单文强）"
+        },
+        {
+          "pID": "962616392",
+          "name": "瓦林卡vs弗里茨（清流）"
         }
       ]
     },
     {
       "mgdbId": "120000566492",
-      "pID": "962433970",
+      "pID": "962616309",
       "title": "澳大利亚网球公开赛：诺斯科娃 vs 王欣瑜",
       "keyword": "01月24日15:00",
       "sportItemId": "9",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "澳网",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/23/7714ILEPV50C.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/24/7715ECRK2ITV.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/1/10/1000000010711060bffe.jpeg",
       "pkInfoTitle": "诺斯科娃 vs 王欣瑜",
       "modifyTitle": "澳大利亚网球公开赛：诺斯科娃 vs 王欣瑜",
@@ -781,12 +757,12 @@
       },
       "nodes": [
         {
-          "pID": "962433970",
-          "name": "KIA球场"
-        },
-        {
           "pID": "962616309",
           "name": "诺斯科娃 vs 王欣瑜（邱超）"
+        },
+        {
+          "pID": "962433970",
+          "name": "KIA球场"
         }
       ]
     },
@@ -919,12 +895,40 @@
       ]
     },
     {
+      "mgdbId": "120000566903",
+      "pID": "962616315",
+      "title": "澳大利亚网球公开赛：莱巴金娜 vs 瓦伦托娃",
+      "keyword": "01月24日17:30",
+      "sportItemId": "9",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "澳网",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/23/7714IMAKKU5L.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/1/10/1000000010711060bffe.jpeg",
+      "pkInfoTitle": "莱巴金娜 vs 瓦伦托娃",
+      "modifyTitle": "澳大利亚网球公开赛：莱巴金娜 vs 瓦伦托娃",
+      "presenters": "单文强",
+      "matchInfo": {
+        "time": "01月24日17:30"
+      },
+      "nodes": [
+        {
+          "pID": "962616315",
+          "name": "莱巴金娜 vs 瓦伦托娃（单文强）"
+        },
+        {
+          "pID": "962616409",
+          "name": "莱巴金娜vs瓦伦托娃（清流）"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000565607",
       "pID": "962436438",
       "title": "林诗栋/黄友政冲冠 石洵瑶、何卓佳争冠",
       "keyword": "01月24日18:00",
       "sportItemId": "7",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/24/7715DM11T13P.png",
@@ -947,34 +951,6 @@
         {
           "pID": "962501039",
           "name": "智能字幕"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000566903",
-      "pID": "962616315",
-      "title": "澳大利亚网球公开赛：莱巴金娜 vs 瓦伦托娃",
-      "keyword": "01月24日18:00",
-      "sportItemId": "9",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "澳网",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/23/7714IMAKKU5L.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/1/10/1000000010711060bffe.jpeg",
-      "pkInfoTitle": "莱巴金娜 vs 瓦伦托娃",
-      "modifyTitle": "澳大利亚网球公开赛：莱巴金娜 vs 瓦伦托娃",
-      "presenters": "单文强",
-      "matchInfo": {
-        "time": "01月24日18:00"
-      },
-      "nodes": [
-        {
-          "pID": "962616315",
-          "name": "莱巴金娜 vs 瓦伦托娃（单文强）"
-        },
-        {
-          "pID": "962616409",
-          "name": "莱巴金娜vs瓦伦托娃（清流）"
         }
       ]
     },
