@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-01-24 09:31:36",
+  "updateTime": "2026-01-24 10:01:53",
   "data": [
     {
       "mgdbId": "120000542619",
@@ -518,7 +518,7 @@
       "mgdbId": "120000566894",
       "pID": "962616358",
       "title": "澳大利亚网球公开赛：斯皮齐里 vs 辛纳",
-      "keyword": "01月24日09:00",
+      "keyword": "01月24日09:20",
       "sportItemId": "9",
       "matchStatus": "1",
       "matchField": "",
@@ -529,12 +529,40 @@
       "modifyTitle": "澳大利亚网球公开赛：斯皮齐里 vs 辛纳",
       "presenters": "",
       "matchInfo": {
-        "time": "01月24日09:00"
+        "time": "01月24日09:20"
       },
       "nodes": [
         {
           "pID": "962616358",
           "name": "辛纳vs斯皮齐里（清流）"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000566492",
+      "pID": "962616309",
+      "title": "澳大利亚网球公开赛：诺斯科娃 vs 王欣瑜",
+      "keyword": "01月24日09:40",
+      "sportItemId": "9",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "澳网",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/23/7714ILEPV50C.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/1/10/1000000010711060bffe.jpeg",
+      "pkInfoTitle": "诺斯科娃 vs 王欣瑜",
+      "modifyTitle": "澳大利亚网球公开赛：诺斯科娃 vs 王欣瑜",
+      "presenters": "邱超",
+      "matchInfo": {
+        "time": "01月24日09:40"
+      },
+      "nodes": [
+        {
+          "pID": "962616309",
+          "name": "诺斯科娃 vs 王欣瑜（邱超）"
+        },
+        {
+          "pID": "962433970",
+          "name": "KIA球场"
         }
       ]
     },
@@ -595,34 +623,6 @@
         {
           "pID": "962457402",
           "name": "英文原声"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000566492",
-      "pID": "962616309",
-      "title": "澳大利亚网球公开赛：诺斯科娃 vs 王欣瑜",
-      "keyword": "01月24日11:00",
-      "sportItemId": "9",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "澳网",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/23/7714ILEPV50C.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/1/10/1000000010711060bffe.jpeg",
-      "pkInfoTitle": "诺斯科娃 vs 王欣瑜",
-      "modifyTitle": "澳大利亚网球公开赛：诺斯科娃 vs 王欣瑜",
-      "presenters": "邱超",
-      "matchInfo": {
-        "time": "01月24日11:00"
-      },
-      "nodes": [
-        {
-          "pID": "962616309",
-          "name": "诺斯科娃 vs 王欣瑜（邱超）"
-        },
-        {
-          "pID": "962433970",
-          "name": "KIA球场"
         }
       ]
     },
