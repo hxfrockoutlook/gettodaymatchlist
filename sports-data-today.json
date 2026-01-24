@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-01-24 12:31:46",
+  "updateTime": "2026-01-24 13:01:38",
   "data": [
     {
       "mgdbId": "120000542619",
@@ -177,8 +177,8 @@
           "name": "谢尔顿 vs 瓦舍罗（郭丰庆）"
         },
         {
-          "pID": "962433842",
-          "name": "罗德拉沃尔球场"
+          "pID": "962616358",
+          "name": "辛纳vs斯皮齐里（清流）"
         },
         {
           "pID": "962616274",
@@ -189,8 +189,8 @@
           "name": "诺斯科娃 vs 王欣瑜(邱超)"
         },
         {
-          "pID": "962616358",
-          "name": "辛纳vs斯皮齐里（清流）"
+          "pID": "962433842",
+          "name": "罗德拉沃尔球场"
         },
         {
           "pID": "962433889",
@@ -289,16 +289,16 @@
     {
       "mgdbId": "120000566265",
       "pID": "962601182",
-      "title": "Zuffa拳击第1期：沃尔什VS奥坎波",
+      "title": "沃尔什十回合鏖战击败奥坎波",
       "keyword": "01月24日07:00",
       "sportItemId": "5",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "Zuffa拳击",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/23/7714HQ2CS7S9.jpg",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/20/7711R9E7BQ06.png",
-      "pkInfoTitle": "Zuffa拳击第1期：沃尔什VS奥坎波",
-      "modifyTitle": "Zuffa拳击第1期：沃尔什VS奥坎波",
+      "pkInfoTitle": "沃尔什十回合鏖战击败奥坎波",
+      "modifyTitle": "沃尔什十回合鏖战击败奥坎波",
       "presenters": "陈瑞阳",
       "matchInfo": {
         "time": "01月24日07:00"
@@ -507,30 +507,6 @@
       ]
     },
     {
-      "mgdbId": "120000566443",
-      "pID": "962556417",
-      "title": "团体赛第一阶段",
-      "keyword": "01月24日09:00",
-      "sportItemId": "7",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "\"肇东杯\"乒乓球混合团体公开赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/23/7714GCPPT1BM.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/21/7712NI557F9J.png",
-      "pkInfoTitle": "团体赛第一阶段",
-      "modifyTitle": "\"肇东杯\"乒乓球混合团体公开赛：团体赛第一阶段",
-      "presenters": "",
-      "matchInfo": {
-        "time": "01月24日09:00"
-      },
-      "nodes": [
-        {
-          "pID": "962556417",
-          "name": "官方解说"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000566894",
       "pID": "962616358",
       "title": "澳大利亚网球公开赛：斯皮齐里 vs 辛纳",
@@ -641,16 +617,16 @@
     {
       "mgdbId": "120000566138",
       "pID": "962621071",
-      "title": "陈雨菲领阵 丫邦冲刺半决赛",
+      "title": "陈雨菲领衔冲决赛 丫邦组合登场",
       "keyword": "01月24日13:00",
       "sportItemId": "6",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "BWF",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/23/7714IDOKEDSD.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
-      "pkInfoTitle": "陈雨菲领阵 丫邦冲刺半决赛",
-      "modifyTitle": "印尼羽毛球大师赛Day5：陈雨菲领阵 丫邦冲刺半决赛",
+      "pkInfoTitle": "陈雨菲领衔冲决赛 丫邦组合登场",
+      "modifyTitle": "印尼羽毛球大师赛Day5：陈雨菲领衔冲决赛 丫邦组合登场",
       "presenters": "孙宁智",
       "matchInfo": {
         "time": "01月24日13:00"
@@ -667,6 +643,30 @@
         {
           "pID": "962504048",
           "name": "2号场地"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000566443",
+      "pID": "962556417",
+      "title": "团体赛第一阶段",
+      "keyword": "01月24日14:00",
+      "sportItemId": "7",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "\"肇东杯\"乒乓球混合团体公开赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/23/7714GCPPT1BM.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/21/7712NI557F9J.png",
+      "pkInfoTitle": "团体赛第一阶段",
+      "modifyTitle": "\"肇东杯\"乒乓球混合团体公开赛：团体赛第一阶段",
+      "presenters": "",
+      "matchInfo": {
+        "time": "01月24日14:00"
+      },
+      "nodes": [
+        {
+          "pID": "962556417",
+          "name": "官方解说"
         }
       ]
     },
@@ -1390,7 +1390,7 @@
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000542838/626927_H169_sc.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png",
       "pkInfoTitle": "海登海姆 vs RB莱比锡",
-      "modifyTitle": "德��联赛",
+      "modifyTitle": "德甲联赛",
       "presenters": "刘洋",
       "matchInfo": {
         "time": "01月24日22:30"
