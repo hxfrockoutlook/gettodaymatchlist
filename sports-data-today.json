@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-01-24 08:31:44",
+  "updateTime": "2026-01-24 09:01:44",
   "data": [
     {
       "mgdbId": "120000542619",
@@ -173,8 +173,8 @@
           "name": "国际信号（清流）"
         },
         {
-          "pID": "962434203",
-          "name": "5号球场"
+          "pID": "962433842",
+          "name": "罗德拉沃尔球场"
         },
         {
           "pID": "962616140",
@@ -197,10 +197,6 @@
           "name": "辛纳vs斯皮齐里（清流）"
         },
         {
-          "pID": "962433842",
-          "name": "罗德拉沃尔球场"
-        },
-        {
           "pID": "962433889",
           "name": "玛格丽特考特球场"
         },
@@ -219,6 +215,10 @@
         {
           "pID": "962434083",
           "name": "ANZ球场"
+        },
+        {
+          "pID": "962434203",
+          "name": "5号球场"
         },
         {
           "pID": "962434374",
@@ -452,7 +452,7 @@
       "title": "NBA常规赛",
       "keyword": "01月24日09:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "联邦快递球馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/23/7714GADMJFGN.png",
@@ -480,7 +480,7 @@
       "title": "NBA常规赛",
       "keyword": "01月24日09:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "Paycom中心",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/23/7714GAGDE94K.png",
@@ -527,38 +527,10 @@
       ]
     },
     {
-      "mgdbId": "120000566492",
-      "pID": "962616309",
-      "title": "澳大利亚网球公开赛：诺斯科娃 vs 王欣瑜",
-      "keyword": "01月24日09:00",
-      "sportItemId": "9",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "澳网",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/23/7714ILEPV50C.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/1/10/1000000010711060bffe.jpeg",
-      "pkInfoTitle": "诺斯科娃 vs 王欣瑜",
-      "modifyTitle": "澳大利亚网球公开赛：诺斯科娃 vs 王欣瑜",
-      "presenters": "邱超",
-      "matchInfo": {
-        "time": "01月24日09:00"
-      },
-      "nodes": [
-        {
-          "pID": "962616309",
-          "name": "诺斯科娃 vs 王欣瑜（邱超）"
-        },
-        {
-          "pID": "962433970",
-          "name": "KIA球场"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000566894",
       "pID": "962616358",
       "title": "澳大利亚网球公开赛：斯皮齐里 vs 辛纳",
-      "keyword": "01月24日09:00",
+      "keyword": "01月24日09:30",
       "sportItemId": "9",
       "matchStatus": "0",
       "matchField": "",
@@ -569,7 +541,7 @@
       "modifyTitle": "澳大利亚网球公开赛：斯皮齐里 vs 辛纳",
       "presenters": "",
       "matchInfo": {
-        "time": "01月24日09:00"
+        "time": "01月24日09:30"
       },
       "nodes": [
         {
@@ -635,6 +607,34 @@
         {
           "pID": "962457402",
           "name": "英文原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000566492",
+      "pID": "962616309",
+      "title": "澳大利亚网球公开赛：诺斯科娃 vs 王欣瑜",
+      "keyword": "01月24日11:00",
+      "sportItemId": "9",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "澳网",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/23/7714ILEPV50C.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/1/10/1000000010711060bffe.jpeg",
+      "pkInfoTitle": "诺斯科娃 vs 王欣瑜",
+      "modifyTitle": "澳大利亚网球公开赛：诺斯科娃 vs 王欣瑜",
+      "presenters": "邱超",
+      "matchInfo": {
+        "time": "01月24日11:00"
+      },
+      "nodes": [
+        {
+          "pID": "962616309",
+          "name": "诺斯科娃 vs 王欣瑜（邱超）"
+        },
+        {
+          "pID": "962433970",
+          "name": "KIA球场"
         }
       ]
     },
@@ -1423,7 +1423,7 @@
       "matchStatus": "0",
       "matchField": "欧宝球场",
       "competitionName": "德甲",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000542841/202507101825_617228_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000542841/246574_H169_sc.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png",
       "pkInfoTitle": "美因茨 vs 沃尔夫斯堡",
       "modifyTitle": "德甲联赛",
