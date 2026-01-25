@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-01-25 13:31:48",
+  "updateTime": "2026-01-25 14:01:45",
   "data": [
     {
       "mgdbId": "120000543601",
@@ -333,16 +333,16 @@
     {
       "mgdbId": "120000563238",
       "pID": "962601797",
-      "title": "UFC第324期：宋亚东判定惜败奥马利",
+      "title": "UFC第324期：宋亚东遭争议判罚不敌奥马利",
       "keyword": "01月25日06:30",
       "sportItemId": "5",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "UFC数字赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/25/7716DG1A4QN2.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/25/7716A9JIJ99D.jpg",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/20/7711R3F2EGOL.png",
-      "pkInfoTitle": "UFC第324期：宋亚东判定惜败奥马利",
-      "modifyTitle": "UFC第324期：宋亚东判定惜败奥马利",
+      "pkInfoTitle": "UFC第324期：宋亚东遭争议判罚不敌奥马利",
+      "modifyTitle": "UFC第324期：宋亚东遭争议判罚不敌奥马利",
       "presenters": "王琰博 李景亮 任中贤 陈瑞阳 郑文祺 王舟",
       "matchInfo": {
         "time": "01月25日06:30"
@@ -368,7 +368,7 @@
     },
     {
       "mgdbId": "120000565977",
-      "pID": "962434827",
+      "pID": "962434948",
       "title": "萨巴2-0姆博科 勒纳·钱再战梅总",
       "keyword": "01月25日07:00",
       "sportItemId": "9",
@@ -379,38 +379,42 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/1/10/1000000010711060bffe.jpeg",
       "pkInfoTitle": "萨巴2-0姆博科 勒纳·钱再战梅总",
       "modifyTitle": "澳大利亚网球公开赛Day8：阿卡出战 勒纳·钱再战梅总 萨巴2-0姆博科",
-      "presenters": "李宁 蔡凯臣 鸿昆 房朕 单文强 刘钟鸣 郭丰庆",
+      "presenters": "鸿昆 蔡凯臣 刘钟鸣 郭丰庆 房朕 单文强",
       "matchInfo": {
         "time": "01月25日07:00"
       },
       "nodes": [
         {
-          "pID": "962434827",
-          "name": "罗德拉沃尔球场"
-        },
-        {
-          "pID": "962649050",
-          "name": "阿尔卡拉斯 vs 保罗(李宁)"
-        },
-        {
-          "pID": "962648977",
-          "name": "高芙 vs 穆霍娃(蔡凯臣)"
+          "pID": "962434948",
+          "name": "KIA球场"
         },
         {
           "pID": "962648814",
           "name": "约维奇/姆博科 vs梅尔滕斯/张帅（鸿昆）"
         },
         {
+          "pID": "962649232",
+          "name": "高芙 vs 穆霍娃（清流）"
+        },
+        {
           "pID": "962434879",
           "name": "玛格丽特考特球场"
+        },
+        {
+          "pID": "962648977",
+          "name": "高芙 vs 穆霍娃(蔡凯臣)"
+        },
+        {
+          "pID": "962649283",
+          "name": "兹维列夫 vs F·塞伦德罗（清流）"
         },
         {
           "pID": "962434915",
           "name": "约翰凯因球场"
         },
         {
-          "pID": "962434948",
-          "name": "KIA球场"
+          "pID": "962648831",
+          "name": "兹维列夫 vs F·塞伦德罗(郭丰庆)"
         },
         {
           "pID": "962434993",
@@ -419,6 +423,10 @@
         {
           "pID": "962435035",
           "name": "ANZ球场"
+        },
+        {
+          "pID": "962434827",
+          "name": "罗德拉沃尔球场"
         },
         {
           "pID": "962435076",
@@ -465,28 +473,16 @@
           "name": "布勃里克 vs 德米纳尔(单文强)"
         },
         {
-          "pID": "962648932",
-          "name": "梅德维德夫 vs 勒纳·钱(刘钟鸣)"
-        },
-        {
-          "pID": "962648831",
-          "name": "兹维列夫 vs F·塞伦德罗(郭丰庆)"
-        },
-        {
           "pID": "962649160",
           "name": "国际信号"
-        },
-        {
-          "pID": "962649232",
-          "name": "高芙 vs 穆霍娃（清流）"
         },
         {
           "pID": "962649262",
           "name": "梅德维德夫 vs 勒纳·钱（清流）"
         },
         {
-          "pID": "962649283",
-          "name": "兹维列夫 vs F·塞伦德罗（清流）"
+          "pID": "962648932",
+          "name": "梅德维德夫 vs 勒纳·钱(刘钟鸣)"
         }
       ]
     },
@@ -588,7 +584,7 @@
     },
     {
       "mgdbId": "120000547193",
-      "pID": "962659488",
+      "pID": "962660456",
       "title": "NBA常规赛",
       "keyword": "01月25日10:30",
       "sportItemId": "2",
@@ -605,8 +601,8 @@
       },
       "nodes": [
         {
-          "pID": "962659488",
-          "name": "多点开花！阿德巴约拉尔森连续命中三分打停爵士"
+          "pID": "962660456",
+          "name": "25-26赛季NBA常规赛全场集锦: 犹他爵士116:147迈阿密热火"
         },
         {
           "pID": "962456927",
@@ -622,7 +618,7 @@
       "mgdbId": "120000566949",
       "pID": "962649232",
       "title": "澳大利亚网球公开赛：高芙 vs 穆霍娃",
-      "keyword": "01月25日12:50",
+      "keyword": "01月25日13:05",
       "sportItemId": "9",
       "matchStatus": "1",
       "matchField": "",
@@ -633,7 +629,7 @@
       "modifyTitle": "澳大利亚网球公开赛：高芙 vs 穆霍娃",
       "presenters": "蔡凯臣",
       "matchInfo": {
-        "time": "01月25日12:50"
+        "time": "01月25日13:05"
       },
       "nodes": [
         {
@@ -647,36 +643,12 @@
       ]
     },
     {
-      "mgdbId": "120000566444",
-      "pID": "962556442",
-      "title": "团体赛第二阶段",
-      "keyword": "01月25日13:30",
-      "sportItemId": "7",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "\"肇东杯\"乒乓球混合团体公开赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/24/7715EL6HNBJL.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/21/7712NI557F9J.png",
-      "pkInfoTitle": "团体赛第二阶段",
-      "modifyTitle": "\"肇东杯\"乒乓球混合团体公开赛：团体赛第二阶段",
-      "presenters": "",
-      "matchInfo": {
-        "time": "01月25日13:30"
-      },
-      "nodes": [
-        {
-          "pID": "962556442",
-          "name": "官方解说"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000566143",
       "pID": "962656974",
       "title": "终极之战 陈雨菲冲击赛季首冠",
       "keyword": "01月25日14:00",
       "sportItemId": "6",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "BWF",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/24/7715FDOSAV93.jpg",
@@ -704,7 +676,7 @@
       "title": "澳大利亚网球公开赛：兹维列夫 vs 塞伦多洛",
       "keyword": "01月25日14:00",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "澳网",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/24/7715G1AQKIP4.jpg",
@@ -775,10 +747,34 @@
       ]
     },
     {
+      "mgdbId": "120000566444",
+      "pID": "962556442",
+      "title": "团体赛第二阶段",
+      "keyword": "01月25日14:30",
+      "sportItemId": "7",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "\"肇东杯\"乒乓球混合团体公开赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/24/7715EL6HNBJL.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/21/7712NI557F9J.png",
+      "pkInfoTitle": "团体赛第二阶段",
+      "modifyTitle": "\"肇东杯\"乒乓球混合团体公开赛：团体赛第二阶段",
+      "presenters": "",
+      "matchInfo": {
+        "time": "01月25日14:30"
+      },
+      "nodes": [
+        {
+          "pID": "962556442",
+          "name": "官方解说"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000566941",
       "pID": "962649262",
       "title": "澳大利亚网球公开赛：梅德维德夫 vs 勒纳·钱",
-      "keyword": "01月25日15:00",
+      "keyword": "01月25日14:30",
       "sportItemId": "9",
       "matchStatus": "0",
       "matchField": "",
@@ -789,7 +785,7 @@
       "modifyTitle": "澳大利亚网球公开赛：梅德维德夫 vs 勒纳·钱",
       "presenters": "刘钟鸣",
       "matchInfo": {
-        "time": "01月25日15:00"
+        "time": "01月25日14:30"
       },
       "nodes": [
         {
