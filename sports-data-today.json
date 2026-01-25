@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-01-25 12:01:34",
+  "updateTime": "2026-01-25 12:31:43",
   "data": [
     {
       "mgdbId": "120000543601",
@@ -339,7 +339,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "UFC数字赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/25/7716BKMNG94G.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/25/7716DDM93RHJ.gif",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/20/7711R3F2EGOL.png",
       "pkInfoTitle": "UFC第324期：宋亚东VS奥马利 功夫小子大战鬼火少年",
       "modifyTitle": "UFC第324期：宋亚东VS奥马利 功夫小子大战鬼火少年",
@@ -361,10 +361,6 @@
           "name": "智能字幕"
         },
         {
-          "pID": "962456965",
-          "name": "同看NBA"
-        },
-        {
           "pID": "962602138",
           "name": "英文原声"
         }
@@ -383,7 +379,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/1/10/1000000010711060bffe.jpeg",
       "pkInfoTitle": "萨巴2-0姆博科 勒纳·钱再战梅总",
       "modifyTitle": "澳大利亚网球公开赛Day8：阿卡出战 勒纳·钱再战梅总 萨巴2-0姆博科",
-      "presenters": "李宁 鸿昆 房朕 单文强 刘钟鸣 蔡凯臣 郭丰庆",
+      "presenters": "李宁 鸿昆 房朕 单文强 刘钟鸣 郭丰庆",
       "matchInfo": {
         "time": "01月25日07:00"
       },
@@ -487,10 +483,6 @@
         {
           "pID": "962649283",
           "name": "兹维列夫 vs F·塞伦德罗（清流）"
-        },
-        {
-          "pID": "962648977",
-          "name": "高芙 vs 穆霍娃(蔡凯臣)"
         }
       ]
     },
@@ -580,14 +572,14 @@
     },
     {
       "mgdbId": "120000547192",
-      "pID": "962456965",
+      "pID": "962659251",
       "title": "NBA常规赛",
       "keyword": "01月25日09:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "美国航线中心体育馆",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/24/7715G99FF3FQ.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/25/7716DD1MABK8.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "湖人VS独行侠",
       "modifyTitle": "NBA常规赛",
@@ -597,16 +589,16 @@
       },
       "nodes": [
         {
+          "pID": "962659251",
+          "name": "苦苦追分继续填坑！詹姆斯抢断快速反击一条龙暴扣"
+        },
+        {
           "pID": "962456965",
           "name": "连睿 曾令旭 马健"
         },
         {
           "pID": "962457037",
           "name": "英文原声"
-        },
-        {
-          "pID": "962601797",
-          "name": "同看UFC"
         }
       ]
     },
@@ -639,34 +631,6 @@
       ]
     },
     {
-      "mgdbId": "120000566949",
-      "pID": "962649232",
-      "title": "澳大利亚网球公开赛：高芙 vs 穆霍娃",
-      "keyword": "01月25日12:30",
-      "sportItemId": "9",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "澳网",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/24/7715G050TEV1.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/1/10/1000000010711060bffe.jpeg",
-      "pkInfoTitle": "高芙 vs 穆霍娃",
-      "modifyTitle": "澳大利亚网球公开赛：高芙 vs 穆霍娃",
-      "presenters": "蔡凯臣",
-      "matchInfo": {
-        "time": "01月25日12:30"
-      },
-      "nodes": [
-        {
-          "pID": "962649232",
-          "name": "高芙 vs 穆霍娃（清流）"
-        },
-        {
-          "pID": "962648977",
-          "name": "高芙 vs 穆霍娃(蔡凯臣)"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000566941",
       "pID": "962649262",
       "title": "澳大利亚网球公开赛：梅德维德夫 vs 勒纳·钱",
@@ -691,6 +655,34 @@
         {
           "pID": "962648932",
           "name": "梅德维德夫 vs 勒纳·钱（刘钟鸣）"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000566949",
+      "pID": "962649232",
+      "title": "澳大利亚网球公开赛：高芙 vs 穆霍娃",
+      "keyword": "01月25日13:00",
+      "sportItemId": "9",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "澳网",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/24/7715G050TEV1.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/1/10/1000000010711060bffe.jpeg",
+      "pkInfoTitle": "高芙 vs 穆霍娃",
+      "modifyTitle": "澳大利亚网球公开赛：高芙 vs 穆霍娃",
+      "presenters": "蔡凯臣",
+      "matchInfo": {
+        "time": "01月25日13:00"
+      },
+      "nodes": [
+        {
+          "pID": "962649232",
+          "name": "高芙 vs 穆霍娃（清流）"
+        },
+        {
+          "pID": "962648977",
+          "name": "高芙 vs 穆霍娃(蔡凯臣)"
         }
       ]
     },
