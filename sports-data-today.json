@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-01-27 06:01:19",
+  "updateTime": "2026-01-27 06:31:15",
   "data": [
     {
       "mgdbId": "120000547203",
@@ -36,11 +36,11 @@
     },
     {
       "mgdbId": "120000566852",
-      "pID": "962585465",
+      "pID": "962585512",
       "title": "威廉姆斯、韦克林出战",
       "keyword": "01月27日03:00",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/27/77184D6ACQHK.jpg",
@@ -53,12 +53,12 @@
       },
       "nodes": [
         {
-          "pID": "962585465",
-          "name": "1号桌"
-        },
-        {
           "pID": "962585512",
           "name": "2号桌"
+        },
+        {
+          "pID": "962585465",
+          "name": "1号桌"
         }
       ]
     },
@@ -136,10 +136,10 @@
       "title": "西甲联赛",
       "keyword": "01月27日04:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "蒙蒂利维市政球场",
       "competitionName": "西甲",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000543371/576581_H169_sc.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000543371/455996_H169_sc.jpg",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/09/27/6UROS3QNB1F8.png",
       "pkInfoTitle": "赫罗纳 vs 赫塔费",
       "modifyTitle": "西甲联赛",
@@ -160,11 +160,11 @@
     },
     {
       "mgdbId": "120000547202",
-      "pID": "962609650",
+      "pID": "962693917",
       "title": "NBA常规赛",
       "keyword": "01月27日04:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "光谱中心",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/27/77185MQ5881C.png",
@@ -176,6 +176,10 @@
         "time": "01月27日04:00"
       },
       "nodes": [
+        {
+          "pID": "962693917",
+          "name": "燃爆全场！三球反击助飞米勒力压马克西空接炸筐"
+        },
         {
           "pID": "962609650",
           "name": "盛哲"
@@ -639,7 +643,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "斯诺克",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/27/77185S4FFH5B.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "特鲁姆普、希金斯、斯佳辉、肖国栋登场",
       "modifyTitle": "斯诺克德国大师赛第一轮：特鲁姆普、希金斯、斯佳辉、肖国栋登场",
