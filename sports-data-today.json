@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-01-27 10:01:23",
+  "updateTime": "2026-01-27 10:31:21",
   "data": [
     {
       "mgdbId": "120000547203",
@@ -199,7 +199,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/1/10/1000000010711060bffe.jpeg",
       "pkInfoTitle": "四强争夺战！萨巴率先出战 阿卡压场",
       "modifyTitle": "澳大利亚网球公开赛Day10：四强争夺战！萨巴率先出战 阿卡压场",
-      "presenters": "李宁 宋光振 邱超 房朕 刘钟鸣",
+      "presenters": "刘钟鸣 宋光振 房朕 李宁",
       "matchInfo": {
         "time": "01月27日06:00"
       },
@@ -209,8 +209,8 @@
           "name": "罗德拉沃尔球场"
         },
         {
-          "pID": "962689575",
-          "name": "萨巴伦卡 vs 约维奇(李宁)"
+          "pID": "962689572",
+          "name": "兹维列夫 vs 勒纳·钱(刘钟鸣)"
         },
         {
           "pID": "962435475",
@@ -219,14 +219,6 @@
         {
           "pID": "962689552",
           "name": "巴蒂斯特/斯特恩斯vs张帅/梅尔滕斯(宋光振)"
-        },
-        {
-          "pID": "962435431",
-          "name": "KIA球场"
-        },
-        {
-          "pID": "962689556",
-          "name": "菲利普西斯/拉夫特 vs 哈斯/萨芬(邱超)"
         },
         {
           "pID": "962435365",
@@ -253,16 +245,8 @@
           "name": "8号球场"
         },
         {
-          "pID": "962435153",
-          "name": "12号球场"
-        },
-        {
           "pID": "962435092",
           "name": "13号球场"
-        },
-        {
-          "pID": "962435017",
-          "name": "14号球场"
         },
         {
           "pID": "962434971",
@@ -271,10 +255,6 @@
         {
           "pID": "962689563",
           "name": "高芙 vs 斯维托丽娜(房朕)"
-        },
-        {
-          "pID": "962689572",
-          "name": "兹维列夫 vs 勒纳·钱(刘钟鸣)"
         },
         {
           "pID": "962689645",
@@ -291,6 +271,26 @@
         {
           "pID": "962689613",
           "name": "兹维列夫 vs 勒纳·钱（清流）"
+        },
+        {
+          "pID": "962435431",
+          "name": "KIA球场"
+        },
+        {
+          "pID": "962435153",
+          "name": "12号球场"
+        },
+        {
+          "pID": "962435017",
+          "name": "14号球场"
+        },
+        {
+          "pID": "962434971",
+          "name": "15号��场"
+        },
+        {
+          "pID": "962689575",
+          "name": "萨巴伦卡 vs 约维奇(李宁)"
         }
       ]
     },
@@ -324,11 +324,11 @@
     },
     {
       "mgdbId": "120000567038",
-      "pID": "962435534",
+      "pID": "962689575",
       "title": "澳大利亚网球公开赛：萨巴伦卡 vs 约维奇",
       "keyword": "01月27日08:40",
       "sportItemId": "9",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "澳网",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/26/7717A8INUGOJ.jpg",
@@ -341,12 +341,12 @@
       },
       "nodes": [
         {
-          "pID": "962435534",
-          "name": "罗德拉沃尔球场（清流）"
-        },
-        {
           "pID": "962689575",
           "name": "萨巴伦卡 vs 约维奇(李宁)"
+        },
+        {
+          "pID": "962435534",
+          "name": "罗德拉沃尔球场（清流）"
         }
       ]
     },
@@ -445,7 +445,7 @@
     {
       "mgdbId": "120000567052",
       "pID": "962683508",
-      "title": "国羽董天尧、陈旭君/刘阳出战",
+      "title": "国羽董天���、陈旭君/刘阳出战",
       "keyword": "01月27日10:00",
       "sportItemId": "6",
       "matchStatus": "1",
@@ -484,7 +484,7 @@
       "title": "NBA常规赛",
       "keyword": "01月27日10:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "標靶中心",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/27/77186QQHV4PM.png",
@@ -524,7 +524,7 @@
       "title": "澳大利亚网球公开赛：兹维列夫 vs 勒纳·钱",
       "keyword": "01月27日10:30",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "澳网",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/26/7717A8OVLSHC.jpg",
@@ -1159,7 +1159,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "斯诺克",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/27/771871SU3JN9.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "奥沙利文、塞尔比、赵心童登场",
       "modifyTitle": "斯诺克德国大师赛第一轮：奥沙利文、塞尔比、赵心童登场",
