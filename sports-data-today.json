@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-01-27 11:01:19",
+  "updateTime": "2026-01-27 11:31:16",
   "data": [
     {
       "mgdbId": "120000547203",
@@ -199,7 +199,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/1/10/1000000010711060bffe.jpeg",
       "pkInfoTitle": "四强争夺战！阿卡压场 萨巴率先晋级",
       "modifyTitle": "澳大利亚网球公开赛Day10：四强争夺战！阿卡压场 萨巴率先晋级",
-      "presenters": "刘钟鸣 宋光振 房朕 李宁",
+      "presenters": "刘钟鸣 房朕 李宁 宋光振",
       "matchInfo": {
         "time": "01月27日06:00"
       },
@@ -219,10 +219,6 @@
         {
           "pID": "962435475",
           "name": "玛格丽特考特球场"
-        },
-        {
-          "pID": "962689552",
-          "name": "巴蒂斯特/斯特恩斯vs张帅/梅尔滕斯(宋光振)"
         },
         {
           "pID": "962435365",
@@ -287,12 +283,16 @@
         {
           "pID": "962689575",
           "name": "萨巴伦卡 vs 约维奇(李宁)"
+        },
+        {
+          "pID": "962689552",
+          "name": "巴蒂斯特/斯特恩斯vs张帅/梅尔滕斯(宋光振)"
         }
       ]
     },
     {
       "mgdbId": "120000547201",
-      "pID": "962696893",
+      "pID": "962697273",
       "title": "NBA常规赛",
       "keyword": "01月27日08:00",
       "sportItemId": "2",
@@ -309,8 +309,8 @@
       },
       "nodes": [
         {
-          "pID": "962696893",
-          "name": "40+到手！米切尔一对一单挑急停中投轻松砍下第41分"
+          "pID": "962697273",
+          "name": "25-26赛季NBA常规赛全场集锦：魔术98:114骑士（20260127）"
         },
         {
           "pID": "962609851",
@@ -391,7 +391,7 @@
       "matchStatus": "1",
       "matchField": "联合中心球馆",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/26/7717A93T1Q9B.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/27/77187C1OPMKD.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "湖人VS公牛",
       "modifyTitle": "NBA常规赛",
@@ -400,6 +400,10 @@
         "time": "01月27日09:00"
       },
       "nodes": [
+        {
+          "pID": "962698623",
+          "name": "扣篮大赛你得上！海斯上演胯下换手暴扣表演"
+        },
         {
           "pID": "962610627",
           "name": "孙博 苏群 佳依"
@@ -416,14 +420,14 @@
     },
     {
       "mgdbId": "120000547206",
-      "pID": "962610783",
+      "pID": "962697737",
       "title": "NBA常规赛",
       "keyword": "01月27日09:00",
       "sportItemId": "2",
       "matchStatus": "1",
       "matchField": "丰田中心球馆",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/26/7717A979356G.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/27/77187BG266SR.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "灰熊VS火箭",
       "modifyTitle": "NBA常规赛",
@@ -432,6 +436,10 @@
         "time": "01月27日09:00"
       },
       "nodes": [
+        {
+          "pID": "962697737",
+          "name": "势大力沉！申京转身过人单手劈扣点燃全场"
+        },
         {
           "pID": "962610783",
           "name": "蔡凯臣 周鹏"
@@ -445,7 +453,7 @@
     {
       "mgdbId": "120000567052",
       "pID": "962683508",
-      "title": "国羽董天尧、陈旭君/刘阳���战",
+      "title": "国羽董天尧、陈旭君/刘阳出战",
       "keyword": "01月27日10:00",
       "sportItemId": "6",
       "matchStatus": "1",
@@ -893,8 +901,8 @@
       },
       "nodes": [
         {
-          "pID": "962573493",
-          "name": "解说"
+          "pID": "962573514",
+          "name": "清流播出"
         }
       ]
     },
