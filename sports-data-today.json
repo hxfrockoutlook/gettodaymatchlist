@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-01-27 17:01:32",
+  "updateTime": "2026-01-27 17:31:23",
   "data": [
     {
       "mgdbId": "120000547203",
@@ -188,8 +188,8 @@
     },
     {
       "mgdbId": "120000565979",
-      "pID": "962689628",
-      "title": "四强争夺战！高芙、阿卡轮番登场",
+      "pID": "962689645",
+      "title": "四强争夺战！阿卡大战德米纳尔",
       "keyword": "01月27日06:00",
       "sportItemId": "9",
       "matchStatus": "1",
@@ -197,24 +197,20 @@
       "competitionName": "澳网",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/26/7717A8943MSK.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/1/10/1000000010711060bffe.jpeg",
-      "pkInfoTitle": "四强争夺战！高芙、阿卡轮番登场",
-      "modifyTitle": "澳大利亚网球公开赛Day10：四强争夺战！高芙、阿卡轮番登场 萨巴、兹维列夫率先晋级",
-      "presenters": "房朕 李宁 宋光振",
+      "pkInfoTitle": "四强争夺战！阿卡大战德米纳尔",
+      "modifyTitle": "澳大利亚网球公开赛Day10：四强争夺战！阿卡大战德米纳尔",
+      "presenters": "李宁 宋光振",
       "matchInfo": {
         "time": "01月27日06:00"
       },
       "nodes": [
         {
-          "pID": "962689628",
-          "name": "高芙 vs 斯维托丽娜（清流）"
+          "pID": "962689645",
+          "name": "阿尔卡拉斯 vs 德米纳尔(单文强,王东)"
         },
         {
           "pID": "962435534",
           "name": "罗德拉沃尔球场"
-        },
-        {
-          "pID": "962689563",
-          "name": "高芙 vs 斯维托丽娜(房朕)"
         },
         {
           "pID": "962435475",
@@ -251,10 +247,6 @@
         {
           "pID": "962434971",
           "name": "15号球场"
-        },
-        {
-          "pID": "962689645",
-          "name": "阿尔卡拉斯 vs 德米纳尔(单文强,王东)"
         },
         {
           "pID": "962689607",
@@ -444,8 +436,8 @@
     },
     {
       "mgdbId": "120000567052",
-      "pID": "962683508",
-      "title": "董天尧、朱轩辰晋级正赛",
+      "pID": "962683554",
+      "title": "罗王组合出战 稍后黄荻/孙文骏登场",
       "keyword": "01月27日10:00",
       "sportItemId": "6",
       "matchStatus": "1",
@@ -453,7 +445,7 @@
       "competitionName": "BWF",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/27/77185DV8UAD6.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
-      "pkInfoTitle": "董天尧、朱轩辰晋级正赛",
+      "pkInfoTitle": "罗王组合出战 稍后黄荻/孙文骏登场",
       "modifyTitle": "泰国羽毛球大师赛Day1：国羽董天尧、陈旭君/刘阳出战",
       "presenters": "",
       "matchInfo": {
@@ -461,16 +453,16 @@
       },
       "nodes": [
         {
+          "pID": "962683554",
+          "name": "3号场地"
+        },
+        {
           "pID": "962683508",
           "name": "1号场地"
         },
         {
           "pID": "962683540",
           "name": "2号场地"
-        },
-        {
-          "pID": "962683554",
-          "name": "3号场地"
         },
         {
           "pID": "962683568",
@@ -612,7 +604,7 @@
       "title": "澳大利亚网球公开赛：高芙 vs 斯维托丽娜",
       "keyword": "01月27日16:05",
       "sportItemId": "9",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "澳网",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/26/7717A8UHD0B1.jpg",
@@ -636,7 +628,7 @@
     },
     {
       "mgdbId": "120000566853",
-      "pID": "962684294",
+      "pID": "962585626",
       "title": "特鲁姆普、希金斯、斯佳辉、肖国栋登场",
       "keyword": "01月27日17:00",
       "sportItemId": "8",
@@ -653,12 +645,12 @@
       },
       "nodes": [
         {
-          "pID": "962684294",
-          "name": "朱峰立"
-        },
-        {
           "pID": "962585626",
           "name": "1号桌"
+        },
+        {
+          "pID": "962684294",
+          "name": "朱峰立"
         },
         {
           "pID": "962585661",
@@ -678,9 +670,9 @@
       "mgdbId": "120000567046",
       "pID": "962689645",
       "title": "澳大利亚网球公开赛：阿尔卡拉斯 vs 德米纳尔",
-      "keyword": "01月27日17:30",
+      "keyword": "01月27日17:10",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "澳网",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/26/7717A9960R41.jpg",
@@ -689,16 +681,16 @@
       "modifyTitle": "澳大利亚网球公开赛：阿尔卡拉斯 vs 德米纳尔",
       "presenters": "",
       "matchInfo": {
-        "time": "01月27日17:30"
+        "time": "01月27日17:10"
       },
       "nodes": [
         {
-          "pID": "962435534",
-          "name": "罗德拉沃尔球场（清流）"
-        },
-        {
           "pID": "962689645",
           "name": "阿尔卡拉斯 vs 德米纳尔(单文强,王东)"
+        },
+        {
+          "pID": "962435534",
+          "name": "罗德拉沃尔球场（清流）"
         }
       ]
     },
