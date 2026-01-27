@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-01-27 18:31:24",
+  "updateTime": "2026-01-27 19:01:26",
   "data": [
     {
       "mgdbId": "120000547203",
@@ -217,12 +217,8 @@
           "name": "玛格丽特考特球场"
         },
         {
-          "pID": "962435178",
-          "name": "8号球场"
-        },
-        {
-          "pID": "962435365",
-          "name": "ANZ球场"
+          "pID": "962689607",
+          "name": "国际信号"
         },
         {
           "pID": "962435392",
@@ -247,10 +243,6 @@
         {
           "pID": "962434971",
           "name": "15号球场"
-        },
-        {
-          "pID": "962689607",
-          "name": "国际信号"
         },
         {
           "pID": "962435431",
@@ -436,7 +428,7 @@
     },
     {
       "mgdbId": "120000567052",
-      "pID": "962683540",
+      "pID": "962683508",
       "title": "罗王组合、黄荻/孙文骏登场",
       "keyword": "01月27日10:00",
       "sportItemId": "6",
@@ -453,16 +445,16 @@
       },
       "nodes": [
         {
+          "pID": "962683508",
+          "name": "1号场地"
+        },
+        {
           "pID": "962683540",
           "name": "2号场地"
         },
         {
           "pID": "962683554",
           "name": "3号场地"
-        },
-        {
-          "pID": "962683508",
-          "name": "1号场地"
         },
         {
           "pID": "962683568",
@@ -628,7 +620,7 @@
     },
     {
       "mgdbId": "120000566853",
-      "pID": "962585626",
+      "pID": "962585686",
       "title": "特鲁姆普、希金斯、斯佳辉、肖国栋登场",
       "keyword": "01月27日17:00",
       "sportItemId": "8",
@@ -645,8 +637,8 @@
       },
       "nodes": [
         {
-          "pID": "962585626",
-          "name": "1号桌"
+          "pID": "962585686",
+          "name": "3号桌"
         },
         {
           "pID": "962684294",
@@ -657,12 +649,12 @@
           "name": "2号桌"
         },
         {
-          "pID": "962585686",
-          "name": "3号桌"
-        },
-        {
           "pID": "962585718",
           "name": "4号桌"
+        },
+        {
+          "pID": "962585626",
+          "name": "1号桌"
         }
       ]
     },
@@ -728,7 +720,7 @@
       "title": "NBL常规赛",
       "keyword": "01月27日19:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBL",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000564259/202512171216_882764_H169_1080.webp",
@@ -756,7 +748,7 @@
       "title": "荣耀再续！王曼昱/蒯曼逆转夺冠",
       "keyword": "01月27日19:00",
       "sportItemId": "7",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "乒乓球经典赛事",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/26/77179TLTOJNI.png",
@@ -1148,7 +1140,7 @@
     },
     {
       "mgdbId": "120000566855",
-      "pID": "962585639",
+      "pID": "962684300",
       "title": "奥沙利文、塞尔比、赵心童登场",
       "keyword": "01月27日22:00",
       "sportItemId": "8",
@@ -1159,18 +1151,18 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "奥沙利文、塞尔比、赵心童登场",
       "modifyTitle": "斯诺克德国大师赛第一轮：奥沙利文、塞尔比、赵心童登场",
-      "presenters": "柏林 朱蒙",
+      "presenters": "朱蒙 柏林",
       "matchInfo": {
         "time": "01月27日22:00"
       },
       "nodes": [
         {
-          "pID": "962684310",
-          "name": "解说：柏林"
-        },
-        {
           "pID": "962684300",
           "name": "解说：朱蒙"
+        },
+        {
+          "pID": "962684310",
+          "name": "解说：柏林"
         },
         {
           "pID": "962585639",
