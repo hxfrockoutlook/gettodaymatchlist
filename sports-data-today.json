@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-01-28 08:01:15",
+  "updateTime": "2026-01-28 08:31:07",
   "data": [
     {
       "mgdbId": "120000566856",
@@ -132,7 +132,7 @@
     },
     {
       "mgdbId": "120000565980",
-      "pID": "962435863",
+      "pID": "962436144",
       "title": "莱巴金娜再遇斯瓦泰克！辛纳冲四强",
       "keyword": "01月28日07:00",
       "sportItemId": "9",
@@ -143,14 +143,22 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/1/10/1000000010711060bffe.jpeg",
       "pkInfoTitle": "莱巴金娜再遇斯瓦泰克！辛纳冲四强",
       "modifyTitle": "澳大利亚网球公开赛Day11：莱巴金娜再遇斯瓦泰克！辛纳冲四强",
-      "presenters": "宋光振 单文强 鸿昆 郭丰庆 李宁 邱超",
+      "presenters": "单文强 宋光振 鸿昆 郭丰庆 李宁 邱超",
       "matchInfo": {
         "time": "01月28日07:00"
       },
       "nodes": [
         {
+          "pID": "962436144",
+          "name": "罗德拉沃尔球场"
+        },
+        {
           "pID": "962436036",
           "name": "ANZ球场"
+        },
+        {
+          "pID": "962715507",
+          "name": "莱巴金娜 vs 斯瓦泰克(单文强)"
         },
         {
           "pID": "962715474",
@@ -205,14 +213,6 @@
           "name": "15号球场（清流）"
         },
         {
-          "pID": "962436144",
-          "name": "罗德拉沃尔球场"
-        },
-        {
-          "pID": "962715507",
-          "name": "莱巴金娜 vs 斯瓦泰克(单文强)"
-        },
-        {
           "pID": "962715502",
           "name": "佩古拉 vs 阿尼西莫娃(鸿昆)"
         },
@@ -235,10 +235,6 @@
         {
           "pID": "962715562",
           "name": "国际信号（清流）"
-        },
-        {
-          "pID": "962715489",
-          "name": "谢尔顿 vs 辛��(李宁,邱超)"
         }
       ]
     },
@@ -280,7 +276,7 @@
       "title": "NBA常规赛",
       "keyword": "01月28日08:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "麦迪逊广场花园",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/27/77187L472FPG.jpg",
@@ -308,7 +304,7 @@
       "title": "澳大利亚网球公开赛：莱巴金娜 vs 斯瓦泰克",
       "keyword": "01月28日08:30",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "澳网",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/27/77187AAF7SQI.jpg",
