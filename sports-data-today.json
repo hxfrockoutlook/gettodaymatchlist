@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-01-29 16:01:21",
+  "updateTime": "2026-01-29 16:31:12",
   "data": [
     {
       "mgdbId": "120000566860",
@@ -28,8 +28,8 @@
     },
     {
       "mgdbId": "120000565981",
-      "pID": "962436831",
-      "title": "张帅双打出战 16时萨巴vs斯维托丽娜",
+      "pID": "962734433",
+      "title": "萨巴vs斯维托丽娜 佩古拉接场",
       "keyword": "01月29日07:00",
       "sportItemId": "9",
       "matchStatus": "1",
@@ -37,9 +37,9 @@
       "competitionName": "澳网",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/29/7719UKFPSNSD.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/1/10/1000000010711060bffe.jpeg",
-      "pkInfoTitle": "张帅双打出战 16时萨巴vs斯维托丽娜",
-      "modifyTitle": "澳大利亚网球公开赛Day12：16时萨巴vs斯维托丽娜 莱巴金娜接场PK佩古拉",
-      "presenters": "鸿昆 李晶 王蔷",
+      "pkInfoTitle": "萨巴vs斯维托丽娜 佩古拉接场",
+      "modifyTitle": "澳大利亚网球公开赛Day12：萨巴伦卡vs斯维托丽娜 莱巴金娜接场PK佩古拉",
+      "presenters": "李晶 王蔷 鸿昆",
       "matchInfo": {
         "time": "01月29日07:00"
       },
@@ -47,6 +47,10 @@
         {
           "pID": "962734433",
           "name": "李晶 王蔷"
+        },
+        {
+          "pID": "962734117",
+          "name": "萨巴伦卡 vs 斯维托丽娜"
         },
         {
           "pID": "962436831",
@@ -79,10 +83,6 @@
         {
           "pID": "962734072",
           "name": "国际信号（清流）"
-        },
-        {
-          "pID": "962734117",
-          "name": "萨巴伦卡 vs 斯维托丽娜"
         }
       ]
     },
@@ -384,8 +384,8 @@
     },
     {
       "mgdbId": "120000567054",
-      "pID": "962683760",
-      "title": "冲八强！男单独苗朱轩辰出战",
+      "pID": "962683697",
+      "title": "冲八强！朱轩辰、胡林组合晋级",
       "keyword": "01月29日13:00",
       "sportItemId": "6",
       "matchStatus": "1",
@@ -393,7 +393,7 @@
       "competitionName": "BWF",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/29/7719V927C8RN.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
-      "pkInfoTitle": "冲八强！男单独苗朱轩辰出战",
+      "pkInfoTitle": "冲八强！朱轩辰、胡林组合晋级",
       "modifyTitle": "2026泰国羽毛球大师赛Day3：冲八强！朱轩辰、星驰组合出战",
       "presenters": "",
       "matchInfo": {
@@ -401,16 +401,16 @@
       },
       "nodes": [
         {
+          "pID": "962683697",
+          "name": "1号场地"
+        },
+        {
           "pID": "962683760",
           "name": "3号场地"
         },
         {
           "pID": "962683727",
           "name": "2号场地"
-        },
-        {
-          "pID": "962683697",
-          "name": "1号场地"
         },
         {
           "pID": "962683796",
