@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-01-30 11:01:12",
+  "updateTime": "2026-01-30 11:31:09",
   "data": [
     {
       "mgdbId": "120000566863",
@@ -60,7 +60,7 @@
     },
     {
       "mgdbId": "120000547225",
-      "pID": "962758902",
+      "pID": "962761227",
       "title": "NBA常规赛",
       "keyword": "01月30日08:00",
       "sportItemId": "2",
@@ -99,7 +99,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/1/10/1000000010711060bffe.jpeg",
       "pkInfoTitle": "阿卡PK兹维列夫 德约大战辛纳",
       "modifyTitle": "澳大利亚网球公开赛Day13：阿卡PK兹维列夫 德约大战辛纳",
-      "presenters": "刘钟鸣 蔡凯臣 单文强",
+      "presenters": "刘钟鸣 蔡凯臣",
       "matchInfo": {
         "time": "01月30日08:00"
       },
@@ -115,10 +115,6 @@
         {
           "pID": "962437132",
           "name": "罗德拉沃尔球场"
-        },
-        {
-          "pID": "962750232",
-          "name": "盖德基/皮尔斯vs 梅拉德诺维奇/吉纳尔(单文强)"
         },
         {
           "pID": "962750217",
@@ -156,14 +152,14 @@
     },
     {
       "mgdbId": "120000547226",
-      "pID": "962609346",
+      "pID": "962762608",
       "title": "NBA常规赛",
       "keyword": "01月30日09:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "州立农业球馆",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/30/771ATRUC0JTI.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/30/771AULLFAM04.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "火箭VS老鹰",
       "modifyTitle": "NBA常规赛",
@@ -172,6 +168,10 @@
         "time": "01月30日09:00"
       },
       "nodes": [
+        {
+          "pID": "962762608",
+          "name": "12中4效率还得提升！谢泼德三分命中 火箭已领先20分"
+        },
         {
           "pID": "962609346",
           "name": "王冠证 陈正昊 王羽希"
@@ -330,7 +330,7 @@
       "mgdbId": "120000567247",
       "pID": "962750259",
       "title": "澳大利亚网球公开赛：阿尔卡拉斯 vs 兹维列夫",
-      "keyword": "01月30日11:30",
+      "keyword": "01月30日11:00",
       "sportItemId": "9",
       "matchStatus": "1",
       "matchField": "",
@@ -341,7 +341,7 @@
       "modifyTitle": "澳大利亚网球公开赛：阿尔卡拉斯 vs 兹维列夫",
       "presenters": "刘钟鸣 蔡凯臣",
       "matchInfo": {
-        "time": "01月30日11:30"
+        "time": "01月30日11:00"
       },
       "nodes": [
         {
