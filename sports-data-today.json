@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-01-30 18:01:11",
+  "updateTime": "2026-01-30 18:31:11",
   "data": [
     {
       "mgdbId": "120000566863",
@@ -88,7 +88,7 @@
     },
     {
       "mgdbId": "120000565982",
-      "pID": "962437132",
+      "pID": "962750284",
       "title": "阿卡挺进决赛 德约大战辛纳",
       "keyword": "01月30日08:00",
       "sportItemId": "9",
@@ -105,12 +105,12 @@
       },
       "nodes": [
         {
-          "pID": "962437132",
-          "name": "罗德拉沃尔球场"
-        },
-        {
           "pID": "962750284",
           "name": "德约科维奇vs辛纳(刘钟鸣,蔡凯臣)"
+        },
+        {
+          "pID": "962437132",
+          "name": "罗德拉沃尔球场"
         },
         {
           "pID": "962437092",
@@ -331,7 +331,7 @@
       "matchStatus": "2",
       "matchField": "",
       "competitionName": "澳网",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/30/771AUU2FH5R3.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/30/771AT59TB4P7.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/1/10/1000000010711060bffe.jpeg",
       "pkInfoTitle": "阿尔卡拉斯 vs 兹维列夫",
       "modifyTitle": "澳大利亚网球公开赛：阿尔卡拉斯 vs 兹维列夫",
@@ -380,26 +380,22 @@
     },
     {
       "mgdbId": "120000567055",
-      "pID": "962683843",
-      "title": "冲四强！晚间星驰组合登场",
+      "pID": "962683814",
+      "title": "胡林组合晋级四强！稍后星驰出战",
       "keyword": "01月30日14:00",
       "sportItemId": "6",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "BWF",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/30/771ASLOG8TUA.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/30/771AT6TGFSKL.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
-      "pkInfoTitle": "冲四强！晚间星驰组合登场",
-      "modifyTitle": "2026泰国羽毛球大师赛Day4：冲四强！星驰、胡林组合出战",
+      "pkInfoTitle": "胡林组合晋级四强！稍后星驰出战",
+      "modifyTitle": "2026泰国羽毛球大师赛Day4：胡林组合、朱轩辰晋级四强！稍后星驰出战",
       "presenters": "",
       "matchInfo": {
         "time": "01月30日14:00"
       },
       "nodes": [
-        {
-          "pID": "962683843",
-          "name": "3号场地"
-        },
         {
           "pID": "962683814",
           "name": "1号场地"
@@ -407,6 +403,10 @@
         {
           "pID": "962683826",
           "name": "2号场地"
+        },
+        {
+          "pID": "962683843",
+          "name": "3号场地"
         }
       ]
     },
