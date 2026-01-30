@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-01-30 23:01:21",
+  "updateTime": "2026-01-30 23:31:17",
   "data": [
     {
       "mgdbId": "120000566863",
@@ -784,7 +784,7 @@
       "matchStatus": "2",
       "matchField": "",
       "competitionName": "WCBA",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000563993/202512120530_347078_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000563993/202601302300_307428_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/10/20/100000000535106f44f7.png",
       "pkInfoTitle": "新疆天山 VS 浙江稠州银行",
       "modifyTitle": "WCBA常规赛A组",
@@ -809,7 +809,7 @@
       "title": "五人制亚洲杯",
       "keyword": "01月30日20:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "五人制亚洲杯",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000566934/202601231305_584424_H169_1080.webp",
@@ -833,22 +833,26 @@
     },
     {
       "mgdbId": "120000566865",
-      "pID": "962585865",
-      "title": "凯伦·威尔逊vs墨菲 阿里·卡特出战",
+      "pID": "962585885",
+      "title": "凯伦·威尔逊1-5墨菲 阿里·卡特出战",
       "keyword": "01月30日21:00",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/30/771ATSSE89SD.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "凯伦·威尔逊vs墨菲 阿里·卡特出战",
-      "modifyTitle": "斯诺克德国大师赛1/4决赛：凯伦·威尔逊vs墨菲 阿里·卡特出战",
+      "pkInfoTitle": "凯伦·威尔逊1-5墨菲 阿里·卡特出战",
+      "modifyTitle": "斯诺克德国大师赛1/4决赛：凯伦·威尔逊1-5墨菲 阿里·卡特出战",
       "presenters": "柏林",
       "matchInfo": {
         "time": "01月30日21:00"
       },
       "nodes": [
+        {
+          "pID": "962585885",
+          "name": "2号桌"
+        },
         {
           "pID": "962770826",
           "name": "解说：柏林"
@@ -856,10 +860,6 @@
         {
           "pID": "962585865",
           "name": "1号桌"
-        },
-        {
-          "pID": "962585885",
-          "name": "2号桌"
         }
       ]
     }
