@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-01-31 14:01:37",
+  "updateTime": "2026-01-31 14:31:37",
   "data": [
     {
       "mgdbId": "120000566866",
@@ -332,7 +332,7 @@
     },
     {
       "mgdbId": "120000565983",
-      "pID": "962775718",
+      "pID": "962437422",
       "title": "16时双巴大战上演 张帅再夺大满贯女双冠军",
       "keyword": "01月31日09:00",
       "sportItemId": "9",
@@ -349,20 +349,16 @@
       },
       "nodes": [
         {
+          "pID": "962437422",
+          "name": "玛格丽特考特球场"
+        },
+        {
           "pID": "962775718",
           "name": "罗德拉沃尔球场（清流）"
         },
         {
-          "pID": "962775855",
-          "name": "库伯勒/波尔曼斯 vs 哈里森/斯卡普斯基"
-        },
-        {
           "pID": "962437380",
           "name": "KIA球场"
-        },
-        {
-          "pID": "962437422",
-          "name": "玛格丽特考特球场"
         },
         {
           "pID": "962775690",
@@ -375,6 +371,10 @@
         {
           "pID": "962437340",
           "name": "1573球场"
+        },
+        {
+          "pID": "962775855",
+          "name": "库伯勒/波尔曼斯 vs 哈里森/斯卡普斯基"
         }
       ]
     },
@@ -480,11 +480,11 @@
     },
     {
       "mgdbId": "120000547239",
-      "pID": "962608302",
+      "pID": "962786487",
       "title": "NBA常规赛",
       "keyword": "01月31日11:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "大通中心",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/31/771BOV6COV2L.jpg",
@@ -497,8 +497,8 @@
       },
       "nodes": [
         {
-          "pID": "962786066",
-          "name": "风云突变！希尔德空切上篮 勇士仅落后3分"
+          "pID": "962786487",
+          "name": "25-26赛季NBA常规赛全场集锦：活塞131:124勇士（20260131）"
         },
         {
           "pID": "962608302",
@@ -516,16 +516,16 @@
     },
     {
       "mgdbId": "120000567056",
-      "pID": "962779075",
-      "title": "冲击决赛！胡林组合、朱轩辰出战",
+      "pID": "962779097",
+      "title": "胡林组合出战 鲍李组合晋级决赛",
       "keyword": "01月31日13:00",
       "sportItemId": "6",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "BWF",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/30/771ATS463CRJ.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/31/771BP4T9VLA3.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
-      "pkInfoTitle": "冲击决赛！胡林组合、朱轩辰出战",
+      "pkInfoTitle": "胡林组合出战 鲍李组合晋级决赛",
       "modifyTitle": "2026泰国羽毛球大师赛Day5：冲击决赛！胡林组合、朱轩辰出战",
       "presenters": "鸿昆",
       "matchInfo": {
@@ -533,8 +533,8 @@
       },
       "nodes": [
         {
-          "pID": "962779075",
-          "name": "库苏马/梅丽莎VS鲍骊婧/李怡婧"
+          "pID": "962779097",
+          "name": "胡珂源/林祥毅VS因陀罗/华金"
         },
         {
           "pID": "962683850",
@@ -647,7 +647,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "UFC前瞻与回顾",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/31/771BP5TLI479.jpg",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/20/7711R3GE2V3R.png",
       "pkInfoTitle": "UFC激战前夜：益扎、苏郎让波特辑",
       "modifyTitle": "UFC激战前夜：益扎、苏郎让波特辑",
@@ -698,7 +698,7 @@
       "sportItemId": "1",
       "matchStatus": "0",
       "matchField": "",
-      "competitionName": "��人制亚洲杯",
+      "competitionName": "五人制亚洲杯",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000567506/202601301011_193310_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/4/10/100000001181106bf55f.png",
       "pkInfoTitle": "泰国vs越南",
