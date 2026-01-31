@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-02-01 01:02:10",
+  "updateTime": "2026-02-01 01:31:48",
   "data": [
     {
       "mgdbId": "120000543599",
@@ -92,7 +92,7 @@
       "title": "英超联赛",
       "keyword": "02月01日01:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "斯坦福桥球场",
       "competitionName": "英超",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000542289/213036_H169_sc.jpg",
@@ -132,7 +132,7 @@
       "title": "德甲联赛",
       "keyword": "02月01日01:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "人民公园球场",
       "competitionName": "德甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000543681/609194_H169_sc.jpg",
@@ -160,7 +160,7 @@
       "title": "西甲联赛",
       "keyword": "02月01日01:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "西甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000543876/844719_H169_sc.jpg",
@@ -439,14 +439,14 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "鹈鹕VS76人",
       "modifyTitle": "NBA常规赛",
-      "presenters": "王凯",
+      "presenters": "金哲豪",
       "matchInfo": {
         "time": "02月01日08:30"
       },
       "nodes": [
         {
           "pID": "962611506",
-          "name": "王凯"
+          "name": "金哲豪"
         },
         {
           "pID": "962611546",
@@ -521,7 +521,7 @@
       "competitionName": "澳网",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/31/771BRJ4171RG.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/1/10/1000000010711060bffe.jpeg",
-      "pkInfoTitle": "男单��赛：德约科维奇vs阿尔卡拉斯",
+      "pkInfoTitle": "男单决赛：德约科维奇vs阿尔卡拉斯",
       "modifyTitle": "澳大利亚网球公开赛Day15：男单决赛：德约科维奇vs阿尔卡拉斯",
       "presenters": "",
       "matchInfo": {
@@ -531,6 +531,22 @@
         {
           "pID": "962437252",
           "name": "罗德拉沃尔球场（清流）"
+        },
+        {
+          "pID": "962798035",
+          "name": "清流"
+        },
+        {
+          "pID": "962798331",
+          "name": "清流"
+        },
+        {
+          "pID": "962798339",
+          "name": "清流"
+        },
+        {
+          "pID": "962798381",
+          "name": "解说"
         }
       ]
     },
