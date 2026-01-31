@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-01-31 11:01:38",
+  "updateTime": "2026-01-31 11:31:38",
   "data": [
     {
       "mgdbId": "120000566866",
@@ -156,7 +156,7 @@
     },
     {
       "mgdbId": "120000547231",
-      "pID": "962781810",
+      "pID": "962783105",
       "title": "NBA常规赛",
       "keyword": "01月31日08:00",
       "sportItemId": "2",
@@ -167,7 +167,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "湖人VS奇才",
       "modifyTitle": "NBA常规赛",
-      "presenters": "李天宇 陈正昊 金佳悦 郑泽鹏 莫俊祺",
+      "presenters": "李天宇 陈正昊 金佳悦 郑泽鹏 莫俊祺 洪荒",
       "matchInfo": {
         "time": "01月31日08:00"
       },
@@ -200,14 +200,14 @@
     },
     {
       "mgdbId": "120000547232",
-      "pID": "962609758",
+      "pID": "962783472",
       "title": "NBA常规赛",
       "keyword": "01月31日08:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "安利中心",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/30/771ASA7CFB7R.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/31/771BRP2D384A.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "猛龙VS魔术",
       "modifyTitle": "NBA常规赛",
@@ -216,6 +216,10 @@
         "time": "01月31日08:30"
       },
       "nodes": [
+        {
+          "pID": "962783472",
+          "name": "神奇的比布莱克反击扣空篮 魔术逆转领先10分"
+        },
         {
           "pID": "962609758",
           "name": "张泽欣"
@@ -292,11 +296,11 @@
     },
     {
       "mgdbId": "120000547235",
-      "pID": "962609006",
+      "pID": "962783467",
       "title": "NBA常规赛",
       "keyword": "01月31日08:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "麦迪逊广场花园",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/31/771BRJ4FSP3E.jpg",
@@ -308,6 +312,10 @@
         "time": "01月31日08:30"
       },
       "nodes": [
+        {
+          "pID": "962783467",
+          "name": "全场集锦"
+        },
         {
           "pID": "962609006",
           "name": "邵化谦 季孟年 佳依"
@@ -325,7 +333,7 @@
     {
       "mgdbId": "120000565983",
       "pID": "962775718",
-      "title": "张帅女双冲冠！ 双巴大战再演",
+      "title": "张帅喜提第三座女双大满贯冠军！ 双巴大战再度上演",
       "keyword": "01月31日09:00",
       "sportItemId": "9",
       "matchStatus": "1",
@@ -333,9 +341,9 @@
       "competitionName": "澳网",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/31/771BOQF1E3P8.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/1/10/1000000010711060bffe.jpeg",
-      "pkInfoTitle": "张帅女双冲冠！ 双巴大战再演",
-      "modifyTitle": "澳大利亚网球公开赛Day14：张帅女双冲冠！ 双巴大战再度上演",
-      "presenters": "邱超 李宁 单文强 王蔷",
+      "pkInfoTitle": "张帅喜提第三座女双大满贯冠军！ 双巴大战再度上演",
+      "modifyTitle": "澳大利亚网球公开赛Day14：张帅喜提第三座女双大满贯冠军！ 双巴大战再度上演",
+      "presenters": "单文强 李宁 王蔷",
       "matchInfo": {
         "time": "01月31日09:00"
       },
@@ -345,8 +353,8 @@
           "name": "罗德拉沃尔球场（清流）"
         },
         {
-          "pID": "962775736",
-          "name": "邱超 李宁"
+          "pID": "962775855",
+          "name": "库伯勒/波尔曼斯 vs 哈里森/斯卡普斯基"
         },
         {
           "pID": "962437422",
@@ -367,10 +375,6 @@
         {
           "pID": "962775690",
           "name": "国际信号（清流）"
-        },
-        {
-          "pID": "962775855",
-          "name": "库伯勒/波尔曼斯 vs 哈里森/斯卡普斯基"
         },
         {
           "pID": "962775890",
@@ -1403,7 +1407,12 @@
       "matchInfo": {
         "time": "01月31日19:00"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "962782996",
+          "name": "北京VS上海"
+        }
+      ]
     }
   ]
 }
