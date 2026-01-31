@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-01-31 18:01:38",
+  "updateTime": "2026-01-31 18:31:29",
   "data": [
     {
       "mgdbId": "120000566866",
@@ -357,10 +357,6 @@
           "name": "罗德拉沃尔球场（清流）"
         },
         {
-          "pID": "962437422",
-          "name": "玛格丽特考特球场"
-        },
-        {
           "pID": "962775690",
           "name": "国际信号（清流）"
         },
@@ -516,26 +512,22 @@
     },
     {
       "mgdbId": "120000567056",
-      "pID": "962779104",
-      "title": "朱轩辰出战 鲍李组合闯入决赛",
+      "pID": "962683850",
+      "title": "鲍李组合闯入决赛 朱轩辰惜败",
       "keyword": "01月31日13:00",
       "sportItemId": "6",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "BWF",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/31/771BPCVJHKR2.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/31/771BQ9DHF0A1.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
-      "pkInfoTitle": "朱轩辰出战 鲍李组合闯入决赛",
-      "modifyTitle": "2026泰国羽毛球大师赛Day5：鲍李组合闯入决赛 朱轩辰登场",
-      "presenters": "孙宁智",
+      "pkInfoTitle": "鲍李组合闯入决赛 朱轩辰惜败",
+      "modifyTitle": "2026泰国羽毛球大师赛Day5：鲍李组合闯入决赛 朱轩辰惜败",
+      "presenters": "",
       "matchInfo": {
         "time": "01月31日13:00"
       },
       "nodes": [
-        {
-          "pID": "962779104",
-          "name": "帕尼查蓬VS朱轩辰"
-        },
         {
           "pID": "962683850",
           "name": "1号场地"
@@ -624,7 +616,7 @@
       "title": "普洱队VS西双版纳队",
       "keyword": "01月31日16:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "云南省城市足球联赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000567407/202601291340_429592_H169_1080.webp",
@@ -1402,6 +1394,34 @@
         },
         {
           "pID": "962749100",
+          "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000543599",
+      "pID": "120000543599",
+      "title": "巴黎 vs 马赛",
+      "keyword": "01月31日23:45",
+      "sportItemId": "",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "法甲",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/07/17/11005/f3eca7533a0b4854bbf51a58bbb82bb8/f3eca7533a0b4854bbf51a58bbb82bb8_H169_P1080_WEBP.webp",
+      "competitionLogo": "",
+      "pkInfoTitle": "巴黎 vs 马赛",
+      "modifyTitle": "巴黎 vs 马赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "01月31日23:45"
+      },
+      "nodes": [
+        {
+          "pID": "962748365",
+          "name": "邵煊"
+        },
+        {
+          "pID": "962748381",
           "name": "赛场原声"
         }
       ]
