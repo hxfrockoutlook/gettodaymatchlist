@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-01-31 08:01:42",
+  "updateTime": "2026-01-31 08:31:36",
   "data": [
     {
       "mgdbId": "120000566866",
@@ -200,7 +200,7 @@
       "title": "NBA常规赛",
       "keyword": "01月31日08:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "安利中心",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/30/771ASA7CFB7R.png",
@@ -228,7 +228,7 @@
       "title": "NBA常规赛",
       "keyword": "01月31日08:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "TD彼岸花园",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/30/771ASAA45F1L.png",
@@ -256,7 +256,7 @@
       "title": "NBA常规赛",
       "keyword": "01月31日08:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "冰沙国王中心",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/30/771ASASP32H5.png",
@@ -284,7 +284,7 @@
       "title": "NBA常规赛",
       "keyword": "01月31日08:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "麦迪逊广场花园",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/30/771ASE1RA85R.jpg",
@@ -1059,7 +1059,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "斯诺克",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/31/771BQTCVA6OJ.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "肖恩·墨菲 vs 尼尔·罗伯逊",
       "modifyTitle": "斯诺克德国大师赛半决赛：肖恩·墨菲 vs 尼尔·罗伯逊",
@@ -1069,12 +1069,12 @@
       },
       "nodes": [
         {
-          "pID": "962585983",
-          "name": "1号桌"
-        },
-        {
           "pID": "962770811",
           "name": "朱蒙"
+        },
+        {
+          "pID": "962585983",
+          "name": "1号桌"
         }
       ]
     },
