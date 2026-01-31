@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-02-01 03:31:47",
+  "updateTime": "2026-02-01 04:01:51",
   "data": [
     {
       "mgdbId": "120000543599",
@@ -60,11 +60,11 @@
     },
     {
       "mgdbId": "120000547241",
-      "pID": "962611251",
+      "pID": "962799837",
       "title": "NBA常规赛",
       "keyword": "02月01日01:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "光谱中心",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/01/773BEMAG81SR.png",
@@ -76,6 +76,10 @@
         "time": "02月01日01:00"
       },
       "nodes": [
+        {
+          "pID": "962799837",
+          "name": "25-26赛季NBA常规赛全场集锦：马刺106:111黄蜂（20260201）"
+        },
         {
           "pID": "962611251",
           "name": "王晓晨"
@@ -92,14 +96,14 @@
       "title": "英超联赛",
       "keyword": "02月01日01:30",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "斯坦福桥球场",
       "competitionName": "英超",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000542289/213036_H169_sc.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000542289/189243_H169_sc.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png",
       "pkInfoTitle": "切尔西 vs 西汉姆联",
       "modifyTitle": "英超联赛",
-      "presenters": "刘畅 颜强 李子琪",
+      "presenters": "颜强 李子琪 刘畅",
       "matchInfo": {
         "time": "02月01日01:30"
       },
@@ -132,10 +136,10 @@
       "title": "德甲联赛",
       "keyword": "02月01日01:30",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "人民公园球场",
       "competitionName": "德甲",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000543681/609194_H169_sc.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000543681/955311_H169_sc.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png",
       "pkInfoTitle": "汉堡 vs 拜仁慕尼黑",
       "modifyTitle": "德甲联赛",
@@ -160,7 +164,7 @@
       "title": "西甲联赛",
       "keyword": "02月01日01:30",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "西甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/01/773BENS6VQ2K.jpg",
@@ -316,7 +320,7 @@
       "title": "西甲联赛",
       "keyword": "02月01日04:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "曼努埃尔·马丁内斯·巴莱罗市政体育场",
       "competitionName": "西甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000543875/340133_H169_sc.jpg",
@@ -344,7 +348,7 @@
       "title": "法甲联赛",
       "keyword": "02月01日04:05",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "路易二世球场",
       "competitionName": "法甲",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000542611/202507101726_790425_H169_1080.webp",
@@ -866,7 +870,7 @@
       "sportItemId": "2",
       "matchStatus": "0",
       "matchField": "",
-      "competitionName": "江西省城市篮球联赛",
+      "competitionName": "江西省城市篮球联��",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/10/770OMSTSSPC4.png",
       "pkInfoTitle": "吉安vs鹰潭",
