@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-02-04 09:31:06",
+  "updateTime": "2026-02-04 10:01:09",
   "data": [
     {
       "mgdbId": "120000543085",
@@ -268,7 +268,7 @@
       "title": "第一比赛日热身区",
       "keyword": "02月04日10:00",
       "sportItemId": "7",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "乒乓球亚洲杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/03/773DANC6GPLR.jpg",
@@ -324,7 +324,7 @@
       "title": "孙颖莎打响揭幕战 林诗栋亚洲杯首秀",
       "keyword": "02月04日11:00",
       "sportItemId": "7",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "乒乓球亚洲杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/03/773DAAMFRLUA.jpg",
@@ -336,6 +336,10 @@
         "time": "02月04日11:00"
       },
       "nodes": [
+        {
+          "pID": "962771536",
+          "name": "热身区"
+        },
         {
           "pID": "962771604",
           "name": "侯英超"
@@ -359,10 +363,6 @@
         {
           "pID": "962771583",
           "name": "3号桌"
-        },
-        {
-          "pID": "962771536",
-          "name": "热身区"
         },
         {
           "pID": "962771661",
