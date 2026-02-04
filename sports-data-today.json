@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-02-04 21:01:32",
+  "updateTime": "2026-02-04 21:31:29",
   "data": [
     {
       "mgdbId": "120000543085",
@@ -345,10 +345,6 @@
           "name": "热身区"
         },
         {
-          "pID": "962771676",
-          "name": "候场区"
-        },
-        {
           "pID": "962771604",
           "name": "侯英超"
         },
@@ -371,6 +367,10 @@
         {
           "pID": "962771583",
           "name": "3号桌"
+        },
+        {
+          "pID": "962771676",
+          "name": "候场区"
         }
       ]
     },
@@ -456,7 +456,7 @@
       "title": "第一比赛日热身区",
       "keyword": "02月04日17:00",
       "sportItemId": "7",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "乒乓球亚洲杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/04/773E70JB203M.jpg",
@@ -483,7 +483,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/04/773E7ECRU6HG.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/04/773E7J825C6I.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
       "pkInfoTitle": "本西奇退赛 奥斯塔彭科遗憾出局",
       "modifyTitle": "WTA阿布扎比站Day4：本西奇退赛 奥斯塔彭科遗憾出局",
@@ -515,7 +515,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/04/773E6UK1G256.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/04/773E7NJ4KIML.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
       "pkInfoTitle": "波塔波娃出战 王欣瑜2-0晋级",
       "modifyTitle": "WTA克卢日-纳波卡站Day4：波塔波娃出战 王欣瑜2-0晋级",
@@ -571,11 +571,11 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "乒乓球亚洲杯",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/04/773E7FIGKAG5.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/04/773E7NBFPRG1.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/5/12/1000000012551064f92b.png",
       "pkInfoTitle": "王楚钦、王曼昱迎开门红 陈熠3-0速胜",
       "modifyTitle": "海口亚洲杯：小组循环赛第一轮",
-      "presenters": "刘国正 周冠达 朱子恒 刘馨蕊",
+      "presenters": "刘国正 周冠达 朱子恒",
       "matchInfo": {
         "time": "02月04日18:00"
       },
@@ -589,20 +589,8 @@
           "name": "朱子恒"
         },
         {
-          "pID": "962771903",
-          "name": "刘馨蕊"
-        },
-        {
-          "pID": "962771536",
-          "name": "热身区"
-        },
-        {
           "pID": "962771719",
           "name": "1号桌"
-        },
-        {
-          "pID": "962771787",
-          "name": "3号桌"
         },
         {
           "pID": "962771944",
@@ -772,11 +760,11 @@
     },
     {
       "mgdbId": "120000567266",
-      "pID": "962750083",
+      "pID": "962834349",
       "title": "成人小组赛第二轮 新北FOOTER VS 3X3 VIETNAM",
       "keyword": "02月04日19:10",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "萨马兰奇杯",
       "padImg": "",
@@ -789,6 +777,10 @@
       },
       "nodes": [
         {
+          "pID": "962834349",
+          "name": "八强齐聚 共逐荣耀！来咪咕 看CBA俱乐部杯决赛"
+        },
+        {
           "pID": "962750083",
           "name": "清流播出"
         }
@@ -797,16 +789,16 @@
     {
       "mgdbId": "120000567061",
       "pID": "962682593",
-      "title": "杭州VS丽水",
+      "title": "杭州58-59丽水",
       "keyword": "02月04日19:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "浙江省城市篮球联赛",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/7/16/1000000012931063812e.png",
-      "pkInfoTitle": "杭州VS丽水",
-      "modifyTitle": "杭州VS丽水",
+      "pkInfoTitle": "杭州58-59丽水",
+      "modifyTitle": "杭州58-59丽水",
       "presenters": "",
       "matchInfo": {
         "time": "02月04日19:30"
