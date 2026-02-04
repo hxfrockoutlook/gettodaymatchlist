@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-02-04 13:31:15",
+  "updateTime": "2026-02-04 14:01:14",
   "data": [
     {
       "mgdbId": "120000543085",
@@ -287,36 +287,12 @@
       ]
     },
     {
-      "mgdbId": "120000567435",
-      "pID": "962771536",
-      "title": "第一比赛日热身区",
-      "keyword": "02月04日10:00",
-      "sportItemId": "7",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "乒乓球亚洲杯",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/04/773E8E2AE4R5.png",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/5/12/1000000012551064f92b.png",
-      "pkInfoTitle": "第一比赛日热身区",
-      "modifyTitle": "海口亚洲杯：第一比赛日热身区",
-      "presenters": "",
-      "matchInfo": {
-        "time": "02月04日10:00"
-      },
-      "nodes": [
-        {
-          "pID": "962771536",
-          "name": "热身区"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000547268",
-      "pID": "962786450",
+      "pID": "962870400",
       "title": "NBA常规赛",
       "keyword": "02月04日11:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "大通中心",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/04/773E5E4CKNQF.jpg",
@@ -344,22 +320,38 @@
     },
     {
       "mgdbId": "120000566804",
-      "pID": "962771615",
+      "pID": "962771661",
       "title": "孙颖莎迎开年首胜 林诗栋横扫取胜",
       "keyword": "02月04日11:00",
       "sportItemId": "7",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "乒乓球亚洲杯",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/04/773E5EUH10LH.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/04/773E5HKJCVBC.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/5/12/1000000012551064f92b.png",
       "pkInfoTitle": "孙颖莎迎开年首胜 林诗栋横扫取胜",
       "modifyTitle": "海口亚洲杯：小组循环赛第一轮",
-      "presenters": "周冠达 周泽昊 侯英超",
+      "presenters": "侯英超 周冠达 周泽昊",
       "matchInfo": {
         "time": "02月04日11:00"
       },
       "nodes": [
+        {
+          "pID": "962771661",
+          "name": "混采区"
+        },
+        {
+          "pID": "962771536",
+          "name": "热身区"
+        },
+        {
+          "pID": "962771676",
+          "name": "候场区"
+        },
+        {
+          "pID": "962771604",
+          "name": "侯英超"
+        },
         {
           "pID": "962771615",
           "name": "周冠达"
@@ -367,10 +359,6 @@
         {
           "pID": "962771641",
           "name": "周泽昊"
-        },
-        {
-          "pID": "962771604",
-          "name": "侯英超"
         },
         {
           "pID": "962771549",
@@ -383,18 +371,6 @@
         {
           "pID": "962771583",
           "name": "3号桌"
-        },
-        {
-          "pID": "962771536",
-          "name": "热身区"
-        },
-        {
-          "pID": "962771676",
-          "name": "候场区"
-        },
-        {
-          "pID": "962771661",
-          "name": "混采区"
         }
       ]
     },
@@ -471,6 +447,30 @@
         {
           "pID": "962866552",
           "name": "朱峰立"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000567435",
+      "pID": "962771536",
+      "title": "第一比赛日热身区",
+      "keyword": "02月04日17:00",
+      "sportItemId": "7",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "乒乓球亚洲杯",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/04/773E8E2AE4R5.png",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/5/12/1000000012551064f92b.png",
+      "pkInfoTitle": "第一比赛日热身区",
+      "modifyTitle": "海口亚洲杯：第一比赛日热身区",
+      "presenters": "",
+      "matchInfo": {
+        "time": "02月04日17:00"
+      },
+      "nodes": [
+        {
+          "pID": "962771536",
+          "name": "热身区"
         }
       ]
     },
