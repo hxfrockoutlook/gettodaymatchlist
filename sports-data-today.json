@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-02-04 18:01:13",
+  "updateTime": "2026-02-04 18:31:10",
   "data": [
     {
       "mgdbId": "120000543085",
@@ -459,7 +459,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "乒乓球亚洲杯",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/04/773E8E2AE4R5.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/04/773E6SJEC9L7.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/5/12/1000000012551064f92b.png",
       "pkInfoTitle": "第一比赛日热身区",
       "modifyTitle": "海口亚洲杯：第一比赛日热身区",
@@ -477,16 +477,16 @@
     {
       "mgdbId": "120000567445",
       "pID": "962749737",
-      "title": "亚历山德洛娃出战 奥斯塔彭科接场",
+      "title": "奥斯塔彭科出战本西奇接场",
       "keyword": "02月04日17:00",
       "sportItemId": "9",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/04/773E6JECMORF.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/04/773E6TJIFSAN.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "亚历山德洛娃出战 奥斯塔彭科接场",
-      "modifyTitle": "WTA阿布扎比站Day4：亚历山德洛娃出战 奥斯塔彭科接场",
+      "pkInfoTitle": "奥斯塔彭科出战本西奇接场",
+      "modifyTitle": "WTA阿布扎比站Day4：奥斯塔彭科出战本西奇接场",
       "presenters": "",
       "matchInfo": {
         "time": "02月04日17:00"
@@ -536,11 +536,11 @@
     },
     {
       "mgdbId": "120000567267",
-      "pID": "962750017",
+      "pID": "962834349",
       "title": "U12第42场 澳門維他奶星苗 VS 石狮草根",
       "keyword": "02月04日17:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "萨马兰奇杯",
       "padImg": "",
@@ -552,6 +552,10 @@
         "time": "02月04日17:30"
       },
       "nodes": [
+        {
+          "pID": "962834349",
+          "name": "八强齐聚 共逐荣耀！来咪咕 看CBA俱乐部杯决赛"
+        },
         {
           "pID": "962750017",
           "name": "清流播出"
@@ -567,7 +571,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "乒乓球亚洲杯",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/04/773E6N74J1R8.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/04/773E6R367S3D.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/5/12/1000000012551064f92b.png",
       "pkInfoTitle": "王曼昱登场 王楚钦接台首秀",
       "modifyTitle": "海口亚洲杯：小组循环赛第一轮",
@@ -628,7 +632,7 @@
       "title": "阿朗戈、博尔特轮番出战",
       "keyword": "02月04日18:00",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTA",
       "padImg": "",
@@ -656,7 +660,7 @@
       "title": "东亚超级联赛",
       "keyword": "02月04日18:10",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "东亚超级联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/03/773DAF2RCQA8.jpg",
@@ -724,7 +728,7 @@
     },
     {
       "mgdbId": "120000567412",
-      "pID": "962747651",
+      "pID": "962866584",
       "title": "赵心童再战希金斯 袁思俊VS特鲁姆普",
       "keyword": "02月04日19:00",
       "sportItemId": "8",
@@ -741,6 +745,10 @@
       },
       "nodes": [
         {
+          "pID": "962866584",
+          "name": "秦正"
+        },
+        {
           "pID": "962747651",
           "name": "1号桌"
         },
@@ -755,10 +763,6 @@
         {
           "pID": "962747753",
           "name": "4号桌"
-        },
-        {
-          "pID": "962866584",
-          "name": "秦正"
         }
       ]
     },
