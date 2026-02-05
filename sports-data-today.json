@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-02-05 10:31:04",
+  "updateTime": "2026-02-05 11:01:07",
   "data": [
     {
       "mgdbId": "120000565637",
@@ -99,7 +99,7 @@
       "matchStatus": "1",
       "matchField": "费哲论坛球馆",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/04/773E5OO8C7DM.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/05/773F58P4ET6K.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "鹈鹕VS雄鹿",
       "modifyTitle": "NBA常规赛",
@@ -232,7 +232,7 @@
       "title": "NBA常规赛",
       "keyword": "02月05日11:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "金色一号中心",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/04/773E5VC4IDMA.png",
@@ -256,7 +256,7 @@
     },
     {
       "mgdbId": "120000566810",
-      "pID": "962771617",
+      "pID": "962771739",
       "title": "孙颖莎冲连胜 林诗栋、蒯曼登场",
       "keyword": "02月05日11:00",
       "sportItemId": "7",
@@ -272,10 +272,6 @@
         "time": "02月05日11:00"
       },
       "nodes": [
-        {
-          "pID": "962771617",
-          "name": "热身区"
-        },
         {
           "pID": "962771739",
           "name": "周冠达"
@@ -295,6 +291,10 @@
         {
           "pID": "962771674",
           "name": "2号桌"
+        },
+        {
+          "pID": "962771617",
+          "name": "热身区"
         },
         {
           "pID": "962771707",
@@ -351,7 +351,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "肖国栋PK奥沙利文 张安达迎战霍金斯",
       "modifyTitle": "2026斯诺克世界大奖赛第二轮：肖国栋PK奥沙利文 张安达迎战霍金斯",
-      "presenters": "",
+      "presenters": "柏林 朱蒙",
       "matchInfo": {
         "time": "02月05日13:00"
       },
@@ -371,6 +371,14 @@
         {
           "pID": "962747111",
           "name": "4号桌"
+        },
+        {
+          "pID": "962889465",
+          "name": "柏林"
+        },
+        {
+          "pID": "962889491",
+          "name": "朱蒙"
         }
       ]
     },
@@ -611,7 +619,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "赵心童大战塞尔比 吴宜泽PK常冰玉",
       "modifyTitle": "2026斯诺克世界大奖赛第二轮：赵心童大战塞尔比 吴宜泽PK常冰玉",
-      "presenters": "",
+      "presenters": "朱蒙 秦正",
       "matchInfo": {
         "time": "02月05日19:00"
       },
@@ -631,6 +639,14 @@
         {
           "pID": "962747280",
           "name": "4号桌"
+        },
+        {
+          "pID": "962889522",
+          "name": "朱蒙"
+        },
+        {
+          "pID": "962889550",
+          "name": "秦正"
         }
       ]
     },
