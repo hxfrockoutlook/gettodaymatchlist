@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-02-06 02:01:28",
+  "updateTime": "2026-02-06 02:31:25",
   "data": [
     {
       "mgdbId": "120000568048",
@@ -1115,7 +1115,7 @@
     {
       "mgdbId": "120000566575",
       "pID": "120000566575",
-      "title": "2:30播单板滑雪 苏翊鸣领衔出战",
+      "title": "正播单板滑雪 苏翊鸣领衔出战",
       "keyword": "02月06日02:00",
       "sportItemId": "",
       "matchStatus": "1",
@@ -1123,8 +1123,8 @@
       "competitionName": "冬奥会",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/06/773FVMTUMHES.jpg",
       "competitionLogo": "",
-      "pkInfoTitle": "2:30播单板滑雪 苏翊鸣领衔出战",
-      "modifyTitle": "6日2:30播单板滑雪 苏翊鸣领衔出战",
+      "pkInfoTitle": "正播单板滑雪 苏翊鸣领衔出战",
+      "modifyTitle": "正播单板滑雪 苏翊鸣领衔出战",
       "presenters": "",
       "matchInfo": {
         "time": "02月06日02:00"
@@ -1135,15 +1135,43 @@
           "name": "蔡凯臣,张嘉豪,裴优"
         },
         {
-          "pID": "962834176",
-          "name": "CCTV5"
-        },
-        {
           "pID": "962834554",
           "name": "张瀚予"
         },
         {
           "pID": "962834538",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "962834176",
+          "name": "CCTV5"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000566566",
+      "pID": "120000566566",
+      "title": "正播冰壶循环赛 捷克挑战顶级豪强英国",
+      "keyword": "02月06日01:55",
+      "sportItemId": "",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "冬奥会",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/05/773F5GI0LKUA.jpg",
+      "competitionLogo": "",
+      "pkInfoTitle": "正播冰壶循环赛 捷克挑战顶级豪强英国",
+      "modifyTitle": "正播冰壶循环赛 捷克挑战顶级豪强英国",
+      "presenters": "",
+      "matchInfo": {
+        "time": "02月06日01:55"
+      },
+      "nodes": [
+        {
+          "pID": "962834526",
+          "name": "姚文倩"
+        },
+        {
+          "pID": "962834511",
           "name": "赛场原声"
         }
       ]
