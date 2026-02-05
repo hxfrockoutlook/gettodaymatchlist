@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-02-05 13:01:10",
+  "updateTime": "2026-02-05 13:31:03",
   "data": [
     {
       "mgdbId": "120000565637",
@@ -161,7 +161,7 @@
     {
       "mgdbId": "120000568424",
       "pID": "962857108",
-      "title": "UFC联合测试：���一日上午",
+      "title": "UFC联合测试：第一日��午",
       "keyword": "02月05日09:15",
       "sportItemId": "5",
       "matchStatus": "2",
@@ -191,7 +191,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "乒乓球亚洲杯",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/05/773F5Q4O75VN.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/05/773F2H2AL4A6.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/5/12/1000000012551064f92b.png",
       "pkInfoTitle": "第二比赛日热身区",
       "modifyTitle": "海口亚洲杯：第二比赛日热身区",
@@ -208,14 +208,14 @@
     },
     {
       "mgdbId": "120000547274",
-      "pID": "962781333",
+      "pID": "962893396",
       "title": "NBA常规赛",
       "keyword": "02月05日10:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "冰霜银行中心",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/04/773E5VBORK7R.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/05/773F2G1BQ9RU.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "雷霆VS马刺",
       "modifyTitle": "NBA常规赛",
@@ -224,6 +224,10 @@
         "time": "02月05日10:30"
       },
       "nodes": [
+        {
+          "pID": "962893396",
+          "name": "25-26赛季NBA常规赛全场集锦：雷霆106:116马刺（20260205）"
+        },
         {
           "pID": "962781333",
           "name": "王冠证 陈正昊 廖昕阳"
@@ -247,7 +251,7 @@
       "matchStatus": "1",
       "matchField": "金色一号中心",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/04/773E5VC4IDMA.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/05/773F2G24KBNA.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "灰熊VS国王",
       "modifyTitle": "NBA常规赛",
@@ -275,11 +279,11 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "乒乓球亚洲杯",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/05/773F5RHJVEBN.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/05/773F2GT34CK5.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/5/12/1000000012551064f92b.png",
       "pkInfoTitle": "孙颖莎横扫取胜锁定小组头名 林诗栋登场",
       "modifyTitle": "海口亚洲杯：小组循环赛第二轮",
-      "presenters": "周冠达 凌维康 周泽昊",
+      "presenters": "周冠达 周泽昊 凌维康",
       "matchInfo": {
         "time": "02月05日11:00"
       },
@@ -293,16 +297,8 @@
           "name": "凌维康"
         },
         {
-          "pID": "962771777",
-          "name": "周泽昊"
-        },
-        {
           "pID": "962771654",
           "name": "1号桌"
-        },
-        {
-          "pID": "962771674",
-          "name": "2号桌"
         },
         {
           "pID": "962771617",
@@ -319,6 +315,14 @@
         {
           "pID": "962771871",
           "name": "候场区"
+        },
+        {
+          "pID": "962771777",
+          "name": "周泽昊"
+        },
+        {
+          "pID": "962771674",
+          "name": "2号桌"
         }
       ]
     },
