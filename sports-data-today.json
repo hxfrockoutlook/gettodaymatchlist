@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-02-06 04:01:26",
+  "updateTime": "2026-02-06 04:31:35",
   "data": [
     {
       "mgdbId": "120000568048",
@@ -8,7 +8,7 @@
       "title": "交易截止日特别节目",
       "keyword": "02月06日01:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/05/773F2U6RG86D.jpg",
@@ -1145,6 +1145,34 @@
         {
           "pID": "962834176",
           "name": "CCTV5"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000566566",
+      "pID": "120000566566",
+      "title": "正播冰壶循环赛 捷克挑战顶级豪强英国",
+      "keyword": "02月06日01:55",
+      "sportItemId": "",
+      "matchStatus": "2",
+      "matchField": "",
+      "competitionName": "冬奥会",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/05/773F5GI0LKUA.jpg",
+      "competitionLogo": "",
+      "pkInfoTitle": "正播冰壶循环赛 捷克挑战顶级豪强英国",
+      "modifyTitle": "正播冰壶循环赛 捷克挑战顶级豪强英国",
+      "presenters": "",
+      "matchInfo": {
+        "time": "02月06日01:55"
+      },
+      "nodes": [
+        {
+          "pID": "962834526",
+          "name": "姚文倩"
+        },
+        {
+          "pID": "962834511",
+          "name": "赛场原声"
         }
       ]
     }
