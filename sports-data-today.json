@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-02-05 09:31:03",
+  "updateTime": "2026-02-05 10:01:08",
   "data": [
     {
       "mgdbId": "120000565637",
@@ -176,7 +176,7 @@
       "title": "第二比赛日热身区",
       "keyword": "02月05日10:00",
       "sportItemId": "7",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "乒乓球亚洲杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/04/773E859CNI6G.jpg",
@@ -260,7 +260,7 @@
       "title": "孙颖莎冲连胜 林诗栋、蒯曼登场",
       "keyword": "02月05日11:00",
       "sportItemId": "7",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "乒乓球亚洲杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/04/773E84IGS450.jpg",
@@ -272,6 +272,10 @@
         "time": "02月05日11:00"
       },
       "nodes": [
+        {
+          "pID": "962771617",
+          "name": "热身区"
+        },
         {
           "pID": "962771739",
           "name": "周冠达"
@@ -295,10 +299,6 @@
         {
           "pID": "962771707",
           "name": "3号桌"
-        },
-        {
-          "pID": "962771617",
-          "name": "热身区"
         },
         {
           "pID": "962771837",
@@ -501,6 +501,10 @@
       },
       "nodes": [
         {
+          "pID": "962771617",
+          "name": "热身区"
+        },
+        {
           "pID": "962772058",
           "name": "侯英超 周泽昊"
         },
@@ -527,10 +531,6 @@
         {
           "pID": "962771995",
           "name": "3号桌"
-        },
-        {
-          "pID": "962771617",
-          "name": "热身区"
         },
         {
           "pID": "962772242",
