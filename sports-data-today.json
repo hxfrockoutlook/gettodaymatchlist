@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-02-05 10:01:08",
+  "updateTime": "2026-02-05 10:31:04",
   "data": [
     {
       "mgdbId": "120000565637",
@@ -200,7 +200,7 @@
       "title": "NBA常规赛",
       "keyword": "02月05日10:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "冰霜银行中心",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/04/773E5VBORK7R.png",
@@ -483,6 +483,34 @@
       ]
     },
     {
+      "mgdbId": "120000567534",
+      "pID": "962772577",
+      "title": "男女单打资格赛",
+      "keyword": "02月05日17:30",
+      "sportItemId": "7",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "欧洲16强杯",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/05/773F55PRJ1DQ.png",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/2/23/10000000102010633df8.png",
+      "pkInfoTitle": "男女单打资格赛",
+      "modifyTitle": "欧洲16强杯：男女单打资格赛",
+      "presenters": "周泽昊",
+      "matchInfo": {
+        "time": "02月05日17:30"
+      },
+      "nodes": [
+        {
+          "pID": "962772577",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "962772671",
+          "name": "周泽昊"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000566814",
       "pID": "962771617",
       "title": "周启豪PK田中 王曼昱、王楚钦接连登场",
@@ -711,34 +739,6 @@
         {
           "pID": "962828152",
           "name": "英文原声"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000567534",
-      "pID": "962772577",
-      "title": "男女单打资格赛",
-      "keyword": "02月05日23:30",
-      "sportItemId": "7",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "欧洲16强杯",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/30/771ATA089S3C.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/2/23/10000000102010633df8.png",
-      "pkInfoTitle": "男女单打资格赛",
-      "modifyTitle": "欧洲16强杯：男女单打资格赛",
-      "presenters": "周泽昊",
-      "matchInfo": {
-        "time": "02月05日23:30"
-      },
-      "nodes": [
-        {
-          "pID": "962772577",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "962772671",
-          "name": "周泽昊"
         }
       ]
     }
