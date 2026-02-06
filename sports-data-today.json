@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-02-06 13:01:34",
+  "updateTime": "2026-02-06 13:31:25",
   "data": [
     {
       "mgdbId": "120000568048",
@@ -275,41 +275,17 @@
       ]
     },
     {
-      "mgdbId": "120000567437",
-      "pID": "962771705",
-      "title": "第三比赛日热身区",
-      "keyword": "02月06日10:00",
-      "sportItemId": "7",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "乒乓球亚洲杯",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/06/773G2U6HLR31.png",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/5/12/1000000012551064f92b.png",
-      "pkInfoTitle": "第三比赛日热身区",
-      "modifyTitle": "海口亚洲杯：第三比赛日热身区",
-      "presenters": "",
-      "matchInfo": {
-        "time": "02月06日10:00"
-      },
-      "nodes": [
-        {
-          "pID": "962771705",
-          "name": "热身区"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000568871",
       "pID": "962900123",
-      "title": "女子团体1/4决赛 中国VS印度",
+      "title": "女子团体1/4决赛 中国3-0印度",
       "keyword": "02月06日10:00",
       "sportItemId": "6",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "亚洲羽毛球团体锦标赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/06/773G2KH4TLEK.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/06/773FVKLGEBDP.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/2/5/100000001409106420e2.png",
-      "pkInfoTitle": "女子团体1/4决赛 中国VS印度",
+      "pkInfoTitle": "女子团体1/4决赛 中国3-0印度",
       "modifyTitle": "2026年亚洲羽毛球团体锦标赛-女子团体1/4决赛",
       "presenters": "",
       "matchInfo": {
@@ -331,7 +307,7 @@
       "matchStatus": "1",
       "matchField": "凤凰城竞技场",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/05/773F36AINT41.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/06/773FVLMQDHRB.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "勇士VS太阳",
       "modifyTitle": "NBA常规赛",
@@ -399,7 +375,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "乒乓球亚洲杯",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/06/773G2ST11586.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/06/773FVLLO6RQV.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/5/12/1000000012551064f92b.png",
       "pkInfoTitle": "孙颖莎晋级淘汰赛 林诗栋、蒯曼登场",
       "modifyTitle": "海口亚洲杯：小组循环赛第三轮",
@@ -433,16 +409,16 @@
           "name": "3号桌"
         },
         {
-          "pID": "962771705",
-          "name": "热身区"
-        },
-        {
           "pID": "962771926",
           "name": "候场区"
         },
         {
           "pID": "962771914",
           "name": "混采区"
+        },
+        {
+          "pID": "962771705",
+          "name": "热身区"
         }
       ]
     },
@@ -731,6 +707,30 @@
         "time": "02月06日16:30"
       },
       "nodes": []
+    },
+    {
+      "mgdbId": "120000567437",
+      "pID": "962771705",
+      "title": "海口亚洲杯Day3热身区",
+      "keyword": "02月06日17:00",
+      "sportItemId": "7",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "乒乓球亚洲杯",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/06/773G2U6HLR31.png",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/5/12/1000000012551064f92b.png",
+      "pkInfoTitle": "海口亚洲杯Day3热身区",
+      "modifyTitle": "海口亚洲杯：第三比赛日热身区",
+      "presenters": "",
+      "matchInfo": {
+        "time": "02月06日17:00"
+      },
+      "nodes": [
+        {
+          "pID": "962771705",
+          "name": "热身区"
+        }
+      ]
     },
     {
       "mgdbId": "120000568447",
