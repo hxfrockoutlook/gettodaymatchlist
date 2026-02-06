@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-02-06 11:31:29",
+  "updateTime": "2026-02-06 12:01:31",
   "data": [
     {
       "mgdbId": "120000568048",
@@ -244,14 +244,14 @@
     },
     {
       "mgdbId": "120000547282",
-      "pID": "962783188",
+      "pID": "962910844",
       "title": "NBA常规赛",
       "keyword": "02月06日09:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "美国航线中心体育馆",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/05/773F2T08QQQ6.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/06/773G2LN5924L.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "马刺VS独行侠",
       "modifyTitle": "NBA常规赛",
@@ -260,6 +260,10 @@
         "time": "02月06日09:30"
       },
       "nodes": [
+        {
+          "pID": "962910844",
+          "name": "状元的自信！弗拉格油门踩满直冲篮筐单臂重扣"
+        },
         {
           "pID": "962783188",
           "name": "王晓晨"
@@ -303,7 +307,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "亚洲羽毛球团体锦标赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/06/773G2AMSVHD7.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/06/773G2KH4TLEK.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/2/5/100000001409106420e2.png",
       "pkInfoTitle": "女子团体1/4决赛 中国VS印度",
       "modifyTitle": "2026年亚洲羽毛球团体锦标赛-女子团体1/4决赛",
@@ -331,7 +335,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "勇士VS太阳",
       "modifyTitle": "NBA常规赛",
-      "presenters": "杨健 马布里 曾令旭 洪荒",
+      "presenters": "杨健 曾令旭 季孟年 洪荒",
       "matchInfo": {
         "time": "02月06日11:00"
       },
@@ -339,10 +343,6 @@
         {
           "pID": "962780971",
           "name": "25/26赛季NBA常规赛: 金州勇士 vs 菲尼克斯太阳（咪咕主赛场）(杨健,马布里,曾令旭,季孟年,小七)"
-        },
-        {
-          "pID": "962780997",
-          "name": "25/26赛季NBA常规赛: 金州勇士 vs 菲尼克斯太阳（马布里视角）"
         },
         {
           "pID": "962781082",
@@ -399,7 +399,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "乒乓球亚洲杯",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/06/773G2CAO824K.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/06/773G2KT6LHUR.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/5/12/1000000012551064f92b.png",
       "pkInfoTitle": "孙颖莎晋级淘汰赛 林诗栋、蒯曼登场",
       "modifyTitle": "海口亚洲杯：小组循环赛第三轮",
@@ -452,7 +452,7 @@
       "title": "戴维斯杯Day1：中国队 vs 葡萄牙队",
       "keyword": "02月06日12:00",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "戴维斯杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/05/773F58B2H820.png",
@@ -1137,6 +1137,42 @@
         {
           "pID": "962828380",
           "name": "英文原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000566583",
+      "pID": "120000566583",
+      "title": "16:55播花滑团体赛 隋文静/韩聪领衔",
+      "keyword": "02月06日16:40",
+      "sportItemId": "",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "冬奥会",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/06/773G1D9HK3NQ.jpg",
+      "competitionLogo": "",
+      "pkInfoTitle": "16:55播花滑团体赛 隋文静/韩聪领衔",
+      "modifyTitle": "16:55播花滑团体赛 隋文静/韩聪领衔",
+      "presenters": "",
+      "matchInfo": {
+        "time": "02月06日16:40"
+      },
+      "nodes": [
+        {
+          "pID": "962856256",
+          "name": "钟宇峰 张丹 郭雨竹"
+        },
+        {
+          "pID": "962857351",
+          "name": "魏琳"
+        },
+        {
+          "pID": "962856228",
+          "name": "CCTV5"
+        },
+        {
+          "pID": "962856262",
+          "name": "赛场原声"
         }
       ]
     }
