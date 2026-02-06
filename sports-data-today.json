@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-02-06 22:31:38",
+  "updateTime": "2026-02-06 23:01:44",
   "data": [
     {
       "mgdbId": "120000568048",
@@ -827,7 +827,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "欧洲16强杯",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/06/773G27QMC1LU.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/06/773G2A5ABL1H.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/2/23/10000000102010633df8.png",
       "pkInfoTitle": "勒布伦兄弟轮番登场 奥恰洛夫止步",
       "modifyTitle": "欧洲16强杯：男女单打1/8决赛",
@@ -851,7 +851,7 @@
       "matchStatus": "2",
       "matchField": "",
       "competitionName": "乒乓球亚洲杯",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/06/773G22SGUJ43.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/06/773G2AQQRDO0.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/5/12/1000000012551064f92b.png",
       "pkInfoTitle": "王楚钦、王曼昱、周启豪、陈熠直落三局出线",
       "modifyTitle": "海口亚洲杯：小组循环赛第三轮",
@@ -901,29 +901,21 @@
     {
       "mgdbId": "120000567416",
       "pID": "962747496",
-      "title": "赵心童迎战韦克林 周跃龙大战卡特",
+      "title": "赵心童5-4韦克林 周跃龙5-4卡特",
       "keyword": "02月06日19:00",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/06/773G1BJGDBB0.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "赵心童迎战韦克林 周跃龙大战卡特",
-      "modifyTitle": "斯诺克世界大奖赛1/4决赛：赵心童迎战韦克林 周跃龙大战卡特",
-      "presenters": "秦正 朱峰立",
+      "pkInfoTitle": "赵心童5-4韦克林 周跃龙5-4卡特",
+      "modifyTitle": "斯诺克世界大奖赛1/4决赛：赵心童5-4韦克林 周跃龙5-4卡特",
+      "presenters": "朱峰立 秦正",
       "matchInfo": {
         "time": "02月06日19:00"
       },
       "nodes": [
-        {
-          "pID": "962911934",
-          "name": "秦正"
-        },
-        {
-          "pID": "962911940",
-          "name": "朱峰立"
-        },
         {
           "pID": "962747496",
           "name": "1号桌"
@@ -931,6 +923,14 @@
         {
           "pID": "962747590",
           "name": "2号桌"
+        },
+        {
+          "pID": "962911940",
+          "name": "朱峰立"
+        },
+        {
+          "pID": "962911934",
+          "name": "秦正"
         }
       ]
     },
@@ -1116,7 +1116,7 @@
       "title": "WTA克卢日-纳波卡站Day6",
       "keyword": "02月06日23:00",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/06/773G298HGUD8.jpg",
@@ -1144,7 +1144,7 @@
       "title": "沃雷涅茨PK博尔特 帕里接场对战科帕奇",
       "keyword": "02月06日23:00",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/06/773G29AUMSRE.jpg",
@@ -1195,34 +1195,6 @@
         {
           "pID": "962856089",
           "name": "CCTV5+"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000566641",
-      "pID": "120000566641",
-      "title": "正播冰壶混双 瑞典挪威冰面对垒",
-      "keyword": "02月06日21:25",
-      "sportItemId": "",
-      "matchStatus": "2",
-      "matchField": "",
-      "competitionName": "冬奥会",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/05/773F4TAF54C7.jpg",
-      "competitionLogo": "",
-      "pkInfoTitle": "正播冰壶混双 瑞典挪威冰面对垒",
-      "modifyTitle": "21:35播冰壶混双 瑞典挪威冰面对垒",
-      "presenters": "",
-      "matchInfo": {
-        "time": "02月06日21:25"
-      },
-      "nodes": [
-        {
-          "pID": "962856649",
-          "name": "李鑫宇"
-        },
-        {
-          "pID": "962856639",
-          "name": "赛场原声"
         }
       ]
     }
