@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-02-06 22:01:46",
+  "updateTime": "2026-02-06 22:31:38",
   "data": [
     {
       "mgdbId": "120000568048",
@@ -827,7 +827,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "欧洲16强杯",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/06/773G1VIG9SIQ.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/06/773G27QMC1LU.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/2/23/10000000102010633df8.png",
       "pkInfoTitle": "勒布伦兄弟轮番登场 奥恰洛夫止步",
       "modifyTitle": "欧洲16强杯：男女单打1/8决赛",
@@ -848,7 +848,7 @@
       "title": "王楚钦、王曼昱、周启豪、陈熠直落三局出线",
       "keyword": "02月06日18:00",
       "sportItemId": "7",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "乒乓球亚洲杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/06/773G22SGUJ43.png",
@@ -861,16 +861,12 @@
       },
       "nodes": [
         {
-          "pID": "962772134",
-          "name": "刘国正 周泽昊"
-        },
-        {
           "pID": "962772590",
           "name": "同看欧洲16强杯"
         },
         {
-          "pID": "962772666",
-          "name": "抽签仪式"
+          "pID": "962772134",
+          "name": "刘国正 周泽昊"
         },
         {
           "pID": "962772235",
@@ -891,6 +887,10 @@
         {
           "pID": "962772356",
           "name": "混采区"
+        },
+        {
+          "pID": "962772666",
+          "name": "抽签仪式"
         },
         {
           "pID": "962772267",
@@ -1012,7 +1012,7 @@
     },
     {
       "mgdbId": "120000568452",
-      "pID": "962869973",
+      "pID": "962920989",
       "title": "女篮俱乐部杯",
       "keyword": "02月06日19:30",
       "sportItemId": "2",
@@ -1029,6 +1029,10 @@
       },
       "nodes": [
         {
+          "pID": "962920989",
+          "name": "2026中国篮协女篮俱乐部杯小组赛C组全场集锦：武汉盛帆黄鹤vs合肥文旅"
+        },
+        {
           "pID": "962869973",
           "name": "赛场原声"
         },
@@ -1040,14 +1044,14 @@
     },
     {
       "mgdbId": "120000564767",
-      "pID": "962920363",
+      "pID": "962921309",
       "title": "CBA俱乐部杯淘汰赛",
       "keyword": "02月06日20:00",
       "sportItemId": "2",
       "matchStatus": "2",
       "matchField": "内蒙古体育馆",
       "competitionName": "CBA俱乐部杯",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/03/773D8NEKN0P3.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/06/773G284BP975.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/11/5/100000001240106a8316.png",
       "pkInfoTitle": "上海久事vs广东东阳光",
       "modifyTitle": "CBA俱乐部杯淘汰赛",
@@ -1057,8 +1061,8 @@
       },
       "nodes": [
         {
-          "pID": "962920363",
-          "name": "张飞绣花！洛夫顿夸张跳步衔接逆天拉杆球进哨响"
+          "pID": "962921309",
+          "name": "25/26赛季CBA俱乐部杯1/4决赛全场集锦：上海vs广东"
         },
         {
           "pID": "962858492",
@@ -1191,42 +1195,6 @@
         {
           "pID": "962856089",
           "name": "CCTV5+"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000566583",
-      "pID": "120000566583",
-      "title": "正播花滑团体赛 小将张瑞阳挑大梁",
-      "keyword": "02月06日16:40",
-      "sportItemId": "",
-      "matchStatus": "2",
-      "matchField": "",
-      "competitionName": "冬奥会",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/06/773G1F2207GK.jpg",
-      "competitionLogo": "",
-      "pkInfoTitle": "正播花滑团体赛 小将张瑞阳挑大梁",
-      "modifyTitle": "20:35播花滑团体赛 小将张瑞阳挑大梁",
-      "presenters": "",
-      "matchInfo": {
-        "time": "02月06日16:40"
-      },
-      "nodes": [
-        {
-          "pID": "962856256",
-          "name": "钟宇峰 张丹 郭雨竹"
-        },
-        {
-          "pID": "962857351",
-          "name": "魏琳"
-        },
-        {
-          "pID": "962856228",
-          "name": "CCTV5"
-        },
-        {
-          "pID": "962856262",
-          "name": "赛场原声"
         }
       ]
     },
