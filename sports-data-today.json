@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-02-07 02:31:53",
+  "updateTime": "2026-02-07 03:02:07",
   "data": [
     {
       "mgdbId": "120000542825",
@@ -601,7 +601,7 @@
     {
       "mgdbId": "120000568505",
       "pID": "962871671",
-      "title": "���宾市武宣县队vs来宾市兴宾区队",
+      "title": "来宾市武宣县队vs来宾市兴宾区队",
       "keyword": "02月07日14:30",
       "sportItemId": "1",
       "matchStatus": "0",
@@ -1765,7 +1765,7 @@
     {
       "mgdbId": "120000567521",
       "pID": "120000567521",
-      "title": "正播特别节目 3:00米兰冬奥会开幕式",
+      "title": "正播冬奥会开幕式 宁忠岩张楚桐任旗手",
       "keyword": "02月07日00:00",
       "sportItemId": "",
       "matchStatus": "1",
@@ -1773,24 +1773,28 @@
       "competitionName": "冬奥会",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/06/773G2GCUJ3C6.jpg",
       "competitionLogo": "",
-      "pkInfoTitle": "正播特别节目 3:00米兰冬奥会开幕式",
-      "modifyTitle": "正播特别节目 3:00米兰冬奥会开幕式",
+      "pkInfoTitle": "正播冬奥会开幕式 宁忠岩张楚桐任旗手",
+      "modifyTitle": "正播冬奥会开幕式 宁忠岩张楚桐任旗手",
       "presenters": "",
       "matchInfo": {
         "time": "02月07日00:00"
       },
       "nodes": [
         {
-          "pID": "962879175",
-          "name": "重播"
-        },
-        {
           "pID": "962856096",
           "name": "CCTV16-4K"
         },
         {
+          "pID": "962856073",
+          "name": "CCTV5"
+        },
+        {
           "pID": "962856089",
           "name": "CCTV5+"
+        },
+        {
+          "pID": "962879175",
+          "name": "特别节目"
         }
       ]
     }
