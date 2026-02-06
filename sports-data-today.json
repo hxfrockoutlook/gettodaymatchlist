@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-02-06 17:01:47",
+  "updateTime": "2026-02-06 17:31:48",
   "data": [
     {
       "mgdbId": "120000568048",
@@ -15,7 +15,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "交易截止日特别节目",
       "modifyTitle": "交易截止日特别节目",
-      "presenters": "邵化谦 邢�� 拜月宁",
+      "presenters": "邵化谦 邢晨 拜月宁",
       "matchInfo": {
         "time": "02月06日01:00"
       },
@@ -608,7 +608,7 @@
     },
     {
       "mgdbId": "120000568446",
-      "pID": "962869922",
+      "pID": "962915652",
       "title": "女篮俱乐部杯",
       "keyword": "02月06日14:30",
       "sportItemId": "2",
@@ -617,13 +617,17 @@
       "competitionName": "女篮俱乐部杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/05/773F35R3P3IT.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/2/3/100000001407106f1262.png",
-      "pkInfoTitle": "石家庄英励 vs 上���浦发银行",
+      "pkInfoTitle": "石家庄英励 vs 上海浦发银行",
       "modifyTitle": "女篮俱乐部杯",
       "presenters": "",
       "matchInfo": {
         "time": "02月06日14:30"
       },
       "nodes": [
+        {
+          "pID": "962915652",
+          "name": "全场集锦：石家庄英励vs上海浦发银行"
+        },
         {
           "pID": "962869922",
           "name": "赛场原声"
@@ -703,7 +707,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "乒乓球亚洲杯",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/06/773G0JRP5AVT.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/06/773G0PFS11BF.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/5/12/1000000012551064f92b.png",
       "pkInfoTitle": "第三比赛日热身区",
       "modifyTitle": "海口亚洲杯：第三比赛日热身区",
@@ -800,7 +804,7 @@
       "title": "勒布伦兄弟轮番登场 奥恰洛夫冲八强",
       "keyword": "02月06日17:30",
       "sportItemId": "7",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "欧洲16强杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/06/773G297LRQ50.jpg",
@@ -831,46 +835,50 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "乒乓球亚洲杯",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/05/773F58KPD7JP.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/06/773G0R24HP5B.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/5/12/1000000012551064f92b.png",
       "pkInfoTitle": "陈熠打头阵 王楚钦、王曼昱接连登场",
       "modifyTitle": "海口亚洲杯：小组循环赛第三轮",
-      "presenters": "刘国正 周泽昊 朱子恒 刘馨蕊 周冠达",
+      "presenters": "刘国正 周泽昊 朱子恒 周冠达 刘馨蕊",
       "matchInfo": {
         "time": "02月06日18:00"
       },
       "nodes": [
         {
-          "pID": "962771705",
-          "name": "热身区"
-        },
-        {
           "pID": "962772134",
           "name": "刘国正 周泽昊"
+        },
+        {
+          "pID": "962771705",
+          "name": "热身区"
         },
         {
           "pID": "962772188",
           "name": "朱子恒"
         },
         {
+          "pID": "962772235",
+          "name": "周冠达"
+        },
+        {
           "pID": "962772203",
           "name": "刘馨蕊"
         },
         {
-          "pID": "962772235",
-          "name": "周冠达"
+          "pID": "962772688",
+          "name": "同看欧洲16强杯"
         },
         {
           "pID": "962772012",
           "name": "1号桌"
         },
         {
-          "pID": "962772068",
-          "name": "2号桌"
-        },
-        {
           "pID": "962772095",
           "name": "3号桌"
+        },
+        {
+          "pID": "962772068",
+          "name": "2号桌"
         },
         {
           "pID": "962772356",
@@ -883,10 +891,6 @@
         {
           "pID": "962772267",
           "name": "咪咕环廊视角"
-        },
-        {
-          "pID": "962772267",
-          "name": "咪���环廊视角"
         }
       ]
     },
