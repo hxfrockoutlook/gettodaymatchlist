@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-02-06 09:31:22",
+  "updateTime": "2026-02-06 10:01:31",
   "data": [
     {
       "mgdbId": "120000568048",
@@ -260,7 +260,7 @@
       "title": "第三比赛日热身区",
       "keyword": "02月06日10:00",
       "sportItemId": "7",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "乒乓球亚洲杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/05/773F58DNSSLE.jpg",
@@ -284,10 +284,10 @@
       "title": "女子团体1/4决赛 中国VS印度",
       "keyword": "02月06日10:00",
       "sportItemId": "6",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "亚洲羽毛球团体锦标赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/05/773F4HPGS3PL.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/06/773G235D6AVA.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/2/5/100000001409106420e2.png",
       "pkInfoTitle": "女子团体1/4决赛 中国VS印度",
       "modifyTitle": "2026年亚洲羽毛球团体锦标赛-女子团体1/4决赛",
@@ -372,7 +372,7 @@
       "title": "孙颖莎晋级淘汰赛 林诗栋、蒯曼登场",
       "keyword": "02月06日11:00",
       "sportItemId": "7",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "乒乓球亚洲杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/05/773F3CSVOPJM.jpg",
@@ -384,6 +384,10 @@
         "time": "02月06日11:00"
       },
       "nodes": [
+        {
+          "pID": "962771705",
+          "name": "热身区"
+        },
         {
           "pID": "962771831",
           "name": "侯英超"
@@ -407,10 +411,6 @@
         {
           "pID": "962771790",
           "name": "3号桌"
-        },
-        {
-          "pID": "962771705",
-          "name": "热身区"
         },
         {
           "pID": "962771914",
@@ -1069,7 +1069,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "WTA",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/06/773G20QUMUB3.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
       "pkInfoTitle": "拉杜卡努率先出战 科斯蒂亚接场",
       "modifyTitle": "WTA克卢日-纳波卡站Day6：拉杜卡努率先出战 科斯蒂亚接场",
@@ -1097,7 +1097,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "WTA",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/06/773G20LLJRUL.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
       "pkInfoTitle": "沃雷涅茨PK博尔特 帕里接场对战科帕奇",
       "modifyTitle": "WTA俄斯特拉发站Day6：沃雷涅茨PK博尔特 帕里接场对战科帕奇",
@@ -1113,6 +1113,38 @@
         {
           "pID": "962828380",
           "name": "英文原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000567521",
+      "pID": "120000567521",
+      "title": "19:00播米兰冬奥会开幕式特别节目",
+      "keyword": "02月06日19:00",
+      "sportItemId": "",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "冬奥会",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/05/773F2PEEQNTM.jpg",
+      "competitionLogo": "",
+      "pkInfoTitle": "19:00播米兰冬奥会开幕式特别节目",
+      "modifyTitle": "19:00播米兰冬奥会开幕式特别节目",
+      "presenters": "",
+      "matchInfo": {
+        "time": "02月06日19:00"
+      },
+      "nodes": [
+        {
+          "pID": "962856487",
+          "name": "解说"
+        },
+        {
+          "pID": "962856096",
+          "name": "CCTV16-4K"
+        },
+        {
+          "pID": "962856089",
+          "name": "CCTV5+"
         }
       ]
     },
