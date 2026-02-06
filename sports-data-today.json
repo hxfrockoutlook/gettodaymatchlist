@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-02-06 16:01:28",
+  "updateTime": "2026-02-06 16:31:30",
   "data": [
     {
       "mgdbId": "120000568048",
@@ -15,7 +15,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "交易截止日特别节目",
       "modifyTitle": "交易截止日特别节目",
-      "presenters": "邵化谦 邢��� 拜月宁",
+      "presenters": "邵化谦 邢晨 拜月宁",
       "matchInfo": {
         "time": "02月06日01:00"
       },
@@ -449,16 +449,16 @@
     {
       "mgdbId": "120000567415",
       "pID": "962911870",
-      "title": "吴宜泽VS张安达 肖国栋5-2斯佳辉",
+      "title": "肖国栋5-2斯佳辉 吴宜泽2-5张安达",
       "keyword": "02月06日13:00",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/05/773F587TA9I7.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "吴宜泽VS张安达 肖国栋5-2斯佳辉",
-      "modifyTitle": "2026斯诺克世界大奖赛1/4决赛：吴宜泽VS张安达 肖国栋5-2斯佳辉",
+      "pkInfoTitle": "肖国栋5-2斯佳辉 吴宜泽2-5张安达",
+      "modifyTitle": "2026斯诺克世界大奖赛1/4决赛：肖国栋5-2斯佳辉 吴宜泽2-5张安达",
       "presenters": "朱峰立 朱蒙",
       "matchInfo": {
         "time": "02月06日13:00"
@@ -536,7 +536,7 @@
       "title": "U14冠亚决赛",
       "keyword": "02月06日14:15",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "萨马兰奇杯",
       "padImg": "",
@@ -560,7 +560,7 @@
       "title": "U17冠亚决赛",
       "keyword": "02月06日14:15",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "萨马兰奇杯",
       "padImg": "",
@@ -580,11 +580,11 @@
     },
     {
       "mgdbId": "120000568445",
-      "pID": "962869827",
+      "pID": "962776965",
       "title": "女篮俱乐部杯",
       "keyword": "02月06日14:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "女篮俱乐部杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/05/773F2RJQIN32.jpg",
@@ -597,6 +597,10 @@
       },
       "nodes": [
         {
+          "pID": "962776965",
+          "name": "篮球公园对话王思雨：蜕变！“大心脏”到球队核心"
+        },
+        {
           "pID": "962869827",
           "name": "赛场原声"
         }
@@ -608,12 +612,12 @@
       "title": "女篮俱乐部杯",
       "keyword": "02月06日14:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "女篮俱乐部杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/05/773F35R3P3IT.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/2/3/100000001407106f1262.png",
-      "pkInfoTitle": "石家庄英励 vs 上海浦发银行",
+      "pkInfoTitle": "石家庄英励 vs 上��浦发银行",
       "modifyTitle": "女篮俱乐部杯",
       "presenters": "",
       "matchInfo": {
@@ -636,7 +640,7 @@
       "title": "女篮俱乐部杯",
       "keyword": "02月06日14:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "女篮俱乐部杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/05/773F4SMGQBTV.png",
@@ -689,24 +693,6 @@
           "name": "赛场原声"
         }
       ]
-    },
-    {
-      "mgdbId": "120000567275",
-      "title": "闭幕式",
-      "keyword": "02月06日16:00",
-      "sportItemId": "2",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "萨马兰奇杯",
-      "padImg": "",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/1/28/100000001403106f43a3.jpg",
-      "pkInfoTitle": "闭幕式",
-      "modifyTitle": "萨马兰奇杯",
-      "presenters": "",
-      "matchInfo": {
-        "time": "02月06日16:00"
-      },
-      "nodes": []
     },
     {
       "mgdbId": "120000567437",
