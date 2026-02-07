@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-02-08 01:01:56",
+  "updateTime": "2026-02-08 01:31:48",
   "data": [
     {
       "mgdbId": "120000542604",
@@ -64,7 +64,7 @@
       "title": "英超联赛",
       "keyword": "02月08日01:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "圣詹姆斯公园球场",
       "competitionName": "英超",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000542273/471877_H169_sc.jpg",
@@ -96,7 +96,7 @@
       "title": "德甲联赛",
       "keyword": "02月08日01:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "普鲁士公园球场",
       "competitionName": "德甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000542827/346597_H169_sc.jpg",
@@ -829,15 +829,15 @@
     {
       "mgdbId": "120000567442",
       "pID": "962772641",
-      "title": "男女单打半决赛及决赛",
+      "title": "大小布兄弟对决 韩莹迎战沙宾·温特",
       "keyword": "02月08日17:00",
       "sportItemId": "7",
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "欧洲16强杯",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/31/771BOUTEPVBA.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/08/773HPRON9I6H.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/2/23/10000000102010633df8.png",
-      "pkInfoTitle": "男女单打半决赛及决赛",
+      "pkInfoTitle": "大小布兄弟对决 韩莹迎战沙宾·温特",
       "modifyTitle": "欧洲16强杯：男女单打半决赛及决赛",
       "presenters": "刘馨蕊 周泽昊",
       "matchInfo": {
@@ -1543,6 +1543,42 @@
         {
           "pID": "962910238",
           "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000566797",
+      "pID": "120000566797",
+      "title": "2:30播卫冕之战！苏翊鸣冲击中国首金",
+      "keyword": "02月08日02:00",
+      "sportItemId": "",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "冬奥会",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/07/773GVKRN6OV1.png",
+      "competitionLogo": "",
+      "pkInfoTitle": "2:30播卫冕之战！苏翊鸣冲击中国首金",
+      "modifyTitle": "2:30播卫冕之战！苏翊鸣冲击中国首金",
+      "presenters": "",
+      "matchInfo": {
+        "time": "02月08日02:00"
+      },
+      "nodes": [
+        {
+          "pID": "962896917",
+          "name": "蔡凯臣 张嘉豪 林梦鸽"
+        },
+        {
+          "pID": "962896884",
+          "name": "吴桐"
+        },
+        {
+          "pID": "962896777",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "962898412",
+          "name": "CCTV5"
         }
       ]
     },
