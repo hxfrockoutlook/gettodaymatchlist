@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-02-08 00:31:54",
+  "updateTime": "2026-02-08 01:01:56",
   "data": [
     {
       "mgdbId": "120000542604",
@@ -36,7 +36,7 @@
       "title": "意甲联赛",
       "keyword": "02月08日01:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "费拉里斯球场",
       "competitionName": "意甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000543074/745801_H169_sc.jpg",
@@ -1167,7 +1167,7 @@
       "matchStatus": "0",
       "matchField": "内蒙古体育馆",
       "competitionName": "CBA俱乐部杯",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/07/773GUQCR5TDU.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/08/773HT5JE781B.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/11/5/100000001240106a8316.png",
       "pkInfoTitle": "上海久事vs山东高速",
       "modifyTitle": "CBA俱乐部杯淘汰赛",
@@ -1543,6 +1543,38 @@
         {
           "pID": "962910238",
           "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000566783",
+      "pID": "120000566783",
+      "title": "正播跳台滑雪 曾坪领衔中国金花亮相",
+      "keyword": "02月08日00:35",
+      "sportItemId": "",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "冬奥会",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/07/773GVEPAUH4A.jpg",
+      "competitionLogo": "",
+      "pkInfoTitle": "正播跳台滑雪 曾坪领衔中国金花亮相",
+      "modifyTitle": "正播跳台滑雪 曾坪领衔中国金花亮相",
+      "presenters": "",
+      "matchInfo": {
+        "time": "02月08日00:35"
+      },
+      "nodes": [
+        {
+          "pID": "962897238",
+          "name": "刘钟鸣"
+        },
+        {
+          "pID": "962897186",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "962898460",
+          "name": "CCTV16-4K"
         }
       ]
     }
