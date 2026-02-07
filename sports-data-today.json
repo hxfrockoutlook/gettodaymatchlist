@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-02-07 09:01:58",
+  "updateTime": "2026-02-07 09:31:59",
   "data": [
     {
       "mgdbId": "120000542825",
@@ -385,6 +385,10 @@
       },
       "nodes": [
         {
+          "pID": "962772435",
+          "name": "热身区"
+        },
+        {
           "pID": "962772547",
           "name": "侯英超"
         },
@@ -407,10 +411,6 @@
         {
           "pID": "962772518",
           "name": "3号桌"
-        },
-        {
-          "pID": "962772435",
-          "name": "热身区"
         },
         {
           "pID": "962772605",
@@ -1355,7 +1355,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "PFL",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/07/773GV1I7PBG1.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/2/4/1000000014081066b2d5.png",
       "pkInfoTitle": "PFL迪拜站：努马戈梅多夫vs戴维斯",
       "modifyTitle": "PFL迪拜站：努马戈梅多夫vs戴维斯",
@@ -1759,6 +1759,30 @@
         {
           "pID": "962903641",
           "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000568406",
+      "pID": "120000568406",
+      "title": "韩乔生前瞻苏翊鸣决赛 展望中国冲冬奥首金",
+      "keyword": "02月07日08:00",
+      "sportItemId": "",
+      "matchStatus": "2",
+      "matchField": "",
+      "competitionName": "冬奥会",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/07/773GUJP7SDDU.jpg",
+      "competitionLogo": "",
+      "pkInfoTitle": "韩乔生前瞻苏翊鸣决赛 展望中国冲冬奥首金",
+      "modifyTitle": "韩乔生前瞻苏翊鸣决赛 展望中国冲冬奥首金",
+      "presenters": "",
+      "matchInfo": {
+        "time": "02月07日08:00"
+      },
+      "nodes": [
+        {
+          "pID": "962857327",
+          "name": "米兰冬奥会：咪咕体育日报 第1期"
         }
       ]
     },
