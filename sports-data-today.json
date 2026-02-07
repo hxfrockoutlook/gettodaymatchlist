@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-02-07 08:01:59",
+  "updateTime": "2026-02-07 08:32:00",
   "data": [
     {
       "mgdbId": "120000542825",
@@ -152,7 +152,7 @@
       "title": "NBA常规赛",
       "keyword": "02月07日08:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "小凯撒球馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/06/773G08GH2CPA.png",
@@ -180,7 +180,7 @@
       "title": "NBA常规赛",
       "keyword": "02月07日08:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "TD彼岸花园",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/06/773G08CP2DBD.png",
@@ -1763,6 +1763,30 @@
       ]
     },
     {
+      "mgdbId": "120000568406",
+      "pID": "120000568406",
+      "title": "正播直击米兰！全景冬奥早知道",
+      "keyword": "02月07日08:00",
+      "sportItemId": "",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "冬奥会",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/07/773GUJP7SDDU.jpg",
+      "competitionLogo": "",
+      "pkInfoTitle": "正播直击米兰！全景冬奥早知道",
+      "modifyTitle": "正播直击米兰！全景冬奥早知道",
+      "presenters": "",
+      "matchInfo": {
+        "time": "02月07日08:00"
+      },
+      "nodes": [
+        {
+          "pID": "962857327",
+          "name": "米兰冬奥会：咪咕体育日报 第1期"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000567521",
       "pID": "120000567521",
       "title": "五星红旗闪耀冬奥！中国健儿亮相开幕式",
@@ -1795,30 +1819,6 @@
         {
           "pID": "962856089",
           "name": "CCTV5+"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000568406",
-      "pID": "120000568406",
-      "title": "8时直击米兰！全景冬奥早知道",
-      "keyword": "02月07日08:00",
-      "sportItemId": "",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "冬奥会",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/06/773G063PC6A3.jpg",
-      "competitionLogo": "",
-      "pkInfoTitle": "8时直击米兰！全景冬奥早知道",
-      "modifyTitle": "8时直击米兰！全景冬奥早知道",
-      "presenters": "",
-      "matchInfo": {
-        "time": "02月07日08:00"
-      },
-      "nodes": [
-        {
-          "pID": "962857327",
-          "name": "米兰冬奥会：咪咕体育日报 第1期"
         }
       ]
     }
