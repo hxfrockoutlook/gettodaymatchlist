@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-02-07 17:32:09",
+  "updateTime": "2026-02-07 18:02:06",
   "data": [
     {
       "mgdbId": "120000542825",
@@ -528,7 +528,7 @@
     },
     {
       "mgdbId": "120000568454",
-      "pID": "962776965",
+      "pID": "962934624",
       "title": "女篮俱乐部杯",
       "keyword": "02月07日14:30",
       "sportItemId": "2",
@@ -545,8 +545,8 @@
       },
       "nodes": [
         {
-          "pID": "962776965",
-          "name": "篮球公园对话王思雨：蜕变！“大心脏”到球队核心"
+          "pID": "962934624",
+          "name": "全场回放"
         },
         {
           "pID": "962870058",
@@ -636,7 +636,7 @@
     },
     {
       "mgdbId": "120000568489",
-      "pID": "962866710",
+      "pID": "962934634",
       "title": "玉溪市VS大理州",
       "keyword": "02月07日15:00",
       "sportItemId": "1",
@@ -653,8 +653,8 @@
       },
       "nodes": [
         {
-          "pID": "962866710",
-          "name": "25/26赛季云南省城市足球联赛第五轮: 玉溪市VS大理州"
+          "pID": "962934634",
+          "name": "2026云南省城市足球联赛全场回放：玉溪市5:1大理州"
         }
       ]
     },
@@ -780,11 +780,11 @@
     },
     {
       "mgdbId": "120000564768",
-      "pID": "962858393",
+      "pID": "962934737",
       "title": "CBA俱乐部杯淘汰赛",
       "keyword": "02月07日16:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "内蒙古体育馆",
       "competitionName": "CBA俱乐部杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/03/773D8N2BVPMV.png",
@@ -796,6 +796,10 @@
         "time": "02月07日16:00"
       },
       "nodes": [
+        {
+          "pID": "962934737",
+          "name": "25/26赛季CBA俱乐部杯1/4决赛全场集锦：广厦vs吉林"
+        },
         {
           "pID": "962858393",
           "name": "李天宇 陈正昊 周鹏"
@@ -823,7 +827,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "乒乓球亚洲杯",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/07/773GTC093RLI.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/07/773GU0MH62BP.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/5/12/1000000012551064f92b.png",
       "pkInfoTitle": "第四比赛日热身区",
       "modifyTitle": "海口亚洲杯：第四比赛日热身区",
@@ -890,7 +894,7 @@
       "mgdbId": "120000568458",
       "pID": "962869808",
       "title": "女篮俱乐部杯",
-      "keyword": "02月07日17:00",
+      "keyword": "2月07�� 17:00",
       "sportItemId": "2",
       "matchStatus": "1",
       "matchField": "",
@@ -901,7 +905,7 @@
       "modifyTitle": "女篮俱乐部杯",
       "presenters": "",
       "matchInfo": {
-        "time": "02月07日17:00"
+        "time": "2月07�� 17:00"
       },
       "nodes": [
         {
@@ -916,14 +920,14 @@
     },
     {
       "mgdbId": "120000566825",
-      "pID": "962772435",
+      "pID": "962771525",
       "title": "王楚钦对决周启豪 孙颖莎PK陈熠",
       "keyword": "02月07日18:00",
       "sportItemId": "7",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "乒乓球亚洲杯",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/07/773GTU3MHON5.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/07/773GU12BC302.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/5/12/1000000012551064f92b.png",
       "pkInfoTitle": "王楚钦对决周启豪 孙颖莎PK陈熠",
       "modifyTitle": "海口亚洲杯：1/4决赛",
@@ -933,12 +937,12 @@
       },
       "nodes": [
         {
-          "pID": "962772435",
-          "name": "热身区"
-        },
-        {
           "pID": "962771525",
           "name": "刘国正 周冠达"
+        },
+        {
+          "pID": "962772435",
+          "name": "热身区"
         },
         {
           "pID": "962928895",
@@ -947,6 +951,10 @@
         {
           "pID": "962771571",
           "name": "肖扬"
+        },
+        {
+          "pID": "962772621",
+          "name": "欧洲16强杯"
         },
         {
           "pID": "962771552",
@@ -965,16 +973,16 @@
           "name": "2号桌"
         },
         {
-          "pID": "962771587",
-          "name": "咪咕环廊视角"
-        },
-        {
           "pID": "962771643",
           "name": "混采区"
         },
         {
           "pID": "962771656",
           "name": "候场区"
+        },
+        {
+          "pID": "962771587",
+          "name": "咪咕环廊视角"
         }
       ]
     },
@@ -984,7 +992,7 @@
       "title": "F·勒布伦迎战林德 普卡PK达科",
       "keyword": "02月07日18:00",
       "sportItemId": "7",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "欧洲16强杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/07/773GVCRI9648.png",
