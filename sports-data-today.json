@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-02-08 08:01:53",
+  "updateTime": "2026-02-08 08:31:45",
   "data": [
     {
       "mgdbId": "120000542604",
@@ -303,7 +303,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "UFC格斗之夜",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/08/773HRLML490I.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/08/773HRR3HDTTS.gif",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/20/7711R3FFSB67.png",
       "pkInfoTitle": "王聪血战判定击败莫拉",
       "modifyTitle": "UFC格斗之夜：王聪血战判定击败莫拉",
@@ -388,7 +388,7 @@
       "title": "NBA常规赛",
       "keyword": "02月08日08:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "州立农业球馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/07/773GVVQAO41S.jpg",
@@ -621,7 +621,7 @@
     {
       "mgdbId": "120000566828",
       "pID": "962771664",
-      "title": "国乒内战孙颖莎vs蒯曼 王楚钦接台对阵张佑安",
+      "title": "国乒姐妹战！孙颖莎vs蒯曼 王楚钦冲决赛",
       "keyword": "02月08日11:00",
       "sportItemId": "7",
       "matchStatus": "0",
@@ -629,7 +629,7 @@
       "competitionName": "乒乓球亚洲杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/07/773GVLUGI399.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/5/12/1000000012551064f92b.png",
-      "pkInfoTitle": "国乒内战孙颖莎vs蒯曼 王楚钦接台对阵张佑安",
+      "pkInfoTitle": "国乒姐妹战！孙颖莎vs蒯曼 王楚钦冲决赛",
       "modifyTitle": "海口亚洲杯：半决赛",
       "presenters": "侯英超 周泽昊",
       "matchInfo": {
@@ -677,12 +677,12 @@
       },
       "nodes": [
         {
-          "pID": "962747726",
-          "name": "1号桌"
-        },
-        {
           "pID": "962942153",
           "name": "朱蒙"
+        },
+        {
+          "pID": "962747726",
+          "name": "1号桌"
         }
       ]
     },
@@ -1029,12 +1029,12 @@
       },
       "nodes": [
         {
-          "pID": "962747766",
-          "name": "1号桌"
-        },
-        {
           "pID": "962942237",
           "name": "秦正"
+        },
+        {
+          "pID": "962747766",
+          "name": "1号桌"
         }
       ]
     },
@@ -1555,6 +1555,30 @@
       ]
     },
     {
+      "mgdbId": "120000568407",
+      "pID": "120000568407",
+      "title": "正播直击米兰！全景冬奥早知道",
+      "keyword": "02月08日08:00",
+      "sportItemId": "",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "冬奥会",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/08/773HRMT8EKS2.jpg",
+      "competitionLogo": "",
+      "pkInfoTitle": "正播直击米兰！全景冬奥早知道",
+      "modifyTitle": "正播直击米兰！全景冬奥早知道",
+      "presenters": "",
+      "matchInfo": {
+        "time": "02月08日08:00"
+      },
+      "nodes": [
+        {
+          "pID": "962857303",
+          "name": "咪咕体育日报第2期"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000566797",
       "pID": "120000566797",
       "title": "苏翊鸣斩获中国队本届冬奥首枚奖牌",
@@ -1587,30 +1611,6 @@
         {
           "pID": "962898412",
           "name": "CCTV5"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000568407",
-      "pID": "120000568407",
-      "title": "8:00直击米兰！全景冬奥早知道",
-      "keyword": "02月08日08:00",
-      "sportItemId": "",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "冬奥会",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/07/773GTDRPHEF6.jpg",
-      "competitionLogo": "",
-      "pkInfoTitle": "8:00直击米兰！全景冬奥早知道",
-      "modifyTitle": "8:00直击米兰！全景冬奥早知道",
-      "presenters": "",
-      "matchInfo": {
-        "time": "02月08日08:00"
-      },
-      "nodes": [
-        {
-          "pID": "962857303",
-          "name": "咪咕体育日报第2期"
         }
       ]
     }
