@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-02-08 16:01:50",
+  "updateTime": "2026-02-08 16:31:51",
   "data": [
     {
       "mgdbId": "120000542604",
@@ -688,11 +688,11 @@
     },
     {
       "mgdbId": "120000568462",
-      "pID": "962869825",
+      "pID": "962776965",
       "title": "女篮俱乐部杯",
       "keyword": "02月08日14:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "女篮俱乐部杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/06/773G1O079SLL.png",
@@ -705,6 +705,10 @@
       },
       "nodes": [
         {
+          "pID": "962776965",
+          "name": "篮球公园对话王思雨：蜕变！“大心脏”到球队核心"
+        },
+        {
           "pID": "962869825",
           "name": "解说"
         }
@@ -712,11 +716,11 @@
     },
     {
       "mgdbId": "120000568463",
-      "pID": "962869880",
+      "pID": "962776965",
       "title": "女篮俱乐部杯",
       "keyword": "02月08日14:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "女篮俱乐部杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/06/773G1UN5JLQ5.png",
@@ -729,6 +733,10 @@
       },
       "nodes": [
         {
+          "pID": "962776965",
+          "name": "篮球公园对话王思雨：蜕变！“大心脏”到球队核心"
+        },
+        {
           "pID": "962869880",
           "name": "赛场原声"
         }
@@ -736,11 +744,11 @@
     },
     {
       "mgdbId": "120000568464",
-      "pID": "962869923",
+      "pID": "962776965",
       "title": "女篮俱乐部杯",
       "keyword": "02月08日14:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "女篮俱乐部杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/06/773G21RM4IC2.png",
@@ -752,6 +760,10 @@
         "time": "02月08日14:30"
       },
       "nodes": [
+        {
+          "pID": "962776965",
+          "name": "篮球公园对话王思雨：蜕变！“大心脏”到球队核心"
+        },
         {
           "pID": "962869923",
           "name": "赛场原声"
@@ -981,16 +993,16 @@
       },
       "nodes": [
         {
+          "pID": "962771664",
+          "name": "热身区"
+        },
+        {
           "pID": "962772161",
           "name": "刘国正 周冠达"
         },
         {
           "pID": "962772114",
           "name": "赛场原声"
-        },
-        {
-          "pID": "962771664",
-          "name": "热身区"
         },
         {
           "pID": "962771847",
@@ -1506,6 +1518,34 @@
         },
         {
           "pID": "962903500",
+          "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000543355",
+      "pID": "962953797",
+      "title": "西甲联赛",
+      "keyword": "02月08日23:15",
+      "sportItemId": "1",
+      "matchStatus": "0",
+      "matchField": "皮斯胡安球场",
+      "competitionName": "西甲",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000543355/202507102031_223989_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/09/27/6UROS3QNB1F8.png",
+      "pkInfoTitle": "塞维利亚 vs 赫罗纳",
+      "modifyTitle": "西甲联赛",
+      "presenters": "兰子非",
+      "matchInfo": {
+        "time": "02月08日23:15"
+      },
+      "nodes": [
+        {
+          "pID": "962953797",
+          "name": "兰子非"
+        },
+        {
+          "pID": "962953787",
           "name": "赛场原声"
         }
       ]
