@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-02-08 13:31:45",
+  "updateTime": "2026-02-08 14:01:47",
   "data": [
     {
       "mgdbId": "120000542604",
@@ -608,11 +608,11 @@
     },
     {
       "mgdbId": "120000547300",
-      "pID": "962783785",
+      "pID": "962951692",
       "title": "NBA常规赛",
       "keyword": "02月08日11:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "摩达中心",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/08/773HPS85PL7R.jpg",
@@ -624,6 +624,10 @@
         "time": "02月08日11:00"
       },
       "nodes": [
+        {
+          "pID": "962951692",
+          "name": "25/26赛季NBA常规赛全场集锦：灰熊115:122开拓者（20260208）"
+        },
         {
           "pID": "962783785",
           "name": "连睿 马健 闫宇峰"
@@ -891,7 +895,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "女篮俱乐部杯",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/07/773GU18PH3UF.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/08/773HPV741QVL.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/2/3/100000001407106f1262.png",
       "pkInfoTitle": "江西鲸裕清酒 vs 东莞新彤盛",
       "modifyTitle": "女篮俱乐部杯",
@@ -1571,6 +1575,42 @@
         {
           "pID": "962910238",
           "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000566797",
+      "pID": "120000566797",
+      "title": "苏翊鸣斩获中国队本届冬奥首枚奖牌",
+      "keyword": "02月08日02:00",
+      "sportItemId": "",
+      "matchStatus": "2",
+      "matchField": "",
+      "competitionName": "冬奥会",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/08/773HQNKGDAB9.jpg",
+      "competitionLogo": "",
+      "pkInfoTitle": "苏翊鸣斩获中国队本届冬奥首枚奖牌",
+      "modifyTitle": "苏翊鸣斩获中国队本届冬奥首枚奖牌",
+      "presenters": "",
+      "matchInfo": {
+        "time": "02月08日02:00"
+      },
+      "nodes": [
+        {
+          "pID": "962896917",
+          "name": "蔡凯臣 张嘉豪 林梦鸽"
+        },
+        {
+          "pID": "962896884",
+          "name": "吴桐"
+        },
+        {
+          "pID": "962896777",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "962898412",
+          "name": "CCTV5"
         }
       ]
     }
