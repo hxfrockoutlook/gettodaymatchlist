@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-02-08 07:31:42",
+  "updateTime": "2026-02-08 08:01:53",
   "data": [
     {
       "mgdbId": "120000542604",
@@ -297,16 +297,16 @@
     {
       "mgdbId": "120000563829",
       "pID": "962857232",
-      "title": "UFC格斗之夜：莫拉VS王聪",
+      "title": "王聪血战判定击败莫拉",
       "keyword": "02月08日06:00",
       "sportItemId": "5",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "UFC格斗之夜",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/04/773E8DLD46EQ.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/08/773HRLML490I.png",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/20/7711R3FFSB67.png",
-      "pkInfoTitle": "UFC格斗之夜：莫拉VS王聪",
-      "modifyTitle": "UFC格斗之夜：莫拉VS王聪",
+      "pkInfoTitle": "王聪血战判定击败莫拉",
+      "modifyTitle": "UFC格斗之夜：王聪血战判定击败莫拉",
       "presenters": "王琰博 郝俊",
       "matchInfo": {
         "time": "02月08日06:00"
@@ -360,7 +360,7 @@
       "title": "NBA常规赛",
       "keyword": "02月08日08:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "安利中心",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/07/773GVVO6NFIB.jpg",
@@ -1587,6 +1587,30 @@
         {
           "pID": "962898412",
           "name": "CCTV5"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000568407",
+      "pID": "120000568407",
+      "title": "8:00直击米兰！全景冬奥早知道",
+      "keyword": "02月08日08:00",
+      "sportItemId": "",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "冬奥会",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/07/773GTDRPHEF6.jpg",
+      "competitionLogo": "",
+      "pkInfoTitle": "8:00直击米兰！全景冬奥早知道",
+      "modifyTitle": "8:00直击米兰！全景冬奥早知道",
+      "presenters": "",
+      "matchInfo": {
+        "time": "02月08日08:00"
+      },
+      "nodes": [
+        {
+          "pID": "962857303",
+          "name": "咪咕体育日报第2期"
         }
       ]
     }
