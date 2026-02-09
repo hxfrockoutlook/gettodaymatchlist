@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-02-09 18:31:16",
+  "updateTime": "2026-02-09 19:01:23",
   "data": [
     {
       "mgdbId": "120000542603",
@@ -544,7 +544,7 @@
       "title": "女篮俱乐部杯",
       "keyword": "02月09日17:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "女篮俱乐部杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/08/773HS6LSK9NI.jpg",
@@ -605,19 +605,19 @@
       },
       "nodes": [
         {
-          "pID": "962870500",
-          "name": "赛场原声"
-        },
-        {
           "pID": "962897262",
           "name": "解说"
+        },
+        {
+          "pID": "962870500",
+          "name": "赛场原声"
         }
       ]
     },
     {
       "mgdbId": "120000568497",
       "pID": "962870550",
-      "title": "郑钦��复出首秀！王欣瑜出战",
+      "title": "郑钦文复出首秀！王欣瑜出战",
       "keyword": "02月09日18:00",
       "sportItemId": "9",
       "matchStatus": "1",
@@ -681,7 +681,7 @@
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/09/773INK2RHNJ6.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "王欣瑜 vs 阿兰戈",
+      "pkInfoTitle": "王欣瑜 vs 阿朗戈",
       "modifyTitle": "WTA多哈站Day2：王欣瑜 vs 阿朗戈",
       "presenters": "房朕",
       "matchInfo": {
@@ -784,7 +784,7 @@
       "title": "CBA俱乐部杯淘汰赛",
       "keyword": "02月09日19:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "内蒙古体育馆",
       "competitionName": "CBA俱乐部杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/08/773HR9VNL8DI.jpg",
@@ -907,12 +907,40 @@
       ]
     },
     {
+      "mgdbId": "120000547925",
+      "pID": "120000547925",
+      "title": "迪拜国民 vs 利雅得新月",
+      "keyword": "02月09日23:45",
+      "sportItemId": "",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "亚冠精英",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/09/16/11005/0d40275fc35c4983995fbecf8e00f779/0d40275fc35c4983995fbecf8e00f779_H169_P1080_WEBP.webp",
+      "competitionLogo": "",
+      "pkInfoTitle": "迪拜国民 vs 利雅得新月",
+      "modifyTitle": "迪拜国民 vs 利雅得新月",
+      "presenters": "",
+      "matchInfo": {
+        "time": "02月09日23:45"
+      },
+      "nodes": [
+        {
+          "pID": "962911197",
+          "name": "涂远"
+        },
+        {
+          "pID": "962911202",
+          "name": "赛场原声"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000566629",
       "pID": "120000566629",
       "title": "19:30播坡面障碍 谷爱凌领衔三姝冲首金",
       "keyword": "02月09日19:00",
       "sportItemId": "",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "冬奥会",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/09/773INR41UATJ.png",
