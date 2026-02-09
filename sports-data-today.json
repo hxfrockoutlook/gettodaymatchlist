@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-02-10 01:31:14",
+  "updateTime": "2026-02-10 02:01:18",
   "data": [
     {
       "mgdbId": "120000547924",
@@ -8,7 +8,7 @@
       "title": "亚冠精英联赛阶段",
       "keyword": "02月10日00:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "阿卜杜拉·本·哈里发球场",
       "competitionName": "亚冠精英",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/09/773INB14ME2F.png",
@@ -33,13 +33,13 @@
     {
       "mgdbId": "120000547925",
       "pID": "962911197",
-      "title": "亚冠��英联赛阶段",
+      "title": "亚冠精英联赛阶段",
       "keyword": "02月10日00:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "拉希德球场",
       "competitionName": "亚冠精英",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/05/773F2R6PRKQ8.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/10/773JK5J9BJJS.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/9/11/1000000012261060873b.png",
       "pkInfoTitle": "迪拜国民 vs 利雅得新月",
       "modifyTitle": "亚冠精英联赛阶段",
@@ -923,34 +923,102 @@
       ]
     },
     {
-      "mgdbId": "120000566759",
-      "pID": "120000566759",
-      "title": "正播速度滑冰 中国金花争最佳战绩",
-      "keyword": "02月10日00:20",
+      "mgdbId": "120000566745",
+      "pID": "120000566745",
+      "title": "正播跳台滑雪 宋祺武亮相赛场",
+      "keyword": "02月10日00:50",
       "sportItemId": "",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "冬奥会",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/08/773HT50I05LK.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/04/773E63T992NA.jpg",
       "competitionLogo": "",
-      "pkInfoTitle": "正播速度滑冰 中国金花争最佳战绩",
-      "modifyTitle": "10日00:30播速度滑冰 中国金花争最佳战绩",
+      "pkInfoTitle": "正播跳台滑雪 宋祺武亮相赛场",
+      "modifyTitle": "正播跳台滑雪 宋祺武亮相赛场",
       "presenters": "",
       "matchInfo": {
-        "time": "02月10日00:20"
+        "time": "02月10日00:50"
       },
       "nodes": [
         {
-          "pID": "962932260",
-          "name": "王铎睿"
+          "pID": "962932278",
+          "name": "吴桐"
+        },
+        {
+          "pID": "962932298",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "962931597",
+          "name": "CCTV16-4K"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000566771",
+      "pID": "120000566771",
+      "title": "2:20播花滑 王柳组合亮相冰舞韵律舞",
+      "keyword": "02月10日02:10",
+      "sportItemId": "",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "冬奥会",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/04/773E6INJOA1R.jpg",
+      "competitionLogo": "",
+      "pkInfoTitle": "2:20播花滑 王柳组合亮相冰舞韵律舞",
+      "modifyTitle": "2:20播花滑 王柳组合亮相冰舞韵律舞",
+      "presenters": "",
+      "matchInfo": {
+        "time": "02月10日02:10"
+      },
+      "nodes": [
+        {
+          "pID": "962932423",
+          "name": "钟宇峰"
+        },
+        {
+          "pID": "962932434",
+          "name": "赛场原声"
         },
         {
           "pID": "962931576",
           "name": "CCTV5"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000566803",
+      "pID": "120000566803",
+      "title": "2:30播女子大跳台 小将张小楠冲击奖牌",
+      "keyword": "02月10日02:15",
+      "sportItemId": "",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "冬奥会",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/10/773JN7FKRTA8.jpg",
+      "competitionLogo": "",
+      "pkInfoTitle": "2:30播女子大跳台 小将张小楠冲击奖牌",
+      "modifyTitle": "2:30播女子大跳台 小将张小楠冲击奖牌",
+      "presenters": "",
+      "matchInfo": {
+        "time": "02月10日02:15"
+      },
+      "nodes": [
+        {
+          "pID": "962932448",
+          "name": "蔡凯臣 王雪梅"
         },
         {
-          "pID": "962932264",
+          "pID": "962932459",
+          "name": "高智乾"
+        },
+        {
+          "pID": "962932467",
           "name": "赛场原声"
+        },
+        {
+          "pID": "962931576",
+          "name": "CCTV5"
         }
       ]
     }
