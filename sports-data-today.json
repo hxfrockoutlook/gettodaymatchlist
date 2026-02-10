@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-02-10 16:31:12",
+  "updateTime": "2026-02-10 17:01:22",
   "data": [
     {
       "mgdbId": "120000547924",
@@ -556,9 +556,9 @@
       "title": "女篮俱乐部杯",
       "keyword": "02月10日17:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
-      "competitionName": "��篮俱乐部杯",
+      "competitionName": "女篮俱乐部杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/09/773INT2IHV6K.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/2/3/100000001407106f1262.png",
       "pkInfoTitle": "东莞新彤盛 vs 福建金篮",
@@ -580,7 +580,7 @@
       "title": "女篮俱乐部杯",
       "keyword": "02月10日17:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "女篮俱乐部杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/09/773INT3F8P01.png",
@@ -604,7 +604,7 @@
       "title": "女篮俱乐部杯",
       "keyword": "02月10日17:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "女篮俱乐部杯",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000568485/202602041055_681874_H169_1080.webp",
@@ -685,7 +685,7 @@
     {
       "mgdbId": "120000568498",
       "pID": "962870640",
-      "title": "王欣瑜PK莱巴金娜 郑钦文vs帕克斯",
+      "title": "高芙、斯瓦泰克轮番出战 王欣瑜PK莱巴金娜",
       "keyword": "02月10日18:00",
       "sportItemId": "9",
       "matchStatus": "0",
@@ -693,8 +693,8 @@
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/10/773JK35DHNVK.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "王欣瑜PK莱巴金娜 郑钦文vs帕克斯",
-      "modifyTitle": "WTA多哈站Day3：王欣瑜PK莱巴金娜 郑钦文vs帕克斯",
+      "pkInfoTitle": "高芙、斯瓦泰克轮番出战 王欣瑜PK莱巴金娜",
+      "modifyTitle": "WTA多哈站Day3：高芙、斯瓦泰克轮番出战 王欣瑜PK莱巴金娜",
       "presenters": "胡力涛 单文强",
       "matchInfo": {
         "time": "02月10日18:00"
@@ -917,12 +917,12 @@
           "name": "袁甲 贺宇 李子琪"
         },
         {
-          "pID": "962911397",
-          "name": "赛场原声"
-        },
-        {
           "pID": "962911323",
           "name": "娄一晨 刘越 姚安妮"
+        },
+        {
+          "pID": "962911397",
+          "name": "赛场原声"
         }
       ]
     },
@@ -946,7 +946,7 @@
       "nodes": [
         {
           "pID": "962911323",
-          "name": "娄一晨 刘越 姚安妮"
+          "name": "���一晨 刘越 姚安妮"
         },
         {
           "pID": "962911328",
@@ -959,6 +959,10 @@
         {
           "pID": "962911359",
           "name": "袁甲 贺宇 李子琪"
+        },
+        {
+          "pID": "962911323",
+          "name": "娄一晨 刘越 姚安妮"
         }
       ]
     },
@@ -1059,17 +1063,53 @@
       ]
     },
     {
+      "mgdbId": "120000566655",
+      "pID": "120000566655",
+      "title": "正播短距离越野滑雪 王强、李明林出战",
+      "keyword": "02月10日16:05",
+      "sportItemId": "",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "冬奥会",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/10/773JKKV0VLG7.jpg",
+      "competitionLogo": "",
+      "pkInfoTitle": "正播短距离越野滑雪 王强、李明林出战",
+      "modifyTitle": "越野滑雪男子",
+      "presenters": "",
+      "matchInfo": {
+        "time": "02月10日16:05"
+      },
+      "nodes": [
+        {
+          "pID": "962954658",
+          "name": "章稀瑄"
+        },
+        {
+          "pID": "962954485",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "962974608",
+          "name": "智能字幕"
+        },
+        {
+          "pID": "962954455",
+          "name": "CCTV5"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000566791",
       "pID": "120000566791",
-      "title": "17:30播女子500米 范可新第四次亮相冬奥",
+      "title": "17:30播女子500米 范可新四战冬奥",
       "keyword": "02月10日17:00",
       "sportItemId": "",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "冬奥会",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/09/773IP1PQVO1O.jpg",
       "competitionLogo": "",
-      "pkInfoTitle": "17:30播女子500米 范可新第四次亮相冬奥",
+      "pkInfoTitle": "17:30播女子500米 范可新四战冬奥",
       "modifyTitle": "17:30播女子500米 范可新第四次亮相冬奥",
       "presenters": "",
       "matchInfo": {
