@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-02-10 09:31:28",
+  "updateTime": "2026-02-10 10:01:15",
   "data": [
     {
       "mgdbId": "120000547924",
@@ -320,7 +320,7 @@
       "title": "NBA常规赛",
       "keyword": "02月10日10:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "波尔体育馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/09/773IPM3ACVJ0.jpg",
@@ -801,7 +801,7 @@
     {
       "mgdbId": "120000569009",
       "pID": "962928378",
-      "title": "外协众将冲击正赛",
+      "title": "2026WTT金奈球星挑战赛Day1",
       "keyword": "02月10日19:30",
       "sportItemId": "7",
       "matchStatus": "0",
@@ -809,7 +809,7 @@
       "competitionName": "WTT",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/10/773JK0I2DATJ.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "外协众将冲击正赛",
+      "pkInfoTitle": "2026WTT金奈球星挑战赛Day1",
       "modifyTitle": "WTT金奈球星挑战赛：男女单打资格赛第一、二轮",
       "presenters": "",
       "matchInfo": {
@@ -865,7 +865,7 @@
     {
       "mgdbId": "120000547921",
       "pID": "962911323",
-      "title": "亚冠精英联赛阶段",
+      "title": "亚冠精��联赛阶段",
       "keyword": "02月10日20:15",
       "sportItemId": "1",
       "matchStatus": "0",
@@ -918,6 +918,38 @@
         },
         {
           "pID": "962910930",
+          "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000566791",
+      "pID": "120000566791",
+      "title": "17:30播短道速滑 范可新刘少昂领衔冲首金",
+      "keyword": "02月10日17:00",
+      "sportItemId": "",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "冬奥会",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/09/773IP1PQVO1O.jpg",
+      "competitionLogo": "",
+      "pkInfoTitle": "17:30播短道速滑 范可新刘少昂领衔冲首金",
+      "modifyTitle": "17:30播短道速滑 范可新刘少昂领衔冲首金",
+      "presenters": "",
+      "matchInfo": {
+        "time": "02月10日17:00"
+      },
+      "nodes": [
+        {
+          "pID": "962954820",
+          "name": "黄健翔 任子威 曲春雨"
+        },
+        {
+          "pID": "962954781",
+          "name": "涂远"
+        },
+        {
+          "pID": "962954771",
           "name": "赛场原声"
         }
       ]
