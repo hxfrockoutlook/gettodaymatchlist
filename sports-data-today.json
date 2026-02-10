@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-02-10 07:31:24",
+  "updateTime": "2026-02-10 08:01:35",
   "data": [
     {
       "mgdbId": "120000547924",
@@ -33,7 +33,7 @@
     {
       "mgdbId": "120000547925",
       "pID": "962911197",
-      "title": "亚冠精英联赛阶段",
+      "title": "亚冠精英联赛��段",
       "keyword": "02月10日00:00",
       "sportItemId": "1",
       "matchStatus": "2",
@@ -152,7 +152,7 @@
       "title": "NBA常规赛",
       "keyword": "02月10日08:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "光谱中心",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/09/773IPRCO8E8S.png",
@@ -919,6 +919,30 @@
         {
           "pID": "962910930",
           "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000568409",
+      "pID": "120000568409",
+      "title": "正直击米兰！全景冬奥早知道",
+      "keyword": "02月10日08:00",
+      "sportItemId": "",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "冬奥会",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/10/773JLTHQTTBC.jpg",
+      "competitionLogo": "",
+      "pkInfoTitle": "正直击米兰！全景冬奥早知道",
+      "modifyTitle": "正直击米兰！全景冬奥早知道",
+      "presenters": "",
+      "matchInfo": {
+        "time": "02月10日08:00"
+      },
+      "nodes": [
+        {
+          "pID": "962857261",
+          "name": "《咪咕体育日报》第4期"
         }
       ]
     }
