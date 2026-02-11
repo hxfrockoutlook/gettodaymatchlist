@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-02-12 01:01:23",
+  "updateTime": "2026-02-12 01:31:11",
   "data": [
     {
       "mgdbId": "120000564582",
@@ -610,7 +610,7 @@
       "mgdbId": "120000547332",
       "pID": "962933669",
       "title": "NBA常规赛",
-      "keyword": "02月12日10:00",
+      "keyword": "02��12日10:00",
       "sportItemId": "2",
       "matchStatus": "0",
       "matchField": "波尔体育馆",
@@ -621,7 +621,7 @@
       "modifyTitle": "NBA常规赛",
       "presenters": "陈鑫隆",
       "matchInfo": {
-        "time": "02月12日10:00"
+        "time": "02��12日10:00"
       },
       "nodes": [
         {
@@ -959,6 +959,42 @@
         {
           "pID": "962911136",
           "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000566762",
+      "pID": "120000566762",
+      "title": "正播速度滑冰 宁忠岩、廉子文冲奖牌 ",
+      "keyword": "02月12日01:15",
+      "sportItemId": "",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "冬奥会",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/11/773KICAF67H1.jpg",
+      "competitionLogo": "",
+      "pkInfoTitle": "正播速度滑冰 宁忠岩、廉子文冲奖牌 ",
+      "modifyTitle": "12日1:30播速度滑冰 宁忠岩、廉子文冲奖牌",
+      "presenters": "",
+      "matchInfo": {
+        "time": "02月12日01:15"
+      },
+      "nodes": [
+        {
+          "pID": "962975906",
+          "name": "韩乔生 金京珠 李子琪"
+        },
+        {
+          "pID": "962975919",
+          "name": "姚文倩"
+        },
+        {
+          "pID": "962975943",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "962975430",
+          "name": "CCTV5"
         }
       ]
     }
