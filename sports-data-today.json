@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-02-11 21:01:20",
+  "updateTime": "2026-02-11 21:31:07",
   "data": [
     {
       "mgdbId": "120000547919",
@@ -472,7 +472,7 @@
     },
     {
       "mgdbId": "120000569173",
-      "pID": "962976998",
+      "pID": "962976898",
       "title": "周跃龙5-0晋级 范争一遭淘汰",
       "keyword": "02月11日18:00",
       "sportItemId": "8",
@@ -488,10 +488,6 @@
         "time": "02月11日18:00"
       },
       "nodes": [
-        {
-          "pID": "962976969",
-          "name": "4号桌"
-        },
         {
           "pID": "962976998",
           "name": "5号桌"
@@ -511,6 +507,10 @@
         {
           "pID": "962976954",
           "name": "3号桌"
+        },
+        {
+          "pID": "962976969",
+          "name": "4号桌"
         },
         {
           "pID": "962977015",
@@ -552,7 +552,7 @@
       "title": "东亚超级联赛",
       "keyword": "02月11日19:10",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "东亚超级联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/10/773JLF6QH3M7.png",
@@ -591,10 +591,6 @@
         {
           "pID": "962903386",
           "name": "殷雪怡 张琳"
-        },
-        {
-          "pID": "962996277",
-          "name": "25/26赛季CBA俱乐部杯三、四名决赛: 山东高速vs浙江方兴渡(庄宁宇,陈正昊,李根)"
         },
         {
           "pID": "962900055",
@@ -640,11 +636,11 @@
     },
     {
       "mgdbId": "120000569178",
-      "pID": "962996277",
+      "pID": "963029435",
       "title": "CBA俱乐部杯季军赛",
       "keyword": "02月11日19:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "内蒙古体育馆",
       "competitionName": "CBA俱乐部杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/09/773IPUL8JMEF.jpg",
@@ -656,6 +652,10 @@
         "time": "02月11日19:30"
       },
       "nodes": [
+        {
+          "pID": "963029435",
+          "name": "25/26赛季CBA俱乐部杯季军赛全场集锦：山东vs广厦"
+        },
         {
           "pID": "962996277",
           "name": "庄宁宇 陈正昊 李根"
@@ -759,40 +759,12 @@
       ]
     },
     {
-      "mgdbId": "120000569253",
-      "pID": "963024908",
-      "title": "斯瓦泰克 vs 卡萨金娜",
-      "keyword": "02月11日21:30",
-      "sportItemId": "9",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "WTA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/11/773KIAJRBPV9.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "斯瓦泰克 vs 卡萨金娜",
-      "modifyTitle": "斯瓦泰克 vs 卡萨金娜",
-      "presenters": "",
-      "matchInfo": {
-        "time": "02月11日21:30"
-      },
-      "nodes": [
-        {
-          "pID": "963024908",
-          "name": "清流"
-        },
-        {
-          "pID": "962870789",
-          "name": "英文原声"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000564583",
       "pID": "962910965",
       "title": "亚冠二级1/8决赛",
       "keyword": "02月11日21:45",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "Saparmyrat Türkmenbaşy Adyndaky Olimpiýa Stadiony",
       "competitionName": "亚冠二级",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000564583/731328_H169_sc.jpg",
@@ -811,6 +783,34 @@
         {
           "pID": "962910983",
           "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000569253",
+      "pID": "963024908",
+      "title": "斯瓦泰克 vs 卡萨金娜",
+      "keyword": "02月11日22:00",
+      "sportItemId": "9",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "WTA",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/11/773KIAJRBPV9.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
+      "pkInfoTitle": "斯瓦泰克 vs 卡萨特金娜",
+      "modifyTitle": "斯瓦泰克 vs 卡萨金娜",
+      "presenters": "",
+      "matchInfo": {
+        "time": "02月11日22:00"
+      },
+      "nodes": [
+        {
+          "pID": "963024908",
+          "name": "清流"
+        },
+        {
+          "pID": "962870789",
+          "name": "英文原声"
         }
       ]
     },
