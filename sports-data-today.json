@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-02-11 17:31:05",
+  "updateTime": "2026-02-11 18:01:16",
   "data": [
     {
       "mgdbId": "120000547919",
@@ -420,7 +420,7 @@
       "title": "亚冠精英联赛阶段",
       "keyword": "02月11日18:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "Chuncheon Songam Stadium",
       "competitionName": "亚冠精英",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/05/773F5ICUSBLE.jpg",
@@ -448,7 +448,7 @@
       "title": "亚冠精英联赛阶段",
       "keyword": "02月11日18:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "文殊球场",
       "competitionName": "亚冠精英",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/05/773F2UM11BGI.png",
@@ -476,7 +476,7 @@
       "title": "米拉vs姆博科 斯瓦泰克出战",
       "keyword": "02月11日18:00",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/11/773KHRNQ55MC.jpg",
@@ -512,7 +512,7 @@
       "title": "周跃龙、范争一领衔出战",
       "keyword": "02月11日18:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/11/773KJ8C17FFG.jpg",
@@ -835,6 +835,42 @@
         {
           "pID": "963024958",
           "name": "智能球路轨迹"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000566806",
+      "pID": "120000566806",
+      "title": "正播单板滑雪 刘佳宇、蔡雪桐五战冬奥",
+      "keyword": "02月11日17:15",
+      "sportItemId": "",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "冬奥会",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/10/773JMOM0HLGH.jpg",
+      "competitionLogo": "",
+      "pkInfoTitle": "正播单板滑雪 刘佳宇、蔡雪桐五战冬奥",
+      "modifyTitle": "17:30播单板滑雪 刘佳宇、蔡雪桐五战冬奥",
+      "presenters": "",
+      "matchInfo": {
+        "time": "02月11日17:15"
+      },
+      "nodes": [
+        {
+          "pID": "962975969",
+          "name": "邢天宇 王雪梅 裴优"
+        },
+        {
+          "pID": "962975979",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "963003812",
+          "name": "智能字幕"
+        },
+        {
+          "pID": "962975430",
+          "name": "CCTV5"
         }
       ]
     },
