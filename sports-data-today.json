@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-02-11 21:31:07",
+  "updateTime": "2026-02-11 22:01:19",
   "data": [
     {
       "mgdbId": "120000547919",
@@ -482,20 +482,12 @@
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/11/773KJ8C17FFG.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "周跃龙5-0晋级 范争一遭淘汰",
-      "modifyTitle": "斯诺克玉山世界公开赛资格赛：周跃龙、范争一领衔出战",
+      "modifyTitle": "斯诺克玉山世界公开赛资格赛：周跃龙晋级 范争一淘汰",
       "presenters": "",
       "matchInfo": {
         "time": "02月11日18:00"
       },
       "nodes": [
-        {
-          "pID": "962976998",
-          "name": "5号桌"
-        },
-        {
-          "pID": "962977005",
-          "name": "6号桌"
-        },
         {
           "pID": "962976898",
           "name": "1号桌"
@@ -509,8 +501,16 @@
           "name": "3号桌"
         },
         {
+          "pID": "962976998",
+          "name": "5号桌"
+        },
+        {
           "pID": "962976969",
           "name": "4号桌"
+        },
+        {
+          "pID": "962977005",
+          "name": "6号桌"
         },
         {
           "pID": "962977015",
@@ -548,7 +548,7 @@
     },
     {
       "mgdbId": "120000564503",
-      "pID": "961479051",
+      "pID": "963030342",
       "title": "东亚超级联赛",
       "keyword": "02月11日19:10",
       "sportItemId": "2",
@@ -565,6 +565,10 @@
       },
       "nodes": [
         {
+          "pID": "963030342",
+          "name": "全场集锦"
+        },
+        {
           "pID": "961479051",
           "name": "季孟年"
         }
@@ -572,11 +576,11 @@
     },
     {
       "mgdbId": "120000568864",
-      "pID": "962903386",
+      "pID": "963030366",
       "title": "中国女篮系列热身赛",
       "keyword": "02月11日19:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "中国女篮系列热身赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/09/773INJJR18CP.png",
@@ -588,6 +592,10 @@
         "time": "02月11日19:30"
       },
       "nodes": [
+        {
+          "pID": "963030366",
+          "name": "2026中国女篮系列热身赛全场集锦：中国女篮vs国际女篮联队（20260211）"
+        },
         {
           "pID": "962903386",
           "name": "殷雪怡 张琳"
@@ -661,10 +669,6 @@
           "name": "庄宁宇 陈正昊 李根"
         },
         {
-          "pID": "962903386",
-          "name": "2026中国女篮系列热身赛: 中国vs国际女篮联队(殷雪怡,张琳)"
-        },
-        {
           "pID": "962996251",
           "name": "赛场原声"
         },
@@ -684,7 +688,7 @@
       "title": "东亚超级联赛",
       "keyword": "02月11日19:40",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "东亚超级联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/10/773JLF7IDA9Q.png",
@@ -790,7 +794,7 @@
       "mgdbId": "120000569253",
       "pID": "963024908",
       "title": "斯瓦泰克 vs 卡萨金娜",
-      "keyword": "02月11日22:00",
+      "keyword": "02月11日22:10",
       "sportItemId": "9",
       "matchStatus": "0",
       "matchField": "",
@@ -801,7 +805,7 @@
       "modifyTitle": "斯瓦泰克 vs 卡萨金娜",
       "presenters": "",
       "matchInfo": {
-        "time": "02月11日22:00"
+        "time": "02月11日22:10"
       },
       "nodes": [
         {
@@ -859,7 +863,7 @@
       "matchStatus": "2",
       "matchField": "",
       "competitionName": "冬奥会",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/10/773JMPIN37KB.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/11/773KJJ8K2I4L.jpg",
       "competitionLogo": "",
       "pkInfoTitle": "正播北欧两项 赵嘉文、赵子贺出战",
       "modifyTitle": "正播北欧两项 赵嘉文、赵子贺出战",
