@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-02-11 20:31:09",
+  "updateTime": "2026-02-11 21:01:20",
   "data": [
     {
       "mgdbId": "120000547919",
@@ -489,10 +489,6 @@
       },
       "nodes": [
         {
-          "pID": "962976926",
-          "name": "2号桌"
-        },
-        {
           "pID": "962976969",
           "name": "4号桌"
         },
@@ -509,6 +505,10 @@
           "name": "1号桌"
         },
         {
+          "pID": "962976926",
+          "name": "2号桌"
+        },
+        {
           "pID": "962976954",
           "name": "3号桌"
         },
@@ -520,7 +520,7 @@
     },
     {
       "mgdbId": "120000564502",
-      "pID": "961478983",
+      "pID": "963028827",
       "title": "东亚超级联赛",
       "keyword": "02月11日18:10",
       "sportItemId": "2",
@@ -536,6 +536,10 @@
         "time": "02月11日18:10"
       },
       "nodes": [
+        {
+          "pID": "963028827",
+          "name": "全场集锦"
+        },
         {
           "pID": "961478983",
           "name": "清流播出"
@@ -843,6 +847,38 @@
         {
           "pID": "963024958",
           "name": "智能球路轨迹"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000566619",
+      "pID": "120000566619",
+      "title": "正播北欧两项 赵嘉文、赵子贺出战",
+      "keyword": "02月11日20:35",
+      "sportItemId": "",
+      "matchStatus": "2",
+      "matchField": "",
+      "competitionName": "冬奥会",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/10/773JMPIN37KB.jpg",
+      "competitionLogo": "",
+      "pkInfoTitle": "正播北欧两项 赵嘉文、赵子贺出战",
+      "modifyTitle": "正播北欧两项 赵嘉文、赵子贺出战",
+      "presenters": "",
+      "matchInfo": {
+        "time": "02月11日20:35"
+      },
+      "nodes": [
+        {
+          "pID": "962976095",
+          "name": "赵婧"
+        },
+        {
+          "pID": "962976118",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "962975452",
+          "name": "CCTV5+"
         }
       ]
     }
