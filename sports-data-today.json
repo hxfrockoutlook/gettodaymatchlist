@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-02-12 03:01:16",
+  "updateTime": "2026-02-12 03:31:16",
   "data": [
     {
       "mgdbId": "120000564582",
@@ -72,7 +72,7 @@
       "title": "英超联赛",
       "keyword": "02月12日03:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "诺丁汉城市球场",
       "competitionName": "英超",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000542265/972805_H169_sc.jpg",
@@ -121,47 +121,15 @@
           "name": "娄一晨 刘越 姚安妮"
         },
         {
+          "pID": "962909383",
+          "name": "娄一晨 刘越 姚安妮"
+        },
+        {
           "pID": "962909271",
           "name": "英文原声"
         },
         {
           "pID": "962909255",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "962909383",
-          "name": "娄一晨 刘越 姚安妮"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000542268",
-      "pID": "962909550",
-      "title": "英超联赛",
-      "keyword": "02月12日03:30",
-      "sportItemId": "1",
-      "matchStatus": "0",
-      "matchField": "塞尔赫斯特公园球场",
-      "competitionName": "英超",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000542268/870692_H169_sc.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png",
-      "pkInfoTitle": "水晶宫 vs 伯恩利",
-      "modifyTitle": "英超联赛",
-      "presenters": "黄航",
-      "matchInfo": {
-        "time": "02月12日03:30"
-      },
-      "nodes": [
-        {
-          "pID": "962909550",
-          "name": "黄航"
-        },
-        {
-          "pID": "962909538",
-          "name": "英文原声"
-        },
-        {
-          "pID": "962909530",
           "name": "赛场原声"
         }
       ]
@@ -172,7 +140,7 @@
       "title": "英超联赛",
       "keyword": "02月12日03:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "维拉公园球场",
       "competitionName": "英超",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000542271/639951_H169_sc.jpg",
@@ -194,6 +162,38 @@
         },
         {
           "pID": "962909643",
+          "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000542268",
+      "pID": "962909550",
+      "title": "英超联赛",
+      "keyword": "02月12日03:40",
+      "sportItemId": "1",
+      "matchStatus": "0",
+      "matchField": "塞尔赫斯特公园球场",
+      "competitionName": "英超",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000542268/870692_H169_sc.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png",
+      "pkInfoTitle": "水晶宫 vs 伯恩利",
+      "modifyTitle": "英超联赛",
+      "presenters": "黄航",
+      "matchInfo": {
+        "time": "02月12日03:40"
+      },
+      "nodes": [
+        {
+          "pID": "962909550",
+          "name": "黄航"
+        },
+        {
+          "pID": "962909538",
+          "name": "英文原声"
+        },
+        {
+          "pID": "962909530",
           "name": "赛场原声"
         }
       ]
@@ -965,21 +965,25 @@
     {
       "mgdbId": "120000566762",
       "pID": "120000566762",
-      "title": "正播速度滑冰 宁忠岩、廉子文冲奖牌 ",
+      "title": "创造历史！宁忠岩速滑1000米摘铜",
       "keyword": "02月12日01:15",
       "sportItemId": "",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "冬奥会",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/12/773LELO0HCGJ.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/12/773LERNCO5O8.png",
       "competitionLogo": "",
-      "pkInfoTitle": "正播速度滑冰 宁忠岩、廉子文冲奖牌 ",
-      "modifyTitle": "12日1:30播速度滑冰 宁忠岩、廉子文冲奖牌",
+      "pkInfoTitle": "创造历史！宁忠岩速滑1000米摘铜",
+      "modifyTitle": "创造历史！宁忠岩速滑1000米摘铜",
       "presenters": "",
       "matchInfo": {
         "time": "02月12日01:15"
       },
       "nodes": [
+        {
+          "pID": "963033434",
+          "name": "圆月弯刀尽显威力！宁忠岩1分07秒34排名暂列第一"
+        },
         {
           "pID": "962975906",
           "name": "韩乔生 金京珠 李子琪"
