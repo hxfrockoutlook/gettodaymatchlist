@@ -1,17 +1,17 @@
 {
   "success": true,
-  "updateTime": "2026-02-13 01:30:44",
+  "updateTime": "2026-02-13 02:00:48",
   "data": [
     {
       "mgdbId": "120000566495",
-      "pID": "963050551",
+      "pID": "963050560",
       "title": "欧乒联男子欧冠联赛1/4决赛第二回合：博戈里亚达通vs苏赫纽夫奥尔利奇银行",
       "keyword": "02月13日01:30",
       "sportItemId": "7",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "乒乓球欧冠",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/12/773LF7VV401O.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/13/773MBDEC5EKM.png",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/13/6V11V4JDQ2PO.png",
       "pkInfoTitle": "博戈里亚达通vs苏赫纽夫奥尔利奇银行",
       "modifyTitle": "欧乒联男子欧冠联赛1/4决赛第二回合：博戈里亚达通vs苏赫纽夫奥尔利奇银行",
@@ -21,12 +21,12 @@
       },
       "nodes": [
         {
-          "pID": "963050551",
-          "name": "赛场原声"
-        },
-        {
           "pID": "963050560",
           "name": "周冠达"
+        },
+        {
+          "pID": "963050551",
+          "name": "赛场原声"
         }
       ]
     },
@@ -191,7 +191,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/13/773MBEHP96L6.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "芝田沙季pk柳韩娜 林仲勋/吴晙诚出战",
       "modifyTitle": "WTT金奈球星挑战赛：男女单打1/16决赛、双打1/4决赛",
@@ -229,15 +229,15 @@
     {
       "mgdbId": "120000569014",
       "pID": "962929717",
-      "title": "男女单打1/16决赛、双打半决赛、混双1/4决赛",
+      "title": "冲单打16强！林仲勋、大藤沙月出战",
       "keyword": "02月13日19:30",
       "sportItemId": "7",
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/13/773MBFOA6CQG.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "男女单打1/16决赛、双打半决赛、混双1/4决赛",
+      "pkInfoTitle": "冲单打16强！林仲勋、大藤沙月出战",
       "modifyTitle": "WTT金奈球星挑战赛：男女单打1/16决赛、双打半决赛、混双1/4决赛",
       "presenters": "刘馨蕊",
       "matchInfo": {
@@ -299,6 +299,38 @@
         {
           "pID": "962932014",
           "name": "智能球路轨迹"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000566526",
+      "pID": "120000566526",
+      "title": "正播女子冰壶 中国金花首秀战劲旅",
+      "keyword": "02月13日01:55",
+      "sportItemId": "",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "冬奥会",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/12/773LGDKIAM7N.jpg",
+      "competitionLogo": "",
+      "pkInfoTitle": "正播女子冰壶 中国金花首秀战劲旅",
+      "modifyTitle": "2:05播女子冰壶 中国金花首秀战劲旅",
+      "presenters": "",
+      "matchInfo": {
+        "time": "02月13日01:55"
+      },
+      "nodes": [
+        {
+          "pID": "963005451",
+          "name": "刘彤"
+        },
+        {
+          "pID": "963005438",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "963004982",
+          "name": "CCTV16-4K"
         }
       ]
     },
