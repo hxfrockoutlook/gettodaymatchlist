@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-02-12 07:31:09",
+  "updateTime": "2026-02-12 08:01:18",
   "data": [
     {
       "mgdbId": "120000564582",
@@ -268,7 +268,7 @@
       "title": "NBA常规赛",
       "keyword": "02月12日08:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "火箭信贷球馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/11/773KJS59UQ3F.png",
@@ -296,7 +296,7 @@
       "title": "NBA常规赛",
       "keyword": "02月12日08:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "安利中心",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/11/773KJSEHOTNL.png",
@@ -324,7 +324,7 @@
       "title": "NBA常规赛",
       "keyword": "02月12日08:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "光谱中心",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/11/773KJSR28VEE.png",
@@ -963,6 +963,30 @@
       ]
     },
     {
+      "mgdbId": "120000568411",
+      "pID": "120000568411",
+      "title": "8:00直击米兰！全景冬奥早知道",
+      "keyword": "02月12日08:00",
+      "sportItemId": "",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "冬奥会",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/12/773LG440HRJ1.jpg",
+      "competitionLogo": "",
+      "pkInfoTitle": "8:00直击米兰！全景冬奥早知道",
+      "modifyTitle": "8:00直击米兰！全景冬奥早知道",
+      "presenters": "",
+      "matchInfo": {
+        "time": "02月12日08:00"
+      },
+      "nodes": [
+        {
+          "pID": "962857030",
+          "name": "上海咪咕虚拟演播室"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000566762",
       "pID": "120000566762",
       "title": "创造历史！宁忠岩速滑1000米摘铜",
@@ -999,30 +1023,6 @@
         {
           "pID": "962975943",
           "name": "赛场原声"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000568411",
-      "pID": "120000568411",
-      "title": "8:00直击米兰！全景冬奥早知道",
-      "keyword": "02月12日08:00",
-      "sportItemId": "",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "冬奥会",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/11/773KHEGQTN6S.jpg",
-      "competitionLogo": "",
-      "pkInfoTitle": "8:00直击米兰！全景冬奥早知道",
-      "modifyTitle": "8:00直击米兰！全景冬奥早知道",
-      "presenters": "",
-      "matchInfo": {
-        "time": "02月12日08:00"
-      },
-      "nodes": [
-        {
-          "pID": "962857030",
-          "name": "上海咪咕虚拟演播室"
         }
       ]
     }
