@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-02-13 22:00:56",
+  "updateTime": "2026-02-13 22:30:51",
   "data": [
     {
       "mgdbId": "120000566495",
@@ -248,33 +248,25 @@
     },
     {
       "mgdbId": "120000569014",
-      "pID": "962929717",
+      "pID": "962929465",
       "title": "林仲勋1-3止步 大藤沙月直落三局晋级",
       "keyword": "02月13日19:30",
       "sportItemId": "7",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "WTT",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/13/773MDQE1B45E.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "林仲勋1-3止步 大藤沙月直落三局晋级",
       "modifyTitle": "WTT金奈球星挑战赛：男女单打1/16决赛、双打半决赛",
-      "presenters": "刘馨蕊",
+      "presenters": "",
       "matchInfo": {
         "time": "02月13日19:30"
       },
       "nodes": [
         {
-          "pID": "962929717",
-          "name": "刘馨蕊"
-        },
-        {
           "pID": "962929465",
           "name": "1号桌"
-        },
-        {
-          "pID": "962929519",
-          "name": "3号桌"
         },
         {
           "pID": "962929630",
@@ -313,12 +305,12 @@
           "name": "英文原声"
         },
         {
-          "pID": "963071111",
-          "name": "萨卡里 VS 穆霍娃（智能球路轨迹）"
-        },
-        {
           "pID": "963071177",
           "name": "萨卡里 VS 穆霍娃(单文强)"
+        },
+        {
+          "pID": "963071111",
+          "name": "萨卡里 VS 穆霍娃（智能球路轨迹）"
         }
       ]
     },
@@ -355,30 +347,6 @@
       ]
     },
     {
-      "mgdbId": "120000569308",
-      "pID": "120000569308",
-      "title": "UFC巴西柔术大赛第五期",
-      "keyword": "02月13日19:00",
-      "sportItemId": "",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "UFC BJJ",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/13/773MBM2R1O5O.jpg",
-      "competitionLogo": "",
-      "pkInfoTitle": "UFC巴西柔术大赛第五期",
-      "modifyTitle": "UFC巴西柔术大赛第五期",
-      "presenters": "",
-      "matchInfo": {
-        "time": "02月13日19:00"
-      },
-      "nodes": [
-        {
-          "pID": "963029144",
-          "name": "王琰博"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000566565",
       "pID": "120000566565",
       "title": "正播冬奥冰壶 中国女队激战世界第一",
@@ -387,7 +355,7 @@
       "matchStatus": "2",
       "matchField": "",
       "competitionName": "冬奥会",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/12/773LGR3PJCJU.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/13/773MDUR31UDQ.jpg",
       "competitionLogo": "",
       "pkInfoTitle": "正播冬奥冰壶 中国女队激战世界第一",
       "modifyTitle": "正播冬奥冰壶 中国女队激战世界第一",
@@ -439,6 +407,30 @@
         {
           "pID": "963027511",
           "name": "CCTV16-4K"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000569308",
+      "pID": "120000569308",
+      "title": "正播巴西柔术大赛 穆苏梅奇VS蒙塔古",
+      "keyword": "02月13日19:00",
+      "sportItemId": "",
+      "matchStatus": "2",
+      "matchField": "",
+      "competitionName": "UFC BJJ",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/13/773MDVQP60VC.jpg",
+      "competitionLogo": "",
+      "pkInfoTitle": "正播巴西柔术大赛 穆苏梅奇VS蒙塔古",
+      "modifyTitle": "正播巴西柔术大赛 穆苏梅奇VS蒙塔古",
+      "presenters": "",
+      "matchInfo": {
+        "time": "02月13日19:00"
+      },
+      "nodes": [
+        {
+          "pID": "963029144",
+          "name": "王琰博"
         }
       ]
     }
