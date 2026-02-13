@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-02-13 18:30:58",
+  "updateTime": "2026-02-13 19:00:51",
   "data": [
     {
       "mgdbId": "120000566495",
@@ -368,7 +368,7 @@
       "title": "UFC巴西柔术大赛第五期",
       "keyword": "02月13日19:00",
       "sportItemId": "",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "UFC BJJ",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/13/773MBM2R1O5O.jpg",
@@ -387,6 +387,38 @@
       ]
     },
     {
+      "mgdbId": "120000566761",
+      "pID": "120000566761",
+      "title": "正播男子越野滑雪 李明林征战10公里",
+      "keyword": "02月13日18:35",
+      "sportItemId": "",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "冬奥会",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/13/773MBN4H9L4A.jpg",
+      "competitionLogo": "",
+      "pkInfoTitle": "正播男子越野滑雪 李明林征战10公里",
+      "modifyTitle": "正播男子越野滑雪 李明林征战10公里",
+      "presenters": "",
+      "matchInfo": {
+        "time": "02月13日18:35"
+      },
+      "nodes": [
+        {
+          "pID": "963027732",
+          "name": "轩子博"
+        },
+        {
+          "pID": "963027716",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "963027463",
+          "name": "CCTV5"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000566553",
       "pID": "120000566553",
       "title": "正播男子冰壶 徐晓明领衔战北欧劲旅",
@@ -395,7 +427,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "冬奥会",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/13/773MCHK5GQN4.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/13/773MCSL3GM96.png",
       "competitionLogo": "",
       "pkInfoTitle": "正播男子冰壶 徐晓明领衔战北欧劲旅",
       "modifyTitle": "正播男子冰壶 徐晓明领衔战北欧劲旅",
@@ -415,38 +447,6 @@
         {
           "pID": "963027587",
           "name": "赛场原声"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000566761",
-      "pID": "120000566761",
-      "title": "18:45播男子越野滑雪 李明林征战10公里",
-      "keyword": "02月13日18:35",
-      "sportItemId": "",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "冬奥会",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/13/773MBN4H9L4A.jpg",
-      "competitionLogo": "",
-      "pkInfoTitle": "18:45播男子越野滑雪 李明林征战10公里",
-      "modifyTitle": "18:45播男子越野滑雪 李明林征战10公里",
-      "presenters": "",
-      "matchInfo": {
-        "time": "02月13日18:35"
-      },
-      "nodes": [
-        {
-          "pID": "963027732",
-          "name": "轩子博"
-        },
-        {
-          "pID": "963027716",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "963027463",
-          "name": "CCTV5"
         }
       ]
     }
