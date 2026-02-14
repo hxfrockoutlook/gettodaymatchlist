@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-02-14 18:31:18",
+  "updateTime": "2026-02-14 19:01:30",
   "data": [
     {
       "mgdbId": "120000569439",
@@ -588,7 +588,7 @@
       "title": "阿布扎比站",
       "keyword": "02月14日19:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "浪琴国家联赛",
       "padImg": "",
@@ -1067,12 +1067,44 @@
       ]
     },
     {
+      "mgdbId": "120000566785",
+      "pID": "120000566785",
+      "title": "正播女子越野滑雪 迪妮格尔领衔闯关",
+      "keyword": "02月14日18:50",
+      "sportItemId": "",
+      "matchStatus": "2",
+      "matchField": "",
+      "competitionName": "冬奥会",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/04/773E6N2U0Q4T.png",
+      "competitionLogo": "",
+      "pkInfoTitle": "正播女子越野滑雪 迪妮格尔领衔闯关",
+      "modifyTitle": "正播女子越野滑雪 迪妮格尔领衔闯关",
+      "presenters": "",
+      "matchInfo": {
+        "time": "02月14日18:50"
+      },
+      "nodes": [
+        {
+          "pID": "963049546",
+          "name": "章稀瑄"
+        },
+        {
+          "pID": "963049542",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "963049439",
+          "name": "CCTV5+"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000566779",
       "pID": "120000566779",
       "title": "正播高山滑雪 刘校辰出战男子大回转",
-      "keyword": "02月14日16:50",
+      "keyword": "02月14日20:20",
       "sportItemId": "",
-      "matchStatus": "1",
+      "matchStatus": "0",
       "matchField": "",
       "competitionName": "冬奥会",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/14/773NA9ODIM63.jpg",
@@ -1081,13 +1113,9 @@
       "modifyTitle": "正播高山滑雪 刘校辰出战男子大回转",
       "presenters": "",
       "matchInfo": {
-        "time": "02月14日16:50"
+        "time": "02月14日20:20"
       },
       "nodes": [
-        {
-          "pID": "963049535",
-          "name": "楚韫源"
-        },
         {
           "pID": "963049529",
           "name": "楚韫源"
@@ -1148,7 +1176,7 @@
       "title": "正播女子冰壶 中国女队挑战欧洲劲旅",
       "keyword": "02月14日15:55",
       "sportItemId": "",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "冬奥会",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/14/773N9OBBI4TJ.jpg",
