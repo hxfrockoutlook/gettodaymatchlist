@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-02-14 19:31:19",
+  "updateTime": "2026-02-14 20:01:23",
   "data": [
     {
       "mgdbId": "120000569439",
@@ -615,7 +615,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/14/773N9KA22U4M.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/14/773NA8I3AJFR.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "韩日争冠！柳韩娜/金娜英PK横井/青木",
       "modifyTitle": "WTT金奈球星挑战赛：男女单打1/4决赛、双打决赛",
@@ -648,7 +648,7 @@
       "title": "Naiza81：中国选手吾扎提、依巴多拉出战",
       "keyword": "02月14日20:00",
       "sportItemId": "5",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "Naiza",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/13/773MDBRC016O.jpg",
@@ -676,7 +676,7 @@
       "title": "足总杯第四轮",
       "keyword": "02月14日20:15",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "倍耐力球场",
       "competitionName": "足总杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/12/773LEI2R1975.jpg",
@@ -802,11 +802,11 @@
       "nodes": [
         {
           "pID": "963048444",
-          "name": "2026冬奥会冬季两项: 冬季两项 女子7.5公里短距离(谭盛方)"
+          "name": "冬季两项"
         },
         {
           "pID": "963048524",
-          "name": "2026冬奥会速度滑冰: 速度滑冰 女子团体追逐1/4决赛、男子500米(王铎睿,金京珠)"
+          "name": "速度滑冰"
         },
         {
           "pID": "963068536",
@@ -1036,6 +1036,10 @@
         "time": "02月14日23:00"
       },
       "nodes": [
+        {
+          "pID": "963048524",
+          "name": "速度滑冰"
+        },
         {
           "pID": "963064754",
           "name": "苏东 徐阳 李子琪"
