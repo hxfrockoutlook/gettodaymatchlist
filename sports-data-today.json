@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-02-14 17:01:20",
+  "updateTime": "2026-02-14 17:31:15",
   "data": [
     {
       "mgdbId": "120000569439",
@@ -541,7 +541,7 @@
     {
       "mgdbId": "120000569015",
       "pID": "962929915",
-      "title": "吴晙诚/长崎美柚冲决赛  奥恰洛夫3-0晋级",
+      "title": "奥恰洛夫3-0晋级  吴晙诚/长崎美柚伤退",
       "keyword": "02月14日13:30",
       "sportItemId": "7",
       "matchStatus": "2",
@@ -549,7 +549,7 @@
       "competitionName": "WTT",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/14/773N9DJODI6H.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "吴晙诚/长崎美柚冲决赛  奥恰洛夫3-0晋级",
+      "pkInfoTitle": "奥恰洛夫3-0晋级  吴晙诚/长崎美柚伤退",
       "modifyTitle": "WTT金奈球星挑战赛：男女单打1/8决赛、混双半决赛",
       "presenters": "周冠达",
       "matchInfo": {
@@ -609,15 +609,15 @@
     {
       "mgdbId": "120000569016",
       "pID": "962929988",
-      "title": "男女单打1/4决赛、双打决赛",
+      "title": "韩日争冠！柳韩娜/金娜英PK横井/青木",
       "keyword": "02月14日19:30",
       "sportItemId": "7",
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/14/773N9KA22U4M.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "男女单打1/4决赛、双打决赛",
+      "pkInfoTitle": "韩日争冠！柳韩娜/金娜英PK横井/青木",
       "modifyTitle": "WTT金奈球星挑战赛：男女单打1/4决赛、双打决赛",
       "presenters": "凌维康",
       "matchInfo": {
@@ -1067,6 +1067,38 @@
       ]
     },
     {
+      "mgdbId": "120000566782",
+      "pID": "120000566782",
+      "title": "正播双人技巧 黎睿霖、杨丫力争佳绩",
+      "keyword": "02月14日17:20",
+      "sportItemId": "",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "冬奥会",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/14/773N91H4FGC8.jpg",
+      "competitionLogo": "",
+      "pkInfoTitle": "正播双人技巧 黎睿霖、杨丫力争佳绩",
+      "modifyTitle": "正播双人技巧 黎睿霖、杨丫力争佳绩",
+      "presenters": "",
+      "matchInfo": {
+        "time": "02月14日17:20"
+      },
+      "nodes": [
+        {
+          "pID": "963049936",
+          "name": "吕志瑶"
+        },
+        {
+          "pID": "963049926",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "963049439",
+          "name": "CCTV5+"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000566779",
       "pID": "120000566779",
       "title": "正播高山滑雪 刘校辰出战男子大回转",
@@ -1078,7 +1110,7 @@
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/14/773NA9ODIM63.jpg",
       "competitionLogo": "",
       "pkInfoTitle": "正播高山滑雪 刘校辰出战男子大回转",
-      "modifyTitle": "17:00播高山滑雪 刘校辰出战男子大回转",
+      "modifyTitle": "正播高山滑雪 刘校辰出战男子大回转",
       "presenters": "",
       "matchInfo": {
         "time": "02月14日16:50"
@@ -1139,38 +1171,6 @@
         {
           "pID": "963049426",
           "name": "CCTV5"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000566782",
-      "pID": "120000566782",
-      "title": "17:30播双人技巧 黎睿霖、杨丫力争佳绩",
-      "keyword": "02月14日17:20",
-      "sportItemId": "",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "冬奥会",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/14/773N91H4FGC8.jpg",
-      "competitionLogo": "",
-      "pkInfoTitle": "17:30播双人技巧 黎睿霖、杨丫力争佳绩",
-      "modifyTitle": "17:30播双人技巧 黎睿霖、杨丫力争佳绩",
-      "presenters": "",
-      "matchInfo": {
-        "time": "02月14日17:20"
-      },
-      "nodes": [
-        {
-          "pID": "963049936",
-          "name": "吕志瑶"
-        },
-        {
-          "pID": "963049926",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "963049439",
-          "name": "CCTV5+"
         }
       ]
     }
