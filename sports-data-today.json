@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-02-15 00:31:16",
+  "updateTime": "2026-02-15 01:01:18",
   "data": [
     {
       "mgdbId": "120000542601",
@@ -36,7 +36,7 @@
       "title": "意甲联赛",
       "keyword": "02月15日01:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "奥林匹克球场",
       "competitionName": "意甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000543067/260180_H169_sc.jpg",
@@ -931,6 +931,38 @@
         {
           "pID": "963068722",
           "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000566593",
+      "pID": "120000566593",
+      "title": "正播女子钢架雪车 梁雨欣、赵丹全力冲刺",
+      "keyword": "02月15日00:50",
+      "sportItemId": "",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "冬奥会",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/14/773NAGU6ED1K.png",
+      "competitionLogo": "",
+      "pkInfoTitle": "正播女子钢架雪车 梁雨欣、赵丹全力冲刺",
+      "modifyTitle": "正播女子钢架雪车 梁雨欣、赵丹全力冲刺",
+      "presenters": "",
+      "matchInfo": {
+        "time": "02月15日00:50"
+      },
+      "nodes": [
+        {
+          "pID": "963048671",
+          "name": "姜帆"
+        },
+        {
+          "pID": "963048667",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "963049439",
+          "name": "CCTV5+"
         }
       ]
     },
