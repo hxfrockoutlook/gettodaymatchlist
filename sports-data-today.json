@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-02-15 02:31:16",
+  "updateTime": "2026-02-15 03:01:15",
   "data": [
     {
       "mgdbId": "120000542601",
@@ -39,7 +39,7 @@
       "matchStatus": "1",
       "matchField": "奥林匹克球场",
       "competitionName": "意甲",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000543067/260180_H169_sc.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000543067/321861_H169_sc.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png",
       "pkInfoTitle": "拉齐奥 vs 亚特兰大",
       "modifyTitle": "意甲联赛",
@@ -935,6 +935,46 @@
       ]
     },
     {
+      "mgdbId": "120000566639",
+      "pID": "120000566639",
+      "title": "正播男子1500米 孙龙领衔冲击奖牌",
+      "keyword": "02月15日02:45",
+      "sportItemId": "",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "冬奥会",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/14/773NB62ETTV4.jpg",
+      "competitionLogo": "",
+      "pkInfoTitle": "正播男子1500米 孙龙领衔冲击奖牌",
+      "modifyTitle": "正播男子1500米 孙龙领衔冲击奖牌",
+      "presenters": "",
+      "matchInfo": {
+        "time": "02月15日02:45"
+      },
+      "nodes": [
+        {
+          "pID": "963049106",
+          "name": "陈晨 任子威 邵凌霄"
+        },
+        {
+          "pID": "963049041",
+          "name": "涂远"
+        },
+        {
+          "pID": "963069220",
+          "name": "同播米兰德比"
+        },
+        {
+          "pID": "963048946",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "963049426",
+          "name": "CCTV5"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000566634",
       "pID": "120000566634",
       "title": "正播女子大跳台 谷爱凌领衔冲决赛",
@@ -999,46 +1039,6 @@
         {
           "pID": "963049439",
           "name": "CCTV5+"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000566639",
-      "pID": "120000566639",
-      "title": "3:15播男子1500米 孙龙领衔冲击奖牌",
-      "keyword": "02月15日02:45",
-      "sportItemId": "",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "冬奥会",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/14/773NB62ETTV4.jpg",
-      "competitionLogo": "",
-      "pkInfoTitle": "3:15播男子1500米 孙龙领衔冲击奖牌",
-      "modifyTitle": "3:15播男子1500米 孙龙领衔冲击奖牌",
-      "presenters": "",
-      "matchInfo": {
-        "time": "02月15日02:45"
-      },
-      "nodes": [
-        {
-          "pID": "963049106",
-          "name": "陈晨 任子威 邵凌霄"
-        },
-        {
-          "pID": "963049041",
-          "name": "涂远"
-        },
-        {
-          "pID": "963069220",
-          "name": "同播米兰德比"
-        },
-        {
-          "pID": "963048946",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "963049426",
-          "name": "CCTV5"
         }
       ]
     }
