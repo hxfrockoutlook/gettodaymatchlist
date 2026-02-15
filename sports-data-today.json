@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-02-16 02:00:56",
+  "updateTime": "2026-02-16 02:30:48",
   "data": [
     {
       "mgdbId": "120000566497",
@@ -8,7 +8,7 @@
       "title": "欧乒联男子欧冠联赛1/4决赛第二回合：迪亚尔多沃德科玻璃vs尼姆-蒙彼利埃",
       "keyword": "02月16日00:00",
       "sportItemId": "7",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "乒乓球欧冠",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/16/773P5RPFV541.jpg",
@@ -36,10 +36,10 @@
       "title": "法甲联赛",
       "keyword": "02月16日00:15",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "法甲",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000543592/202507111136_464390_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000543592/202602160215_439806_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/30/6V1HD8GVET6J.png",
       "pkInfoTitle": "洛里昂 vs 昂热",
       "modifyTitle": "法甲联赛",
@@ -64,10 +64,10 @@
       "title": "法甲联赛",
       "keyword": "02月16日00:15",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "法甲",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000543593/202507111136_747404_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000543593/202602160215_296789_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/30/6V1HD8GVET6J.png",
       "pkInfoTitle": "梅斯 vs 欧塞尔",
       "modifyTitle": "法甲联赛",
@@ -123,7 +123,7 @@
       "matchStatus": "1",
       "matchField": "酋长球场",
       "competitionName": "足总杯",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/12/773LET98TLH2.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/16/773P2VVG0GD9.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/1/10/1000000004951064ccd7.png",
       "pkInfoTitle": "阿森纳 vs 维冈竞技",
       "modifyTitle": "足总杯第四轮",
@@ -419,6 +419,42 @@
       ]
     },
     {
+      "mgdbId": "120000566864",
+      "pID": "120000566864",
+      "title": "正播双人短节目 “葱桶”组合将再度亮相",
+      "keyword": "02月16日02:15",
+      "sportItemId": "",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "冬奥会",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/14/773NBG9MQ9GB.jpg",
+      "competitionLogo": "",
+      "pkInfoTitle": "正播双人短节目 “葱桶”组合将再度亮相",
+      "modifyTitle": "正播双人短节目 “葱桶”组合将再度亮相",
+      "presenters": "",
+      "matchInfo": {
+        "time": "02月16日02:15"
+      },
+      "nodes": [
+        {
+          "pID": "963078575",
+          "name": "鸿昆 张丹 邵凌霄"
+        },
+        {
+          "pID": "963078525",
+          "name": "钟宇峰"
+        },
+        {
+          "pID": "963078229",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "963076252",
+          "name": "CCTV5"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000566844",
       "pID": "120000566844",
       "title": "正播钢架雪车混合团体 中国队冲击奖牌",
@@ -446,42 +482,6 @@
         },
         {
           "pID": "963077856",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "963076252",
-          "name": "CCTV5"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000566864",
-      "pID": "120000566864",
-      "title": "2:45播双人短节目 “葱桶”组合将再度亮相",
-      "keyword": "02月16日02:15",
-      "sportItemId": "",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "冬奥会",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/14/773NBG9MQ9GB.jpg",
-      "competitionLogo": "",
-      "pkInfoTitle": "2:45播双人短节目 “葱桶”组合将再度亮相",
-      "modifyTitle": "16日2:45播双人短节目 “葱桶”组合将再度亮相",
-      "presenters": "",
-      "matchInfo": {
-        "time": "02月16日02:15"
-      },
-      "nodes": [
-        {
-          "pID": "963078575",
-          "name": "鸿昆 张丹 邵凌霄"
-        },
-        {
-          "pID": "963078525",
-          "name": "钟宇峰"
-        },
-        {
-          "pID": "963078229",
           "name": "赛场原声"
         },
         {
