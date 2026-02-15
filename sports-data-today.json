@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-02-16 05:00:52",
+  "updateTime": "2026-02-16 05:30:51",
   "data": [
     {
       "mgdbId": "120000566497",
@@ -204,11 +204,11 @@
     },
     {
       "mgdbId": "120000569440",
-      "pID": "963062082",
+      "pID": "963120512",
       "title": "NBA G联赛全明星赛",
       "keyword": "02月16日03:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "G联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/15/773O5HHGE08C.jpg",
@@ -220,6 +220,10 @@
         "time": "02月16日03:30"
       },
       "nodes": [
+        {
+          "pID": "963120512",
+          "name": "2026年G联赛全明星回放：蓝队25-37白队（李嘉伟）（20260217）"
+        },
         {
           "pID": "963062082",
           "name": "李嘉伟"
@@ -315,6 +319,46 @@
         {
           "pID": "963068797",
           "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000563986",
+      "pID": "962933762",
+      "title": "NBA全明星赛",
+      "keyword": "02月16日06:00",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "因图特圆顶球馆",
+      "competitionName": "NBA",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000563986/202602151430_724062_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
+      "pkInfoTitle": "美国星队VS世界队",
+      "modifyTitle": "NBA全明星赛",
+      "presenters": "杨健 曾令旭 周鹏 佳依 小七 莫俊祺 洪荒",
+      "matchInfo": {
+        "time": "02月16日06:00"
+      },
+      "nodes": [
+        {
+          "pID": "962933762",
+          "name": "杨健 曾令旭 周鹏"
+        },
+        {
+          "pID": "962933806",
+          "name": "佳依 小七"
+        },
+        {
+          "pID": "962933891",
+          "name": "莫俊祺"
+        },
+        {
+          "pID": "962933910",
+          "name": "洪荒"
+        },
+        {
+          "pID": "962933951",
+          "name": "英文原声"
         }
       ]
     },
@@ -415,38 +459,6 @@
         {
           "pID": "963046729",
           "name": "英文原声"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000566847",
-      "pID": "120000566847",
-      "title": "正播男子冰壶 徐晓明领衔力争首胜",
-      "keyword": "02月16日01:55",
-      "sportItemId": "",
-      "matchStatus": "2",
-      "matchField": "",
-      "competitionName": "冬奥会",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/15/773O7TNCL0AL.jpg",
-      "competitionLogo": "",
-      "pkInfoTitle": "正播男子冰壶 徐晓明领衔力争首胜",
-      "modifyTitle": "正播男子冰壶 徐晓明领衔力争首胜",
-      "presenters": "",
-      "matchInfo": {
-        "time": "02月16日01:55"
-      },
-      "nodes": [
-        {
-          "pID": "963078073",
-          "name": "邱诗来"
-        },
-        {
-          "pID": "963078036",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "963076292",
-          "name": "CCTV5+"
         }
       ]
     },
