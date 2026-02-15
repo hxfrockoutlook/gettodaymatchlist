@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-02-15 13:01:18",
+  "updateTime": "2026-02-15 13:31:10",
   "data": [
     {
       "mgdbId": "120000542601",
@@ -344,11 +344,11 @@
     },
     {
       "mgdbId": "120000569377",
-      "pID": "963046260",
+      "pID": "963108905",
       "title": "《NBA周刊》2026全明星前方特别节目",
       "keyword": "02月15日12:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/14/773N8RU2OBGG.png",
@@ -361,6 +361,10 @@
       },
       "nodes": [
         {
+          "pID": "963108905",
+          "name": "锐评最拉扣篮大赛！泡泡点名布朗尴尬蒙眼"
+        },
+        {
           "pID": "963046260",
           "name": "解说"
         }
@@ -372,7 +376,7 @@
       "title": "约内斯库/斯佐科斯冲冠 大藤沙月vs郑怡静",
       "keyword": "02月15日13:30",
       "sportItemId": "7",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/14/773NBEVQTQQP.png",
@@ -445,16 +449,20 @@
       },
       "nodes": [
         {
+          "pID": "963105210",
+          "name": "同看冬奥会"
+        },
+        {
+          "pID": "963106267",
+          "name": "刘钟鸣"
+        },
+        {
           "pID": "963046681",
           "name": "赛场原声"
         },
         {
           "pID": "963046696",
           "name": "英文原声"
-        },
-        {
-          "pID": "963106267",
-          "name": "刘钟鸣"
         }
       ]
     },
@@ -990,6 +998,42 @@
         },
         {
           "pID": "963076252",
+          "name": "CCTV5"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000566634",
+      "pID": "120000566634",
+      "title": "谷爱凌、刘梦婷晋级女子大跳台决赛",
+      "keyword": "02月15日02:00",
+      "sportItemId": "",
+      "matchStatus": "2",
+      "matchField": "",
+      "competitionName": "冬奥会",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/15/773O6IG3VCHH.jpg",
+      "competitionLogo": "",
+      "pkInfoTitle": "谷爱凌、刘梦婷晋级女子大跳台决赛",
+      "modifyTitle": "谷爱凌、刘梦婷晋级女子大跳台决赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "02月15日02:00"
+      },
+      "nodes": [
+        {
+          "pID": "963048838",
+          "name": "邢天宇 张辉球 李子琪"
+        },
+        {
+          "pID": "963048791",
+          "name": "蔡凯臣"
+        },
+        {
+          "pID": "963048762",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "963049426",
           "name": "CCTV5"
         }
       ]
