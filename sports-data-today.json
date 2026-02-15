@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-02-15 09:31:14",
+  "updateTime": "2026-02-15 10:01:14",
   "data": [
     {
       "mgdbId": "120000542601",
@@ -439,7 +439,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
       "pkInfoTitle": "斯特恩斯 vs 郑钦文",
       "modifyTitle": "斯特恩斯 vs 郑钦文",
-      "presenters": "",
+      "presenters": "刘钟鸣",
       "matchInfo": {
         "time": "02月15日16:30"
       },
@@ -451,6 +451,10 @@
         {
           "pID": "963046696",
           "name": "英文原声"
+        },
+        {
+          "pID": "963106267",
+          "name": "刘钟鸣"
         }
       ]
     },
@@ -937,16 +941,16 @@
     {
       "mgdbId": "120000568414",
       "pID": "120000568414",
-      "title": "正播直击米兰！全景冬奥早知道",
+      "title": "谷爱凌晋级 孙龙刘少昂被撞倒无缘奖牌",
       "keyword": "02月15日09:00",
       "sportItemId": "",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "冬奥会",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/15/773O7KDE6QH5.jpg",
       "competitionLogo": "",
-      "pkInfoTitle": "正播直击米兰！全景冬奥早知道",
-      "modifyTitle": "正播直击米兰！全景冬奥早知道",
+      "pkInfoTitle": "谷爱凌晋级 孙龙刘少昂被撞倒无缘奖牌",
+      "modifyTitle": "谷爱凌晋级 孙龙刘少昂被撞倒无缘奖牌",
       "presenters": "",
       "matchInfo": {
         "time": "02月15日09:00"
@@ -955,6 +959,38 @@
         {
           "pID": "962856706",
           "name": "咪咕体育日报"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000566879",
+      "pID": "120000566879",
+      "title": "17:15播男子坡面障碍技巧 苏翊鸣领衔征战",
+      "keyword": "02月15日16:45",
+      "sportItemId": "",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "冬奥会",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/15/773O7K5EEN5N.png",
+      "competitionLogo": "",
+      "pkInfoTitle": "17:15播男子坡面障碍技巧 苏翊鸣领衔征战",
+      "modifyTitle": "17:15播男子坡面障碍技巧 苏翊鸣领衔征战",
+      "presenters": "",
+      "matchInfo": {
+        "time": "02月15日16:45"
+      },
+      "nodes": [
+        {
+          "pID": "963105210",
+          "name": "邢天宇 张辉球"
+        },
+        {
+          "pID": "963105312",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "963076252",
+          "name": "CCTV5"
         }
       ]
     },
