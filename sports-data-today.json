@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-02-16 02:30:48",
+  "updateTime": "2026-02-16 03:00:51",
   "data": [
     {
       "mgdbId": "120000566497",
@@ -92,10 +92,10 @@
       "title": "德甲联赛",
       "keyword": "02月16日00:30",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "莱比锡体育场",
       "competitionName": "德甲",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000542820/603039_H169_sc.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000542820/774603_H169_sc.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png",
       "pkInfoTitle": "RB莱比锡 vs 沃尔夫斯堡",
       "modifyTitle": "德甲联赛",
@@ -120,7 +120,7 @@
       "title": "足总杯第四轮",
       "keyword": "02月16日00:30",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "酋长球场",
       "competitionName": "足总杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/16/773P2VVG0GD9.jpg",
@@ -419,6 +419,38 @@
       ]
     },
     {
+      "mgdbId": "120000566847",
+      "pID": "120000566847",
+      "title": "正播男子冰壶 徐晓明领衔力争首胜",
+      "keyword": "02月16日01:55",
+      "sportItemId": "",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "冬奥会",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/15/773O7TNCL0AL.jpg",
+      "competitionLogo": "",
+      "pkInfoTitle": "正播男子冰壶 徐晓明领衔力争首胜",
+      "modifyTitle": "正播男子冰壶 徐晓明领衔力争首胜",
+      "presenters": "",
+      "matchInfo": {
+        "time": "02月16日01:55"
+      },
+      "nodes": [
+        {
+          "pID": "963078073",
+          "name": "邱诗来"
+        },
+        {
+          "pID": "963078036",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "963076292",
+          "name": "CCTV5+"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000566864",
       "pID": "120000566864",
       "title": "正播双人短节目 “葱桶”组合将再度亮相",
@@ -446,42 +478,6 @@
         },
         {
           "pID": "963078229",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "963076252",
-          "name": "CCTV5"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000566844",
-      "pID": "120000566844",
-      "title": "正播钢架雪车混合团体 中国队冲击奖牌",
-      "keyword": "02月16日01:05",
-      "sportItemId": "",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "冬奥会",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/15/773O7JCMB5CI.png",
-      "competitionLogo": "",
-      "pkInfoTitle": "正播钢架雪车混合团体 中国队冲击奖牌",
-      "modifyTitle": "正播钢架雪车混合团体 中国队冲击奖牌",
-      "presenters": "",
-      "matchInfo": {
-        "time": "02月16日01:05"
-      },
-      "nodes": [
-        {
-          "pID": "963078754",
-          "name": "姜帆 朱海峰 李子琪"
-        },
-        {
-          "pID": "963077871",
-          "name": "马睿"
-        },
-        {
-          "pID": "963077856",
           "name": "赛场原声"
         },
         {
