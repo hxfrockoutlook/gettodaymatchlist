@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-02-16 16:30:53",
+  "updateTime": "2026-02-16 17:01:02",
   "data": [
     {
       "mgdbId": "120000566497",
@@ -589,7 +589,7 @@
     {
       "mgdbId": "120000566878",
       "pID": "120000566878",
-      "title": "18:00播女子1000米 中国金花冲击半决赛",
+      "title": "18:00播短道速滑 中国三将冲击领奖台",
       "keyword": "02月16日17:30",
       "sportItemId": "",
       "matchStatus": "0",
@@ -597,8 +597,8 @@
       "competitionName": "冬奥会",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/15/773O8FD77PVT.jpg",
       "competitionLogo": "",
-      "pkInfoTitle": "18:00播女子1000米 中国金花冲击半决赛",
-      "modifyTitle": "18:00播女子1000米 中国金花冲击半决赛",
+      "pkInfoTitle": "18:00播短道速滑 中国三将冲击领奖台",
+      "modifyTitle": "18:00播短道速滑 中国队冲击领奖台",
       "presenters": "",
       "matchInfo": {
         "time": "02月16日17:30"
@@ -627,6 +627,86 @@
         {
           "pID": "963076252",
           "name": "CCTV5"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000566875",
+      "pID": "120000566875",
+      "title": "正播雪车 中国队出战男子双人雪车",
+      "keyword": "02月16日16:50",
+      "sportItemId": "",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "冬奥会",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/15/773O89NLMPI2.jpg",
+      "competitionLogo": "",
+      "pkInfoTitle": "正播雪车 中国队出战男子双人雪车",
+      "modifyTitle": "正播雪车 中国队出战男子双人雪车",
+      "presenters": "",
+      "matchInfo": {
+        "time": "02月16日16:50"
+      },
+      "nodes": [
+        {
+          "pID": "963097583",
+          "name": "冉苏雅"
+        },
+        {
+          "pID": "963097564",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "963076341",
+          "name": "CCTV16-4K"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000566876",
+      "pID": "120000566876",
+      "title": "正播高山滑雪 刘校辰亮相男子回转",
+      "keyword": "02月16日16:50",
+      "sportItemId": "",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "冬奥会",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/16/773P4G7H5H8O.jpg",
+      "competitionLogo": "",
+      "pkInfoTitle": "正播高山滑雪 刘校辰亮相男子回转",
+      "modifyTitle": "正播高山滑雪 刘校辰亮相男子回转",
+      "presenters": "",
+      "matchInfo": {
+        "time": "02月16日16:50"
+      },
+      "nodes": [
+        {
+          "pID": "963097919",
+          "name": "楚韫源"
+        },
+        {
+          "pID": "963097906",
+          "name": "楚韫源"
+        },
+        {
+          "pID": "963097883",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "963112073",
+          "name": "智能字幕"
+        },
+        {
+          "pID": "963112191",
+          "name": "智能字幕"
+        },
+        {
+          "pID": "963076252",
+          "name": "CCTV5"
+        },
+        {
+          "pID": "963076292",
+          "name": "CCTV5+"
         }
       ]
     }
