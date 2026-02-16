@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-02-17 02:30:56",
+  "updateTime": "2026-02-17 03:01:01",
   "data": [
     {
       "mgdbId": "120000547914",
@@ -8,7 +8,7 @@
       "title": "亚冠精英联赛阶段",
       "keyword": "02月17日00:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "阿卜杜拉·费萨尔王子体育城球场",
       "competitionName": "亚冠精英",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/17/773PVT563QN7.jpg",
@@ -174,7 +174,7 @@
       "mgdbId": "120000543349",
       "pID": "963068922",
       "title": "西甲联赛",
-      "keyword": "02��17日04:00",
+      "keyword": "02月17日04:00",
       "sportItemId": "1",
       "matchStatus": "0",
       "matchField": "蒙蒂利维市政球场",
@@ -185,7 +185,7 @@
       "modifyTitle": "西甲联赛",
       "presenters": "鹿中原 李欣",
       "matchInfo": {
-        "time": "02��17日04:00"
+        "time": "02月17日04:00"
       },
       "nodes": [
         {
@@ -459,6 +459,78 @@
       ]
     },
     {
+      "mgdbId": "120000566532",
+      "pID": "120000566532",
+      "title": "赛程因天气推迟 稍后谷爱凌冲金",
+      "keyword": "02月17日02:00",
+      "sportItemId": "",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "冬奥会",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/15/773O876T5G9L.png",
+      "competitionLogo": "",
+      "pkInfoTitle": "赛程因天气推迟 稍后谷爱凌冲金",
+      "modifyTitle": "正播女子大跳台 谷爱凌携刘梦婷冲金",
+      "presenters": "",
+      "matchInfo": {
+        "time": "02月17日02:00"
+      },
+      "nodes": [
+        {
+          "pID": "963099338",
+          "name": "吴桐,张辉球,邵凌霄"
+        },
+        {
+          "pID": "963099279",
+          "name": "吕志瑶"
+        },
+        {
+          "pID": "963099274",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "963096737",
+          "name": "CCTV5"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000566534",
+      "pID": "120000566534",
+      "title": "正播花样滑冰“葱桶”组合再冲领奖台",
+      "keyword": "02月17日02:30",
+      "sportItemId": "",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "冬奥会",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/16/773P47Q815I8.jpg",
+      "competitionLogo": "",
+      "pkInfoTitle": "正播花样滑冰“葱桶”组合再冲领奖台",
+      "modifyTitle": "正播花样滑冰“葱桶”组合再冲领奖台",
+      "presenters": "",
+      "matchInfo": {
+        "time": "02月17日02:30"
+      },
+      "nodes": [
+        {
+          "pID": "963099413",
+          "name": "鸿昆 张丹 佟艺"
+        },
+        {
+          "pID": "963099403",
+          "name": "钟宇峰"
+        },
+        {
+          "pID": "963099391",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "963076252",
+          "name": "CCTV5"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000566517",
       "pID": "120000566517",
       "title": "正播跳台滑雪 中国男队征战团体赛",
@@ -483,42 +555,6 @@
         {
           "pID": "963098962",
           "name": "赛场原声"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000566532",
-      "pID": "120000566532",
-      "title": "正播女子大跳台 谷爱凌携刘梦婷冲金",
-      "keyword": "02月17日02:00",
-      "sportItemId": "",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "冬奥会",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/15/773O876T5G9L.png",
-      "competitionLogo": "",
-      "pkInfoTitle": "正播女子大跳台 谷爱凌携刘梦婷冲金",
-      "modifyTitle": "正播女子大跳台 谷爱凌携刘梦婷冲金",
-      "presenters": "",
-      "matchInfo": {
-        "time": "02月17日02:00"
-      },
-      "nodes": [
-        {
-          "pID": "963099338",
-          "name": "吴桐,张辉球,邵凌霄"
-        },
-        {
-          "pID": "963099279",
-          "name": "吕志瑶"
-        },
-        {
-          "pID": "963099274",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "963096737",
-          "name": "CCTV5"
         }
       ]
     },
