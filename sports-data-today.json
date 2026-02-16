@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-02-16 20:10:02",
+  "updateTime": "2026-02-16 20:30:54",
   "data": [
     {
       "mgdbId": "120000566497",
@@ -560,7 +560,7 @@
       "title": "短道速滑女子1000米 公俐第五名完赛",
       "keyword": "02月16日17:30",
       "sportItemId": "",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "冬奥会",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/16/773P4FU4K7DM.jpg",
@@ -572,6 +572,10 @@
         "time": "02月16日17:30"
       },
       "nodes": [
+        {
+          "pID": "963127718",
+          "name": "太可惜了！男子5000米接力中国队最后两圈遭逆转无缘A组决赛"
+        },
         {
           "pID": "963098087",
           "name": "陈晨 任子威 李子琪"
@@ -599,34 +603,38 @@
       ]
     },
     {
-      "mgdbId": "120000566875",
-      "pID": "120000566875",
-      "title": "正播雪车 中国队出战男子双人雪车",
-      "keyword": "02月16日16:50",
+      "mgdbId": "120000566883",
+      "pID": "120000566883",
+      "title": "21:05播男子冰壶 中国队战东道主盼首胜",
+      "keyword": "02月16日20:55",
       "sportItemId": "",
-      "matchStatus": "1",
+      "matchStatus": "0",
       "matchField": "",
       "competitionName": "冬奥会",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/15/773O89NLMPI2.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/16/773P3QCH5G68.png",
       "competitionLogo": "",
-      "pkInfoTitle": "正播雪车 中国队出战男子双人雪车",
-      "modifyTitle": "正播雪车 中国队出战男子双人雪车",
+      "pkInfoTitle": "21:05播男子冰壶 中国队战东道主盼首胜",
+      "modifyTitle": "21:05播男子冰壶 中国队战东道主盼首胜",
       "presenters": "",
       "matchInfo": {
-        "time": "02月16日16:50"
+        "time": "02月16日20:55"
       },
       "nodes": [
         {
-          "pID": "963097583",
-          "name": "冉苏雅"
+          "pID": "963098679",
+          "name": "汪粤"
         },
         {
-          "pID": "963097564",
+          "pID": "963098586",
           "name": "赛场原声"
         },
         {
-          "pID": "963076341",
-          "name": "CCTV16-4K"
+          "pID": "962916617",
+          "name": "2026年春节联欢晚会"
+        },
+        {
+          "pID": "963076252",
+          "name": "CCTV5"
         }
       ]
     }
