@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-02-17 01:30:52",
+  "updateTime": "2026-02-17 02:01:04",
   "data": [
     {
       "mgdbId": "120000547914",
@@ -36,10 +36,10 @@
       "title": "亚冠精英联赛阶段",
       "keyword": "02月17日00:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "沙迦体育场",
       "competitionName": "亚冠精英",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/16/773P31BHKIUJ.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/17/773PVT423H9N.jpeg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/9/11/1000000012261060873b.png",
       "pkInfoTitle": "沙迦 vs 纳萨夫",
       "modifyTitle": "亚冠精英联赛阶段",
@@ -64,7 +64,7 @@
       "title": "亚冠精英联赛阶段",
       "keyword": "02月17日02:15",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "祖拉体育场",
       "competitionName": "亚冠精英",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/16/773P32CTHBHQ.png",
@@ -92,7 +92,7 @@
       "title": "亚冠精英联赛阶段",
       "keyword": "02月17日02:15",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "王國體育館",
       "competitionName": "亚冠精英",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/13/773MCR8SNIEM.png",
@@ -464,7 +464,7 @@
       "title": "2:30播女子大跳台 谷爱凌携刘梦婷冲金",
       "keyword": "02月17日02:00",
       "sportItemId": "",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "冬奥会",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/15/773O876T5G9L.png",
@@ -499,9 +499,41 @@
       ]
     },
     {
+      "mgdbId": "120000566514",
+      "pID": "120000566514",
+      "title": "正播女子单人雪车 应清、怀明明争佳绩",
+      "keyword": "02月17日01:50",
+      "sportItemId": "",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "冬奥会",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/16/773P4OCD2SP6.jpg",
+      "competitionLogo": "",
+      "pkInfoTitle": "正播女子单人雪车 应清、怀明明争佳绩",
+      "modifyTitle": "17日2:00播女子单人雪车 应清、怀明明争佳绩",
+      "presenters": "",
+      "matchInfo": {
+        "time": "02月17日01:50"
+      },
+      "nodes": [
+        {
+          "pID": "963098994",
+          "name": "周元佑 王乐之"
+        },
+        {
+          "pID": "963098986",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "963076341",
+          "name": "CCTV16-4K"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000566517",
       "pID": "120000566517",
-      "title": "1:00播跳台滑雪 中国男队征战团体赛",
+      "title": "正播跳台滑雪 中国男队征战团体赛",
       "keyword": "02月17日00:50",
       "sportItemId": "",
       "matchStatus": "1",
@@ -509,8 +541,8 @@
       "competitionName": "冬奥会",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/17/773Q31TSDNOA.jpg",
       "competitionLogo": "",
-      "pkInfoTitle": "1:00播跳台滑雪 中国男队征战团体赛",
-      "modifyTitle": "17日1:00播跳台滑雪 中国男队征战团体赛",
+      "pkInfoTitle": "正播跳台滑雪 中国男队征战团体赛",
+      "modifyTitle": "正播跳台滑雪 中国男队征战团体赛",
       "presenters": "",
       "matchInfo": {
         "time": "02月17日00:50"
@@ -523,6 +555,38 @@
         {
           "pID": "963098962",
           "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000566522",
+      "pID": "120000566522",
+      "title": "正播女子冰壶 中韩力争小组出线",
+      "keyword": "02月17日01:55",
+      "sportItemId": "",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "冬奥会",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/16/773P4QR03MCH.jpg",
+      "competitionLogo": "",
+      "pkInfoTitle": "正播女子冰壶 中韩力争小组出线",
+      "modifyTitle": "17日2:05播女子冰壶 中韩力争小组出线",
+      "presenters": "",
+      "matchInfo": {
+        "time": "02月17日01:55"
+      },
+      "nodes": [
+        {
+          "pID": "963099135",
+          "name": "姚文倩"
+        },
+        {
+          "pID": "963099093",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "963076292",
+          "name": "CCTV5+"
         }
       ]
     }
