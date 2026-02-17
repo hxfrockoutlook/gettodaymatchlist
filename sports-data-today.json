@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-02-17 11:30:53",
+  "updateTime": "2026-02-17 12:00:59",
   "data": [
     {
       "mgdbId": "120000547914",
@@ -208,7 +208,7 @@
       "title": "2003-04赛季魔术vs奇才",
       "keyword": "02月17日10:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA经典赛事",
       "padImg": "",
@@ -461,7 +461,7 @@
     {
       "mgdbId": "120000568416",
       "pID": "120000568416",
-      "title": "谷爱凌摘银！著名裁判张辉球连线解读",
+      "title": "裁判不公？张辉球解读谷爱凌压分争议",
       "keyword": "02月17日09:00",
       "sportItemId": "",
       "matchStatus": "2",
@@ -469,8 +469,8 @@
       "competitionName": "冬奥会",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/17/773Q1SQQM8M9.jpg",
       "competitionLogo": "",
-      "pkInfoTitle": "谷爱凌摘银！著名裁判张辉球连线解读",
-      "modifyTitle": "谷爱凌摘银！著名裁判张辉球连线解读",
+      "pkInfoTitle": "裁判不公？张辉球解读谷爱凌压分争议",
+      "modifyTitle": "裁判不公？张辉球解读谷爱凌压分争议",
       "presenters": "",
       "matchInfo": {
         "time": "02月17日09:00"
@@ -483,38 +483,42 @@
       ]
     },
     {
-      "mgdbId": "120000566532",
-      "pID": "120000566532",
-      "title": "总分179！谷爱凌为中国队再添一银",
-      "keyword": "02月17日02:00",
+      "mgdbId": "120000566602",
+      "pID": "120000566602",
+      "title": "17:45播空中技巧 徐梦桃第五次亮相冬奥",
+      "keyword": "02月17日17:15",
       "sportItemId": "",
-      "matchStatus": "2",
+      "matchStatus": "0",
       "matchField": "",
       "competitionName": "冬奥会",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/17/773Q0VVPP8NH.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/17/773Q1I4FRMK3.png",
       "competitionLogo": "",
-      "pkInfoTitle": "总分179！谷爱凌为中国队再添一银",
-      "modifyTitle": "总分179！谷爱凌为中国队再添一银",
+      "pkInfoTitle": "17:45播空中技巧 徐梦桃第五次亮相冬奥",
+      "modifyTitle": "17:45播空中技巧 徐梦桃第五次亮相冬奥",
       "presenters": "",
       "matchInfo": {
-        "time": "02月17日02:00"
+        "time": "02月17日17:15"
       },
       "nodes": [
         {
-          "pID": "963099338",
-          "name": "吴桐,张辉球,邵凌霄"
+          "pID": "963114208",
+          "name": "陈晨 韩晓鹏"
         },
         {
-          "pID": "963099274",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "963099279",
+          "pID": "963114271",
           "name": "吕志瑶"
         },
         {
-          "pID": "963096737",
-          "name": "CCTV5"
+          "pID": "963114068",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "963125530",
+          "name": "智能字幕"
+        },
+        {
+          "pID": "963113404",
+          "name": "CCTV5+"
         }
       ]
     },
@@ -550,6 +554,66 @@
         },
         {
           "pID": "963076252",
+          "name": "CCTV5"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000566598",
+      "pID": "120000566598",
+      "title": "16:10播北欧两项 赵嘉文、赵子贺登场",
+      "keyword": "02月17日15:55",
+      "sportItemId": "",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "冬奥会",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/17/773Q1296L4I2.jpg",
+      "competitionLogo": "",
+      "pkInfoTitle": "16:10播北欧两项 赵嘉文、赵子贺登场",
+      "modifyTitle": "16:10播北欧两项 赵嘉文、赵子贺登场",
+      "presenters": "",
+      "matchInfo": {
+        "time": "02月17日15:55"
+      },
+      "nodes": [
+        {
+          "pID": "963114255",
+          "name": "王钟毓"
+        },
+        {
+          "pID": "963114028",
+          "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000566590",
+      "pID": "120000566590",
+      "title": "16:05播男子冰壶 中国男队鏖战强敌",
+      "keyword": "02月17日15:50",
+      "sportItemId": "",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "冬奥会",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/16/773P51JF1O1P.jpg",
+      "competitionLogo": "",
+      "pkInfoTitle": "16:05播男子冰壶 中国男队鏖战强敌",
+      "modifyTitle": "16:05播男子冰壶 中国男队鏖战强敌",
+      "presenters": "",
+      "matchInfo": {
+        "time": "02月17日15:50"
+      },
+      "nodes": [
+        {
+          "pID": "963114227",
+          "name": "鸿昆 邹强 李子琪"
+        },
+        {
+          "pID": "963113890",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "963113412",
           "name": "CCTV5"
         }
       ]
