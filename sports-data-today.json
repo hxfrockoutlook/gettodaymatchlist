@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-02-17 20:01:01",
+  "updateTime": "2026-02-17 20:30:53",
   "data": [
     {
       "mgdbId": "120000547914",
@@ -231,34 +231,6 @@
       ]
     },
     {
-      "mgdbId": "120000569383",
-      "pID": "963046780",
-      "title": "高芙vs卡林斯卡娅 约维奇2-1施耐德",
-      "keyword": "02月17日15:00",
-      "sportItemId": "9",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "WTA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/17/773Q19EN10CP.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "高芙vs卡林斯卡娅 约维奇2-1施耐德",
-      "modifyTitle": "WTA迪拜站Day3：高芙vs卡林斯卡娅 约维奇2-1施耐德",
-      "presenters": "",
-      "matchInfo": {
-        "time": "02月17日15:00"
-      },
-      "nodes": [
-        {
-          "pID": "963046780",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "963046805",
-          "name": "英文原声"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000547910",
       "pID": "963063207",
       "title": "亚冠精英联赛阶段",
@@ -292,7 +264,7 @@
       "title": "亚冠精英联赛阶段",
       "keyword": "02月17日18:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Machida Gion Stadium",
       "competitionName": "亚冠精英",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/17/773Q1KO0LAOQ.webp",
@@ -316,11 +288,11 @@
     },
     {
       "mgdbId": "120000569501",
-      "pID": "963095646",
+      "pID": "963136978",
       "title": "2004-05赛季森林狼vs太阳",
       "keyword": "02月17日19:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA经典赛事",
       "padImg": "",
@@ -332,6 +304,10 @@
         "time": "02月17日19:00"
       },
       "nodes": [
+        {
+          "pID": "963136978",
+          "name": "全场回放：加内特生涯最高47分回顾（邢晨）"
+        },
         {
           "pID": "963095646",
           "name": "邢晨"
@@ -423,6 +399,34 @@
         {
           "pID": "963070390",
           "name": "2号桌"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000569383",
+      "pID": "963046780",
+      "title": "WTA迪拜站Day3",
+      "keyword": "02月17日23:00",
+      "sportItemId": "9",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "WTA",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/17/773Q19EN10CP.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
+      "pkInfoTitle": "WTA迪拜站Day3",
+      "modifyTitle": "WTA迪拜站Day3：23:00莱巴金娜出战 高芙2-0卡林斯卡娅",
+      "presenters": "",
+      "matchInfo": {
+        "time": "02月17日23:00"
+      },
+      "nodes": [
+        {
+          "pID": "963046780",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "963046805",
+          "name": "英文原声"
         }
       ]
     },
