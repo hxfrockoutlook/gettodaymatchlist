@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-02-18 01:30:47",
+  "updateTime": "2026-02-18 02:00:53",
   "data": [
     {
       "mgdbId": "120000547906",
@@ -92,7 +92,7 @@
       "title": "亚冠二级1/8决赛",
       "keyword": "02月18日02:15",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "国际球场",
       "competitionName": "亚冠二级",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000564578/202512311531_893872_H169_1080.webp",
@@ -116,7 +116,7 @@
     },
     {
       "mgdbId": "120000569451",
-      "pID": "963070397",
+      "pID": "963070418",
       "title": "肖国栋PK韦克林 塞尔比vs小司机",
       "keyword": "02月18日03:00",
       "sportItemId": "8",
@@ -126,7 +126,7 @@
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/14/773N9TF04E9I.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "肖国栋PK韦克林 塞尔比vs小司机",
-      "modifyTitle": "斯诺克球员锦标赛第1轮：肖国栋PK韦克林 塞尔比vs小司机",
+      "modifyTitle": "斯诺克球员锦标赛第1轮：肖国栋PK韦克林 塞尔比vs利索夫斯基",
       "presenters": "朱蒙",
       "matchInfo": {
         "time": "02月18日03:00"
@@ -375,6 +375,70 @@
         {
           "pID": "963126787",
           "name": "同看冬奥会"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000566635",
+      "pID": "120000566635",
+      "title": "正播花样滑冰 小将张瑞阳征战女单短节目",
+      "keyword": "02月18日01:15",
+      "sportItemId": "",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "冬奥会",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/16/773P59KQN858.jpg",
+      "competitionLogo": "",
+      "pkInfoTitle": "正播花样滑冰 小将张瑞阳征战女单短节目",
+      "modifyTitle": "正播花样滑冰 小将张瑞阳征战女单短节目",
+      "presenters": "",
+      "matchInfo": {
+        "time": "02月18日01:15"
+      },
+      "nodes": [
+        {
+          "pID": "963114219",
+          "name": "鸿昆 陈虹伊 邵凌霄"
+        },
+        {
+          "pID": "963114361",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "963113412",
+          "name": "CCTV5"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000566636",
+      "pID": "120000566636",
+      "title": "正播男子双人雪车 中国男队勇闯佳绩",
+      "keyword": "02月18日01:50",
+      "sportItemId": "",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "冬奥会",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/17/773Q1R2MT0IB.jpg",
+      "competitionLogo": "",
+      "pkInfoTitle": "正播男子双人雪车 中国男队勇闯佳绩",
+      "modifyTitle": "正播男子双人雪车 中国男队勇闯佳绩",
+      "presenters": "",
+      "matchInfo": {
+        "time": "02月18日01:50"
+      },
+      "nodes": [
+        {
+          "pID": "963114287",
+          "name": "冉苏雅"
+        },
+        {
+          "pID": "963114348",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "963113399",
+          "name": "CCTV16-4K"
         }
       ]
     }
