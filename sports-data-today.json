@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-02-17 19:30:52",
+  "updateTime": "2026-02-17 20:01:01",
   "data": [
     {
       "mgdbId": "120000547914",
@@ -264,10 +264,10 @@
       "title": "亚冠精英联赛阶段",
       "keyword": "02月17日18:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Mokdong Stadium",
       "competitionName": "亚冠精英",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/17/773Q055F9QKO.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/17/773Q1KB61SE5.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/9/11/1000000012261060873b.png",
       "pkInfoTitle": "首尔 vs 广岛三箭",
       "modifyTitle": "亚冠精英联赛阶段",
@@ -295,7 +295,7 @@
       "matchStatus": "1",
       "matchField": "Machida Gion Stadium",
       "competitionName": "亚冠精英",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/13/773MCJT3IADK.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/17/773Q1KO0LAOQ.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/9/11/1000000012261060873b.png",
       "pkInfoTitle": "町田泽维亚 vs 成都蓉城",
       "modifyTitle": "亚冠精英联赛阶段",
@@ -344,7 +344,7 @@
       "title": "亚冠精英联赛阶段",
       "keyword": "02月17日20:15",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "蘇丹依布拉欣體育場",
       "competitionName": "亚冠精英",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/17/773Q05VA6AAK.jpg",
@@ -372,7 +372,7 @@
       "title": "亚冠精英联赛阶段",
       "keyword": "02月17日20:15",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "武里南球场",
       "competitionName": "亚冠精英",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/13/773MCJK6GSNQ.png",
@@ -483,6 +483,46 @@
         {
           "pID": "963113890",
           "name": "赛场原声"
+        },
+        {
+          "pID": "963113412",
+          "name": "CCTV5"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000566631",
+      "pID": "120000566631",
+      "title": "21:30播男子团体追逐 中美争夺决赛资格",
+      "keyword": "02月17日21:00",
+      "sportItemId": "",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "冬奥会",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/16/773P53FJ3K2S.jpg",
+      "competitionLogo": "",
+      "pkInfoTitle": "21:30播男子团体追逐 中美争夺决赛资格",
+      "modifyTitle": "21:30播男子团体追逐 中美争夺决赛资格",
+      "presenters": "",
+      "matchInfo": {
+        "time": "02月17日21:00"
+      },
+      "nodes": [
+        {
+          "pID": "963136298",
+          "name": "王铎睿 付春艳 李子琪"
+        },
+        {
+          "pID": "963136303",
+          "name": "姚文倩"
+        },
+        {
+          "pID": "963114407",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "963113404",
+          "name": "CCTV5+"
         },
         {
           "pID": "963113412",
