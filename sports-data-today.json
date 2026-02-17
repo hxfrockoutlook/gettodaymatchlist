@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-02-17 09:30:51",
+  "updateTime": "2026-02-17 10:00:57",
   "data": [
     {
       "mgdbId": "120000547914",
@@ -208,7 +208,7 @@
       "title": "2003-04赛季魔术vs奇才",
       "keyword": "02月17日10:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA经典赛事",
       "padImg": "",
@@ -246,7 +246,7 @@
       "nodes": [
         {
           "pID": "963046780",
-          "name": "清流"
+          "name": "赛场原声"
         },
         {
           "pID": "963046805",
@@ -459,30 +459,6 @@
       ]
     },
     {
-      "mgdbId": "120000568416",
-      "pID": "120000568416",
-      "title": "正播直击米兰！全景冬奥早知道",
-      "keyword": "02月17日09:00",
-      "sportItemId": "",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "冬奥会",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/17/773Q1SQQM8M9.jpg",
-      "competitionLogo": "",
-      "pkInfoTitle": "正播直击米兰！全景冬奥早知道",
-      "modifyTitle": "正播直击米兰！全景冬奥早知道",
-      "presenters": "",
-      "matchInfo": {
-        "time": "02月17日09:00"
-      },
-      "nodes": [
-        {
-          "pID": "962856647",
-          "name": "咪咕体育日报"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000566532",
       "pID": "120000566532",
       "title": "总分179！谷爱凌为中国队再添一银",
@@ -551,6 +527,38 @@
         {
           "pID": "963076252",
           "name": "CCTV5"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000566522",
+      "pID": "120000566522",
+      "title": "不断反转！中国女队9比10惜败韩国",
+      "keyword": "02月17日01:55",
+      "sportItemId": "",
+      "matchStatus": "2",
+      "matchField": "",
+      "competitionName": "冬奥会",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/16/773P4QR03MCH.jpg",
+      "competitionLogo": "",
+      "pkInfoTitle": "不断反转！中国女队9比10惜败韩国",
+      "modifyTitle": "不断反转！中国女队9比10惜败韩国",
+      "presenters": "",
+      "matchInfo": {
+        "time": "02月17日01:55"
+      },
+      "nodes": [
+        {
+          "pID": "963099135",
+          "name": "姚文倩"
+        },
+        {
+          "pID": "963099093",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "963076292",
+          "name": "CCTV5+"
         }
       ]
     }
