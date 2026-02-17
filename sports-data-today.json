@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-02-17 12:00:59",
+  "updateTime": "2026-02-17 12:31:10",
   "data": [
     {
       "mgdbId": "120000547914",
@@ -204,7 +204,7 @@
     },
     {
       "mgdbId": "120000569500",
-      "pID": "963095635",
+      "pID": "963133230",
       "title": "2003-04赛季魔术vs奇才",
       "keyword": "02月17日10:00",
       "sportItemId": "2",
@@ -220,6 +220,10 @@
         "time": "02月17日10:00"
       },
       "nodes": [
+        {
+          "pID": "963133230",
+          "name": "2003-04赛季魔术vs奇才全场回放：麦迪生涯最高62分回顾（王冠证）"
+        },
         {
           "pID": "963095635",
           "name": "王冠证"
@@ -583,38 +587,6 @@
         {
           "pID": "963114028",
           "name": "赛场原声"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000566590",
-      "pID": "120000566590",
-      "title": "16:05播男子冰壶 中国男队鏖战强敌",
-      "keyword": "02月17日15:50",
-      "sportItemId": "",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "冬奥会",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/16/773P51JF1O1P.jpg",
-      "competitionLogo": "",
-      "pkInfoTitle": "16:05播男子冰壶 中国男队鏖战强敌",
-      "modifyTitle": "16:05播男子冰壶 中国男队鏖战强敌",
-      "presenters": "",
-      "matchInfo": {
-        "time": "02月17日15:50"
-      },
-      "nodes": [
-        {
-          "pID": "963114227",
-          "name": "鸿昆 邹强 李子琪"
-        },
-        {
-          "pID": "963113890",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "963113412",
-          "name": "CCTV5"
         }
       ]
     }
