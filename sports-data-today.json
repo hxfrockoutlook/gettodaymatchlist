@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-02-18 02:00:53",
+  "updateTime": "2026-02-18 02:30:49",
   "data": [
     {
       "mgdbId": "120000547906",
@@ -8,10 +8,10 @@
       "title": "亚冠精英联赛阶段",
       "keyword": "02月18日00:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "萨尼·本·贾西姆球场",
       "competitionName": "亚冠精英",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/17/773Q0BOLOVDU.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/18/773QT0HTU97F.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/9/11/1000000012261060873b.png",
       "pkInfoTitle": "加拉法 vs 大不里士拖拉机",
       "modifyTitle": "亚冠精英联赛阶段",
@@ -36,7 +36,7 @@
       "title": "亚冠精英联赛阶段",
       "keyword": "02月18日00:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "贾西姆·本·哈马德球场",
       "competitionName": "亚冠精英",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/18/773QSRPE29HE.png",
@@ -379,38 +379,6 @@
       ]
     },
     {
-      "mgdbId": "120000566635",
-      "pID": "120000566635",
-      "title": "正播花样滑冰 小将张瑞阳征战女单短节目",
-      "keyword": "02月18日01:15",
-      "sportItemId": "",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "冬奥会",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/16/773P59KQN858.jpg",
-      "competitionLogo": "",
-      "pkInfoTitle": "正播花样滑冰 小将张瑞阳征战女单短节目",
-      "modifyTitle": "正播花样滑冰 小将张瑞阳征战女单短节目",
-      "presenters": "",
-      "matchInfo": {
-        "time": "02月18日01:15"
-      },
-      "nodes": [
-        {
-          "pID": "963114219",
-          "name": "鸿昆 陈虹伊 邵凌霄"
-        },
-        {
-          "pID": "963114361",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "963113412",
-          "name": "CCTV5"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000566636",
       "pID": "120000566636",
       "title": "正播男子双人雪车 中国男队勇闯佳绩",
@@ -439,6 +407,38 @@
         {
           "pID": "963113399",
           "name": "CCTV16-4K"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000566635",
+      "pID": "120000566635",
+      "title": "正播花样滑冰 小将张瑞阳征战女单短节目",
+      "keyword": "02月18日01:15",
+      "sportItemId": "",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "冬奥会",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/16/773P59KQN858.jpg",
+      "competitionLogo": "",
+      "pkInfoTitle": "正播花样滑冰 小将张瑞阳征战女单短节目",
+      "modifyTitle": "正播花样滑冰 小将张瑞阳征战女单短节目",
+      "presenters": "",
+      "matchInfo": {
+        "time": "02月18日01:15"
+      },
+      "nodes": [
+        {
+          "pID": "963114219",
+          "name": "鸿昆 陈虹伊 邵凌霄"
+        },
+        {
+          "pID": "963114361",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "963113412",
+          "name": "CCTV5"
         }
       ]
     }
