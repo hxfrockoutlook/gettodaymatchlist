@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-02-18 17:30:51",
+  "updateTime": "2026-02-18 18:00:59",
   "data": [
     {
       "mgdbId": "120000547906",
@@ -208,7 +208,7 @@
       "title": "亚冠精英联赛阶段",
       "keyword": "02月18日18:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "墨尔本矩形球场",
       "competitionName": "亚冠精英",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/18/773QV1OR1K6K.jpg",
@@ -236,7 +236,7 @@
       "title": "亚冠精英联赛阶段",
       "keyword": "02月18日18:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "上汽浦东足球场",
       "competitionName": "亚冠精英",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/13/773MCJAD956U.png",
@@ -383,38 +383,6 @@
       ]
     },
     {
-      "mgdbId": "120000566654",
-      "pID": "120000566654",
-      "title": "正播女子冰壶 中丹抢分冲刺前四",
-      "keyword": "02月18日15:55",
-      "sportItemId": "",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "冬奥会",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/17/773Q262BDIFS.jpg",
-      "competitionLogo": "",
-      "pkInfoTitle": "正播女子冰壶 中丹抢分冲刺前四",
-      "modifyTitle": "正播女子冰壶 中丹抢分冲刺前四",
-      "presenters": "",
-      "matchInfo": {
-        "time": "02月18日15:55"
-      },
-      "nodes": [
-        {
-          "pID": "963126752",
-          "name": "邱诗来"
-        },
-        {
-          "pID": "963126008",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "963125623",
-          "name": "CCTV5+"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000566602",
       "pID": "120000566602",
       "title": "正播女子空中技巧 徐梦桃剑指卫冕",
@@ -457,16 +425,16 @@
     {
       "mgdbId": "120000566673",
       "pID": "120000566673",
-      "title": "18:20单板滑雪决赛 苏翊鸣生日夜冲击奖牌",
+      "title": "正播单板滑雪决赛 苏翊鸣生日夜冲击奖牌",
       "keyword": "02月18日17:50",
       "sportItemId": "",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "冬奥会",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/15/773O7U5VBSH2.png",
       "competitionLogo": "",
-      "pkInfoTitle": "18:20单板滑雪决赛 苏翊鸣生日夜冲击奖牌",
-      "modifyTitle": "18:20单板滑雪决赛 苏翊鸣生日夜冲击奖牌",
+      "pkInfoTitle": "正播单板滑雪决赛 苏翊鸣生日夜冲击奖牌",
+      "modifyTitle": "正播单板滑雪决赛 苏翊鸣生日夜冲击奖牌",
       "presenters": "",
       "matchInfo": {
         "time": "02月18日17:50"
@@ -491,6 +459,38 @@
       ]
     },
     {
+      "mgdbId": "120000566654",
+      "pID": "120000566654",
+      "title": "正播女子冰壶 中丹抢分冲刺前四",
+      "keyword": "02月18日15:55",
+      "sportItemId": "",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "冬奥会",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/17/773Q262BDIFS.jpg",
+      "competitionLogo": "",
+      "pkInfoTitle": "正播女子冰壶 中丹抢分冲刺前四",
+      "modifyTitle": "正播女子冰壶 中丹抢分冲刺前四",
+      "presenters": "",
+      "matchInfo": {
+        "time": "02月18日15:55"
+      },
+      "nodes": [
+        {
+          "pID": "963126752",
+          "name": "邱诗来"
+        },
+        {
+          "pID": "963126008",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "963125623",
+          "name": "CCTV5+"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000566663",
       "pID": "120000566663",
       "title": "正播越野滑雪 迪妮格尔/池春雪出战",
@@ -509,16 +509,12 @@
       },
       "nodes": [
         {
-          "pID": "963127299",
-          "name": "吴悦"
-        },
-        {
           "pID": "963127332",
           "name": "赛场原声"
         },
         {
-          "pID": "963125641",
-          "name": "CCTV16-4K"
+          "pID": "963127299",
+          "name": "吴悦"
         }
       ]
     },
