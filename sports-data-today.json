@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-02-19 02:30:53",
+  "updateTime": "2026-02-19 03:00:56",
   "data": [
     {
       "mgdbId": "120000564574",
@@ -64,7 +64,7 @@
       "title": "西甲联赛",
       "keyword": "02月19日03:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "西甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000543893/891313_H169_sc.jpg",
@@ -77,12 +77,12 @@
       },
       "nodes": [
         {
-          "pID": "963068144",
-          "name": "赛场原声"
-        },
-        {
           "pID": "963068158",
           "name": "张天翼"
+        },
+        {
+          "pID": "963068144",
+          "name": "赛场原声"
         }
       ]
     },
@@ -92,7 +92,7 @@
       "title": "赵心童登场 老马PK霍金斯",
       "keyword": "02月19日03:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/14/773N9TVUGPOU.png",
@@ -419,6 +419,42 @@
       ]
     },
     {
+      "mgdbId": "120000566693",
+      "pID": "120000566693",
+      "title": "正播短道500米 刘少昂林孝埈冲决赛",
+      "keyword": "02月19日02:45",
+      "sportItemId": "",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "冬奥会",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/16/773P4PTBP0BG.jpg",
+      "competitionLogo": "",
+      "pkInfoTitle": "正播短道500米 刘少昂林孝埈冲决赛",
+      "modifyTitle": "正播短道500米 刘少昂林孝埈冲决赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "02月19日02:45"
+      },
+      "nodes": [
+        {
+          "pID": "963127243",
+          "name": "陈晨 任子威 邵凌霄"
+        },
+        {
+          "pID": "963127274",
+          "name": "庄宁宇"
+        },
+        {
+          "pID": "963127356",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "963125612",
+          "name": "CCTV5"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000566692",
       "pID": "120000566692",
       "title": "正播女子冰壶 中国女队直面挑战榜首",
@@ -447,42 +483,6 @@
         {
           "pID": "963125623",
           "name": "CCTV5+"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000566693",
-      "pID": "120000566693",
-      "title": "3:15播男子500米 刘少昂、林孝埈冲决赛",
-      "keyword": "02月19日02:45",
-      "sportItemId": "",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "冬奥会",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/16/773P4PTBP0BG.jpg",
-      "competitionLogo": "",
-      "pkInfoTitle": "3:15播男子500米 刘少昂、林孝埈冲决赛",
-      "modifyTitle": "19日3:15播男子500米 刘少昂、林孝埈冲决赛",
-      "presenters": "",
-      "matchInfo": {
-        "time": "02月19日02:45"
-      },
-      "nodes": [
-        {
-          "pID": "963127243",
-          "name": "陈晨 任子威 邵凌霄"
-        },
-        {
-          "pID": "963127274",
-          "name": "庄宁宇"
-        },
-        {
-          "pID": "963127356",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "963125612",
-          "name": "CCTV5"
         }
       ]
     }
