@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-02-18 16:30:52",
+  "updateTime": "2026-02-18 17:00:59",
   "data": [
     {
       "mgdbId": "120000547906",
@@ -177,7 +177,7 @@
     {
       "mgdbId": "120000569384",
       "pID": "963046826",
-      "title": "小米拉出战 随后莱巴金娜接场",
+      "title": "小米拉出战 莱巴金娜接场",
       "keyword": "02月18日15:00",
       "sportItemId": "9",
       "matchStatus": "1",
@@ -185,8 +185,8 @@
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/18/773QTPGKCBTJ.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "小米拉出战 随后莱巴金娜接场",
-      "modifyTitle": "WTA迪拜站Day4：小米拉出战 随后莱巴金娜接场",
+      "pkInfoTitle": "小米拉出战 莱巴金娜接场",
+      "modifyTitle": "WTA迪拜站Day4：小米拉出战 莱巴金娜接场",
       "presenters": "",
       "matchInfo": {
         "time": "02月18日15:00"
@@ -417,16 +417,16 @@
     {
       "mgdbId": "120000566602",
       "pID": "120000566602",
-      "title": "17:00播女子空中技巧 徐梦桃剑指卫冕",
+      "title": "正播女子空中技巧 徐梦桃剑指卫冕",
       "keyword": "02月18日16:45",
       "sportItemId": "",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "冬奥会",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/17/773Q1I4FRMK3.png",
       "competitionLogo": "",
-      "pkInfoTitle": "17:00播女子空中技巧 徐梦桃剑指卫冕",
-      "modifyTitle": "17:00播女子空中技巧 徐梦桃剑指卫冕",
+      "pkInfoTitle": "正播女子空中技巧 徐梦桃剑指卫冕",
+      "modifyTitle": "正播女子空中技巧 徐梦桃剑指卫冕",
       "presenters": "",
       "matchInfo": {
         "time": "02月18日16:45"
@@ -487,6 +487,82 @@
         {
           "pID": "963125612",
           "name": "CCTV5"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000566663",
+      "pID": "120000566663",
+      "title": "正播越野滑雪 迪妮格尔/池春雪出战",
+      "keyword": "02月18日16:35",
+      "sportItemId": "",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "冬奥会",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/18/773QUL8TPFSE.png",
+      "competitionLogo": "",
+      "pkInfoTitle": "正播越野滑雪 迪妮格尔/池春雪出战",
+      "modifyTitle": "正播越野滑雪 迪妮格尔/池春雪出战",
+      "presenters": "",
+      "matchInfo": {
+        "time": "02月18日16:35"
+      },
+      "nodes": [
+        {
+          "pID": "963127299",
+          "name": "吴悦"
+        },
+        {
+          "pID": "963127332",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "963125641",
+          "name": "CCTV16-4K"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000566664",
+      "pID": "120000566664",
+      "title": "正播高山滑雪 张玉营亮相女子回转",
+      "keyword": "02月18日16:50",
+      "sportItemId": "",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "冬奥会",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/18/773QUNUKBKVK.jpg",
+      "competitionLogo": "",
+      "pkInfoTitle": "正播高山滑雪 张玉营亮相女子回转",
+      "modifyTitle": "正播高山滑雪 张玉营亮相女子回转",
+      "presenters": "",
+      "matchInfo": {
+        "time": "02月18日16:50"
+      },
+      "nodes": [
+        {
+          "pID": "963127314",
+          "name": "楚韫源"
+        },
+        {
+          "pID": "963127286",
+          "name": "楚韫源"
+        },
+        {
+          "pID": "963127328",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "963134383",
+          "name": "智能字幕"
+        },
+        {
+          "pID": "963134391",
+          "name": "智能字幕"
+        },
+        {
+          "pID": "963125623",
+          "name": "CCTV5+"
         }
       ]
     }
