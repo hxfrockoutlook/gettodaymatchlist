@@ -1,12 +1,12 @@
 {
   "success": true,
-  "updateTime": "2026-02-19 23:00:56",
+  "updateTime": "2026-02-19 23:30:57",
   "data": [
     {
       "mgdbId": "120000564574",
       "pID": "963064392",
       "title": "亚冠二级1/8决赛",
-      "keyword": "02月19��02:15",
+      "keyword": "02月19日02:15",
       "sportItemId": "1",
       "matchStatus": "2",
       "matchField": "图马马球场",
@@ -17,7 +17,7 @@
       "modifyTitle": "亚冠二级1/8决赛",
       "presenters": "吴子越",
       "matchInfo": {
-        "time": "02月19��02:15"
+        "time": "02月19日02:15"
       },
       "nodes": [
         {
@@ -345,16 +345,16 @@
     {
       "mgdbId": "120000569385",
       "pID": "963046895",
-      "title": "小米拉出战 佩古拉2-1陶森",
+      "title": "高芙出战 小米拉1-2阿尼西莫娃",
       "keyword": "02月19日18:00",
       "sportItemId": "9",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/19/773RS1016OU8.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/19/773RSSGU896R.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "小米拉出战 佩古拉2-1陶森",
-      "modifyTitle": "WTA迪拜站Day5：小米拉出战 佩古拉2-1陶森",
+      "pkInfoTitle": "高芙出战 小米拉1-2阿尼西莫娃",
+      "modifyTitle": "WTA迪拜站Day5：高芙出战 小米拉1-2阿尼西莫娃",
       "presenters": "",
       "matchInfo": {
         "time": "02月19日18:00"
@@ -423,6 +423,42 @@
       ]
     },
     {
+      "mgdbId": "120000566709",
+      "pID": "120000566709",
+      "title": "正播男子1500米 宁忠岩、刘瀚彬冲奖牌",
+      "keyword": "02月19日23:00",
+      "sportItemId": "",
+      "matchStatus": "2",
+      "matchField": "",
+      "competitionName": "冬奥会",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/18/773QVGUKES8B.jpg",
+      "competitionLogo": "",
+      "pkInfoTitle": "正播男子1500米 宁忠岩、刘瀚彬冲奖牌",
+      "modifyTitle": "正播男子1500米 宁忠岩、刘瀚彬冲奖牌",
+      "presenters": "",
+      "matchInfo": {
+        "time": "02月19日23:00"
+      },
+      "nodes": [
+        {
+          "pID": "963143995",
+          "name": "王铎睿 付春艳 佟艺"
+        },
+        {
+          "pID": "963134834",
+          "name": "姚文倩"
+        },
+        {
+          "pID": "963134866",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "963134505",
+          "name": "CCTV5"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000566706",
       "pID": "120000566706",
       "title": "正播女子冰壶 中国女队收官迎战日本",
@@ -451,42 +487,6 @@
         {
           "pID": "963134511",
           "name": "CCTV5+"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000566709",
-      "pID": "120000566709",
-      "title": "23:30播男子1500米 宁忠岩、刘瀚彬冲奖牌",
-      "keyword": "02月19日23:00",
-      "sportItemId": "",
-      "matchStatus": "2",
-      "matchField": "",
-      "competitionName": "冬奥会",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/18/773QVGUKES8B.jpg",
-      "competitionLogo": "",
-      "pkInfoTitle": "23:30播男子1500米 宁忠岩、刘瀚彬冲奖牌",
-      "modifyTitle": "23:30播男子1500米 宁忠岩、刘瀚彬冲奖牌",
-      "presenters": "",
-      "matchInfo": {
-        "time": "02月19日23:00"
-      },
-      "nodes": [
-        {
-          "pID": "963143995",
-          "name": "王铎睿 付春艳 佟艺"
-        },
-        {
-          "pID": "963134834",
-          "name": "姚文倩"
-        },
-        {
-          "pID": "963134866",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "963134505",
-          "name": "CCTV5"
         }
       ]
     }
