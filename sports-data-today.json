@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-02-19 20:30:53",
+  "updateTime": "2026-02-19 21:00:58",
   "data": [
     {
       "mgdbId": "120000564574",
@@ -292,7 +292,7 @@
     },
     {
       "mgdbId": "120000569139",
-      "pID": "963142839",
+      "pID": "963142874",
       "title": "林兆恒出战 廖振珽对阵法尔克",
       "keyword": "02月19日16:00",
       "sportItemId": "7",
@@ -308,10 +308,6 @@
         "time": "02月19日16:00"
       },
       "nodes": [
-        {
-          "pID": "963142839",
-          "name": "2号桌"
-        },
         {
           "pID": "963142874",
           "name": "3号桌"
@@ -408,7 +404,7 @@
       "title": "约翰·希金斯 vs 克里斯·韦克林",
       "keyword": "02月19日21:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/19/773RSDSR9041.jpg",
@@ -427,6 +423,70 @@
         {
           "pID": "963159854",
           "name": "朱峰立"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000566706",
+      "pID": "120000566706",
+      "title": "正播女子冰壶 中国女队收官迎战日本",
+      "keyword": "02月19日20:50",
+      "sportItemId": "",
+      "matchStatus": "2",
+      "matchField": "",
+      "competitionName": "冬奥会",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/19/773RS4B47G2T.png",
+      "competitionLogo": "",
+      "pkInfoTitle": "正播女子冰壶 中国女队收官迎战日本",
+      "modifyTitle": "正播女子冰壶 中国女队收官迎战日本",
+      "presenters": "",
+      "matchInfo": {
+        "time": "02月19日20:50"
+      },
+      "nodes": [
+        {
+          "pID": "963143219",
+          "name": "吴桐 王冰玉"
+        },
+        {
+          "pID": "963134758",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "963134511",
+          "name": "CCTV5+"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000566703",
+      "pID": "120000566703",
+      "title": "正播北欧两项 赵子贺、赵嘉文再度登场",
+      "keyword": "02月19日20:50",
+      "sportItemId": "",
+      "matchStatus": "2",
+      "matchField": "",
+      "competitionName": "冬奥会",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/19/773RRQ50PR5M.png",
+      "competitionLogo": "",
+      "pkInfoTitle": "正播北欧两项 赵子贺、赵嘉文再度登场",
+      "modifyTitle": "正播北欧两项 赵子贺、赵嘉文再度登场",
+      "presenters": "",
+      "matchInfo": {
+        "time": "02月19日20:50"
+      },
+      "nodes": [
+        {
+          "pID": "963134684",
+          "name": "赵婧"
+        },
+        {
+          "pID": "963134687",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "963134516",
+          "name": "CCTV16-4K"
         }
       ]
     },
@@ -459,6 +519,10 @@
         {
           "pID": "963134866",
           "name": "赛场原声"
+        },
+        {
+          "pID": "963134866",
+          "name": "��场原声"
         },
         {
           "pID": "963134505",
