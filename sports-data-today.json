@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-02-20 18:01:02",
+  "updateTime": "2026-02-20 18:30:58",
   "data": [
     {
       "mgdbId": "120000569455",
@@ -421,10 +421,6 @@
           "name": "刘馨蕊"
         },
         {
-          "pID": "963143071",
-          "name": "正赛抽签仪式"
-        },
-        {
           "pID": "963154676",
           "name": "同看冬奥会自由式滑雪"
         },
@@ -445,15 +441,15 @@
     {
       "mgdbId": "120000569143",
       "pID": "963143071",
-      "title": "覃予萱首轮战桥本 王艺迪PK朱芊曦",
+      "title": "覃予萱首轮战桥本 林诗栋PK篠塚大登",
       "keyword": "02月20日17:30",
       "sportItemId": "7",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/19/773RR4QI5TS0.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/20/773SOILNE2JB.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "覃予萱首轮战桥本 王艺迪PK朱芊曦",
+      "pkInfoTitle": "覃予萱首轮战桥本 林诗栋PK篠塚大登",
       "modifyTitle": "WTT新加坡大满贯：抽签仪式",
       "presenters": "周泽昊",
       "matchInfo": {
@@ -635,6 +631,34 @@
       ]
     },
     {
+      "mgdbId": "120000566701",
+      "pID": "120000566701",
+      "title": "正播男子U型技巧 中国男队相继登场",
+      "keyword": "02月20日17:20",
+      "sportItemId": "",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "冬奥会",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/19/773RRQQFO4O6.png",
+      "competitionLogo": "",
+      "pkInfoTitle": "正播男子U型技巧 中国男队相继登场",
+      "modifyTitle": "正播男子U型技巧 中国男队相继登场",
+      "presenters": "",
+      "matchInfo": {
+        "time": "02月20日17:20"
+      },
+      "nodes": [
+        {
+          "pID": "963168083",
+          "name": "邢天宇"
+        },
+        {
+          "pID": "963168103",
+          "name": "赛场原声"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000566612",
       "pID": "120000566612",
       "title": "正播空中技巧 齐广璞率男队剑指卫冕",
@@ -667,78 +691,6 @@
         {
           "pID": "963145389",
           "name": "CCTV5"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000566716",
-      "pID": "120000566716",
-      "title": "正播女子障碍追逐 张雪莲、李雯雯出战",
-      "keyword": "02月20日16:50",
-      "sportItemId": "",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "冬奥会",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/20/773SORI3DVVQ.png",
-      "competitionLogo": "",
-      "pkInfoTitle": "正播女子障碍追逐 张雪莲、李雯雯出战",
-      "modifyTitle": "正播女子障碍追逐 张雪莲、李雯雯出战",
-      "presenters": "",
-      "matchInfo": {
-        "time": "02月20日16:50"
-      },
-      "nodes": [
-        {
-          "pID": "963145656",
-          "name": "刘钟鸣"
-        },
-        {
-          "pID": "963145652",
-          "name": "刘钟鸣"
-        },
-        {
-          "pID": "963145465",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "963159297",
-          "name": "智能字幕"
-        },
-        {
-          "pID": "963159306",
-          "name": "智能字幕"
-        },
-        {
-          "pID": "963145389",
-          "name": "CCTV5"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000566701",
-      "pID": "120000566701",
-      "title": "正播男子U型技巧 中国男队相继登场",
-      "keyword": "02月20日17:20",
-      "sportItemId": "",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "冬奥会",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/19/773RRQQFO4O6.png",
-      "competitionLogo": "",
-      "pkInfoTitle": "正播男子U型技巧 中国男队相继登场",
-      "modifyTitle": "正播男子U型技巧 中国男队相继登场",
-      "presenters": "",
-      "matchInfo": {
-        "time": "02月20日17:20"
-      },
-      "nodes": [
-        {
-          "pID": "963168083",
-          "name": "邢天宇"
-        },
-        {
-          "pID": "963168103",
-          "name": "赛场原声"
         }
       ]
     }
