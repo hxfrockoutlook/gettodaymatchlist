@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-02-20 07:30:53",
+  "updateTime": "2026-02-20 08:01:01",
   "data": [
     {
       "mgdbId": "120000569455",
@@ -40,7 +40,7 @@
       "title": "NBA常规赛",
       "keyword": "02月20日08:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "富国银行中心",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/19/773RSJRDMT0S.jpg",
@@ -68,7 +68,7 @@
       "title": "NBA常规赛",
       "keyword": "02月20日08:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "火箭信贷球馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/19/773RSK4KV0MP.jpg",
@@ -96,7 +96,7 @@
       "title": "NBA常规赛",
       "keyword": "02月20日08:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "第一资本体育馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/19/773RSK864AF8.jpg",
@@ -124,7 +124,7 @@
       "title": "NBA常规赛",
       "keyword": "02月20日08:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "光谱中心",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/19/773RSKG9QURJ.jpg",
@@ -559,6 +559,30 @@
         {
           "pID": "963134505",
           "name": "CCTV5"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000568419",
+      "pID": "120000568419",
+      "title": "9:00直击米兰！全景冬奥早知道",
+      "keyword": "02月20日09:00",
+      "sportItemId": "",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "冬奥会",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/19/773RQIFJLC5C.jpg",
+      "competitionLogo": "",
+      "pkInfoTitle": "9:00直击米兰！全景冬奥早知道",
+      "modifyTitle": "9:00直击米兰！全景冬奥早知道",
+      "presenters": "",
+      "matchInfo": {
+        "time": "02月20日09:00"
+      },
+      "nodes": [
+        {
+          "pID": "962856536",
+          "name": "上海咪咕虚拟演播室"
         }
       ]
     }
