@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-02-20 23:01:15",
+  "updateTime": "2026-02-20 23:31:03",
   "data": [
     {
       "mgdbId": "120000569455",
@@ -583,42 +583,38 @@
       ]
     },
     {
-      "mgdbId": "120000569990",
-      "pID": "963046939",
-      "title": "斯维托丽娜 vs 高芙",
-      "keyword": "02月20日23:30",
-      "sportItemId": "9",
-      "matchStatus": "0",
+      "mgdbId": "120000566720",
+      "pID": "120000566720",
+      "title": "正播女子1500米 韩梅携女队争锋",
+      "keyword": "02月20日23:00",
+      "sportItemId": "",
+      "matchStatus": "2",
       "matchField": "",
-      "competitionName": "WTA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/20/773SPNHOSK9F.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "斯维托丽娜 vs 高芙",
-      "modifyTitle": "斯维托丽娜 vs 高芙",
-      "presenters": "刘钟鸣",
+      "competitionName": "冬奥会",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/19/773RS9QF8A3N.jpg",
+      "competitionLogo": "",
+      "pkInfoTitle": "正播女子1500米 韩梅携女队争锋",
+      "modifyTitle": "正播女子1500米 韩梅携女队争锋",
+      "presenters": "",
       "matchInfo": {
-        "time": "02月20日23:30"
+        "time": "02月20日23:00"
       },
       "nodes": [
         {
-          "pID": "963046939",
+          "pID": "963145562",
+          "name": "王铎睿 付春艳 李子琪"
+        },
+        {
+          "pID": "963145601",
           "name": "赛场原声"
         },
         {
-          "pID": "963171540",
-          "name": "刘钟鸣"
+          "pID": "963145606",
+          "name": "王祉越"
         },
         {
-          "pID": "963046952",
-          "name": "英文原声"
-        },
-        {
-          "pID": "963154727",
-          "name": "同看自由式滑雪"
-        },
-        {
-          "pID": "963145562",
-          "name": "同看速度滑冰"
+          "pID": "963145389",
+          "name": "CCTV5"
         }
       ]
     },
@@ -663,38 +659,42 @@
       ]
     },
     {
-      "mgdbId": "120000566720",
-      "pID": "120000566720",
-      "title": "23:30播女子1500米 韩梅携女队争锋",
-      "keyword": "02月20日23:00",
+      "mgdbId": "120000569990",
+      "pID": "120000569990",
+      "title": "斯维托丽娜 vs 高芙",
+      "keyword": "02月20日23:30",
       "sportItemId": "",
       "matchStatus": "2",
       "matchField": "",
-      "competitionName": "冬奥会",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/19/773RS9QF8A3N.jpg",
+      "competitionName": "WTA",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/07/08/11005/25eab3e85d48452f9f639282bebcebd1/25eab3e85d48452f9f639282bebcebd1_H169_P1080_WEBP.webp",
       "competitionLogo": "",
-      "pkInfoTitle": "23:30播女子1500米 韩梅携女队争锋",
-      "modifyTitle": "23:30播女子1500米 韩梅携女队争锋",
+      "pkInfoTitle": "斯维托丽娜 vs 高芙",
+      "modifyTitle": "斯维托丽娜vs高芙",
       "presenters": "",
       "matchInfo": {
-        "time": "02月20日23:00"
+        "time": "02月20日23:30"
       },
       "nodes": [
         {
-          "pID": "963145562",
-          "name": "王铎睿 付春艳 李子琪"
-        },
-        {
-          "pID": "963145601",
+          "pID": "963046939",
           "name": "赛场原声"
         },
         {
-          "pID": "963145606",
-          "name": "王祉越"
+          "pID": "963171540",
+          "name": "刘钟鸣"
         },
         {
-          "pID": "963145389",
-          "name": "CCTV5"
+          "pID": "963046952",
+          "name": "英文原声"
+        },
+        {
+          "pID": "963154727",
+          "name": "同看自由式滑雪"
+        },
+        {
+          "pID": "963145562",
+          "name": "同看速度滑冰"
         }
       ]
     }
