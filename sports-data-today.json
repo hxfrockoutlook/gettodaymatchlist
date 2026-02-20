@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-02-20 15:30:55",
+  "updateTime": "2026-02-20 16:00:57",
   "data": [
     {
       "mgdbId": "120000569455",
@@ -271,7 +271,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "凯尔特人VS勇士",
       "modifyTitle": "NBA常规赛",
-      "presenters": "杨健 曾令旭 刘铁 拜月宁 莫俊祺 洪荒",
+      "presenters": "曾令旭 刘铁 杨健 拜月宁 莫俊祺 洪荒",
       "matchInfo": {
         "time": "02月20日11:00"
       },
@@ -385,6 +385,10 @@
       },
       "nodes": [
         {
+          "pID": "963171061",
+          "name": "25/26赛季NBA常规赛全场集锦：掘金114:115快船（20260220）"
+        },
+        {
           "pID": "962932751",
           "name": "孙博"
         },
@@ -400,7 +404,7 @@
       "title": "朴康贤亮相 卢茨姐妹冲正赛",
       "keyword": "02月20日16:00",
       "sportItemId": "7",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/19/773RSTBRGMAM.png",
@@ -500,7 +504,7 @@
     },
     {
       "mgdbId": "120000569456",
-      "pID": "963071097",
+      "pID": "963171471",
       "title": "肖恩·墨菲 vs 赵心童",
       "keyword": "02月20日21:00",
       "sportItemId": "8",
@@ -511,11 +515,15 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "肖恩·墨菲 vs 赵心童",
       "modifyTitle": "斯诺克球员锦标赛1/4决赛：肖恩·墨菲 vs 赵心童",
-      "presenters": "",
+      "presenters": "朱蒙",
       "matchInfo": {
         "time": "02月20日21:00"
       },
       "nodes": [
+        {
+          "pID": "963171471",
+          "name": "朱蒙"
+        },
         {
           "pID": "963071097",
           "name": "1号桌"
@@ -579,7 +587,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
       "pkInfoTitle": "斯维托丽娜 vs 高芙",
       "modifyTitle": "斯维托丽娜 vs 高芙",
-      "presenters": "",
+      "presenters": "刘钟鸣",
       "matchInfo": {
         "time": "02月20日23:00"
       },
@@ -599,6 +607,10 @@
         {
           "pID": "963145562",
           "name": "同看速度滑冰"
+        },
+        {
+          "pID": "963171540",
+          "name": "刘钟鸣"
         }
       ]
     }
