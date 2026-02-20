@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-02-20 21:01:02",
+  "updateTime": "2026-02-20 21:31:01",
   "data": [
     {
       "mgdbId": "120000569455",
@@ -463,56 +463,12 @@
       ]
     },
     {
-      "mgdbId": "120000569386",
-      "pID": "963046939",
-      "title": "美国德比！佩古拉vs阿尼西莫娃",
-      "keyword": "02月20日21:00",
-      "sportItemId": "9",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "WTA",
-      "padImg": "",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "美国德比！佩古拉vs阿尼西莫娃",
-      "modifyTitle": "WTA迪拜站女单半决赛：佩古拉vs阿尼西莫娃",
-      "presenters": "单文强 刘钟鸣",
-      "matchInfo": {
-        "time": "02月20日21:00"
-      },
-      "nodes": [
-        {
-          "pID": "963046939",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "963171530",
-          "name": "佩古拉vs阿尼西莫娃(单文强)"
-        },
-        {
-          "pID": "963046952",
-          "name": "英文原声"
-        },
-        {
-          "pID": "963154727",
-          "name": "同看自由式滑雪"
-        },
-        {
-          "pID": "963171540",
-          "name": "高芙vs斯维托丽娜(刘钟鸣)"
-        },
-        {
-          "pID": "963145562",
-          "name": "同看速度滑冰"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000569456",
       "pID": "963171471",
       "title": "肖恩·墨菲 vs 赵心童",
       "keyword": "02月20日21:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/19/773RSED0C33L.jpg",
@@ -543,10 +499,54 @@
       ]
     },
     {
+      "mgdbId": "120000569386",
+      "pID": "963046939",
+      "title": "WTA迪拜站Day6",
+      "keyword": "02月20日21:40",
+      "sportItemId": "9",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "WTA",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
+      "pkInfoTitle": "WTA迪拜站Day6",
+      "modifyTitle": "WTA迪拜站女单半决赛：佩古拉vs阿尼西莫娃",
+      "presenters": "单文强 刘钟鸣",
+      "matchInfo": {
+        "time": "02月20日21:40"
+      },
+      "nodes": [
+        {
+          "pID": "963046939",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "963171530",
+          "name": "佩古拉vs阿尼西莫娃(单文强)"
+        },
+        {
+          "pID": "963046952",
+          "name": "英文原声"
+        },
+        {
+          "pID": "963154727",
+          "name": "同看自由式滑雪"
+        },
+        {
+          "pID": "963171540",
+          "name": "高芙vs斯维托丽娜(刘钟鸣)"
+        },
+        {
+          "pID": "963145562",
+          "name": "同看速度滑冰"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000569986",
       "pID": "963046939",
       "title": "佩古拉vs阿尼西莫娃",
-      "keyword": "02月20日21:00",
+      "keyword": "02月20日21:40",
       "sportItemId": "9",
       "matchStatus": "0",
       "matchField": "",
@@ -557,7 +557,7 @@
       "modifyTitle": "佩古拉vs阿尼西莫娃",
       "presenters": "单文强",
       "matchInfo": {
-        "time": "02月20日21:00"
+        "time": "02月20日21:40"
       },
       "nodes": [
         {
