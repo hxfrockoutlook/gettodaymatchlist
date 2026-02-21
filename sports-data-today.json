@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-02-21 19:31:20",
+  "updateTime": "2026-02-21 20:01:28",
   "data": [
     {
       "mgdbId": "120000569990",
@@ -585,20 +585,12 @@
           "name": "刘馨蕊"
         },
         {
-          "pID": "963161103",
-          "name": "冬奥会自由式滑雪"
-        },
-        {
           "pID": "963143145",
           "name": "2号桌"
         },
         {
           "pID": "963143166",
           "name": "3号桌"
-        },
-        {
-          "pID": "963143217",
-          "name": "4号桌"
         }
       ]
     },
@@ -692,7 +684,7 @@
       "title": "NBL常规赛",
       "keyword": "02月21日20:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBL",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000564205/202512171201_302383_H169_1080.webp",
@@ -1111,46 +1103,6 @@
       ]
     },
     {
-      "mgdbId": "120000566730",
-      "pID": "120000566730",
-      "title": "再添一牌！桃心夫妇携手李天马摘铜",
-      "keyword": "02月21日17:15",
-      "sportItemId": "",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "冬奥会",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/21/773TKRI90P18.jpg",
-      "competitionLogo": "",
-      "pkInfoTitle": "再添一牌！桃心夫妇携手李天马摘铜",
-      "modifyTitle": "再添一牌！桃心夫妇携手李天马摘铜",
-      "presenters": "",
-      "matchInfo": {
-        "time": "02月21日17:15"
-      },
-      "nodes": [
-        {
-          "pID": "963161103",
-          "name": "杨健 韩晓鹏 拜月宁"
-        },
-        {
-          "pID": "963161223",
-          "name": "钟宇峰"
-        },
-        {
-          "pID": "963161132",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "963172886",
-          "name": "智能字幕"
-        },
-        {
-          "pID": "963160629",
-          "name": "CCTV5"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000566728",
       "pID": "120000566728",
       "title": "正播四人雪车 孙楷智、李纯键带队出征",
@@ -1179,6 +1131,34 @@
         {
           "pID": "963160639",
           "name": "CCTV5+"
+        },
+        {
+          "pID": "963160629",
+          "name": "CCTV5"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000566730",
+      "pID": "120000566730",
+      "title": "再添一牌！桃心夫妇携手李天马摘铜",
+      "keyword": "02月21日17:15",
+      "sportItemId": "",
+      "matchStatus": "2",
+      "matchField": "",
+      "competitionName": "冬奥会",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/21/773TKRI90P18.jpg",
+      "competitionLogo": "",
+      "pkInfoTitle": "再添一牌！桃心夫妇携手李天马摘铜",
+      "modifyTitle": "再添一牌！桃心夫妇携手李天马摘铜",
+      "presenters": "",
+      "matchInfo": {
+        "time": "02月21日17:15"
+      },
+      "nodes": [
+        {
+          "pID": "963161103",
+          "name": "杨健 韩晓鹏 拜月宁"
         },
         {
           "pID": "963160629",
