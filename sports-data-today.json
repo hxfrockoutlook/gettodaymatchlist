@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-02-21 08:31:17",
+  "updateTime": "2026-02-21 09:01:23",
   "data": [
     {
       "mgdbId": "120000569990",
@@ -348,7 +348,7 @@
       "title": "NBA常规赛",
       "keyword": "02月21日09:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "冰沙国王中心",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/20/773SN4U7TSHS.png",
@@ -376,7 +376,7 @@
       "title": "NBA常规赛",
       "keyword": "02月21日09:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "Paycom中心",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/20/773SNKTD9HJ0.jpg",
@@ -507,7 +507,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/21/773TMBA7RBET.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "程靖淇、周冠达、周泽昊解读签位",
       "modifyTitle": "WTT新加坡大满贯：程靖淇、周冠达、周泽昊解读签位",
@@ -1067,6 +1067,30 @@
         {
           "pID": "963069641",
           "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000568420",
+      "pID": "120000568420",
+      "title": "正播直击米兰！全景冬奥早知道",
+      "keyword": "02月21日09:00",
+      "sportItemId": "",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "冬奥会",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/21/773TM9LAK3M8.jpg",
+      "competitionLogo": "",
+      "pkInfoTitle": "正播直击米兰！全景冬奥早知道",
+      "modifyTitle": "正播直击米兰！全景冬奥早知道",
+      "presenters": "",
+      "matchInfo": {
+        "time": "02月21日09:00"
+      },
+      "nodes": [
+        {
+          "pID": "962856512",
+          "name": "咪咕体育日报"
         }
       ]
     }
