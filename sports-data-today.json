@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-02-21 21:31:26",
+  "updateTime": "2026-02-21 22:01:26",
   "data": [
     {
       "mgdbId": "120000569990",
@@ -593,7 +593,7 @@
     {
       "mgdbId": "120000569463",
       "pID": "963073085",
-      "title": "章润冲击金腰带 朱展鹏、刘春瑞出战",
+      "title": "章润首回合48秒速杀加冕70KG金腰带",
       "keyword": "02月21日19:00",
       "sportItemId": "5",
       "matchStatus": "1",
@@ -601,8 +601,8 @@
       "competitionName": "昆仑决",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/21/773TMKBP0MKD.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/2/13/100000001410106eb727.png",
-      "pkInfoTitle": "章润冲击金腰带 朱展鹏、刘春瑞出战",
-      "modifyTitle": "昆仑决 70KG洲际冠军金腰带赛",
+      "pkInfoTitle": "章润首回合48秒速杀加冕70KG金腰带",
+      "modifyTitle": "章润首回合48秒速杀加冕70KG金腰带",
       "presenters": "",
       "matchInfo": {
         "time": "02月21日19:00"
@@ -624,7 +624,7 @@
       "title": "NBL常规赛",
       "keyword": "02月21日19:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBL",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/21/773TL1N3TLGP.png",
@@ -652,7 +652,7 @@
       "title": "NBL常规赛",
       "keyword": "02月21日19:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBL",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/21/773TL35S9O6V.png",
@@ -772,7 +772,7 @@
       "title": "意甲联赛",
       "keyword": "02月21日22:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "Allianz Stadium",
       "competitionName": "意甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000543059/542183_H169_sc.jpg",
@@ -860,7 +860,7 @@
       "title": "德甲联赛",
       "keyword": "02月21日22:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "慕尼黑竞技场",
       "competitionName": "德甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000542816/804573_H169_sc.jpg",
@@ -1095,6 +1095,42 @@
         {
           "pID": "963069641",
           "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000566735",
+      "pID": "120000566735",
+      "title": "正播男子集体 李文淏、吴宇相继亮相",
+      "keyword": "02月21日21:30",
+      "sportItemId": "",
+      "matchStatus": "2",
+      "matchField": "",
+      "competitionName": "冬奥会",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/21/773TM7B51FR4.jpg",
+      "competitionLogo": "",
+      "pkInfoTitle": "正播男子集体 李文淏、吴宇相继亮相",
+      "modifyTitle": "正播男子集体 李文淏、吴宇相继亮相",
+      "presenters": "",
+      "matchInfo": {
+        "time": "02月21日21:30"
+      },
+      "nodes": [
+        {
+          "pID": "963161189",
+          "name": "王铎睿 付春艳 李子琪"
+        },
+        {
+          "pID": "963161275",
+          "name": "王祉越"
+        },
+        {
+          "pID": "963161168",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "963160629",
+          "name": "CCTV5"
         }
       ]
     },
