@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-02-22 00:31:28",
+  "updateTime": "2026-02-22 01:01:25",
   "data": [
     {
       "mgdbId": "120000542595",
@@ -36,7 +36,7 @@
       "title": "意甲联赛",
       "keyword": "02月22日01:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "维亚德马雷市政体育场",
       "competitionName": "意甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000543058/498675_H169_sc.jpg",
@@ -104,7 +104,7 @@
       "title": "德甲联赛",
       "keyword": "02月22日01:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "莱比锡体育场",
       "competitionName": "德甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000542814/849552_H169_sc.jpg",
@@ -906,6 +906,10 @@
         },
         {
           "pID": "963171594",
+          "name": "同看闭幕���特别节目"
+        },
+        {
+          "pID": "963171594",
           "name": "同看闭幕式特别节目"
         }
       ]
@@ -1143,6 +1147,42 @@
         {
           "pID": "963069950",
           "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000566738",
+      "pID": "120000566738",
+      "title": "2:30播U型场地技巧 谷爱凌领衔四姝冲金",
+      "keyword": "02月22日02:00",
+      "sportItemId": "",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "冬奥会",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/21/773TKRCVN7SM.jpg",
+      "competitionLogo": "",
+      "pkInfoTitle": "2:30播U型场地技巧 谷爱凌领衔四姝冲金",
+      "modifyTitle": "22日2:30播U型场地技巧 谷爱凌领衔四姝冲金",
+      "presenters": "",
+      "matchInfo": {
+        "time": "02月22日02:00"
+      },
+      "nodes": [
+        {
+          "pID": "963161093",
+          "name": "邢天宇 张义威 邵凌霄"
+        },
+        {
+          "pID": "963161255",
+          "name": "吕志瑶"
+        },
+        {
+          "pID": "963160685",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "963160629",
+          "name": "CCTV5"
         }
       ]
     }
