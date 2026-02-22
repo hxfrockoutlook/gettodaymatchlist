@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-02-22 13:31:26",
+  "updateTime": "2026-02-22 14:01:33",
   "data": [
     {
       "mgdbId": "120000542595",
@@ -383,7 +383,7 @@
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/20/7711R3FFSB67.png",
       "pkInfoTitle": "时隔一年重回胜轨 斯特里克兰TKO赫尔南德兹",
       "modifyTitle": "时隔一年重回胜轨 斯特里克兰TKO赫尔南德兹",
-      "presenters": "郑��祺 汪乐",
+      "presenters": "郑文祺 汪乐",
       "matchInfo": {
         "time": "02月22日06:00"
       },
@@ -609,16 +609,16 @@
           "name": "周冠达"
         },
         {
+          "pID": "963143313",
+          "name": "2号桌"
+        },
+        {
           "pID": "963143248",
           "name": "热身馆"
         },
         {
           "pID": "963143285",
           "name": "1号桌"
-        },
-        {
-          "pID": "963143313",
-          "name": "2号桌"
         },
         {
           "pID": "963142757",
@@ -1002,7 +1002,7 @@
         },
         {
           "pID": "963175303",
-          "name": "冬奥��冰球"
+          "name": "冬奥会冰球"
         },
         {
           "pID": "963069240",
@@ -1019,10 +1019,6 @@
         {
           "pID": "963069262",
           "name": "英文原声"
-        },
-        {
-          "pID": "963175303",
-          "name": "冬奥会冰球"
         }
       ]
     },
@@ -1183,30 +1179,6 @@
       ]
     },
     {
-      "mgdbId": "120000568421",
-      "pID": "120000568421",
-      "title": "桃心携手摘铜 杨健解读空中技巧大丰收",
-      "keyword": "02月22日09:00",
-      "sportItemId": "",
-      "matchStatus": "2",
-      "matchField": "",
-      "competitionName": "冬奥会",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/22/773UJE6MOON7.jpg",
-      "competitionLogo": "",
-      "pkInfoTitle": "桃心携手摘铜 杨健解读空中技巧大丰收",
-      "modifyTitle": "桃心携手摘铜 杨健解读空中技巧大丰收",
-      "presenters": "",
-      "matchInfo": {
-        "time": "02月22日09:00"
-      },
-      "nodes": [
-        {
-          "pID": "962856490",
-          "name": "咪咕体育日报"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000566738",
       "pID": "120000566738",
       "title": "17:40播U型场地技巧 谷爱凌领衔四姝冲金",
@@ -1239,6 +1211,30 @@
         {
           "pID": "963171485",
           "name": "CCTV5"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000568421",
+      "pID": "120000568421",
+      "title": "桃心携手摘铜 杨健解读空中技巧大丰收",
+      "keyword": "02月22日09:00",
+      "sportItemId": "",
+      "matchStatus": "2",
+      "matchField": "",
+      "competitionName": "冬奥会",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/22/773UJE6MOON7.jpg",
+      "competitionLogo": "",
+      "pkInfoTitle": "桃心携手摘铜 杨健解读空中技巧大丰收",
+      "modifyTitle": "桃心携手摘铜 杨健解读空中技巧大丰收",
+      "presenters": "",
+      "matchInfo": {
+        "time": "02月22日09:00"
+      },
+      "nodes": [
+        {
+          "pID": "962856490",
+          "name": "咪咕体育日报"
         }
       ]
     }
