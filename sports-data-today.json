@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-02-22 07:31:23",
+  "updateTime": "2026-02-22 08:02:06",
   "data": [
     {
       "mgdbId": "120000542595",
@@ -400,7 +400,7 @@
       "title": "NBA常规赛",
       "keyword": "02月22日08:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "冰沙国王中心",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/21/773TKGIE9BIV.png",
@@ -982,7 +982,7 @@
         },
         {
           "pID": "963175303",
-          "name": "��奥会冰球"
+          "name": "冬奥会冰球"
         },
         {
           "pID": "963069240",
@@ -999,10 +999,6 @@
         {
           "pID": "963069262",
           "name": "英文原声"
-        },
-        {
-          "pID": "963175303",
-          "name": "冬奥会冰球"
         }
       ]
     },
@@ -1159,6 +1155,30 @@
         {
           "pID": "963069950",
           "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000568421",
+      "pID": "120000568421",
+      "title": "9:00直击米兰！全景冬奥早知道",
+      "keyword": "02月22日09:00",
+      "sportItemId": "",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "冬奥会",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/21/773TKAHBDJHC.jpg",
+      "competitionLogo": "",
+      "pkInfoTitle": "9:00直击米兰！全景冬奥早知道",
+      "modifyTitle": "9:00直击米兰！全景冬奥早知道",
+      "presenters": "",
+      "matchInfo": {
+        "time": "02月22日09:00"
+      },
+      "nodes": [
+        {
+          "pID": "962856490",
+          "name": "咪咕体育日报 第16期"
         }
       ]
     }
