@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-02-22 15:31:28",
+  "updateTime": "2026-02-22 16:01:33",
   "data": [
     {
       "mgdbId": "120000542595",
@@ -247,7 +247,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png",
       "pkInfoTitle": "曼城 vs 纽卡斯尔联",
       "modifyTitle": "英超联赛",
-      "presenters": "颜强 李子琪 徐阳 江忠德",
+      "presenters": "颜强 徐阳 李子琪 江忠德",
       "matchInfo": {
         "time": "02月22日04:00"
       },
@@ -567,7 +567,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/22/773UJEOO4RM2.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/22/773UHUVP0JJP.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "第一比赛日热身区",
       "modifyTitle": "WTT新加坡大满贯：第一比赛日热身区",
@@ -591,7 +591,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/22/773UHMSQIH7V.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/22/773UHVI2P4K3.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "王曼昱直落三局 林诗栋3-1篠塚大登",
       "modifyTitle": "WTT新加坡大满贯：男女单打1/32决赛、双打1/16决赛",
@@ -617,10 +617,6 @@
           "name": "1号桌"
         },
         {
-          "pID": "963142775",
-          "name": "4号桌"
-        },
-        {
           "pID": "963142804",
           "name": "英文解说"
         },
@@ -631,6 +627,10 @@
         {
           "pID": "963142757",
           "name": "3号桌"
+        },
+        {
+          "pID": "963142775",
+          "name": "4号桌"
         }
       ]
     },
@@ -903,11 +903,15 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "决赛：赵心童VS希金斯",
       "modifyTitle": "斯诺克球员锦标赛决赛：希金斯 vs 赵心童（第一阶段）",
-      "presenters": "",
+      "presenters": "柏林",
       "matchInfo": {
         "time": "02月22日21:00"
       },
       "nodes": [
+        {
+          "pID": "963203101",
+          "name": "柏林"
+        },
         {
           "pID": "963071261",
           "name": "1号桌"
