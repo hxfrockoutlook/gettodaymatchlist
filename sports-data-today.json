@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-02-23 09:01:12",
+  "updateTime": "2026-02-23 09:31:15",
   "data": [
     {
       "mgdbId": "120000542592",
@@ -536,14 +536,14 @@
     },
     {
       "mgdbId": "120000547366",
-      "pID": "963202101",
+      "pID": "963213988",
       "title": "NBA常规赛",
       "keyword": "02月23日07:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "第一资本体育馆",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/22/773UKFBBF9HS.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/23/773VGNTOTAJK.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "黄蜂VS奇才",
       "modifyTitle": "NBA常规赛",
@@ -552,6 +552,10 @@
         "time": "02月23日07:00"
       },
       "nodes": [
+        {
+          "pID": "963213988",
+          "name": "康神开了！克尼普尔再飙顶投三分轻松命中"
+        },
         {
           "pID": "963202101",
           "name": "刘圳展"
@@ -568,7 +572,7 @@
       "title": "G联赛",
       "keyword": "02月23日07:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "G联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/23/773VG3L8EQQC.jpg",
@@ -751,7 +755,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/23/773VGMK94MTH.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "第二比赛日热身区",
       "modifyTitle": "WTT新加坡大满贯：第二比赛日热身区",
@@ -879,7 +883,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "斯诺克",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/23/773VGNIP3QGT.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "雷佩凡、杰克·琼斯出战",
       "modifyTitle": "斯诺克威尔士公开赛 雷佩凡、杰克·琼斯出战",
@@ -987,6 +991,30 @@
         {
           "pID": "963203327",
           "name": "4号桌"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000568422",
+      "pID": "120000568422",
+      "title": "正播体育日报 中国队5金冬奥完美收官",
+      "keyword": "02月23日09:00",
+      "sportItemId": "",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "冬奥会",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/22/773UHJBJFP52.jpg",
+      "competitionLogo": "",
+      "pkInfoTitle": "正播体育日报 中国队5金冬奥完美收官",
+      "modifyTitle": "正播体育日报 中国队5金冬奥完美收官",
+      "presenters": "",
+      "matchInfo": {
+        "time": "02月23日09:00"
+      },
+      "nodes": [
+        {
+          "pID": "962856448",
+          "name": "咪咕体育日报"
         }
       ]
     }
