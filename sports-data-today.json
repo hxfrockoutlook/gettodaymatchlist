@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-02-23 21:01:19",
+  "updateTime": "2026-02-23 21:31:19",
   "data": [
     {
       "mgdbId": "120000542592",
@@ -840,7 +840,7 @@
     },
     {
       "mgdbId": "120000569156",
-      "pID": "963142827",
+      "pID": "963143329",
       "title": "孙颖莎迎首秀 黄友政/陈熠冲八强",
       "keyword": "02月23日18:00",
       "sportItemId": "7",
@@ -851,30 +851,18 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "孙颖莎迎首秀 黄友政/陈熠冲八强",
       "modifyTitle": "WTT新加坡大满贯：男女单打1/32决赛、双打1/16决赛、混双1/8决赛",
-      "presenters": "朱子恒 周冠达 程靖淇",
+      "presenters": "周冠达 程靖淇 朱子恒",
       "matchInfo": {
         "time": "02月23日18:00"
       },
       "nodes": [
         {
-          "pID": "963142827",
-          "name": "朱子恒"
-        },
-        {
           "pID": "963143329",
           "name": "周冠达 程靖淇"
         },
         {
-          "pID": "963143164",
-          "name": "热身馆"
-        },
-        {
           "pID": "963143338",
           "name": "1号桌"
-        },
-        {
-          "pID": "963143350",
-          "name": "2号桌"
         },
         {
           "pID": "963142789",
@@ -885,15 +873,27 @@
           "name": "英文解说"
         },
         {
+          "pID": "963143350",
+          "name": "2号桌"
+        },
+        {
           "pID": "963143362",
           "name": "3号桌"
+        },
+        {
+          "pID": "963143164",
+          "name": "热身馆"
+        },
+        {
+          "pID": "963142827",
+          "name": "朱子恒"
         }
       ]
     },
     {
       "mgdbId": "120000570148",
-      "pID": "963203251",
-      "title": "雷佩凡、杰克·琼斯出战",
+      "pID": "963203276",
+      "title": "雷佩凡出战、杰克琼斯晋级",
       "keyword": "02月23日18:00",
       "sportItemId": "8",
       "matchStatus": "1",
@@ -901,20 +901,24 @@
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/23/773VGNIP3QGT.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "雷佩凡、杰克·琼斯出战",
-      "modifyTitle": "斯诺克威尔士公开赛 雷佩凡、杰克·琼斯出战",
+      "pkInfoTitle": "雷佩凡出战、杰克琼斯晋级",
+      "modifyTitle": "斯诺克威尔士公开赛 雷佩凡、杰克琼斯出战",
       "presenters": "",
       "matchInfo": {
         "time": "02月23日18:00"
       },
       "nodes": [
         {
-          "pID": "963203251",
+          "pID": "963203276",
           "name": "2号桌"
         },
         {
           "pID": "963203238",
           "name": "1号桌"
+        },
+        {
+          "pID": "963203251",
+          "name": "2号桌"
         }
       ]
     },
@@ -993,12 +997,12 @@
       },
       "nodes": [
         {
-          "pID": "963203251",
-          "name": "2号桌"
-        },
-        {
           "pID": "963203265",
           "name": "1号桌"
+        },
+        {
+          "pID": "963203276",
+          "name": "2号桌"
         },
         {
           "pID": "963203317",
@@ -1007,10 +1011,6 @@
         {
           "pID": "963203327",
           "name": "4号桌"
-        },
-        {
-          "pID": "963203276",
-          "name": "2号桌"
         }
       ]
     }
