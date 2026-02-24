@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-02-24 23:01:06",
+  "updateTime": "2026-02-24 23:31:04",
   "data": [
     {
       "mgdbId": "120000543757",
@@ -360,7 +360,7 @@
     },
     {
       "mgdbId": "120000570165",
-      "pID": "963203506",
+      "pID": "963203554",
       "title": "梁王、鲍罗组合领衔出战",
       "keyword": "02月24日16:00",
       "sportItemId": "6",
@@ -377,6 +377,10 @@
       },
       "nodes": [
         {
+          "pID": "963203554",
+          "name": "4号场"
+        },
+        {
           "pID": "963203506",
           "name": "1号场"
         },
@@ -387,10 +391,6 @@
         {
           "pID": "963203546",
           "name": "3号场"
-        },
-        {
-          "pID": "963203554",
-          "name": "4号场"
         }
       ]
     },
@@ -608,22 +608,26 @@
     },
     {
       "mgdbId": "120000570152",
-      "pID": "963203434",
-      "title": "赵心童vs范争一 周跃龙张安达出战",
+      "pID": "963203449",
+      "title": "赵心童4-3范争一 张安达出战",
       "keyword": "02月24日21:00",
       "sportItemId": "8",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "斯诺克",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/24/7740DLIS6JUI.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/24/7740ECOO4RDD.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "赵心童vs范争一 周跃龙张安达出战",
-      "modifyTitle": "斯诺克威尔士公开赛第一轮：赵心童vs范争一 周跃龙张安达出战",
+      "pkInfoTitle": "赵心童4-3范争一 张安达出战",
+      "modifyTitle": "斯诺克威尔士公开赛第一轮：赵心童4-3范争一 周跃龙零封晋级",
       "presenters": "柏林",
       "matchInfo": {
         "time": "02月24日21:00"
       },
       "nodes": [
+        {
+          "pID": "963203449",
+          "name": "3号桌"
+        },
         {
           "pID": "963203434",
           "name": "1号桌"
@@ -631,10 +635,6 @@
         {
           "pID": "963203440",
           "name": "2号桌"
-        },
-        {
-          "pID": "963203449",
-          "name": "3号桌"
         },
         {
           "pID": "963203451",
