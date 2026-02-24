@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-02-24 22:31:05",
+  "updateTime": "2026-02-24 23:01:06",
   "data": [
     {
       "mgdbId": "120000543757",
@@ -403,7 +403,7 @@
       "matchStatus": "2",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/24/7740DJC3645P.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/24/7740E7D129GJ.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "王楚钦零封户上 王曼昱晋级16强",
       "modifyTitle": "WTT新加坡大满贯：男女单打1/16决赛、双打1/8决赛",
@@ -551,7 +551,7 @@
       "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBL",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000564254/202512171216_858107_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000564254/202602242247_312886_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/6/29/1000000010691064a6f5.png",
       "pkInfoTitle": "贵州猛龙 VS 张家口体文旅",
       "modifyTitle": "NBL常规赛",
@@ -576,11 +576,11 @@
     },
     {
       "mgdbId": "120000564172",
-      "pID": "963154432",
+      "pID": "963252546",
       "title": "NBL常规赛",
       "keyword": "02月24日20:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBL",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/24/7740BQ5NND92.png",
@@ -593,6 +593,10 @@
       },
       "nodes": [
         {
+          "pID": "963252546",
+          "name": "2026赛季NBL全国男子篮球联赛常规赛第17轮全场集锦：石香港金牛vs合肥狂风"
+        },
+        {
           "pID": "963154432",
           "name": "解说"
         },
@@ -604,7 +608,7 @@
     },
     {
       "mgdbId": "120000570152",
-      "pID": "963243770",
+      "pID": "963203434",
       "title": "赵心童vs范争一 周跃龙张安达出战",
       "keyword": "02月24日21:00",
       "sportItemId": "8",
@@ -621,10 +625,6 @@
       },
       "nodes": [
         {
-          "pID": "963243770",
-          "name": "柏林"
-        },
-        {
           "pID": "963203434",
           "name": "1号桌"
         },
@@ -639,6 +639,10 @@
         {
           "pID": "963203451",
           "name": "4号桌"
+        },
+        {
+          "pID": "963243770",
+          "name": "解说柏林"
         }
       ]
     }
