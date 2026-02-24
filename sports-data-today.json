@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-02-24 13:01:03",
+  "updateTime": "2026-02-24 13:30:57",
   "data": [
     {
       "mgdbId": "120000543757",
@@ -252,11 +252,11 @@
     },
     {
       "mgdbId": "120000547374",
-      "pID": "963201882",
+      "pID": "963236303",
       "title": "NBA常规赛",
       "keyword": "02月24日10:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "丰田中心球馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/24/7740EQF1K3LB.png",
@@ -268,6 +268,10 @@
         "time": "02月24日10:30"
       },
       "nodes": [
+        {
+          "pID": "963236303",
+          "name": "小贾钉板大帽科迪威！奥科吉飞身上篮打停爵士"
+        },
         {
           "pID": "963201882",
           "name": "孙博 闫宇峰 拜月宁"
@@ -287,7 +291,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/23/773VHB7OM94J.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/24/7740BFKJSRLI.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "第三比赛日热身区",
       "modifyTitle": "WTT新加坡大满贯：第三比赛日热身区",
@@ -311,7 +315,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/24/7740EOGO35M0.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/24/7740BG0I9KHL.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "林诗栋争晋级 周启豪迎战科顿",
       "modifyTitle": "WTT新加坡大满贯：男女单打1/16决赛、双打1/8决赛",
@@ -329,16 +333,20 @@
           "name": "周冠达"
         },
         {
-          "pID": "963142893",
-          "name": "1号桌"
-        },
-        {
           "pID": "963142872",
           "name": "热身馆"
         },
         {
+          "pID": "963142893",
+          "name": "1号桌"
+        },
+        {
           "pID": "963142895",
           "name": "2号桌"
+        },
+        {
+          "pID": "963142937",
+          "name": "英文解说"
         },
         {
           "pID": "963142923",
@@ -347,10 +355,6 @@
         {
           "pID": "963142911",
           "name": "3号桌"
-        },
-        {
-          "pID": "963142937",
-          "name": "英文解说"
         }
       ]
     },
