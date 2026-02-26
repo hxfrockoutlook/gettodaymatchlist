@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-02-27 03:01:26",
+  "updateTime": "2026-02-27 03:31:24",
   "data": [
     {
       "mgdbId": "120000563082",
@@ -60,14 +60,14 @@
     },
     {
       "mgdbId": "120000570158",
-      "pID": "963203662",
+      "pID": "963203670",
       "title": "张安达PK希金斯 赵心童迎战宾汉姆",
       "keyword": "02月27日03:00",
       "sportItemId": "8",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "斯诺克",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/26/77428KDKDL4R.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/27/77433CAGIBBR.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "张安达PK希金斯 赵心童迎战宾汉姆",
       "modifyTitle": "斯诺克威尔士公开赛第三轮：张安达PK希金斯 赵心童迎战宾汉姆",
@@ -241,7 +241,7 @@
     {
       "mgdbId": "120000562990",
       "pID": "963281550",
-      "title": "男篮世预赛美���赛区",
+      "title": "男篮世预赛美洲赛���",
       "keyword": "02月27日07:10",
       "sportItemId": "2",
       "matchStatus": "0",
@@ -591,50 +591,6 @@
       ]
     },
     {
-      "mgdbId": "120000570406",
-      "pID": "963159110",
-      "title": "WTA梅里达站女单第二轮：张帅 vs 纳瓦罗",
-      "keyword": "02月27日09:30",
-      "sportItemId": "9",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "WTA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/26/77425Q5T5L9U.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "张帅 vs 纳瓦罗",
-      "modifyTitle": "WTA梅里达站女单第二轮：张帅 vs 纳瓦罗",
-      "presenters": "胡力涛",
-      "matchInfo": {
-        "time": "02月27日09:30"
-      },
-      "nodes": [
-        {
-          "pID": "963159110",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "963279447",
-          "name": "张帅vs纳瓦罗(胡力涛)"
-        },
-        {
-          "pID": "963159127",
-          "name": "英文原声"
-        },
-        {
-          "url": "http://140.240.151.194:3010/963159110",
-          "name": "赛场原声"
-        },
-        {
-          "url": "http://140.240.151.194:3010/963279447",
-          "name": "张帅vs纳瓦罗(胡力涛)"
-        },
-        {
-          "url": "http://140.240.151.194:3010/963159127",
-          "name": "英文原声"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000547399",
       "pID": "963203136",
       "title": "NBA常规赛",
@@ -922,7 +878,7 @@
         },
         {
           "url": "http://140.240.151.194:3010/963142812",
-          "name": "现场视角"
+          "name": "现���视角"
         }
       ]
     },
@@ -1159,6 +1115,38 @@
         {
           "url": "http://140.240.151.194:3010/963203642",
           "name": "3号场"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000570406",
+      "pID": "120000570406",
+      "title": "张帅 vs 纳瓦罗",
+      "keyword": "02月27日09:30",
+      "sportItemId": "",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "WTA",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/07/08/11005/25eab3e85d48452f9f639282bebcebd1/25eab3e85d48452f9f639282bebcebd1_H169_P1080_WEBP.webp",
+      "competitionLogo": "",
+      "pkInfoTitle": "张帅 vs 纳瓦罗",
+      "modifyTitle": "张帅 vs 纳瓦罗",
+      "presenters": "",
+      "matchInfo": {
+        "time": "02月27日09:30"
+      },
+      "nodes": [
+        {
+          "url": "http://140.240.151.194:3010/963159110",
+          "name": "赛场原声"
+        },
+        {
+          "url": "http://140.240.151.194:3010/963279447",
+          "name": "张帅vs纳瓦罗(胡力涛)"
+        },
+        {
+          "url": "http://140.240.151.194:3010/963159127",
+          "name": "英文原声"
         }
       ]
     }
