@@ -458,6 +458,25 @@ async function getMatchNodes(mgdbId) {
   return nodes;
 }
 
+/**
+ * 标准化队伍字符串：忽略顺序，支持 VS 分隔（不区分大小写）
+ * 例如 "热火VS76人" 和 "76人VS热火" 均返回 "76人热火"
+ */
+function normalizeTeamString(str) {
+  if (!str) return '';
+  const trimmed = str.replace(/\s+/g, ''); // 先去除所有空格
+  // 匹配 VS（不区分大小写），捕获 VS 前后的内容
+  const vsMatch = trimmed.match(/^(.*?)(vs)(.*)$/i);
+  if (vsMatch) {
+    const team1 = vsMatch[1];
+    const team2 = vsMatch[3];
+    // 对两个队伍名称排序，然后拼接
+    const parts = [team1, team2].sort();
+    return parts.join('').toLowerCase();
+  }
+  return trimmed.toLowerCase();
+}
+
 async function fetchAndProcessData() {
   try {
     console.log('开始获取赛事数据...');
@@ -575,7 +594,7 @@ async function fetchAndProcessData() {
 
         // 匹配 M3U 数据并合并节点======================
         // 匹配 M3U 数据并合并节点（改进：tvg-id 去空格忽略大小写、时间允许多值匹配）
-        const normalizedPkInfoTitle = (match.pkInfoTitle || '').replace(/\s+/g, '').toLowerCase(); // 去空格并转小写
+        const normalizedPkInfoTitle = normalizeTeamString(match.pkInfoTitle);
         const matchCompetitionName = (match.competitionName || '').toLowerCase();
         const matchTimeStr = match.keyword ? match.keyword.slice(-5) : ''; // 取最后5位 HH:MM
         
@@ -587,8 +606,8 @@ async function fetchAndProcessData() {
         
         // 遍历聚合 Map 寻找匹配项
         for (const [normId, aggItem] of m3uAggregateMap.entries()) {
-          // 比较 tvg-id（去空格忽略大小写）
-          if (normId.toLowerCase() !== normalizedPkInfoTitle) continue;
+          // 比较 tvg-id（标准化处理，支持顺序无关）
+          if (normalizeTeamString(normId) !== normalizedPkInfoTitle) continue;
           
           // 比较 competitionName（忽略大小写）
           if (aggItem.competitionName.toLowerCase() !== matchCompetitionName) continue;
