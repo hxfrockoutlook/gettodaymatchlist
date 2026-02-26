@@ -568,23 +568,36 @@ async function fetchAndProcessData() {
         nodes: nodes
       };
 
-      // 匹配 M3U 数据并合并节点======================
-        const normalizedPkInfoTitle = (match.pkInfoTitle || '').replace(/\s+/g, '');
+        // 匹配 M3U 数据并合并节点======================
+        const normalizedPkInfoTitle = (match.pkInfoTitle || '').replace(/\s+/g, '').toLowerCase(); // 去空格并转小写
         const matchCompetitionName = (match.competitionName || '').toLowerCase();
-        const matchTime = match.keyword ? match.keyword.slice(-5) : ''; // 取最后5位 HH:MM
+        const matchTimeStr = match.keyword ? match.keyword.slice(-5) : ''; // 取最后5位 HH:MM
+        
+        // 将 matchTimeStr 转换为分钟数（如果格式正确）
+        let matchMinutes = null;
+        if (/^\d{2}:\d{2}$/.test(matchTimeStr)) {
+          matchMinutes = parseInt(matchTimeStr.slice(0,2)) * 60 + parseInt(matchTimeStr.slice(3,5));
+        }
         
         // 遍历聚合 Map 寻找匹配项
         for (const [normId, aggItem] of m3uAggregateMap.entries()) {
-          if (normId === normalizedPkInfoTitle &&
-              aggItem.competitionName.toLowerCase() === matchCompetitionName &&
-              aggItem.time === matchTime) {
-            // 匹配成功，将 M3U 中的节点追加到现有 nodes 中（注意字段不同）
-            mergedMatch.nodes.push(...aggItem.nodes.map(node => ({ url: node.url, name: node.name })));
-            console.log(`比赛 ${match.mgdbId} 匹配到 M3U 数据，追加 ${aggItem.nodes.length} 个节点`);
-            break; // 一个比赛只匹配一个 tvg-id
-          }
+          // 比较 tvg-id（忽略大小写）
+          if (normId.toLowerCase() !== normalizedPkInfoTitle) continue;
+          
+          // 比较 competitionName（忽略大小写）
+          if (aggItem.competitionName.toLowerCase() !== matchCompetitionName) continue;
+          
+          // 比较时间（允许±30分钟）
+          const aggMinutes = parseInt(aggItem.time.slice(0,2)) * 60 + parseInt(aggItem.time.slice(3,5));
+          if (matchMinutes === null) continue;
+          if (Math.abs(aggMinutes - matchMinutes) > 30) continue;
+          
+          // 三项匹配成功，追加节点
+          mergedMatch.nodes.push(...aggItem.nodes.map(node => ({ url: node.url, name: node.name })));
+          console.log(`比赛 ${match.mgdbId} 匹配到 M3U 数据，追加 ${aggItem.nodes.length} 个节点`);
+          break; // 一个比赛只匹配一个 tvg-id
         }
-      // =============================================
+        // =============================================
       
       result.push(mergedMatch);
       
