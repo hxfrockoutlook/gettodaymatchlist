@@ -313,6 +313,86 @@ async function fetchWithRetry(url, options, maxRetries = 2) {
   }
 }
 
+/**
+ * 从 M3U 地址获取数据，聚合体育相关条目（昨天、今天、明天）
+ * 返回 Map，键为去除空格后的 tvg-id，值为聚合对象
+ */
+async function fetchM3UAndAggregate() {
+  const aggregateMap = new Map();
+  try {
+    console.log('开始获取 M3U 数据...');
+    const response = await fetchWithRetry('http://140.240.151.194:3010/');
+    const m3uContent = response.data;
+    const lines = m3uContent.split('\n');
+    
+    for (let i = 0; i < lines.length; i++) {
+      const line = lines[i].trim();
+      if (!line.startsWith('#EXTINF:')) continue;
+      
+      // 解析 EXTINF 行属性
+      const tvgIdMatch = line.match(/tvg-id="([^"]*)"/);
+      const tvgNameMatch = line.match(/tvg-name="([^"]*)"/);
+      const groupTitleMatch = line.match(/group-title="([^"]*)"/);
+      
+      if (!tvgIdMatch || !tvgNameMatch || !groupTitleMatch) continue;
+      
+      const tvgId = tvgIdMatch[1];
+      const tvgName = tvgNameMatch[1];
+      const groupTitle = groupTitleMatch[1];
+      
+      // 只保留体育-昨天、今天、明天
+      if (!groupTitle.startsWith('体育-')) continue;
+      const suffix = groupTitle.substring(3);
+      if (!['昨天', '今天', '明天'].includes(suffix)) continue;
+      
+      // 获取下一行的 URL
+      let j = i + 1;
+      while (j < lines.length && lines[j].trim() === '') j++;
+      if (j >= lines.length) break;
+      const url = lines[j].trim();
+      i = j; // 下次循环从 URL 之后开始
+      
+      // 提取 competitionName（第一个空格前的内容）
+      const firstSpaceIdx = tvgName.indexOf(' ');
+      if (firstSpaceIdx === -1) continue; // 格式异常，跳过
+      const competitionName = tvgName.substring(0, firstSpaceIdx);
+      
+      // 提取 time（最后一个空格后的 HH:MM）
+      const lastSpaceIdx = tvgName.lastIndexOf(' ');
+      if (lastSpaceIdx === -1) continue;
+      const possibleTime = tvgName.substring(lastSpaceIdx + 1).trim();
+      if (!/^\d{2}:\d{2}$/.test(possibleTime)) continue; // 不是时间格式，跳过
+      const time = possibleTime;
+      
+      // 提取中间部分（去掉 competitionName 和 time）
+      let middlePart = tvgName.substring(firstSpaceIdx + 1, lastSpaceIdx).trim();
+      
+      // 从中间部分移除 tvg-id 得到 name
+      // 转义 tvgId 中的正则特殊字符
+      const escapedTvgId = tvgId.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+      const name = middlePart.replace(new RegExp(escapedTvgId, 'g'), '').trim();
+      
+      // 用于匹配的键：去除所有空格的 tvg-id
+      const normalizedTvgId = tvgId.replace(/\s+/g, '');
+      
+      if (!aggregateMap.has(normalizedTvgId)) {
+        aggregateMap.set(normalizedTvgId, {
+          tvgId: tvgId,
+          normalizedTvgId: normalizedTvgId,
+          competitionName: competitionName,
+          time: time,
+          nodes: []
+        });
+      }
+      aggregateMap.get(normalizedTvgId).nodes.push({ name, url });
+    }
+    console.log(`M3U 数据聚合完成，共 ${aggregateMap.size} 个唯一 tvg-id`);
+  } catch (error) {
+    console.warn('获取或解析 M3U 数据失败:', error.message);
+  }
+  return aggregateMap;
+}
+
 async function getMatchNodes(mgdbId) {
   const seenNodes = new Set();
   const nodes = [];
@@ -365,6 +445,9 @@ async function getMatchNodes(mgdbId) {
 async function fetchAndProcessData() {
   try {
     console.log('开始获取赛事数据...');
+
+    // 获取并聚合 M3U 体育数据
+    const m3uAggregateMap = await fetchM3UAndAggregate();
     
     // 第一步：获取三个数据源的数据
     const allMatches = [];
@@ -473,6 +556,24 @@ async function fetchAndProcessData() {
         matchInfo: { time: formatChineseDateTime(match.keyword) },
         nodes: nodes
       };
+
+      // 匹配 M3U 数据并合并节点======================
+        const normalizedPkInfoTitle = (match.pkInfoTitle || '').replace(/\s+/g, '');
+        const matchCompetitionName = (match.competitionName || '').toLowerCase();
+        const matchTime = match.keyword ? match.keyword.slice(-5) : ''; // 取最后5位 HH:MM
+        
+        // 遍历聚合 Map 寻找匹配项
+        for (const [normId, aggItem] of m3uAggregateMap.entries()) {
+          if (normId === normalizedPkInfoTitle &&
+              aggItem.competitionName.toLowerCase() === matchCompetitionName &&
+              aggItem.time === matchTime) {
+            // 匹配成功，将 M3U 中的节点追加到现有 nodes 中（注意字段不同）
+            mergedMatch.nodes.push(...aggItem.nodes.map(node => ({ url: node.url, name: node.name })));
+            console.log(`比赛 ${match.mgdbId} 匹配到 M3U 数据，追加 ${aggItem.nodes.length} 个节点`);
+            break; // 一个比赛只匹配一个 tvg-id
+          }
+        }
+      // =============================================
       
       result.push(mergedMatch);
       
