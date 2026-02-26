@@ -1,5 +1,6 @@
 const fs = require('fs');
 const https = require('https');
+const http = require('http'); 
 
 // 获取上海时间
 function getShanghaiTime() {
@@ -277,11 +278,21 @@ async function fetchFromURL(url) {
   });
 }
 
+// 修改后的 fetchWithRetry：支持 HTTP 和 HTTPS
 async function fetchWithRetry(url, options, maxRetries = 2) {
   for (let attempt = 1; attempt <= maxRetries; attempt++) {
     try {
       return await new Promise((resolve, reject) => {
-        const req = https.get(url, options, (res) => {
+        let client;
+        try {
+          const urlObj = new URL(url);
+          client = urlObj.protocol === 'https:' ? https : http;
+        } catch (e) {
+          reject(new Error('Invalid URL'));
+          return;
+        }
+        
+        const req = client.get(url, options, (res) => {
           let data = '';
           
           res.on('data', (chunk) => {
