@@ -326,7 +326,7 @@ async function fetchWithRetry(url, options, maxRetries = 2) {
 
 /**
  * 从 M3U 地址获取数据，聚合体育相关条目（昨天、今天、明天）
- * 返回 Map，键为去除空格后的 tvg-id，值为聚合对象
+ * 返回 Map，键为去除空格后的 tvg-id，值为聚合对象，包含 times 数组
  */
 async function fetchM3UAndAggregate() {
   const aggregateMap = new Map();
@@ -387,15 +387,20 @@ async function fetchM3UAndAggregate() {
       const normalizedTvgId = tvgId.replace(/\s+/g, '');
       
       if (!aggregateMap.has(normalizedTvgId)) {
+        // 首次遇到该 tvg-id，初始化 times 数组和 nodes 数组
         aggregateMap.set(normalizedTvgId, {
           tvgId: tvgId,
           normalizedTvgId: normalizedTvgId,
           competitionName: competitionName,
-          time: time,
-          nodes: []
+          times: [time],          // 改为数组，存储所有时间
+          nodes: [{ name, url }]
         });
+      } else {
+        // 已存在，追加时间（可能重复，但匹配时会遍历）
+        const entry = aggregateMap.get(normalizedTvgId);
+        entry.times.push(time);
+        entry.nodes.push({ name, url });
       }
-      aggregateMap.get(normalizedTvgId).nodes.push({ name, url });
     }
     console.log(`M3U 数据聚合完成，共 ${aggregateMap.size} 个唯一 tvg-id`);
   } catch (error) {
@@ -569,6 +574,7 @@ async function fetchAndProcessData() {
       };
 
         // 匹配 M3U 数据并合并节点======================
+        // 匹配 M3U 数据并合并节点（改进：tvg-id 去空格忽略大小写、时间允许多值匹配）
         const normalizedPkInfoTitle = (match.pkInfoTitle || '').replace(/\s+/g, '').toLowerCase(); // 去空格并转小写
         const matchCompetitionName = (match.competitionName || '').toLowerCase();
         const matchTimeStr = match.keyword ? match.keyword.slice(-5) : ''; // 取最后5位 HH:MM
@@ -581,16 +587,23 @@ async function fetchAndProcessData() {
         
         // 遍历聚合 Map 寻找匹配项
         for (const [normId, aggItem] of m3uAggregateMap.entries()) {
-          // 比较 tvg-id（忽略大小写）
+          // 比较 tvg-id（去空格忽略大小写）
           if (normId.toLowerCase() !== normalizedPkInfoTitle) continue;
           
           // 比较 competitionName（忽略大小写）
           if (aggItem.competitionName.toLowerCase() !== matchCompetitionName) continue;
           
-          // 比较时间（允许±30分钟）
-          const aggMinutes = parseInt(aggItem.time.slice(0,2)) * 60 + parseInt(aggItem.time.slice(3,5));
+          // 比较时间：检查 aggItem.times 中是否存在与 matchMinutes 相差 ≤30 分钟的时间
           if (matchMinutes === null) continue;
-          if (Math.abs(aggMinutes - matchMinutes) > 30) continue;
+          let timeMatched = false;
+          for (const t of aggItem.times) {
+            const aggMinutes = parseInt(t.slice(0,2)) * 60 + parseInt(t.slice(3,5));
+            if (Math.abs(aggMinutes - matchMinutes) <= 30) {
+              timeMatched = true;
+              break;
+            }
+          }
+          if (!timeMatched) continue;
           
           // 三项匹配成功，追加节点
           mergedMatch.nodes.push(...aggItem.nodes.map(node => ({ url: node.url, name: node.name })));
