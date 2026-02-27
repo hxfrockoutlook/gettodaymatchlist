@@ -332,7 +332,7 @@ async function fetchM3UAndAggregate() {
   const aggregateMap = new Map();
   try {
     console.log('开始获取 M3U 数据...');
-    const response = await fetchWithRetry('http://140.240.151.194:3010/');
+    const response = await fetchWithRetry('http://1.199.194.152:5555/');
     const m3uContent = response.data;
     const lines = m3uContent.split('\n');
     
