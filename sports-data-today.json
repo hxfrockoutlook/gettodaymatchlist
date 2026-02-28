@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-02-28 09:01:46",
+  "updateTime": "2026-02-28 09:31:44",
   "data": [
     {
       "mgdbId": "120000563051",
@@ -821,7 +821,7 @@
     {
       "mgdbId": "120000569937",
       "pID": "963159155",
-      "title": "森梅兹出战 保利尼冲四强",
+      "title": "张帅、保利尼冲四强",
       "keyword": "02月28日04:00",
       "sportItemId": "9",
       "matchStatus": "1",
@@ -829,13 +829,17 @@
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/27/77433LI7F58M.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "森梅兹出战 保利尼冲四强",
-      "modifyTitle": "WTA梅里达站女单1/4决赛：森梅兹出战 保利尼冲四强",
+      "pkInfoTitle": "张帅、保利尼冲四强",
+      "modifyTitle": "WTA梅里达站女单1/4决赛：张帅、保利尼冲四强",
       "presenters": "胡力涛",
       "matchInfo": {
         "time": "02月28日04:00"
       },
       "nodes": [
+        {
+          "pID": "963303882",
+          "name": "胡力涛"
+        },
         {
           "pID": "963159155",
           "name": "赛场原声"
@@ -843,10 +847,6 @@
         {
           "pID": "963159165",
           "name": "英文原声"
-        },
-        {
-          "pID": "963303882",
-          "name": "胡力涛"
         }
       ]
     },
@@ -888,7 +888,7 @@
       "title": "男篮世预赛美洲赛区",
       "keyword": "02月28日07:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Coliseo Antonio Azurmendi",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000563002/202511261116_309715_H169_1080.webp",
@@ -1086,9 +1086,9 @@
       "mgdbId": "120000570471",
       "pID": "963159155",
       "title": "WTA梅里达站女单1/4决赛：卡辛塞娃 vs 张帅",
-      "keyword": "02月28日09:10",
+      "keyword": "02月28日09:15",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/27/77433M04RFAJ.jpg",
@@ -1097,7 +1097,7 @@
       "modifyTitle": "WTA梅里达站女单1/4决赛：卡辛塞娃 vs 张帅",
       "presenters": "胡力涛",
       "matchInfo": {
-        "time": "02月28日09:10"
+        "time": "02月28日09:15"
       },
       "nodes": [
         {
@@ -1120,7 +1120,7 @@
       "title": "NBA常规赛",
       "keyword": "02月28日09:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "美国航线中心体育馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/27/77433701F4Q0.jpg",
@@ -1143,10 +1143,6 @@
         {
           "url": "http://1.199.194.152:5555/963203005",
           "name": "吴博文"
-        },
-        {
-          "url": "http://1.199.194.152:5555/963202973",
-          "name": "英文原声"
         }
       ]
     },
@@ -1154,7 +1150,7 @@
       "mgdbId": "120000570472",
       "pID": "963234796",
       "title": "WTA奥斯汀站女单1/4决赛：袁悦 vs 克鲁格",
-      "keyword": "02月28日09:30",
+      "keyword": "02月28日09:45",
       "sportItemId": "9",
       "matchStatus": "0",
       "matchField": "",
@@ -1165,7 +1161,7 @@
       "modifyTitle": "WTA奥斯汀站女单1/4决赛：袁悦 vs 克鲁格",
       "presenters": "单文强",
       "matchInfo": {
-        "time": "02月28日09:30"
+        "time": "02月28日09:45"
       },
       "nodes": [
         {
