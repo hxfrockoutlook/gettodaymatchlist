@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-02-28 19:02:01",
+  "updateTime": "2026-02-28 19:31:49",
   "data": [
     {
       "mgdbId": "120000563051",
@@ -1535,7 +1535,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "队内德比！王祉怡、星驰组合出战",
       "modifyTitle": "德国羽毛球公开赛Day5：冲决赛！国羽王祉怡、星驰组合出战",
-      "presenters": "鸿昆 孙宁智",
+      "presenters": "鸿昆",
       "matchInfo": {
         "time": "02月28日19:00"
       },
@@ -1545,16 +1545,32 @@
           "name": "程星/张驰VS杨博轩/胡绫芳"
         },
         {
-          "pID": "963320951",
-          "name": "韩千禧VS韩悦"
-        },
-        {
           "pID": "963203647",
           "name": "1号场"
-        },
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000570484",
+      "pID": "963316042",
+      "title": "上海光明优倍vs天津渤海银行",
+      "keyword": "02月28日19:00",
+      "sportItemId": "3",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "女排联赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/28/77442L7CH6S0.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/11/17/10000000024710679a9b.png",
+      "pkInfoTitle": "上海光明优倍vs天津渤海银行",
+      "modifyTitle": "2025/2026赛季中国排球超级联赛-女子季后赛：上海vs天津",
+      "presenters": "",
+      "matchInfo": {
+        "time": "02月28日19:00"
+      },
+      "nodes": [
         {
-          "pID": "963203654",
-          "name": "2号场"
+          "pID": "963316042",
+          "name": "CCTV5+"
         }
       ]
     },
@@ -1564,7 +1580,7 @@
       "title": "NBL常规赛",
       "keyword": "02月28日19:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBL",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000564131/202512171147_303882_H169_1080.webp",
@@ -2073,25 +2089,6 @@
           "name": "赛场原声"
         }
       ]
-    },
-    {
-      "mgdbId": "120000570484",
-      "pID": "120000570484",
-      "title": "上海光明优倍vs天津渤海银行",
-      "keyword": "02月28日19:00",
-      "sportItemId": "",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "女排联赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/28/77442L7CH6S0.jpg",
-      "competitionLogo": "",
-      "pkInfoTitle": "上海光明优倍vs天津渤海银行",
-      "modifyTitle": "上海光明优倍vs天津渤海银行",
-      "presenters": "",
-      "matchInfo": {
-        "time": "02月28日19:00"
-      },
-      "nodes": []
     }
   ]
 }
