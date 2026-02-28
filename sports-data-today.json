@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-02-28 08:31:54",
+  "updateTime": "2026-02-28 09:01:46",
   "data": [
     {
       "mgdbId": "120000563051",
@@ -449,7 +449,7 @@
     {
       "mgdbId": "120000570160",
       "pID": "963203685",
-      "title": "吴宜泽四连鞭逆转江俊 希金斯零封周跃龙",
+      "title": "吴宜泽四连鞭逆转 希金斯零封周跃龙",
       "keyword": "02月28日03:00",
       "sportItemId": "8",
       "matchStatus": "2",
@@ -457,7 +457,7 @@
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/27/77435660J36D.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "吴宜泽四连鞭逆转江俊 希金斯零封周跃龙",
+      "pkInfoTitle": "吴宜泽四连鞭逆转 希金斯零封周跃龙",
       "modifyTitle": "斯诺克威尔士公开赛1/4决赛：周跃龙0-5希金斯 吴宜泽5-4江俊",
       "presenters": "朱蒙",
       "matchInfo": {
@@ -1024,7 +1024,7 @@
       "title": "NBA常规赛",
       "keyword": "02月28日09:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "费哲论坛球馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/27/774336IEC8OF.jpg",
@@ -1055,44 +1055,12 @@
       ]
     },
     {
-      "mgdbId": "120000570471",
-      "pID": "963159155",
-      "title": "WTA梅里达站女单1/4决赛：卡辛塞娃 vs 张帅",
-      "keyword": "02月28日09:00",
-      "sportItemId": "9",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "WTA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/27/77433M04RFAJ.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "卡辛塞娃 vs 张帅",
-      "modifyTitle": "WTA梅里达站女单1/4决赛：卡辛塞娃 vs 张帅",
-      "presenters": "胡力涛",
-      "matchInfo": {
-        "time": "02月28日09:00"
-      },
-      "nodes": [
-        {
-          "pID": "963303882",
-          "name": "胡力涛"
-        },
-        {
-          "pID": "963159155",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "963159165",
-          "name": "英文原声"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000563014",
       "pID": "963281664",
       "title": "男篮世预赛美洲赛区",
       "keyword": "02月28日09:10",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "Arena Roberto Durán",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000563014/202511261116_909991_H169_1080.webp",
@@ -1111,6 +1079,38 @@
         {
           "url": "http://1.199.194.152:5555/963281664",
           "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000570471",
+      "pID": "963159155",
+      "title": "WTA梅里达站女单1/4决赛：卡辛塞娃 vs 张帅",
+      "keyword": "02月28日09:10",
+      "sportItemId": "9",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "WTA",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/27/77433M04RFAJ.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
+      "pkInfoTitle": "卡辛塞娃 vs 张帅",
+      "modifyTitle": "WTA梅里达站女单1/4决赛：卡辛塞娃 vs 张帅",
+      "presenters": "胡力涛",
+      "matchInfo": {
+        "time": "02月28日09:10"
+      },
+      "nodes": [
+        {
+          "pID": "963303882",
+          "name": "胡力涛"
+        },
+        {
+          "pID": "963159155",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "963159165",
+          "name": "英文原声"
         }
       ]
     },
@@ -1595,7 +1595,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "斯诺克",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/28/774420NKPIT0.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "吴宜泽迎战霍金斯",
       "modifyTitle": "斯诺克威尔士公开赛半决赛：吴宜泽迎战霍金斯",
