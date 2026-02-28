@@ -477,6 +477,16 @@ function normalizeTeamString(str) {
   return trimmed.toLowerCase();
 }
 
+// 计算两个 HH:MM 时间在 24 小时内的最小分钟差
+function timeDiffInMinutes(t1, t2) {
+  const [h1, m1] = t1.split(':').map(Number);
+  const [h2, m2] = t2.split(':').map(Number);
+  const mins1 = h1 * 60 + m1;
+  const mins2 = h2 * 60 + m2;
+  const diff = Math.abs(mins1 - mins2);
+  return Math.min(diff, 24 * 60 - diff);
+}
+
 async function fetchAndProcessData() {
   try {
     console.log('开始获取赛事数据...');
@@ -593,16 +603,10 @@ async function fetchAndProcessData() {
       };
 
         // 匹配 M3U 数据并合并节点======================
-        // 匹配 M3U 数据并合并节点（改进：tvg-id 去空格忽略大小写、时间允许多值匹配）
+        // 匹配 M3U 数据并合并节点（改进：tvg-id 去空格忽略大小写、时间允许多值匹配、支持跨午夜）
         const normalizedPkInfoTitle = normalizeTeamString(match.pkInfoTitle);
         const matchCompetitionName = (match.competitionName || '').toLowerCase();
         const matchTimeStr = match.keyword ? match.keyword.slice(-5) : ''; // 取最后5位 HH:MM
-        
-        // 将 matchTimeStr 转换为分钟数（如果格式正确）
-        let matchMinutes = null;
-        if (/^\d{2}:\d{2}$/.test(matchTimeStr)) {
-          matchMinutes = parseInt(matchTimeStr.slice(0,2)) * 60 + parseInt(matchTimeStr.slice(3,5));
-        }
         
         // 遍历聚合 Map 寻找匹配项
         for (const [normId, aggItem] of m3uAggregateMap.entries()) {
@@ -612,12 +616,10 @@ async function fetchAndProcessData() {
           // 比较 competitionName（忽略大小写）
           if (aggItem.competitionName.toLowerCase() !== matchCompetitionName) continue;
           
-          // 比较时间：检查 aggItem.times 中是否存在与 matchMinutes 相差 ≤30 分钟的时间
-          if (matchMinutes === null) continue;
+          // 比较时间：检查 aggItem.times 中是否存在与 matchTimeStr 相差 ≤30 分钟的时间（考虑跨午夜）
           let timeMatched = false;
           for (const t of aggItem.times) {
-            const aggMinutes = parseInt(t.slice(0,2)) * 60 + parseInt(t.slice(3,5));
-            if (Math.abs(aggMinutes - matchMinutes) <= 30) {
+            if (timeDiffInMinutes(t, matchTimeStr) <= 30) {
               timeMatched = true;
               break;
             }
