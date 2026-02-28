@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-02-28 07:31:47",
+  "updateTime": "2026-02-28 08:01:59",
   "data": [
     {
       "mgdbId": "120000563051",
@@ -481,7 +481,7 @@
     {
       "mgdbId": "120000570232",
       "pID": "963234796",
-      "title": "比勒尔、汤森德晋级 斯特恩斯出战",
+      "title": "汤森德晋级 斯特恩斯出战",
       "keyword": "02月28日03:00",
       "sportItemId": "9",
       "matchStatus": "1",
@@ -489,8 +489,8 @@
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/28/77441LNQEA45.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "比勒尔、汤森德晋级 斯特恩斯出战",
-      "modifyTitle": "WTA奥斯汀站女单1/4决赛：比勒尔、汤森德晋级 斯特恩斯出战",
+      "pkInfoTitle": "汤森德晋级 斯特恩斯出战",
+      "modifyTitle": "WTA奥斯汀站女单1/4决赛：汤森德晋级 斯特恩斯出战",
       "presenters": "单文强",
       "matchInfo": {
         "time": "02月28日03:00"
@@ -821,7 +821,7 @@
     {
       "mgdbId": "120000569937",
       "pID": "963159155",
-      "title": "森美兹出战 保利尼冲四强",
+      "title": "森梅兹出战 保利尼冲四强",
       "keyword": "02月28日04:00",
       "sportItemId": "9",
       "matchStatus": "1",
@@ -829,8 +829,8 @@
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/27/77433LI7F58M.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "森美兹出战 保利尼冲四强",
-      "modifyTitle": "WTA梅里达站女单1/4决赛：森美兹出战 保利尼冲四强",
+      "pkInfoTitle": "森梅兹出战 保利尼冲四强",
+      "modifyTitle": "WTA梅里达站女单1/4决赛：森梅兹出战 保利尼冲四强",
       "presenters": "胡力涛",
       "matchInfo": {
         "time": "02月28日04:00"
@@ -912,7 +912,7 @@
       "title": "NBA常规赛",
       "keyword": "02月28日08:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "小凯撒球馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/27/77433667T8UB.jpg",
@@ -1539,6 +1539,10 @@
         {
           "url": "http://1.199.194.152:5555/963283905",
           "name": "赛场原声"
+        },
+        {
+          "url": "http://1.199.194.152:5555/963283926",
+          "name": "英文原声"
         }
       ]
     },
@@ -1581,7 +1585,7 @@
     {
       "mgdbId": "120000570161",
       "pID": "963203697",
-      "title": "半决赛",
+      "title": "吴宜泽迎战霍金斯",
       "keyword": "02月28日21:00",
       "sportItemId": "8",
       "matchStatus": "0",
@@ -1589,7 +1593,7 @@
       "competitionName": "斯诺克",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "半决赛",
+      "pkInfoTitle": "吴宜泽迎战霍金斯",
       "modifyTitle": "斯诺克威尔士公开赛半决赛",
       "presenters": "柏林",
       "matchInfo": {
@@ -1597,23 +1601,11 @@
       },
       "nodes": [
         {
-          "pID": "963203697",
-          "name": "1号桌"
-        },
-        {
           "pID": "963303667",
           "name": "柏林"
         },
         {
-          "url": "http://1.199.194.152:5555/963203697",
-          "name": "1号桌"
-        },
-        {
-          "url": "http://1.199.194.152:5555/963303667",
-          "name": "柏林"
-        },
-        {
-          "url": "http://1.199.194.152:5555/963203703",
+          "pID": "963203697",
           "name": "1号桌"
         }
       ]
