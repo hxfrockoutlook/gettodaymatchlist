@@ -664,35 +664,46 @@ async function fetchAndProcessData() {
 
         // 匹配 M3U 数据并合并节点======================
         // 匹配 M3U 数据并合并节点（改进：tvg-id 去空格忽略大小写、时间允许多值匹配、支持跨午夜）
-          // 获取比赛的队伍列表和 tvg-id 的队伍列表
-          const matchTeams = extractTeams(match.pkInfoTitle);
-          const tvgTeams = extractTeams(normId); // normId 是去除空格后的 tvg-id
-          
-          let teamScore;
-          if (matchTeams.length === 2 && tvgTeams.length === 2) {
-            // 双方都能提取出两支队伍，使用队伍配对得分
-            teamScore = getTeamPairScore(matchTeams, tvgTeams);
-          } else {
-            // 至少一方无法提取队伍，则直接比较整体字符串
-            teamScore = overallMatchScore(match.pkInfoTitle, normId);
-          }
-          
-          const compScore = competitionMatchScore(match.competitionName, aggItem.competitionName);
-          
-          // 取所有时间中的最高时间得分
-          let bestTimeScore = 0;
-          for (const t of aggItem.times) {
-            const ts = timeMatchScore(matchTimeStr, t);
-            if (ts > bestTimeScore) bestTimeScore = ts;
-          }
-          
-          const totalScore = teamScore + compScore + bestTimeScore;
-          if (totalScore >= 50) {
-            // 匹配成功，追加节点
-            mergedMatch.nodes.push(...aggItem.nodes.map(node => ({ url: node.url, name: node.name })));
-            console.log(`比赛 ${match.mgdbId} 匹配到 M3U 数据，总分 ${totalScore}，追加 ${aggItem.nodes.length} 个节点`);
-            break; // 一个比赛只匹配一个 tvg-id
-          }
+        // 匹配 M3U 数据并合并节点（基于分数匹配）
+        const matchTeams = extractTeams(match.pkInfoTitle);
+        const matchCompetitionName = (match.competitionName || '').toLowerCase();
+        const matchTimeStr = match.keyword ? match.keyword.slice(-5) : ''; // HH:MM
+
+        let bestMatchTotal = 0;
+        let bestMatchNodes = [];
+
+        for (const [normId, aggItem] of m3uAggregateMap.entries()) {
+            const tvgTeams = extractTeams(normId);
+            
+            // 队伍得分
+            let teamScore;
+            if (matchTeams.length === 2 && tvgTeams.length === 2) {
+                teamScore = getTeamPairScore(matchTeams, tvgTeams);
+            } else {
+                teamScore = overallMatchScore(match.pkInfoTitle, normId);
+            }
+            
+            // 赛事名称得分
+            const compScore = competitionMatchScore(match.competitionName, aggItem.competitionName);
+            
+            // 时间得分（取最高）
+            let bestTimeScore = 0;
+            for (const t of aggItem.times) {
+                const ts = timeMatchScore(matchTimeStr, t);
+                if (ts > bestTimeScore) bestTimeScore = ts;
+            }
+            
+            const totalScore = teamScore + compScore + bestTimeScore;
+            if (totalScore > bestMatchTotal) {
+                bestMatchTotal = totalScore;
+                bestMatchNodes = aggItem.nodes;
+            }
+        }
+
+        if (bestMatchTotal >= 50) {
+            mergedMatch.nodes.push(...bestMatchNodes.map(node => ({ url: node.url, name: node.name })));
+            console.log(`比赛 ${match.mgdbId} 匹配到 M3U 数据，总分 ${bestMatchTotal}，追加 ${bestMatchNodes.length} 个节点`);
+        }
         // =============================================
       
       result.push(mergedMatch);
