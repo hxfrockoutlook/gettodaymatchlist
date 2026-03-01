@@ -552,7 +552,7 @@ async function fetchAndProcessData() {
     console.log('开始获取赛事数据...');
 
     // 获取并聚合 M3U 体育数据
-    const m3uAggregateMap = await fetchM3UAndAggregate();
+    let m3uAggregateMap = await fetchM3UAndAggregate();
     
     // 第一步：获取三个数据源的数据
     const allMatches = [];
@@ -664,13 +664,14 @@ async function fetchAndProcessData() {
 
         // 匹配 M3U 数据并合并节点======================
         // 匹配 M3U 数据并合并节点（改进：tvg-id 去空格忽略大小写、时间允许多值匹配、支持跨午夜）
-        // 匹配 M3U 数据并合并节点（基于分数匹配）
+        // 匹配 M3U 数据并合并节点（基于分数匹配，每个 M3U 条目只匹配一场比赛）
         const matchTeams = extractTeams(match.pkInfoTitle);
         const matchCompetitionName = (match.competitionName || '').toLowerCase();
         const matchTimeStr = match.keyword ? match.keyword.slice(-5) : ''; // HH:MM
 
         let bestMatchTotal = 0;
         let bestMatchNodes = [];
+        let bestMatchNormId = null; // 记录最佳匹配的 normId
 
         for (const [normId, aggItem] of m3uAggregateMap.entries()) {
             const tvgTeams = extractTeams(normId);
@@ -697,12 +698,15 @@ async function fetchAndProcessData() {
             if (totalScore > bestMatchTotal) {
                 bestMatchTotal = totalScore;
                 bestMatchNodes = aggItem.nodes;
+                bestMatchNormId = normId;
             }
         }
 
-        if (bestMatchTotal >= 50) {
+        if (bestMatchTotal >= 50 && bestMatchNormId) {
             mergedMatch.nodes.push(...bestMatchNodes.map(node => ({ url: node.url, name: node.name })));
             console.log(`比赛 ${match.mgdbId} 匹配到 M3U 数据，总分 ${bestMatchTotal}，追加 ${bestMatchNodes.length} 个节点`);
+            // 从 map 中删除已匹配的条目，防止被其他比赛使用
+            m3uAggregateMap.delete(bestMatchNormId);
         }
         // =============================================
       
