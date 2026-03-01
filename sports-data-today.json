@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-03-01 10:31:48",
+  "updateTime": "2026-03-01 11:01:58",
   "data": [
     {
       "mgdbId": "120000542589",
@@ -263,6 +263,10 @@
         {
           "url": "http://42.121.106.99:443/266020607/nlpsD98B7B683DA0CFDCE1B4/963337204",
           "name": "全场回放（邢晨）"
+        },
+        {
+          "url": "http://42.121.106.99:443/266020607/nlpsD98B7B683DA0CFDCE1B4/963337329",
+          "name": "全场回放（英文原声）"
         }
       ]
     },
@@ -628,14 +632,14 @@
     },
     {
       "mgdbId": "120000547409",
-      "pID": "963202167",
+      "pID": "963339416",
       "title": "NBA常规赛",
       "keyword": "03月01日08:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "第一资本体育馆",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/28/77442JVOPNIH.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/01/7766F5JS9019.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "猛龙VS奇才",
       "modifyTitle": "NBA常规赛",
@@ -644,6 +648,10 @@
         "time": "03月01日08:00"
       },
       "nodes": [
+        {
+          "pID": "963339416",
+          "name": "25/26赛季NBA常规赛全场集锦：猛龙134:125奇才（20260301）"
+        },
         {
           "pID": "963202167",
           "name": "贾磊"
@@ -665,7 +673,7 @@
     {
       "mgdbId": "120000569938",
       "pID": "963159172",
-      "title": "张帅、保利尼冲决赛",
+      "title": "保利尼出战 张帅惜败无缘决赛",
       "keyword": "03月01日08:00",
       "sportItemId": "9",
       "matchStatus": "1",
@@ -673,17 +681,13 @@
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/28/7743VVF3QN38.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "张帅、保利尼冲决赛",
-      "modifyTitle": "WTA梅里达站女单半决赛：张帅、保利尼冲决赛",
+      "pkInfoTitle": "保利尼出战 张帅惜败无缘决赛",
+      "modifyTitle": "WTA梅里达站女单半决赛：保利尼出战 张帅惜败无缘决赛",
       "presenters": "胡力涛",
       "matchInfo": {
         "time": "03月01日08:00"
       },
       "nodes": [
-        {
-          "pID": "963321431",
-          "name": "胡力涛"
-        },
         {
           "pID": "963159172",
           "name": "赛场原声"
@@ -693,26 +697,18 @@
           "name": "英文原声"
         },
         {
-          "url": "http://42.121.106.99:443/266020607/nlpsD98B7B683DA0CFDCE1B4/963321431",
+          "pID": "963321431",
           "name": "胡力涛"
-        },
-        {
-          "url": "http://42.121.106.99:443/266020607/nlpsD98B7B683DA0CFDCE1B4/963159172",
-          "name": "赛场原声"
-        },
-        {
-          "url": "http://42.121.106.99:443/266020607/nlpsD98B7B683DA0CFDCE1B4/963159179",
-          "name": "英文原声"
         }
       ]
     },
     {
       "mgdbId": "120000570499",
-      "pID": "963159172",
+      "pID": "963321431",
       "title": "WTA500梅里达站女单半决赛：弗莱彻 vs 张帅",
       "keyword": "03月01日08:00",
       "sportItemId": "9",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/28/7743VVDS4T9O.jpg",
@@ -817,15 +813,15 @@
     {
       "mgdbId": "120000569144",
       "pID": "963145090",
-      "title": "中国小将刘子菱、闵鸣冲冠",
+      "title": "松岛美空4-1刘子菱 闵鸣冲冠",
       "keyword": "03月01日10:00",
       "sportItemId": "7",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/01/7766ETEQ0QTS.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/01/7766F5PKMTIQ.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "中国小将刘子菱、闵鸣冲冠",
+      "pkInfoTitle": "松岛美空4-1刘子菱 闵鸣冲冠",
       "modifyTitle": "WTT新加坡青少年大满贯：U15单打决赛",
       "presenters": "",
       "matchInfo": {
@@ -834,10 +830,6 @@
       "nodes": [
         {
           "pID": "963145090",
-          "name": "U15决赛"
-        },
-        {
-          "url": "http://42.121.106.99:443/266020607/nlpsD98B7B683DA0CFDCE1B4/963145090",
           "name": "U15决赛"
         }
       ]
@@ -925,12 +917,12 @@
       },
       "nodes": [
         {
-          "pID": "963143149",
-          "name": "侯英超"
+          "pID": "963143106",
+          "name": "王曼昱上训了"
         },
         {
-          "pID": "963143106",
-          "name": "热身馆"
+          "pID": "963143149",
+          "name": "侯英超"
         },
         {
           "pID": "963145099",
@@ -965,7 +957,7 @@
     {
       "mgdbId": "120000563041",
       "pID": "963259594",
-      "title": "男篮世预赛亚洲赛区",
+      "title": "男篮���预赛亚洲赛区",
       "keyword": "03月01日13:00",
       "sportItemId": "2",
       "matchStatus": "0",
@@ -1099,6 +1091,10 @@
         {
           "pID": "963256347",
           "name": "广西县级足球超级联赛第四轮: 北海市合浦县队vs崇左市龙州县队"
+        },
+        {
+          "url": "http://42.121.106.99:443/266020607/nlpsD98B7B683DA0CFDCE1B4/963256347",
+          "name": "广西县级足球超级联赛第四轮:"
         }
       ]
     },
