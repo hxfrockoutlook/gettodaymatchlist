@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-03-02 00:31:52",
+  "updateTime": "2026-03-02 01:01:56",
   "data": [
     {
       "mgdbId": "120000542587",
@@ -123,7 +123,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png",
       "pkInfoTitle": "阿森纳 vs 切尔西",
       "modifyTitle": "英超联赛",
-      "presenters": "詹俊 李子琪",
+      "presenters": "詹俊 张路 李子琪",
       "matchInfo": {
         "time": "03月02日00:30"
       },
@@ -288,7 +288,7 @@
       "title": "意甲联赛",
       "keyword": "03月02日01:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "奥林匹克球场",
       "competitionName": "意甲",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000543052/202507101916_428078_H169_1080.webp",
@@ -324,7 +324,7 @@
       "title": "男篮世预赛欧洲赛区",
       "keyword": "03月02日01:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "Spyros Kyprianou Arena",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000563172/202511261156_109196_H169_1080.webp",
@@ -352,7 +352,7 @@
       "title": "男篮世预赛欧洲赛区",
       "keyword": "03月02日01:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "Telekom Dome",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/28/77440ESKHE1S.jpg",
@@ -380,7 +380,7 @@
       "title": "男篮世预赛欧洲赛区",
       "keyword": "03月02日01:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "Antares",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000563196/202511261205_151434_H169_1080.webp",
@@ -408,7 +408,7 @@
       "title": "男篮世预赛欧洲赛区",
       "keyword": "03月02日01:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "Unibet Arena",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000563208/202511261206_184932_H169_1080.webp",
@@ -436,10 +436,10 @@
       "title": "男篮世预赛欧洲赛区",
       "keyword": "03月02日01:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "Horacka Arena",
       "competitionName": "男篮世预赛",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/02/7767CT1T4SUU.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/11/26/10000000019110696ecb.jpg",
       "pkInfoTitle": "捷克vs斯洛文尼亚",
       "modifyTitle": "男篮世预赛欧洲赛区",
@@ -1531,6 +1531,10 @@
         {
           "url": "http://42.121.106.99:443/266020607/nlpsD98B7B683DA0CFDCE1B4/963282703",
           "name": "沈云怡"
+        },
+        {
+          "url": "http://42.121.106.99:443/266020607/nlpsD98B7B683DA0CFDCE1B4/963282684",
+          "name": "赛场原声"
         }
       ]
     },
