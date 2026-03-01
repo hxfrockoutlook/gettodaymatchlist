@@ -485,39 +485,57 @@ function extractTeams(str) {
 /**
  * 计算两支队伍的匹配得分
  * 完全相等（去空格后相同）→ 30分
- * 包含关系（子串）→ 20分
+ * 包含关系（一个包含另一个）→ 30分
+ * 模糊匹配（最长公共子串长度 ≥ 较短字符串长度的一半）→ 20分
  * 否则 → 0分
  */
 function teamMatchScore(teamA, teamB) {
   const a = teamA.replace(/\s+/g, '');
   const b = teamB.replace(/\s+/g, '');
   if (a === b) return 30;
-  if (a.includes(b) || b.includes(a)) return 20;
+  if (a.includes(b) || b.includes(a)) return 30;
+  
+  // 计算最长公共子串长度
+  let maxLen = 0;
+  for (let i = 0; i < a.length; i++) {
+    for (let j = i + 1; j <= a.length; j++) {
+      const sub = a.substring(i, j);
+      if (b.includes(sub) && sub.length > maxLen) {
+        maxLen = sub.length;
+      }
+    }
+  }
+  const minLen = Math.min(a.length, b.length);
+  if (maxLen >= minLen / 2) return 20;
+  
   return 0;
 }
 
 /**
  * 计算两个队伍列表的最佳配对总分（上限50）
- * teams1, teams2 均为长度为2的数组
  */
 function getTeamPairScore(teams1, teams2) {
   if (teams1.length !== 2 || teams2.length !== 2) return 0;
   const score1 = teamMatchScore(teams1[0], teams2[0]) + teamMatchScore(teams1[1], teams2[1]);
   const score2 = teamMatchScore(teams1[0], teams2[1]) + teamMatchScore(teams1[1], teams2[0]);
-  return Math.min(Math.max(score1, score2), 50);
+  const total = Math.max(score1, score2);
+  return Math.min(total, 50);
 }
 
 /**
  * 整体字符串匹配得分（用于无法提取队伍的情况）
- * 完全相等（去空格后相同）→ 50分
- * 包含关系（子串）→ 30分
- * 否则 → 0分
  */
 function overallMatchScore(strA, strB) {
   const a = (strA || '').replace(/\s+/g, '');
   const b = (strB || '').replace(/\s+/g, '');
   if (a === b) return 50;
-  if (a.includes(b) || b.includes(a)) return 30;
+  if (a.includes(b) || b.includes(a)) {
+    const longer = a.length >= b.length ? a : b;
+    const shorter = a.length >= b.length ? b : a;
+    if (shorter.length >= longer.length / 2) {
+      return 30;
+    }
+  }
   return 0;
 }
 
