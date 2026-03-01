@@ -368,18 +368,23 @@ async function fetchM3UAndAggregate() {
       if (firstSpaceIdx === -1) continue; // 格式异常，跳过
       const competitionName = tvgName.substring(0, firstSpaceIdx);
       
-      // 提取 time（最后一个空格后的 HH:MM）
+      // 提取 time（最后一个空格后的时间），支持 H:MM 或 HH:MM，自动补零
       const lastSpaceIdx = tvgName.lastIndexOf(' ');
       if (lastSpaceIdx === -1) continue;
-      const possibleTime = tvgName.substring(lastSpaceIdx + 1).trim();
-      if (!/^\d{2}:\d{2}$/.test(possibleTime)) continue; // 不是时间格式，跳过
-      const time = possibleTime;
+      const timeStr = tvgName.substring(lastSpaceIdx + 1).trim();
+      let time = null;
+      const timeMatch = timeStr.match(/^(\d{1,2}):(\d{2})$/);
+      if (timeMatch) {
+        const hour = timeMatch[1].padStart(2, '0');
+        const minute = timeMatch[2];
+        time = `${hour}:${minute}`;
+      }
+      // 即使 time 为 null，也保留条目（后续时间得0分）
       
       // 提取中间部分（去掉 competitionName 和 time）
       let middlePart = tvgName.substring(firstSpaceIdx + 1, lastSpaceIdx).trim();
       
       // 从中间部分移除 tvg-id 得到 name
-      // 转义 tvgId 中的正则特殊字符
       const escapedTvgId = tvgId.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
       const name = middlePart.replace(new RegExp(escapedTvgId, 'g'), '').trim();
       
@@ -387,18 +392,19 @@ async function fetchM3UAndAggregate() {
       const normalizedTvgId = tvgId.replace(/\s+/g, '');
       
       if (!aggregateMap.has(normalizedTvgId)) {
-        // 首次遇到该 tvg-id，初始化 times 数组和 nodes 数组
+        // 首次遇到该 tvg-id，初始化
         aggregateMap.set(normalizedTvgId, {
           tvgId: tvgId,
           normalizedTvgId: normalizedTvgId,
           competitionName: competitionName,
-          times: [time],          // 改为数组，存储所有时间
+          times: time ? [time] : [], // 若 time 有效则存入，否则空数组
           nodes: [{ name, url }]
         });
       } else {
-        // 已存在，追加时间（可能重复，但匹配时会遍历）
         const entry = aggregateMap.get(normalizedTvgId);
-        entry.times.push(time);
+        if (time && !entry.times.includes(time)) {
+          entry.times.push(time);
+        }
         entry.nodes.push({ name, url });
       }
     }
