@@ -458,24 +458,7 @@ async function getMatchNodes(mgdbId) {
   return nodes;
 }
 
-/**
- * 标准化队伍字符串：忽略顺序，支持 VS 分隔（不区分大小写）
- * 例如 "热火VS76人" 和 "76人VS热火" 均返回 "76人热火"
- */
-function normalizeTeamString(str) {
-  if (!str) return '';
-  const trimmed = str.replace(/\s+/g, ''); // 先去除所有空格
-  // 匹配 VS（不区分大小写），捕获 VS 前后的内容
-  const vsMatch = trimmed.match(/^(.*?)(vs)(.*)$/i);
-  if (vsMatch) {
-    const team1 = vsMatch[1];
-    const team2 = vsMatch[3];
-    // 对两个队伍名称排序，然后拼接
-    const parts = [team1, team2].sort();
-    return parts.join('').toLowerCase();
-  }
-  return trimmed.toLowerCase();
-}
+// ==================== 修改后的匹配辅助函数 ====================
 
 // 计算两个 HH:MM 时间在 24 小时内的最小分钟差
 function timeDiffInMinutes(t1, t2) {
@@ -486,8 +469,6 @@ function timeDiffInMinutes(t1, t2) {
   const diff = Math.abs(mins1 - mins2);
   return Math.min(diff, 24 * 60 - diff);
 }
-
-// ==================== 修改后的匹配辅助函数 ====================
 
 /**
  * 从字符串中提取两支队伍（去除空格，按 vs 或比分分隔）
