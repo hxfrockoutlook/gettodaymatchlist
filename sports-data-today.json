@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-03-02 03:01:45",
+  "updateTime": "2026-03-02 03:31:42",
   "data": [
     {
       "mgdbId": "120000542587",
@@ -292,10 +292,10 @@
       "title": "意甲联赛",
       "keyword": "03月02日01:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "奥林匹克球场",
       "competitionName": "意甲",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000543052/202507101916_428078_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000543052/202603020317_495245_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png",
       "pkInfoTitle": "都灵 vs 拉齐奥",
       "modifyTitle": "意甲联赛",
@@ -356,11 +356,11 @@
     },
     {
       "mgdbId": "120000563173",
-      "pID": "963282365",
+      "pID": "960639313",
       "title": "男篮世预赛欧洲赛区",
       "keyword": "03月02日01:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Telekom Dome",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/02/28/77440ESKHE1S.jpg",
@@ -372,6 +372,10 @@
         "time": "03月02日01:00"
       },
       "nodes": [
+        {
+          "pID": "960639313",
+          "name": "欧洲篮坛超巨环伺！德意志战车卫冕之路荆棘密布"
+        },
         {
           "pID": "963282365",
           "name": "赛场原声"
@@ -416,11 +420,11 @@
     },
     {
       "mgdbId": "120000563208",
-      "pID": "963282640",
+      "pID": "960639313",
       "title": "男篮世预赛欧洲赛区",
       "keyword": "03月02日01:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Unibet Arena",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000563208/202511261206_184932_H169_1080.webp",
@@ -433,6 +437,10 @@
       },
       "nodes": [
         {
+          "pID": "960639313",
+          "name": "欧洲篮坛超巨环伺！德意志战车卫冕之路荆棘密布"
+        },
+        {
           "pID": "963282640",
           "name": "赛场原声"
         },
@@ -444,11 +452,11 @@
     },
     {
       "mgdbId": "120000563209",
-      "pID": "963282605",
+      "pID": "960639313",
       "title": "男篮世预赛欧洲赛区",
       "keyword": "03月02日01:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Horacka Arena",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/02/7767CT1T4SUU.jpg",
@@ -460,6 +468,10 @@
         "time": "03月02日01:00"
       },
       "nodes": [
+        {
+          "pID": "960639313",
+          "name": "欧洲篮坛超巨环伺！德意志战车卫冕之路荆棘密布"
+        },
         {
           "pID": "963282605",
           "name": "赛场原声"
@@ -728,7 +740,7 @@
       "title": "男篮世预赛欧洲赛区",
       "keyword": "03月02日03:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "Polsat Plus Arena",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000563185/202511261201_754321_H169_1080.webp",
@@ -792,7 +804,7 @@
       "title": "意甲联赛",
       "keyword": "03月02日03:45",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "奥林匹克球场",
       "competitionName": "意甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000543053/652366_H169_sc.jpg",
@@ -1010,7 +1022,7 @@
       "sportItemId": "2",
       "matchStatus": "0",
       "matchField": "Borg Elarab Arena",
-      "competitionName": "��篮世预赛",
+      "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000563111/202511261145_304961_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/11/26/10000000019110696ecb.jpg",
       "pkInfoTitle": "乌干达vs埃及",
