@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-03-06 12:31:06",
+  "updateTime": "2026-03-06 13:01:10",
   "data": [
     {
       "mgdbId": "120000542233",
@@ -224,7 +224,7 @@
     },
     {
       "mgdbId": "120000547447",
-      "pID": "963437992",
+      "pID": "963438819",
       "title": "NBA常规赛",
       "keyword": "03月06日09:00",
       "sportItemId": "2",
@@ -240,10 +240,6 @@
         "time": "03月06日09:00"
       },
       "nodes": [
-        {
-          "pID": "963437992",
-          "name": "文班排球大帽CC！转换内切接球暴扣点燃全场"
-        },
         {
           "pID": "963348742",
           "name": "连睿 季孟年"
@@ -312,11 +308,11 @@
     },
     {
       "mgdbId": "120000547449",
-      "pID": "963348810",
+      "pID": "963439015",
       "title": "NBA常规赛",
       "keyword": "03月06日10:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "凤凰城竞技场",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/06/776B181G05EH.jpg",
@@ -539,7 +535,7 @@
       "pID": "963434832",
       "title": "篮球公园——中国女篮备战世预赛",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "CBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/05/776A37H62AG1.jpg",
@@ -740,6 +736,10 @@
         {
           "pID": "963405938",
           "name": "解说"
+        },
+        {
+          "url": "http://42.121.106.99:443/266020607/nlpsD98B7B683DA0CFDCE1B4/963405938",
+          "name": "NBA  解说"
         }
       ]
     },
