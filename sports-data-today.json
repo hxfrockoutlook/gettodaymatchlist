@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-03-06 20:01:12",
+  "updateTime": "2026-03-06 20:24:53",
   "data": [
     {
       "mgdbId": "120000542233",
@@ -530,6 +530,7 @@
       "mgdbId": "300000001944",
       "pID": "963434832",
       "title": "篮球公园——中国女篮备战世预赛",
+      "keyword": "03月06日00:00",
       "sportItemId": "2",
       "matchStatus": "2",
       "matchField": "",
@@ -539,7 +540,9 @@
       "pkInfoTitle": "篮球公园——中国女篮备战世预赛",
       "modifyTitle": "篮球公园——中国女篮备战世预赛",
       "presenters": "",
-      "matchInfo": {},
+      "matchInfo": {
+        "time": "03月06日00:00"
+      },
       "nodes": [
         {
           "pID": "963434832",
@@ -673,29 +676,29 @@
     },
     {
       "mgdbId": "120000570792",
-      "pID": "963439264",
+      "pID": "963439343",
       "title": "娃卉组合出战 陈雨菲晋级四强",
       "keyword": "03月06日17:30",
       "sportItemId": "6",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "BWF",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/06/776AVGV7L664.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/06/776B00QLG6JF.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "娃卉组合出战 陈雨菲晋级四强",
       "modifyTitle": "全英羽毛球公开赛第四日：冲4强！丫邦组合、陈雨菲率先出战",
-      "presenters": "鸿昆 刘钟鸣",
+      "presenters": "刘钟鸣 鸿昆",
       "matchInfo": {
         "time": "03月06日17:30"
       },
       "nodes": [
         {
-          "pID": "963439264",
-          "name": "郭新娃/陈芳卉 VS 西亚纳维/马尔瓦"
-        },
-        {
           "pID": "963439343",
           "name": "陈柏阳/刘毅 VS 阿迪安托/拉赫马特"
+        },
+        {
+          "pID": "963439231",
+          "name": "安洗莹 VS 瓦尔达尼"
         },
         {
           "pID": "963367159",
