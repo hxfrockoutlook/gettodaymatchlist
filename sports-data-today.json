@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-03-06 10:05:42",
+  "updateTime": "2026-03-06 10:31:04",
   "data": [
     {
       "mgdbId": "120000542233",
@@ -92,11 +92,11 @@
     },
     {
       "mgdbId": "120000547444",
-      "pID": "963348588",
+      "pID": "963435329",
       "title": "NBA常规赛",
       "keyword": "03月06日08:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "第一资本体育馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/06/776B0C2KUNOH.jpg",
@@ -108,6 +108,10 @@
         "time": "03月06日08:00"
       },
       "nodes": [
+        {
+          "pID": "963435329",
+          "name": "就是要玩帅的！吹杨秀隆多招牌动作 戏耍防守挑篮得手"
+        },
         {
           "pID": "963348588",
           "name": "董倡硕"
@@ -520,6 +524,7 @@
     },
     {
       "mgdbId": "300000001944",
+      "pID": "963434832",
       "title": "篮球公园——中国女篮备战世预赛",
       "sportItemId": "2",
       "matchStatus": "0",
@@ -531,7 +536,12 @@
       "modifyTitle": "篮球公园——中国女篮备战世预赛",
       "presenters": "",
       "matchInfo": {},
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "963434832",
+          "name": "篮球公园"
+        }
+      ]
     },
     {
       "mgdbId": "120000569132",
@@ -741,11 +751,7 @@
         },
         {
           "url": "http://42.121.106.99:443/266020607/nlpsD98B7B683DA0CFDCE1B4/963154508",
-          "name": "解说"
-        },
-        {
-          "url": "http://42.121.106.99:443/266020607/nlpsD98B7B683DA0CFDCE1B4/963154518",
-          "name": "赛场原声"
+          "name": "盐南苏科雄狮VS石家庄翔蓝 解说"
         }
       ]
     },
