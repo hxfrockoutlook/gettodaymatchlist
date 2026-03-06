@@ -1,10 +1,10 @@
 {
   "success": true,
-  "updateTime": "2026-03-07 05:01:44",
+  "updateTime": "2026-03-07 05:31:40",
   "data": [
     {
       "mgdbId": "120000570792",
-      "pID": "963439196",
+      "pID": "963439189",
       "title": "冲4强！李诗沣、梁王组合率先出战",
       "keyword": "03月06日17:30",
       "sportItemId": "6",
@@ -21,8 +21,8 @@
       },
       "nodes": [
         {
-          "pID": "963439196",
-          "name": "王祉怡 VS 宫崎友花"
+          "pID": "963439189",
+          "name": "刘圣书/谭宁 VS 谢沛珊/洪恩慈"
         },
         {
           "pID": "963439309",
@@ -37,12 +37,20 @@
           "name": "2号场"
         },
         {
+          "pID": "963439196",
+          "name": "王祉怡 VS 宫崎友花"
+        },
+        {
           "url": "http://42.121.106.99:443/266020607/nlpsD98B7B683DA0CFDCE1B4/963439196",
           "name": "王祉怡 VS 宫崎友花"
         },
         {
           "url": "http://42.121.106.99:443/266020607/nlpsD98B7B683DA0CFDCE1B4/963367159",
           "name": "1号场"
+        },
+        {
+          "url": "http://42.121.106.99:443/266020607/nlpsD98B7B683DA0CFDCE1B4/963367390",
+          "name": "冲4强！李诗沣、梁王��合率先出战 2号场"
         }
       ]
     },
@@ -95,7 +103,7 @@
       "matchStatus": "1",
       "matchField": "慕尼黑竞技场",
       "competitionName": "德甲",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/04/77694KQMILC8.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000542802/272171_H169_sc.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png",
       "pkInfoTitle": "拜仁慕尼黑 vs 门兴格拉德巴赫",
       "modifyTitle": "德甲联赛",
@@ -278,6 +286,34 @@
         },
         {
           "url": "http://42.121.106.99:443/266020607/nlpsD98B7B683DA0CFDCE1B4/963423943",
+          "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000571274",
+      "pID": "963439101",
+      "title": "王欣瑜 vs 汤姆贾诺维奇",
+      "keyword": "03月07日05:23",
+      "sportItemId": "9",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "WTA",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/06/776AUCTVFUB1.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
+      "pkInfoTitle": "王欣瑜 vs 汤姆贾诺维奇",
+      "modifyTitle": "王欣瑜 vs 汤姆贾诺维奇",
+      "presenters": "",
+      "matchInfo": {
+        "time": "03月07日05:23"
+      },
+      "nodes": [
+        {
+          "pID": "963439101",
+          "name": "赛场原声"
+        },
+        {
+          "url": "http://42.121.106.99:443/266020607/nlpsD98B7B683DA0CFDCE1B4/963439101",
           "name": "赛场原声"
         }
       ]
@@ -954,11 +990,7 @@
         },
         {
           "url": "http://42.121.106.99:443/266020607/nlpsD98B7B683DA0CFDCE1B4/963153352",
-          "name": "解说"
-        },
-        {
-          "url": "http://42.121.106.99:443/266020607/nlpsD98B7B683DA0CFDCE1B4/963153375",
-          "name": "赛场原声"
+          "name": "张家口体文旅VS安徽皖江龙 解说"
         }
       ]
     },
@@ -1802,34 +1834,6 @@
         },
         {
           "url": "http://42.121.106.99:443/266020607/nlpsD98B7B683DA0CFDCE1B4/963424895",
-          "name": "赛场原声"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000571274",
-      "pID": "120000571274",
-      "title": "王欣瑜 vs 汤姆贾诺维奇",
-      "keyword": "03月07日05:00",
-      "sportItemId": "",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "WTA",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/07/08/11005/25eab3e85d48452f9f639282bebcebd1/25eab3e85d48452f9f639282bebcebd1_H169_P1080_WEBP.webp",
-      "competitionLogo": "",
-      "pkInfoTitle": "王欣瑜 vs 汤姆贾诺维奇",
-      "modifyTitle": "王欣瑜 vs 汤姆贾诺维奇",
-      "presenters": "",
-      "matchInfo": {
-        "time": "03月07日05:00"
-      },
-      "nodes": [
-        {
-          "pID": "963439101",
-          "name": "赛场原声"
-        },
-        {
-          "url": "http://42.121.106.99:443/266020607/nlpsD98B7B683DA0CFDCE1B4/963439101",
           "name": "赛场原声"
         }
       ]
