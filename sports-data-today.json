@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-03-06 07:31:08",
+  "updateTime": "2026-03-06 08:01:12",
   "data": [
     {
       "mgdbId": "120000542233",
@@ -60,7 +60,7 @@
       "title": "NBA常规赛",
       "keyword": "03月06日08:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "安利中心",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/05/776A1A3A55UB.png",
@@ -96,7 +96,7 @@
       "title": "NBA常规赛",
       "keyword": "03月06日08:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "第一资本体育馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/05/776A1A637UDK.png",
@@ -185,16 +185,16 @@
           "name": "姜帆 马健 闫宇峰"
         },
         {
-          "pID": "963348753",
-          "name": "英文原声"
-        },
-        {
           "pID": "963348719",
           "name": "拜月宁"
         },
         {
           "pID": "963373719",
           "name": "周鹏"
+        },
+        {
+          "pID": "963348753",
+          "name": "英文原声"
         },
         {
           "url": "http://42.121.106.99:443/266020607/nlpsD98B7B683DA0CFDCE1B4/963348711",
@@ -547,6 +547,10 @@
         {
           "url": "http://42.121.106.99:443/266020607/nlpsD98B7B683DA0CFDCE1B4/963282733",
           "name": "吴桐 徐阳"
+        },
+        {
+          "url": "http://42.121.106.99:443/266020607/nlpsD98B7B683DA0CFDCE1B4/963282709",
+          "name": "赛场原声"
         }
       ]
     },
@@ -637,16 +641,16 @@
     {
       "mgdbId": "120000570792",
       "pID": "963367159",
-      "title": "全英羽毛球公开赛第四日",
+      "title": "冲4强！丫邦组合、陈雨菲率先出战",
       "keyword": "03月06日17:30",
       "sportItemId": "6",
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "BWF",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/06/776AVRV79TMU.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
-      "pkInfoTitle": "全英羽毛球公开赛第四日",
-      "modifyTitle": "全英羽毛球公开赛第四日",
+      "pkInfoTitle": "冲4强！丫邦组合、陈雨菲率先出战",
+      "modifyTitle": "全英羽毛球公开赛第四日：冲4强！丫邦组合、陈雨菲率先出战",
       "presenters": "",
       "matchInfo": {
         "time": "03月06日17:30"
@@ -662,18 +666,6 @@
         },
         {
           "pID": "963367390",
-          "name": "2号场"
-        },
-        {
-          "url": "http://42.121.106.99:443/266020607/nlpsD98B7B683DA0CFDCE1B4/963367159",
-          "name": "1号场"
-        },
-        {
-          "url": "http://42.121.106.99:443/266020607/nlpsD98B7B683DA0CFDCE1B4/963367338",
-          "name": "2号场"
-        },
-        {
-          "url": "http://42.121.106.99:443/266020607/nlpsD98B7B683DA0CFDCE1B4/963367390",
           "name": "2号场"
         }
       ]
@@ -734,7 +726,11 @@
         },
         {
           "url": "http://42.121.106.99:443/266020607/nlpsD98B7B683DA0CFDCE1B4/963154508",
-          "name": "盐南苏科雄狮VS石家庄翔蓝 解说"
+          "name": "解说"
+        },
+        {
+          "url": "http://42.121.106.99:443/266020607/nlpsD98B7B683DA0CFDCE1B4/963154518",
+          "name": "赛场原声"
         }
       ]
     },
