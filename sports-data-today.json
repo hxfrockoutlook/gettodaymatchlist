@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-03-07 09:32:08",
+  "updateTime": "2026-03-07 10:02:11",
   "data": [
     {
       "mgdbId": "120000570792",
@@ -332,7 +332,7 @@
       "title": "NBA常规赛",
       "keyword": "03月07日10:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "波尔体育馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/06/776AU8O2K1PN.jpg",
@@ -360,7 +360,7 @@
       "title": "NBA常规赛",
       "keyword": "03月07日10:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "凤凰城竞技场",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/06/776AUAK1O0UE.png",
@@ -388,7 +388,7 @@
       "title": "大坂vs卡辛塞娃 阿尼西莫娃接场",
       "keyword": "03月07日10:00",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/07/776BSJI7F2VC.jpg",
@@ -438,6 +438,34 @@
         },
         {
           "pID": "963348680",
+          "name": "英文原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000571298",
+      "pID": "963446644",
+      "title": "G联赛",
+      "keyword": "03月07日10:30",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "G联赛",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/10/29/100000000533106f1a67.png",
+      "pkInfoTitle": "山谷太阳VS撕裂之城混音",
+      "modifyTitle": "G联赛",
+      "presenters": "刘沛元",
+      "matchInfo": {
+        "time": "03月07日10:30"
+      },
+      "nodes": [
+        {
+          "pID": "963446644",
+          "name": "刘沛元"
+        },
+        {
+          "pID": "963446488",
           "name": "英文原声"
         }
       ]
