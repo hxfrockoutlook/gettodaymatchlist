@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-03-09 06:14:45",
+  "updateTime": "2026-03-09 06:31:05",
   "data": [
     {
       "mgdbId": "120000542582",
@@ -198,7 +198,7 @@
         },
         {
           "url": "http://42.121.106.99:443/266020607/nlpsD98B7B683DA0CFDCE1B4/963490394",
-          "name": "全��回放（鲁靖明、李彦）"
+          "name": "全场回放（鲁靖明、李彦）"
         }
       ]
     },
@@ -312,11 +312,11 @@
     },
     {
       "mgdbId": "120000547466",
-      "pID": "963460513",
+      "pID": "963490570",
       "title": "NBA常规赛",
       "keyword": "03月09日03:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "加密网体育馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/09/776DMHO7DQIG.jpg",
@@ -328,6 +328,10 @@
         "time": "03月09日03:30"
       },
       "nodes": [
+        {
+          "pID": "963490570",
+          "name": "拼命三郎！斯马特飞身救球撞翻技术台手掌擦伤"
+        },
         {
           "pID": "963460513",
           "name": "连睿"
@@ -444,10 +448,10 @@
       "title": "西甲联赛",
       "keyword": "03月09日04:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "梅斯塔利亚球场",
       "competitionName": "西甲",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000543324/757385_H169_sc.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000543324/939626_H169_sc.jpg",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/09/27/6UROS3QNB1F8.png",
       "pkInfoTitle": "瓦伦西亚 vs 阿拉维斯",
       "modifyTitle": "西甲联赛",
@@ -904,6 +908,14 @@
         "time": "03月09日17:00"
       },
       "nodes": [
+        {
+          "pID": "963424139",
+          "name": "吴桐 贺宇"
+        },
+        {
+          "pID": "963424166",
+          "name": "赛场原声"
+        },
         {
           "url": "http://42.121.106.99:443/266020607/nlpsD98B7B683DA0CFDCE1B4/963424139",
           "name": "吴桐 贺宇"
