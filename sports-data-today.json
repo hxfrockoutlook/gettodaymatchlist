@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-03-09 13:01:17",
+  "updateTime": "2026-03-09 13:31:17",
   "data": [
     {
       "mgdbId": "120000542582",
@@ -780,7 +780,7 @@
     },
     {
       "mgdbId": "120000547472",
-      "pID": "963494677",
+      "pID": "963495498",
       "title": "NBA常规赛",
       "keyword": "03月09日10:00",
       "sportItemId": "2",
@@ -796,6 +796,10 @@
         "time": "03月09日10:00"
       },
       "nodes": [
+        {
+          "pID": "963495498",
+          "name": "25/26赛季NBA常规赛全场集锦：黄蜂99:111太阳（20260309）"
+        },
         {
           "pID": "963459879",
           "name": "孙博"
@@ -887,7 +891,7 @@
       "matchStatus": "0",
       "matchField": "珀斯矩形球场",
       "competitionName": "女足亚洲杯",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000569129/202602091235_884042_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000569129/685574_H169_sc.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/100000000064106a5938.png",
       "pkInfoTitle": "孟加拉国 vs 乌兹别克斯坦",
       "modifyTitle": "女足亚洲杯小组赛",
@@ -911,6 +915,29 @@
         {
           "url": "http://42.121.106.99:443/266020607/nlpsD98B7B683DA0CFDCE1B4/963424091",
           "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000571415",
+      "title": "女篮俱乐部杯",
+      "keyword": "03月09日17:00",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "女篮俱乐部杯",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/2/3/100000001407106f1262.png",
+      "pkInfoTitle": "新疆天山vs江苏南钢",
+      "modifyTitle": "女篮俱乐部杯",
+      "presenters": "",
+      "matchInfo": {
+        "time": "03月09日17:00"
+      },
+      "nodes": [
+        {
+          "url": "http://42.121.106.99:443/266020607/nlpsD98B7B683DA0CFDCE1B4/963484912",
+          "name": "山西竹叶青酒VS新���天山 全场回放（原声）"
         }
       ]
     },
@@ -947,6 +974,29 @@
         {
           "url": "http://42.121.106.99:443/266020607/nlpsD98B7B683DA0CFDCE1B4/963368463",
           "name": "清流"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000571416",
+      "title": "女篮俱乐部杯",
+      "keyword": "03月09日19:30",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "女篮俱乐部杯",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/2/3/100000001407106f1262.png",
+      "pkInfoTitle": "山西竹叶青酒vs四川蜀道远达",
+      "modifyTitle": "女篮俱乐部杯",
+      "presenters": "",
+      "matchInfo": {
+        "time": "03月09日19:30"
+      },
+      "nodes": [
+        {
+          "url": "http://42.121.106.99:443/266020607/nlpsD98B7B683DA0CFDCE1B4/963488198",
+          "name": "全场回放（原声）"
         }
       ]
     }
