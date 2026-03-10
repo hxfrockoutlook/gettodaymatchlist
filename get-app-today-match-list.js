@@ -332,7 +332,7 @@ async function fetchM3UAndAggregate() {
   const aggregateMap = new Map();
   try {
     console.log('开始获取 M3U 数据...');
-    const response = await fetchWithRetry('http://ikuai.168957.xyz:9080/migu_www.php?VideoDetail=http://iptv2.374671.xyz:1234/');
+    const response = await fetchWithRetry('http://ikuai.168957.xyz:9080/migu_www.php?VideoDetail=https://42.121.106.99/266020607/nlpsD98B7B683DA0CFDCE1B4/');
     const m3uContent = response.data;
     const lines = m3uContent.split('\n');
     
