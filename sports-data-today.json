@@ -1,14 +1,14 @@
 {
   "success": true,
-  "updateTime": "2026-03-12 01:31:17",
+  "updateTime": "2026-03-12 02:01:15",
   "data": [
     {
       "mgdbId": "120000571441",
-      "pID": "963507832",
+      "pID": "963508054",
       "title": "女篮世界杯资格赛",
       "keyword": "03月12日00:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Astroballe",
       "competitionName": "女篮世界杯资格赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000571441/202603091946_503215_H169_1080.webp",
@@ -20,6 +20,10 @@
         "time": "03月12日00:00"
       },
       "nodes": [
+        {
+          "pID": "963508054",
+          "name": "中国女篮出征世界杯资格赛前瞻：王牌内线扛旗+后浪奔涌！无畏金兰盼重拾强队本色"
+        },
         {
           "pID": "963507832",
           "name": "赛场原声"
@@ -65,16 +69,12 @@
           "name": "英文解说"
         },
         {
-          "url": "http://42.121.106.99:443/266020607/nlpsD98B7B683DA0CFDCE1B4/963543316",
-          "name": "全场回放（邵化谦、隋菲菲）"
+          "url": "http://42.121.106.99:443/266020607/nlpsD98B7B683DA0CFDCE1B4/963508141",
+          "name": "赛场原声"
         },
         {
-          "url": "http://42.121.106.99:443/266020607/nlpsD98B7B683DA0CFDCE1B4/963544615",
-          "name": "全场回放（原声）"
-        },
-        {
-          "url": "http://42.121.106.99:443/266020607/nlpsD98B7B683DA0CFDCE1B4/963544621",
-          "name": "全场回放（英文解说）"
+          "url": "http://42.121.106.99:443/266020607/nlpsD98B7B683DA0CFDCE1B4/963508135",
+          "name": "英文解说"
         }
       ]
     },
@@ -84,7 +84,7 @@
       "title": "斯瓦泰克、莱巴金娜冲击八强",
       "keyword": "03月12日02:00",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/11/776FIDU1H061.jpg",
@@ -120,7 +120,7 @@
       "title": "女篮世界杯资格赛",
       "keyword": "03月12日02:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "Puerto Rico Coliseum Jose Miguel Agrelot “El Choli”",
       "competitionName": "女篮世界杯资格赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000571470/202603091952_207822_H169_1080.webp",
@@ -941,16 +941,16 @@
           "name": "英文解说"
         },
         {
-          "url": "http://42.121.106.99:443/266020607/nlpsD98B7B683DA0CFDCE1B4/963512121",
-          "name": "女篮世界杯资格赛"
+          "url": "http://42.121.106.99:443/266020607/nlpsD98B7B683DA0CFDCE1B4/963543316",
+          "name": "全场回放（邵化谦、隋菲菲）"
         },
         {
-          "url": "http://42.121.106.99:443/266020607/nlpsD98B7B683DA0CFDCE1B4/963513548",
-          "name": "赛场原声"
+          "url": "http://42.121.106.99:443/266020607/nlpsD98B7B683DA0CFDCE1B4/963544615",
+          "name": "全场回放（原声）"
         },
         {
-          "url": "http://42.121.106.99:443/266020607/nlpsD98B7B683DA0CFDCE1B4/963513550",
-          "name": "英文解说"
+          "url": "http://42.121.106.99:443/266020607/nlpsD98B7B683DA0CFDCE1B4/963544621",
+          "name": "全场回放（英文解说）"
         }
       ]
     },
