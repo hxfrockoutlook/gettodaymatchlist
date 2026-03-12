@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-03-13 06:31:22",
+  "updateTime": "2026-03-13 07:01:27",
   "data": [
     {
       "mgdbId": "120000571444",
@@ -73,12 +73,12 @@
           "name": "英文解说"
         },
         {
-          "url": "http://42.121.106.99:443/266020607/nlpsD98B7B683DA0CFDCE1B4/963508258",
-          "name": "赛场原声"
+          "url": "http://42.121.106.99:443/266020607/nlpsD98B7B683DA0CFDCE1B4/963570340",
+          "name": "全场回放（英文解说）"
         },
         {
-          "url": "http://42.121.106.99:443/266020607/nlpsD98B7B683DA0CFDCE1B4/963508279",
-          "name": "英文解说"
+          "url": "http://42.121.106.99:443/266020607/nlpsD98B7B683DA0CFDCE1B4/963570323",
+          "name": "全场回放（原声）"
         }
       ]
     },
@@ -123,6 +123,18 @@
         {
           "pID": "963551143",
           "name": "单文强"
+        },
+        {
+          "url": "http://42.121.106.99:443/266020607/nlpsD98B7B683DA0CFDCE1B4/963361828",
+          "name": "赛场原声"
+        },
+        {
+          "url": "http://42.121.106.99:443/266020607/nlpsD98B7B683DA0CFDCE1B4/963361835",
+          "name": "英文原声"
+        },
+        {
+          "url": "http://42.121.106.99:443/266020607/nlpsD98B7B683DA0CFDCE1B4/963551157",
+          "name": "房朕"
         }
       ]
     },
@@ -157,12 +169,12 @@
           "name": "英文解说"
         },
         {
-          "url": "http://42.121.106.99:443/266020607/nlpsD98B7B683DA0CFDCE1B4/963508530",
-          "name": "赛场原声"
+          "url": "http://42.121.106.99:443/266020607/nlpsD98B7B683DA0CFDCE1B4/963570362",
+          "name": "全场回放（英文解说）"
         },
         {
-          "url": "http://42.121.106.99:443/266020607/nlpsD98B7B683DA0CFDCE1B4/963508549",
-          "name": "英文解说"
+          "url": "http://42.121.106.99:443/266020607/nlpsD98B7B683DA0CFDCE1B4/963570349",
+          "name": "全场回放（原声）"
         }
       ]
     },
@@ -197,16 +209,12 @@
           "name": "英文原声"
         },
         {
-          "url": "http://42.121.106.99:443/266020607/nlpsD98B7B683DA0CFDCE1B4/963551194",
-          "name": "刘钟鸣"
+          "url": "http://42.121.106.99:443/266020607/nlpsD98B7B683DA0CFDCE1B4/963570375",
+          "name": "【全场回放】（刘钟鸣）"
         },
         {
-          "url": "http://42.121.106.99:443/266020607/nlpsD98B7B683DA0CFDCE1B4/963361828",
-          "name": "赛场原声"
-        },
-        {
-          "url": "http://42.121.106.99:443/266020607/nlpsD98B7B683DA0CFDCE1B4/963361835",
-          "name": "英文原声"
+          "url": "http://42.121.106.99:443/266020607/nlpsD98B7B683DA0CFDCE1B4/963570353",
+          "name": "【回放】（英文原声）"
         }
       ]
     },
@@ -241,12 +249,8 @@
           "name": "英文解说"
         },
         {
-          "url": "http://42.121.106.99:443/266020607/nlpsD98B7B683DA0CFDCE1B4/963507900",
-          "name": "赛场原声"
-        },
-        {
-          "url": "http://42.121.106.99:443/266020607/nlpsD98B7B683DA0CFDCE1B4/963507907",
-          "name": "英文解说"
+          "url": "http://42.121.106.99:443/266020607/nlpsD98B7B683DA0CFDCE1B4/963570478",
+          "name": "全场回放（英文解说）"
         }
       ]
     },
@@ -279,28 +283,16 @@
         {
           "pID": "963361835",
           "name": "英文原声"
-        },
-        {
-          "url": "http://42.121.106.99:443/266020607/nlpsD98B7B683DA0CFDCE1B4/963551177",
-          "name": "李宁"
-        },
-        {
-          "url": "http://42.121.106.99:443/266020607/nlpsD98B7B683DA0CFDCE1B4/963361828",
-          "name": "赛场原声"
-        },
-        {
-          "url": "http://42.121.106.99:443/266020607/nlpsD98B7B683DA0CFDCE1B4/963361835",
-          "name": "英文原声"
         }
       ]
     },
     {
       "mgdbId": "120000571474",
-      "pID": "963508577",
+      "pID": "963508054",
       "title": "女篮世界杯资格赛",
       "keyword": "03月13日05:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Puerto Rico Coliseum Jose Miguel Agrelot “El Choli”",
       "competitionName": "女篮世界杯资格赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000571474/202603091952_307610_H169_1080.webp",
@@ -313,6 +305,10 @@
       },
       "nodes": [
         {
+          "pID": "963508054",
+          "name": "中国女篮出征世界杯资格赛前瞻：王牌内线扛旗+后浪奔涌！无畏金兰盼重拾强队本色"
+        },
+        {
           "pID": "963508577",
           "name": "赛场原声"
         },
@@ -321,12 +317,8 @@
           "name": "英文解说"
         },
         {
-          "url": "http://42.121.106.99:443/266020607/nlpsD98B7B683DA0CFDCE1B4/963508577",
-          "name": "赛场原声"
-        },
-        {
-          "url": "http://42.121.106.99:443/266020607/nlpsD98B7B683DA0CFDCE1B4/963508596",
-          "name": "英文解说"
+          "url": "http://42.121.106.99:443/266020607/nlpsD98B7B683DA0CFDCE1B4/963508054",
+          "name": "中国女篮出征世界杯资格赛前瞻：王牌内线扛旗+后浪奔涌！无畏金兰盼重拾强队本色"
         }
       ]
     },
@@ -361,12 +353,12 @@
           "name": "英文原声"
         },
         {
-          "url": "http://42.121.106.99:443/266020607/nlpsD98B7B683DA0CFDCE1B4/963551157",
-          "name": "房朕"
-        },
-        {
           "url": "http://42.121.106.99:443/266020607/nlpsD98B7B683DA0CFDCE1B4/963361828",
           "name": "赛场原声"
+        },
+        {
+          "url": "http://42.121.106.99:443/266020607/nlpsD98B7B683DA0CFDCE1B4/963551157",
+          "name": "房朕"
         },
         {
           "url": "http://42.121.106.99:443/266020607/nlpsD98B7B683DA0CFDCE1B4/963361835",
@@ -380,7 +372,7 @@
       "title": "NBA常规赛",
       "keyword": "03月13日07:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "小凯撒球馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/12/776GCJTKFRGA.jpg",
@@ -416,7 +408,7 @@
       "title": "NBA常规赛",
       "keyword": "03月13日07:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "安利中心",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/12/776GCK0H7MBP.jpg",
@@ -452,7 +444,7 @@
       "title": "NBA常规赛",
       "keyword": "03月13日07:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "盖恩布里奇体育馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/12/776GCK6MNQLA.jpg",
@@ -474,7 +466,7 @@
         },
         {
           "url": "http://42.121.106.99:443/266020607/nlpsD98B7B683DA0CFDCE1B4/963460790",
-          "name": "���行者VS太阳 刘圳展"
+          "name": "刘圳展"
         },
         {
           "url": "http://42.121.106.99:443/266020607/nlpsD98B7B683DA0CFDCE1B4/963460667",
@@ -661,12 +653,12 @@
           "name": "英文原声"
         },
         {
-          "url": "http://42.121.106.99:443/266020607/nlpsD98B7B683DA0CFDCE1B4/963551143",
-          "name": "单文强"
-        },
-        {
           "url": "http://42.121.106.99:443/266020607/nlpsD98B7B683DA0CFDCE1B4/963361828",
           "name": "赛场原声"
+        },
+        {
+          "url": "http://42.121.106.99:443/266020607/nlpsD98B7B683DA0CFDCE1B4/963551143",
+          "name": "单文强"
         },
         {
           "url": "http://42.121.106.99:443/266020607/nlpsD98B7B683DA0CFDCE1B4/963361835",
@@ -1286,7 +1278,7 @@
         },
         {
           "url": "http://42.121.106.99:443/266020607/nlpsD98B7B683DA0CFDCE1B4/963424625",
-          "name": "2026赛季四川省城市足球联赛第1轮：达州川汉子队vs凉山好医生队"
+          "name": "达州川汉子队VS凉山好医生队 2026赛季四川省城市足球联赛第1轮：达州川汉子队vs凉山好医生队"
         }
       ]
     },
@@ -1374,6 +1366,18 @@
         },
         {
           "pID": "963497159",
+          "name": "3号场地"
+        },
+        {
+          "url": "http://42.121.106.99:443/266020607/nlpsD98B7B683DA0CFDCE1B4/963497151",
+          "name": "2号场地"
+        },
+        {
+          "url": "http://42.121.106.99:443/266020607/nlpsD98B7B683DA0CFDCE1B4/963497146",
+          "name": "1号场地"
+        },
+        {
+          "url": "http://42.121.106.99:443/266020607/nlpsD98B7B683DA0CFDCE1B4/963497159",
           "name": "3号场地"
         }
       ]
