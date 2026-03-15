@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-03-15 14:32:12",
+  "updateTime": "2026-03-15 15:02:17",
   "data": [
     {
       "mgdbId": "120000543581",
@@ -587,7 +587,7 @@
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/20/7711R3FFSB67.png",
       "pkInfoTitle": "瓦列霍斯TKO艾米特 罗伯森判定击败莱莫斯",
       "modifyTitle": "UFC格斗之夜：艾米特VS瓦列霍斯",
-      "presenters": "��琰博 郝俊",
+      "presenters": "王琰博 郝俊",
       "matchInfo": {
         "time": "03月15日05:00"
       },
@@ -1021,15 +1021,15 @@
     {
       "mgdbId": "120000570786",
       "pID": "963425659",
-      "title": "蒯曼4-1王艺迪 温瑞博战张本冲决赛",
+      "title": "蒯曼4-1王艺迪 温瑞博力克张本晋级决赛",
       "keyword": "03月15日11:00",
       "sportItemId": "7",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/15/776J40MSIF0V.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/15/776J4B3EMQS7.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "蒯曼4-1王艺迪 温瑞博战张本冲决赛",
+      "pkInfoTitle": "蒯曼4-1王艺迪 温瑞博力克张本晋级决赛",
       "modifyTitle": "WTT重庆冠军赛：男女单打半决赛",
       "presenters": "侯英超",
       "matchInfo": {
@@ -1041,8 +1041,16 @@
           "name": "侯英超"
         },
         {
+          "pID": "963425697",
+          "name": "混采区"
+        },
+        {
           "pID": "963425625",
           "name": "赛场原声"
+        },
+        {
+          "pID": "963425604",
+          "name": "训练馆"
         },
         {
           "pID": "963497288",
@@ -1051,14 +1059,6 @@
         {
           "pID": "963425688",
           "name": "候场区"
-        },
-        {
-          "pID": "963425697",
-          "name": "混采区"
-        },
-        {
-          "pID": "963425604",
-          "name": "训练馆"
         }
       ]
     },
@@ -1068,7 +1068,7 @@
       "title": "女足亚洲杯1/4决赛",
       "keyword": "03月15日13:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "澳大利亚球场",
       "competitionName": "女足亚洲杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/10/776EKQVQPK3V.png",
@@ -1124,7 +1124,7 @@
       "title": "北海市合浦县队vs钦州市钦北区队",
       "keyword": "03月15日14:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "广西县级足球超级联赛",
       "padImg": "",
@@ -1285,7 +1285,7 @@
     {
       "mgdbId": "120000570787",
       "pID": "963425777",
-      "title": "蒯曼与张本美和争冠",
+      "title": "决赛：蒯曼、温瑞博全力争冠",
       "keyword": "03月15日18:30",
       "sportItemId": "7",
       "matchStatus": "0",
@@ -1293,7 +1293,7 @@
       "competitionName": "WTT",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/15/776J426LFA5U.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "蒯曼与张本美和争冠",
+      "pkInfoTitle": "决赛：蒯曼、温瑞博全力争冠",
       "modifyTitle": "WTT重庆冠军赛：男女单打决赛",
       "presenters": "刘国正 周冠达 石念知音",
       "matchInfo": {
@@ -1497,7 +1497,7 @@
       "competitionName": "女篮世界杯资格赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/14/776I7DC712PG.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/3/9/10000000141610602642.png",
-      "pkInfoTitle": "捷克���篮vs中国女篮",
+      "pkInfoTitle": "捷克女篮vs中国女篮",
       "modifyTitle": "女篮世界杯资格赛",
       "presenters": "邵化谦 隋菲菲",
       "matchInfo": {
@@ -2123,6 +2123,58 @@
         {
           "pID": "963572608",
           "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000542226",
+      "pID": "120000542226",
+      "title": "利物浦 vs 托特纳姆热刺",
+      "keyword": "03月15日23:50",
+      "sportItemId": "",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "英超",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/08/22/11005/fd55a50df76749f0b4bdb745927a3e8e/fd55a50df76749f0b4bdb745927a3e8e_H169_P1080_WEBP.webp",
+      "competitionLogo": "",
+      "pkInfoTitle": "利物浦 vs 托特纳姆热刺",
+      "modifyTitle": "利物浦 vs 托特纳姆热刺",
+      "presenters": "",
+      "matchInfo": {
+        "time": "03月15日23:50"
+      },
+      "nodes": [
+        {
+          "pID": "963572437",
+          "name": "詹俊 张路 林梦鸽"
+        },
+        {
+          "pID": "963572456",
+          "name": "陈凯冬 何辉"
+        },
+        {
+          "pID": "963572634",
+          "name": "球星视角"
+        },
+        {
+          "pID": "963572494",
+          "name": "英文原声"
+        },
+        {
+          "pID": "963572505",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "963572531",
+          "name": "洪荒"
+        },
+        {
+          "pID": "963572538",
+          "name": "陈渤胄"
+        },
+        {
+          "pID": "963572521",
+          "name": "詹俊 张路 林梦鸽"
         }
       ]
     }
