@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-03-15 18:02:31",
+  "updateTime": "2026-03-15 18:32:16",
   "data": [
     {
       "mgdbId": "120000543581",
@@ -587,7 +587,7 @@
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/20/7711R3FFSB67.png",
       "pkInfoTitle": "瓦列霍斯TKO艾米特 罗伯森判定击败莱莫斯",
       "modifyTitle": "UFC格斗之夜：艾米特VS瓦列霍斯",
-      "presenters": "���琰博 郝俊",
+      "presenters": "王琰��� 郝俊",
       "matchInfo": {
         "time": "03月15日05:00"
       },
@@ -1208,10 +1208,10 @@
       "title": "中甲联赛",
       "keyword": "03月15日16:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "宝安体育中心体育场",
       "competitionName": "中甲",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000570742/608998_H169_sc.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000570742/636858_H169_sc.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/10106c2211.png",
       "pkInfoTitle": "深圳青年人 vs 陕西联合",
       "modifyTitle": "中甲联赛",
@@ -1228,11 +1228,11 @@
     },
     {
       "mgdbId": "120000571453",
-      "pID": "963511673",
+      "pID": "963636291",
       "title": "女篮世界杯资格赛",
       "keyword": "03月15日16:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Wuhan Sports Centre",
       "competitionName": "女篮世界杯资格赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/14/776I8CGD3MFS.png",
@@ -1244,6 +1244,10 @@
         "time": "03月15日16:30"
       },
       "nodes": [
+        {
+          "pID": "963636291",
+          "name": "再战欧洲劲旅盼取胜！中国女篮vs捷克数据前瞻 女篮众将力争克敌"
+        },
         {
           "pID": "963511673",
           "name": "赛场原声"
@@ -1291,7 +1295,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/15/776J40MHBVVK.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/15/776J5E7RSL5V.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "第六比赛日训练馆",
       "modifyTitle": "WTT重庆冠军赛：第六比赛日训练馆",
@@ -1361,16 +1365,16 @@
           "name": "训练馆"
         },
         {
+          "pID": "963425799",
+          "name": "候场区"
+        },
+        {
           "pID": "963425714",
           "name": "赛场原声"
         },
         {
           "pID": "963497296",
           "name": "智能字幕"
-        },
-        {
-          "pID": "963425799",
-          "name": "候场区"
         },
         {
           "pID": "963425825",
@@ -1604,6 +1608,10 @@
         "time": "03月15日19:30"
       },
       "nodes": [
+        {
+          "pID": "963638832",
+          "name": "CCTV5"
+        },
         {
           "pID": "963512139",
           "name": "女篮世界杯资格赛"
