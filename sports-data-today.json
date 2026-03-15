@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-03-15 09:32:08",
+  "updateTime": "2026-03-15 10:02:07",
   "data": [
     {
       "mgdbId": "120000543581",
@@ -788,11 +788,11 @@
     },
     {
       "mgdbId": "120000571478",
-      "pID": "963508881",
+      "pID": "963508054",
       "title": "女篮世界杯资格赛",
       "keyword": "03月15日08:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Puerto Rico Coliseum Jose Miguel Agrelot “El Choli”",
       "competitionName": "女篮世界杯资格赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000571478/202603091953_327807_H169_1080.webp",
@@ -804,6 +804,10 @@
         "time": "03月15日08:00"
       },
       "nodes": [
+        {
+          "pID": "963508054",
+          "name": "中国女篮出征世界杯资格赛前瞻：王牌内线扛旗+后浪奔涌！无畏金兰盼重拾强队本色"
+        },
         {
           "pID": "963508881",
           "name": "赛场原声"
@@ -960,7 +964,7 @@
       "title": "第六比赛日训练馆",
       "keyword": "03月15日10:00",
       "sportItemId": "7",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/14/776I9QM0F7DD.jpg",
@@ -998,25 +1002,21 @@
       "nodes": [
         {
           "pID": "963459462",
-          "name": "孙博 刘铁 裴��"
+          "name": "孙博 刘铁 裴优"
         },
         {
           "pID": "963459435",
           "name": "英文原声"
-        },
-        {
-          "pID": "963459462",
-          "name": "孙博 刘铁 裴优"
         }
       ]
     },
     {
       "mgdbId": "120000570786",
-      "pID": "963425659",
+      "pID": "963425604",
       "title": "蒯曼PK王艺迪 温瑞博与张本拼决赛席",
       "keyword": "03月15日11:00",
       "sportItemId": "7",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/15/776J69GE9C31.jpg",
@@ -1029,12 +1029,12 @@
       },
       "nodes": [
         {
-          "pID": "963425659",
-          "name": "侯英超"
-        },
-        {
           "pID": "963425604",
           "name": "训练馆"
+        },
+        {
+          "pID": "963425659",
+          "name": "侯英超"
         },
         {
           "pID": "963425625",
