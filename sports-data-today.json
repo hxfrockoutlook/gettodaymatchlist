@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-03-17 17:01:15",
+  "updateTime": "2026-03-17 17:31:15",
   "data": [
     {
       "mgdbId": "120000543748",
@@ -484,22 +484,30 @@
     },
     {
       "mgdbId": "120000571285",
-      "pID": "963443153",
-      "title": "傅家俊、希金斯出战 特鲁姆普晋级",
+      "pID": "963443249",
+      "title": "张安达傅家俊晋级 希金斯逆转失败",
       "keyword": "03月17日14:00",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "斯诺克",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/17/776L05K891KG.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/17/776KVBCPHP09.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "傅家俊、希金斯出战 特鲁姆普晋级",
-      "modifyTitle": "斯诺克世界公开赛64进32：傅家俊、希金斯出战 特鲁姆普晋级",
+      "pkInfoTitle": "张安达傅家俊晋级 希金斯逆转失败",
+      "modifyTitle": "斯诺克世界公开赛64进32：张安达傅家俊晋级 希金斯逆转失败",
       "presenters": "朱峰立",
       "matchInfo": {
         "time": "03月17日14:00"
       },
       "nodes": [
+        {
+          "pID": "963443249",
+          "name": "5号桌"
+        },
+        {
+          "pID": "963443262",
+          "name": "6号桌"
+        },
         {
           "pID": "963443153",
           "name": "2号桌"
@@ -507,10 +515,6 @@
         {
           "pID": "963645532",
           "name": "朱峰立"
-        },
-        {
-          "pID": "963443249",
-          "name": "5号桌"
         },
         {
           "pID": "963443128",
@@ -523,10 +527,6 @@
         {
           "pID": "963443188",
           "name": "4号桌"
-        },
-        {
-          "pID": "963443262",
-          "name": "6号桌"
         }
       ]
     },
