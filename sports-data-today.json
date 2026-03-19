@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-03-19 09:01:12",
+  "updateTime": "2026-03-19 09:31:04",
   "data": [
     {
       "mgdbId": "120000572387",
@@ -332,7 +332,7 @@
       "title": "NBA常规赛",
       "keyword": "03月19日09:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "丰田中心球馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/18/776LRUV5LL3H.png",
@@ -380,7 +380,7 @@
       "title": "张雨霏、潘展乐、唐钱婷领衔出战",
       "keyword": "03月19日09:30",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "中国游泳公开赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/17/776KVBUP4U47.jpg",
@@ -467,11 +467,19 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "火箭PK墨菲 周跃龙吴宜泽出战",
       "modifyTitle": "斯诺克世界公开赛1/8决赛：火箭PK墨菲 周跃龙吴宜泽出战",
-      "presenters": "",
+      "presenters": "朱蒙 朱峰立",
       "matchInfo": {
         "time": "03月19日14:00"
       },
       "nodes": [
+        {
+          "pID": "963702874",
+          "name": "朱蒙"
+        },
+        {
+          "pID": "963702876",
+          "name": "朱峰立"
+        },
         {
           "pID": "963443963",
           "name": "1号桌"
@@ -707,11 +715,19 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "赵心童VS加里威尔逊 傅家俊出战",
       "modifyTitle": "斯诺克世界公开赛1/8决赛：赵心童VS加里威尔逊 傅家俊出战",
-      "presenters": "",
+      "presenters": "秦正 朱峰立",
       "matchInfo": {
         "time": "03月19日19:30"
       },
       "nodes": [
+        {
+          "pID": "963702889",
+          "name": "秦正"
+        },
+        {
+          "pID": "963702891",
+          "name": "朱峰立"
+        },
         {
           "pID": "963444001",
           "name": "1号桌"
