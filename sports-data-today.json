@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-03-21 06:32:38",
+  "updateTime": "2026-03-21 07:02:36",
   "data": [
     {
       "mgdbId": "120000572336",
@@ -33,15 +33,15 @@
     {
       "mgdbId": "120000570424",
       "pID": "963692941",
-      "title": "PFL马德里站：斯特尼斯VS爱德华兹二番战",
+      "title": "斯特尼斯双杀爱德华兹成功卫冕",
       "keyword": "03月21日01:00",
       "sportItemId": "5",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "PFL",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/21/776OJ7DVD753.gif",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/21/776OK5B0M4E2.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/2/4/1000000014081066b2d5.png",
-      "pkInfoTitle": "PFL马德里站：斯特尼斯VS爱德华兹二番战",
+      "pkInfoTitle": "斯特尼斯双杀爱德华兹成功卫冕",
       "modifyTitle": "PFL马德里站：斯特尼斯VS爱德华兹二番战",
       "presenters": "汪乐",
       "matchInfo": {
@@ -267,40 +267,8 @@
       ]
     },
     {
-      "mgdbId": "120000572621",
-      "pID": "963722198",
-      "title": "WTA迈阿密站女单第二轮：郑钦文 vs 斯蒂文斯",
-      "keyword": "03月21日07:10",
-      "sportItemId": "9",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "WTA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/20/776NLEMTOVA6.png",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "郑钦文 vs 斯蒂文斯",
-      "modifyTitle": "WTA迈阿密站女单第二轮：郑钦文 vs 斯蒂文斯",
-      "presenters": "房朕",
-      "matchInfo": {
-        "time": "03月21日07:10"
-      },
-      "nodes": [
-        {
-          "pID": "963722198",
-          "name": "房朕"
-        },
-        {
-          "pID": "963722168",
-          "name": "清流播出"
-        },
-        {
-          "pID": "963722188",
-          "name": "英文原声"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000572622",
-      "pID": "963722217",
+      "pID": "963722168",
       "title": "WTA迈阿密站女单第二轮：麦克纳莉 vs 王欣瑜",
       "keyword": "03月21日07:10",
       "sportItemId": "9",
@@ -321,11 +289,11 @@
           "name": "郭丰庆"
         },
         {
-          "pID": "963722217",
-          "name": "清流播出"
+          "pID": "963722168",
+          "name": "赛场原声"
         },
         {
-          "pID": "963722222",
+          "pID": "963722188",
           "name": "英文原声"
         }
       ]
@@ -1529,7 +1497,7 @@
       "competitionName": "中甲",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000570735/202603010126_589508_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/10106c2211.png",
-      "pkInfoTitle": "南京城市 vs 延��龙鼎",
+      "pkInfoTitle": "南京城市 vs 延边龙鼎",
       "modifyTitle": "中甲联赛",
       "presenters": "",
       "matchInfo": {
@@ -1569,7 +1537,7 @@
     {
       "mgdbId": "120000571294",
       "pID": "963443461",
-      "title": "半决赛：特鲁姆普VS塔猜亚",
+      "title": "半决���：特鲁姆普VS塔猜亚",
       "keyword": "03月21日19:30",
       "sportItemId": "8",
       "matchStatus": "0",
@@ -2481,6 +2449,25 @@
           "name": "赛场原声"
         }
       ]
+    },
+    {
+      "mgdbId": "120000572621",
+      "pID": "120000572621",
+      "title": "郑钦文 vs 斯蒂文斯",
+      "keyword": "03月21日07:10",
+      "sportItemId": "",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "WTA",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/07/08/11005/25eab3e85d48452f9f639282bebcebd1/25eab3e85d48452f9f639282bebcebd1_H169_P1080_WEBP.webp",
+      "competitionLogo": "",
+      "pkInfoTitle": "郑钦文 vs 斯蒂文斯",
+      "modifyTitle": "郑钦文 vs 斯蒂文斯",
+      "presenters": "",
+      "matchInfo": {
+        "time": "03月21日07:10"
+      },
+      "nodes": []
     }
   ]
 }
