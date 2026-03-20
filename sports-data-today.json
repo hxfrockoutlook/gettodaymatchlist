@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-03-20 13:31:07",
+  "updateTime": "2026-03-20 14:01:12",
   "data": [
     {
       "mgdbId": "120000547552",
@@ -344,7 +344,7 @@
       "title": "火箭出战冲击4强 吴宜泽PK艾伦",
       "keyword": "03月20日14:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/20/776NLG8NNJTS.png",
@@ -403,7 +403,32 @@
       ]
     },
     {
+      "mgdbId": "120000572582",
+      "pID": "963706441",
+      "title": "东亚超级联赛",
+      "keyword": "03月20日18:00",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "东亚超级联赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/20/776NLIGPHCP9.png",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/10/3/100000001347106aef35.png",
+      "pkInfoTitle": "琉球黄金帝王vs宇都宫王道",
+      "modifyTitle": "东亚超级联赛",
+      "presenters": "王冠证",
+      "matchInfo": {
+        "time": "03月20日18:00"
+      },
+      "nodes": [
+        {
+          "pID": "963706441",
+          "name": "王冠证"
+        }
+      ]
+    },
+    {
       "mgdbId": "300000001962",
+      "pID": "963717981",
       "title": "篮球公园——女篮世界杯资格赛特辑",
       "sportItemId": "2",
       "matchStatus": "0",
@@ -415,7 +440,12 @@
       "modifyTitle": "篮球公园——女篮世界杯资格赛特辑",
       "presenters": "",
       "matchInfo": {},
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "963717981",
+          "name": "篮球公园"
+        }
+      ]
     },
     {
       "mgdbId": "120000569801",
@@ -542,7 +572,7 @@
       "matchStatus": "0",
       "matchField": "南通体育会展中心体育馆",
       "competitionName": "CBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/19/776MOOJ6JE2D.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/20/776NLINLI453.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png",
       "pkInfoTitle": "江苏肯帝亚vs广东东阳光",
       "modifyTitle": "CBA常规赛第28轮",
@@ -686,6 +716,30 @@
       ]
     },
     {
+      "mgdbId": "120000572583",
+      "pID": "963706494",
+      "title": "东亚超级联赛",
+      "keyword": "03月20日20:30",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "东亚超级联赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/20/776NLIPL5HOQ.png",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/10/3/100000001347106aef35.png",
+      "pkInfoTitle": "东京电击vs桃园璞园领航猿",
+      "modifyTitle": "东亚超级联赛",
+      "presenters": "王冠证",
+      "matchInfo": {
+        "time": "03月20日20:30"
+      },
+      "nodes": [
+        {
+          "pID": "963706494",
+          "name": "王冠证"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000572389",
       "pID": "963658762",
       "title": "萨巴伦卡、莱巴金娜迎首秀",
@@ -698,7 +752,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
       "pkInfoTitle": "萨巴伦卡、莱巴金娜迎首秀",
       "modifyTitle": "WTA迈阿密站女单第二轮：萨巴伦卡、莱巴金娜迎首秀",
-      "presenters": "",
+      "presenters": "房朕",
       "matchInfo": {
         "time": "03月20日23:00"
       },
@@ -710,6 +764,30 @@
         {
           "pID": "963658773",
           "name": "英文原声"
+        },
+        {
+          "pID": "963722198",
+          "name": "郑钦文 vs 斯蒂文斯(房朕)"
+        },
+        {
+          "pID": "963722168",
+          "name": "郑钦文 vs 斯蒂文斯"
+        },
+        {
+          "pID": "963722188",
+          "name": "郑钦文 vs 斯蒂文斯（英文原声）"
+        },
+        {
+          "pID": "963722217",
+          "name": "麦克纳莉 vs 王��瑜"
+        },
+        {
+          "pID": "963722228",
+          "name": "麦克纳莉 vs 王欣瑜(郭丰庆)"
+        },
+        {
+          "pID": "963722222",
+          "name": "麦克纳莉 vs 王欣瑜（英文原声）"
         }
       ]
     }
