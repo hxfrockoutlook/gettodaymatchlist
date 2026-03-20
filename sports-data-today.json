@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-03-20 07:31:04",
+  "updateTime": "2026-03-20 08:01:13",
   "data": [
     {
       "mgdbId": "120000547552",
@@ -64,7 +64,7 @@
       "title": "NBA常规赛",
       "keyword": "03月20日08:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "冰沙国王中心",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/19/776MOORLPM4A.jpg",
@@ -92,7 +92,7 @@
       "title": "NBA常规赛",
       "keyword": "03月20日08:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "联合中心球馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/19/776MOOIV05O7.jpg",
@@ -120,7 +120,7 @@
       "title": "NBA常规赛",
       "keyword": "03月20日08:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "冰霜银行中心",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/19/776MOLDBV29F.png",
@@ -156,7 +156,7 @@
       "title": "NBA常规赛",
       "keyword": "03月20日08:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "卡西亚中心",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/19/776MOLAO3CRV.png",
@@ -327,11 +327,19 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "火箭出战冲击4强 吴宜泽PK艾伦",
       "modifyTitle": "斯诺克世界公开赛1/4決赛：火箭出战冲击4强 吴宜泽PK艾伦",
-      "presenters": "朱峰立 柏林",
+      "presenters": "柏林 朱峰立",
       "matchInfo": {
         "time": "03月20日14:00"
       },
       "nodes": [
+        {
+          "pID": "963705598",
+          "name": "柏林"
+        },
+        {
+          "pID": "963705588",
+          "name": "朱峰立"
+        },
         {
           "pID": "963443337",
           "name": "1号桌"
@@ -339,14 +347,6 @@
         {
           "pID": "963443352",
           "name": "2号桌"
-        },
-        {
-          "pID": "963705588",
-          "name": "朱峰立"
-        },
-        {
-          "pID": "963705598",
-          "name": "柏林"
         }
       ]
     },
@@ -486,11 +486,19 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "王牌君出战 塔猜亚PK加里·威尔逊",
       "modifyTitle": "斯诺克世界公开赛1/4決赛：王牌君出战 塔猜亚PK加里·威尔逊",
-      "presenters": "朱蒙 秦正",
+      "presenters": "秦正 朱蒙",
       "matchInfo": {
         "time": "03月20日19:30"
       },
       "nodes": [
+        {
+          "pID": "963705578",
+          "name": "秦正"
+        },
+        {
+          "pID": "963705563",
+          "name": "朱蒙"
+        },
         {
           "pID": "963443364",
           "name": "1号桌"
@@ -498,14 +506,6 @@
         {
           "pID": "963443382",
           "name": "2号桌"
-        },
-        {
-          "pID": "963705563",
-          "name": "朱蒙"
-        },
-        {
-          "pID": "963705578",
-          "name": "秦正"
         }
       ]
     },
