@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-03-21 13:32:31",
+  "updateTime": "2026-03-21 14:02:58",
   "data": [
     {
       "mgdbId": "120000572336",
@@ -656,11 +656,11 @@
     },
     {
       "mgdbId": "120000571293",
-      "pID": "963443408",
+      "pID": "963726852",
       "title": "半决赛：奥沙利文VS吴宜泽",
       "keyword": "03月21日14:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/21/776OLIK3U34U.jpg",
@@ -688,7 +688,7 @@
       "title": "Jr. NBA广东站决赛",
       "keyword": "03月21日14:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "Jr. NBA",
       "padImg": "",
@@ -1080,7 +1080,7 @@
     },
     {
       "mgdbId": "120000572337",
-      "pID": "963634744",
+      "pID": "963741042",
       "title": "冲决赛！胡珂源/林祥毅领衔出战",
       "keyword": "03月21日17:00",
       "sportItemId": "6",
@@ -1091,18 +1091,22 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "冲决赛！胡珂源/林祥毅领衔出战",
       "modifyTitle": "奥尔良羽毛球大师赛第五日：冲决赛！胡珂源/林祥毅领衔出战",
-      "presenters": "",
+      "presenters": "杨妮娜",
       "matchInfo": {
         "time": "03月21日17:00"
       },
       "nodes": [
         {
+          "pID": "963741042",
+          "name": "杨妮娜"
+        },
+        {
           "pID": "963634744",
           "name": "1号场地"
         },
         {
-          "pID": "963634748",
-          "name": "1号场地"
+          "pID": "963741170",
+          "name": "1号场地英文原声"
         }
       ]
     },
