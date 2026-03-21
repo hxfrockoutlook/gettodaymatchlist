@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-03-21 07:32:29",
+  "updateTime": "2026-03-21 08:02:38",
   "data": [
     {
       "mgdbId": "120000572336",
@@ -332,7 +332,7 @@
       "title": "逐马计划武汉站早餐跑",
       "keyword": "03月21日07:30",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "逐马计划",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/20/776NODVIL5H6.jpg",
@@ -352,11 +352,11 @@
     },
     {
       "mgdbId": "120000572622",
-      "pID": "963722228",
+      "pID": "963722217",
       "title": "WTA迈阿密站女单第二轮：麦克纳莉 vs 王欣瑜",
       "keyword": "03月21日07:30",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/20/776NOPJV4MVG.png",
@@ -369,16 +369,16 @@
       },
       "nodes": [
         {
+          "pID": "963722217",
+          "name": "麦克纳莉 vs 王欣瑜"
+        },
+        {
           "pID": "963722228",
           "name": "郭丰庆"
         },
         {
-          "pID": "963722217",
-          "name": "麦克纳莉 vs 王欣瑜（4号场）"
-        },
-        {
           "pID": "963722222",
-          "name": "麦克纳莉 vs 王欣瑜（英文原声）（4号场）"
+          "name": "麦克纳莉 vs 王欣瑜（英文原声）"
         }
       ]
     },
@@ -388,7 +388,7 @@
       "title": "NBA常规赛",
       "keyword": "03月21日08:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "丰田中心球馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/20/776NLFTIATI1.png",
@@ -420,7 +420,7 @@
       "title": "NBA常规赛",
       "keyword": "03月21日08:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "標靶中心",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/21/776OKAEQCMO0.png",
@@ -452,7 +452,7 @@
       "title": "NBA常规赛",
       "keyword": "03月21日08:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "联邦快递球馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/20/776NLG960K0M.png",
@@ -667,7 +667,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "半决赛：奥沙利文VS吴宜泽",
       "modifyTitle": "斯诺克世界公开赛半决赛：奥沙利文VS吴宜泽",
-      "presenters": "朱蒙 秦正 袁成",
+      "presenters": "秦正 袁成",
       "matchInfo": {
         "time": "03月21日14:00"
       },
@@ -1543,22 +1543,22 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "斯诺克",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/21/776OKCIP7THS.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "半决赛：特鲁姆普VS塔猜亚",
-      "modifyTitle": "斯��克世界公开赛半决赛：特鲁姆普VS塔猜亚",
-      "presenters": "袁成 秦正 朱蒙",
+      "modifyTitle": "斯诺克世界公开赛半决赛：特鲁姆普VS塔猜亚",
+      "presenters": "朱蒙",
       "matchInfo": {
         "time": "03月21日19:30"
       },
       "nodes": [
         {
-          "pID": "963443461",
-          "name": "1号桌"
-        },
-        {
           "pID": "963726863",
           "name": "朱蒙"
+        },
+        {
+          "pID": "963443461",
+          "name": "1号桌"
         }
       ]
     },
