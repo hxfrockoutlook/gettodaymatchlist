@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-03-21 16:02:46",
+  "updateTime": "2026-03-21 16:32:52",
   "data": [
     {
       "mgdbId": "120000572336",
@@ -1060,7 +1060,7 @@
       "title": "中乙联赛",
       "keyword": "03月21日16:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "湖北足管中心训练基地中心球场",
       "competitionName": "中乙",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000572132/202603121005_442100_H169_1080.webp",
@@ -1285,7 +1285,7 @@
       "competitionName": "NBL",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000564164/202512171146_818227_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/6/29/1000000010691064a6f5.png",
-      "pkInfoTitle": "湖北文旅 VS 石家庄翔蓝",
+      "pkInfoTitle": "湖北��旅 VS 石家庄翔蓝",
       "modifyTitle": "NBL常规赛",
       "presenters": "",
       "matchInfo": {
@@ -2474,6 +2474,34 @@
         },
         {
           "pID": "963710656",
+          "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000543576",
+      "pID": "120000543576",
+      "title": "图卢兹 vs 洛里昂",
+      "keyword": "03月21日23:45",
+      "sportItemId": "",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "法甲",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/07/17/11005/f3eca7533a0b4854bbf51a58bbb82bb8/f3eca7533a0b4854bbf51a58bbb82bb8_H169_P1080_WEBP.webp",
+      "competitionLogo": "",
+      "pkInfoTitle": "图卢兹 vs 洛里昂",
+      "modifyTitle": "图卢兹 vs 洛里昂",
+      "presenters": "",
+      "matchInfo": {
+        "time": "03月21日23:45"
+      },
+      "nodes": [
+        {
+          "pID": "963710653",
+          "name": "邵煊"
+        },
+        {
+          "pID": "963710650",
           "name": "赛场原声"
         }
       ]
