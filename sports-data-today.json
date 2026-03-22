@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-03-22 20:32:23",
+  "updateTime": "2026-03-22 21:02:27",
   "data": [
     {
       "mgdbId": "120000543576",
@@ -42,7 +42,7 @@
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/21/776OKVDLO58D.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "胡哲安止步 胡林组合晋级决赛",
-      "modifyTitle": "奥尔良羽毛球大师赛第五日：胡哲安止步 胡林组合晋级决赛",
+      "modifyTitle": "奥尔良羽��球大师赛第五日：胡哲安止步 胡林组合晋级决赛",
       "presenters": "孙宁智",
       "matchInfo": {
         "time": "03月22日00:00"
@@ -1455,10 +1455,10 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "BWF",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/22/776PGT72EKDG.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/22/776PHP1AT7BA.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "胡珂源/林祥毅直落两局摘巡回赛首冠",
-      "modifyTitle": "奥尔良羽毛球大师赛第六日：胡珂源/林祥毅直落两局摘巡回赛首冠",
+      "modifyTitle": "奥尔良羽毛球大师赛第六日：国羽男双胡珂源/林祥毅直落两局摘巡回赛首冠",
       "presenters": "鸿昆",
       "matchInfo": {
         "time": "03月22日18:00"
@@ -1504,7 +1504,7 @@
     },
     {
       "mgdbId": "120000572695",
-      "pID": "963763419",
+      "pID": "963767071",
       "title": "东亚超级联赛",
       "keyword": "03月22日18:00",
       "sportItemId": "2",
@@ -1520,6 +1520,10 @@
         "time": "03月22日18:00"
       },
       "nodes": [
+        {
+          "pID": "963767071",
+          "name": "全场回放"
+        },
         {
           "pID": "963763419",
           "name": "王冠证"
@@ -1560,7 +1564,7 @@
       "title": "梁平运虹队vs江津润通动力队",
       "keyword": "03月22日19:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "重庆城市足球超级联赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000572464/202603181550_324878_H169_1080.webp",
@@ -1876,7 +1880,7 @@
       "title": "西甲联赛",
       "keyword": "03月22日21:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "西甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000543311/541770_H169_sc.jpg",
@@ -1893,12 +1897,12 @@
           "name": "梁祥宇 李欣"
         },
         {
-          "pID": "963710771",
-          "name": "赛场原声"
-        },
-        {
           "pID": "963710777",
           "name": "梁祥宇 李欣"
+        },
+        {
+          "pID": "963710771",
+          "name": "赛场原声"
         }
       ]
     },
