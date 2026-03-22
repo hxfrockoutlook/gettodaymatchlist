@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-03-22 10:02:10",
+  "updateTime": "2026-03-22 10:32:10",
   "data": [
     {
       "mgdbId": "120000543576",
@@ -621,7 +621,7 @@
     {
       "mgdbId": "120000547569",
       "pID": "963761336",
-      "title": "NBA常规���",
+      "title": "NBA常规赛",
       "keyword": "03月22日07:00",
       "sportItemId": "2",
       "matchStatus": "2",
@@ -669,6 +669,10 @@
       },
       "nodes": [
         {
+          "pID": "963704223",
+          "name": "中交城投｜2026奉化马拉松"
+        },
+        {
           "pID": "963704230",
           "name": "2026上饶马拉松"
         },
@@ -699,10 +703,6 @@
         {
           "pID": "963704371",
           "name": "2026重庆长寿湖半程马拉松"
-        },
-        {
-          "pID": "963704223",
-          "name": "中交城投｜2026奉化马拉松"
         }
       ]
     },
@@ -768,14 +768,14 @@
     },
     {
       "mgdbId": "120000547571",
-      "pID": "963595957",
+      "pID": "963761739",
       "title": "NBA常规赛",
       "keyword": "03月22日08:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "冰霜银行中心",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/21/776OLI56CL2J.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/22/776PIAA1FTRP.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "步行者VS马刺",
       "modifyTitle": "NBA常规赛",
@@ -784,6 +784,10 @@
         "time": "03月22日08:00"
       },
       "nodes": [
+        {
+          "pID": "963761739",
+          "name": "少年将军意气风发！哈珀一条龙单手劈扣"
+        },
         {
           "pID": "963595957",
           "name": "王晓晨"
@@ -803,7 +807,7 @@
       "matchStatus": "1",
       "matchField": "州立农业球馆",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/22/776PHDABGTGE.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/22/776PIB17P8QR.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "勇士VS老鹰",
       "modifyTitle": "NBA常规赛",
@@ -1235,6 +1239,30 @@
       ]
     },
     {
+      "mgdbId": "120000572694",
+      "pID": "963760808",
+      "title": "东亚超级联赛",
+      "keyword": "03月22日15:00",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "东亚超级联赛",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000572694/202603220950_376178_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/10/3/100000001347106aef35.png",
+      "pkInfoTitle": "东京电击vs琉球黄金帝王",
+      "modifyTitle": "东亚超级联赛",
+      "presenters": "王冠证",
+      "matchInfo": {
+        "time": "03月22日15:00"
+      },
+      "nodes": [
+        {
+          "pID": "963760808",
+          "name": "王冠证"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000572126",
       "pID": "963723017",
       "title": "中乙联赛",
@@ -1451,6 +1479,30 @@
         {
           "pID": "963722954",
           "name": "2026江西省城市篮球联赛: 全明星周末赛"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000572695",
+      "pID": "963760812",
+      "title": "东亚超级联赛",
+      "keyword": "03月22日18:00",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "东亚超级联赛",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000572695/202603220949_817471_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/10/3/100000001347106aef35.png",
+      "pkInfoTitle": "桃园璞园领航猿vs宇都宫王道",
+      "modifyTitle": "东亚超级联赛",
+      "presenters": "王冠证",
+      "matchInfo": {
+        "time": "03月22日18:00"
+      },
+      "nodes": [
+        {
+          "pID": "963760812",
+          "name": "王冠证"
         }
       ]
     },
