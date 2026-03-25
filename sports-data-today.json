@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-03-25 14:31:04",
+  "updateTime": "2026-03-25 15:01:03",
   "data": [
     {
       "mgdbId": "120000547591",
@@ -172,7 +172,7 @@
       "title": "亚冠精英决赛阶段抽签仪式",
       "keyword": "03月25日15:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "亚冠精英",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/24/776R9T175K79.jpg",
@@ -227,7 +227,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "LALIGA FC FUTURES全球锦标赛",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/25/776S7D8L6SBF.png",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/24/776R9SULAAL0.jpg",
       "pkInfoTitle": "小组赛第1轮-上海海港U12将战巴萨",
       "modifyTitle": "西甲希望之星锦标赛",
@@ -336,6 +336,7 @@
     },
     {
       "mgdbId": "120000572846",
+      "pID": "963808090",
       "title": "CFA中国之队·国际足球锦标赛",
       "keyword": "03月25日19:30",
       "sportItemId": "1",
@@ -350,7 +351,12 @@
       "matchInfo": {
         "time": "03月25日19:30"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "963808090",
+          "name": "解说"
+        }
+      ]
     },
     {
       "mgdbId": "120000562379",
