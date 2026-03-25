@@ -1,35 +1,7 @@
 {
   "success": true,
-  "updateTime": "2026-03-26 06:37:46",
+  "updateTime": "2026-03-26 07:01:09",
   "data": [
-    {
-      "mgdbId": "120000572394",
-      "pID": "963659124",
-      "title": "萨巴伦卡稍后出战 莱巴金娜闯入四强",
-      "keyword": "03月26日01:00",
-      "sportItemId": "9",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "WTA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/25/776S7BT0B8KU.png",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "萨巴伦卡稍后出战 莱巴金娜闯入四强",
-      "modifyTitle": "WTA迈阿密站女单1/4决赛：萨巴伦卡稍后出战 莱巴金娜闯入四强",
-      "presenters": "",
-      "matchInfo": {
-        "time": "03月26日01:00"
-      },
-      "nodes": [
-        {
-          "pID": "963659124",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "963659139",
-          "name": "英文原声"
-        }
-      ]
-    },
     {
       "mgdbId": "120000572452",
       "pID": "963692239",
@@ -104,7 +76,7 @@
       "title": "NBA常规赛",
       "keyword": "03月26日07:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "小凯撒球馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/25/776S9K202LH3.png",
@@ -132,7 +104,7 @@
       "title": "NBA常规赛",
       "keyword": "03月26日07:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "盖恩布里奇体育馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/25/776S9JVB4P8M.png",
@@ -160,7 +132,7 @@
       "title": "NBA常规赛",
       "keyword": "03月26日07:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "富国银行中心",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/25/776S9K5I3PRB.png",
@@ -178,6 +150,34 @@
         },
         {
           "pID": "963724405",
+          "name": "英文原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000572394",
+      "pID": "963659124",
+      "title": "WTA迈阿密站 1/4决赛",
+      "keyword": "03月26日07:00",
+      "sportItemId": "9",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "WTA",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/25/776S7BT0B8KU.png",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
+      "pkInfoTitle": "WTA迈阿密站 1/4决赛",
+      "modifyTitle": "WTA迈阿密站女单1/4决赛：萨巴伦卡稍后出战 莱巴金娜闯入四强",
+      "presenters": "",
+      "matchInfo": {
+        "time": "03月26日07:00"
+      },
+      "nodes": [
+        {
+          "pID": "963659124",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "963659139",
           "name": "英文原声"
         }
       ]
