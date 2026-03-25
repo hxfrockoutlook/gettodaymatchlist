@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-03-25 19:01:04",
+  "updateTime": "2026-03-25 19:31:02",
   "data": [
     {
       "mgdbId": "120000547591",
@@ -97,7 +97,7 @@
     {
       "mgdbId": "120000547593",
       "pID": "963805921",
-      "title": "NBA常���赛",
+      "title": "NBA常规赛",
       "keyword": "03月25日08:00",
       "sportItemId": "2",
       "matchStatus": "2",
@@ -284,7 +284,7 @@
       "title": "NBL1/4决赛",
       "keyword": "03月25日19:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBL",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/24/776RC80EKQP1.jpg",
@@ -312,7 +312,7 @@
       "title": "NBL1/4决赛",
       "keyword": "03月25日19:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBL",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/24/776RC83BAK7Q.jpg",
@@ -330,38 +330,6 @@
         },
         {
           "pID": "963778053",
-          "name": "赛场原声"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000572846",
-      "pID": "963808090",
-      "title": "CFA中国之队·国际足球锦标赛",
-      "keyword": "03月25日19:30",
-      "sportItemId": "1",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "CFA中国之队·国际足球锦标赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/25/776S79NP5UDT.png",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/5/27/100000001276106bc9fd.png",
-      "pkInfoTitle": "中国U23 vs 泰国U23",
-      "modifyTitle": "CFA中国之队·国际足球锦标赛",
-      "presenters": "张昊泽 贺宇",
-      "matchInfo": {
-        "time": "03月25日19:30"
-      },
-      "nodes": [
-        {
-          "pID": "963808090",
-          "name": "解说"
-        },
-        {
-          "pID": "963813113",
-          "name": "张昊泽 贺宇"
-        },
-        {
-          "pID": "963813115",
           "name": "赛场原声"
         }
       ]
@@ -483,6 +451,34 @@
         {
           "pID": "963499759",
           "name": "图文直播"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000572846",
+      "pID": "963813113",
+      "title": "CFA中国之队·国际足球锦标赛",
+      "keyword": "03月25日19:35",
+      "sportItemId": "1",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "CFA中国之队·国际足球锦标赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/25/776S8N5K7DLV.png",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/5/27/100000001276106bc9fd.png",
+      "pkInfoTitle": "中国U23 vs 泰国U23",
+      "modifyTitle": "CFA中国之队·国际足球锦标赛",
+      "presenters": "张昊泽 贺宇",
+      "matchInfo": {
+        "time": "03月25日19:35"
+      },
+      "nodes": [
+        {
+          "pID": "963813113",
+          "name": "张昊泽 贺宇"
+        },
+        {
+          "pID": "963813115",
+          "name": "赛场原声"
         }
       ]
     },
