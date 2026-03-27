@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-03-27 11:01:08",
+  "updateTime": "2026-03-27 11:31:05",
   "data": [
     {
       "mgdbId": "120000572454",
@@ -37,6 +37,22 @@
           "name": "2号桌"
         }
       ]
+    },
+    {
+      "mgdbId": "300000001966",
+      "pID": "963840816",
+      "title": "经典赛事",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "DP World巡回赛海南高尔夫精英赛",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/3/17/100000001417106d1b34.png",
+      "pkInfoTitle": "经典赛事",
+      "modifyTitle": "高尔夫经典赛事",
+      "presenters": "",
+      "matchInfo": {},
+      "nodes": []
     },
     {
       "mgdbId": "120000572948",
@@ -629,6 +645,7 @@
     },
     {
       "mgdbId": "120000572836",
+      "pID": "963840956",
       "title": "龙lo领衔 任俊霏/邢珈宁出战",
       "keyword": "03月27日21:30",
       "sportItemId": "8",
@@ -643,7 +660,12 @@
       "matchInfo": {
         "time": "03月27日21:30"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "963840956",
+          "name": "CCTV5+"
+        }
+      ]
     }
   ]
 }
