@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-03-29 07:13:32",
+  "updateTime": "2026-03-29 07:31:39",
   "data": [
     {
       "mgdbId": "120000572458",
@@ -43,7 +43,12 @@
       "matchInfo": {
         "time": "03月29日01:00"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "963790853",
+          "name": "解说"
+        }
+      ]
     },
     {
       "mgdbId": "120000572944",
@@ -246,7 +251,52 @@
       "matchInfo": {
         "time": "03月29日06:15"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "963827512",
+          "name": "2026悦达起亚盐城马拉松"
+        },
+        {
+          "pID": "963827525",
+          "name": "2026京东宿迁马拉松"
+        },
+        {
+          "pID": "963827528",
+          "name": "君乐宝2026石家庄马拉松赛"
+        },
+        {
+          "pID": "963827541",
+          "name": "2026长兴太湖图影马拉松"
+        },
+        {
+          "pID": "963827561",
+          "name": "2026中国银行扬州半程马拉松暨东亚半程马拉松锦标赛"
+        },
+        {
+          "pID": "963827575",
+          "name": "2026问界重庆女子半程马拉松"
+        },
+        {
+          "pID": "963827595",
+          "name": "2026广东宏大·宏大防务连南半程马拉松"
+        },
+        {
+          "pID": "963827612",
+          "name": "2026龙游半程马拉松"
+        },
+        {
+          "pID": "963827630",
+          "name": "2026乐山犍为茉莉之乡半程马拉松"
+        },
+        {
+          "pID": "963827640",
+          "name": "2026贵阳贵安樱花半程马拉松"
+        },
+        {
+          "pID": "963827496",
+          "name": "2026柳州银行杯·柳州马拉松"
+        }
+      ]
     },
     {
       "mgdbId": "120000570425",
@@ -286,7 +336,7 @@
       "title": "NBA常规赛",
       "keyword": "03月29日07:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "州立农业球馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/28/776UUCLESAB4.png",
@@ -314,7 +364,7 @@
       "title": "2026悦达起亚盐城马拉松",
       "keyword": "03月29日07:30",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "马拉松系列赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/27/776U1QN2VVFG.jpg",
@@ -338,7 +388,7 @@
       "title": "2026京东宿迁马拉松",
       "keyword": "03月29日07:30",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "马拉松系列赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/27/776U1QQJJJBS.jpg",
@@ -362,7 +412,7 @@
       "title": "君乐宝2026石家庄马拉松赛",
       "keyword": "03月29日07:30",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "马拉松系列赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/27/776U1R3IJ8CA.jpg",
@@ -386,7 +436,7 @@
       "title": "2026长兴太湖图影马拉松",
       "keyword": "03月29日07:30",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "马拉松系列赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/27/776U1REUGM53.jpg",
@@ -410,7 +460,7 @@
       "title": "2026中国银行扬州半程马拉松",
       "keyword": "03月29日07:30",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "马拉松系列赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/27/776U1ROAAEF5.jpg",
@@ -434,7 +484,7 @@
       "title": "2026问界重庆女子半程马拉松",
       "keyword": "03月29日07:30",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "马拉松系列赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/27/776U1RRD80EQ.jpg",
@@ -458,7 +508,7 @@
       "title": "2026广东宏大·宏大防务连南半程马拉松",
       "keyword": "03月29日07:30",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "马拉松系列赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/27/776U1S43OI54.jpg",
@@ -482,7 +532,7 @@
       "title": "2026龙游半程马拉松",
       "keyword": "03月29日07:30",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "马拉松系列赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/27/776U1S7321JN.jpg",
