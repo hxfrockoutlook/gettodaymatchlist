@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-03-29 10:31:40",
+  "updateTime": "2026-03-29 11:01:45",
   "data": [
     {
       "mgdbId": "120000572458",
@@ -145,15 +145,15 @@
     {
       "mgdbId": "120000568067",
       "pID": "963806005",
-      "title": "UFC格斗之夜：阿迪萨亚VS派弗",
+      "title": "派弗TKO阿迪萨亚 格拉索KO速杀巴伯",
       "keyword": "03月29日05:00",
       "sportItemId": "5",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "UFC格斗之夜",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/29/776VTMIJCSN1.gif",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/24/776RCSHLL9SJ.png",
-      "pkInfoTitle": "UFC格斗之夜：阿迪萨亚VS派弗",
+      "pkInfoTitle": "派弗TKO阿迪萨亚 格拉索KO速杀巴伯",
       "modifyTitle": "UFC格斗之夜：阿迪萨亚VS派弗",
       "presenters": "王琰博 郝俊",
       "matchInfo": {
@@ -265,20 +265,12 @@
           "name": "2026贵阳贵安樱花半程马拉松"
         },
         {
-          "pID": "963827512",
-          "name": "2026悦达起亚盐城马拉松"
-        },
-        {
           "pID": "963827525",
           "name": "2026京东宿迁马拉松"
         },
         {
           "pID": "963827541",
           "name": "2026长兴太湖图影马拉松"
-        },
-        {
-          "pID": "963827496",
-          "name": "2026柳州银行杯·柳州马拉松"
         }
       ]
     },
@@ -352,7 +344,7 @@
       "title": "2026悦达起亚盐城马拉松",
       "keyword": "03月29日07:30",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "马拉松系列赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/27/776U1QN2VVFG.jpg",
@@ -540,14 +532,14 @@
     },
     {
       "mgdbId": "120000547624",
-      "pID": "963725011",
+      "pID": "963870393",
       "title": "NBA常规赛",
       "keyword": "03月29日08:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "联邦快递球馆",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/28/776UUCQBAQ22.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/29/776VU3IBHIEU.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "公牛VS灰熊",
       "modifyTitle": "NBA常规赛",
@@ -556,6 +548,10 @@
         "time": "03月29日08:00"
       },
       "nodes": [
+        {
+          "pID": "963870393",
+          "name": "大心脏！克莱顿三分自信出手一剑封喉"
+        },
         {
           "pID": "963725011",
           "name": "刘沛元"
@@ -572,7 +568,7 @@
       "title": "2026乐山犍为茉莉之乡半程马拉松",
       "keyword": "03月29日08:00",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "马拉松系列赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/27/776U1SGF5O90.jpg",
@@ -927,7 +923,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "国际乒联澳门单打世界杯",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/29/776VU4GTLNUO.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/3/26/100000001179106d13ec.png",
       "pkInfoTitle": "侯英超、周冠达、周泽昊深度解析签位",
       "modifyTitle": "国际乒联澳门单打世界杯赛事前瞻专场",
@@ -1001,7 +997,7 @@
     {
       "mgdbId": "120000572946",
       "pID": "963820636",
-      "title": "英女��",
+      "title": "英女超",
       "keyword": "03月29日19:00",
       "sportItemId": "1",
       "matchStatus": "0",
@@ -1252,6 +1248,7 @@
     },
     {
       "mgdbId": "120000572838",
+      "pID": "963870243",
       "title": "表演滑：马里宁领衔 坂本花织最后一舞",
       "keyword": "03月29日21:30",
       "sportItemId": "8",
@@ -1266,7 +1263,12 @@
       "matchInfo": {
         "time": "03月29日21:30"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "963870243",
+          "name": "2026年世界花样滑冰锦标赛-表演滑"
+        }
+      ]
     },
     {
       "mgdbId": "120000572947",
