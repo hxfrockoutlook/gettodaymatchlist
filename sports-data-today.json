@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-03-29 19:01:41",
+  "updateTime": "2026-03-29 19:31:39",
   "data": [
     {
       "mgdbId": "120000572458",
@@ -655,7 +655,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/9/1000000013211060eb7f.png",
       "pkInfoTitle": "墨尔本城 vs 纳萨夫",
       "modifyTitle": "亚冠女足1/4决赛",
-      "presenters": "兰��非",
+      "presenters": "兰子非",
       "matchInfo": {
         "time": "03月29日12:00"
       },
@@ -676,7 +676,7 @@
       "title": "经典重映-2025年终总决赛",
       "keyword": "03月29日12:00",
       "sportItemId": "6",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "BWF",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/26/776T469I6PU5.jpg",
@@ -772,7 +772,7 @@
     },
     {
       "mgdbId": "120000572855",
-      "pID": "963811023",
+      "pID": "963874997",
       "title": "北海市合浦县队4-0崇左市凭祥市队",
       "keyword": "03月29日14:30",
       "sportItemId": "1",
@@ -789,8 +789,8 @@
       },
       "nodes": [
         {
-          "pID": "963811023",
-          "name": "2026广西县级足球超级联赛第六轮: 北海市合浦县队vs崇左市凭祥市队"
+          "pID": "963874997",
+          "name": "25/26赛季广西县级足球超级联赛第6轮全场回放：北海市合浦县队4:0崇左市凭祥市队"
         }
       ]
     },
@@ -896,7 +896,7 @@
       "title": "决赛",
       "keyword": "03月29日17:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "LALIGA FC FUTURES全球锦标赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/29/776VRNH0I1F0.png",
@@ -1047,12 +1047,36 @@
       ]
     },
     {
+      "mgdbId": "120000573035",
+      "pID": "963843780",
+      "title": "广州vs云浮",
+      "keyword": "03月29日19:20",
+      "sportItemId": "2",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "广东省城市篮球联赛",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000573035/202603271055_291941_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/20/776NM5E61K72.png",
+      "pkInfoTitle": "广州vs云浮",
+      "modifyTitle": "广州vs云浮",
+      "presenters": "",
+      "matchInfo": {
+        "time": "03月29日19:20"
+      },
+      "nodes": [
+        {
+          "pID": "963843780",
+          "name": "2026广东省城市篮球联赛第二轮: 广州vs云浮"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000570361",
       "pID": "963789712",
       "title": "WCBA排位赛",
       "keyword": "03月29日19:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WCBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/28/776V0CN3IE89.jpg",
@@ -1080,7 +1104,7 @@
       "title": "WCBA排位赛",
       "keyword": "03月29日19:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WCBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/28/776V0C53QF0Q.png",
@@ -1123,30 +1147,6 @@
         {
           "pID": "963830643",
           "name": "2026安徽省青少年足球联赛男子高中组（甲组）第9轮对阵: 蚌埠vs芜湖"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000573035",
-      "pID": "963843780",
-      "title": "广州vs云浮",
-      "keyword": "03月29日19:30",
-      "sportItemId": "2",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "广东省城市篮球联赛",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000573035/202603271055_291941_H169_1080.webp",
-      "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/03/20/776NM5E61K72.png",
-      "pkInfoTitle": "广州vs云浮",
-      "modifyTitle": "广州vs云浮",
-      "presenters": "",
-      "matchInfo": {
-        "time": "03月29日19:30"
-      },
-      "nodes": [
-        {
-          "pID": "963843780",
-          "name": "2026广东省城市篮球联赛第二轮: 广州vs云浮"
         }
       ]
     },
