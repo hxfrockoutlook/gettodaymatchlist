@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-04-03 14:01:11",
+  "updateTime": "2026-04-03 14:31:03",
   "data": [
     {
       "mgdbId": "120000573208",
@@ -200,7 +200,7 @@
     },
     {
       "mgdbId": "120000547662",
-      "pID": "963957348",
+      "pID": "963958258",
       "title": "NBA常规赛",
       "keyword": "04月03日10:00",
       "sportItemId": "2",
@@ -216,6 +216,10 @@
         "time": "04月03日10:00"
       },
       "nodes": [
+        {
+          "pID": "963958258",
+          "name": "25/26赛季NBA常规赛全场集锦：鹈鹕106:118开拓者（20260403）"
+        },
         {
           "pID": "963957348",
           "name": "预定十佳球！卡马拉平地起惊雷上演平筐补扣"
@@ -387,7 +391,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "UFC BJJ",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/03/77935BARVFUK.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/3/31/1000000013991064d8b5.png",
       "pkInfoTitle": "UFC巴西柔术大赛第7期：塔克特VS罗查",
       "modifyTitle": "UFC巴西柔术大赛第7期：塔克特VS罗查",
@@ -603,10 +607,6 @@
         {
           "pID": "963935254",
           "name": "赛场原声"
-        },
-        {
-          "pID": "963955261",
-          "name": "孙雨轩 杨晨 林梦鸽"
         }
       ]
     },
@@ -637,6 +637,19 @@
           "name": "1号桌"
         }
       ]
+    },
+    {
+      "mgdbId": "300000001974",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "CBA",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/03/77935C975DSV.webp",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png",
+      "modifyTitle": "篮球公园—篮球坚持的力量 吴前",
+      "presenters": "",
+      "matchInfo": {},
+      "nodes": []
     },
     {
       "mgdbId": "120000573046",
