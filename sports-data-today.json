@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-04-04 17:01:59",
+  "updateTime": "2026-04-04 17:31:55",
   "data": [
     {
       "mgdbId": "120000573210",
@@ -528,7 +528,7 @@
       "title": "中乙联赛",
       "keyword": "04月04日15:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "普湾体育场",
       "competitionName": "中乙",
       "padImg": "",
@@ -824,7 +824,7 @@
     },
     {
       "mgdbId": "120000572363",
-      "pID": "963812480",
+      "pID": "963819274",
       "title": "王楚钦激战达科 王曼昱、陈幸同出战",
       "keyword": "04月04日18:00",
       "sportItemId": "7",
@@ -841,12 +841,16 @@
       },
       "nodes": [
         {
-          "pID": "963812480",
-          "name": "热身区"
-        },
-        {
           "pID": "963819274",
           "name": "刘国正 周泽昊"
+        },
+        {
+          "pID": "963812480",
+          "name": "王楚钦上训啦"
+        },
+        {
+          "pID": "963824747",
+          "name": "候场区"
         },
         {
           "pID": "963823586",
@@ -855,10 +859,6 @@
         {
           "pID": "963825369",
           "name": "混采区"
-        },
-        {
-          "pID": "963824747",
-          "name": "候场区"
         }
       ]
     },
@@ -1538,7 +1538,7 @@
       "mgdbId": "120000573433",
       "pID": "963945225",
       "title": "亚女U20",
-      "keyword": "04月04日21:00",
+      "keyword": "04���04日21:00",
       "sportItemId": "1",
       "matchStatus": "0",
       "matchField": "",
@@ -1549,7 +1549,7 @@
       "modifyTitle": "亚女U20",
       "presenters": "兰子非",
       "matchInfo": {
-        "time": "04月04日21:00"
+        "time": "04���04日21:00"
       },
       "nodes": [
         {
@@ -1711,7 +1711,7 @@
       "matchStatus": "0",
       "matchField": "人民公园球场",
       "competitionName": "德甲",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000543666/202507111156_714499_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000543666/276948_H169_sc.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png",
       "pkInfoTitle": "汉堡 vs 奥格斯堡",
       "modifyTitle": "德甲联赛",
