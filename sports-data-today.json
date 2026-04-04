@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-04-05 02:01:56",
+  "updateTime": "2026-04-05 02:31:54",
   "data": [
     {
       "mgdbId": "120000543022",
@@ -64,7 +64,7 @@
       "title": "足总杯1/4决赛",
       "keyword": "04月05日00:15",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "斯坦福桥球场",
       "competitionName": "足总杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/05/7794VCJ7RCQI.png",
@@ -128,7 +128,7 @@
       "title": "西甲联赛",
       "keyword": "04月05日00:30",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "西甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000543304/580773_H169_sc.jpg",
@@ -252,7 +252,7 @@
       "title": "半决赛第二阶段：希金斯VS赵心童",
       "keyword": "04月05日02:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/03/77937CM4DE5L.jpg",
@@ -275,44 +275,12 @@
       ]
     },
     {
-      "mgdbId": "120000573528",
-      "pID": "963843630",
-      "title": "WTA查尔斯顿站女单半决赛：凯斯 vs 斯塔罗杜布采娃",
-      "keyword": "04月05日02:30",
-      "sportItemId": "9",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "WTA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/04/779452CTAF5J.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "凯斯 vs 斯塔罗杜布采娃",
-      "modifyTitle": "WTA查尔斯顿站女单半决赛：凯斯 vs 斯塔罗杜布采娃",
-      "presenters": "宋光振",
-      "matchInfo": {
-        "time": "04月05日02:30"
-      },
-      "nodes": [
-        {
-          "pID": "963843630",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "963976607",
-          "name": "宋光振"
-        },
-        {
-          "pID": "963843691",
-          "name": "英文原声"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000543026",
       "pID": "963944750",
       "title": "意甲联赛",
       "keyword": "04月05日02:45",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "奥林匹克球场",
       "competitionName": "意甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000543026/206223_H169_sc.jpg",
@@ -455,6 +423,38 @@
         {
           "pID": "963944899",
           "name": "江忠德"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000573528",
+      "pID": "963843630",
+      "title": "WTA查尔斯顿站女单半决赛：凯斯 vs 斯塔罗杜布采娃",
+      "keyword": "04月05日03:00",
+      "sportItemId": "9",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "WTA",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/04/779452CTAF5J.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
+      "pkInfoTitle": "凯斯 vs 斯塔罗杜布采娃",
+      "modifyTitle": "WTA查尔斯顿站女单半决赛：凯斯 vs 斯塔罗杜布采娃",
+      "presenters": "宋光振",
+      "matchInfo": {
+        "time": "04月05日03:00"
+      },
+      "nodes": [
+        {
+          "pID": "963843630",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "963976607",
+          "name": "宋光振"
+        },
+        {
+          "pID": "963843691",
+          "name": "英文原声"
         }
       ]
     },
