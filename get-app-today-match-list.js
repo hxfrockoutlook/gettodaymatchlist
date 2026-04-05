@@ -332,7 +332,7 @@ async function fetchM3UAndAggregate() {
   const aggregateMap = new Map();
   try {
     console.log('开始获取 M3U 数据...');
-    const response = await fetchWithRetry('http://ikuai.168957.xyz:9080/migu_www.php?VideoDetail=https://42.121.106.99/266020607/nlpsD98B7B683DA0CFDCE1B4/');
+    const response = await fetchWithRetry('http://vip.fs.frp.one:56234/');
     const m3uContent = response.data;
     const lines = m3uContent.split('\n');
     
@@ -353,8 +353,23 @@ async function fetchM3UAndAggregate() {
       
       // 只保留体育-昨天、今天、明天
       if (!groupTitle.startsWith('体育-')) continue;
-      const suffix = groupTitle.substring(3);
-      if (!['昨天', '今天', '明天'].includes(suffix)) continue;
+      // 提取组名中的日期（末尾 MM-DD）
+      const dateMatch = groupTitle.match(/(\d{2})-(\d{2})$/);
+      if (!dateMatch) continue; // 没有日期格式则跳过（兼容旧数据）
+      
+      const month = dateMatch[1];
+      const day = dateMatch[2];
+      const groupDate = `${month}${day}`;
+      
+      // 获取今天的上海日期（MMDD）
+      const now = new Date();
+      const shanghaiTime = new Date(now.getTime() + 8 * 60 * 60 * 1000);
+      const todayMonth = String(shanghaiTime.getUTCMonth() + 1).padStart(2, '0');
+      const todayDay = String(shanghaiTime.getUTCDate()).padStart(2, '0');
+      const todayMMDD = `${todayMonth}${todayDay}`;
+      
+      // 只保留组日期等于今天的条目
+      if (groupDate !== todayMMDD) continue;
       
       // 获取下一行的 URL
       let j = i + 1;
