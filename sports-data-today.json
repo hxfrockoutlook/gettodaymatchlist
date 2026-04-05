@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-04-05 16:23:00",
+  "updateTime": "2026-04-05 16:32:30",
   "data": [
     {
       "mgdbId": "120000543022",
@@ -834,7 +834,7 @@
       "nodes": [
         {
           "pID": "963960745",
-          "name": "清流播出"
+          "name": "赛场原声"
         }
       ]
     },
@@ -844,7 +844,7 @@
       "title": "中乙联赛",
       "keyword": "04月05日16:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "湖北足管中心训练基地中心球场",
       "competitionName": "中乙",
       "padImg": "",
@@ -1050,7 +1050,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "国际乒联澳门单打世界杯",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/05/779504MNBAO8.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/3/26/100000001179106d13ec.png",
       "pkInfoTitle": "决赛：孙颖莎vs王曼昱 王楚钦冲首冠",
       "modifyTitle": "国际乒联澳门单打世界杯男女单打决赛",
@@ -1234,7 +1234,12 @@
       "matchInfo": {
         "time": "04月05日19:35"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "963890819",
+          "name": "图文直播"
+        }
+      ]
     },
     {
       "mgdbId": "120000562428",
