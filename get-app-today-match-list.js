@@ -755,7 +755,7 @@ async function fetchAndProcessData() {
             }
         }
 
-        if (bestMatchTotal > 50 && bestMatchNormId) {
+        if (bestMatchTotal >= 50 && bestMatchNormId) {
             mergedMatch.nodes.push(...bestMatchNodes.map(node => ({ url: node.url, name: node.name })));
             console.log(`比赛 ${match.mgdbId} 匹配到 M3U 数据，总分 ${bestMatchTotal}，追加 ${bestMatchNodes.length} 个节点`);
             // 从 map 中删除已匹配的条目，防止被其他比赛使用
