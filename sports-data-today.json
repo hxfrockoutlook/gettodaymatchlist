@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-04-06 04:01:33",
+  "updateTime": "2026-04-06 04:31:42",
   "data": [
     {
       "mgdbId": "120000543741",
@@ -112,7 +112,7 @@
       "title": "WTA波哥大站女单决赛：布兹科娃 vs 乌德瓦尔迪",
       "keyword": "04月06日01:00",
       "sportItemId": "9",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/05/77951JQHR3BO.jpg",
@@ -153,16 +153,16 @@
     {
       "mgdbId": "120000572963",
       "pID": "963822379",
-      "title": "决赛第二阶段：特鲁姆普vs赵心童",
+      "title": "决赛第二阶段：特鲁姆普3-10赵心童",
       "keyword": "04月06日02:00",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/05/779515FP07R9.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "决赛第二阶段：特鲁姆普vs赵心童",
-      "modifyTitle": "斯诺克巡回锦标赛决赛第二阶段：特鲁姆普vs赵心童",
+      "pkInfoTitle": "决赛第二阶段：特鲁姆普3-10赵心童",
+      "modifyTitle": "斯诺克巡回锦标赛决赛第二阶段：特鲁姆普3-10赵心童",
       "presenters": "秦正",
       "matchInfo": {
         "time": "04月06日02:00"
@@ -350,7 +350,7 @@
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/05/779526N8RUME.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "奇才VS篮网",
-      "modifyTitle": "NBA常规赛",
+      "modifyTitle": "NBA常��赛",
       "presenters": "董倡硕",
       "matchInfo": {
         "time": "04月06日03:30"
@@ -673,7 +673,7 @@
       "competitionName": "逐马计划",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/01/7791B9BG4NEA.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/9/28/1000000011111066d90b.png",
-      "pkInfoTitle": "2026中国田径协���10公里精英赛（北京·海淀站）",
+      "pkInfoTitle": "2026中国田径协会10公里精英赛（北京·海淀站）",
       "modifyTitle": "2026中国田径协会10公里精英赛（北京·海淀站）",
       "presenters": "",
       "matchInfo": {
@@ -682,6 +682,10 @@
       "nodes": [
         {
           "pID": "963889615",
+          "name": "北京·海淀站"
+        },
+        {
+          "url": "http://vip.fs.frp.one:56234/963889615",
           "name": "北京·海淀站"
         }
       ]
@@ -1118,7 +1122,7 @@
         },
         {
           "url": "http://vip.fs.frp.one:56234/963974616",
-          "name": "2号桌"
+          "name": "高���迎战吉米·怀特 白雨露出战 2号桌"
         },
         {
           "url": "http://vip.fs.frp.one:56234/963974862",
@@ -1177,16 +1181,12 @@
           "name": "鲁靖明 马延峰"
         },
         {
-          "pID": "963944857",
-          "name": "鲁靖��� 马延峰"
-        },
-        {
           "url": "http://vip.fs.frp.one:56234/963944849",
           "name": "鲁靖明 马延峰"
         },
         {
           "url": "http://vip.fs.frp.one:56234/963944831",
-          "name": "赛场原声"
+          "name": "���迪内斯VS科莫 赛场原声"
         },
         {
           "url": "http://vip.fs.frp.one:56234/963944857",
@@ -1390,7 +1390,7 @@
         },
         {
           "url": "http://vip.fs.frp.one:56234/963890873",
-          "name": "图文直播"
+          "name": "山西汾酒VS青岛崂山啤酒 图文直播"
         }
       ]
     },
