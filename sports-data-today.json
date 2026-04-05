@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-04-05 23:02:26",
+  "updateTime": "2026-04-05 23:18:47",
   "data": [
     {
       "mgdbId": "120000543022",
@@ -306,7 +306,7 @@
         },
         {
           "url": "http://vip.fs.frp.one:56234/963994562",
-          "name": "全场回放（李宁）"
+          "name": "佩古拉VS约���奇 全场回放（李宁）"
         },
         {
           "url": "http://vip.fs.frp.one:56234/963994810",
@@ -378,7 +378,7 @@
         },
         {
           "url": "http://vip.fs.frp.one:56234/963994808",
-          "name": "拉齐奥VS帕尔马 全场回放（梁祥宇）"
+          "name": "全场回放（梁祥宇）"
         }
       ]
     },
@@ -1305,16 +1305,36 @@
       },
       "nodes": [
         {
-          "pID": "963820310",
-          "name": "刘国正 周冠达"
-        },
-        {
           "pID": "963820360",
           "name": "混采区"
         },
         {
+          "pID": "963820310",
+          "name": "刘国正 周冠达"
+        },
+        {
           "pID": "963824931",
           "name": "赛场原声"
+        },
+        {
+          "url": "http://vip.fs.frp.one:56234/963820310",
+          "name": "刘国正 周冠达"
+        },
+        {
+          "url": "http://vip.fs.frp.one:56234/963820360",
+          "name": "混采区"
+        },
+        {
+          "url": "http://vip.fs.frp.one:56234/963824931",
+          "name": "赛场原声"
+        },
+        {
+          "url": "http://vip.fs.frp.one:56234/963825004",
+          "name": "候场区"
+        },
+        {
+          "url": "http://vip.fs.frp.one:56234/963819573",
+          "name": "热身区"
         }
       ]
     },
@@ -1495,6 +1515,10 @@
         {
           "pID": "963998645",
           "name": "2026江西省城市篮球联赛半决赛第一轮"
+        },
+        {
+          "url": "http://vip.fs.frp.one:56234/963998645",
+          "name": "2026江西省城市篮球联赛第一轮"
         }
       ]
     },
@@ -1755,7 +1779,7 @@
       "matchStatus": "2",
       "matchField": "让·布安球场",
       "competitionName": "法甲",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000542564/202507101715_704260_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000542564/202604052310_139435_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/1/9106077d9.png",
       "pkInfoTitle": "昂热 vs 里昂",
       "modifyTitle": "法甲联赛",
@@ -1791,7 +1815,7 @@
       "matchStatus": "2",
       "matchField": "吉奥瓦尼·齐尼体育场",
       "competitionName": "意甲",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000543742/202507111215_829836_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000543742/202604052310_437321_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png",
       "pkInfoTitle": "克雷莫纳 vs 博洛尼亚",
       "modifyTitle": "意甲联赛",
@@ -2084,7 +2108,7 @@
       "title": "德甲联赛",
       "keyword": "04月05日23:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "法兰克福竞技场",
       "competitionName": "德甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000543667/483394_H169_sc.jpg",
@@ -2120,7 +2144,7 @@
       "title": "足总杯1/4决赛",
       "keyword": "04月05日23:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "伦敦奥林匹克体育场",
       "competitionName": "足总杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/02/7792AS2NRT2E.jpg",
