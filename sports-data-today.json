@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-04-06 12:31:43",
+  "updateTime": "2026-04-06 13:01:56",
   "data": [
     {
       "mgdbId": "120000543741",
@@ -740,11 +740,11 @@
     },
     {
       "mgdbId": "120000547686",
-      "pID": "963976830",
+      "pID": "964019802",
       "title": "NBA常规赛",
       "keyword": "04月06日10:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "大通中心",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/05/77951TCNFU4R.png",
@@ -756,6 +756,10 @@
         "time": "04月06日10:00"
       },
       "nodes": [
+        {
+          "pID": "964019802",
+          "name": "决胜时刻的统治神！库里关键三分飙进毫无复出过渡期"
+        },
         {
           "pID": "963976830",
           "name": "杨健 曾令旭 小七"
@@ -1033,7 +1037,7 @@
       "competitionName": "国青男篮热身赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/05/77951U5JEUFH.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/3/10000000143310640338.png",
-      "pkInfoTitle": "新西兰U18男篮vs加拿大皇���篮球队",
+      "pkInfoTitle": "新西兰U18男篮vs加拿大皇冠篮球队",
       "modifyTitle": "国青男篮热身赛",
       "presenters": "",
       "matchInfo": {
@@ -1087,7 +1091,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "斯诺克",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/06/7795VMDLRL3D.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "高阳迎战吉米·怀特 白雨露出战",
       "modifyTitle": "斯诺克世锦赛资格赛144进112轮次：高阳迎战吉米·怀特 白雨露出战",
@@ -1615,7 +1619,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "斯诺克",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/06/7795VMGKPEJM.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "张家玮PK卡蒂 达赫迪、博登出战",
       "modifyTitle": "斯诺克世锦赛资格赛144进112轮次：张家玮PK卡蒂 达赫迪、博登出战",
@@ -1727,10 +1731,6 @@
         {
           "pID": "963945020",
           "name": "吴桐 刘腾"
-        },
-        {
-          "pID": "963945020",
-          "name": "吴桐 ��腾"
         }
       ]
     }
