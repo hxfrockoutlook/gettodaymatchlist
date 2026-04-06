@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-04-06 17:01:48",
+  "updateTime": "2026-04-06 17:31:46",
   "data": [
     {
       "mgdbId": "120000543741",
@@ -97,16 +97,16 @@
           "name": "英文原声"
         },
         {
-          "url": "http://vip.fs.frp.one:56234/964015030",
-          "name": "全场回放"
-        },
-        {
           "url": "http://vip.fs.frp.one:56234/964013522",
           "name": "全场回放（刘钟鸣）"
         },
         {
-          "url": "http://vip.fs.frp.one:56234/964013631",
+          "url": "http://vip.fs.frp.one:56234/964015030",
           "name": "全场回放"
+        },
+        {
+          "url": "http://vip.fs.frp.one:56234/964013631",
+          "name": "全场回放（英文原声）"
         }
       ]
     },
@@ -141,16 +141,16 @@
           "name": "英文原声"
         },
         {
-          "url": "http://vip.fs.frp.one:56234/964015143",
-          "name": "全场回放"
-        },
-        {
           "url": "http://vip.fs.frp.one:56234/964014180",
           "name": "全场回放（宋光振）"
         },
         {
           "url": "http://vip.fs.frp.one:56234/964014881",
           "name": "全场回放"
+        },
+        {
+          "url": "http://vip.fs.frp.one:56234/964015143",
+          "name": "全场回放（英文原声）"
         }
       ]
     },
@@ -509,12 +509,16 @@
           "name": "英文原声"
         },
         {
-          "url": "http://vip.fs.frp.one:56234/963906499",
-          "name": "王琰博"
+          "url": "http://vip.fs.frp.one:56234/964021087",
+          "name": "Zuffa拳击第5期全场回放（英文原声）"
         },
         {
-          "url": "http://vip.fs.frp.one:56234/963906463",
-          "name": "英文原声"
+          "url": "http://vip.fs.frp.one:56234/964020417",
+          "name": "Zuffa拳击第5期全场回放（赛场原声）"
+        },
+        {
+          "url": "http://vip.fs.frp.one:56234/964019536",
+          "name": "Zuffa拳击第5期全场回放（王琰博）"
         }
       ]
     },
@@ -695,6 +699,10 @@
         {
           "pID": "963889615",
           "name": "北京·海淀站"
+        },
+        {
+          "url": "http://vip.fs.frp.one:56234/964019526",
+          "name": "全场回放"
         }
       ]
     },
@@ -729,12 +737,12 @@
           "name": "英文原声"
         },
         {
-          "url": "http://vip.fs.frp.one:56234/963976708",
-          "name": "庄宁宇 郭维盛 王羽希"
+          "url": "http://vip.fs.frp.one:56234/964019344",
+          "name": "全场回放（庄宁宇、郭维盛、王羽希）"
         },
         {
-          "url": "http://vip.fs.frp.one:56234/963976677",
-          "name": "英文原声"
+          "url": "http://vip.fs.frp.one:56234/964019307",
+          "name": "全场回放（英文原声）"
         }
       ]
     },
@@ -779,26 +787,6 @@
         {
           "pID": "963976790",
           "name": "AI视角"
-        },
-        {
-          "url": "http://vip.fs.frp.one:56234/963976830",
-          "name": "杨健 曾令旭 小七"
-        },
-        {
-          "url": "http://vip.fs.frp.one:56234/963976801",
-          "name": "拜月宁"
-        },
-        {
-          "url": "http://vip.fs.frp.one:56234/963976809",
-          "name": "周鹏"
-        },
-        {
-          "url": "http://vip.fs.frp.one:56234/963976762",
-          "name": "英文原声"
-        },
-        {
-          "url": "http://vip.fs.frp.one:56234/963976790",
-          "name": "AI视角"
         }
       ]
     },
@@ -825,8 +813,8 @@
           "name": "赛场原声"
         },
         {
-          "url": "http://vip.fs.frp.one:56234/963904198",
-          "name": "赛场原声"
+          "url": "http://vip.fs.frp.one:56234/964022165",
+          "name": "2026英超青年杯B组第1轮全场回放：狼队2:0中国香港精英队"
         }
       ]
     },
@@ -853,8 +841,8 @@
           "name": "赛场原声"
         },
         {
-          "url": "http://vip.fs.frp.one:56234/963904205",
-          "name": "赛场原声"
+          "url": "http://vip.fs.frp.one:56234/964022157",
+          "name": "2026英超青年杯B组第1轮全场回放：浙江FC2:1上海申花（赛场原声）"
         }
       ]
     },
@@ -907,10 +895,6 @@
         {
           "pID": "963904184",
           "name": "赛场原声"
-        },
-        {
-          "url": "http://vip.fs.frp.one:56234/963904184",
-          "name": "赛场原声"
         }
       ]
     },
@@ -935,10 +919,6 @@
         {
           "pID": "963904190",
           "name": "赛场原声"
-        },
-        {
-          "url": "http://vip.fs.frp.one:56234/963904190",
-          "name": "赛场原声"
         }
       ]
     },
@@ -948,7 +928,7 @@
       "title": "浙江省城市足球联赛",
       "keyword": "04月06日15:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "浙江省城市足球联赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000573392/202604011550_676291_H169_1080.webp",
@@ -1203,10 +1183,6 @@
         {
           "pID": "963944857",
           "name": "鲁靖明 马延峰"
-        },
-        {
-          "pID": "963944857",
-          "name": "鲁��明 马延峰"
         },
         {
           "url": "http://vip.fs.frp.one:56234/963944849",
@@ -1555,7 +1531,7 @@
       "matchStatus": "0",
       "matchField": "维亚德马雷市政体育场",
       "competitionName": "意甲",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000543025/202507101910_400400_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000543025/784166_H169_sc.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png",
       "pkInfoTitle": "莱切 vs 亚特兰大",
       "modifyTitle": "意甲联赛",
@@ -1578,15 +1554,7 @@
         },
         {
           "url": "http://vip.fs.frp.one:56234/963944878",
-          "name": "谭逸雄"
-        },
-        {
-          "url": "http://vip.fs.frp.one:56234/963944871",
-          "name": "赛场原声"
-        },
-        {
-          "url": "http://vip.fs.frp.one:56234/963944882",
-          "name": "谭逸雄"
+          "name": "莱切VS亚特兰大 谭逸雄"
         }
       ]
     },
