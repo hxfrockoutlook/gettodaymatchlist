@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-04-06 16:31:44",
+  "updateTime": "2026-04-06 17:01:48",
   "data": [
     {
       "mgdbId": "120000543741",
@@ -892,7 +892,7 @@
       "title": "北京男足选拔队vs阿斯顿维拉",
       "keyword": "04月06日15:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "英超青年杯",
       "padImg": "",
@@ -920,7 +920,7 @@
       "title": "石家庄功夫vs阿森纳",
       "keyword": "04月06日15:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "英超青年杯",
       "padImg": "",
@@ -1060,7 +1060,7 @@
       "title": "刘国正、周冠达、周泽昊为你复盘",
       "keyword": "04月06日17:00",
       "sportItemId": "7",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "国际乒联澳门单打世界杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/06/7795UR18EAUR.jpg",
@@ -1088,7 +1088,7 @@
       "title": "高阳迎战吉米·怀特 白雨露出战",
       "keyword": "04月06日17:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/06/7795VMDLRL3D.jpg",
@@ -1203,6 +1203,10 @@
         {
           "pID": "963944857",
           "name": "鲁靖明 马延峰"
+        },
+        {
+          "pID": "963944857",
+          "name": "鲁��明 马延峰"
         },
         {
           "url": "http://vip.fs.frp.one:56234/963944849",
@@ -1707,10 +1711,6 @@
         {
           "pID": "963945020",
           "name": "吴桐 刘腾"
-        },
-        {
-          "pID": "963945020",
-          "name": "吴��� 刘腾"
         }
       ]
     }
