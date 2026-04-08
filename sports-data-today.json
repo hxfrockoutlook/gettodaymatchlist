@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-04-08 09:01:18",
+  "updateTime": "2026-04-08 09:31:16",
   "data": [
     {
       "mgdbId": "120000573526",
@@ -76,14 +76,14 @@
     },
     {
       "mgdbId": "120000547692",
-      "pID": "963976939",
+      "pID": "964044530",
       "title": "NBA常规赛",
       "keyword": "04月08日07:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "第一资本体育馆",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/07/7796PPQLDM1K.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/08/7797OU7OHEVU.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "公牛VS奇才",
       "modifyTitle": "NBA常规赛",
@@ -92,6 +92,10 @@
         "time": "04月08日07:00"
       },
       "nodes": [
+        {
+          "pID": "964044530",
+          "name": "惊为天人！沃特金斯腾空而起上演圆月弯弓劈扣"
+        },
         {
           "pID": "963976939",
           "name": "盛哲"
@@ -112,14 +116,14 @@
     },
     {
       "mgdbId": "120000547696",
-      "pID": "963977019",
+      "pID": "964043886",
       "title": "NBA常规赛",
       "keyword": "04月08日07:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "盖恩布里奇体育馆",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/07/7796PQ5U0PO3.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/08/7797OV9MOOJH.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "森林狼VS步行者",
       "modifyTitle": "NBA常规赛",
@@ -128,6 +132,10 @@
         "time": "04月08日07:00"
       },
       "nodes": [
+        {
+          "pID": "964043886",
+          "name": "猝不及防！多森姆骤然加速突破隔扣胡夫"
+        },
         {
           "pID": "963977019",
           "name": "刘圳展"
@@ -296,7 +304,7 @@
       "title": "亚洲攀岩锦标赛暨亚运会资格赛day1",
       "keyword": "04月08日09:30",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "亚洲攀岩锦标赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/08/7797OECVL79T.png",
@@ -553,24 +561,6 @@
           "name": "3号桌"
         }
       ]
-    },
-    {
-      "mgdbId": "120000573655",
-      "title": "冲击16强！凡贤、任何组合领衔出战",
-      "keyword": "04月08日13:00",
-      "sportItemId": "6",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "亚洲羽毛球团体锦标赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/07/7796RJHQS4DS.png",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/2/5/100000001409106420e2.png",
-      "pkInfoTitle": "冲击16强！凡贤、任何组合领衔出战",
-      "modifyTitle": "亚洲羽毛球锦标赛-第1轮：冲击16强！凡贤、任何组合领衔出战",
-      "presenters": "",
-      "matchInfo": {
-        "time": "04月08日13:00"
-      },
-      "nodes": []
     },
     {
       "mgdbId": "120000573438",
@@ -1211,6 +1201,25 @@
           "name": "朱峰立"
         }
       ]
+    },
+    {
+      "mgdbId": "120000573655",
+      "pID": "120000573655",
+      "title": "亚洲羽毛球锦标赛-第1轮",
+      "keyword": "04月08日13:00",
+      "sportItemId": "",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "羽毛球亚锦赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/07/7796RJHQS4DS.png",
+      "competitionLogo": "",
+      "pkInfoTitle": "亚洲羽毛球锦标赛-第1轮",
+      "modifyTitle": "亚洲羽毛球锦标赛-第1轮",
+      "presenters": "",
+      "matchInfo": {
+        "time": "04月08日13:00"
+      },
+      "nodes": []
     }
   ]
 }
