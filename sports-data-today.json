@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-04-10 20:01:27",
+  "updateTime": "2026-04-10 20:31:21",
   "data": [
     {
       "mgdbId": "120000573558",
@@ -632,8 +632,8 @@
     },
     {
       "mgdbId": "120000573559",
-      "pID": "964019153",
-      "title": "傅家俊、常冰玉、吕昊天出战",
+      "pID": "964019111",
+      "title": "傅家俊暂落后 常冰玉8-1领先",
       "keyword": "04月10日17:00",
       "sportItemId": "8",
       "matchStatus": "1",
@@ -641,13 +641,25 @@
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/10/7799J8VEJ5BA.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "傅家俊、常冰玉、吕昊天出战",
-      "modifyTitle": "斯诺克世锦赛资格赛112进80轮次：傅家俊、常冰玉、吕昊天出战",
+      "pkInfoTitle": "傅家俊暂落后 常冰玉8-1领先",
+      "modifyTitle": "斯诺克世锦赛资格赛112进80轮次：傅家俊暂落后 常冰玉8-1领先",
       "presenters": "乔迁",
       "matchInfo": {
         "time": "04月10日17:00"
       },
       "nodes": [
+        {
+          "pID": "964019111",
+          "name": "1号桌"
+        },
+        {
+          "pID": "964019290",
+          "name": "7号桌"
+        },
+        {
+          "pID": "964019306",
+          "name": "8号桌"
+        },
         {
           "pID": "964019153",
           "name": "2号桌"
@@ -655,10 +667,6 @@
         {
           "pID": "964037399",
           "name": "乔迁"
-        },
-        {
-          "pID": "964019111",
-          "name": "1号桌"
         },
         {
           "pID": "964019188",
@@ -671,14 +679,6 @@
         {
           "pID": "964019246",
           "name": "5号桌"
-        },
-        {
-          "pID": "964019290",
-          "name": "7号桌"
-        },
-        {
-          "pID": "964019306",
-          "name": "8号桌"
         },
         {
           "pID": "964019263",
@@ -752,7 +752,7 @@
       "title": "国青男篮热身赛",
       "keyword": "04月10日18:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "国青男篮热身赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/09/7798K8OKH6K1.png",
@@ -1111,7 +1111,7 @@
       "matchStatus": "1",
       "matchField": "大连梭鱼湾足球场",
       "competitionName": "中超",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000569785/841498_H169_sc.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/10/7799ISSFP0F4.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png",
       "pkInfoTitle": "大连英博 vs 浙江",
       "modifyTitle": "中超联赛",
@@ -1144,7 +1144,7 @@
       "title": "场地障碍第一场",
       "keyword": "04月10日20:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "国际马联场地障碍世界杯",
       "padImg": "",
@@ -1172,7 +1172,7 @@
       "title": "国青男篮热身赛",
       "keyword": "04月10日20:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "国青男篮热身赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/09/7798K916TO1L.png",
