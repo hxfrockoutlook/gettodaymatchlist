@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-04-11 15:33:14",
+  "updateTime": "2026-04-11 16:03:12",
   "data": [
     {
       "mgdbId": "120000573663",
@@ -738,7 +738,11 @@
         },
         {
           "url": "http://vip.fs.frp.one:56234/964112292",
-          "name": "火箭VS森林狼 全场回放（孙博、周鹏）"
+          "name": "全场回放（孙博、周鹏）"
+        },
+        {
+          "url": "http://vip.fs.frp.one:56234/964112155",
+          "name": "全场回放（英文原声）"
         }
       ]
     },
@@ -1099,34 +1103,6 @@
       ]
     },
     {
-      "mgdbId": "120000574014",
-      "pID": "964108341",
-      "title": "决赛争夺赛！王祉怡、石宇奇领衔出战",
-      "keyword": "04月11日13:00",
-      "sportItemId": "6",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "羽毛球亚锦赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/11/779AE9E8AGDS.png",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/8/1000000011801064822b.png",
-      "pkInfoTitle": "决赛争夺赛！王祉怡、石宇奇领衔出战",
-      "modifyTitle": "亚洲羽毛球锦标赛-半决赛：决赛争夺赛！王祉怡、石宇奇领衔出战",
-      "presenters": "",
-      "matchInfo": {
-        "time": "04月11日13:00"
-      },
-      "nodes": [
-        {
-          "pID": "964108341",
-          "name": "CCTV5+"
-        },
-        {
-          "url": "http://vip.fs.frp.one:56234/964108341",
-          "name": "CCTV5+"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000573887",
       "pID": "964069001",
       "title": "安徽省乒乓球联赛滁州市定远县海选赛Day1",
@@ -1430,7 +1406,7 @@
         },
         {
           "url": "http://vip.fs.frp.one:56234/964071506",
-          "name": "2026云南省城市足球联赛第九轮: 丽江队vs昆明队"
+          "name": "2026云南省城市足球联赛第九轮: 丽江���vs昆明队"
         }
       ]
     },
@@ -1879,6 +1855,34 @@
         {
           "url": "http://vip.fs.frp.one:56234/964071520",
           "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000574014",
+      "pID": "964108359",
+      "title": "亚洲羽毛球锦标赛-半决赛",
+      "keyword": "04月11日17:00",
+      "sportItemId": "6",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "羽毛球亚锦赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/11/779AEJS77PVE.png",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/8/1000000011801064822b.png",
+      "pkInfoTitle": "亚洲羽毛球锦标赛-半决赛",
+      "modifyTitle": "亚洲羽毛球锦标赛-半决赛：决赛争夺赛！王祉怡、石宇奇领衔出战",
+      "presenters": "",
+      "matchInfo": {
+        "time": "04月11日17:00"
+      },
+      "nodes": [
+        {
+          "pID": "964108359",
+          "name": "CCTV5+"
+        },
+        {
+          "pID": "964108341",
+          "name": "CCTV5+"
         }
       ]
     },
@@ -3695,10 +3699,6 @@
         {
           "url": "http://vip.fs.frp.one:56234/964019957",
           "name": "2号桌"
-        },
-        {
-          "url": "http://vip.fs.frp.one:56234/964019988",
-          "name": "3号桌"
         },
         {
           "url": "http://vip.fs.frp.one:56234/964020024",
