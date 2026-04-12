@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-04-12 16:31:57",
+  "updateTime": "2026-04-12 17:02:16",
   "data": [
     {
       "mgdbId": "120000543017",
@@ -507,7 +507,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "羽毛球亚锦赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/12/779BBNI4N7AF.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/12/779BC04E7E77.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/8/1000000011801064822b.png",
       "pkInfoTitle": "冲冠！王祉怡、石宇奇出战",
       "modifyTitle": "亚洲羽毛球锦标赛-决赛：冲冠！王祉怡、石宇奇出战",
@@ -648,7 +648,7 @@
       "title": "安徽省青少年足球联赛",
       "keyword": "04月12日15:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "安徽省青少年足球联赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000573890/202604091410_294643_H169_1080.webp",
@@ -672,7 +672,7 @@
       "title": "安徽省青少年足球联赛",
       "keyword": "04月12日15:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "安徽省青少年足球联赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000573891/202604091410_934572_H169_1080.webp",
@@ -692,11 +692,11 @@
     },
     {
       "mgdbId": "120000573932",
-      "pID": "964073634",
+      "pID": "964141401",
       "title": "2025年中国篮球名人堂入堂仪式",
       "keyword": "04月12日15:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "中国篮球名人堂",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/10/7799H47OI59T.png",
@@ -709,6 +709,10 @@
       },
       "nodes": [
         {
+          "pID": "964141639",
+          "name": "2025年中国篮球名人堂入堂仪式全场回放（连睿、周鹏）（50帧原画）"
+        },
+        {
           "pID": "964073634",
           "name": "连睿 周鹏"
         }
@@ -717,7 +721,7 @@
     {
       "mgdbId": "120000573493",
       "pID": "963963213",
-      "title": "石洵瑶/韩菲儿力争问鼎 国乒男双包揽冠亚",
+      "title": "石洵瑶/韩菲儿问鼎女双 国乒男双包揽冠亚",
       "keyword": "04月12日16:00",
       "sportItemId": "7",
       "matchStatus": "1",
@@ -725,7 +729,7 @@
       "competitionName": "WTT",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/11/779AG7EML7PM.gif",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "石洵瑶/韩菲儿力争问鼎 国乒男双包揽冠亚",
+      "pkInfoTitle": "石洵瑶/韩菲儿问鼎女双 国乒男双包揽冠亚",
       "modifyTitle": "WTT太原常规挑战赛男女单打决赛、双打决赛",
       "presenters": "周冠达",
       "matchInfo": {
@@ -752,7 +756,7 @@
       "title": "庞俊旭、江俊出战 塔猜亚vs普伦",
       "keyword": "04月12日17:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/12/779BD3ECFLNL.jpg",
@@ -808,7 +812,7 @@
       "title": "亚女U20",
       "keyword": "04月12日17:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "亚女U20",
       "padImg": "",
@@ -1494,7 +1498,7 @@
         },
         {
           "pID": "964020729",
-          "name": "4号���"
+          "name": "4号桌"
         },
         {
           "pID": "964020716",
@@ -1511,10 +1515,6 @@
         {
           "pID": "964020829",
           "name": "8号桌"
-        },
-        {
-          "pID": "964020729",
-          "name": "4号桌"
         }
       ]
     },
