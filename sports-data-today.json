@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-04-12 20:32:16",
+  "updateTime": "2026-04-12 21:02:14",
   "data": [
     {
       "mgdbId": "120000543017",
@@ -756,8 +756,8 @@
     },
     {
       "mgdbId": "120000573565",
-      "pID": "964020904",
-      "title": "庞俊旭出战 江俊、塔猜亚暂落后",
+      "pID": "964020934",
+      "title": "庞俊旭5-4 江俊、塔猜亚暂落后",
       "keyword": "04月12日17:00",
       "sportItemId": "8",
       "matchStatus": "1",
@@ -765,13 +765,21 @@
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/12/779BD3ECFLNL.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "庞俊旭出战 江俊、塔猜亚暂落后",
-      "modifyTitle": "斯诺克世锦赛资格赛80进48轮次：庞俊旭出战 江俊、塔猜亚暂落后",
+      "pkInfoTitle": "庞俊旭5-4 江俊、塔猜亚暂落后",
+      "modifyTitle": "斯诺克世锦赛资格赛80进48轮次：庞俊旭5-4 江俊、塔猜亚暂落后",
       "presenters": "乔迁",
       "matchInfo": {
         "time": "04月12日17:00"
       },
       "nodes": [
+        {
+          "pID": "964020934",
+          "name": "8号桌"
+        },
+        {
+          "pID": "964020923",
+          "name": "7号桌"
+        },
         {
           "pID": "964020904",
           "name": "6号桌"
@@ -779,18 +787,6 @@
         {
           "pID": "964107816",
           "name": "乔迁"
-        },
-        {
-          "pID": "964020891",
-          "name": "5号桌"
-        },
-        {
-          "pID": "964020923",
-          "name": "7号桌"
-        },
-        {
-          "pID": "964020934",
-          "name": "8号桌"
         },
         {
           "pID": "964020849",
@@ -807,6 +803,10 @@
         {
           "pID": "964020880",
           "name": "4号桌"
+        },
+        {
+          "pID": "964020891",
+          "name": "5号桌"
         }
       ]
     },
@@ -871,7 +871,7 @@
       "matchStatus": "2",
       "matchField": "费拉里斯球场",
       "competitionName": "意甲",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/09/7798MMBJLI9G.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/12/779BD3QPUQU3.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png",
       "pkInfoTitle": "热那亚 vs 萨索洛",
       "modifyTitle": "意甲联赛",
@@ -987,30 +987,6 @@
         {
           "pID": "963888783",
           "name": "2026广东省城市篮球联赛第三轮: 深圳vs惠州"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000573705",
-      "pID": "964052518",
-      "title": "湖北省城市足球联赛",
-      "keyword": "04月12日19:30",
-      "sportItemId": "1",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "湖北省城市足球联赛",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000573705/202604081544_146476_H169_1080.webp",
-      "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/09/7798N0F5G4NJ.png",
-      "pkInfoTitle": "黄石vs荆州恒隆",
-      "modifyTitle": "湖北省城市足球联赛",
-      "presenters": "",
-      "matchInfo": {
-        "time": "04月12日19:30"
-      },
-      "nodes": [
-        {
-          "pID": "964052518",
-          "name": "2026湖北省城市足球联赛第一轮: 黄石vs荆州恒隆"
         }
       ]
     },
@@ -1316,7 +1292,7 @@
       "title": "英超联赛",
       "keyword": "04月12日21:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "诺丁汉城市球场",
       "competitionName": "英超",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000542204/298003_H169_sc.jpg",
@@ -1348,7 +1324,7 @@
       "title": "英超联赛",
       "keyword": "04月12日21:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "塞尔赫斯特公园球场",
       "competitionName": "英超",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000542207/786957_H169_sc.jpg",
@@ -1388,7 +1364,7 @@
       "title": "意甲联赛",
       "keyword": "04月12日21:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "恩尼奥·塔尔蒂尼球场",
       "competitionName": "意甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/09/7798MMHM3417.png",
@@ -1416,7 +1392,7 @@
       "title": "亚女U20",
       "keyword": "04月12日21:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "亚女U20",
       "padImg": "",
