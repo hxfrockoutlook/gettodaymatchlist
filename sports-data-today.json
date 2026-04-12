@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-04-12 21:02:14",
+  "updateTime": "2026-04-12 21:32:17",
   "data": [
     {
       "mgdbId": "120000543017",
@@ -757,16 +757,16 @@
     {
       "mgdbId": "120000573565",
       "pID": "964020934",
-      "title": "庞俊旭5-4 江俊、塔猜亚暂落后",
+      "title": "庞俊旭一阶段5-4 江俊暂落后",
       "keyword": "04月12日17:00",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/12/779BD3ECFLNL.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "庞俊旭5-4 江俊、塔猜亚暂落后",
-      "modifyTitle": "斯诺克世锦赛资格赛80进48轮次：庞俊旭5-4 江俊、塔猜亚暂落后",
+      "pkInfoTitle": "庞俊旭一阶段5-4 江俊暂落后",
+      "modifyTitle": "斯诺克世锦赛资格赛80进48轮次：庞俊旭一阶段5-4 江俊暂落后",
       "presenters": "乔迁",
       "matchInfo": {
         "time": "04月12日17:00"
@@ -896,10 +896,10 @@
       "title": "中超联赛",
       "keyword": "04月12日19:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "泰达足球场",
       "competitionName": "中超",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000569780/325452_H169_sc.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000569780/616208_H169_sc.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png",
       "pkInfoTitle": "天津津门虎 vs 青岛海牛",
       "modifyTitle": "中超联赛",
@@ -924,7 +924,7 @@
       "title": "中甲联赛",
       "keyword": "04月12日19:30",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "裕彤国际体育中心",
       "competitionName": "中甲",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000570716/202603021448_886578_H169_1080.webp",
@@ -996,7 +996,7 @@
       "title": "半决赛",
       "keyword": "04月12日19:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "江西省城市篮球联赛",
       "padImg": "",
@@ -1378,11 +1378,15 @@
       "nodes": [
         {
           "pID": "964072565",
-          "name": "鲁靖明 马延峰"
+          "name": "鲁���明 马延峰"
         },
         {
           "pID": "964072561",
           "name": "赛场原声"
+        },
+        {
+          "pID": "964072565",
+          "name": "鲁靖明 马延峰"
         }
       ]
     },
@@ -1420,7 +1424,7 @@
       "title": "德甲联赛",
       "keyword": "04月12日21:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "莱茵能量球场",
       "competitionName": "德甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000543664/963874_H169_sc.jpg",
@@ -1448,7 +1452,7 @@
       "title": "傅家俊、常冰玉、雷佩凡、张安达出战",
       "keyword": "04月12日21:30",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/12/779BD3JTOCMP.jpg",
@@ -1461,16 +1465,16 @@
       },
       "nodes": [
         {
-          "pID": "964020770",
-          "name": "1号桌"
+          "pID": "964020743",
+          "name": "2号桌"
         },
         {
           "pID": "964107806",
           "name": "秦正"
         },
         {
-          "pID": "964020743",
-          "name": "2号桌"
+          "pID": "964020770",
+          "name": "1号桌"
         },
         {
           "pID": "964020865",
