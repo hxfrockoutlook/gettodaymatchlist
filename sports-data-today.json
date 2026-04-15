@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-04-15 21:01:16",
+  "updateTime": "2026-04-15 21:35:35",
   "data": [
     {
       "mgdbId": "120000573572",
@@ -335,8 +335,8 @@
     },
     {
       "mgdbId": "120000573573",
-      "pID": "964166373",
-      "title": "雷佩凡、范争一、贺国强出战、张安达8-1",
+      "pID": "964021120",
+      "title": "范争一出战、贺国强6-3、张安达8-1",
       "keyword": "04月15日18:00",
       "sportItemId": "8",
       "matchStatus": "1",
@@ -344,13 +344,21 @@
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/14/779D7JFR9QHK.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "雷佩凡、范争一、贺国强出战、张安达8-1",
-      "modifyTitle": "斯诺克世锦赛资格赛晋级轮：雷佩凡、范争一、贺国强出战、张安达8-1",
+      "pkInfoTitle": "范争一出战、贺国强6-3、张安达8-1",
+      "modifyTitle": "斯诺克世锦赛资格赛晋级轮：范争一出战、贺国强6-3、张安达8-1",
       "presenters": "柏林",
       "matchInfo": {
         "time": "04月15日18:00"
       },
       "nodes": [
+        {
+          "pID": "964021155",
+          "name": "8号桌"
+        },
+        {
+          "pID": "964021120",
+          "name": "4号桌"
+        },
         {
           "pID": "964166373",
           "name": "柏林"
@@ -360,8 +368,12 @@
           "name": "3号桌"
         },
         {
-          "pID": "964021120",
-          "name": "4号桌"
+          "pID": "964021126",
+          "name": "5号桌"
+        },
+        {
+          "pID": "964021132",
+          "name": "6号桌"
         },
         {
           "pID": "964021147",
@@ -374,18 +386,6 @@
         {
           "pID": "964021098",
           "name": "2号桌"
-        },
-        {
-          "pID": "964021155",
-          "name": "8号桌"
-        },
-        {
-          "pID": "964021126",
-          "name": "5号桌"
-        },
-        {
-          "pID": "964021132",
-          "name": "6号桌"
         }
       ]
     },
@@ -398,7 +398,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/15/779E46J5O6LL.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/15/779E4MTKN9NC.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
       "pkInfoTitle": "安德列娃、斯瓦泰克轮番出战",
       "modifyTitle": "WTA斯图加特站女单第一、二轮：安德列娃、斯瓦泰克轮番出战",
@@ -423,7 +423,7 @@
       "title": "中乙联赛",
       "keyword": "04月15日19:30",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "汉口文体中心体育场",
       "competitionName": "中乙",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000572089/202603120955_648445_H169_1080.webp",
@@ -444,7 +444,7 @@
     {
       "mgdbId": "120000572090",
       "pID": "964172365",
-      "title": "中乙联赛",
+      "title": "���乙联赛",
       "keyword": "04月15日19:30",
       "sportItemId": "1",
       "matchStatus": "1",
@@ -471,7 +471,7 @@
       "title": "中乙联赛",
       "keyword": "04月15日19:30",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "温州体育中心体育场",
       "competitionName": "中乙",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000572091/202603120955_933146_H169_1080.webp",
@@ -515,11 +515,11 @@
     },
     {
       "mgdbId": "120000562470",
-      "pID": "963891187",
+      "pID": "963940410",
       "title": "CBA常规赛第39轮",
       "keyword": "04月15日19:35",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "华南农业大学综合体育馆",
       "competitionName": "CBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/14/779D5P0KDGOS.png",
@@ -532,6 +532,10 @@
       },
       "nodes": [
         {
+          "pID": "963940410",
+          "name": "《再出发》李根：从中国男篮国手到NBL球队总经理"
+        },
+        {
           "pID": "963891187",
           "name": "图文直播"
         }
@@ -539,11 +543,11 @@
     },
     {
       "mgdbId": "120000562471",
-      "pID": "963891197",
+      "pID": "963940410",
       "title": "CBA常规赛第39轮",
       "keyword": "04月15日19:35",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "三生制药体育馆",
       "competitionName": "CBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/14/779D5JD5IKD6.png",
@@ -555,6 +559,10 @@
         "time": "04月15日19:35"
       },
       "nodes": [
+        {
+          "pID": "963940410",
+          "name": "《再出发》李根：从中国男篮国手到NBL球队总经理"
+        },
         {
           "pID": "963891197",
           "name": "图文直播"
