@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-04-15 14:31:12",
+  "updateTime": "2026-04-15 15:01:11",
   "data": [
     {
       "mgdbId": "120000573572",
@@ -215,7 +215,7 @@
       "title": "中乙联赛",
       "keyword": "04月15日15:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "亚泰训练基地主体育场",
       "competitionName": "中乙",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000572095/202603120956_149681_H169_1080.webp",
@@ -335,7 +335,7 @@
     },
     {
       "mgdbId": "120000573573",
-      "pID": "964021084",
+      "pID": "964166373",
       "title": "张安达、雷佩凡、徐思、范争一、贺国强出战",
       "keyword": "04月15日18:00",
       "sportItemId": "8",
@@ -352,12 +352,12 @@
       },
       "nodes": [
         {
-          "pID": "964021084",
-          "name": "1号桌"
-        },
-        {
           "pID": "964166373",
           "name": "柏林"
+        },
+        {
+          "pID": "964021084",
+          "name": "1号桌"
         },
         {
           "pID": "964021098",
