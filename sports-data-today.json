@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-04-16 21:05:26",
+  "updateTime": "2026-04-16 21:35:21",
   "data": [
     {
       "mgdbId": "120000573574",
@@ -275,7 +275,7 @@
     },
     {
       "mgdbId": "120000574059",
-      "pID": "964217593",
+      "pID": "964226406",
       "title": "NBL总决赛",
       "keyword": "04月16日19:30",
       "sportItemId": "2",
@@ -291,6 +291,10 @@
         "time": "04月16日19:30"
       },
       "nodes": [
+        {
+          "pID": "964226406",
+          "name": "全场集锦"
+        },
         {
           "pID": "964217593",
           "name": "李天宇 陈正昊"
@@ -331,11 +335,11 @@
     },
     {
       "mgdbId": "120000562476",
-      "pID": "963891278",
+      "pID": "963940410",
       "title": "CBA常规赛第39轮",
       "keyword": "04月16日19:35",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "长春市体育馆",
       "competitionName": "CBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/15/779E2UIPMP3F.png",
@@ -347,6 +351,10 @@
         "time": "04月16日19:35"
       },
       "nodes": [
+        {
+          "pID": "963940410",
+          "name": "《再出发》李根：从中国男篮国手到NBL球队总经理"
+        },
         {
           "pID": "963891278",
           "name": "图文直播"
