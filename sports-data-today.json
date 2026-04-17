@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-04-18 07:02:31",
+  "updateTime": "2026-04-18 07:32:28",
   "data": [
     {
       "mgdbId": "120000543735",
@@ -208,7 +208,7 @@
       "title": "NBA附加赛",
       "keyword": "04月18日07:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "安利中心",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/17/779FV7LRTHDU.jpg",
@@ -1224,10 +1224,6 @@
           "name": "解说"
         },
         {
-          "pID": "964201729",
-          "name": "清流"
-        },
-        {
           "pID": "964231431",
           "name": "英文解说"
         },
@@ -1434,6 +1430,10 @@
         {
           "pID": "964222665",
           "name": "赛场原声"
+        },
+        {
+          "url": "http://mg.626910.xyz:16869/964222647",
+          "name": "解说"
         },
         {
           "url": "http://mg.626910.xyz:16869/964222665",
@@ -2870,6 +2870,34 @@
         {
           "url": "http://mg.626910.xyz:16869/964222998",
           "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000574778",
+      "pID": "964062807",
+      "title": "WTA斯图加特站女单半决赛：莱巴金娜 vs 安德列娃",
+      "keyword": "04月18日22:00",
+      "sportItemId": "9",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "WTA",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/18/779GRDJ6HAAP.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
+      "pkInfoTitle": "莱巴金娜 vs  安德列娃",
+      "modifyTitle": "WTA斯图加特站女单半决赛：莱巴金娜 vs 安德列娃",
+      "presenters": "",
+      "matchInfo": {
+        "time": "04月18日22:00"
+      },
+      "nodes": [
+        {
+          "pID": "964062807",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "964062776",
+          "name": "英文原声"
         }
       ]
     },
