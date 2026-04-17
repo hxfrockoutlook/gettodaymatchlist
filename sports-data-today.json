@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-04-18 06:02:34",
+  "updateTime": "2026-04-18 06:32:17",
   "data": [
     {
       "mgdbId": "120000543735",
@@ -1436,10 +1436,6 @@
           "name": "赛场原声"
         },
         {
-          "url": "http://mg.626910.xyz:16869/964222647",
-          "name": "解说"
-        },
-        {
           "url": "http://mg.626910.xyz:16869/964222665",
           "name": "赛场原声"
         }
@@ -2402,7 +2398,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "WTA",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/18/779GR2JI1R52.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
       "pkInfoTitle": "斯维托丽娜、穆霍娃率先出战",
       "modifyTitle": "WTA斯图加特站女单半决赛：斯维托丽娜、穆霍娃率先出战",
@@ -2431,7 +2427,8 @@
     },
     {
       "mgdbId": "120000574773",
-      "title": "WTA斯图加特站女单半决赛：斯维托丽娜 vs穆霍娃",
+      "pID": "964062807",
+      "title": "WTA斯图加特站女单半决赛：斯维托丽娜 vs 穆霍娃",
       "keyword": "04月18日20:00",
       "sportItemId": "9",
       "matchStatus": "0",
@@ -2439,13 +2436,22 @@
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/18/779GQ04KG709.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "斯维托丽娜 vs穆霍娃",
-      "modifyTitle": "WTA斯图加特站女单半决赛：斯维托丽娜 vs穆霍娃",
+      "pkInfoTitle": "斯维托丽娜 vs 穆霍娃",
+      "modifyTitle": "WTA斯图加特站女单半决赛：斯维托丽娜 vs 穆霍娃",
       "presenters": "",
       "matchInfo": {
         "time": "04月18日20:00"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "964062807",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "964062776",
+          "name": "英文原声"
+        }
+      ]
     },
     {
       "mgdbId": "120000574758",
