@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-04-19 00:32:20",
+  "updateTime": "2026-04-19 01:02:26",
   "data": [
     {
       "mgdbId": "120000543014",
@@ -176,7 +176,7 @@
       "title": "法甲联赛",
       "keyword": "04月19日01:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "让·布安球场",
       "competitionName": "法甲",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000542551/202507101711_277196_H169_1080.webp",
@@ -212,7 +212,7 @@
       "title": "NBA季后赛",
       "keyword": "04月19日01:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "火箭信贷球馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/18/779GSVH65OD8.png",
@@ -319,6 +319,10 @@
         {
           "url": "http://mg.626910.xyz:16869/964183825",
           "name": "2号桌"
+        },
+        {
+          "url": "http://mg.626910.xyz:16869/964235849",
+          "name": "朱蒙"
         }
       ]
     },
@@ -1684,7 +1688,7 @@
     {
       "mgdbId": "120000573883",
       "pID": "964062863",
-      "title": "女单决赛",
+      "title": "WTA斯图加特站女单决赛：莱巴金娜 vs  穆霍娃",
       "keyword": "04月19日19:00",
       "sportItemId": "9",
       "matchStatus": "0",
@@ -1692,8 +1696,8 @@
       "competitionName": "WTA",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "女单决赛",
-      "modifyTitle": "WTA斯图加特站女单决赛",
+      "pkInfoTitle": "莱巴金娜 vs  穆霍娃",
+      "modifyTitle": "WTA斯图加特站女单决赛：莱巴金娜 vs  穆霍娃",
       "presenters": "",
       "matchInfo": {
         "time": "04月19日19:00"
@@ -2286,7 +2290,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png",
       "pkInfoTitle": "埃弗顿 vs 利物浦",
       "modifyTitle": "英超联赛",
-      "presenters": "娄一晨 刘越 邵凌霄",
+      "presenters": "刘越 邵凌霄 娄一晨",
       "matchInfo": {
         "time": "04月19日21:00"
       },
