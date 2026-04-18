@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-04-18 16:32:26",
+  "updateTime": "2026-04-18 17:02:40",
   "data": [
     {
       "mgdbId": "120000543735",
@@ -491,7 +491,7 @@
       "title": "足协杯第二轮",
       "keyword": "04月18日15:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Yulin Sports Center Stadium",
       "competitionName": "足协杯",
       "padImg": "",
@@ -527,7 +527,7 @@
       "title": "足协杯第二轮",
       "keyword": "04月18日15:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Tazi Lake Sports Centre",
       "competitionName": "足协杯",
       "padImg": "",
@@ -583,7 +583,7 @@
       "title": "浙江省城市足球联赛",
       "keyword": "04月18日15:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "吴越杯",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000573707/202604081520_243821_H169_1080.webp",
@@ -611,7 +611,7 @@
       "title": "浙江省城市足球联赛",
       "keyword": "04月18日15:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "吴越杯",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000573708/202604081520_241108_H169_1080.webp",
@@ -639,7 +639,7 @@
       "title": "湖北省城市足球联赛",
       "keyword": "04月18日15:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "楚超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000573711/202604131734_783037_H169_1080.webp",
@@ -667,7 +667,7 @@
       "title": "楚雄队VS西双版纳队",
       "keyword": "04月18日15:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "滇超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000574751/202604171325_821252_H169_1080.webp",
@@ -695,7 +695,7 @@
       "title": "玉溪队VS临沧队",
       "keyword": "04月18日15:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "滇超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000574752/202604171325_697920_H169_1080.webp",
@@ -723,7 +723,7 @@
       "title": "大理队VS文山队",
       "keyword": "04月18日15:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "滇超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000574753/202604171325_615536_H169_1080.webp",
@@ -935,7 +935,7 @@
       "title": "斯诺克世锦赛32进16轮次：赵心童vs海菲尔德",
       "keyword": "04月18日17:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/17/779FSHODTHP7.png",
@@ -948,6 +948,10 @@
       },
       "nodes": [
         {
+          "pID": "964183624",
+          "name": "张安达VS艾伦"
+        },
+        {
           "pID": "964235352",
           "name": "演播室"
         },
@@ -957,7 +961,7 @@
         },
         {
           "pID": "964235942",
-          "name": "孙嘉星"
+          "name": "中国助威视角"
         },
         {
           "url": "http://mg.626910.xyz:16869/964235352",
@@ -975,11 +979,11 @@
     },
     {
       "mgdbId": "120000574292",
-      "pID": "964183624",
+      "pID": "964235930",
       "title": "斯诺克世锦赛32进16轮次：马克·艾伦 vs 张安达",
       "keyword": "04月18日17:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/18/779GSKPD5DS6.jpg",
@@ -992,12 +996,12 @@
       },
       "nodes": [
         {
-          "pID": "964183624",
-          "name": "2号桌"
-        },
-        {
           "pID": "964235930",
           "name": "乔迁"
+        },
+        {
+          "pID": "964183624",
+          "name": "现场原声"
         },
         {
           "url": "http://mg.626910.xyz:16869/964183624",
@@ -1006,34 +1010,6 @@
         {
           "url": "http://mg.626910.xyz:16869/964235930",
           "name": "乔迁"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000574520",
-      "pID": "964198460",
-      "title": "山东省齐鲁足球超级联赛",
-      "keyword": "04月18日18:00",
-      "sportItemId": "1",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "齐鲁超赛",
-      "padImg": "",
-      "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/16/779F051106LU.png",
-      "pkInfoTitle": "泰安泰山城建队VS青岛青春",
-      "modifyTitle": "山东省齐鲁足球超级联赛",
-      "presenters": "",
-      "matchInfo": {
-        "time": "04月18日18:00"
-      },
-      "nodes": [
-        {
-          "pID": "964198460",
-          "name": "2026山东省齐鲁足球超级联赛第一轮: 泰安泰山城建队VS青岛青春"
-        },
-        {
-          "url": "http://mg.626910.xyz:16869/964198460",
-          "name": "2026山东省齐鲁足球超级联赛第一轮:"
         }
       ]
     },
@@ -1726,6 +1702,34 @@
         {
           "url": "http://mg.626910.xyz:16869/964051867",
           "name": "2026浙江省城市足球联赛第三轮: 丽水VS台州"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000574520",
+      "pID": "964198460",
+      "title": "山东省齐鲁足球超级联赛",
+      "keyword": "04月18日19:30",
+      "sportItemId": "1",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "齐鲁超赛",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/16/779F051106LU.png",
+      "pkInfoTitle": "泰安泰山城建队VS青岛青春",
+      "modifyTitle": "山东省齐鲁足球超级联赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "04月18日19:30"
+      },
+      "nodes": [
+        {
+          "pID": "964198460",
+          "name": "2026山东省齐鲁足球超级联赛第一轮: 泰安泰山城建队VS青岛青春"
+        },
+        {
+          "url": "http://mg.626910.xyz:16869/964198460",
+          "name": "2026山东省齐鲁足球超级联赛第一轮:"
         }
       ]
     },
@@ -2429,7 +2433,7 @@
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/18/779GQ04KG709.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
       "pkInfoTitle": "斯维托丽娜 vs 穆霍娃",
-      "modifyTitle": "WTA斯图加特站女单半决赛：斯维托丽娜 vs 穆���娃",
+      "modifyTitle": "WTA斯图加特站女单半决赛：斯维托丽娜 vs 穆霍娃",
       "presenters": "郭丰庆",
       "matchInfo": {
         "time": "04月18日20:00"
@@ -2640,10 +2644,6 @@
           "name": "涂远 马延峰"
         },
         {
-          "url": "http://mg.626910.xyz:16869/964222988",
-          "name": "赛场原声"
-        },
-        {
           "url": "http://mg.626910.xyz:16869/964223138",
           "name": "涂远 马延峰"
         }
@@ -2746,6 +2746,10 @@
         {
           "pID": "964235921",
           "name": "柏林"
+        },
+        {
+          "pID": "964062807",
+          "name": "WTA斯图加特站女单半决赛"
         },
         {
           "url": "http://mg.626910.xyz:16869/964183646",
