@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-04-18 11:32:19",
+  "updateTime": "2026-04-18 12:02:47",
   "data": [
     {
       "mgdbId": "120000543735",
@@ -180,7 +180,7 @@
     },
     {
       "mgdbId": "120000572472",
-      "pID": "964251617",
+      "pID": "964253041",
       "title": "NBA附加赛",
       "keyword": "04月18日07:30",
       "sportItemId": "2",
@@ -197,8 +197,8 @@
       },
       "nodes": [
         {
-          "pID": "964251617",
-          "name": "打嗨了！贝恩飞扑救球 魔术空接虐筐点燃主场"
+          "pID": "964253041",
+          "name": "25-26赛季NBA附加赛全场集锦: 黄蜂90:121魔术"
         },
         {
           "pID": "964222079",
@@ -391,7 +391,7 @@
       "title": "经典重映-2025年终总决赛",
       "keyword": "04月18日12:00",
       "sportItemId": "6",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "BWF",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/17/779FUST1FHDB.jpg",
@@ -629,7 +629,7 @@
         },
         {
           "url": "http://mg.626910.xyz:16869/964051844",
-          "name": "2026浙江省城市足球联赛第三轮: ���州VS温州"
+          "name": "2026浙江省城市足球联赛第三轮: 湖州VS温州"
         }
       ]
     },
@@ -982,7 +982,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "斯诺克",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/18/779GSKPD5DS6.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "马克·艾伦vs张安达",
       "modifyTitle": "斯诺克世锦赛32进16轮次：马克·艾伦 vs 张安达",
@@ -2714,7 +2714,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "斯诺克",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/18/779GSL5LT53R.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "肖国栋vs周跃龙",
       "modifyTitle": "斯诺克世锦赛32进16轮次：肖国栋vs周跃龙",
@@ -2814,10 +2814,6 @@
         {
           "url": "http://mg.626910.xyz:16869/964223814",
           "name": "赛场原声"
-        },
-        {
-          "url": "http://mg.626910.xyz:16869/964223822",
-          "name": "英文原声"
         }
       ]
     },
@@ -2937,6 +2933,34 @@
         },
         {
           "url": "http://mg.626910.xyz:16869/964223162",
+          "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000543014",
+      "pID": "120000543014",
+      "title": "那不勒斯 vs 拉齐奥",
+      "keyword": "04月18日23:45",
+      "sportItemId": "",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "意甲",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/07/17/11005/8d73ebca565d491eb1ae6328e709f39e/8d73ebca565d491eb1ae6328e709f39e_H169_P1080_WEBP.webp",
+      "competitionLogo": "",
+      "pkInfoTitle": "那不勒斯 vs 拉齐奥",
+      "modifyTitle": "那不勒斯 vs 拉齐奥",
+      "presenters": "",
+      "matchInfo": {
+        "time": "04月18日23:45"
+      },
+      "nodes": [
+        {
+          "pID": "964223446",
+          "name": "石庆圣"
+        },
+        {
+          "pID": "964223434",
           "name": "赛场原声"
         }
       ]
