@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-04-18 15:02:41",
+  "updateTime": "2026-04-18 15:32:34",
   "data": [
     {
       "mgdbId": "120000543735",
@@ -751,7 +751,7 @@
       "title": "中甲联赛",
       "keyword": "04月18日15:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "西安国际足球中心",
       "competitionName": "中甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000570712/436430_H169_sc.jpg",
@@ -787,7 +787,7 @@
       "title": "中甲联赛",
       "keyword": "04月18日15:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "南海体育中心体育场",
       "competitionName": "中甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000570714/699156_H169_sc.jpg",
@@ -1893,7 +1893,7 @@
         },
         {
           "url": "http://mg.626910.xyz:16869/963424227",
-          "name": "2026赛季四川���城市足球联赛第6轮：凉山好医生队vs成都锦城队"
+          "name": "2026赛季四川省城市足球联赛第6轮：凉山好医生队vs成都锦城队"
         }
       ]
     },
@@ -2049,7 +2049,7 @@
         },
         {
           "url": "http://mg.626910.xyz:16869/964223541",
-          "name": "赛场原声"
+          "name": "���场原声"
         }
       ]
     },
@@ -2372,7 +2372,7 @@
     {
       "mgdbId": "120000573882",
       "pID": "964062807",
-      "title": "斯维托丽娜、穆霍娃率先出战",
+      "title": "穆霍娃冲决赛 莱巴金娜vs小米拉",
       "keyword": "04月18日20:00",
       "sportItemId": "9",
       "matchStatus": "0",
@@ -2380,13 +2380,17 @@
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/18/779GR2JI1R52.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "斯维托丽娜、穆霍娃率先出战",
-      "modifyTitle": "WTA斯图加特站女单半决赛：斯维托丽娜、穆霍娃率先出战",
-      "presenters": "",
+      "pkInfoTitle": "穆霍娃冲决赛 莱巴金娜vs小米拉",
+      "modifyTitle": "WTA斯图加特站女单半决赛：穆霍娃冲决赛 莱巴金娜vs小米拉",
+      "presenters": "郭丰庆 单文强",
       "matchInfo": {
         "time": "04月18日20:00"
       },
       "nodes": [
+        {
+          "pID": "964251997",
+          "name": "斯维托丽娜 vs穆霍娃(郭丰庆)"
+        },
         {
           "pID": "964062807",
           "name": "赛场原声"
@@ -2396,12 +2400,20 @@
           "name": "英文原声"
         },
         {
+          "pID": "964252025",
+          "name": "莱巴金娜 vs  安德列娃(单文强)"
+        },
+        {
           "url": "http://mg.626910.xyz:16869/964062807",
           "name": "赛场原声"
         },
         {
           "url": "http://mg.626910.xyz:16869/964062776",
-          "name": "英文原���"
+          "name": "英文原声"
+        },
+        {
+          "url": "http://mg.626910.xyz:16869/964252025",
+          "name": "单文强"
         }
       ]
     },
@@ -2897,18 +2909,6 @@
         },
         {
           "pID": "964252025",
-          "name": "单文强"
-        },
-        {
-          "url": "http://mg.626910.xyz:16869/964062807",
-          "name": "赛场原声"
-        },
-        {
-          "url": "http://mg.626910.xyz:16869/964062776",
-          "name": "英文原声"
-        },
-        {
-          "url": "http://mg.626910.xyz:16869/964252025",
           "name": "单文强"
         }
       ]
