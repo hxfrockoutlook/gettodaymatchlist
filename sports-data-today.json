@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-04-22 00:31:15",
+  "updateTime": "2026-04-22 01:01:22",
   "data": [
     {
       "mgdbId": "120000574841",
@@ -44,7 +44,7 @@
       "title": "西甲联赛",
       "keyword": "04月22日01:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "伊贝罗斯达体育场",
       "competitionName": "西甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000543282/862363_H169_sc.jpg",
@@ -80,7 +80,7 @@
       "title": "西甲联赛",
       "keyword": "04月22日01:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "圣马梅斯球场",
       "competitionName": "西甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000543284/654241_H169_sc.jpg",
@@ -153,12 +153,16 @@
       },
       "nodes": [
         {
+          "pID": "964183772",
+          "name": "特鲁姆普vs加里·威尔逊"
+        },
+        {
           "pID": "964278373",
           "name": "朱峰立"
         },
         {
           "pID": "964183735",
-          "name": "1号桌"
+          "name": "现场原声"
         },
         {
           "url": "http://mg.626910.xyz:16869/964278373",
@@ -194,7 +198,7 @@
         },
         {
           "pID": "964183772",
-          "name": "2号桌"
+          "name": "现场原声"
         },
         {
           "url": "http://mg.626910.xyz:16869/964278379",
