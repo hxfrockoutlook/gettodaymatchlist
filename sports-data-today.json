@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-04-22 16:31:12",
+  "updateTime": "2026-04-22 17:01:20",
   "data": [
     {
       "mgdbId": "120000574841",
@@ -551,29 +551,29 @@
     },
     {
       "mgdbId": "120000574314",
-      "pID": "964183798",
-      "title": "斯诺克世锦赛32进16轮次：克里斯·韦克林vs利亚姆·普伦",
+      "pID": "964331733",
+      "title": "斯诺克世锦赛32进16轮次：克里斯·韦克林vs利亚姆·普伦（第二阶段）",
       "keyword": "04月22日17:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/22/779KGL7740M4.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "克里斯·韦克林vs利亚姆·普伦",
-      "modifyTitle": "斯诺克世锦赛32进16轮次：克里斯·韦克林vs利亚姆·普伦",
+      "modifyTitle": "斯诺克世锦赛32进16轮次：克里斯·韦克林vs利亚姆·普伦（第二阶段）",
       "presenters": "乔迁",
       "matchInfo": {
         "time": "04月22日17:00"
       },
       "nodes": [
         {
-          "pID": "964183798",
-          "name": "1号桌"
-        },
-        {
           "pID": "964331733",
           "name": "乔迁"
+        },
+        {
+          "pID": "964183798",
+          "name": "现场原声"
         },
         {
           "url": "http://mg.626910.xyz:16869/964183798",
@@ -588,28 +588,32 @@
     {
       "mgdbId": "120000574317",
       "pID": "964183838",
-      "title": "斯诺克世锦赛32进16轮次：马克·塞尔比vs杰克·琼斯",
+      "title": "斯诺克世锦赛32进16轮次：马克·塞尔比vs杰克·琼斯（第一阶段）",
       "keyword": "04月22日17:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/22/779KGOS9E1MK.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "马克·塞尔比vs杰克·琼斯",
-      "modifyTitle": "斯诺克世锦赛32进16轮次：马克·塞尔比vs杰克·琼斯",
+      "modifyTitle": "斯诺克世锦赛32进16轮次：马克·塞尔比vs杰克·琼斯（第一阶段）",
       "presenters": "陶哲铭",
       "matchInfo": {
         "time": "04月22日17:00"
       },
       "nodes": [
         {
-          "pID": "964183838",
-          "name": "2号桌"
+          "pID": "964183798",
+          "name": "韦克林vs普伦"
         },
         {
           "pID": "964331754",
           "name": "陶哲铭"
+        },
+        {
+          "pID": "964183838",
+          "name": "现场原声"
         },
         {
           "url": "http://mg.626910.xyz:16869/964183838",
@@ -627,14 +631,14 @@
       "title": "森梅兹率先出战 伊埃拉登场",
       "keyword": "04月22日17:00",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/22/779KEBKLG7B2.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
       "pkInfoTitle": "森梅兹率先出战 伊埃拉登场",
       "modifyTitle": "WTA马德里站女单第一轮：森梅兹率先出战 伊埃拉登场",
-      "presenters": "",
+      "presenters": "胡力涛",
       "matchInfo": {
         "time": "04月22日17:00"
       },
@@ -646,6 +650,14 @@
         {
           "pID": "964215373",
           "name": "英文原声"
+        },
+        {
+          "pID": "964337762",
+          "name": "胡力涛"
+        },
+        {
+          "pID": "964337796",
+          "name": "赛场原声"
         },
         {
           "url": "http://mg.626910.xyz:16869/964215349",
@@ -663,7 +675,7 @@
       "title": "WTA马德里站女单第一轮：张帅马德里站首秀",
       "keyword": "04月22日17:00",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/22/779KECIIF0V6.png",
@@ -676,12 +688,12 @@
       },
       "nodes": [
         {
-          "pID": "964337796",
-          "name": "赛场原声"
-        },
-        {
           "pID": "964337762",
           "name": "胡力涛"
+        },
+        {
+          "pID": "964337796",
+          "name": "赛场原声"
         }
       ]
     },
@@ -952,7 +964,7 @@
     {
       "mgdbId": "120000574322",
       "pID": "964183867",
-      "title": "斯诺克世锦赛32进16轮次：罗尼·奥沙利文 vs 贺国强",
+      "title": "斯诺克世锦赛32进16轮次：罗尼·奥沙利文 vs 贺国强（第二阶段）",
       "keyword": "04月22日21:30",
       "sportItemId": "8",
       "matchStatus": "0",
@@ -961,7 +973,7 @@
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/22/779KGLJIDK6Q.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "奥沙利文vs贺国强",
-      "modifyTitle": "斯诺克世锦赛32进16轮次：罗尼·奥沙利文 vs 贺国强",
+      "modifyTitle": "斯诺克世锦赛32进16轮次：罗尼·奥沙利文 vs 贺国强（第二阶段）",
       "presenters": "柏林",
       "matchInfo": {
         "time": "04月22日21:30"
