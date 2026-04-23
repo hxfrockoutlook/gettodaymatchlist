@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-04-24 00:01:37",
+  "updateTime": "2026-04-24 01:01:29",
   "data": [
     {
       "mgdbId": "120000543845",
@@ -8,7 +8,7 @@
       "title": "西甲联赛",
       "keyword": "04月24日01:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "西甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000543845/801348_H169_sc.jpg",
@@ -800,7 +800,7 @@
       "nodes": [
         {
           "url": "http://mg.626910.xyz:16869/963890942",
-          "name": "��文直播"
+          "name": "图文直播"
         }
       ]
     },
@@ -1136,14 +1136,14 @@
     },
     {
       "mgdbId": "120000574367",
-      "pID": "964184207",
+      "pID": "964332008",
       "title": "斯诺克世锦赛16进8轮次：赵心童大战丁俊晖",
       "keyword": "04月24日20:45",
       "sportItemId": "8",
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "斯诺克",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/24/779MBFSKK2N6.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "赵心童VS丁俊晖",
       "modifyTitle": "斯诺克世锦赛16进8轮次：赵心童大战丁俊晖",
@@ -1153,12 +1153,12 @@
       },
       "nodes": [
         {
-          "pID": "964184207",
-          "name": "1号桌"
-        },
-        {
           "pID": "964332008",
           "name": "秦正 庞卫国"
+        },
+        {
+          "pID": "964184207",
+          "name": "现场原声"
         },
         {
           "url": "http://mg.626910.xyz:16869/964184207",
