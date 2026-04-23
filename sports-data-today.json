@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-04-23 19:31:06",
+  "updateTime": "2026-04-23 20:01:13",
   "data": [
     {
       "mgdbId": "120000574852",
@@ -27,6 +27,10 @@
         {
           "pID": "964310127",
           "name": "赛场原声"
+        },
+        {
+          "url": "http://mg.626910.xyz:16869/964351735",
+          "name": "全场回放（乔迁）"
         }
       ]
     },
@@ -481,7 +485,7 @@
         },
         {
           "url": "http://mg.626910.xyz:16869/964360420",
-          "name": "雷���VS太阳 全场回放（英文原声）"
+          "name": "全场回放（英文原声）"
         }
       ]
     },
@@ -551,7 +555,7 @@
     },
     {
       "mgdbId": "120000574701",
-      "pID": "964358978",
+      "pID": "964215405",
       "title": "斯瓦泰克出战 萨巴伦卡接场",
       "keyword": "04月23日17:00",
       "sportItemId": "9",
@@ -568,20 +572,20 @@
       },
       "nodes": [
         {
-          "pID": "964359029",
-          "name": "王欣瑜 vs 萨姆森(刘钟鸣)"
-        },
-        {
-          "pID": "964358978",
-          "name": "王欣瑜vs萨姆森(赛场原声）"
-        },
-        {
           "pID": "964215405",
           "name": "赛场原声"
         },
         {
           "pID": "964215432",
           "name": "英文原声"
+        },
+        {
+          "pID": "964359029",
+          "name": "王欣瑜 vs 萨姆森(刘钟鸣)"
+        },
+        {
+          "pID": "964358978",
+          "name": "王欣瑜vs萨姆森(赛场原声）"
         },
         {
           "url": "http://mg.626910.xyz:16869/964215405",
@@ -691,7 +695,7 @@
       "title": "斯诺克世锦赛16进8轮次：肖国栋vs肖恩·墨菲",
       "keyword": "04月23日20:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/23/779LDO0Q8F74.jpg",
@@ -704,12 +708,16 @@
       },
       "nodes": [
         {
+          "pID": "964184094",
+          "name": "斯佳辉vs瓦菲"
+        },
+        {
           "pID": "964331884",
           "name": "乔迁"
         },
         {
           "pID": "964184063",
-          "name": "1号桌"
+          "name": "现场原声"
         },
         {
           "url": "http://mg.626910.xyz:16869/964331884",
@@ -727,7 +735,7 @@
       "title": "斯诺克世锦赛32进16轮次：斯佳辉vs侯赛因·瓦菲",
       "keyword": "04月23日20:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/23/779LDK681CQ8.jpg",
@@ -740,12 +748,16 @@
       },
       "nodes": [
         {
+          "pID": "964184063",
+          "name": "肖国栋vs墨菲"
+        },
+        {
           "pID": "964331931",
           "name": "朱峰立"
         },
         {
           "pID": "964184094",
-          "name": "2号桌"
+          "name": "现场原声"
         },
         {
           "url": "http://mg.626910.xyz:16869/964331931",
