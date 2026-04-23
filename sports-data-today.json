@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-04-24 03:31:22",
+  "updateTime": "2026-04-24 04:01:22",
   "data": [
     {
       "mgdbId": "120000543845",
@@ -542,7 +542,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "双战来袭！中国队分别迎战乌克兰、澳大利亚队",
       "modifyTitle": "BWF汤尤杯小组赛第一日：双战来袭！中国队分别迎战乌克兰、澳大利亚队",
-      "presenters": "余博洋 鸿昆 孙宁智 轩���博",
+      "presenters": "余博洋 鸿昆 孙宁智 轩子博",
       "matchInfo": {
         "time": "04月24日14:30"
       },
@@ -680,6 +680,10 @@
           "name": "1号桌"
         },
         {
+          "pID": "964215461",
+          "name": "同看WTA"
+        },
+        {
           "url": "http://mg.626910.xyz:16869/964184172",
           "name": "1号桌"
         }
@@ -722,7 +726,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "WTA",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/24/779M8TJB3J6S.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
       "pkInfoTitle": "莱巴金娜、高芙出战 佩古拉压场",
       "modifyTitle": "WTA马德里站女单第二轮：莱巴金娜、高芙出战 佩古拉压场",
@@ -751,7 +755,7 @@
     },
     {
       "mgdbId": "120000575131",
-      "pID": "964184172",
+      "pID": "964215461",
       "title": "郑钦文 vs 肯宁",
       "keyword": "04月24日17:00",
       "sportItemId": "9",
@@ -766,7 +770,16 @@
       "matchInfo": {
         "time": "04月24日17:00"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "964215461",
+          "name": "郑钦文VS肯宁"
+        },
+        {
+          "pID": "964184172",
+          "name": "同看 肖国栋vs肖恩·墨菲（1号桌）"
+        }
+      ]
     },
     {
       "mgdbId": "120000575132",
@@ -805,7 +818,7 @@
       "nodes": [
         {
           "url": "http://mg.626910.xyz:16869/963890942",
-          "name": "��文直播"
+          "name": "图文直播"
         }
       ]
     },
