@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-04-24 13:31:22",
+  "updateTime": "2026-04-24 14:01:32",
   "data": [
     {
       "mgdbId": "120000543845",
@@ -457,7 +457,7 @@
       "nodes": [
         {
           "pID": "964361616",
-          "name": "2026BWF小组赛: 汤杯A组 中国VS澳大利亚(余博洋)"
+          "name": "解说：余博洋"
         },
         {
           "pID": "964293741",
@@ -493,7 +493,7 @@
       "nodes": [
         {
           "pID": "964361583",
-          "name": "2026BWF小组赛: 尤杯A组 中国VS乌克兰(鸿昆)"
+          "name": "解说：鸿昆"
         },
         {
           "pID": "964293785",
@@ -520,7 +520,7 @@
     {
       "mgdbId": "120000574853",
       "pID": "964361616",
-      "title": "双战来袭！中国队分别迎战乌克兰、澳大利亚队",
+      "title": "汤尤杯揭幕战！国羽男女队冲击双线卫冕",
       "keyword": "04月24日14:30",
       "sportItemId": "6",
       "matchStatus": "0",
@@ -528,8 +528,8 @@
       "competitionName": "BWF",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/23/779LBNBSRV00.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
-      "pkInfoTitle": "双战来袭！中国队分别迎战乌克兰、澳大利亚队",
-      "modifyTitle": "BWF汤尤杯小组赛第一日：双战来袭！中国队分别迎战乌克兰、澳大利亚队",
+      "pkInfoTitle": "汤尤杯揭幕战！国羽男女队冲击双线卫冕",
+      "modifyTitle": "BWF汤尤杯小组赛第一日：揭幕战！国羽男女队冲击双线卫冕",
       "presenters": "余博洋 鸿昆",
       "matchInfo": {
         "time": "04月24日14:30"
@@ -589,7 +589,7 @@
         },
         {
           "url": "http://mg.626910.xyz:16869/964293768",
-          "name": "2号场地英文解说"
+          "name": "2号场地��文解说"
         },
         {
           "url": "http://mg.626910.xyz:16869/964361641",
@@ -782,7 +782,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
       "pkInfoTitle": "郑钦文 vs 肯宁",
       "modifyTitle": "郑钦文 vs 肯宁",
-      "presenters": "",
+      "presenters": "单文强",
       "matchInfo": {
         "time": "04月24日17:00"
       },
@@ -790,6 +790,14 @@
         {
           "pID": "964215461",
           "name": "郑钦文VS肯宁"
+        },
+        {
+          "pID": "964377913",
+          "name": "清流播出"
+        },
+        {
+          "pID": "964377954",
+          "name": "单文强"
         },
         {
           "pID": "964184172",
@@ -803,6 +811,7 @@
     },
     {
       "mgdbId": "120000575132",
+      "pID": "964377979",
       "title": "凯斯 vs 张帅",
       "keyword": "04月24日17:00",
       "sportItemId": "9",
@@ -813,11 +822,20 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
       "pkInfoTitle": "凯斯 vs 张帅",
       "modifyTitle": "凯斯 vs 张帅",
-      "presenters": "",
+      "presenters": "郭丰庆",
       "matchInfo": {
         "time": "04月24日17:00"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "964377979",
+          "name": "清流播出"
+        },
+        {
+          "pID": "964378067",
+          "name": "郭丰庆"
+        }
+      ]
     },
     {
       "mgdbId": "300000002013",
