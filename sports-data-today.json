@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-04-24 09:31:23",
+  "updateTime": "2026-04-24 10:01:25",
   "data": [
     {
       "mgdbId": "120000543845",
@@ -180,14 +180,14 @@
     },
     {
       "mgdbId": "120000574548",
-      "pID": "964277608",
+      "pID": "964373169",
       "title": "NBA季后赛",
       "keyword": "04月24日07:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "州立农业球馆",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/23/779LB8I06NHO.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/24/779MAMR6017C.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "尼克斯VS老鹰",
       "modifyTitle": "NBA季后赛",
@@ -196,6 +196,10 @@
         "time": "04月24日07:00"
       },
       "nodes": [
+        {
+          "pID": "964373169",
+          "name": "关键时刻依旧主宰！CJ点名单吃哈特得手"
+        },
         {
           "pID": "964277608",
           "name": "邵化谦 李根"
@@ -370,6 +374,10 @@
         {
           "pID": "964277251",
           "name": "英文原声"
+        },
+        {
+          "pID": "964277407",
+          "name": "骑士 vs 猛龙"
         },
         {
           "pID": "964289858",
@@ -599,6 +607,7 @@
     },
     {
       "mgdbId": "120000572088",
+      "pID": "964372700",
       "title": "中乙联赛",
       "keyword": "04月24日15:00",
       "sportItemId": "1",
@@ -613,10 +622,16 @@
       "matchInfo": {
         "time": "04月24日15:00"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "964372700",
+          "name": "解说"
+        }
+      ]
     },
     {
       "mgdbId": "120000572087",
+      "pID": "964372744",
       "title": "中乙联赛",
       "keyword": "04月24日15:30",
       "sportItemId": "1",
@@ -631,7 +646,12 @@
       "matchInfo": {
         "time": "04月24日15:30"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "964372744",
+          "name": "解说"
+        }
+      ]
     },
     {
       "mgdbId": "120000574362",
@@ -646,7 +666,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "肖国栋vs肖恩·墨菲",
       "modifyTitle": "斯诺克世锦赛16进8轮次：肖国栋vs肖恩·墨菲",
-      "presenters": "",
+      "presenters": "朱峰立",
       "matchInfo": {
         "time": "04月24日17:00"
       },
@@ -654,6 +674,10 @@
         {
           "pID": "964184172",
           "name": "1号桌"
+        },
+        {
+          "pID": "964372592",
+          "name": "朱峰立"
         },
         {
           "pID": "964215461",
@@ -678,7 +702,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "马克·威廉姆斯 vs 巴里·霍金斯",
       "modifyTitle": "斯诺克世锦赛16进8轮次：马克·威廉姆斯 vs 巴里·霍金斯",
-      "presenters": "",
+      "presenters": "孙嘉星",
       "matchInfo": {
         "time": "04月24日17:00"
       },
@@ -686,6 +710,10 @@
         {
           "pID": "964184191",
           "name": "2号桌"
+        },
+        {
+          "pID": "964372666",
+          "name": "孙嘉星"
         },
         {
           "url": "http://mg.626910.xyz:16869/964184191",
@@ -805,6 +833,7 @@
     },
     {
       "mgdbId": "120000572086",
+      "pID": "964372864",
       "title": "中乙联赛",
       "keyword": "04月24日19:00",
       "sportItemId": "1",
@@ -819,10 +848,16 @@
       "matchInfo": {
         "time": "04月24日19:00"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "964372864",
+          "name": "解说"
+        }
+      ]
     },
     {
       "mgdbId": "120000572085",
+      "pID": "964372934",
       "title": "中乙联赛",
       "keyword": "04月24日19:30",
       "sportItemId": "1",
@@ -837,7 +872,12 @@
       "matchInfo": {
         "time": "04月24日19:30"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "964372934",
+          "name": "解说"
+        }
+      ]
     },
     {
       "mgdbId": "120000562497",
@@ -870,7 +910,7 @@
     {
       "mgdbId": "120000562498",
       "pID": "963890934",
-      "title": "CBA常规赛��42轮",
+      "title": "CBA常规赛第42轮",
       "keyword": "04月24日19:35",
       "sportItemId": "2",
       "matchStatus": "0",
@@ -1117,6 +1157,7 @@
     },
     {
       "mgdbId": "120000572084",
+      "pID": "964372962",
       "title": "中乙联赛",
       "keyword": "04月24日19:35",
       "sportItemId": "1",
@@ -1131,7 +1172,12 @@
       "matchInfo": {
         "time": "04月24日19:35"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "964372962",
+          "name": "解说"
+        }
+      ]
     },
     {
       "mgdbId": "120000574367",
@@ -1146,7 +1192,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "赵心童VS丁俊晖",
       "modifyTitle": "斯诺克世锦赛16进8轮次：赵心童大战丁俊晖",
-      "presenters": "秦正 庞卫国",
+      "presenters": "秦正 庞卫国 乔迁",
       "matchInfo": {
         "time": "04月24日20:45"
       },
@@ -1158,6 +1204,10 @@
         {
           "pID": "964184207",
           "name": "现场原声"
+        },
+        {
+          "pID": "964372814",
+          "name": "乔迁"
         },
         {
           "url": "http://mg.626910.xyz:16869/964332008",
@@ -1182,7 +1232,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "凯伦·威尔逊vs马克·艾伦",
       "modifyTitle": "斯诺克世锦赛16进8轮次：凯伦·威尔逊vs马克·艾伦",
-      "presenters": "",
+      "presenters": "朱蒙",
       "matchInfo": {
         "time": "04月24日21:30"
       },
@@ -1190,6 +1240,10 @@
         {
           "pID": "964184229",
           "name": "2号桌"
+        },
+        {
+          "pID": "964372893",
+          "name": "朱蒙"
         }
       ]
     }
