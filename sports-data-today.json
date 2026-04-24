@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-04-24 20:31:27",
+  "updateTime": "2026-04-24 21:01:32",
   "data": [
     {
       "mgdbId": "120000543845",
@@ -843,7 +843,7 @@
       "title": "NBA季后赛精彩重播：尼克斯 vs 老鹰 G3",
       "keyword": "04月24日18:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA经典赛事",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/24/779M9MESNVUB.png",
@@ -1259,7 +1259,7 @@
       "title": "斯诺克世锦赛16进8轮次：赵心童VS丁俊晖（第一阶段）",
       "keyword": "04月24日20:45",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/24/779M8U1DNQAP.jpg",
@@ -1271,6 +1271,10 @@
         "time": "04月24日20:45"
       },
       "nodes": [
+        {
+          "pID": "964184229",
+          "name": "凯伦·威尔逊vs 马克·艾伦"
+        },
         {
           "pID": "964332008",
           "name": "秦正 庞卫国"
@@ -1299,7 +1303,7 @@
     },
     {
       "mgdbId": "120000574368",
-      "pID": "964184229",
+      "pID": "964372893",
       "title": "斯诺克世锦赛16进8轮次：凯伦·威尔逊vs马克·艾伦",
       "keyword": "04月24日21:30",
       "sportItemId": "8",
@@ -1316,12 +1320,12 @@
       },
       "nodes": [
         {
-          "pID": "964184229",
-          "name": "2号桌"
-        },
-        {
           "pID": "964372893",
           "name": "朱蒙"
+        },
+        {
+          "pID": "964184229",
+          "name": "2号桌"
         }
       ]
     }
