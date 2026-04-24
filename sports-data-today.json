@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-04-24 08:31:21",
+  "updateTime": "2026-04-24 09:01:25",
   "data": [
     {
       "mgdbId": "120000543845",
@@ -34,7 +34,7 @@
         },
         {
           "url": "http://mg.626910.xyz:16869/964369785",
-          "name": "莱万特VS塞维利亚 全场回放（李霄）"
+          "name": "全场回放（李霄）"
         }
       ]
     },
@@ -241,6 +241,10 @@
       },
       "nodes": [
         {
+          "pID": "964277608",
+          "name": "25/26赛季NBA季后赛: 纽约尼克斯 vs 亚特兰大老鹰(邵化谦,李根)"
+        },
+        {
           "pID": "964277407",
           "name": "李天宇 陈正昊 魏欣怡"
         },
@@ -272,7 +276,7 @@
       "title": "咪咕体育日报 第89期",
       "keyword": "04月24日00:00",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "咪咕体育日报",
       "padImg": "",
@@ -290,40 +294,12 @@
       ]
     },
     {
-      "mgdbId": "120000575102",
-      "pID": "964358832",
-      "title": "单打一、二阶段",
-      "keyword": "04月24日08:30",
-      "sportItemId": "7",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "中国乒协会员联赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/23/779LE5Q6AL6A.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/3/18/1000000014191068af2d.png",
-      "pkInfoTitle": "单打一、二阶段",
-      "modifyTitle": "“李宁·红双喜杯”中国乒协会员联赛贵州安顺站单打一、二阶段",
-      "presenters": "",
-      "matchInfo": {
-        "time": "04月24日08:30"
-      },
-      "nodes": [
-        {
-          "pID": "964358832",
-          "name": "赛场原声"
-        },
-        {
-          "url": "http://mg.626910.xyz:16869/964358832",
-          "name": "赛场原声"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000574290",
       "pID": "964181347",
       "title": "华发冰雪热雪奇迹杯day2",
       "keyword": "04月24日09:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "亚洲室内高山滑雪锦标赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/23/779LDQSA3G6T.jpg",
@@ -342,6 +318,30 @@
         {
           "url": "http://mg.626910.xyz:16869/964181347",
           "name": "解说"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000575102",
+      "pID": "964358832",
+      "title": "单打第一、二阶段",
+      "keyword": "04月24日09:00",
+      "sportItemId": "7",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "中国乒协会员联赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/23/779LE5Q6AL6A.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/3/18/1000000014191068af2d.png",
+      "pkInfoTitle": "单打第一、二阶段",
+      "modifyTitle": "“李宁·红双喜杯”中国乒协会员联赛贵州安顺站单打一、二阶段",
+      "presenters": "",
+      "matchInfo": {
+        "time": "04月24日09:00"
+      },
+      "nodes": [
+        {
+          "pID": "964358832",
+          "name": "赛场原声"
         }
       ]
     },
