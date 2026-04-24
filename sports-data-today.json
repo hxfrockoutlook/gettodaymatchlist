@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-04-24 19:01:30",
+  "updateTime": "2026-04-24 19:31:27",
   "data": [
     {
       "mgdbId": "120000543845",
@@ -331,7 +331,7 @@
       "title": "单打第一、二阶段",
       "keyword": "04月24日09:00",
       "sportItemId": "7",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "中国乒协会员联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/23/779LE5Q6AL6A.jpg",
@@ -510,6 +510,10 @@
         {
           "url": "http://mg.626910.xyz:16869/964293785",
           "name": "1号场地"
+        },
+        {
+          "url": "http://mg.626910.xyz:16869/964293849",
+          "name": "1号场地英文解说"
         }
       ]
     },
@@ -742,15 +746,11 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
       "pkInfoTitle": "莱巴金娜、高芙出战 佩古拉压场",
       "modifyTitle": "WTA马德里站女单第二轮：莱巴金娜、高芙出战 佩古拉压场",
-      "presenters": "单文强",
+      "presenters": "",
       "matchInfo": {
         "time": "04月24日17:00"
       },
       "nodes": [
-        {
-          "pID": "964377954",
-          "name": "单文强"
-        },
         {
           "pID": "964215461",
           "name": "赛场原声"
@@ -775,7 +775,7 @@
       "title": "WTA1000马德里站女单第二轮：郑钦文 vs 肯宁",
       "keyword": "04月24日17:00",
       "sportItemId": "9",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/23/779LE2B4R382.jpg",
@@ -867,7 +867,7 @@
       "title": "篮球公园—直击WCBA总决赛",
       "keyword": "04月24日00:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "CBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/23/779LDFAG5GRI.webp",
@@ -919,7 +919,7 @@
       "title": "中乙联赛",
       "keyword": "04月24日19:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "临平体育中心体育场",
       "competitionName": "中乙",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000572085/202603120952_813565_H169_1080.webp",
@@ -1227,7 +1227,7 @@
       "title": "中乙联赛",
       "keyword": "04月24日19:35",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "双流体育中心",
       "competitionName": "中乙",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000572084/202603120952_275151_H169_1080.webp",
