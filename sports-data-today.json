@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-04-26 00:02:40",
+  "updateTime": "2026-04-26 00:32:36",
   "data": [
     {
       "mgdbId": "120000543007",
@@ -25,12 +25,12 @@
           "name": "石庆圣"
         },
         {
-          "pID": "964374924",
-          "name": "赛场原声"
-        },
-        {
           "pID": "964374905",
           "name": "AR视角"
+        },
+        {
+          "pID": "964374924",
+          "name": "赛场原声"
         },
         {
           "url": "http://mg.626910.xyz:16869/964374937",
@@ -208,7 +208,7 @@
       "title": "西甲联赛",
       "keyword": "04月26日00:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "梅斯塔利亚球场",
       "competitionName": "西甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000543293/285430_H169_sc.jpg",
@@ -244,7 +244,7 @@
       "title": "德甲联赛",
       "keyword": "04月26日00:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "人民公园球场",
       "competitionName": "德甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000543660/366208_H169_sc.jpg",
@@ -278,18 +278,18 @@
       "mgdbId": "120000574461",
       "pID": "964383272",
       "title": "BWF尤杯小组赛A组：中国 vs 丹麦",
-      "keyword": "04月26日00:30",
+      "keyword": "04月26日00:40",
       "sportItemId": "6",
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "BWF",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/25/779N5VJBBDNU.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
-      "pkInfoTitle": "中国 vs 丹麦",
+      "pkInfoTitle": "中国vs丹麦",
       "modifyTitle": "BWF尤杯小组赛A组：中国 vs 丹麦",
       "presenters": "鸿昆",
       "matchInfo": {
-        "time": "04月26日00:30"
+        "time": "04月26日00:40"
       },
       "nodes": [
         {
@@ -538,7 +538,7 @@
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000543288/400864_H169_sc.jpg",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/21/779JJMOFB20H.png",
       "pkInfoTitle": "马德里竞技 vs 毕尔巴鄂竞技",
-      "modifyTitle": "西甲联赛",
+      "modifyTitle": "西���联赛",
       "presenters": "孙雨轩 李欣",
       "matchInfo": {
         "time": "04月26日03:00"
@@ -982,7 +982,7 @@
       "sportItemId": "7",
       "matchStatus": "0",
       "matchField": "",
-      "competitionName": "��乓球嘉年华",
+      "competitionName": "乒乓球嘉年华",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/25/779N7PH8U6SR.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/9/100000001435106852ee.png",
       "pkInfoTitle": "大杨浦 乒到顶：全民狂欢盛会",
@@ -1050,6 +1050,10 @@
       "nodes": [
         {
           "pID": "964362499",
+          "name": "清流播出"
+        },
+        {
+          "url": "http://mg.626910.xyz:16869/964362499",
           "name": "清流播出"
         }
       ]
@@ -1396,7 +1400,7 @@
       "competitionName": "中甲",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000570702/202603010116_672664_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/10106c2211.png",
-      "pkInfoTitle": "无锡吴钩 vs 石家庄功夫",
+      "pkInfoTitle": "无锡吴�� vs 石家庄功夫",
       "modifyTitle": "中甲联赛",
       "presenters": "",
       "matchInfo": {
@@ -1997,11 +2001,7 @@
         },
         {
           "url": "http://mg.626910.xyz:16869/964336200",
-          "name": "刘腾 徐云龙"
-        },
-        {
-          "url": "http://mg.626910.xyz:16869/964336188",
-          "name": "赛场原声"
+          "name": "深圳新鹏城VS辽宁铁人楠波湾 刘腾 徐云龙"
         }
       ]
     },
@@ -2874,6 +2874,10 @@
         {
           "url": "http://mg.626910.xyz:16869/964373396",
           "name": "赛场原声"
+        },
+        {
+          "url": "http://mg.626910.xyz:16869/964373476",
+          "name": "江忠德"
         },
         {
           "url": "http://mg.626910.xyz:16869/964373483",
