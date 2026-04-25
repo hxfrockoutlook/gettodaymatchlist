@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-04-26 00:46:55",
+  "updateTime": "2026-04-26 01:02:27",
   "data": [
     {
       "mgdbId": "120000543007",
@@ -280,7 +280,7 @@
       "title": "BWF尤杯小组赛A组：中国 vs 丹麦",
       "keyword": "04月26日00:55",
       "sportItemId": "6",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "BWF",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/25/779N5VJBBDNU.png",
@@ -324,7 +324,7 @@
       "title": "法甲联赛",
       "keyword": "04月26日01:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "让·布安球场",
       "competitionName": "法甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/23/779LBRFBDBAJ.jpg",
@@ -360,7 +360,7 @@
       "title": "NBA季后赛",
       "keyword": "04月26日01:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "安利中心",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/25/779N89E7269S.jpg",
@@ -393,7 +393,7 @@
     {
       "mgdbId": "120000574309",
       "pID": "964373291",
-      "title": "斯诺克世锦赛16进8轮次：奥沙利文VS希金斯",
+      "title": "斯诺克世锦赛16进8轮次：奥沙利文VS希金斯（第一阶段）",
       "keyword": "04月26日02:00",
       "sportItemId": "8",
       "matchStatus": "0",
@@ -402,19 +402,23 @@
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/25/779N80CMDCL7.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "奥沙利文VS希金斯",
-      "modifyTitle": "斯诺克世锦赛16进8轮次：奥沙利文VS希金斯",
+      "modifyTitle": "斯诺克世锦赛16进8轮次：奥沙利文VS希金斯（第一阶段）",
       "presenters": "朱蒙",
       "matchInfo": {
         "time": "04月26日02:00"
       },
       "nodes": [
         {
+          "pID": "964183723",
+          "name": "威廉姆斯 vs 霍金斯"
+        },
+        {
           "pID": "964373291",
-          "name": "朱蒙"
+          "name": "解说"
         },
         {
           "pID": "964183713",
-          "name": "1号桌"
+          "name": "现场原声"
         },
         {
           "url": "http://sh.frp.one:36234/964373291",
@@ -429,7 +433,7 @@
     {
       "mgdbId": "120000574313",
       "pID": "964183723",
-      "title": "斯诺克世锦赛16进8轮次：马克·威廉姆斯 vs 巴里·霍金斯",
+      "title": "斯诺克世锦赛16进8轮次：马克·威廉姆斯 vs 巴里·霍金斯（第三阶段）",
       "keyword": "04月26日02:00",
       "sportItemId": "8",
       "matchStatus": "0",
@@ -438,7 +442,7 @@
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/25/779N80H41T3U.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "马克·威廉姆斯 vs 巴里·霍金斯",
-      "modifyTitle": "斯诺克世锦赛16进8轮次：马克·威廉姆斯 vs 巴里·霍金斯",
+      "modifyTitle": "斯诺克世锦赛16进8轮次：马克·威廉姆斯 vs 巴里·霍金斯（第三阶段）",
       "presenters": "孙嘉星",
       "matchInfo": {
         "time": "04月26日02:00"
@@ -446,11 +450,11 @@
       "nodes": [
         {
           "pID": "964373336",
-          "name": "孙嘉星"
+          "name": "解说"
         },
         {
           "pID": "964183723",
-          "name": "2号桌"
+          "name": "现场原声"
         },
         {
           "url": "http://sh.frp.one:36234/964373336",
@@ -938,7 +942,7 @@
         },
         {
           "url": "http://sh.frp.one:36234/964362488",
-          "name": "2026蒙牛大连马���松 2026汉源湖半程马拉松"
+          "name": "2026汉源湖半程马拉松"
         },
         {
           "url": "http://sh.frp.one:36234/964362499",
@@ -957,7 +961,7 @@
       "competitionName": "逐马计划",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/24/779M95O4I2HU.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/9/28/1000000011111066d90b.png",
-      "pkInfoTitle": "2026北京城建密云马拉松",
+      "pkInfoTitle": "2026北���城建密云马拉松",
       "modifyTitle": "2026北京城建密云马拉松",
       "presenters": "",
       "matchInfo": {
@@ -966,10 +970,6 @@
       "nodes": [
         {
           "pID": "964362421",
-          "name": "清流播出"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964362421",
           "name": "清流播出"
         }
       ]
