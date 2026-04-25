@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-04-25 14:02:49",
+  "updateTime": "2026-04-25 14:33:05",
   "data": [
     {
       "mgdbId": "120000574370",
@@ -551,7 +551,7 @@
       "title": "山东省齐鲁足球超级联赛",
       "keyword": "04月25日14:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "齐鲁超赛",
       "padImg": "",
@@ -579,10 +579,10 @@
       "title": "硬碰硬！中国女队迎战东道主丹麦劲旅",
       "keyword": "04月25日14:30",
       "sportItemId": "6",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "BWF",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/25/779N5VK2BVRE.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/25/779N5M0OU3U7.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "硬碰硬！中国女队迎战东道主丹麦劲旅",
       "modifyTitle": "BWF汤尤杯小组赛第二日：硬碰硬！中国女队迎战东道主丹麦劲旅",
@@ -655,7 +655,7 @@
       "title": "崇左市龙州县队vs崇左市凭祥市队",
       "keyword": "04月25日14:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "广西县超",
       "padImg": "",
@@ -683,7 +683,7 @@
       "title": "柳州市融水苗族自治县队vs桂林市灵川县队",
       "keyword": "04月25日14:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "广西县超",
       "padImg": "",
@@ -957,6 +957,10 @@
       "nodes": [
         {
           "pID": "964373036",
+          "name": "解说"
+        },
+        {
+          "url": "http://mg.626910.xyz:16869/964373036",
           "name": "解说"
         }
       ]
@@ -1294,6 +1298,30 @@
         {
           "url": "http://mg.626910.xyz:16869/964215525",
           "name": "英文原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000575184",
+      "pID": "964393804",
+      "title": "NBA季后赛：湖人vs火箭G3",
+      "keyword": "04月25日18:00",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "NBA经典赛事",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png",
+      "pkInfoTitle": "NBA季后赛：湖人vs火箭G3",
+      "modifyTitle": "NBA经典赛事",
+      "presenters": "李天宇 刘炜 陈正昊",
+      "matchInfo": {
+        "time": "04月25日18:00"
+      },
+      "nodes": [
+        {
+          "pID": "964393804",
+          "name": "李天宇 刘炜 陈正昊"
         }
       ]
     },
@@ -1750,10 +1778,6 @@
         {
           "url": "http://mg.626910.xyz:16869/964374455",
           "name": "英文原声"
-        },
-        {
-          "url": "http://mg.626910.xyz:16869/964374435",
-          "name": "赛场原声"
         }
       ]
     },
@@ -2373,7 +2397,7 @@
         },
         {
           "url": "http://mg.626910.xyz:16869/964336047",
-          "name": "赛场原声"
+          "name": "��场原声"
         },
         {
           "url": "http://mg.626910.xyz:16869/964336038",
@@ -2561,7 +2585,7 @@
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000573722/202604081540_713007_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/14/100000001434106e5143.png",
       "pkInfoTitle": "宜昌vs武汉华工科技",
-      "modifyTitle": "宜昌东阳光vs武汉华工科技",
+      "modifyTitle": "宜昌��阳光vs武汉华工科技",
       "presenters": "",
       "matchInfo": {
         "time": "04月25日19:35"
@@ -2797,7 +2821,7 @@
         },
         {
           "url": "http://mg.626910.xyz:16869/964372099",
-          "name": "官方解说"
+          "name": "连云港队VS无锡队 官方解说"
         }
       ]
     },
