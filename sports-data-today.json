@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-04-27 05:30:58",
+  "updateTime": "2026-04-27 06:01:06",
   "data": [
     {
       "mgdbId": "120000543002",
@@ -120,10 +120,10 @@
       "title": "郑钦文不敌莱巴 奥斯塔彭科压场",
       "keyword": "04月27日01:40",
       "sportItemId": "9",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "WTA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/27/779P0GGLUFQA.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/27/779P0S0OPRO2.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
       "pkInfoTitle": "郑钦文不敌莱巴 奥斯塔彭科压场",
       "modifyTitle": "WTA马德里站女单第三轮： 郑钦文迎战莱巴 奥斯塔彭科压场",
@@ -208,11 +208,11 @@
     },
     {
       "mgdbId": "120000574329",
-      "pID": "964183848",
+      "pID": "964373487",
       "title": "斯诺克世锦赛16进8轮次：奥沙利文 9-7 希金斯",
       "keyword": "04月27日02:00",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/26/779O4K0MT3V9.jpg",
@@ -225,16 +225,16 @@
       },
       "nodes": [
         {
-          "pID": "964183848",
-          "name": "塞尔比VS吴宜泽"
-        },
-        {
           "pID": "964373487",
           "name": "秦正"
         },
         {
           "pID": "964183827",
           "name": "现场原声"
+        },
+        {
+          "pID": "964183848",
+          "name": "塞尔比VS吴宜泽"
         },
         {
           "url": "http://sh.frp.one:36234/964373487",
@@ -261,7 +261,7 @@
     {
       "mgdbId": "120000574333",
       "pID": "964373517",
-      "title": "斯诺克世锦赛16进8轮次：马克·塞尔比VS吴宜泽",
+      "title": "斯诺克世锦赛16进8轮次：马克·塞尔比 7-9 吴宜泽",
       "keyword": "04月27日02:00",
       "sportItemId": "8",
       "matchStatus": "1",
@@ -269,17 +269,13 @@
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/26/779O4K5QCL5N.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "马克·塞尔比VS吴宜泽",
-      "modifyTitle": "斯诺克世锦赛16进8轮次：马克·塞尔比VS吴宜泽",
+      "pkInfoTitle": "马克·塞尔比 7-9 吴宜泽",
+      "modifyTitle": "斯诺克世锦赛16进8轮次：马克·塞尔比 7-9 吴宜泽",
       "presenters": "朱蒙",
       "matchInfo": {
         "time": "04月27日02:00"
       },
       "nodes": [
-        {
-          "pID": "964183827",
-          "name": "奥沙利文VS希金斯"
-        },
         {
           "pID": "964373517",
           "name": "朱蒙"
@@ -287,6 +283,10 @@
         {
           "pID": "964183848",
           "name": "现场原声"
+        },
+        {
+          "pID": "964183827",
+          "name": "奥沙利文VS希金斯"
         },
         {
           "url": "http://sh.frp.one:36234/964373517",
