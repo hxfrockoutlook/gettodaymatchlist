@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-04-26 07:32:11",
+  "updateTime": "2026-04-26 08:02:25",
   "data": [
     {
       "mgdbId": "120000543007",
@@ -653,12 +653,12 @@
           "name": "陈瑞阳 郑文祺"
         },
         {
-          "pID": "964364012",
-          "name": "英文原声"
-        },
-        {
           "pID": "964365729",
           "name": "智能字幕"
+        },
+        {
+          "pID": "964364012",
+          "name": "英文原声"
         },
         {
           "url": "http://sh.frp.one:36234/964364457",
@@ -808,7 +808,7 @@
       "title": "千岛湖公路自行车公开赛",
       "keyword": "04月26日07:30",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "嗨单车公路自行车系列赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/25/779N81HOAOOV.png",
@@ -943,40 +943,12 @@
       ]
     },
     {
-      "mgdbId": "120000575106",
-      "pID": "964361341",
-      "title": "大杨浦 乒到顶：全民狂欢盛会",
-      "keyword": "04月26日08:00",
-      "sportItemId": "7",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "乒乓球嘉年华",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/25/779N7PH8U6SR.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/9/100000001435106852ee.png",
-      "pkInfoTitle": "大杨浦 乒到顶：全民狂欢盛会",
-      "modifyTitle": "上海乒乓球嘉年华杨浦区第二日",
-      "presenters": "",
-      "matchInfo": {
-        "time": "04月26日08:00"
-      },
-      "nodes": [
-        {
-          "pID": "964361341",
-          "name": "赛场原声"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964361341",
-          "name": "赛场原声"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000575111",
       "pID": "964362488",
       "title": "2026汉源湖半程马拉松",
       "keyword": "04月26日08:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "马拉松系列赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/24/779M95RC8NTG.jpg",
@@ -1004,7 +976,7 @@
       "title": "中国田径协会10公里精英赛 嘉善・大云站",
       "keyword": "04月26日08:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "逐马计划",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/24/779M95VL22HN.jpg",
@@ -1032,7 +1004,7 @@
       "title": "咪咕体育日报 第91期",
       "keyword": "04月26日00:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "咪咕体育日报",
       "padImg": "",
@@ -1117,6 +1089,34 @@
         },
         {
           "url": "http://sh.frp.one:36234/964358819",
+          "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000575106",
+      "pID": "964361341",
+      "title": "大杨浦 乒到顶：全民狂欢盛会",
+      "keyword": "04月26日08:00",
+      "sportItemId": "7",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "乒乓球嘉年华",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/25/779N7PH8U6SR.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/9/100000001435106852ee.png",
+      "pkInfoTitle": "大杨浦 乒到顶：全民狂欢盛会",
+      "modifyTitle": "上海乒乓球嘉年华杨浦区第二日",
+      "presenters": "",
+      "matchInfo": {
+        "time": "04月26日08:00"
+      },
+      "nodes": [
+        {
+          "pID": "964361341",
+          "name": "赛场原声"
+        },
+        {
+          "url": "http://sh.frp.one:36234/964361341",
           "name": "赛场原声"
         }
       ]
@@ -2849,7 +2849,7 @@
         },
         {
           "url": "http://sh.frp.one:36234/964373476",
-          "name": "江忠德"
+          "name": "切尔西VS��兹联 江忠德"
         },
         {
           "url": "http://sh.frp.one:36234/964373483",
