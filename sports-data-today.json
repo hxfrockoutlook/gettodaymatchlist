@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-04-27 00:01:06",
+  "updateTime": "2026-04-27 00:31:02",
   "data": [
     {
       "mgdbId": "120000543002",
@@ -44,7 +44,7 @@
       "title": "西甲联赛",
       "keyword": "04月27日00:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "纳瓦拉王国球场",
       "competitionName": "西甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000543290/769550_H169_sc.jpg",
@@ -80,7 +80,7 @@
       "title": "NBA季后赛",
       "keyword": "04月27日01:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "丰业银行球馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/26/779O4AD0FIN0.jpg",
@@ -141,16 +141,16 @@
           "name": "2026WTA马德里站  Day6- 郑钦文 vs 莱巴金娜"
         },
         {
+          "pID": "964413302",
+          "name": "郑钦文 vs 莱巴金娜(蔡凯臣 宋光振)"
+        },
+        {
           "pID": "964215543",
           "name": "赛场原声"
         },
         {
           "pID": "964215561",
           "name": "英文原声"
-        },
-        {
-          "pID": "964413302",
-          "name": "郑钦文 vs 莱巴金娜(蔡凯臣 宋光振)"
         },
         {
           "url": "http://sh.frp.one:36234/964413302",
@@ -266,19 +266,7 @@
         },
         {
           "url": "http://sh.frp.one:36234/964373517",
-          "name": "朱蒙"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964183848",
-          "name": "2号桌"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964183940",
-          "name": "2号桌"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964373575",
-          "name": "乔迁"
+          "name": "塞尔比VS吴宜泽 朱蒙"
         }
       ]
     },
@@ -398,7 +386,7 @@
         },
         {
           "url": "http://sh.frp.one:36234/964375221",
-          "name": "洪宇青"
+          "name": "比利��雷亚尔VS塞尔塔 洪宇青"
         },
         {
           "url": "http://sh.frp.one:36234/964375210",
@@ -670,7 +658,7 @@
       "competitionName": "BWF",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
-      "pkInfoTitle": "汤姆斯杯&尤伯杯第四日",
+      "pkInfoTitle": "汤姆斯杯&尤伯杯���四日",
       "modifyTitle": "BWF汤尤杯小组赛第四日：中国队迎战加拿大、印度队",
       "presenters": "鸿昆 孙宁智 余博洋",
       "matchInfo": {
@@ -727,7 +715,7 @@
         },
         {
           "url": "http://sh.frp.one:36234/964294048",
-          "name": "2号���地英文解说"
+          "name": "2号场地英文解说"
         }
       ]
     },
@@ -792,6 +780,18 @@
         {
           "pID": "964373544",
           "name": "孙嘉星"
+        },
+        {
+          "url": "http://sh.frp.one:36234/964183848",
+          "name": "2号桌"
+        },
+        {
+          "url": "http://sh.frp.one:36234/964183940",
+          "name": "2号桌"
+        },
+        {
+          "url": "http://sh.frp.one:36234/964373575",
+          "name": "乔迁"
         }
       ]
     },
