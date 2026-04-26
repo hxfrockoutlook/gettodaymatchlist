@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-04-26 13:02:24",
+  "updateTime": "2026-04-26 13:32:23",
   "data": [
     {
       "mgdbId": "120000543007",
@@ -554,7 +554,7 @@
         },
         {
           "url": "http://sh.frp.one:36234/964410938",
-          "name": "全场回放（孙雨轩、李欣）"
+          "name": "���场回放（孙雨轩、李欣）"
         }
       ]
     },
@@ -1183,7 +1183,7 @@
       "title": "来宾市武宣县队vs玉林市玉州区队",
       "keyword": "04月26日13:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "广西县超",
       "padImg": "",
@@ -1211,7 +1211,7 @@
       "title": "柳州市柳南区队vs来宾市兴宾区队",
       "keyword": "04月26日13:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "广西县超",
       "padImg": "",
@@ -1582,6 +1582,34 @@
       ]
     },
     {
+      "mgdbId": "120000574530",
+      "pID": "964198535",
+      "title": "山东省齐鲁足球超级联赛",
+      "keyword": "04月26日16:00",
+      "sportItemId": "1",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "齐鲁超赛",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/16/779F051106LU.png",
+      "pkInfoTitle": "菏泽队VS枣庄丰源轮胎队",
+      "modifyTitle": "山东省齐鲁足球超级联赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "04月26日16:00"
+      },
+      "nodes": [
+        {
+          "pID": "964198535",
+          "name": "2026山东省齐鲁足球超级联赛第一轮: 菏泽队VS枣庄丰源轮胎队"
+        },
+        {
+          "url": "http://sh.frp.one:36234/964198535",
+          "name": "2026山东省齐鲁足球超级联赛第一轮:"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000574607",
       "pID": "964216285",
       "title": "广东省城市足球超级联赛",
@@ -1609,39 +1637,11 @@
         },
         {
           "url": "http://sh.frp.one:36234/964216285",
-          "name": "2026赛季广东省��市足球超级联赛第一轮:"
+          "name": "2026赛季广东省城市足球超级联赛第一轮:"
         },
         {
           "url": "http://sh.frp.one:36234/964390395",
           "name": "粤语"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000574530",
-      "pID": "964198535",
-      "title": "山东省齐鲁足球超级联赛",
-      "keyword": "04月26日16:30",
-      "sportItemId": "1",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "齐鲁超赛",
-      "padImg": "",
-      "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/16/779F051106LU.png",
-      "pkInfoTitle": "菏泽队VS枣庄丰源轮胎队",
-      "modifyTitle": "山东省齐鲁足球超级联赛",
-      "presenters": "",
-      "matchInfo": {
-        "time": "04月26日16:30"
-      },
-      "nodes": [
-        {
-          "pID": "964198535",
-          "name": "2026山东省齐鲁足球超级联赛第一轮: 菏泽队VS枣庄丰源轮胎队"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964198535",
-          "name": "2026山东省齐鲁足球超级联赛第一轮:"
         }
       ]
     },
@@ -1982,6 +1982,90 @@
         {
           "url": "http://sh.frp.one:36234/964336188",
           "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000575126",
+      "pID": "964363100",
+      "title": "安徽省城市篮球联赛",
+      "keyword": "04月26日19:00",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "徽BA",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000575126/202604231515_259660_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/10/1000000014381067a4d8.png",
+      "pkInfoTitle": "芜湖vs安庆",
+      "modifyTitle": "安徽省城市篮球联赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "04月26日19:00"
+      },
+      "nodes": [
+        {
+          "pID": "964363100",
+          "name": "安徽省城市篮球联赛第一轮: 芜湖vs安庆"
+        },
+        {
+          "url": "http://sh.frp.one:36234/964363100",
+          "name": "安徽省城市篮球联赛第一轮: 芜湖vs安庆"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000575127",
+      "pID": "964363152",
+      "title": "安徽省城市篮球联赛",
+      "keyword": "04月26日19:00",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "徽BA",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000575127/202604231515_864145_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/10/1000000014381067a4d8.png",
+      "pkInfoTitle": "蚌埠vs淮南",
+      "modifyTitle": "安徽省城市篮球联赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "04月26日19:00"
+      },
+      "nodes": [
+        {
+          "pID": "964363152",
+          "name": "安徽省城市篮球联赛第一轮: 蚌埠vs淮南"
+        },
+        {
+          "url": "http://sh.frp.one:36234/964363152",
+          "name": "安徽省城市篮球联赛第一轮: 蚌埠vs淮南"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000575128",
+      "pID": "964363197",
+      "title": "安徽省城市篮球联赛",
+      "keyword": "04月26日19:00",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "徽BA",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000575128/202604231515_372729_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/10/1000000014381067a4d8.png",
+      "pkInfoTitle": "黄山vs池州",
+      "modifyTitle": "安徽省城市篮球联赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "04月26日19:00"
+      },
+      "nodes": [
+        {
+          "pID": "964363197",
+          "name": "安徽省城市篮球联赛第一轮: 黄山vs池州"
+        },
+        {
+          "url": "http://sh.frp.one:36234/964363197",
+          "name": "安徽省城市篮球联赛第一轮: 黄山vs池州"
         }
       ]
     },
@@ -2386,90 +2470,6 @@
         {
           "pID": "964363070",
           "name": "安徽省青少年足球联赛男子高中组（甲组）\n第10轮对阵: 淮北vs芜湖"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964363100",
-          "name": "安徽省城市篮球联赛第一轮: 芜湖vs安庆"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000575126",
-      "pID": "964363100",
-      "title": "安徽省城市篮球联赛",
-      "keyword": "04月26日19:30",
-      "sportItemId": "2",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "徽BA",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000575126/202604231515_259660_H169_1080.webp",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/10/1000000014381067a4d8.png",
-      "pkInfoTitle": "芜湖vs安庆",
-      "modifyTitle": "安徽省城市篮球联赛",
-      "presenters": "",
-      "matchInfo": {
-        "time": "04月26日19:30"
-      },
-      "nodes": [
-        {
-          "pID": "964363100",
-          "name": "安徽省城市篮球联赛第一轮: 芜湖vs安庆"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964363152",
-          "name": "安徽省城市篮球联赛第一轮: 蚌埠vs淮南"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000575127",
-      "pID": "964363152",
-      "title": "安徽省城市篮球联赛",
-      "keyword": "04月26日19:30",
-      "sportItemId": "2",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "徽BA",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000575127/202604231515_864145_H169_1080.webp",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/10/1000000014381067a4d8.png",
-      "pkInfoTitle": "蚌埠vs淮南",
-      "modifyTitle": "安徽省城市篮球联赛",
-      "presenters": "",
-      "matchInfo": {
-        "time": "04月26日19:30"
-      },
-      "nodes": [
-        {
-          "pID": "964363152",
-          "name": "安徽省城市篮球联赛第一轮: 蚌埠vs淮南"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964363197",
-          "name": "安徽省城市篮球联赛第一轮: 黄山vs池州"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000575128",
-      "pID": "964363197",
-      "title": "安徽省城市篮球联赛",
-      "keyword": "04月26日19:30",
-      "sportItemId": "2",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "徽BA",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000575128/202604231515_372729_H169_1080.webp",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/10/1000000014381067a4d8.png",
-      "pkInfoTitle": "黄山vs池州",
-      "modifyTitle": "安徽省城市篮球联赛",
-      "presenters": "",
-      "matchInfo": {
-        "time": "04月26日19:30"
-      },
-      "nodes": [
-        {
-          "pID": "964363197",
-          "name": "安徽省城市篮球联赛第一轮: 黄山vs池州"
         }
       ]
     },
