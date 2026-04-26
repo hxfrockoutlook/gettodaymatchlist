@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-04-26 10:02:22",
+  "updateTime": "2026-04-26 10:32:29",
   "data": [
     {
       "mgdbId": "120000543007",
@@ -736,7 +736,7 @@
       "title": "2026杭州女子半程马拉松",
       "keyword": "04月26日06:45",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "马拉松系列赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/26/779O48516KO5.jpg",
@@ -788,7 +788,7 @@
       "title": "莲都农商银行·2026莲都田园半程马拉松",
       "keyword": "04月26日07:00",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "马拉松系列赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/24/779M95DS32MA.jpg",
@@ -873,18 +873,6 @@
           "name": "2026伊犁河马拉松暨“跑遍大美新疆”伊宁站"
         },
         {
-          "pID": "964340118",
-          "name": "2026杭州女子半程马拉松(官方解说)"
-        },
-        {
-          "pID": "964362479",
-          "name": "莲都农商银行·2026莲都田园半程马拉松"
-        },
-        {
-          "pID": "964362488",
-          "name": "2026汉源湖半程马拉松"
-        },
-        {
           "pID": "964362357",
           "name": "2026蒙牛大连马拉松"
         },
@@ -948,7 +936,7 @@
       "title": "2026汉源湖半程马拉松",
       "keyword": "04月26日08:00",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "马拉松系列赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/24/779M95RC8NTG.jpg",
@@ -1148,16 +1136,16 @@
     {
       "mgdbId": "120000575120",
       "pID": "964362476",
-      "title": "FILA KIDS钻石杯青少年网球挑战赛",
+      "title": "U12年龄段火热开战",
       "keyword": "04月26日12:00",
       "sportItemId": "9",
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "钻石杯青少年网球挑战赛",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/26/779O549GHC2T.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/23/1000000014571062f880.png",
-      "pkInfoTitle": "FILA KIDS钻石杯青少年网球挑战赛",
-      "modifyTitle": "钻石杯青少年网球挑战赛Day2",
+      "pkInfoTitle": "U12年龄段火热开战",
+      "modifyTitle": "钻石杯青少年网球挑战赛U12年龄段",
       "presenters": "",
       "matchInfo": {
         "time": "04月26日12:00"
@@ -1205,7 +1193,7 @@
         },
         {
           "url": "http://sh.frp.one:36234/964310481",
-          "name": "���文解说"
+          "name": "中文解说"
         }
       ]
     },
@@ -1233,7 +1221,7 @@
         },
         {
           "url": "http://sh.frp.one:36234/964362922",
-          "name": "25/26赛季广西县级足球超级联赛第七轮:"
+          "name": "25/26赛��广西县级足球超级联赛第七轮:"
         }
       ]
     },
@@ -1393,7 +1381,7 @@
         },
         {
           "url": "http://sh.frp.one:36234/964374403",
-          "name": "赛场原声"
+          "name": "��场原声"
         }
       ]
     },
@@ -1874,6 +1862,30 @@
       ]
     },
     {
+      "mgdbId": "120000574871",
+      "pID": "964298510",
+      "title": "MAX彩渱城市长打王超级联赛青岛站",
+      "keyword": "04月26日17:50",
+      "sportItemId": "8",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "城市长打王超级联赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/26/779O4T1RD0QS.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/20/10000000145210694405.jpg",
+      "pkInfoTitle": "MAX彩渱城市长打王超级联赛青岛站",
+      "modifyTitle": "MAX彩渱城市长打王超级联赛青岛站",
+      "presenters": "",
+      "matchInfo": {
+        "time": "04月26日17:50"
+      },
+      "nodes": [
+        {
+          "pID": "964298510",
+          "name": "解说"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000543733",
       "pID": "964374825",
       "title": "意甲联赛",
@@ -2042,10 +2054,6 @@
         {
           "pID": "964374961",
           "name": "赛场原声"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964374977",
-          "name": "刘畅"
         },
         {
           "url": "http://sh.frp.one:36234/964374961",
@@ -2537,7 +2545,7 @@
         },
         {
           "url": "http://sh.frp.one:36234/964375380",
-          "name": "巴列卡诺VS皇家社��� 周楚雄"
+          "name": "周楚雄"
         },
         {
           "url": "http://sh.frp.one:36234/964375367",
