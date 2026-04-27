@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-04-27 13:01:09",
+  "updateTime": "2026-04-27 13:31:04",
   "data": [
     {
       "mgdbId": "120000543002",
@@ -158,7 +158,7 @@
         },
         {
           "url": "http://sh.frp.one:36234/964430546",
-          "name": "【回放】波塔波娃2-1奥斯塔彭科（赛场原声）"
+          "name": "【��放】波塔波娃2-1奥斯塔彭科（赛场原声）"
         },
         {
           "url": "http://sh.frp.one:36234/964428900",
@@ -647,7 +647,7 @@
       "title": "特别企划：世乒赛倒计时",
       "keyword": "04月27日12:00",
       "sportItemId": "7",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "伦敦团体世乒赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/26/779O2I7DIIG3.jpg",
@@ -671,7 +671,7 @@
     },
     {
       "mgdbId": "120000574458",
-      "pID": "964293976",
+      "pID": "964428717",
       "title": "BWF汤杯小组赛第四日A组：中国对战加拿大！国羽石宇奇领衔出战",
       "keyword": "04月27日14:30",
       "sportItemId": "6",
@@ -682,11 +682,15 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "中国对战加拿大！国羽石宇奇领衔出战",
       "modifyTitle": "BWF汤杯小组赛第四日A组：中国对战加拿大！国羽石宇奇领衔出战",
-      "presenters": "",
+      "presenters": "鸿昆",
       "matchInfo": {
         "time": "04月27日14:30"
       },
       "nodes": [
+        {
+          "pID": "964428717",
+          "name": "解说：鸿昆"
+        },
         {
           "pID": "964293976",
           "name": "1号场地"
@@ -707,7 +711,7 @@
     },
     {
       "mgdbId": "120000574856",
-      "pID": "964293976",
+      "pID": "964428717",
       "title": "中国队迎战加拿大、印度队",
       "keyword": "04月27日14:30",
       "sportItemId": "6",
@@ -718,14 +722,18 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "中国队迎战加拿大、印度队",
       "modifyTitle": "BWF汤尤杯小组赛第四日：中国队迎战加拿大、印度队",
-      "presenters": "鸿昆 孙宁智 余博洋",
+      "presenters": "鸿昆",
       "matchInfo": {
         "time": "04月27日14:30"
       },
       "nodes": [
         {
+          "pID": "964428717",
+          "name": "解说：鸿昆"
+        },
+        {
           "pID": "964293976",
-          "name": "1���场地"
+          "name": "1号场地"
         },
         {
           "pID": "964293989",
@@ -742,22 +750,6 @@
         {
           "pID": "964294048",
           "name": "2号场地英文解说"
-        },
-        {
-          "pID": "964428717",
-          "name": "鸿昆"
-        },
-        {
-          "pID": "964428764",
-          "name": "孙宁智"
-        },
-        {
-          "pID": "964428790",
-          "name": "余博洋"
-        },
-        {
-          "pID": "964293976",
-          "name": "1号场地"
         },
         {
           "url": "http://sh.frp.one:36234/964293976",
