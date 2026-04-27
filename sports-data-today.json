@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-04-28 00:01:11",
+  "updateTime": "2026-04-28 00:31:03",
   "data": [
     {
       "mgdbId": "120000543006",
@@ -8,7 +8,7 @@
       "title": "意甲联赛",
       "keyword": "04月28日00:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "撒丁岛竞技场",
       "competitionName": "意甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000543006/513697_H169_sc.jpg",
@@ -42,18 +42,18 @@
       "mgdbId": "120000574462",
       "pID": "964428790",
       "title": "BWF尤杯小组赛第四日A组：中国PK印度！王祉怡、陈雨菲出战",
-      "keyword": "04月28日00:30",
+      "keyword": "04月28日01:00",
       "sportItemId": "6",
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "BWF",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/27/779P2EOO9L73.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
-      "pkInfoTitle": "中国PK印度！王祉怡、陈雨菲出战",
+      "pkInfoTitle": "中国vs印度",
       "modifyTitle": "BWF尤杯小组赛第四日A组：中国PK印度！王祉怡、陈雨菲出战",
       "presenters": "余博洋",
       "matchInfo": {
-        "time": "04月28日00:30"
+        "time": "04月28日01:00"
       },
       "nodes": [
         {
@@ -109,6 +109,10 @@
           "name": "1号桌"
         },
         {
+          "pID": "964184023",
+          "name": "2号桌"
+        },
+        {
           "url": "http://sh.frp.one:36234/964373630",
           "name": "朱蒙"
         },
@@ -120,7 +124,7 @@
     },
     {
       "mgdbId": "120000574348",
-      "pID": "964184023",
+      "pID": "964373677",
       "title": "斯诺克世锦赛16进8轮次：贾德·特鲁姆普 vs 侯赛因·瓦菲",
       "keyword": "04月28日02:00",
       "sportItemId": "8",
@@ -143,6 +147,10 @@
         {
           "pID": "964184023",
           "name": "2号桌"
+        },
+        {
+          "pID": "964183983",
+          "name": "1号桌"
         },
         {
           "url": "http://sh.frp.one:36234/964373677",
@@ -806,7 +814,7 @@
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/27/779P057MV23L.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png",
       "pkInfoTitle": "广东东阳光vs广州朗肽海本",
-      "modifyTitle": "CBA季后赛12��8",
+      "modifyTitle": "CBA季后赛12进8",
       "presenters": "",
       "matchInfo": {
         "time": "04月28日19:35"
