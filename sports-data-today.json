@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-04-28 03:31:06",
+  "updateTime": "2026-04-28 04:01:07",
   "data": [
     {
       "mgdbId": "120000543006",
@@ -43,7 +43,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "BWF",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/28/779PT7RPKC1P.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/28/779PTBPGN10P.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "中国vs印度",
       "modifyTitle": "BWF尤杯小组赛第四日A组：中国PK印度！王祉怡、陈雨菲出战",
@@ -81,7 +81,7 @@
     {
       "mgdbId": "120000574345",
       "pID": "964373630",
-      "title": "斯诺克世锦赛16进8轮次：尼尔·罗伯逊 vs 克里斯·韦克林",
+      "title": "斯诺克世锦赛16进8轮次：尼尔·罗伯逊 13-7 克里斯·韦克林",
       "keyword": "04月28日02:00",
       "sportItemId": "8",
       "matchStatus": "1",
@@ -89,13 +89,17 @@
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/27/779P1VS9HT33.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "尼尔·罗伯逊 vs 克里斯·韦克林",
-      "modifyTitle": "斯诺克世锦赛16进8轮次：尼尔·罗伯逊 vs 克里斯·韦克林",
+      "pkInfoTitle": "尼尔·罗伯逊 13-7 克里斯·韦克林",
+      "modifyTitle": "斯诺克世锦赛16进8轮次：尼尔·罗伯逊 13-7 克里斯·韦克林",
       "presenters": "朱蒙",
       "matchInfo": {
         "time": "04月28日02:00"
       },
       "nodes": [
+        {
+          "pID": "964184023",
+          "name": "2号桌"
+        },
         {
           "pID": "964373630",
           "name": "朱蒙"
@@ -103,10 +107,6 @@
         {
           "pID": "964183983",
           "name": "1号桌"
-        },
-        {
-          "pID": "964184023",
-          "name": "2号桌"
         },
         {
           "url": "http://sh.frp.one:36234/964373630",
@@ -124,7 +124,7 @@
     },
     {
       "mgdbId": "120000574348",
-      "pID": "964373677",
+      "pID": "964184023",
       "title": "斯诺克世锦赛16进8轮次：贾德·特鲁姆普 vs 侯赛因·瓦菲",
       "keyword": "04月28日02:00",
       "sportItemId": "8",
