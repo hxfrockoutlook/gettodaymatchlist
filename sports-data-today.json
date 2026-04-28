@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-04-28 08:30:58",
+  "updateTime": "2026-04-28 09:01:06",
   "data": [
     {
       "mgdbId": "120000543006",
@@ -348,7 +348,7 @@
       "title": "咪咕体育日报 第93期",
       "keyword": "04月28日00:00",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "咪咕体育日报",
       "padImg": "",
@@ -723,8 +723,8 @@
     },
     {
       "mgdbId": "120000574357",
-      "pID": "964184070",
-      "title": "斯诺克世锦赛1/4决赛",
+      "pID": "964436412",
+      "title": "斯诺克世锦赛1/4决赛：马克·艾伦vs巴里·霍金斯",
       "keyword": "04月28日17:00",
       "sportItemId": "8",
       "matchStatus": "0",
@@ -733,19 +733,19 @@
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "马克·艾伦vs巴里·霍金斯",
-      "modifyTitle": "斯诺克世锦赛1/4决赛",
+      "modifyTitle": "斯诺克世锦赛1/4决赛：马克·艾伦vs巴里·霍金斯",
       "presenters": "朱蒙",
       "matchInfo": {
         "time": "04月28日17:00"
       },
       "nodes": [
         {
-          "pID": "964184070",
-          "name": "2号桌"
-        },
-        {
           "pID": "964436412",
           "name": "朱蒙"
+        },
+        {
+          "pID": "964184070",
+          "name": "2号桌"
         },
         {
           "url": "http://sh.frp.one:36234/964184070",
@@ -831,8 +831,8 @@
     },
     {
       "mgdbId": "120000574361",
-      "pID": "964184102",
-      "title": "1/4决赛",
+      "pID": "964436446",
+      "title": "斯诺克世锦赛1/4决赛：约翰·希金斯 vs 尼尔·罗伯逊",
       "keyword": "04月28日21:30",
       "sportItemId": "8",
       "matchStatus": "0",
@@ -840,20 +840,20 @@
       "competitionName": "斯诺克",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "1/4决赛",
-      "modifyTitle": "斯诺克世锦赛1/4决赛",
+      "pkInfoTitle": "约翰·希金斯 vs 尼尔·罗伯逊",
+      "modifyTitle": "斯诺克世锦赛1/4决赛：约翰·希金斯 vs 尼尔·罗伯逊",
       "presenters": "朱蒙",
       "matchInfo": {
         "time": "04月28日21:30"
       },
       "nodes": [
         {
-          "pID": "964184102",
-          "name": "1号桌"
-        },
-        {
           "pID": "964436446",
           "name": "朱蒙"
+        },
+        {
+          "pID": "964184102",
+          "name": "1号桌"
         },
         {
           "url": "http://sh.frp.one:36234/964184102",
@@ -875,8 +875,8 @@
     },
     {
       "mgdbId": "120000574364",
-      "pID": "964184123",
-      "title": "1/4决赛",
+      "pID": "964436586",
+      "title": "斯诺克世锦赛1/4决赛：吴宜泽 vs 侯赛因·瓦菲",
       "keyword": "04月28日21:30",
       "sportItemId": "8",
       "matchStatus": "0",
@@ -884,20 +884,20 @@
       "competitionName": "斯诺克",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "1/4决赛",
-      "modifyTitle": "斯诺克世锦赛1/4决赛",
+      "pkInfoTitle": "吴宜泽 vs 侯赛因·瓦菲",
+      "modifyTitle": "斯诺克世锦赛1/4决赛：吴宜泽 vs 侯赛因·瓦菲",
       "presenters": "朱峰立",
       "matchInfo": {
         "time": "04月28日21:30"
       },
       "nodes": [
         {
-          "pID": "964184123",
-          "name": "2号桌"
-        },
-        {
           "pID": "964436586",
           "name": "朱峰立"
+        },
+        {
+          "pID": "964184123",
+          "name": "2号桌"
         }
       ]
     }
