@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-04-29 04:31:11",
+  "updateTime": "2026-04-29 05:01:16",
   "data": [
     {
       "mgdbId": "120000574858",
@@ -29,12 +29,12 @@
           "name": "1号场地"
         },
         {
-          "pID": "964294546",
-          "name": "2号场地"
-        },
-        {
           "pID": "964294668",
           "name": "1号场地英文解说"
+        },
+        {
+          "pID": "964294546",
+          "name": "2号场地"
         },
         {
           "pID": "964294724",
@@ -157,16 +157,16 @@
     {
       "mgdbId": "120000574711",
       "pID": "964215635",
-      "title": "萨巴伦卡出战 安德列娃晋级四强",
+      "title": "萨巴伦卡1-2止步 安德列娃晋级四强",
       "keyword": "04月29日02:00",
       "sportItemId": "9",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/28/779PV29DHT0N.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "萨巴伦卡出战 安德列娃晋级四强",
-      "modifyTitle": "WTA马德里站女单1/4决赛：萨巴伦卡出战 安德列娃晋级四强",
+      "pkInfoTitle": "萨巴伦卡1-2止步 安德列娃晋级四强",
+      "modifyTitle": "WTA马德里站女单1/4决赛：萨巴伦卡1-2止步 安德列娃晋级四强",
       "presenters": "郭丰庆",
       "matchInfo": {
         "time": "04月29日02:00"
@@ -185,50 +185,6 @@
           "name": "萨巴伦卡 vs 巴普蒂斯特(郭丰庆)"
         },
         {
-          "url": "http://sh.frp.one:36234/964215635",
-          "name": "赛场原声"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964215650",
-          "name": "英文原声"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964453579",
-          "name": "萨���伦卡 vs 巴普蒂斯特(郭丰庆)"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000575344",
-      "pID": "964453599",
-      "title": "WTA1000马德里站女单1/4决赛：萨巴伦卡 vs 巴普蒂斯特",
-      "keyword": "04月29日02:00",
-      "sportItemId": "9",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "WTA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/29/779QQKTP6VUN.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "萨巴伦卡 vs 巴普蒂斯特",
-      "modifyTitle": "WTA1000马德里站女单1/4决赛：萨巴伦卡 vs 巴普蒂斯特",
-      "presenters": "郭丰庆",
-      "matchInfo": {
-        "time": "04月29日02:00"
-      },
-      "nodes": [
-        {
-          "pID": "964215650",
-          "name": "英文原声"
-        },
-        {
-          "pID": "964453579",
-          "name": "郭丰庆"
-        },
-        {
-          "pID": "964453599",
-          "name": "赛场原声"
-        },
-        {
           "url": "http://sh.frp.one:36234/964453579",
           "name": "郭丰庆"
         },
@@ -243,17 +199,61 @@
       ]
     },
     {
+      "mgdbId": "120000575344",
+      "pID": "964453599",
+      "title": "WTA1000马德里站女单1/4决赛：萨巴伦卡 vs 巴普蒂斯特",
+      "keyword": "04月29日02:00",
+      "sportItemId": "9",
+      "matchStatus": "2",
+      "matchField": "",
+      "competitionName": "WTA",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/29/779QQO1I43AF.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
+      "pkInfoTitle": "萨巴伦卡 vs 巴普蒂斯特",
+      "modifyTitle": "WTA1000马德里站女单1/4决赛：萨巴伦卡 vs 巴普蒂斯特",
+      "presenters": "郭丰庆",
+      "matchInfo": {
+        "time": "04月29日02:00"
+      },
+      "nodes": [
+        {
+          "pID": "964453599",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "964215650",
+          "name": "英文原声"
+        },
+        {
+          "pID": "964453579",
+          "name": "郭丰庆"
+        },
+        {
+          "url": "http://sh.frp.one:36234/964215635",
+          "name": "赛场原声"
+        },
+        {
+          "url": "http://sh.frp.one:36234/964215650",
+          "name": "英文原声"
+        },
+        {
+          "url": "http://sh.frp.one:36234/964453579",
+          "name": "萨���伦卡 vs 巴普蒂斯特(郭丰庆)"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000571750",
-      "pID": "964438105",
-      "title": "冲首胜！雨果率巴西男团出战",
+      "pID": "964438284",
+      "title": "雨果独取两分 朝鲜男女团获开门红",
       "keyword": "04月29日02:30",
       "sportItemId": "7",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "伦敦团体世乒赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/29/779QPSJSBD38.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/1/23/100000001402106b2354.png",
-      "pkInfoTitle": "冲首胜！雨果率巴西男团出战",
+      "pkInfoTitle": "雨果独取两分 朝鲜男女团获开门红",
       "modifyTitle": "伦敦团体世乒赛小组赛B阶段",
       "presenters": "凌维康",
       "matchInfo": {
@@ -261,24 +261,20 @@
       },
       "nodes": [
         {
-          "pID": "964438105",
-          "name": "7号桌"
-        },
-        {
-          "pID": "964438225",
-          "name": "13号桌"
-        },
-        {
-          "pID": "964438244",
-          "name": "14号桌"
-        },
-        {
           "pID": "964438284",
           "name": "16号桌"
         },
         {
+          "pID": "964438105",
+          "name": "7号桌"
+        },
+        {
           "pID": "964438300",
           "name": "凌维康"
+        },
+        {
+          "pID": "964438225",
+          "name": "13号桌"
         },
         {
           "pID": "964438073",
@@ -309,56 +305,12 @@
           "name": "12号桌"
         },
         {
-          "pID": "964438263",
-          "name": "15号桌"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964438300",
-          "name": "凌维康"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964438105",
-          "name": "7号桌"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964438225",
-          "name": "13号桌"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964438073",
-          "name": "5号桌"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964438099",
-          "name": "6号桌"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964438131",
-          "name": "8号桌"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964438158",
-          "name": "9号桌"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964438199",
-          "name": "11号桌"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964438211",
-          "name": "12号桌"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964438244",
+          "pID": "964438244",
           "name": "14号桌"
         },
         {
-          "url": "http://sh.frp.one:36234/964438263",
+          "pID": "964438263",
           "name": "15号桌"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964438284",
-          "name": "16号桌"
         }
       ]
     },
@@ -832,6 +784,10 @@
         {
           "url": "http://sh.frp.one:36234/964438520",
           "name": "7号桌"
+        },
+        {
+          "url": "http://sh.frp.one:36234/964438537",
+          "name": "8号桌"
         },
         {
           "url": "http://sh.frp.one:36234/964438550",
