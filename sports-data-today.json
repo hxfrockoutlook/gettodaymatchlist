@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-04-28 13:01:08",
+  "updateTime": "2026-04-28 13:31:03",
   "data": [
     {
       "mgdbId": "120000543006",
@@ -395,14 +395,14 @@
     },
     {
       "mgdbId": "120000574563",
-      "pID": "964440409",
+      "pID": "964453160",
       "title": "NBA季后赛",
       "keyword": "04月28日10:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "波尔体育馆",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/27/779P0FBMGAQI.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/28/779PSMCDB7RC.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "森林狼VS掘金",
       "modifyTitle": "NBA季后赛",
@@ -411,6 +411,10 @@
         "time": "04月28日10:30"
       },
       "nodes": [
+        {
+          "pID": "964453160",
+          "name": "替老大出气！布劳恩双手挂筐暴扣后怒指麦丹吃T"
+        },
         {
           "pID": "964440409",
           "name": "李天宇 刘炜 陈正昊"
@@ -516,10 +520,6 @@
           "name": "3号场地"
         },
         {
-          "url": "http://sh.frp.one:36234/964294136",
-          "name": "1号场地英文解说"
-        },
-        {
           "url": "http://sh.frp.one:36234/964294154",
           "name": "2号场地英文解说"
         }
@@ -598,6 +598,14 @@
         {
           "pID": "964437835",
           "name": "16号桌"
+        },
+        {
+          "pID": "964453587",
+          "name": "5号桌"
+        },
+        {
+          "pID": "964453604",
+          "name": "6号桌"
         },
         {
           "url": "http://sh.frp.one:36234/964437657",
@@ -770,10 +778,6 @@
         {
           "pID": "964215650",
           "name": "英文原声"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964215635",
-          "name": "赛场原声"
         },
         {
           "url": "http://sh.frp.one:36234/964215650",
