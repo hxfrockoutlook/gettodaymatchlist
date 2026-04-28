@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-04-28 13:31:03",
+  "updateTime": "2026-04-28 14:01:08",
   "data": [
     {
       "mgdbId": "120000543006",
@@ -395,7 +395,7 @@
     },
     {
       "mgdbId": "120000574563",
-      "pID": "964453160",
+      "pID": "964453917",
       "title": "NBA季后赛",
       "keyword": "04月28日10:30",
       "sportItemId": "2",
@@ -411,10 +411,6 @@
         "time": "04月28日10:30"
       },
       "nodes": [
-        {
-          "pID": "964453160",
-          "name": "替老大出气！布劳恩双手挂筐暴扣后怒指麦丹吃T"
-        },
         {
           "pID": "964440409",
           "name": "李天宇 刘炜 陈正昊"
@@ -520,6 +516,10 @@
           "name": "3号场地"
         },
         {
+          "url": "http://sh.frp.one:36234/964294136",
+          "name": "1号场地英文解说"
+        },
+        {
           "url": "http://sh.frp.one:36234/964294154",
           "name": "2号场地英文解说"
         }
@@ -598,14 +598,6 @@
         {
           "pID": "964437835",
           "name": "16号桌"
-        },
-        {
-          "pID": "964453587",
-          "name": "5号桌"
-        },
-        {
-          "pID": "964453604",
-          "name": "6号桌"
         },
         {
           "url": "http://sh.frp.one:36234/964437657",
@@ -780,8 +772,40 @@
           "name": "英文原声"
         },
         {
+          "url": "http://sh.frp.one:36234/964215635",
+          "name": "赛场原声"
+        },
+        {
           "url": "http://sh.frp.one:36234/964215650",
           "name": "英文原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000575343",
+      "pID": "964453612",
+      "title": "WTA1000马德里站女单1/4决赛：第费尔南德斯 vs 安德列娃",
+      "keyword": "04月28日19:00",
+      "sportItemId": "9",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "WTA",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
+      "pkInfoTitle": "费尔南德斯 vs 安德列娃",
+      "modifyTitle": "WTA1000马德里站女单1/4决赛：第费尔南德斯 vs 安德列娃",
+      "presenters": "邱超",
+      "matchInfo": {
+        "time": "04月28日19:00"
+      },
+      "nodes": [
+        {
+          "pID": "964453612",
+          "name": "清流播出"
+        },
+        {
+          "pID": "964453557",
+          "name": "邱超"
         }
       ]
     },
