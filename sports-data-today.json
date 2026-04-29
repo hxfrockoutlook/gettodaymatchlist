@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-04-30 03:31:16",
+  "updateTime": "2026-04-30 04:01:10",
   "data": [
     {
       "mgdbId": "120000571755",
@@ -65,12 +65,12 @@
           "name": "15号桌"
         },
         {
-          "pID": "964436889",
-          "name": "16号桌"
-        },
-        {
           "pID": "964436720",
           "name": "8号桌"
+        },
+        {
+          "pID": "964436889",
+          "name": "16号桌"
         },
         {
           "url": "http://sh.frp.one:36234/964436935",
@@ -149,16 +149,16 @@
           "name": "1号场地"
         },
         {
-          "pID": "964293512",
-          "name": "2号场地"
-        },
-        {
           "pID": "964293524",
           "name": "3号场地"
         },
         {
           "pID": "964293598",
           "name": "1号场地英文解说"
+        },
+        {
+          "pID": "964293512",
+          "name": "2号场地"
         },
         {
           "pID": "964293684",
@@ -226,7 +226,7 @@
         },
         {
           "url": "http://sh.frp.one:36234/964185204",
-          "name": "约翰·希金斯VS尼尔·���伯逊 现场原声"
+          "name": "现场原声"
         },
         {
           "url": "http://sh.frp.one:36234/964185207",
@@ -236,8 +236,8 @@
     },
     {
       "mgdbId": "120000574312",
-      "pID": "964437049",
-      "title": "斯诺克世锦赛1/4决赛：吴宜泽 vs 侯赛因·瓦菲",
+      "pID": "964185204",
+      "title": "斯诺克世锦赛1/4决赛：吴宜泽 13-8 侯赛因·瓦菲",
       "keyword": "04月30日02:00",
       "sportItemId": "8",
       "matchStatus": "1",
@@ -245,13 +245,17 @@
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/29/779QRSQK7PSE.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "吴宜泽 vs 侯赛因·瓦菲",
-      "modifyTitle": "斯诺克世锦赛1/4决赛：吴宜泽 vs 侯赛因·瓦菲",
+      "pkInfoTitle": "吴宜泽 13-8 侯赛因·瓦菲",
+      "modifyTitle": "斯诺克世锦赛1/4决赛：吴宜泽 13-8 侯赛因·瓦菲",
       "presenters": "朱峰立",
       "matchInfo": {
         "time": "04月30日02:00"
       },
       "nodes": [
+        {
+          "pID": "964185204",
+          "name": "希金斯VS罗伯逊"
+        },
         {
           "pID": "964437049",
           "name": "朱峰立"
@@ -259,10 +263,6 @@
         {
           "pID": "964185207",
           "name": "现场原声"
-        },
-        {
-          "pID": "964185204",
-          "name": "希金斯VS罗伯逊"
         },
         {
           "url": "http://sh.frp.one:36234/964437049",
@@ -281,7 +281,7 @@
     {
       "mgdbId": "120000574712",
       "pID": "964215673",
-      "title": "诺斯科娃出战 波塔波娃晋级四强",
+      "title": "科斯秋克横扫 波塔波娃晋级四强",
       "keyword": "04月30日02:00",
       "sportItemId": "9",
       "matchStatus": "1",
@@ -289,8 +289,8 @@
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/29/779QRPUFEGPF.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "诺斯科娃出战 波塔波娃晋级四强",
-      "modifyTitle": "WTA马德里站女单1/4决赛：诺斯科娃出战 波塔波娃晋级四强",
+      "pkInfoTitle": "科斯秋克横扫 波塔波娃晋级四强",
+      "modifyTitle": "WTA马德里站女单1/4决赛：科斯秋克横扫 波塔波娃晋级四强",
       "presenters": "李宁",
       "matchInfo": {
         "time": "04月30日02:00"
@@ -318,7 +318,7 @@
         },
         {
           "url": "http://sh.frp.one:36234/964215686",
-          "name": "英文原声"
+          "name": "诺斯��娃出战 波塔波娃晋级四强 英文原声"
         }
       ]
     },
@@ -364,7 +364,7 @@
       "title": "WTA1000马德里站女单1/4决赛：科斯秋克 vs 诺斯科娃",
       "keyword": "04月30日02:00",
       "sportItemId": "9",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/29/779QPSRQGGIL.jpg",
@@ -377,16 +377,16 @@
       },
       "nodes": [
         {
-          "pID": "964473994",
-          "name": "李宁"
-        },
-        {
           "pID": "964474052",
           "name": "赛场原声"
         },
         {
           "pID": "964215650",
           "name": "英文原声"
+        },
+        {
+          "pID": "964473994",
+          "name": "李宁"
         },
         {
           "url": "http://sh.frp.one:36234/964473994",
