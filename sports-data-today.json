@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-04-29 17:01:27",
+  "updateTime": "2026-04-29 17:31:15",
   "data": [
     {
       "mgdbId": "120000574858",
@@ -571,7 +571,7 @@
       "title": "中乙联赛",
       "keyword": "04月29日15:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "山西省体育场",
       "competitionName": "中乙",
       "padImg": "",
@@ -630,7 +630,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "BWF",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/29/779QRJN02KMO.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/29/779QQVK4IT3C.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "中国 vs 印度",
       "modifyTitle": "BWF汤杯小组赛：国羽男团迎战印度 李诗沣任一单",
@@ -807,18 +807,18 @@
     },
     {
       "mgdbId": "120000571751",
-      "pID": "964438322",
+      "pID": "964438670",
       "title": "黄镇廷、杜凯琹领衔中国香港男女团冲胜",
       "keyword": "04月29日17:00",
       "sportItemId": "7",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "伦敦团体世乒赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/29/779QQC2J18RQ.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/29/779QQVPKRV4L.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/1/23/100000001402106b2354.png",
       "pkInfoTitle": "黄镇廷、杜凯琹领衔中国香港男女团冲胜",
       "modifyTitle": "伦敦团体世乒赛小组赛B阶段",
-      "presenters": "刘国正 周冠达 周泽昊 刘馨蕊",
+      "presenters": "刘馨蕊 刘国正 周冠达 周泽昊",
       "matchInfo": {
         "time": "04月29日17:00"
       },
@@ -828,24 +828,20 @@
           "name": "刘馨蕊"
         },
         {
-          "pID": "964438322",
-          "name": "刘国正 周冠达 周泽昊"
-        },
-        {
-          "pID": "964438487",
-          "name": "5号桌"
+          "pID": "964438537",
+          "name": "8号桌"
         },
         {
           "pID": "964438501",
           "name": "6号桌"
         },
         {
-          "pID": "964438520",
-          "name": "7号桌"
+          "pID": "964438622",
+          "name": "13号桌"
         },
         {
-          "pID": "964438537",
-          "name": "8号桌"
+          "pID": "964438487",
+          "name": "5号桌"
         },
         {
           "pID": "964438550",
@@ -864,16 +860,20 @@
           "name": "12号桌"
         },
         {
-          "pID": "964438622",
-          "name": "13号桌"
-        },
-        {
           "pID": "964438627",
           "name": "14号桌"
         },
         {
           "pID": "964438637",
           "name": "15号桌"
+        },
+        {
+          "pID": "964438322",
+          "name": "刘国正 周冠达 周泽昊"
+        },
+        {
+          "pID": "964438520",
+          "name": "7号桌"
         },
         {
           "pID": "964438662",
@@ -939,7 +939,7 @@
     },
     {
       "mgdbId": "120000574298",
-      "pID": "964436737",
+      "pID": "964185162",
       "title": "斯诺克世锦赛1/4决赛：约翰·希金斯 vs 尼尔·罗伯逊",
       "keyword": "04月29日17:00",
       "sportItemId": "8",
@@ -956,12 +956,16 @@
       },
       "nodes": [
         {
+          "pID": "964185162",
+          "name": "1号桌"
+        },
+        {
           "pID": "964436737",
           "name": "陶哲铭"
         },
         {
-          "pID": "964185162",
-          "name": "1号桌"
+          "pID": "964185176",
+          "name": "2号桌"
         },
         {
           "url": "http://sh.frp.one:36234/964436737",
@@ -971,7 +975,7 @@
     },
     {
       "mgdbId": "120000574299",
-      "pID": "964436757",
+      "pID": "964185176",
       "title": "斯诺克世锦赛1/4决赛：马克·艾伦vs巴里·霍金斯",
       "keyword": "04月29日17:00",
       "sportItemId": "8",
@@ -988,12 +992,16 @@
       },
       "nodes": [
         {
+          "pID": "964185176",
+          "name": "2号桌"
+        },
+        {
           "pID": "964436757",
           "name": "孙嘉星"
         },
         {
-          "pID": "964185176",
-          "name": "2号桌"
+          "pID": "964185162",
+          "name": "1号桌"
         },
         {
           "url": "http://sh.frp.one:36234/964185162",
