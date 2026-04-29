@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-04-29 07:31:06",
+  "updateTime": "2026-04-29 08:01:18",
   "data": [
     {
       "mgdbId": "120000574858",
@@ -226,7 +226,7 @@
         },
         {
           "url": "http://sh.frp.one:36234/964453579",
-          "name": "萨���伦卡 vs 巴普蒂斯特(郭丰庆)"
+          "name": "萨巴伦卡 vs 巴普蒂斯特(郭丰庆)"
         }
       ]
     },
@@ -344,7 +344,7 @@
       "title": "NBA季后赛",
       "keyword": "04月29日08:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "麦迪逊广场花园",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/28/779PT7H7KFFO.png",
@@ -388,7 +388,7 @@
       "title": "咪咕体育日报 第94期",
       "keyword": "04月29日00:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "咪咕体育日报",
       "padImg": "",
@@ -538,7 +538,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "BWF",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/29/779QRJN02KMO.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "中国对决印度！李诗沣率先出战",
       "modifyTitle": "BWF汤杯小组赛第六日A组：中国对决印度！李诗沣率先出战",
@@ -548,16 +548,16 @@
       },
       "nodes": [
         {
+          "pID": "964440854",
+          "name": "解说：鸿昆"
+        },
+        {
           "pID": "964294867",
           "name": "1号场地"
         },
         {
           "pID": "964294980",
           "name": "1号场地英文解说"
-        },
-        {
-          "pID": "964440854",
-          "name": "鸿昆"
         },
         {
           "url": "http://sh.frp.one:36234/964294867",
@@ -584,21 +584,25 @@
     {
       "mgdbId": "120000574859",
       "pID": "964294867",
-      "title": "汤姆斯杯&尤伯杯第六日下午场",
+      "title": "汤杯小组赛开战！李诗沣、安东森出战",
       "keyword": "04月29日16:00",
       "sportItemId": "6",
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "BWF",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/29/779QRKOFD766.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
-      "pkInfoTitle": "汤姆斯杯&尤伯杯第六日下午场",
-      "modifyTitle": "BWF汤尤杯小组赛第六日下午场",
-      "presenters": "",
+      "pkInfoTitle": "汤杯小组赛开战！李诗沣、安东森出战",
+      "modifyTitle": "BWF汤尤杯小组赛第六日下午场：汤杯小组赛开战！李诗沣、安东森出战",
+      "presenters": "鸿昆",
       "matchInfo": {
         "time": "04月29日16:00"
       },
       "nodes": [
+        {
+          "pID": "964440854",
+          "name": "解说：鸿昆"
+        },
         {
           "pID": "964294867",
           "name": "1号场地"
@@ -663,7 +667,7 @@
         },
         {
           "url": "http://sh.frp.one:36234/964440957",
-          "name": "尤伯杯淘汰赛��签仪式"
+          "name": "尤伯杯淘汰赛���签仪式"
         }
       ]
     },
@@ -808,7 +812,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "斯诺克",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/29/779QRIGIFR8P.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "约翰·希金斯 vs 尼尔·罗伯逊",
       "modifyTitle": "斯诺克世锦赛1/4决赛：约翰·希金斯 vs 尼尔·罗伯逊",
@@ -844,7 +848,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "斯诺克",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/29/779QRKEPP3MN.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "马克·艾伦vs巴里·霍金斯",
       "modifyTitle": "斯诺克世锦赛1/4决赛：马克·艾伦vs巴里·霍金斯",
@@ -884,7 +888,7 @@
     {
       "mgdbId": "120000574712",
       "pID": "964215673",
-      "title": "WTA马德里站1/4决赛",
+      "title": "波塔波娃、诺斯科娃出战",
       "keyword": "04月29日19:00",
       "sportItemId": "9",
       "matchStatus": "0",
@@ -892,8 +896,8 @@
       "competitionName": "WTA",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "WTA马德里站1/4决赛",
-      "modifyTitle": "WTA马德里站1/4决赛",
+      "pkInfoTitle": "波塔波娃、诺斯科娃出战",
+      "modifyTitle": "WTA马德里站女单1/4决赛：波塔波娃、诺斯科娃出战",
       "presenters": "",
       "matchInfo": {
         "time": "04月29日19:00"
