@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-04-30 17:01:25",
+  "updateTime": "2026-04-30 17:31:13",
   "data": [
     {
       "mgdbId": "120000571755",
@@ -623,7 +623,7 @@
       "title": "中乙联赛",
       "keyword": "04月30日15:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "大连足球青训基地体育场",
       "competitionName": "中乙",
       "padImg": "",
@@ -679,7 +679,7 @@
       "title": "中乙联赛",
       "keyword": "04月30日15:30",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "乐动力临港足球综合运动中心",
       "competitionName": "中乙",
       "padImg": "",
@@ -703,7 +703,7 @@
     },
     {
       "mgdbId": "120000574861",
-      "pID": "964482114",
+      "pID": "964293705",
       "title": "8强关键战！中国队、泰国队出战",
       "keyword": "04月30日16:00",
       "sportItemId": "6",
@@ -720,16 +720,16 @@
       },
       "nodes": [
         {
+          "pID": "964293705",
+          "name": "2号场地"
+        },
+        {
           "pID": "964482114",
           "name": "解说：鸿昆"
         },
         {
           "pID": "964293696",
           "name": "1号场地"
-        },
-        {
-          "pID": "964293705",
-          "name": "2号场地"
         },
         {
           "pID": "964299664",
@@ -820,7 +820,7 @@
     {
       "mgdbId": "120000575297",
       "pID": "964440993",
-      "title": "八强阵容出炉！中国、丹麦晋级淘汰赛 ​​",
+      "title": "国羽男团淘汰赛首轮迎战大马",
       "keyword": "04月30日16:30",
       "sportItemId": "6",
       "matchStatus": "2",
@@ -828,8 +828,8 @@
       "competitionName": "BWF",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/30/779RP6DSD3QQ.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
-      "pkInfoTitle": "八强阵容出炉！中国、丹麦晋级淘汰赛 ​​",
-      "modifyTitle": "汤姆斯杯淘汰赛抽签仪式：八强阵容出炉！中国、丹麦晋级淘汰赛",
+      "pkInfoTitle": "国羽男团淘汰赛首轮迎战大马",
+      "modifyTitle": "汤姆斯杯淘汰赛抽签仪式：国羽男团首轮迎战马来西亚 与泰国、丹麦同上半区",
       "presenters": "",
       "matchInfo": {
         "time": "04月30日16:30"
@@ -854,11 +854,11 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "伦敦团体世乒赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/30/779RNQHEB45N.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/30/779RO2N7DUBS.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/1/23/100000001402106b2354.png",
       "pkInfoTitle": "杜姐轮休 中国香港女团迎战中国澳门",
       "modifyTitle": "伦敦团体世乒赛小组赛B阶段",
-      "presenters": "凌维康 侯英超 程靖淇 周冠达",
+      "presenters": "凌维康",
       "matchInfo": {
         "time": "04月30日17:00"
       },
@@ -888,14 +888,6 @@
           "name": "8号桌"
         },
         {
-          "pID": "964437084",
-          "name": "9号桌"
-        },
-        {
-          "pID": "964437094",
-          "name": "10号桌"
-        },
-        {
           "pID": "964437130",
           "name": "11号桌"
         },
@@ -910,6 +902,14 @@
         {
           "pID": "964437193",
           "name": "14号桌"
+        },
+        {
+          "pID": "964437084",
+          "name": "9号桌"
+        },
+        {
+          "pID": "964437094",
+          "name": "10号桌"
         },
         {
           "pID": "964437223",
@@ -1277,7 +1277,7 @@
         },
         {
           "url": "http://sh.frp.one:36234/964496623",
-          "name": "刘钟鸣"
+          "name": "巴蒂斯特VS米拉��安德列娃 刘钟鸣"
         },
         {
           "url": "http://sh.frp.one:36234/964496649",
