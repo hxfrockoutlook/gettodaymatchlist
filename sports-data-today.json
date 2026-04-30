@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-04-30 13:01:17",
+  "updateTime": "2026-04-30 13:31:04",
   "data": [
     {
       "mgdbId": "120000571755",
@@ -511,11 +511,11 @@
     },
     {
       "mgdbId": "120000574571",
-      "pID": "964476847",
+      "pID": "964496637",
       "title": "NBA季后赛",
       "keyword": "04月30日10:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "加密网体育馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/30/779RQ6KGH6M2.png",
@@ -550,6 +550,10 @@
         {
           "pID": "964477041",
           "name": "智能字幕"
+        },
+        {
+          "pID": "964496637",
+          "name": "25-26赛季NBA季后赛全场集锦：火箭99:93湖人（20260430）"
         },
         {
           "url": "http://sh.frp.one:36234/964476847",
@@ -1129,7 +1133,7 @@
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/3/10000000143310640338.png",
       "pkInfoTitle": "澳大利亚阿尔法篮球学院队vs美国犹他预科篮球队",
-      "modifyTitle": "国青男篮热身赛",
+      "modifyTitle": "国青男篮���身赛",
       "presenters": "",
       "matchInfo": {
         "time": "04月30日20:30"
@@ -1158,7 +1162,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
       "pkInfoTitle": "安德列娃、波塔波娃出战",
       "modifyTitle": "WTA马德里站女单半决赛：安德列娃、波塔波娃出战",
-      "presenters": "",
+      "presenters": "刘钟鸣",
       "matchInfo": {
         "time": "04月30日22:00"
       },
@@ -1172,11 +1176,47 @@
           "name": "英文原声"
         },
         {
+          "pID": "964496623",
+          "name": "巴普蒂斯特 vs 米拉·安德列娃(刘钟鸣)"
+        },
+        {
           "url": "http://sh.frp.one:36234/964215702",
           "name": "赛场原声"
         },
         {
           "url": "http://sh.frp.one:36234/964215728",
+          "name": "英文原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000575643",
+      "pID": "964496649",
+      "title": "WTA1000马德里站女单半决赛：巴普蒂斯特 vs 安德列娃",
+      "keyword": "04月30日22:00",
+      "sportItemId": "9",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "WTA",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/30/779RMTD9Q5BC.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
+      "pkInfoTitle": "巴普蒂斯特 vs 安德列娃",
+      "modifyTitle": "WTA1000马德里站女单半决赛：巴普蒂斯特 vs 安德列娃",
+      "presenters": "刘钟鸣",
+      "matchInfo": {
+        "time": "04月30日22:00"
+      },
+      "nodes": [
+        {
+          "pID": "964496623",
+          "name": "刘钟鸣"
+        },
+        {
+          "pID": "964496649",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "964215728",
           "name": "英文原声"
         }
       ]
