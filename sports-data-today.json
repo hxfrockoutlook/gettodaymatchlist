@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-04-30 19:01:24",
+  "updateTime": "2026-04-30 19:31:12",
   "data": [
     {
       "mgdbId": "120000571755",
@@ -592,16 +592,16 @@
     {
       "mgdbId": "120000575214",
       "pID": "964418265",
-      "title": "女双德比大战 王曦雨挺进八强",
+      "title": "王曦雨挺进八强 施晗组合晋级",
       "keyword": "04月30日11:00",
       "sportItemId": "9",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/30/779RO5EO5G09.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "女双德比大战 王曦雨挺进八强",
-      "modifyTitle": "湖州国际女子网球公开赛女双1/4决赛： 女双德比大战 王曦雨挺进八强",
+      "pkInfoTitle": "王曦雨挺进八强 施晗组合晋级",
+      "modifyTitle": "湖州国际女子网球公开赛：王曦雨挺进八强 施晗组合晋级",
       "presenters": "",
       "matchInfo": {
         "time": "04月30日11:00"
@@ -724,6 +724,10 @@
           "name": "2号场地"
         },
         {
+          "pID": "964299620",
+          "name": "2号场地英文解说"
+        },
+        {
           "pID": "964482114",
           "name": "解说：鸿昆"
         },
@@ -734,10 +738,6 @@
         {
           "pID": "964299664",
           "name": "1号场地英文解说"
-        },
-        {
-          "pID": "964299620",
-          "name": "2号场地英文解说"
         },
         {
           "url": "http://sh.frp.one:36234/964482114",
@@ -768,16 +768,16 @@
     {
       "mgdbId": "120000575636",
       "pID": "964482114",
-      "title": "BWF尤杯1/4淘汰赛：尤杯8强关键战！中国对决马来西亚",
+      "title": "BWF尤杯1/4淘汰赛：尤杯国羽3-0横扫马来西亚晋级4强",
       "keyword": "04月30日16:00",
       "sportItemId": "6",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "BWF",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/30/779ROCJ3UFF0.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
-      "pkInfoTitle": "尤杯8强关键战！中国对决马来西亚",
-      "modifyTitle": "BWF尤杯1/4淘汰赛：尤杯8强关键战！中国对决马来西亚",
+      "pkInfoTitle": "尤杯国羽3-0横扫马来西亚晋级4强",
+      "modifyTitle": "BWF尤杯1/4淘汰赛：尤杯国羽3-0横扫马来西亚晋级4强",
       "presenters": "鸿昆",
       "matchInfo": {
         "time": "04月30日16:00"
@@ -847,7 +847,7 @@
     },
     {
       "mgdbId": "120000571756",
-      "pID": "964437065",
+      "pID": "964437173",
       "title": "直落三盘！中国香港女团小组赛取三连胜",
       "keyword": "04月30日17:00",
       "sportItemId": "7",
@@ -864,16 +864,12 @@
       },
       "nodes": [
         {
-          "pID": "964437065",
-          "name": "7号桌"
+          "pID": "964437173",
+          "name": "13号桌"
         },
         {
           "pID": "964437130",
           "name": "11号桌"
-        },
-        {
-          "pID": "964437173",
-          "name": "13号桌"
         },
         {
           "pID": "964437229",
@@ -886,6 +882,10 @@
         {
           "pID": "964437045",
           "name": "6号桌"
+        },
+        {
+          "pID": "964437065",
+          "name": "7号桌"
         },
         {
           "pID": "964437073",
@@ -1043,7 +1043,7 @@
       "title": "中乙联赛",
       "keyword": "04月30日19:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "兰州奥体中心玫瑰场",
       "competitionName": "中乙",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000572065/202604271043_868684_H169_1080.webp",
@@ -1071,7 +1071,7 @@
       "title": "中乙联赛",
       "keyword": "04月30日19:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "广东省人民体育场",
       "competitionName": "中乙",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000572066/202603120947_119725_H169_1080.webp",
@@ -1099,7 +1099,7 @@
       "title": "2026浙江省城市足球联赛",
       "keyword": "04月30日19:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "吴越杯",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000574885/202604211455_453077_H169_1080.webp",
@@ -1277,7 +1277,7 @@
         },
         {
           "url": "http://sh.frp.one:36234/964496623",
-          "name": "巴蒂斯特VS米拉��安德列娃 刘钟鸣"
+          "name": "刘钟鸣"
         },
         {
           "url": "http://sh.frp.one:36234/964496649",
