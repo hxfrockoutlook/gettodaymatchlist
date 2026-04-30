@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-04-30 14:31:08",
+  "updateTime": "2026-04-30 15:01:21",
   "data": [
     {
       "mgdbId": "120000571755",
@@ -615,7 +615,7 @@
       "title": "中乙联赛",
       "keyword": "04月30日15:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "大连足球青训基地体育场",
       "competitionName": "中乙",
       "padImg": "",
@@ -936,6 +936,10 @@
           "name": "9号桌"
         },
         {
+          "url": "http://sh.frp.one:36234/964437094",
+          "name": "10号桌"
+        },
+        {
           "url": "http://sh.frp.one:36234/964437130",
           "name": "11号桌"
         },
@@ -958,6 +962,30 @@
         {
           "url": "http://sh.frp.one:36234/964437223",
           "name": "16号桌"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000575646",
+      "pID": "964497073",
+      "title": "NBA季后赛精彩重播：火箭 vs 湖人 G5",
+      "keyword": "04月30日18:00",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "NBA经典赛事",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png",
+      "pkInfoTitle": "NBA季后赛精彩重播：火箭 vs 湖人 G5",
+      "modifyTitle": "NBA经典赛事",
+      "presenters": "杨健 苏群 周鹏",
+      "matchInfo": {
+        "time": "04月30日18:00"
+      },
+      "nodes": [
+        {
+          "pID": "964497073",
+          "name": "杨健 苏群 周鹏"
         }
       ]
     },
@@ -1137,7 +1165,7 @@
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/3/10000000143310640338.png",
       "pkInfoTitle": "澳大利亚阿尔法篮球学院队vs美国犹他预科篮球队",
-      "modifyTitle": "国青男篮热���赛",
+      "modifyTitle": "国青男篮热身赛",
       "presenters": "",
       "matchInfo": {
         "time": "04月30日20:30"
