@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-05-01 21:01:50",
+  "updateTime": "2026-05-01 21:31:49",
   "data": [
     {
       "mgdbId": "120000571758",
@@ -817,23 +817,7 @@
         },
         {
           "url": "http://sh.frp.one:36234/964294041",
-          "name": "2号场地"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964502572",
-          "name": "余博洋"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964294023",
-          "name": "1号场地"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964299669",
-          "name": "1号场地英文解说"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964299633",
-          "name": "2号场地英文解说"
+          "name": "冲四强！印度对决中国台北 2号场地"
         }
       ]
     },
@@ -843,7 +827,7 @@
       "title": "上海浪琴环球马术冠军赛Day1晚场",
       "keyword": "05月01日16:10",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "上海浪琴环球马术冠军赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/01/77BSBM9SGV08.jpg",
@@ -931,7 +915,7 @@
     },
     {
       "mgdbId": "120000575410",
-      "pID": "964502412",
+      "pID": "964525676",
       "title": "国青男篮热身赛",
       "keyword": "05月01日18:00",
       "sportItemId": "2",
@@ -948,8 +932,8 @@
       },
       "nodes": [
         {
-          "pID": "964502412",
-          "name": "传统艺能不能丢！新西兰U17男篮开场毛利战舞提振士气"
+          "pID": "964525676",
+          "name": "2026国青男篮热身赛全场回放：美国犹他预科篮球队vs新西兰U17男篮（赛场原声）"
         },
         {
           "pID": "964455014",
@@ -967,7 +951,7 @@
       "title": "NBA季后赛精彩重播：掘金 vs 森林狼 G6",
       "keyword": "05月01日18:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA经典赛事",
       "padImg": "",
@@ -1023,7 +1007,7 @@
       "title": "中超联赛",
       "keyword": "05月01日19:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "大连梭鱼湾足球场",
       "competitionName": "中超",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000569752/881882_H169_sc.jpg",
@@ -1184,10 +1168,6 @@
           "name": "9号桌"
         },
         {
-          "pID": "964437387",
-          "name": "10号桌"
-        },
-        {
           "pID": "964437430",
           "name": "14号桌"
         },
@@ -1210,6 +1190,10 @@
         {
           "pID": "964437350",
           "name": "8号桌"
+        },
+        {
+          "pID": "964437387",
+          "name": "10号桌"
         },
         {
           "pID": "964437415",
@@ -1251,7 +1235,7 @@
       "title": "广东省城市篮球联赛",
       "keyword": "05月01日19:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "粤BA",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000573830/202604090920_341671_H169_1080.webp",
@@ -1543,11 +1527,11 @@
     },
     {
       "mgdbId": "120000575170",
-      "pID": "964451767",
+      "pID": "964441571",
       "title": "CBA季后赛12进8",
       "keyword": "05月01日19:35",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "三生制药体育馆",
       "competitionName": "CBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/01/77BSAVMI0ACK.jpg",
@@ -1560,12 +1544,16 @@
       },
       "nodes": [
         {
+          "pID": "964441571",
+          "name": "CBA季后赛12进8火热开战！谁将力克对手杀入八强？"
+        },
+        {
           "pID": "964451767",
           "name": "图文直播"
         },
         {
           "url": "http://sh.frp.one:36234/964451767",
-          "name": "图��直播"
+          "name": "图文直播"
         }
       ]
     },
@@ -1581,7 +1569,7 @@
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/30/779RPHRHSKJO.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png",
       "pkInfoTitle": "广州朗肽海本vs广东东阳光",
-      "modifyTitle": "CBA季��赛12进8",
+      "modifyTitle": "CBA季后赛12进8",
       "presenters": "",
       "matchInfo": {
         "time": "05月01日19:35"
