@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-05-02 19:02:32",
+  "updateTime": "2026-05-02 19:32:48",
   "data": [
     {
       "mgdbId": "120000571760",
@@ -779,7 +779,7 @@
     },
     {
       "mgdbId": "120000575339",
-      "pID": "964450745",
+      "pID": "964538514",
       "title": "安徽省青少年足球联赛",
       "keyword": "05月02日15:30",
       "sportItemId": "1",
@@ -961,7 +961,7 @@
       "nodes": [
         {
           "pID": "964437926",
-          "name": "国乒男团上训"
+          "name": "热身区"
         },
         {
           "url": "http://sh.frp.one:36234/964437926",
@@ -971,7 +971,7 @@
     },
     {
       "mgdbId": "120000575556",
-      "pID": "964475792",
+      "pID": "964538544",
       "title": "湖北省城市足球联赛",
       "keyword": "05月02日16:00",
       "sportItemId": "1",
@@ -988,8 +988,8 @@
       },
       "nodes": [
         {
-          "pID": "964475792",
-          "name": "2026湖北省城市足球联赛第三轮: 鄂州临空vs仙桃黄鳝"
+          "pID": "964538544",
+          "name": "2026湖北省城市足球联赛第3轮全场回放：鄂州临空2:0仙桃黄鳝（赛场原声）"
         },
         {
           "url": "http://sh.frp.one:36234/964475792",
@@ -1108,7 +1108,7 @@
     {
       "mgdbId": "120000571762",
       "pID": "964438067",
-      "title": "国乒女团首秀横扫 王楚钦率男团战东道主",
+      "title": "王楚钦率男团战东道主 国乒女团首秀横扫",
       "keyword": "05月02日17:00",
       "sportItemId": "7",
       "matchStatus": "1",
@@ -1116,7 +1116,7 @@
       "competitionName": "伦敦团体世乒赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/02/77BT7TPHDKIM.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/1/23/100000001402106b2354.png",
-      "pkInfoTitle": "国乒女团首秀横扫 王楚钦率男团战东道主",
+      "pkInfoTitle": "王楚钦率男团战东道主 国乒女团首秀横扫",
       "modifyTitle": "伦敦团体世乒赛小组赛A阶段",
       "presenters": "周冠达 侯英超 凌维康 刘馨蕊",
       "matchInfo": {
@@ -1124,24 +1124,28 @@
       },
       "nodes": [
         {
-          "pID": "964438067",
-          "name": "3号桌"
-        },
-        {
           "pID": "964438138",
           "name": "世乒赛观察室"
         },
         {
-          "pID": "964437926",
-          "name": "国乒男团上训"
+          "pID": "964438067",
+          "name": "3号桌"
         },
         {
           "pID": "964438090",
           "name": "4号桌"
         },
         {
+          "pID": "964437926",
+          "name": "热身区"
+        },
+        {
           "pID": "964438238",
           "name": "凌维康 刘馨蕊"
+        },
+        {
+          "pID": "964511465",
+          "name": "CCTV5"
         },
         {
           "pID": "964494883",
@@ -1166,10 +1170,6 @@
         {
           "pID": "964511400",
           "name": "CCTV5＋"
-        },
-        {
-          "pID": "964511465",
-          "name": "CCTV5"
         },
         {
           "url": "http://sh.frp.one:36234/964438138",
@@ -1241,7 +1241,7 @@
         },
         {
           "pID": "964437926",
-          "name": "国乒男团上训"
+          "name": "训练馆"
         },
         {
           "pID": "964494883",
@@ -1367,7 +1367,7 @@
       "title": "武汉篮球城市超级联赛",
       "keyword": "05月02日18:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "城超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000575040/202604221420_573801_H169_1080.webp",
@@ -1479,7 +1479,7 @@
     },
     {
       "mgdbId": "120000575407",
-      "pID": "964481315",
+      "pID": "964481279",
       "title": "Naiza82：中国选手伊尔扎提、刘家宁出战",
       "keyword": "05月02日19:00",
       "sportItemId": "5",
@@ -1496,12 +1496,12 @@
       },
       "nodes": [
         {
-          "pID": "964481315",
-          "name": "清流"
-        },
-        {
           "pID": "964481279",
           "name": "官方解说"
+        },
+        {
+          "pID": "964481315",
+          "name": "清流"
         },
         {
           "url": "http://sh.frp.one:36234/964481279",
@@ -1555,7 +1555,7 @@
       "title": "中甲联赛",
       "keyword": "05月02日19:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "裕彤国际体育中心",
       "competitionName": "中甲",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000570695/202603010116_389945_H169_1080.webp",
@@ -1591,7 +1591,7 @@
       "title": "中甲联赛",
       "keyword": "05月02日19:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "越秀山体育场",
       "competitionName": "中甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000570696/288504_H169_sc.jpg",
@@ -1627,7 +1627,7 @@
       "title": "中甲联赛",
       "keyword": "05月02日19:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "定南足球青少年训练中心体育场",
       "competitionName": "中甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000570697/159255_H169_sc.jpg",
@@ -1659,7 +1659,7 @@
     },
     {
       "mgdbId": "120000571768",
-      "pID": "964437926",
+      "pID": "964438138",
       "title": "伦敦团体世乒赛：中国男团vs英格兰男团",
       "keyword": "05月02日19:30",
       "sportItemId": "7",
@@ -1675,10 +1675,6 @@
         "time": "05月02日19:30"
       },
       "nodes": [
-        {
-          "pID": "964437926",
-          "name": "国乒男团上训"
-        },
         {
           "pID": "964438138",
           "name": "周冠达 侯英超"
@@ -1698,6 +1694,10 @@
         {
           "pID": "964494883",
           "name": "智能字幕"
+        },
+        {
+          "pID": "964437926",
+          "name": "热身区"
         },
         {
           "pID": "964438262",
@@ -1743,7 +1743,7 @@
       "title": "广东省城市篮球联赛",
       "keyword": "05月02日19:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "粤BA",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000573827/202604090920_708051_H169_1080.webp",
@@ -1771,7 +1771,7 @@
       "title": "广东省城市篮球联赛",
       "keyword": "05月02日19:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "粤BA",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000573833/202604090921_165176_H169_1080.webp",
@@ -1799,7 +1799,7 @@
       "title": "广东省城市篮球联赛",
       "keyword": "05月02日19:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "粤BA",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000573835/202604090921_536908_H169_1080.webp",
@@ -1827,7 +1827,7 @@
       "title": "广东省城市篮球联赛",
       "keyword": "05月02日19:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "粤BA",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000573838/202604090925_847757_H169_1080.webp",
@@ -1855,7 +1855,7 @@
       "title": "广东省城市篮球联赛",
       "keyword": "05月02日19:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "粤BA",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000573840/202604090925_236561_H169_1080.webp",
@@ -1883,7 +1883,7 @@
       "title": "广东省城市篮球联赛",
       "keyword": "05月02日19:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "粤BA",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000573842/202604090926_944561_H169_1080.webp",
@@ -1911,7 +1911,7 @@
       "title": "广东省城市篮球联赛",
       "keyword": "05月02日19:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "粤BA",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000573846/202604090926_113595_H169_1080.webp",
@@ -1939,7 +1939,7 @@
       "title": "广东省城市篮球联赛",
       "keyword": "05月02日19:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "粤BA",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000573850/202604090926_928247_H169_1080.webp",
@@ -1967,7 +1967,7 @@
       "title": "广东省城市篮球联赛",
       "keyword": "05月02日19:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "粤BA",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000573854/202604090930_388359_H169_1080.webp",
@@ -1995,7 +1995,7 @@
       "title": "山东省齐鲁足球超级联赛",
       "keyword": "05月02日19:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "齐鲁超赛",
       "padImg": "",
@@ -2023,7 +2023,7 @@
       "title": "广东省城市足球超级联赛",
       "keyword": "05月02日19:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "粤超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000574679/202604161019_418971_H169_1080.webp",
@@ -2059,7 +2059,7 @@
       "title": "广东省城市足球超级联赛",
       "keyword": "05月02日19:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "粤超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000574680/202604161019_701716_H169_1080.webp",
@@ -2095,7 +2095,7 @@
       "title": "广东省城市足球超级联赛",
       "keyword": "05月02日19:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "粤超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000574681/202604161008_383380_H169_1080.webp",
@@ -2131,7 +2131,7 @@
       "title": "安徽省青少年足球联赛",
       "keyword": "05月02日19:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "徽青赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000575340/202604281000_663815_H169_1080.webp",
@@ -2154,36 +2154,12 @@
       ]
     },
     {
-      "mgdbId": "120000575645",
-      "pID": "964496802",
-      "title": "上饶VS萍乡",
-      "keyword": "05月02日19:30",
-      "sportItemId": "2",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "赣BA",
-      "padImg": "",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/14/100000001397106c5667.png",
-      "pkInfoTitle": "上饶VS萍乡",
-      "modifyTitle": "江西省城市篮球联赛",
-      "presenters": "",
-      "matchInfo": {
-        "time": "05月02日19:30"
-      },
-      "nodes": [
-        {
-          "url": "http://sh.frp.one:36234/964496802",
-          "name": "2026江西省城市篮球联赛总决赛:"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000569747",
       "pID": "964476650",
       "title": "中超联赛",
       "keyword": "05月02日19:35",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "黄龙体育中心体育场",
       "competitionName": "中超",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000569747/673599_H169_sc.jpg",
@@ -2219,7 +2195,7 @@
       "title": "福建省城市足球超级联赛",
       "keyword": "05月02日19:35",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "闽超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000574468/202604141710_722989_H169_1080.webp",
@@ -2303,7 +2279,7 @@
       "title": "湖北省城市足球联赛",
       "keyword": "05月02日19:35",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "楚超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000575557/202604291320_772655_H169_1080.webp",
@@ -2331,7 +2307,7 @@
       "title": "湖北省城市足球联赛",
       "keyword": "05月02日19:35",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "楚超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000575558/202604291320_866672_H169_1080.webp",
@@ -2359,7 +2335,7 @@
       "title": "苏超常规赛第4周",
       "keyword": "05月02日19:40",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "苏超",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/27/779P07B5EUA7.jpg",
@@ -2387,7 +2363,7 @@
       "title": "苏超常规赛第4周",
       "keyword": "05月02日19:40",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "苏超",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/27/779P07BP743M.jpg",
@@ -2415,7 +2391,7 @@
       "title": "苏超常规赛第4周",
       "keyword": "05月02日19:40",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "苏超",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/27/779P07DUPUL5.jpg",
@@ -2443,7 +2419,7 @@
       "title": "苏超常规赛第4周",
       "keyword": "05月02日19:40",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "苏超",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/27/779P07EMSSDM.jpg",
@@ -2507,7 +2483,7 @@
       "title": "中超联赛",
       "keyword": "05月02日20:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "玉溪高原体育运动中心体育场",
       "competitionName": "中超",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000569746/429598_H169_sc.jpg",
