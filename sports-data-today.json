@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-05-03 02:02:15",
+  "updateTime": "2026-05-03 02:32:19",
   "data": [
     {
       "mgdbId": "120000542998",
@@ -40,7 +40,7 @@
     },
     {
       "mgdbId": "120000571770",
-      "pID": "964438385",
+      "pID": "964438138",
       "title": "林诗栋一单亮相 梁靖崑迎战吴晙诚",
       "keyword": "05月03日00:00",
       "sportItemId": "7",
@@ -57,16 +57,16 @@
       },
       "nodes": [
         {
-          "pID": "964438385",
-          "name": "2号桌"
+          "pID": "964438138",
+          "name": "世乒赛观察室"
+        },
+        {
+          "pID": "964438445",
+          "name": "朱子恒"
         },
         {
           "pID": "964437926",
           "name": "国乒男队上训"
-        },
-        {
-          "pID": "964438138",
-          "name": "世乒赛观察室"
         },
         {
           "pID": "964438419",
@@ -75,6 +75,14 @@
         {
           "pID": "964438349",
           "name": "1号桌"
+        },
+        {
+          "pID": "964438385",
+          "name": "2号桌"
+        },
+        {
+          "pID": "964438437",
+          "name": "4号桌"
         },
         {
           "pID": "964438462",
@@ -87,14 +95,6 @@
         {
           "pID": "964438313",
           "name": "英文解说"
-        },
-        {
-          "pID": "964438445",
-          "name": "朱子恒"
-        },
-        {
-          "pID": "964438437",
-          "name": "4号桌"
         },
         {
           "url": "http://sh.frp.one:36234/964438138",
@@ -299,7 +299,7 @@
       "matchStatus": "1",
       "matchField": "酋长球场",
       "competitionName": "英超",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000542180/295518_H169_sc.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000542180/371486_H169_sc.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png",
       "pkInfoTitle": "阿森纳 vs 富勒姆",
       "modifyTitle": "英超联赛",
@@ -367,7 +367,7 @@
       "matchStatus": "1",
       "matchField": "拜尔竞技场",
       "competitionName": "德甲",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000542751/390818_H169_sc.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000542751/382312_H169_sc.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png",
       "pkInfoTitle": "勒沃库森 vs RB莱比锡",
       "modifyTitle": "德甲联赛",
@@ -400,7 +400,7 @@
       "title": "西甲联赛",
       "keyword": "05月03日00:30",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "门迪佐洛萨球场",
       "competitionName": "西甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000543277/966573_H169_sc.jpg",
@@ -468,7 +468,7 @@
     },
     {
       "mgdbId": "120000574340",
-      "pID": "964185277",
+      "pID": "964532303",
       "title": "斯诺克世锦赛半决赛：吴宜泽 vs 马克·艾伦（第四阶段）",
       "keyword": "05月03日02:00",
       "sportItemId": "8",
@@ -485,12 +485,12 @@
       },
       "nodes": [
         {
-          "pID": "964185277",
-          "name": "现场原声"
+          "pID": "964532303",
+          "name": "解说"
         },
         {
-          "pID": "964532303",
-          "name": "朱峰立"
+          "pID": "964185277",
+          "name": "现场原声"
         },
         {
           "url": "http://sh.frp.one:36234/964185277",
@@ -525,12 +525,12 @@
           "name": "世乒赛观察室"
         },
         {
-          "pID": "964437926",
-          "name": "热身区"
-        },
-        {
           "pID": "964438445",
           "name": "朱子恒"
+        },
+        {
+          "pID": "964437926",
+          "name": "热身区"
         },
         {
           "pID": "964438462",
@@ -572,7 +572,7 @@
       "title": "意甲联赛",
       "keyword": "05月03日02:45",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "蓝色意大利竞技场",
       "competitionName": "意甲",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000543000/202507101901_489791_H169_1080.webp",
@@ -707,10 +707,6 @@
         {
           "pID": "964455085",
           "name": "英文原声"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964455020",
-          "name": "陈瑞阳"
         },
         {
           "url": "http://sh.frp.one:36234/964455085",
@@ -892,7 +888,7 @@
     {
       "mgdbId": "120000575217",
       "pID": "964418320",
-      "title": "女双决赛率先打响",
+      "title": "争冠时刻！女双决赛率先打响",
       "keyword": "05月03日13:00",
       "sportItemId": "9",
       "matchStatus": "0",
@@ -900,7 +896,7 @@
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/02/77BT833PGCBG.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "女双决赛率先打响",
+      "pkInfoTitle": "争冠时刻！女双决赛率先打响",
       "modifyTitle": "湖州国际女子网球公开赛Day7：女双决赛率先打响",
       "presenters": "",
       "matchInfo": {
@@ -1029,7 +1025,7 @@
         },
         {
           "url": "http://sh.frp.one:36234/964216640",
-          "name": "2026赛季广东省城市足球超级联赛第二��:"
+          "name": "2026赛季广东省城市足球超级联赛第二轮:"
         },
         {
           "url": "http://sh.frp.one:36234/964510706",
@@ -1626,7 +1622,7 @@
         },
         {
           "url": "http://sh.frp.one:36234/964437434",
-          "name": "侯英超 程靖淇 周冠达"
+          "name": "硬碰硬��中国男团PK瑞典 中国女团战韩国 侯英超 程靖淇 周冠达"
         },
         {
           "url": "http://sh.frp.one:36234/964437505",
@@ -2122,7 +2118,7 @@
         },
         {
           "url": "http://sh.frp.one:36234/964534940",
-          "name": "明��视角"
+          "name": "明星视角"
         }
       ]
     },
