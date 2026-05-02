@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-05-02 16:32:29",
+  "updateTime": "2026-05-02 17:02:47",
   "data": [
     {
       "mgdbId": "120000571760",
@@ -504,16 +504,16 @@
     {
       "mgdbId": "120000575216",
       "pID": "964418309",
-      "title": "郭涵煜全力冲刺决赛",
+      "title": "王曦雨、郭涵煜遗憾落败",
       "keyword": "05月02日13:00",
       "sportItemId": "9",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/02/77BT6P0SGT1E.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "郭涵煜全力冲刺决赛",
-      "modifyTitle": "湖州国际女子网球公开赛Day6：郭涵煜全力冲刺决赛",
+      "pkInfoTitle": "王曦雨、郭涵煜遗憾落败",
+      "modifyTitle": "湖州国际女子网球公开赛半决赛：王曦雨、郭涵煜遗憾落败",
       "presenters": "",
       "matchInfo": {
         "time": "05月02日13:00"
@@ -540,7 +540,7 @@
       "competitionName": "上海浪琴环球马术冠军赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/01/77BSBMAH9FET.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/5/1/100000001461106b6114.png",
-      "pkInfoTitle": "上海浪琴环��马术冠军赛Day2日场",
+      "pkInfoTitle": "上海浪琴环球马术冠军赛Day2日场",
       "modifyTitle": "上海浪琴环球马术冠军赛Day2日场",
       "presenters": "",
       "matchInfo": {
@@ -615,7 +615,7 @@
       "title": "山东省齐鲁足球超级联赛",
       "keyword": "05月02日14:30",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "齐鲁超赛",
       "padImg": "",
@@ -946,7 +946,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "伦敦团体世乒赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/02/77BT92J92MLL.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/02/77BT7B932FMB.gif",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/1/23/100000001402106b2354.png",
       "pkInfoTitle": "第五日热身区",
       "modifyTitle": "伦敦团体世乒赛第五日热身区",
@@ -957,7 +957,7 @@
       "nodes": [
         {
           "pID": "964437926",
-          "name": "国乒女团上训"
+          "name": "训练馆"
         },
         {
           "url": "http://sh.frp.one:36234/964437926",
@@ -1079,7 +1079,7 @@
       "title": "上海浪琴环球马术冠军赛Day2晚场",
       "keyword": "05月02日16:45",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "上海浪琴环球马术冠军赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/01/77BSBMMM5I2G.jpg",
@@ -1110,7 +1110,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "伦敦团体世乒赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/02/77BT76JSAFTG.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/02/77BT7C0FV75H.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/1/23/100000001402106b2354.png",
       "pkInfoTitle": "孙颖莎领衔女团首秀 王楚钦率男团战东道主",
       "modifyTitle": "伦敦团体世乒赛小组赛A阶段",
@@ -1122,10 +1122,6 @@
         {
           "pID": "964438138",
           "name": "世乒赛观察室"
-        },
-        {
-          "pID": "964437926",
-          "name": "热身区"
         },
         {
           "pID": "964438238",
@@ -1158,6 +1154,10 @@
         {
           "pID": "964438262",
           "name": "混采区"
+        },
+        {
+          "pID": "964437926",
+          "name": "训练馆"
         },
         {
           "pID": "964438287",
@@ -1218,7 +1218,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/1/23/100000001402106b2354.png",
       "pkInfoTitle": "中国女团vs罗马尼亚女团",
       "modifyTitle": "伦敦团体世乒赛：中国女团vs罗马尼亚女团",
-      "presenters": "周冠达 侯英超",
+      "presenters": "周冠达 侯英超 凌维康",
       "matchInfo": {
         "time": "05月02日17:00"
       },
@@ -1228,8 +1228,8 @@
           "name": "周冠达 侯英超"
         },
         {
-          "pID": "964437926",
-          "name": "热身区"
+          "pID": "964438238",
+          "name": "凌维康"
         },
         {
           "pID": "964511400",
@@ -1242,6 +1242,10 @@
         {
           "pID": "964494883",
           "name": "智能字幕"
+        },
+        {
+          "pID": "964437926",
+          "name": "训练馆"
         },
         {
           "pID": "964438262",
@@ -1287,7 +1291,7 @@
       "title": "斯诺克世锦赛半决赛：吴宜泽 vs 马克·艾伦（第三阶段）",
       "keyword": "05月02日17:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/02/77BT83LIKH09.jpg",
@@ -1662,11 +1666,15 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/1/23/100000001402106b2354.png",
       "pkInfoTitle": "中国男团vs英格兰男团",
       "modifyTitle": "伦敦团体世乒赛：中国男团vs英格兰男团",
-      "presenters": "周冠达 侯英超",
+      "presenters": "周冠达 侯英超 刘馨蕊",
       "matchInfo": {
         "time": "05月02日19:30"
       },
       "nodes": [
+        {
+          "pID": "964438238",
+          "name": "刘馨蕊"
+        },
         {
           "pID": "964438138",
           "name": "周冠达 侯英超"
@@ -1705,7 +1713,7 @@
         },
         {
           "url": "http://sh.frp.one:36234/964511465",
-          "name": "中国男团VS英格兰��团 CCTV5"
+          "name": "CCTV5"
         },
         {
           "url": "http://sh.frp.one:36234/964438005",
@@ -2648,7 +2656,7 @@
     {
       "mgdbId": "120000575592",
       "pID": "964479013",
-      "title": "2026年江西省城市足球超级联赛",
+      "title": "2026年江西省城市足��超级联赛",
       "keyword": "05月02日20:00",
       "sportItemId": "1",
       "matchStatus": "0",
