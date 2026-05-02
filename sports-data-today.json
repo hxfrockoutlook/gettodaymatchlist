@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-05-02 17:02:47",
+  "updateTime": "2026-05-02 17:32:44",
   "data": [
     {
       "mgdbId": "120000571760",
@@ -35,6 +35,10 @@
         {
           "pID": "964527625",
           "name": "11号桌"
+        },
+        {
+          "url": "http://sh.frp.one:36234/964531145",
+          "name": "全场回放（十号桌）"
         },
         {
           "url": "http://sh.frp.one:36234/964534383",
@@ -423,7 +427,7 @@
     },
     {
       "mgdbId": "120000575029",
-      "pID": "964362232",
+      "pID": "964535142",
       "title": "武汉篮球城市超级联赛",
       "keyword": "05月02日10:00",
       "sportItemId": "2",
@@ -440,8 +444,8 @@
       },
       "nodes": [
         {
-          "pID": "964362232",
-          "name": "2026赛季武汉篮球城市超级联赛小组循环赛\n第1轮: 武汉斑马vsSJZ"
+          "pID": "964535142",
+          "name": "2026武汉篮球城市超级联赛小组循环赛第1轮全场回放：武汉斑马vsSJZ（赛场原声）"
         },
         {
           "url": "http://sh.frp.one:36234/964535142",
@@ -643,10 +647,10 @@
       "title": "中甲联赛",
       "keyword": "05月02日15:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "延吉市全民健身体育中心体育场",
       "competitionName": "中甲",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000570698/322829_H169_sc.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000570698/565572_H169_sc.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/10106c2211.png",
       "pkInfoTitle": "延边龙鼎 vs 无锡吴钩",
       "modifyTitle": "中甲联赛",
@@ -679,7 +683,7 @@
       "title": "中甲联赛",
       "keyword": "05月02日15:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "金州体育场",
       "competitionName": "中甲",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000570699/202603010116_159997_H169_1080.webp",
@@ -715,7 +719,7 @@
       "title": "山东省齐鲁足球超级联赛",
       "keyword": "05月02日15:30",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "齐鲁超赛",
       "padImg": "",
@@ -743,7 +747,7 @@
       "title": "广东省城市足球超级联赛",
       "keyword": "05月02日15:30",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "粤超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000574617/202604161029_168213_H169_1080.webp",
@@ -779,7 +783,7 @@
       "title": "安徽省青少年足球联赛",
       "keyword": "05月02日15:30",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "徽青赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000575339/202604281000_444319_H169_1080.webp",
@@ -919,7 +923,7 @@
       "title": "武汉篮球城市超级联赛",
       "keyword": "05月02日16:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "城超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000575038/202604221420_511928_H169_1080.webp",
@@ -1132,8 +1136,8 @@
           "name": "CCTV5＋"
         },
         {
-          "pID": "964438005",
-          "name": "1号桌"
+          "pID": "964437926",
+          "name": "训练馆"
         },
         {
           "pID": "964438041",
@@ -1152,24 +1156,20 @@
           "name": "智能字幕"
         },
         {
-          "pID": "964438262",
-          "name": "混采区"
-        },
-        {
-          "pID": "964437926",
-          "name": "训练馆"
+          "pID": "964438005",
+          "name": "1号桌"
         },
         {
           "pID": "964438287",
           "name": "候场区"
         },
         {
-          "pID": "964511465",
-          "name": "CCTV5"
+          "pID": "964438262",
+          "name": "混采区"
         },
         {
-          "url": "http://sh.frp.one:36234/964438138",
-          "name": "世乒赛观察室"
+          "pID": "964511465",
+          "name": "CCTV5"
         },
         {
           "url": "http://sh.frp.one:36234/964438238",
@@ -1190,6 +1190,10 @@
         {
           "url": "http://sh.frp.one:36234/964438041",
           "name": "2号桌"
+        },
+        {
+          "url": "http://sh.frp.one:36234/964438067",
+          "name": "3号桌"
         },
         {
           "url": "http://sh.frp.one:36234/964438090",
@@ -1214,7 +1218,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "伦敦团体世乒赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/02/77BT788O63VE.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/02/77BT7G0OT3F1.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/1/23/100000001402106b2354.png",
       "pkInfoTitle": "中国女团vs罗马尼亚女团",
       "modifyTitle": "伦敦团体世乒赛：中国女团vs罗马尼亚女团",
@@ -1322,10 +1326,6 @@
         {
           "url": "http://sh.frp.one:36234/964185251",
           "name": "现场原声"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964532281",
-          "name": "助威视角"
         }
       ]
     },
@@ -1672,12 +1672,12 @@
       },
       "nodes": [
         {
-          "pID": "964438238",
-          "name": "刘馨蕊"
-        },
-        {
           "pID": "964438138",
           "name": "周冠达 侯英超"
+        },
+        {
+          "pID": "964438238",
+          "name": "刘馨蕊"
         },
         {
           "pID": "964437926",
@@ -2656,7 +2656,7 @@
     {
       "mgdbId": "120000575592",
       "pID": "964479013",
-      "title": "2026年江西省城市足��超级联赛",
+      "title": "2026年江西省城市足球超级联赛",
       "keyword": "05月02日20:00",
       "sportItemId": "1",
       "matchStatus": "0",
@@ -2809,7 +2809,11 @@
         },
         {
           "url": "http://sh.frp.one:36234/964511085",
-          "name": "霍芬海姆VS斯图加特 沈云怡 马延峰"
+          "name": "沈云怡 马延峰"
+        },
+        {
+          "url": "http://sh.frp.one:36234/964511073",
+          "name": "赛场原声"
         }
       ]
     },
@@ -3066,10 +3070,6 @@
         {
           "pID": "964511153",
           "name": "赛场原声"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964511133",
-          "name": "吴桐"
         },
         {
           "url": "http://sh.frp.one:36234/964511144",
