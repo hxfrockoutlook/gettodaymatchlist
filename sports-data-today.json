@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-05-02 14:32:39",
+  "updateTime": "2026-05-02 15:02:34",
   "data": [
     {
       "mgdbId": "120000571760",
@@ -490,7 +490,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/01/77BSAGULT0VA.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/02/77BT6P0SGT1E.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
       "pkInfoTitle": "王曦雨、郭涵煜能否会师决赛",
       "modifyTitle": "湖州国际女子网球公开赛Day6：王曦雨、郭涵煜能否会师决赛",
@@ -595,7 +595,7 @@
       "title": "山东省齐鲁足球超级联赛",
       "keyword": "05月02日14:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "齐鲁超赛",
       "padImg": "",
@@ -623,7 +623,7 @@
       "title": "中甲联赛",
       "keyword": "05月02日15:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "延吉市全民健身体育中心体育场",
       "competitionName": "中甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000570698/322829_H169_sc.jpg",
@@ -659,7 +659,7 @@
       "title": "中甲联赛",
       "keyword": "05月02日15:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "金州体育场",
       "competitionName": "中甲",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000570699/202603010116_159997_H169_1080.webp",
@@ -835,7 +835,7 @@
     },
     {
       "mgdbId": "120000574867",
-      "pID": "964533011",
+      "pID": "964294430",
       "title": "尤杯半决赛！国羽迎战日本 韩国PK印尼",
       "keyword": "05月02日16:00",
       "sportItemId": "6",
@@ -852,6 +852,10 @@
       },
       "nodes": [
         {
+          "pID": "964294430",
+          "name": "2号场地"
+        },
+        {
           "pID": "964533011",
           "name": "解说"
         },
@@ -866,10 +870,6 @@
         {
           "pID": "964294414",
           "name": "1号场地"
-        },
-        {
-          "pID": "964294430",
-          "name": "2号场地"
         },
         {
           "pID": "964299681",
@@ -1254,6 +1254,34 @@
         {
           "pID": "964438287",
           "name": "候场区"
+        },
+        {
+          "url": "http://sh.frp.one:36234/964438138",
+          "name": "周冠达 侯英超"
+        },
+        {
+          "url": "http://sh.frp.one:36234/964437926",
+          "name": "热身区"
+        },
+        {
+          "url": "http://sh.frp.one:36234/964511465",
+          "name": "CCTV5"
+        },
+        {
+          "url": "http://sh.frp.one:36234/964438005",
+          "name": "赛场原声"
+        },
+        {
+          "url": "http://sh.frp.one:36234/964438262",
+          "name": "混采区"
+        },
+        {
+          "url": "http://sh.frp.one:36234/964438287",
+          "name": "候场区"
+        },
+        {
+          "url": "http://sh.frp.one:36234/964494883",
+          "name": "智能字幕"
         }
       ]
     },
@@ -1374,6 +1402,30 @@
         {
           "url": "http://sh.frp.one:36234/964455118",
           "name": "清流播出"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000575725",
+      "pID": "964535155",
+      "title": "NBA季后赛精彩重播：湖人 vs 火箭 G6",
+      "keyword": "05月02日18:00",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "NBA经典赛事",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png",
+      "pkInfoTitle": "NBA季后赛精彩重播：湖人 vs 火箭 G6",
+      "modifyTitle": "NBA经典赛事",
+      "presenters": "杨健 马健 周鹏",
+      "matchInfo": {
+        "time": "05月02日18:00"
+      },
+      "nodes": [
+        {
+          "pID": "964535155",
+          "name": "杨健 马健 周鹏"
         }
       ]
     },
@@ -1638,34 +1690,6 @@
         {
           "pID": "964438287",
           "name": "候场区"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964438138",
-          "name": "周冠达 侯英超"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964437926",
-          "name": "热身区"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964511465",
-          "name": "CCTV5"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964438005",
-          "name": "赛场原声"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964438262",
-          "name": "混采区"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964438287",
-          "name": "候场区"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964494883",
-          "name": "智能字幕"
         }
       ]
     },
@@ -1988,7 +2012,7 @@
     {
       "mgdbId": "120000574680",
       "pID": "964216588",
-      "title": "广东省城市足球超级联赛",
+      "title": "广东省城��足球超级联赛",
       "keyword": "05月02日19:30",
       "sportItemId": "1",
       "matchStatus": "0",
