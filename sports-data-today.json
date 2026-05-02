@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-05-02 14:02:50",
+  "updateTime": "2026-05-02 14:32:39",
   "data": [
     {
       "mgdbId": "120000571760",
@@ -515,7 +515,7 @@
       "title": "上海浪琴环球马术冠军赛Day2日场",
       "keyword": "05月02日13:00",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "上海浪琴环球马术冠军赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/01/77BSBMAH9FET.jpg",
@@ -1254,34 +1254,6 @@
         {
           "pID": "964438287",
           "name": "候场区"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964438138",
-          "name": "周冠达 侯英超"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964437926",
-          "name": "热身区"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964511465",
-          "name": "CCTV5"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964438005",
-          "name": "赛场原声"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964438262",
-          "name": "混采区"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964438287",
-          "name": "候场区"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964494883",
-          "name": "智能字幕"
         }
       ]
     },
@@ -1309,11 +1281,11 @@
         },
         {
           "pID": "964185251",
-          "name": "1号桌"
+          "name": "现场原声"
         },
         {
           "pID": "964532281",
-          "name": "孙嘉星"
+          "name": "助威视角"
         },
         {
           "url": "http://sh.frp.one:36234/964496893",
@@ -1505,7 +1477,11 @@
         },
         {
           "url": "http://sh.frp.one:36234/964519332",
-          "name": "曼联女足VS布莱顿女足 吴桐"
+          "name": "吴桐"
+        },
+        {
+          "url": "http://sh.frp.one:36234/964519328",
+          "name": "赛场原声"
         }
       ]
     },
@@ -1662,6 +1638,34 @@
         {
           "pID": "964438287",
           "name": "候场区"
+        },
+        {
+          "url": "http://sh.frp.one:36234/964438138",
+          "name": "周冠达 侯英超"
+        },
+        {
+          "url": "http://sh.frp.one:36234/964437926",
+          "name": "热身区"
+        },
+        {
+          "url": "http://sh.frp.one:36234/964511465",
+          "name": "CCTV5"
+        },
+        {
+          "url": "http://sh.frp.one:36234/964438005",
+          "name": "赛场原声"
+        },
+        {
+          "url": "http://sh.frp.one:36234/964438262",
+          "name": "混采区"
+        },
+        {
+          "url": "http://sh.frp.one:36234/964438287",
+          "name": "候场区"
+        },
+        {
+          "url": "http://sh.frp.one:36234/964494883",
+          "name": "智能字幕"
         }
       ]
     },
@@ -3242,46 +3246,6 @@
         {
           "pID": "964438313",
           "name": "英文解说"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000571772",
-      "pID": "120000571772",
-      "title": "中国女团vs中国台北女团",
-      "keyword": "05月02日23:00",
-      "sportItemId": "",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "伦敦团体世乒赛",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2026/04/09/11005/9361574e9f684966b582a73e0c193ade/9361574e9f684966b582a73e0c193ade_H169_P1080_WEBP.webp",
-      "competitionLogo": "",
-      "pkInfoTitle": "中国女团vs中国台北女团",
-      "modifyTitle": "中国女团vs中国台北女团",
-      "presenters": "",
-      "matchInfo": {
-        "time": "05月02日23:00"
-      },
-      "nodes": [
-        {
-          "pID": "964438138",
-          "name": "世乒赛观察室"
-        },
-        {
-          "pID": "964437926",
-          "name": "热身区"
-        },
-        {
-          "pID": "964438437",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "964438462",
-          "name": "混采区"
-        },
-        {
-          "pID": "964438517",
-          "name": "候场区"
         }
       ]
     }
