@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-05-02 13:32:54",
+  "updateTime": "2026-05-02 14:02:50",
   "data": [
     {
       "mgdbId": "120000571760",
@@ -543,7 +543,7 @@
       "title": "武汉篮球城市超级联赛",
       "keyword": "05月02日14:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "城超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000575036/202604221416_431251_H169_1080.webp",
@@ -567,7 +567,7 @@
       "title": "贵州村超联赛",
       "keyword": "05月02日14:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "贵州村超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000575619/202604291704_717617_H169_1080.webp",
@@ -1008,7 +1008,7 @@
     {
       "mgdbId": "120000575696",
       "pID": "964533011",
-      "title": "BWF尤杯半决赛：重磅对决！中国女团迎战日本",
+      "title": "BWF尤杯半决赛：剑指决赛！中国迎战日本",
       "keyword": "05月02日16:00",
       "sportItemId": "6",
       "matchStatus": "0",
@@ -1016,8 +1016,8 @@
       "competitionName": "BWF",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/02/77BT8EKCKRPC.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
-      "pkInfoTitle": "重磅对决！中国女团迎战日本",
-      "modifyTitle": "BWF尤杯半决赛：重磅对决！中国女团迎战日本",
+      "pkInfoTitle": "中国 VS 日本",
+      "modifyTitle": "BWF尤杯半决赛：剑指决赛！中国迎战日本",
       "presenters": "鸿昆 杜玥 刘雨辰 黄雅琼",
       "matchInfo": {
         "time": "05月02日16:00"
@@ -1038,6 +1038,34 @@
         {
           "pID": "964299681",
           "name": "1号场地英文解说"
+        },
+        {
+          "url": "http://sh.frp.one:36234/964438138",
+          "name": "周冠达 侯英超"
+        },
+        {
+          "url": "http://sh.frp.one:36234/964437926",
+          "name": "热身区"
+        },
+        {
+          "url": "http://sh.frp.one:36234/964511400",
+          "name": "CCTV5＋"
+        },
+        {
+          "url": "http://sh.frp.one:36234/964438005",
+          "name": "赛场原声"
+        },
+        {
+          "url": "http://sh.frp.one:36234/964438262",
+          "name": "混采区"
+        },
+        {
+          "url": "http://sh.frp.one:36234/964438287",
+          "name": "候场区"
+        },
+        {
+          "url": "http://sh.frp.one:36234/964494883",
+          "name": "智能字幕"
         }
       ]
     },
@@ -1216,16 +1244,16 @@
           "name": "赛场原声"
         },
         {
+          "pID": "964494883",
+          "name": "智能字幕"
+        },
+        {
           "pID": "964438262",
           "name": "混采区"
         },
         {
           "pID": "964438287",
           "name": "候场区"
-        },
-        {
-          "pID": "964494883",
-          "name": "智能字幕"
         },
         {
           "url": "http://sh.frp.one:36234/964438138",
@@ -1236,8 +1264,8 @@
           "name": "热身区"
         },
         {
-          "url": "http://sh.frp.one:36234/964511400",
-          "name": "CCTV5＋"
+          "url": "http://sh.frp.one:36234/964511465",
+          "name": "CCTV5"
         },
         {
           "url": "http://sh.frp.one:36234/964438005",
@@ -1477,11 +1505,7 @@
         },
         {
           "url": "http://sh.frp.one:36234/964519332",
-          "name": "吴桐"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964519328",
-          "name": "赛场原声"
+          "name": "曼联女足VS布莱顿女足 吴桐"
         }
       ]
     },
@@ -1628,44 +1652,16 @@
           "name": "赛场原声"
         },
         {
+          "pID": "964494883",
+          "name": "智能字幕"
+        },
+        {
           "pID": "964438262",
           "name": "混采区"
         },
         {
           "pID": "964438287",
           "name": "候场区"
-        },
-        {
-          "pID": "964494883",
-          "name": "智能字幕"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964438138",
-          "name": "周冠达 侯英超"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964437926",
-          "name": "热身区"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964511465",
-          "name": "CCTV5"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964438005",
-          "name": "赛场原声"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964438262",
-          "name": "混采区"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964438287",
-          "name": "候场区"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964494883",
-          "name": "智能字幕"
         }
       ]
     },
@@ -2820,10 +2816,6 @@
           "name": "刘畅 张力"
         },
         {
-          "pID": "964510895",
-          "name": "刘畅 ���力"
-        },
-        {
           "url": "http://sh.frp.one:36234/964510895",
           "name": "刘畅 张力"
         },
@@ -3162,7 +3154,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
       "pkInfoTitle": "安德列娃 vs 科斯秋克",
       "modifyTitle": "WTA马德里站决赛：安德列娃 vs 科斯秋克",
-      "presenters": "",
+      "presenters": "房朕",
       "matchInfo": {
         "time": "05月02日23:00"
       },
@@ -3174,6 +3166,14 @@
         {
           "pID": "964215795",
           "name": "英文原声"
+        },
+        {
+          "pID": "964535062",
+          "name": "房朕"
+        },
+        {
+          "pID": "964535085",
+          "name": "清流播出"
         },
         {
           "url": "http://sh.frp.one:36234/964215776",
