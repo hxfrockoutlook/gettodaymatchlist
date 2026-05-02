@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-05-02 12:32:44",
+  "updateTime": "2026-05-02 13:02:35",
   "data": [
     {
       "mgdbId": "120000571760",
@@ -347,11 +347,11 @@
     },
     {
       "mgdbId": "120000574579",
-      "pID": "964512173",
+      "pID": "964534664",
       "title": "NBA季后赛",
       "keyword": "05月02日09:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "丰田中心球馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/02/77BT9IIJ8SN2.png",
@@ -363,6 +363,10 @@
         "time": "05月02日09:30"
       },
       "nodes": [
+        {
+          "pID": "964534664",
+          "name": "25/26赛季NBA季后赛全场集锦：湖人98:78火箭（20260502）"
+        },
         {
           "pID": "964512173",
           "name": "杨健 马健 周鹏"
@@ -536,7 +540,7 @@
     {
       "mgdbId": "120000575036",
       "pID": "964362214",
-      "title": "武汉篮球城市超级���赛",
+      "title": "武汉篮球城市超级联赛",
       "keyword": "05月02日14:00",
       "sportItemId": "2",
       "matchStatus": "0",
@@ -941,7 +945,7 @@
         },
         {
           "url": "http://sh.frp.one:36234/964437926",
-          "name": "热身区"
+          "name": "第五日热身��� 热身区"
         }
       ]
     },
@@ -1012,7 +1016,7 @@
       "competitionName": "BWF",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/02/77BT8EKCKRPC.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
-      "pkInfoTitle": "重磅对决！中国女团迎战日本",
+      "pkInfoTitle": "中国 VS 日本",
       "modifyTitle": "BWF尤杯半决赛：重磅对决！中国女团迎战日本",
       "presenters": "鸿昆 杜玥 黄雅琼",
       "matchInfo": {
@@ -1021,7 +1025,11 @@
       "nodes": [
         {
           "pID": "964533011",
-          "name": "解说：鸿昆 杜玥 黄雅琼"
+          "name": "解说"
+        },
+        {
+          "pID": "964532887",
+          "name": "明星视角"
         },
         {
           "pID": "964294414",
@@ -1032,8 +1040,32 @@
           "name": "1号场地英文解说"
         },
         {
-          "pID": "964532887",
-          "name": "解说：鸿昆 杜玥 黄雅琼 刘雨辰"
+          "url": "http://sh.frp.one:36234/964438138",
+          "name": "周冠达 侯英超"
+        },
+        {
+          "url": "http://sh.frp.one:36234/964437926",
+          "name": "热身区"
+        },
+        {
+          "url": "http://sh.frp.one:36234/964511400",
+          "name": "CCTV5＋"
+        },
+        {
+          "url": "http://sh.frp.one:36234/964438005",
+          "name": "赛场原声"
+        },
+        {
+          "url": "http://sh.frp.one:36234/964438262",
+          "name": "混采区"
+        },
+        {
+          "url": "http://sh.frp.one:36234/964438287",
+          "name": "候场区"
+        },
+        {
+          "url": "http://sh.frp.one:36234/964494883",
+          "name": "智能字幕"
         }
       ]
     },
@@ -1232,8 +1264,8 @@
           "name": "热身区"
         },
         {
-          "url": "http://sh.frp.one:36234/964511400",
-          "name": "CCTV5＋"
+          "url": "http://sh.frp.one:36234/964511465",
+          "name": "CCTV5"
         },
         {
           "url": "http://sh.frp.one:36234/964438005",
@@ -1633,34 +1665,6 @@
         },
         {
           "pID": "964494883",
-          "name": "智能字幕"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964438138",
-          "name": "周冠达 侯英超"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964437926",
-          "name": "热身区"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964511465",
-          "name": "CCTV5"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964438005",
-          "name": "赛场原声"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964438262",
-          "name": "混采区"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964438287",
-          "name": "候场区"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964494883",
           "name": "智能字幕"
         }
       ]
@@ -2169,7 +2173,7 @@
         },
         {
           "url": "http://sh.frp.one:36234/964475633",
-          "name": "2026福建省城市足球��级联赛第二轮: 泉州VS福州"
+          "name": "2026福建省城市足球超级联赛第二轮: 泉州VS福州"
         }
       ]
     },
