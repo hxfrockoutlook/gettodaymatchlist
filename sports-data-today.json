@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-05-02 13:02:35",
+  "updateTime": "2026-05-02 13:32:54",
   "data": [
     {
       "mgdbId": "120000571760",
@@ -439,7 +439,7 @@
       "title": "武汉篮球城市超级联赛",
       "keyword": "05月02日12:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "城超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000575032/202604221415_455857_H169_1080.webp",
@@ -487,7 +487,7 @@
       "title": "王曦雨、郭涵煜能否会师决赛",
       "keyword": "05月02日13:00",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/01/77BSAGULT0VA.png",
@@ -515,7 +515,7 @@
       "title": "上海浪琴环球马术冠军赛Day2日场",
       "keyword": "05月02日13:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "上海浪琴环球马术冠军赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/01/77BSBMAH9FET.jpg",
@@ -836,7 +836,7 @@
     {
       "mgdbId": "120000574867",
       "pID": "964533011",
-      "title": "巅峰较量！王祉怡、安洗莹等名将出战",
+      "title": "尤杯半决赛！国羽迎战日本 韩国PK印尼",
       "keyword": "05月02日16:00",
       "sportItemId": "6",
       "matchStatus": "0",
@@ -844,16 +844,24 @@
       "competitionName": "BWF",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/02/77BT8FFMD9D3.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
-      "pkInfoTitle": "巅峰较量！王祉怡、安洗莹等名将出战",
-      "modifyTitle": "BWF尤伯杯第九日：巅峰较量！王祉怡、安洗莹等名将出战",
-      "presenters": "鸿昆 杜玥 黄雅琼 孙宁智",
+      "pkInfoTitle": "尤杯半决赛！国羽迎战日本 韩国PK印尼",
+      "modifyTitle": "BWF尤伯杯半决赛：王祉怡再战山口茜 安洗莹领衔韩国PK印尼",
+      "presenters": "鸿昆 杜玥 刘雨辰 黄雅琼 孙宁智",
       "matchInfo": {
         "time": "05月02日16:00"
       },
       "nodes": [
         {
           "pID": "964533011",
-          "name": "解说：鸿昆 杜玥 黄雅琼"
+          "name": "解说"
+        },
+        {
+          "pID": "964532887",
+          "name": "明星视角"
+        },
+        {
+          "pID": "964532945",
+          "name": "解说：孙宁智"
         },
         {
           "pID": "964294414",
@@ -870,14 +878,6 @@
         {
           "pID": "964299653",
           "name": "2号场地英文解说"
-        },
-        {
-          "pID": "964532887",
-          "name": "解说：鸿昆 杜玥 黄雅琼"
-        },
-        {
-          "pID": "964532945",
-          "name": "解说：孙宁智"
         },
         {
           "url": "http://sh.frp.one:36234/964294414",
@@ -945,7 +945,7 @@
         },
         {
           "url": "http://sh.frp.one:36234/964437926",
-          "name": "第五日热身��� 热身区"
+          "name": "热身区"
         }
       ]
     },
@@ -1016,9 +1016,9 @@
       "competitionName": "BWF",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/02/77BT8EKCKRPC.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
-      "pkInfoTitle": "中国 VS 日本",
+      "pkInfoTitle": "重磅对决！中国女团迎战日本",
       "modifyTitle": "BWF尤杯半决赛：重磅对决！中国女团迎战日本",
-      "presenters": "鸿昆 杜玥 黄雅琼",
+      "presenters": "鸿昆 杜玥 刘雨辰 黄雅琼",
       "matchInfo": {
         "time": "05月02日16:00"
       },
@@ -1038,34 +1038,6 @@
         {
           "pID": "964299681",
           "name": "1号场地英文解说"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964438138",
-          "name": "周冠达 侯英超"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964437926",
-          "name": "热身区"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964511400",
-          "name": "CCTV5＋"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964438005",
-          "name": "赛场原声"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964438262",
-          "name": "混采区"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964438287",
-          "name": "候场区"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964494883",
-          "name": "智能字幕"
         }
       ]
     },
@@ -1264,8 +1236,8 @@
           "name": "热身区"
         },
         {
-          "url": "http://sh.frp.one:36234/964511465",
-          "name": "CCTV5"
+          "url": "http://sh.frp.one:36234/964511400",
+          "name": "CCTV5＋"
         },
         {
           "url": "http://sh.frp.one:36234/964438005",
@@ -1665,6 +1637,34 @@
         },
         {
           "pID": "964494883",
+          "name": "智能字幕"
+        },
+        {
+          "url": "http://sh.frp.one:36234/964438138",
+          "name": "周冠达 侯英超"
+        },
+        {
+          "url": "http://sh.frp.one:36234/964437926",
+          "name": "热身区"
+        },
+        {
+          "url": "http://sh.frp.one:36234/964511465",
+          "name": "CCTV5"
+        },
+        {
+          "url": "http://sh.frp.one:36234/964438005",
+          "name": "赛场原声"
+        },
+        {
+          "url": "http://sh.frp.one:36234/964438262",
+          "name": "混采区"
+        },
+        {
+          "url": "http://sh.frp.one:36234/964438287",
+          "name": "候场区"
+        },
+        {
+          "url": "http://sh.frp.one:36234/964494883",
           "name": "智能字幕"
         }
       ]
@@ -2818,6 +2818,10 @@
         {
           "pID": "964510899",
           "name": "刘畅 张力"
+        },
+        {
+          "pID": "964510895",
+          "name": "刘畅 ���力"
         },
         {
           "url": "http://sh.frp.one:36234/964510895",
