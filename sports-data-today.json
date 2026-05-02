@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-05-02 20:02:50",
+  "updateTime": "2026-05-02 20:32:48",
   "data": [
     {
       "mgdbId": "120000571760",
@@ -35,6 +35,10 @@
         {
           "pID": "964527625",
           "name": "11号桌"
+        },
+        {
+          "url": "http://sh.frp.one:36234/964531145",
+          "name": "全场回放（十号桌）"
         },
         {
           "url": "http://sh.frp.one:36234/964534383",
@@ -235,7 +239,7 @@
       "matchStatus": "2",
       "matchField": "蒙蒂利维市政球场",
       "competitionName": "西甲",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000543274/460308_H169_sc.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000543274/448073_H169_sc.jpg",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/21/779JJMOFB20H.png",
       "pkInfoTitle": "赫罗纳 vs 马略卡",
       "modifyTitle": "西甲联赛",
@@ -840,15 +844,15 @@
     {
       "mgdbId": "120000574867",
       "pID": "964532945",
-      "title": "国羽女团3-0日本 韩国PK印尼",
+      "title": "国羽女团3-0日本 韩国3-1印尼",
       "keyword": "05月02日16:00",
       "sportItemId": "6",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "BWF",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/02/77BT7RTO9LBI.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
-      "pkInfoTitle": "国羽女团3-0日本 韩国PK印尼",
+      "pkInfoTitle": "国羽女团3-0日本 韩国3-1印尼",
       "modifyTitle": "BWF尤伯杯半决赛：王祉怡再战山口茜 安洗莹领衔韩国PK印尼",
       "presenters": "孙宁智 鸿昆 杜玥 刘雨辰 黄雅琼",
       "matchInfo": {
@@ -934,7 +938,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "伦敦团体世乒赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/02/77BT85EJPAKE.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/02/77BT8CV21RSB.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/1/23/100000001402106b2354.png",
       "pkInfoTitle": "第五日热身区",
       "modifyTitle": "伦敦团体世乒赛第五日热身区",
@@ -1106,7 +1110,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "伦敦团体世乒赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/02/77BT85H8IDCG.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/02/77BT8CQ224K0.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/1/23/100000001402106b2354.png",
       "pkInfoTitle": "王楚钦率男团战东道主 国乒女团首秀横扫",
       "modifyTitle": "伦敦团体世乒赛小组赛A阶段",
@@ -1291,7 +1295,7 @@
       "title": "斯诺克世锦赛半决赛：吴宜泽 11-11 马克·艾伦（第三阶段）",
       "keyword": "05月02日17:00",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/02/77BT83LIKH09.jpg",
@@ -1322,10 +1326,6 @@
         {
           "url": "http://sh.frp.one:36234/964185251",
           "name": "现场原声"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964532281",
-          "name": "助威视角"
         }
       ]
     },
@@ -1387,7 +1387,7 @@
       "title": "国青男篮热身赛",
       "keyword": "05月02日18:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "国青男篮热身赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/01/77BS9JR0FI9Q.jpg",
@@ -1662,7 +1662,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "伦敦团体世乒赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/02/77BT85HOOUGJ.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/02/77BT8C53CQQ4.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/1/23/100000001402106b2354.png",
       "pkInfoTitle": "中国男团vs英格兰男团",
       "modifyTitle": "伦敦团体世乒赛：中国男团vs英格兰男团",
@@ -2781,7 +2781,11 @@
         },
         {
           "url": "http://sh.frp.one:36234/964511085",
-          "name": "霍芬海姆VS斯图加特 沈云怡 马延峰"
+          "name": "沈云怡 马延峰"
+        },
+        {
+          "url": "http://sh.frp.one:36234/964511073",
+          "name": "赛场原声"
         }
       ]
     },
@@ -2858,10 +2862,6 @@
         {
           "url": "http://sh.frp.one:36234/964510886",
           "name": "赛场原声"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964510899",
-          "name": "刘畅 张力"
         }
       ]
     },
