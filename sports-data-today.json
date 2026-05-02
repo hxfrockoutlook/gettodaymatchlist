@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-05-03 04:02:11",
+  "updateTime": "2026-05-03 04:32:10",
   "data": [
     {
       "mgdbId": "120000542998",
@@ -69,10 +69,6 @@
           "name": "1号桌"
         },
         {
-          "pID": "964438385",
-          "name": "2号桌"
-        },
-        {
           "pID": "964438419",
           "name": "3号桌"
         },
@@ -91,6 +87,10 @@
         {
           "pID": "964438313",
           "name": "英文解说"
+        },
+        {
+          "pID": "964438385",
+          "name": "2号桌"
         },
         {
           "url": "http://sh.frp.one:36234/964438138",
@@ -481,16 +481,16 @@
           "name": "热身区"
         },
         {
+          "pID": "964438437",
+          "name": "赛场原声"
+        },
+        {
           "pID": "964438462",
           "name": "混采区"
         },
         {
           "pID": "964438517",
           "name": "候场区"
-        },
-        {
-          "pID": "964438437",
-          "name": "赛场原声"
         },
         {
           "url": "http://sh.frp.one:36234/964438138",
@@ -1030,7 +1030,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "BWF",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/03/77BU4AFSA7P5.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "中国 vs 韩国",
       "modifyTitle": "BWF尤伯杯决赛：中国vs韩国",
@@ -1746,7 +1746,7 @@
         },
         {
           "url": "http://sh.frp.one:36234/964437556",
-          "name": "混采��"
+          "name": "混采区"
         },
         {
           "url": "http://sh.frp.one:36234/964437562",
@@ -2703,6 +2703,42 @@
         {
           "url": "http://sh.frp.one:36234/964511239",
           "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000574870",
+      "pID": "120000574870",
+      "title": "汤姆斯杯第十日",
+      "keyword": "05月03日23:45",
+      "sportItemId": "",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "BWF",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2023/06/07/6CQ7RBS7LMBV.jpg",
+      "competitionLogo": "",
+      "pkInfoTitle": "汤姆斯杯第十日",
+      "modifyTitle": "汤姆斯杯第十日",
+      "presenters": "",
+      "matchInfo": {
+        "time": "05月03日23:45"
+      },
+      "nodes": [
+        {
+          "pID": "964294644",
+          "name": "1号场地"
+        },
+        {
+          "pID": "964299695",
+          "name": "1号场地英文解说"
+        },
+        {
+          "pID": "964532817",
+          "name": "余博洋 黄雅琼 刘雨辰"
+        },
+        {
+          "pID": "964533000",
+          "name": "余博洋 黄雅琼 刘雨辰"
         }
       ]
     }
