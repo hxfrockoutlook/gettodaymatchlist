@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-05-02 18:02:49",
+  "updateTime": "2026-05-02 18:32:30",
   "data": [
     {
       "mgdbId": "120000571760",
@@ -123,7 +123,7 @@
       "matchStatus": "2",
       "matchField": "",
       "competitionName": "斯诺克",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/01/77BSB40238TT.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/02/77BT7PG1OI0F.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "肖恩·墨菲 11-13 约翰·希金斯",
       "modifyTitle": "斯诺克世锦赛半决赛：肖恩·墨菲 11-13 约翰·希金斯（第三阶段）",
@@ -850,7 +850,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "BWF",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/02/77BT71FMIH03.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/02/77BT7RTO9LBI.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "尤杯半决赛！国羽迎战日本 韩国PK印尼",
       "modifyTitle": "BWF尤伯杯半决赛：王祉怡再战山口茜 安洗莹领衔韩国PK印尼",
@@ -950,7 +950,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "伦敦团体世乒赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/02/77BT7B932FMB.gif",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/02/77BT7Q987TUK.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/1/23/100000001402106b2354.png",
       "pkInfoTitle": "第五日热身区",
       "modifyTitle": "伦敦团体世乒赛第五日热身区",
@@ -961,7 +961,7 @@
       "nodes": [
         {
           "pID": "964437926",
-          "name": "训练馆"
+          "name": "国乒男团上训"
         },
         {
           "url": "http://sh.frp.one:36234/964437926",
@@ -1034,7 +1034,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "BWF",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/02/77BT71FFUSMN.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/02/77BT7RKN5RJ1.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "中国 VS 日本",
       "modifyTitle": "BWF尤杯半决赛：剑指决赛！中国迎战日本",
@@ -1108,7 +1108,7 @@
     {
       "mgdbId": "120000571762",
       "pID": "964438138",
-      "title": "立头功！孙颖莎首盘横扫 王楚钦率男团战东道主",
+      "title": "国乒女团首秀横扫 王楚钦率男团战东道主",
       "keyword": "05月02日17:00",
       "sportItemId": "7",
       "matchStatus": "1",
@@ -1116,7 +1116,7 @@
       "competitionName": "伦敦团体世乒赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/02/77BT7L7PP326.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/1/23/100000001402106b2354.png",
-      "pkInfoTitle": "立头功！孙颖莎首盘横扫 王楚钦率男团战东道主",
+      "pkInfoTitle": "国乒女团首秀横扫 王楚钦率男团战东道主",
       "modifyTitle": "伦敦团体世乒赛小组赛A阶段",
       "presenters": "周冠达 侯英超 凌维康 刘馨蕊",
       "matchInfo": {
@@ -1129,7 +1129,11 @@
         },
         {
           "pID": "964437926",
-          "name": "训练馆"
+          "name": "国乒男团上训"
+        },
+        {
+          "pID": "964438262",
+          "name": "混采区"
         },
         {
           "pID": "964438238",
@@ -1162,10 +1166,6 @@
         {
           "pID": "964438287",
           "name": "候场区"
-        },
-        {
-          "pID": "964438262",
-          "name": "混采区"
         },
         {
           "pID": "964511465",
@@ -1215,11 +1215,11 @@
     },
     {
       "mgdbId": "120000571763",
-      "pID": "964438138",
+      "pID": "964438262",
       "title": "伦敦团体世乒赛：中国女团vs罗马尼亚女团",
       "keyword": "05月02日17:00",
       "sportItemId": "7",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "伦敦团体世乒赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/02/77BT7L8AKJBS.jpg",
@@ -1232,12 +1232,24 @@
       },
       "nodes": [
         {
+          "pID": "964438262",
+          "name": "混采区"
+        },
+        {
           "pID": "964438138",
           "name": "周冠达 侯英超"
         },
         {
           "pID": "964437926",
-          "name": "训练馆"
+          "name": "国乒男团上训"
+        },
+        {
+          "pID": "964494883",
+          "name": "智能字幕"
+        },
+        {
+          "pID": "964438287",
+          "name": "候场区"
         },
         {
           "pID": "964438238",
@@ -1250,18 +1262,6 @@
         {
           "pID": "964438005",
           "name": "赛场原声"
-        },
-        {
-          "pID": "964494883",
-          "name": "智能字幕"
-        },
-        {
-          "pID": "964438262",
-          "name": "混采区"
-        },
-        {
-          "pID": "964438287",
-          "name": "候场区"
         },
         {
           "url": "http://sh.frp.one:36234/964438138",
@@ -1447,7 +1447,7 @@
       "title": "中超联赛",
       "keyword": "05月02日19:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "青岛青春足球场",
       "competitionName": "中超",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000569748/173603_H169_sc.jpg",
@@ -1659,11 +1659,11 @@
     },
     {
       "mgdbId": "120000571768",
-      "pID": "964438138",
+      "pID": "964437926",
       "title": "伦敦团体世乒赛：中国男团vs英格兰男团",
       "keyword": "05月02日19:30",
       "sportItemId": "7",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "伦敦团体世乒赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/02/77BT924LMFCG.jpg",
@@ -1676,16 +1676,16 @@
       },
       "nodes": [
         {
+          "pID": "964437926",
+          "name": "热身区"
+        },
+        {
           "pID": "964438138",
           "name": "周冠达 侯英超"
         },
         {
           "pID": "964438238",
           "name": "刘馨蕊"
-        },
-        {
-          "pID": "964437926",
-          "name": "热身区"
         },
         {
           "pID": "964511465",
@@ -2897,7 +2897,7 @@
         },
         {
           "url": "http://sh.frp.one:36234/964510899",
-          "name": "刘畅 张力"
+          "name": "拜仁慕尼���VS海登海姆 刘畅 张力"
         }
       ]
     },
