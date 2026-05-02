@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-05-02 07:32:29",
+  "updateTime": "2026-05-02 08:02:35",
   "data": [
     {
       "mgdbId": "120000571760",
@@ -305,6 +305,10 @@
           "name": "王冠证 陈正昊 魏欣怡"
         },
         {
+          "pID": "964512042",
+          "name": "同看"
+        },
+        {
           "pID": "964512171",
           "name": "英文原声"
         },
@@ -324,7 +328,7 @@
       "title": "咪咕体育日报 第97期",
       "keyword": "05月02日00:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "咪咕体育日报",
       "padImg": "",
@@ -963,6 +967,7 @@
     },
     {
       "mgdbId": "120000575696",
+      "pID": "964294414",
       "title": "BWF尤杯半决赛：重磅对决！中国女团迎战日本",
       "keyword": "05月02日16:00",
       "sportItemId": "6",
@@ -971,7 +976,7 @@
       "competitionName": "BWF",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
-      "pkInfoTitle": "中国 vs 日本",
+      "pkInfoTitle": "重磅对决！中国女团迎战日本",
       "modifyTitle": "BWF尤杯半决赛：重磅对决！中国女团迎战日本",
       "presenters": "",
       "matchInfo": {
@@ -979,32 +984,12 @@
       },
       "nodes": [
         {
-          "url": "http://sh.frp.one:36234/964438138",
-          "name": "周冠达 侯英超"
+          "pID": "964294414",
+          "name": "1号场地"
         },
         {
-          "url": "http://sh.frp.one:36234/964437926",
-          "name": "热身区"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964511400",
-          "name": "CCTV5＋"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964438005",
-          "name": "赛场原声"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964438262",
-          "name": "混采区"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964438287",
-          "name": "候场区"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964494883",
-          "name": "智能字幕"
+          "pID": "964299681",
+          "name": "1号场地英文解说"
         }
       ]
     },
@@ -1203,8 +1188,8 @@
           "name": "热身区"
         },
         {
-          "url": "http://sh.frp.one:36234/964511465",
-          "name": "CCTV5"
+          "url": "http://sh.frp.one:36234/964511400",
+          "name": "CCTV5＋"
         },
         {
           "url": "http://sh.frp.one:36234/964438005",
@@ -1600,6 +1585,34 @@
         },
         {
           "pID": "964494883",
+          "name": "智能字幕"
+        },
+        {
+          "url": "http://sh.frp.one:36234/964438138",
+          "name": "周冠达 侯英超"
+        },
+        {
+          "url": "http://sh.frp.one:36234/964437926",
+          "name": "热身区"
+        },
+        {
+          "url": "http://sh.frp.one:36234/964511465",
+          "name": "CCTV5"
+        },
+        {
+          "url": "http://sh.frp.one:36234/964438005",
+          "name": "赛场原声"
+        },
+        {
+          "url": "http://sh.frp.one:36234/964438262",
+          "name": "混采区"
+        },
+        {
+          "url": "http://sh.frp.one:36234/964438287",
+          "name": "候场区"
+        },
+        {
+          "url": "http://sh.frp.one:36234/964494883",
           "name": "智能字幕"
         }
       ]
