@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-05-03 15:02:34",
+  "updateTime": "2026-05-03 15:32:25",
   "data": [
     {
       "mgdbId": "120000542998",
@@ -842,10 +842,10 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "ATP",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/03/77BU3SJH5U17.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/03/77BU42QKD2B4.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/16/1000000003671066e6c8.jpg",
       "pkInfoTitle": "肖霖昂、曾姚杰轮番出战",
-      "modifyTitle": "曾姚杰、孙浅轮番出战",
+      "modifyTitle": "肖霖昂、曾姚杰轮番出战",
       "presenters": "",
       "matchInfo": {
         "time": "05月03日12:00"
@@ -872,7 +872,7 @@
     {
       "mgdbId": "120000575217",
       "pID": "964418320",
-      "title": "争冠时刻！女双决赛率先打响",
+      "title": "争冠时刻！女单上演巅峰对决",
       "keyword": "05月03日13:00",
       "sportItemId": "9",
       "matchStatus": "1",
@@ -880,8 +880,8 @@
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/03/77BU3OGA9KRR.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "争冠时刻！女双决赛率先打响",
-      "modifyTitle": "湖州国际女子网球公开赛Day7：女双决赛率先打响",
+      "pkInfoTitle": "争冠时刻！女单上演巅峰对决",
+      "modifyTitle": "湖州国际女子网球公开赛Day7：争冠时刻！女单上演巅峰对决",
       "presenters": "",
       "matchInfo": {
         "time": "05月03日13:00"
@@ -982,48 +982,12 @@
       ]
     },
     {
-      "mgdbId": "120000574682",
-      "pID": "964216640",
-      "title": "广东省城市足球超级联赛",
-      "keyword": "05月03日15:30",
-      "sportItemId": "1",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "粤超",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000574682/202604161019_661168_H169_1080.webp",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/16/100000001449106bbb98.png",
-      "pkInfoTitle": "茂名VS湛江",
-      "modifyTitle": "广东省城市足球超级联赛",
-      "presenters": "",
-      "matchInfo": {
-        "time": "05月03日15:30"
-      },
-      "nodes": [
-        {
-          "pID": "964216640",
-          "name": "2026赛季广东省城市足球超级联赛第二轮: 茂名VS湛江"
-        },
-        {
-          "pID": "964510706",
-          "name": "粤语"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964216640",
-          "name": "2026赛季广东省城市足球超级联赛第二轮:"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964510706",
-          "name": "粤语"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000574684",
       "pID": "964216659",
       "title": "广东省城市足球超级联赛",
-      "keyword": "05月03日16:00",
+      "keyword": "05月03日15:08",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "粤超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000574684/202604161020_236604_H169_1080.webp",
@@ -1032,7 +996,7 @@
       "modifyTitle": "广东省城市足球超级联赛",
       "presenters": "",
       "matchInfo": {
-        "time": "05月03日16:00"
+        "time": "05月03日15:08"
       },
       "nodes": [
         {
@@ -1049,6 +1013,42 @@
         },
         {
           "url": "http://sh.frp.one:36234/964510711",
+          "name": "粤语"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000574682",
+      "pID": "964216640",
+      "title": "广东省城市足球超级联赛",
+      "keyword": "05月03日15:10",
+      "sportItemId": "1",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "粤超",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000574682/202604161019_661168_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/16/100000001449106bbb98.png",
+      "pkInfoTitle": "茂名VS湛江",
+      "modifyTitle": "广东省城市足球超级联赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "05月03日15:10"
+      },
+      "nodes": [
+        {
+          "pID": "964216640",
+          "name": "2026赛季广东省城市足球超级联赛第二轮: 茂名VS湛江"
+        },
+        {
+          "pID": "964510706",
+          "name": "粤语"
+        },
+        {
+          "url": "http://sh.frp.one:36234/964216640",
+          "name": "2026赛季广东省城市足球超级联赛第二轮:"
+        },
+        {
+          "url": "http://sh.frp.one:36234/964510706",
           "name": "粤语"
         }
       ]
@@ -1386,7 +1386,7 @@
       "mgdbId": "120000570694",
       "pID": "964468816",
       "title": "中甲联赛",
-      "keyword": "05月03日19:00",
+      "keyword": "05月03���19:00",
       "sportItemId": "1",
       "matchStatus": "0",
       "matchField": "慈溪体育中心体育场",
@@ -1397,7 +1397,7 @@
       "modifyTitle": "中甲联赛",
       "presenters": "",
       "matchInfo": {
-        "time": "05月03日19:00"
+        "time": "05月03���19:00"
       },
       "nodes": [
         {
@@ -1623,6 +1623,10 @@
         {
           "pID": "964494925",
           "name": "智能字幕"
+        },
+        {
+          "pID": "964437434",
+          "name": "侯���超 程靖淇 周冠达"
         },
         {
           "pID": "964533692",
@@ -2151,7 +2155,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "斯诺克",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/03/77BU5S81CEEN.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/03/77BU411UPEAT.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "决赛：吴宜泽VS墨菲（第一阶段）",
       "modifyTitle": "斯诺克世锦赛决赛：吴宜泽VS墨菲（第一阶段）",
@@ -2654,7 +2658,11 @@
         },
         {
           "url": "http://sh.frp.one:36234/964511151",
-          "name": "欧塞尔VS昂热 盛斌"
+          "name": "盛斌"
+        },
+        {
+          "url": "http://sh.frp.one:36234/964511165",
+          "name": "赛场原声"
         }
       ]
     },
@@ -2723,10 +2731,6 @@
         {
           "url": "http://sh.frp.one:36234/964511108",
           "name": "刘一臻"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964511124",
-          "name": "赛场原声"
         }
       ]
     },
