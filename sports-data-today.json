@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-05-03 19:32:07",
+  "updateTime": "2026-05-03 20:04:07",
   "data": [
     {
       "mgdbId": "120000542998",
@@ -377,14 +377,6 @@
       },
       "nodes": [
         {
-          "pID": "964511126",
-          "name": "吴子越"
-        },
-        {
-          "pID": "964511111",
-          "name": "赛场原声"
-        },
-        {
           "url": "http://sh.frp.one:36234/964551554",
           "name": "全场回放（吴子越）"
         }
@@ -714,7 +706,7 @@
         },
         {
           "url": "http://sh.frp.one:36234/964555666",
-          "name": "桑托斯TKO严启慧 斯托利摔柔碾压赞��利 副赛全场回放（赛场原声）"
+          "name": "副赛全场回放（赛场原声）"
         },
         {
           "url": "http://sh.frp.one:36234/964555929",
@@ -935,7 +927,7 @@
       "title": "黄浦我来乒：全民狂欢盛会",
       "keyword": "05月03日13:30",
       "sportItemId": "7",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "乒乓球嘉年华",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/30/779RO22KGQ24.jpg",
@@ -947,10 +939,6 @@
         "time": "05月03日13:30"
       },
       "nodes": [
-        {
-          "pID": "964478934",
-          "name": "赛场原声"
-        },
         {
           "url": "http://sh.frp.one:36234/964478934",
           "name": "赛场原声"
@@ -1342,7 +1330,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "伦敦团体世乒赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/03/77BU57O3L7RO.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/03/77BU5A85B0P4.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/1/23/100000001402106b2354.png",
       "pkInfoTitle": "第六日热身区",
       "modifyTitle": "伦敦团体世乒赛第六日热身区",
@@ -1561,7 +1549,7 @@
         },
         {
           "url": "http://sh.frp.one:36234/964519296",
-          "name": "沈云怡"
+          "name": "托特��姆热刺女足VS伦敦城雌狮女足 沈云怡"
         },
         {
           "url": "http://sh.frp.one:36234/964519288",
@@ -1624,14 +1612,6 @@
       },
       "nodes": [
         {
-          "pID": "964468933",
-          "name": "解说"
-        },
-        {
-          "pID": "964468959",
-          "name": "赛场原声"
-        },
-        {
           "url": "http://sh.frp.one:36234/964468933",
           "name": "解说"
         },
@@ -1668,10 +1648,6 @@
           "name": "侯英超 程靖淇 周冠达"
         },
         {
-          "pID": "964437234",
-          "name": "热身区"
-        },
-        {
           "pID": "964437505",
           "name": "凌维康"
         },
@@ -1690,6 +1666,10 @@
         {
           "pID": "964437368",
           "name": "3号桌"
+        },
+        {
+          "pID": "964437234",
+          "name": "热身区"
         },
         {
           "pID": "964437556",
@@ -2047,7 +2027,7 @@
       "title": "CBA季后赛12进8",
       "keyword": "05月03日19:35",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "山东高速篮球馆",
       "competitionName": "CBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/02/77BT8EO5UC1Q.jpg",
@@ -2075,7 +2055,7 @@
       "title": "CBA季后赛12进8",
       "keyword": "05月03日19:35",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "东莞银行篮球中心",
       "competitionName": "CBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/03/77BU3ORUQ3UE.png",
@@ -2126,12 +2106,36 @@
       ]
     },
     {
+      "mgdbId": "120000575050",
+      "pID": "964361747",
+      "title": "武汉篮球城市超级联赛",
+      "keyword": "05月03日19:55",
+      "sportItemId": "2",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "城超",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000575050/202604221430_246232_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/22/1000000014551060d471.png",
+      "pkInfoTitle": "朔方集团海鹦vs湖北励信",
+      "modifyTitle": "武汉篮球城市超级联赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "05月03日19:55"
+      },
+      "nodes": [
+        {
+          "pID": "964361747",
+          "name": "2026赛季武汉篮球城市超级联赛小组循环赛\n第1轮: 朔方集团海鹦vs湖北励信"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000543840",
       "pID": "964511225",
       "title": "西甲联赛",
       "keyword": "05月03日20:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "巴莱多斯球场",
       "competitionName": "西甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000543840/413701_H169_sc.jpg",
@@ -2170,7 +2174,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "斯诺克",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/03/77BU513E9LU0.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/03/77BU5AP6Q7S1.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "决赛：吴宜泽VS墨菲（第一阶段）",
       "modifyTitle": "斯诺克世锦赛决赛：吴宜泽VS墨菲（第一阶段）",
@@ -2184,16 +2188,16 @@
           "name": "秦正 庞卫国"
         },
         {
+          "pID": "964534940",
+          "name": "庞卫国视角"
+        },
+        {
           "pID": "964185287",
           "name": "现场原声"
         },
         {
           "pID": "964532319",
           "name": "柏林"
-        },
-        {
-          "pID": "964534940",
-          "name": "庞卫国视角"
         },
         {
           "url": "http://sh.frp.one:36234/964477052",
@@ -2210,30 +2214,6 @@
         {
           "url": "http://sh.frp.one:36234/964534940",
           "name": "明星视角"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000575050",
-      "pID": "964361747",
-      "title": "武汉篮球城市超级联赛",
-      "keyword": "05月03日20:00",
-      "sportItemId": "2",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "城超",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000575050/202604221430_246232_H169_1080.webp",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/22/1000000014551060d471.png",
-      "pkInfoTitle": "朔方集团海鹦vs湖北励信",
-      "modifyTitle": "武汉篮球城市超级联赛",
-      "presenters": "",
-      "matchInfo": {
-        "time": "05月03日20:00"
-      },
-      "nodes": [
-        {
-          "pID": "964361747",
-          "name": "2026赛季武汉篮球城市超级联赛小组循环赛\n第1轮: 朔方集团海鹦vs湖北励信"
         }
       ]
     },
