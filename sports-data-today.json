@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-05-03 11:02:10",
+  "updateTime": "2026-05-03 11:32:28",
   "data": [
     {
       "mgdbId": "120000542998",
@@ -763,7 +763,7 @@
       "title": "武汉篮球城市超级联赛",
       "keyword": "05月03日10:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "城超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000575045/202604221425_210704_H169_1080.webp",
@@ -842,7 +842,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "ATP",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/03/77BU6OTGVRM4.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/03/77BU6CSVIJ32.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/16/1000000003671066e6c8.jpg",
       "pkInfoTitle": "肖霖昂、曾姚杰轮番出战",
       "modifyTitle": "无锡网球公开赛男单第一轮：肖霖昂、曾姚杰轮番出战",
@@ -862,6 +862,10 @@
         {
           "pID": "964554401",
           "name": "清流播出"
+        },
+        {
+          "url": "http://sh.frp.one:36234/964498256",
+          "name": "赛场原声"
         },
         {
           "url": "http://sh.frp.one:36234/964554352",
@@ -2747,6 +2751,38 @@
         {
           "url": "http://sh.frp.one:36234/964511239",
           "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000542996",
+      "pID": "120000542996",
+      "title": "尤文图斯 vs 维罗纳",
+      "keyword": "05月03日23:00",
+      "sportItemId": "",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "意甲",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/07/17/11005/8d73ebca565d491eb1ae6328e709f39e/8d73ebca565d491eb1ae6328e709f39e_H169_P1080_WEBP.webp",
+      "competitionLogo": "",
+      "pkInfoTitle": "尤文图斯 vs 维罗纳",
+      "modifyTitle": "尤文图斯 vs 维罗纳",
+      "presenters": "",
+      "matchInfo": {
+        "time": "05月03日23:00"
+      },
+      "nodes": [
+        {
+          "pID": "964511233",
+          "name": "吴桐 刘腾"
+        },
+        {
+          "pID": "964511211",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "964511253",
+          "name": "吴桐 刘腾"
         }
       ]
     },
