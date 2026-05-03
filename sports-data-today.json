@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-05-04 02:01:38",
+  "updateTime": "2026-05-04 02:31:26",
   "data": [
     {
       "mgdbId": "120000542996",
@@ -8,10 +8,10 @@
       "title": "意甲联赛",
       "keyword": "05月04日00:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Allianz Stadium",
       "competitionName": "意甲",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/30/779RPGQCR20U.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/04/77BV0MQ0A1I9.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png",
       "pkInfoTitle": "尤文图斯 vs 维罗纳",
       "modifyTitle": "意甲联赛",
@@ -34,7 +34,7 @@
         },
         {
           "url": "http://sh.frp.one:36234/964511233",
-          "name": "吴桐 刘腾"
+          "name": "尤文��斯VS维罗纳 吴桐 刘腾"
         },
         {
           "url": "http://sh.frp.one:36234/964511211",
@@ -55,7 +55,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "伦敦团体世乒赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/04/77BV0IJ1O4LU.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/04/77BV0SVA8FD2.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/1/23/100000001402106b2354.png",
       "pkInfoTitle": "勒布伦兄弟率法国男团迎战日本",
       "modifyTitle": "伦敦团体世乒赛小组赛A阶段",
@@ -67,10 +67,6 @@
         {
           "pID": "964437934",
           "name": "朱子恒"
-        },
-        {
-          "pID": "964437899",
-          "name": "3号桌"
         },
         {
           "pID": "964437918",
@@ -95,6 +91,10 @@
         {
           "pID": "964437857",
           "name": "1号桌"
+        },
+        {
+          "pID": "964437899",
+          "name": "3号桌"
         },
         {
           "pID": "964437782",
@@ -196,10 +196,10 @@
       "title": "西甲联赛",
       "keyword": "05月04日00:30",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "西甲",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000543841/251822_H169_sc.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000543841/175665_H169_sc.jpg",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/21/779JJMOFB20H.png",
       "pkInfoTitle": "皇家贝蒂斯 vs 皇家奥维耶多",
       "modifyTitle": "西甲联赛",
@@ -294,7 +294,7 @@
         },
         {
           "url": "http://sh.frp.one:36234/964511316",
-          "name": "苏东 徐阳 林梦鸽"
+          "name": "阿斯顿维拉VS托特纳姆���刺 苏东 徐阳 林梦鸽"
         },
         {
           "url": "http://sh.frp.one:36234/964511366",
@@ -308,22 +308,26 @@
     },
     {
       "mgdbId": "120000574353",
-      "pID": "964185298",
+      "pID": "964556685",
       "title": "斯诺克世锦赛决赛：吴宜泽VS墨菲（第二阶段）",
       "keyword": "05月04日02:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/03/77BU62EHJ6AF.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "决赛：吴宜泽VS墨菲（第二阶段）",
       "modifyTitle": "斯诺克世锦赛决赛：吴宜泽VS墨菲（第二阶段）",
-      "presenters": "乔迁 朱峰立",
+      "presenters": "朱峰立 乔迁",
       "matchInfo": {
         "time": "05月04日02:00"
       },
       "nodes": [
+        {
+          "pID": "964556685",
+          "name": "朱峰立"
+        },
         {
           "pID": "964185298",
           "name": "1号桌"
@@ -331,10 +335,6 @@
         {
           "pID": "964556677",
           "name": "乔迁"
-        },
-        {
-          "pID": "964556685",
-          "name": "朱峰立"
         },
         {
           "url": "http://sh.frp.one:36234/964185298",
@@ -372,7 +372,7 @@
       "title": "法甲联赛",
       "keyword": "05月04日02:45",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "Groupama Stadium",
       "competitionName": "法甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000542537/336070_H169_sc.jpg",
@@ -408,7 +408,7 @@
       "title": "意甲联赛",
       "keyword": "05月04日02:45",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "梅阿查/圣西罗球场",
       "competitionName": "意甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/30/779RPH3CLN6V.png",
@@ -1220,7 +1220,7 @@
       "competitionName": "中乙",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000572062/202603120946_543388_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/3/19/1000000011571066d376.png",
-      "pkInfoTitle": "北京理工 vs 青岛红狮",
+      "pkInfoTitle": "北京理工 vs 青岛���狮",
       "modifyTitle": "中乙联赛",
       "presenters": "",
       "matchInfo": {
