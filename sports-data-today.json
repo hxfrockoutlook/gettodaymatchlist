@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-05-04 19:01:42",
+  "updateTime": "2026-05-04 19:31:34",
   "data": [
     {
       "mgdbId": "120000542996",
@@ -607,7 +607,7 @@
     },
     {
       "mgdbId": "120000575648",
-      "pID": "964554425",
+      "pID": "964554369",
       "title": "崔杰、张天汇、特日格乐轮番出战",
       "keyword": "05月04日12:00",
       "sportItemId": "9",
@@ -624,12 +624,12 @@
       },
       "nodes": [
         {
-          "pID": "964554425",
-          "name": "4号场"
-        },
-        {
           "pID": "964554369",
           "name": "1号场"
+        },
+        {
+          "pID": "964554425",
+          "name": "4号场"
         },
         {
           "pID": "964498264",
@@ -791,7 +791,7 @@
       "title": "中乙联赛",
       "keyword": "05月04日15:30",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "汶河体育公园足球场",
       "competitionName": "中乙",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000572063/202605041800_170596_H169_1080.webp",
@@ -819,7 +819,7 @@
       "title": "中乙联赛",
       "keyword": "05月04日15:30",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "乐动力临港足球综合运动中心",
       "competitionName": "中乙",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000572064/202605041800_694397_H169_1080.webp",
@@ -867,7 +867,7 @@
     },
     {
       "mgdbId": "120000575055",
-      "pID": "964361868",
+      "pID": "964576794",
       "title": "武汉篮球城市超级联赛",
       "keyword": "05月04日16:00",
       "sportItemId": "2",
@@ -884,8 +884,8 @@
       },
       "nodes": [
         {
-          "pID": "964361868",
-          "name": "2026赛季武汉篮球城市超级联赛小组循环赛\n第1轮: 武汉惠联vs话事人"
+          "pID": "964576794",
+          "name": "2026武汉篮球城市超级联赛小组循环赛第1轮全场回放：武汉惠联vs话事人（赛场原声）"
         }
       ]
     },
@@ -898,7 +898,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "伦敦团体世乒赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/04/77BV21L1PQQ8.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/04/77BV2BM79D1L.gif",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/1/23/100000001402106b2354.png",
       "pkInfoTitle": "第七日热身区",
       "modifyTitle": "伦敦团体世乒赛第七日热身区",
@@ -909,7 +909,7 @@
       "nodes": [
         {
           "pID": "964438108",
-          "name": "国乒女团上训"
+          "name": "热身区"
         },
         {
           "url": "http://sh.frp.one:36234/964438108",
@@ -1003,16 +1003,16 @@
     },
     {
       "mgdbId": "120000571781",
-      "pID": "964438209",
-      "title": "孙颖莎率中国女团迎战波兰 中国香港男女团登场",
+      "pID": "964570582",
+      "title": "孙颖莎率中国女团迎战波兰 中国香港男团横扫朝鲜",
       "keyword": "05月04日17:00",
       "sportItemId": "7",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "伦敦团体世乒赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/04/77BV24BQL3VS.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/04/77BV2BMJ544T.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/1/23/100000001402106b2354.png",
-      "pkInfoTitle": "孙颖莎率中国女团迎战波兰 中国香港男女团登场",
+      "pkInfoTitle": "孙颖莎率中国女团迎战波兰 中国香港男团横扫朝鲜",
       "modifyTitle": "伦敦团体世乒赛：1/16决赛",
       "presenters": "刘国正 周雨 石楚阳 刘馨蕊 凌维康",
       "matchInfo": {
@@ -1020,16 +1020,24 @@
       },
       "nodes": [
         {
-          "pID": "964438209",
-          "name": "2号桌"
-        },
-        {
           "pID": "964570582",
           "name": "刘国正 周雨 石楚阳"
         },
         {
+          "pID": "964438209",
+          "name": "2号桌"
+        },
+        {
           "pID": "964438108",
-          "name": "国乒女团上训"
+          "name": "热身区"
+        },
+        {
+          "pID": "964558663",
+          "name": "CCTV5"
+        },
+        {
+          "pID": "964438189",
+          "name": "1号桌"
         },
         {
           "pID": "964438219",
@@ -1038,10 +1046,6 @@
         {
           "pID": "964438247",
           "name": "4号桌"
-        },
-        {
-          "pID": "964438189",
-          "name": "1号桌"
         },
         {
           "pID": "964494939",
@@ -1189,7 +1193,7 @@
         },
         {
           "url": "http://sh.frp.one:36234/964482193",
-          "name": "2026赛季贵州村超联赛友谊赛:"
+          "name": "深圳颖朗太阳能灯女队VS北京��合女子足球队 2026赛季贵州村超联赛友谊赛:"
         }
       ]
     },
@@ -1255,7 +1259,7 @@
       "title": "中乙联赛",
       "keyword": "05月04日19:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "汉口文体中心体育场",
       "competitionName": "中乙",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000572059/202603120946_513388_H169_1080.webp",
@@ -1283,7 +1287,7 @@
       "title": "中乙联赛",
       "keyword": "05月04日19:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "临平体育中心体育场",
       "competitionName": "中乙",
       "padImg": "",
@@ -1311,7 +1315,7 @@
       "title": "中乙联赛",
       "keyword": "05月04日19:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "珂缔缘赛事中心体育场",
       "competitionName": "中乙",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000572061/202603120947_310967_H169_1080.webp",
@@ -1342,7 +1346,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "伦敦团体世乒赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/04/77BV15A2E6FT.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/04/77BV2BJ10AK9.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/1/23/100000001402106b2354.png",
       "pkInfoTitle": "中国女团vs波兰女团",
       "modifyTitle": "伦敦团体世乒赛：中国女团vs波兰女团",
@@ -1361,7 +1365,7 @@
         },
         {
           "pID": "964438108",
-          "name": "国乒女团上训"
+          "name": "热身区"
         },
         {
           "pID": "964558663",
@@ -1415,7 +1419,7 @@
       "title": "中乙联赛",
       "keyword": "05月04日19:35",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "双流体育中心",
       "competitionName": "中乙",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000572058/202603120946_947886_H169_1080.webp",
@@ -1471,12 +1475,12 @@
       "title": "斯诺克世锦赛决赛：吴宜泽VS墨菲（第三阶段）",
       "keyword": "05月04日20:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/04/77BV2B4NGAU8.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "决赛：��宜泽VS墨菲（第三阶段）",
+      "pkInfoTitle": "决赛：吴宜泽VS墨菲（第三阶段）",
       "modifyTitle": "斯诺克世锦赛决赛：吴宜泽VS墨菲（第三阶段）",
       "presenters": "秦正 庞卫国 孙嘉星",
       "matchInfo": {
