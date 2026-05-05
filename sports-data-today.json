@@ -1,19 +1,19 @@
 {
   "success": true,
-  "updateTime": "2026-05-06 05:31:04",
+  "updateTime": "2026-05-06 06:01:13",
   "data": [
     {
       "mgdbId": "120000571785",
-      "pID": "964436795",
-      "title": "埃及女团vs斯洛伐克 雨果一单取两分晋级",
+      "pID": "964436776",
+      "title": "雨果一单取两分晋级 埃及女团3-2斯洛伐克",
       "keyword": "05月06日00:00",
       "sportItemId": "7",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "伦敦团体世乒赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/06/77C0RM5A9I2P.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/1/23/100000001402106b2354.png",
-      "pkInfoTitle": "埃及女团vs斯洛伐克 雨果一单取两分晋级",
+      "pkInfoTitle": "雨果一单取两分晋级 埃及女团3-2斯洛伐克",
       "modifyTitle": "伦敦团体世乒赛：1/16决赛",
       "presenters": "凌维康 周冠达",
       "matchInfo": {
@@ -21,16 +21,16 @@
       },
       "nodes": [
         {
-          "pID": "964436795",
-          "name": "凌维康 周冠达"
-        },
-        {
           "pID": "964436776",
           "name": "1号桌"
         },
         {
           "pID": "964437947",
           "name": "英文解说"
+        },
+        {
+          "pID": "964436795",
+          "name": "凌维康 周冠达"
         },
         {
           "pID": "964437887",
@@ -348,10 +348,6 @@
           "name": "杨健 曾令旭 苏群"
         },
         {
-          "url": "http://sh.frp.one:36234/964587671",
-          "name": "郑泽鹏"
-        },
-        {
           "url": "http://sh.frp.one:36234/964587685",
           "name": "洪荒"
         },
@@ -658,6 +654,50 @@
       ]
     },
     {
+      "mgdbId": "120000575861",
+      "pID": "964436871",
+      "title": "伦敦团体世乒赛：中国男团vs罗马尼亚男团",
+      "keyword": "05月06日17:00",
+      "sportItemId": "7",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "伦敦团体世乒赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/06/77C0R50LBIAQ.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/1/23/100000001402106b2354.png",
+      "pkInfoTitle": "中国男团vs罗马尼亚男团",
+      "modifyTitle": "伦敦团体世乒赛：中国男团vs罗马尼亚男团",
+      "presenters": "刘馨蕊 朱子恒",
+      "matchInfo": {
+        "time": "05月06日17:00"
+      },
+      "nodes": [
+        {
+          "pID": "964436871",
+          "name": "刘馨蕊 朱子恒"
+        },
+        {
+          "pID": "964436844",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "964437745",
+          "name": "英文解说"
+        },
+        {
+          "pID": "964437773",
+          "name": "热身区"
+        },
+        {
+          "pID": "964437615",
+          "name": "混采区"
+        },
+        {
+          "pID": "964437561",
+          "name": "候场区"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000575417",
       "pID": "964580614",
       "title": "国青男篮热身赛",
@@ -742,6 +782,54 @@
         {
           "pID": "964500450",
           "name": "李嘉伟"
+        },
+        {
+          "url": "http://sh.frp.one:36234/964500450",
+          "name": "李嘉伟"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000575862",
+      "pID": "964436871",
+      "title": "伦敦团体世乒赛：中国女团 vs 瑞典女团",
+      "keyword": "05月06日19:30",
+      "sportItemId": "7",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "伦敦团体世乒赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/06/77C0R4GPB6RP.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/1/23/100000001402106b2354.png",
+      "pkInfoTitle": "中国女团 vs 瑞典女团",
+      "modifyTitle": "伦敦团体世乒赛：中国女团 vs 瑞典女团",
+      "presenters": "朱子恒 刘馨蕊",
+      "matchInfo": {
+        "time": "05月06日19:30"
+      },
+      "nodes": [
+        {
+          "pID": "964436871",
+          "name": "刘馨蕊 朱子恒"
+        },
+        {
+          "pID": "964436844",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "964437745",
+          "name": "英文解说"
+        },
+        {
+          "pID": "964437773",
+          "name": "热身区"
+        },
+        {
+          "pID": "964437615",
+          "name": "混采区"
+        },
+        {
+          "pID": "964437561",
+          "name": "候场区"
         }
       ]
     },
