@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-05-06 00:01:34",
+  "updateTime": "2026-05-06 00:31:21",
   "data": [
     {
       "mgdbId": "120000571785",
@@ -29,8 +29,8 @@
           "name": "热身区"
         },
         {
-          "pID": "964436776",
-          "name": "1号桌"
+          "pID": "964437887",
+          "name": "4号桌"
         },
         {
           "pID": "964437922",
@@ -41,8 +41,8 @@
           "name": "3号桌"
         },
         {
-          "pID": "964437887",
-          "name": "4号桌"
+          "pID": "964436776",
+          "name": "1号桌"
         },
         {
           "pID": "964437815",
@@ -131,40 +131,12 @@
       ]
     },
     {
-      "mgdbId": "120000575784",
-      "pID": "964588644",
-      "title": "WTA1000罗马站女单第一轮：李吉妮 vs 张帅",
-      "keyword": "05月06日00:05",
-      "sportItemId": "9",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "WTA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/05/77BVUK1DDQVL.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "李吉妮 vs 张帅",
-      "modifyTitle": "WTA1000罗马站女单第一轮：李吉妮 vs 张帅",
-      "presenters": "胡力涛",
-      "matchInfo": {
-        "time": "05月06日00:05"
-      },
-      "nodes": [
-        {
-          "pID": "964588644",
-          "name": "清流播出"
-        },
-        {
-          "pID": "964588648",
-          "name": "胡力涛"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000575446",
       "pID": "964518884",
       "title": "U17亚洲杯小组赛",
       "keyword": "05月06日00:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "阿卜杜拉国王体育城A号场 (明星)",
       "competitionName": "U17亚洲杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000575446/881835_H169_sc.jpg",
@@ -191,6 +163,34 @@
         {
           "url": "http://sh.frp.one:36234/964518951",
           "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000575784",
+      "pID": "964588644",
+      "title": "WTA1000罗马站女单第一轮：李吉妮 vs 张帅",
+      "keyword": "05月06日00:35",
+      "sportItemId": "9",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "WTA",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/05/77BVUK1DDQVL.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
+      "pkInfoTitle": "李吉妮 vs 张帅",
+      "modifyTitle": "WTA1000罗马站女单第一轮：李吉妮 vs 张帅",
+      "presenters": "胡力涛",
+      "matchInfo": {
+        "time": "05月06日00:35"
+      },
+      "nodes": [
+        {
+          "pID": "964588644",
+          "name": "清流播出"
+        },
+        {
+          "pID": "964588648",
+          "name": "胡力涛"
         }
       ]
     },
