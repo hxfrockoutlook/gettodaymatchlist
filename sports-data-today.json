@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-05-05 13:31:49",
+  "updateTime": "2026-05-05 14:01:50",
   "data": [
     {
       "mgdbId": "120000571782",
@@ -150,7 +150,7 @@
         },
         {
           "url": "http://sh.frp.one:36234/964583666",
-          "name": "【回放】肖恩·墨菲17-18吴宜泽（第四阶段）（柏林）"
+          "name": "���恩·墨菲VS吴宜泽 【回放】肖恩·墨菲17-18吴宜泽（第四阶段）（柏林）"
         },
         {
           "url": "http://sh.frp.one:36234/964584094",
@@ -397,7 +397,7 @@
         },
         {
           "url": "http://sh.frp.one:36234/964574021",
-          "name": "智能字幕"
+          "name": "���能字幕"
         }
       ]
     },
@@ -459,7 +459,7 @@
       "title": "武汉篮球城市超级联赛",
       "keyword": "05月05日12:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "城超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000575027/202604221410_120681_H169_1080.webp",
@@ -583,7 +583,7 @@
       "title": "武汉篮球城市超级联赛",
       "keyword": "05月05日14:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "城超",
       "padImg": "",
@@ -1053,7 +1053,7 @@
         },
         {
           "url": "http://sh.frp.one:36234/964437968",
-          "name": "候场区"
+          "name": "王楚钦率中国男团争晋级 日本女���vs克罗地亚 候场区"
         },
         {
           "url": "http://sh.frp.one:36234/964438030",
@@ -1126,10 +1126,6 @@
         {
           "url": "http://sh.frp.one:36234/964438030",
           "name": "混采区"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964437968",
-          "name": "候场区"
         },
         {
           "url": "http://sh.frp.one:36234/964494955",
@@ -1768,6 +1764,62 @@
         "time": "05月05日22:00"
       },
       "nodes": []
+    },
+    {
+      "mgdbId": "120000571785",
+      "pID": "120000571785",
+      "title": "倪夏莲率卢森堡女团出战 瑞典男团vs匈牙利",
+      "keyword": "05月05日23:00",
+      "sportItemId": "",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "伦敦团体世乒赛",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2026/04/09/11005/9361574e9f684966b582a73e0c193ade/9361574e9f684966b582a73e0c193ade_H169_P1080_WEBP.webp",
+      "competitionLogo": "",
+      "pkInfoTitle": "倪夏莲率卢森堡女团出战 瑞典男团vs匈牙利",
+      "modifyTitle": "倪夏莲率卢森堡女团出战 瑞典男团vs匈牙利",
+      "presenters": "",
+      "matchInfo": {
+        "time": "05月05日23:00"
+      },
+      "nodes": [
+        {
+          "pID": "964436795",
+          "name": "凌维康 周冠达"
+        },
+        {
+          "pID": "964438171",
+          "name": "热身区"
+        },
+        {
+          "pID": "964436776",
+          "name": "1号桌"
+        },
+        {
+          "pID": "964437922",
+          "name": "2号桌"
+        },
+        {
+          "pID": "964437906",
+          "name": "3号桌"
+        },
+        {
+          "pID": "964437887",
+          "name": "4号桌"
+        },
+        {
+          "pID": "964437815",
+          "name": "混采区"
+        },
+        {
+          "pID": "964437800",
+          "name": "候场区"
+        },
+        {
+          "pID": "964437947",
+          "name": "英文解说"
+        }
+      ]
     }
   ]
 }
