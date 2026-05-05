@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-05-05 18:02:02",
+  "updateTime": "2026-05-05 18:31:57",
   "data": [
     {
       "mgdbId": "120000571782",
@@ -851,7 +851,7 @@
       "title": "中乙联赛",
       "keyword": "05月05日16:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "深圳青少年足球训练基地中心场",
       "competitionName": "中乙",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000572055/202603120946_707470_H169_1080.webp",
@@ -879,7 +879,7 @@
       "title": "中乙联赛",
       "keyword": "05月05日16:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "亚泰训练基地主体育场",
       "competitionName": "中乙",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000572056/202603120946_166582_H169_1080.webp",
@@ -934,7 +934,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "伦敦团体世乒赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/05/77BVUT2NTD9J.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/05/77BVV36A1POE.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/1/23/100000001402106b2354.png",
       "pkInfoTitle": "第八日热身区",
       "modifyTitle": "伦敦团体世乒赛第八日热身区",
@@ -959,7 +959,7 @@
       "title": "贵州村超联赛",
       "keyword": "05月05日16:30",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "贵州村超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000575632/202604291711_655718_H169_1080.webp",
@@ -990,7 +990,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "伦敦团体世乒赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/05/77BVUT256Q5M.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/05/77BVV5SRT1JN.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/1/23/100000001402106b2354.png",
       "pkInfoTitle": "王楚钦率中国男团争晋级 日本女团vs克罗地亚",
       "modifyTitle": "伦敦团体世乒赛：1/16决赛",
@@ -1004,36 +1004,20 @@
           "name": "侯英超 程靖淇 周泽昊"
         },
         {
-          "pID": "964436729",
-          "name": "凌维康 刘馨蕊"
-        },
-        {
-          "pID": "964438092",
-          "name": "3号桌"
-        },
-        {
-          "pID": "964576607",
-          "name": "CCTV5"
+          "pID": "964438030",
+          "name": "混采区"
         },
         {
           "pID": "964438171",
           "name": "热身区"
         },
         {
-          "pID": "964436712",
-          "name": "1号桌"
-        },
-        {
-          "pID": "964438114",
-          "name": "2号桌"
-        },
-        {
           "pID": "964438062",
           "name": "4号桌"
         },
         {
-          "pID": "964438030",
-          "name": "混采区"
+          "pID": "964436712",
+          "name": "1号桌"
         },
         {
           "pID": "964437968",
@@ -1044,8 +1028,24 @@
           "name": "智能字幕"
         },
         {
+          "pID": "964436729",
+          "name": "凌维康 刘馨蕊"
+        },
+        {
+          "pID": "964438114",
+          "name": "2号桌"
+        },
+        {
+          "pID": "964438092",
+          "name": "3号桌"
+        },
+        {
+          "pID": "964576607",
+          "name": "CCTV5"
+        },
+        {
           "url": "http://sh.frp.one:36234/964570619",
-          "name": "王楚钦率中国��团争晋级 日本女团vs克罗地亚 侯英超 程靖淇 周泽昊"
+          "name": "侯英超 程靖淇 周泽昊"
         },
         {
           "url": "http://sh.frp.one:36234/964436729",
@@ -1098,7 +1098,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "伦敦团体世乒赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/05/77BVUTD31E8P.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/05/77BVV5Q1UL31.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/1/23/100000001402106b2354.png",
       "pkInfoTitle": "中国男团vs澳大利亚男团",
       "modifyTitle": "伦敦团体世乒赛：中国男团vs澳大利亚男团",
@@ -1116,6 +1116,14 @@
           "name": "热身区"
         },
         {
+          "pID": "964438030",
+          "name": "混采区"
+        },
+        {
+          "pID": "964437968",
+          "name": "候场区"
+        },
+        {
           "pID": "964576607",
           "name": "CCTV5"
         },
@@ -1126,14 +1134,6 @@
         {
           "pID": "964494955",
           "name": "智能字幕"
-        },
-        {
-          "pID": "964438030",
-          "name": "混采区"
-        },
-        {
-          "pID": "964437968",
-          "name": "候场区"
         },
         {
           "url": "http://sh.frp.one:36234/964570619",
@@ -1245,9 +1245,9 @@
       "mgdbId": "120000575783",
       "pID": "964588595",
       "title": "WTA1000罗马站女单第一轮：邦达尔 vs 郑钦文",
-      "keyword": "05月05日18:20",
+      "keyword": "05月05日18:27",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/05/77BVTOF952GF.jpg",
@@ -1256,7 +1256,7 @@
       "modifyTitle": "WTA1000罗马站女单第一轮：邦达尔 vs 郑钦文",
       "presenters": "房朕",
       "matchInfo": {
-        "time": "05月05日18:20"
+        "time": "05月05日18:27"
       },
       "nodes": [
         {
@@ -1283,7 +1283,7 @@
       "title": "贵州村超联赛",
       "keyword": "05月05日18:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "贵州村超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000575633/202604291708_313613_H169_1080.webp",
@@ -1495,7 +1495,7 @@
       "title": "中超联赛",
       "keyword": "05月05日19:35",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "济南奥体中心体育场",
       "competitionName": "中超",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000569744/659193_H169_sc.jpg",
