@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-05-05 23:02:14",
+  "updateTime": "2026-05-05 23:32:28",
   "data": [
     {
       "mgdbId": "120000571782",
@@ -777,7 +777,7 @@
       "mgdbId": "120000572057",
       "pID": "964492513",
       "title": "中乙联赛",
-      "keyword": "05���05日15:00",
+      "keyword": "05月05日15:00",
       "sportItemId": "1",
       "matchStatus": "2",
       "matchField": "普湾体育场",
@@ -788,7 +788,7 @@
       "modifyTitle": "中乙联赛",
       "presenters": "",
       "matchInfo": {
-        "time": "05���05日15:00"
+        "time": "05月05日15:00"
       },
       "nodes": [
         {
@@ -1165,7 +1165,7 @@
         },
         {
           "url": "http://sh.frp.one:36234/964438030",
-          "name": "国乒男��零封澳大利亚 中国台北女团争晋级 混采区"
+          "name": "混采区"
         },
         {
           "url": "http://sh.frp.one:36234/964437968",
@@ -1898,46 +1898,10 @@
       ]
     },
     {
-      "mgdbId": "120000575784",
-      "pID": "964588644",
-      "title": "WTA1000罗马站女单第一轮：李吉妮 vs 张帅",
-      "keyword": "05月05日23:15",
-      "sportItemId": "9",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "WTA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/05/77BVUK1DDQVL.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "李吉妮 vs 张帅",
-      "modifyTitle": "WTA1000罗马站女单第一轮：李吉妮 vs 张帅",
-      "presenters": "胡力涛",
-      "matchInfo": {
-        "time": "05月05日23:15"
-      },
-      "nodes": [
-        {
-          "pID": "964588644",
-          "name": "清流播出"
-        },
-        {
-          "pID": "964588648",
-          "name": "胡力涛"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964588644",
-          "name": "清流播出"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964588648",
-          "name": "胡力涛"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000571785",
       "pID": "120000571785",
       "title": "倪夏莲率卢森堡女团出战 瑞典男团vs匈牙利",
-      "keyword": "05月05日22:41",
+      "keyword": "05月05日23:00",
       "sportItemId": "",
       "matchStatus": "2",
       "matchField": "",
@@ -1948,7 +1912,7 @@
       "modifyTitle": "倪夏莲率卢森堡女团出战 瑞典男团vs匈牙利",
       "presenters": "",
       "matchInfo": {
-        "time": "05月05日22:41"
+        "time": "05月05日23:00"
       },
       "nodes": [
         {
@@ -1986,6 +1950,42 @@
         {
           "pID": "964437947",
           "name": "英文解说"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000575784",
+      "pID": "120000575784",
+      "title": "李吉妮 vs 张帅",
+      "keyword": "05月05日23:15",
+      "sportItemId": "",
+      "matchStatus": "2",
+      "matchField": "",
+      "competitionName": "WTA",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/07/08/11005/25eab3e85d48452f9f639282bebcebd1/25eab3e85d48452f9f639282bebcebd1_H169_P1080_WEBP.webp",
+      "competitionLogo": "",
+      "pkInfoTitle": "李吉妮 vs 张帅",
+      "modifyTitle": "李吉妮 vs 张帅",
+      "presenters": "",
+      "matchInfo": {
+        "time": "05月05日23:15"
+      },
+      "nodes": [
+        {
+          "pID": "964588644",
+          "name": "清流播出"
+        },
+        {
+          "pID": "964588648",
+          "name": "胡力涛"
+        },
+        {
+          "url": "http://sh.frp.one:36234/964588644",
+          "name": "清流播出"
+        },
+        {
+          "url": "http://sh.frp.one:36234/964588648",
+          "name": "胡力涛"
         }
       ]
     }
