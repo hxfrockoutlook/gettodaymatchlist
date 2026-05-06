@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-05-06 08:01:19",
+  "updateTime": "2026-05-06 08:31:10",
   "data": [
     {
       "mgdbId": "120000571785",
@@ -311,7 +311,7 @@
       "title": "NBA季后赛",
       "keyword": "05月06日08:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "Paycom中心",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/05/77BVU7T5J1MG.png",
@@ -326,6 +326,10 @@
         {
           "pID": "964587646",
           "name": "杨健 曾令旭 苏群"
+        },
+        {
+          "pID": "964587525",
+          "name": "同看"
         },
         {
           "pID": "964587671",
@@ -346,10 +350,6 @@
         {
           "url": "http://sh.frp.one:36234/964587646",
           "name": "杨健 曾令旭 苏群"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964587671",
-          "name": "郑泽鹏"
         },
         {
           "url": "http://sh.frp.one:36234/964587685",
@@ -680,6 +680,10 @@
           "name": "刘馨蕊 朱子恒"
         },
         {
+          "pID": "964576713",
+          "name": "CCTV5"
+        },
+        {
           "pID": "964436844",
           "name": "赛场原声"
         },
@@ -786,6 +790,10 @@
         {
           "pID": "964500450",
           "name": "李嘉伟"
+        },
+        {
+          "url": "http://sh.frp.one:36234/964500450",
+          "name": "李嘉伟"
         }
       ]
     },
@@ -810,6 +818,10 @@
         {
           "pID": "964436871",
           "name": "刘馨蕊 朱子恒"
+        },
+        {
+          "pID": "964576734",
+          "name": "CCTV5"
         },
         {
           "pID": "964436844",
