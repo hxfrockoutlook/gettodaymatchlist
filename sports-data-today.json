@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-05-06 11:31:15",
+  "updateTime": "2026-05-06 12:01:20",
   "data": [
     {
       "mgdbId": "120000571785",
@@ -395,7 +395,7 @@
       "title": "汤杯经典重映-中国 vs 澳大利亚",
       "keyword": "05月06日12:00",
       "sportItemId": "6",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "BWF",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/04/77BV24VC4FVJ.jpg",
@@ -530,11 +530,19 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/1/23/100000001402106b2354.png",
       "pkInfoTitle": "王楚钦率男团出战 孙颖莎领衔女团冲8强",
       "modifyTitle": "伦敦团体世乒赛：1/8决赛",
-      "presenters": "刘馨蕊 朱子恒 刘国正 周雨 周泽昊 侯英超 程靖淇 周冠达",
+      "presenters": "刘国正 周雨 周泽昊 侯英超 程靖淇 周冠达 刘馨蕊 朱子恒",
       "matchInfo": {
         "time": "05月06日17:00"
       },
       "nodes": [
+        {
+          "pID": "964604925",
+          "name": "刘国正 周雨 周泽昊"
+        },
+        {
+          "pID": "964604950",
+          "name": "侯英超 程靖淇 周冠达"
+        },
         {
           "pID": "964436871",
           "name": "刘馨蕊 朱子恒"
@@ -574,14 +582,6 @@
         {
           "pID": "964494988",
           "name": "智能字幕"
-        },
-        {
-          "pID": "964604925",
-          "name": "刘国正 周雨 周泽昊"
-        },
-        {
-          "pID": "964604950",
-          "name": "侯英超 程靖淇 周冠达"
         },
         {
           "url": "http://sh.frp.one:36234/964436871",
@@ -663,7 +663,7 @@
     },
     {
       "mgdbId": "120000575861",
-      "pID": "964436871",
+      "pID": "964604925",
       "title": "伦敦团体世乒赛：中国男团vs罗马尼亚男团",
       "keyword": "05月06日17:00",
       "sportItemId": "7",
@@ -674,14 +674,18 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/1/23/100000001402106b2354.png",
       "pkInfoTitle": "中国男团vs罗马尼亚男团",
       "modifyTitle": "伦敦团体世乒赛：中国男团vs罗马尼亚男团",
-      "presenters": "刘馨蕊 朱子恒",
+      "presenters": "刘国正 周雨 周泽昊",
       "matchInfo": {
         "time": "05月06日17:00"
       },
       "nodes": [
         {
-          "pID": "964436871",
-          "name": "刘馨蕊 朱子恒"
+          "pID": "964604925",
+          "name": "刘国正 周雨 周泽昊"
+        },
+        {
+          "pID": "964437773",
+          "name": "热身区"
         },
         {
           "pID": "964576713",
@@ -694,10 +698,6 @@
         {
           "pID": "964437745",
           "name": "英文解说"
-        },
-        {
-          "pID": "964437773",
-          "name": "热身区"
         },
         {
           "pID": "964437615",
@@ -831,7 +831,7 @@
     },
     {
       "mgdbId": "120000575862",
-      "pID": "964436871",
+      "pID": "964604950",
       "title": "伦敦团体世乒赛：中国女团 vs 瑞典女团",
       "keyword": "05月06日19:30",
       "sportItemId": "7",
@@ -842,14 +842,18 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/1/23/100000001402106b2354.png",
       "pkInfoTitle": "中国女团 vs 瑞典女团",
       "modifyTitle": "伦敦团体世乒赛：中国女团 vs 瑞典女团",
-      "presenters": "朱子恒 刘馨蕊",
+      "presenters": "侯英超 程靖淇 周冠达",
       "matchInfo": {
         "time": "05月06日19:30"
       },
       "nodes": [
         {
-          "pID": "964436871",
-          "name": "刘馨蕊 朱子恒"
+          "pID": "964604950",
+          "name": "侯英超 程靖淇 周冠达"
+        },
+        {
+          "pID": "964437773",
+          "name": "热身区"
         },
         {
           "pID": "964576734",
@@ -862,10 +866,6 @@
         {
           "pID": "964437745",
           "name": "英文解说"
-        },
-        {
-          "pID": "964437773",
-          "name": "热身区"
         },
         {
           "pID": "964437615",
