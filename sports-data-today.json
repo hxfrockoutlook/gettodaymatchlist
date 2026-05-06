@@ -1,10 +1,10 @@
 {
   "success": true,
-  "updateTime": "2026-05-07 04:31:06",
+  "updateTime": "2026-05-07 05:01:19",
   "data": [
     {
       "mgdbId": "120000571788",
-      "pID": "964437438",
+      "pID": "964437468",
       "title": "瑞典男团横扫晋级 中国香港男团止步",
       "keyword": "05月07日00:00",
       "sportItemId": "7",
@@ -21,12 +21,24 @@
       },
       "nodes": [
         {
+          "pID": "964437468",
+          "name": "2号桌"
+        },
+        {
           "pID": "964437438",
           "name": "3号桌"
         },
         {
-          "pID": "964437468",
-          "name": "2号桌"
+          "pID": "964436996",
+          "name": "1号桌"
+        },
+        {
+          "pID": "964437018",
+          "name": "凌维康 肖扬"
+        },
+        {
+          "pID": "964437426",
+          "name": "4号桌"
         },
         {
           "pID": "964437773",
@@ -43,18 +55,6 @@
         {
           "pID": "964437502",
           "name": "英文解说"
-        },
-        {
-          "pID": "964436996",
-          "name": "1号桌"
-        },
-        {
-          "pID": "964437018",
-          "name": "凌维康 肖扬"
-        },
-        {
-          "pID": "964437426",
-          "name": "4号桌"
         },
         {
           "url": "http://sh.frp.one:36234/964437018",
@@ -136,7 +136,7 @@
       "title": "U17亚洲杯小组赛",
       "keyword": "05月07日01:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "阿卜杜拉国王体育城室外体育场 (传奇)",
       "competitionName": "U17亚洲杯",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000575442/202604281836_815972_H169_1080.webp",
@@ -354,34 +354,6 @@
         {
           "url": "http://sh.frp.one:36234/964607995",
           "name": "智能字幕"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000575721",
-      "pID": "964535039",
-      "title": "江西网球公开赛Day4",
-      "keyword": "05月07日11:00",
-      "sportItemId": "9",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "WTA",
-      "padImg": "",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "江西网球公开赛Day4",
-      "modifyTitle": "江西网球公开赛Day4",
-      "presenters": "",
-      "matchInfo": {
-        "time": "05月07日11:00"
-      },
-      "nodes": [
-        {
-          "pID": "964535039",
-          "name": "清流播出"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964535039",
-          "name": "清流播出"
         }
       ]
     },
@@ -798,7 +770,7 @@
     {
       "mgdbId": "120000571761",
       "pID": "120000571761",
-      "title": "女团1/4决赛",
+      "title": "德国女团 vs 中国香港女团",
       "keyword": "05月07日23:00",
       "sportItemId": "",
       "matchStatus": "0",
@@ -806,7 +778,7 @@
       "competitionName": "伦敦团体世乒赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2026/04/09/11005/9361574e9f684966b582a73e0c193ade/9361574e9f684966b582a73e0c193ade_H169_P1080_WEBP.webp",
       "competitionLogo": "",
-      "pkInfoTitle": "女团1/4决赛",
+      "pkInfoTitle": "德国女团 vs 中国香港女团",
       "modifyTitle": "女团1/4决赛",
       "presenters": "",
       "matchInfo": {
