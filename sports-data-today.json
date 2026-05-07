@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-05-07 11:01:06",
+  "updateTime": "2026-05-07 11:31:09",
   "data": [
     {
       "mgdbId": "120000571788",
@@ -419,7 +419,7 @@
     },
     {
       "mgdbId": "120000571754",
-      "pID": "964437164",
+      "pID": "964630647",
       "title": "伦敦团体世乒赛：中国女团 vs 韩国女团",
       "keyword": "05月07日17:00",
       "sportItemId": "7",
@@ -430,11 +430,15 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/1/23/100000001402106b2354.png",
       "pkInfoTitle": "中国女团vs韩国女团",
       "modifyTitle": "伦敦团体世乒赛：中国女团 vs 韩国女团",
-      "presenters": "马特 侯英超 程靖淇 周冠达",
+      "presenters": "侯英超 程靖淇 周冠达 马特",
       "matchInfo": {
         "time": "05月07日17:00"
       },
       "nodes": [
+        {
+          "pID": "964630647",
+          "name": "侯英超 程靖淇 周冠达"
+        },
         {
           "pID": "964437057",
           "name": "马特"
@@ -464,10 +468,6 @@
           "name": "AI智慧观赛"
         },
         {
-          "pID": "964630647",
-          "name": "侯英超 程靖淇 周冠达"
-        },
-        {
           "url": "http://sh.frp.one:36234/964437057",
           "name": "马特"
         },
@@ -481,7 +481,7 @@
         },
         {
           "url": "http://sh.frp.one:36234/964437116",
-          "name": "混采区"
+          "name": "中���女团VS韩国女团 混采区"
         },
         {
           "url": "http://sh.frp.one:36234/964437086",
@@ -649,7 +649,7 @@
         },
         {
           "url": "http://sh.frp.one:36234/964533153",
-          "name": "候场���"
+          "name": "候场区"
         },
         {
           "url": "http://sh.frp.one:36234/964533543",
