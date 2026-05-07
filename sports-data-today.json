@@ -1,14 +1,14 @@
 {
   "success": true,
-  "updateTime": "2026-05-08 03:01:09",
+  "updateTime": "2026-05-08 03:30:56",
   "data": [
     {
       "mgdbId": "120000571761",
-      "pID": "964436742",
+      "pID": "964436825",
       "title": "伦敦团体世乒赛：德国女团 vs 中国香港女团",
       "keyword": "05月08日00:00",
       "sportItemId": "7",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "伦敦团体世乒赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/08/77C2LC6KBOV6.jpg",
@@ -21,16 +21,20 @@
       },
       "nodes": [
         {
+          "pID": "964436825",
+          "name": "混采区"
+        },
+        {
           "pID": "964436742",
           "name": "赛场原声"
         },
         {
-          "pID": "964437164",
-          "name": "热身区"
+          "pID": "964436756",
+          "name": "刘馨蕊"
         },
         {
-          "pID": "964436825",
-          "name": "混采区"
+          "pID": "964437164",
+          "name": "热身区"
         },
         {
           "pID": "964436849",
@@ -39,10 +43,6 @@
         {
           "pID": "964436718",
           "name": "英文解说"
-        },
-        {
-          "pID": "964436756",
-          "name": "刘馨蕊"
         },
         {
           "url": "http://sh.frp.one:36234/964436756",
@@ -261,7 +261,7 @@
         },
         {
           "url": "http://sh.frp.one:36234/964632847",
-          "name": "齐��赛场展风姿！首日资格赛打响 3D全真视频"
+          "name": "3D全真视频"
         },
         {
           "url": "http://sh.frp.one:36234/964632856",
