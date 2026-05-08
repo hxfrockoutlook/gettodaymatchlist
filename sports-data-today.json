@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-05-09 01:32:01",
+  "updateTime": "2026-05-09 02:02:03",
   "data": [
     {
       "mgdbId": "120000571767",
@@ -76,7 +76,7 @@
       "title": "德甲联赛",
       "keyword": "05月09日02:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "多特蒙德球场",
       "competitionName": "德甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000542745/518153_H169_sc.jpg",
@@ -1280,8 +1280,12 @@
           "name": "候场区"
         },
         {
-          "pID": "964533485",
-          "name": "英文解说"
+          "pID": "964453993",
+          "name": "AI智慧观赛"
+        },
+        {
+          "pID": "964495024",
+          "name": "智能字幕"
         },
         {
           "url": "http://sh.frp.one:36234/964533570",
@@ -1935,6 +1939,14 @@
         },
         {
           "pID": "964636578",
+          "name": "赛场原声"
+        },
+        {
+          "url": "http://sh.frp.one:36234/964636588",
+          "name": "吴子越"
+        },
+        {
+          "url": "http://sh.frp.one:36234/964636578",
           "name": "赛场原声"
         }
       ]
