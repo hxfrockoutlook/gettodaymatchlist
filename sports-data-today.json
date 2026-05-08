@@ -1,14 +1,14 @@
 {
   "success": true,
-  "updateTime": "2026-05-09 03:02:00",
+  "updateTime": "2026-05-09 03:31:55",
   "data": [
     {
       "mgdbId": "120000571767",
-      "pID": "964437179",
+      "pID": "964437224",
       "title": "伦敦团体世乒赛：法国女团 vs 罗马尼亚女团",
       "keyword": "05月09日00:00",
       "sportItemId": "7",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "伦敦团体世乒赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/09/77C3I2SB7S80.jpg",
@@ -21,6 +21,10 @@
       },
       "nodes": [
         {
+          "pID": "964437224",
+          "name": "混采区"
+        },
+        {
           "pID": "964437179",
           "name": "肖扬"
         },
@@ -31,10 +35,6 @@
         {
           "pID": "964437166",
           "name": "赛场原声"
-        },
-        {
-          "pID": "964437224",
-          "name": "混采区"
         },
         {
           "pID": "964437240",
@@ -116,25 +116,45 @@
     },
     {
       "mgdbId": "120000571769",
-      "pID": "964436925",
+      "pID": "964533604",
       "title": "伦敦团体世乒赛：巴西男团 vs 法国男团",
       "keyword": "05月09日02:30",
       "sportItemId": "7",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "伦敦团体世乒赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/07/77C1PBN66KE9.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/09/77C3IM106BKN.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/1/23/100000001402106b2354.png",
       "pkInfoTitle": "巴西男团vs法国男团",
       "modifyTitle": "伦敦团体世乒赛：巴西男团 vs 法国男团",
-      "presenters": "",
+      "presenters": "凌维康",
       "matchInfo": {
         "time": "05月09日02:30"
       },
       "nodes": [
         {
+          "pID": "964533604",
+          "name": "凌维康"
+        },
+        {
           "pID": "964436925",
           "name": "热身区"
+        },
+        {
+          "pID": "964533415",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "964533263",
+          "name": "混采区"
+        },
+        {
+          "pID": "964533339",
+          "name": "候场区"
+        },
+        {
+          "pID": "964533494",
+          "name": "英文解说"
         },
         {
           "url": "http://sh.frp.one:36234/964533604",
