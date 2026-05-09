@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-05-10 00:02:51",
+  "updateTime": "2026-05-10 00:32:46",
   "data": [
     {
       "mgdbId": "120000542991",
@@ -160,7 +160,7 @@
       "title": "英超联赛",
       "keyword": "05月10日00:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "伊蒂哈德球场",
       "competitionName": "英超",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000542166/476475_H169_sc.jpg",
@@ -220,7 +220,7 @@
       "title": "德甲联赛",
       "keyword": "05月10日00:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "大众竞技场",
       "competitionName": "德甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000542741/902520_H169_sc.jpg",
@@ -272,7 +272,7 @@
       "title": "西甲联赛",
       "keyword": "05月10日00:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "万达大都会球场",
       "competitionName": "西甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000543269/340613_H169_sc.jpg",
@@ -308,7 +308,7 @@
       "title": "U17亚洲杯小组赛",
       "keyword": "05月10日00:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "阿卜杜拉国王体育城A号场 (明星)",
       "competitionName": "U17亚洲杯",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000575439/202604281836_234307_H169_1080.webp",
@@ -501,10 +501,6 @@
           "name": "英文解说"
         },
         {
-          "pID": "964533374",
-          "name": "候���区"
-        },
-        {
           "url": "http://sh.frp.one:36234/964665488",
           "name": "周泽昊 侯英超 程靖淇"
         },
@@ -691,6 +687,10 @@
         {
           "pID": "964648025",
           "name": "英文原声"
+        },
+        {
+          "pID": "964648056",
+          "name": "陈瑞阳 ��文祺"
         },
         {
           "url": "http://sh.frp.one:36234/964665396",
@@ -1460,7 +1460,7 @@
       "competitionName": "WTA",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "WTA罗马���Day6",
+      "pkInfoTitle": "WTA罗马站Day6",
       "modifyTitle": "WTA罗马站Day6",
       "presenters": "",
       "matchInfo": {
