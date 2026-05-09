@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-05-09 15:01:59",
+  "updateTime": "2026-05-09 15:32:00",
   "data": [
     {
       "mgdbId": "120000571767",
@@ -371,7 +371,7 @@
     },
     {
       "mgdbId": "120000575942",
-      "pID": "964632868",
+      "pID": "964632877",
       "title": "资格赛次日 各单项展开团体奖颁奖仪式",
       "keyword": "05月09日09:00",
       "sportItemId": "8",
@@ -387,10 +387,6 @@
         "time": "05月09日09:00"
       },
       "nodes": [
-        {
-          "pID": "964632868",
-          "name": "3D全真视频"
-        },
         {
           "pID": "964632877",
           "name": "3D全真视频"
@@ -643,7 +639,7 @@
       "title": "中乙联赛",
       "keyword": "05月09日15:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "汶河体育公园足球场",
       "competitionName": "中乙",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000572051/202603120945_742573_H169_1080.webp",
@@ -730,7 +726,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "伦敦团体世乒赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/09/77C3LDP1VVE9.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/09/77C3LDCQLCFV.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/1/23/100000001402106b2354.png",
       "pkInfoTitle": "德国女团vs日本女团",
       "modifyTitle": "伦敦团体世乒赛：德国女团vs日本女团",
@@ -818,7 +814,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
       "pkInfoTitle": "高芙、保利尼出战 萨巴vs科斯蒂亚",
       "modifyTitle": "WTA罗马站女单第三轮：高芙、保利尼出战 萨巴vs科斯蒂亚",
-      "presenters": "",
+      "presenters": "房朕",
       "matchInfo": {
         "time": "05月09日17:00"
       },
@@ -828,12 +824,16 @@
           "name": "赛场原声"
         },
         {
-          "pID": "964474359",
-          "name": "英文原声"
-        },
-        {
           "pID": "964662899",
           "name": "郑钦文 vs 奥斯塔彭科"
+        },
+        {
+          "pID": "964662909",
+          "name": "郑钦文 vs 奥斯塔彭科(房朕)"
+        },
+        {
+          "pID": "964474359",
+          "name": "英文原声"
         },
         {
           "url": "http://sh.frp.one:36234/964474255",
@@ -1469,7 +1469,7 @@
         },
         {
           "url": "http://sh.frp.one:36234/964631095",
-          "name": "2026中��田径街头巡回赛·南京站 清流播出"
+          "name": "清流播出"
         }
       ]
     },
