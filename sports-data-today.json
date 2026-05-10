@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-05-10 11:02:33",
+  "updateTime": "2026-05-10 11:34:13",
   "data": [
     {
       "mgdbId": "120000542991",
@@ -659,14 +659,14 @@
     },
     {
       "mgdbId": "120000575707",
-      "pID": "964608541",
+      "pID": "964690344",
       "title": "NBA季后赛",
       "keyword": "05月10日08:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "加密网体育馆",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/09/77C3I2IEG47U.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/10/77C4I2HJVP4E.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "雷霆VS湖人",
       "modifyTitle": "NBA季后赛",
@@ -675,6 +675,10 @@
         "time": "05月10日08:30"
       },
       "nodes": [
+        {
+          "pID": "964690344",
+          "name": "全场集锦"
+        },
         {
           "pID": "964665396",
           "name": "UFC328：奇马耶夫vs斯特里克兰"
@@ -826,6 +830,30 @@
         {
           "url": "http://sh.frp.one:36234/964570863",
           "name": "经典重映"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000576092",
+      "pID": "964690147",
+      "title": "“徽乒赛”滁州动感地带专场赛",
+      "keyword": "05月10日14:00",
+      "sportItemId": "7",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "徽乒赛",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/3/6/1000000014151067f81d.png",
+      "pkInfoTitle": "“徽乒赛”滁州动感地带专场赛",
+      "modifyTitle": "安徽省乒乓球联赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "05月10日14:00"
+      },
+      "nodes": [
+        {
+          "pID": "964690147",
+          "name": "2026年安徽省乒乓球联赛动感地带专场赛: “徽乒赛”滁州动感地带专场赛"
         }
       ]
     },
@@ -1101,7 +1129,7 @@
         },
         {
           "url": "http://sh.frp.one:36234/964653474",
-          "name": "2025/2026赛季云南省城市足球联赛第十二轮:"
+          "name": "大理队VS曲靖队 2025/2026赛季云南省城市足球联赛第十二轮: 大理队VS曲靖队"
         }
       ]
     },
@@ -1458,6 +1486,10 @@
         {
           "url": "http://sh.frp.one:36234/964609261",
           "name": "孙雨轩 黄健翔 郭小仙儿"
+        },
+        {
+          "url": "http://sh.frp.one:36234/964609273",
+          "name": "赛场原声"
         }
       ]
     },
@@ -2249,7 +2281,7 @@
         },
         {
           "url": "http://sh.frp.one:36234/964586961",
-          "name": "赛场原声"
+          "name": "赛场��声"
         }
       ]
     },
