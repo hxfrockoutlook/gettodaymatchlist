@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-05-12 21:31:26",
+  "updateTime": "2026-05-12 22:01:12",
   "data": [
     {
       "mgdbId": "120000542988",
@@ -532,10 +532,6 @@
       },
       "nodes": [
         {
-          "pID": "964693150",
-          "name": "2号场地"
-        },
-        {
           "pID": "964693188",
           "name": "3号场地"
         },
@@ -546,6 +542,10 @@
         {
           "pID": "964693203",
           "name": "4号场地"
+        },
+        {
+          "pID": "964693150",
+          "name": "2号场地"
         },
         {
           "url": "http://sh.frp.one:36234/964693203",
@@ -567,11 +567,11 @@
     },
     {
       "mgdbId": "120000576709",
-      "pID": "964742703",
+      "pID": "964739730",
       "title": "NBA季后赛精彩重播：雷霆 vs 湖人 G4",
       "keyword": "05月12日18:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA经典赛事",
       "padImg": "",
@@ -583,6 +583,10 @@
         "time": "05月12日18:00"
       },
       "nodes": [
+        {
+          "pID": "964739730",
+          "name": "25/26赛季NBA季后赛全场回放：雷霆115:110湖人（杨健、曾令旭、李根、佳依）（50帧原画）（20260512）"
+        },
         {
           "pID": "964742703",
           "name": "杨健 曾令旭 李根"
@@ -651,8 +655,8 @@
     },
     {
       "mgdbId": "120000576040",
-      "pID": "964666256",
-      "title": "北京首钢vs南京同曦",
+      "pID": "964709245",
+      "title": "北京首钢86-66南京同曦",
       "keyword": "05月12日20:00",
       "sportItemId": "2",
       "matchStatus": "1",
@@ -660,13 +664,17 @@
       "competitionName": "全国青年篮球联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/11/77C5EMAVNOPL.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/12/24/10000000139310695eb8.png",
-      "pkInfoTitle": "北京首钢vs南京同曦",
+      "pkInfoTitle": "北京首钢86-66南京同曦",
       "modifyTitle": "全国青年篮球联赛",
       "presenters": "",
       "matchInfo": {
         "time": "05月12日20:00"
       },
       "nodes": [
+        {
+          "pID": "964709245",
+          "name": "王骁辉领衔！杨溢郭丰玮叫你来看U21青年篮球锦标赛啦"
+        },
         {
           "pID": "964666256",
           "name": "清流播出"
@@ -679,22 +687,26 @@
     },
     {
       "mgdbId": "120000576041",
-      "pID": "964666177",
-      "title": "龙狮青年vs天津荣钢",
+      "pID": "964709245",
+      "title": "龙狮青年75-86天津荣钢",
       "keyword": "05月12日20:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "全国青年篮球联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/11/77C5EMG5RSHG.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/12/24/10000000139310695eb8.png",
-      "pkInfoTitle": "龙狮青年vs天津荣钢",
+      "pkInfoTitle": "龙狮青年75-86天津荣钢",
       "modifyTitle": "全国青年篮球联赛",
       "presenters": "",
       "matchInfo": {
         "time": "05月12日20:00"
       },
       "nodes": [
+        {
+          "pID": "964709245",
+          "name": "王骁辉领衔！杨溢郭丰玮叫你来看U21青年篮球锦标赛啦"
+        },
         {
           "pID": "964666177",
           "name": "清流播出"
