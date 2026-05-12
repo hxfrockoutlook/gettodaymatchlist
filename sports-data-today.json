@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-05-12 22:01:12",
+  "updateTime": "2026-05-12 22:31:14",
   "data": [
     {
       "mgdbId": "120000542988",
@@ -199,7 +199,7 @@
       "title": "白雨露横扫对手 吴安仪轻松取胜",
       "keyword": "05月12日09:30",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/12/77C6CKG35P9E.png",
@@ -212,20 +212,20 @@
       },
       "nodes": [
         {
-          "pID": "964728807",
-          "name": "3号桌"
-        },
-        {
-          "pID": "964728841",
-          "name": "4号桌"
-        },
-        {
           "pID": "964728739",
           "name": "1号桌"
         },
         {
           "pID": "964728776",
           "name": "2号桌"
+        },
+        {
+          "pID": "964728807",
+          "name": "3号桌"
+        },
+        {
+          "pID": "964728841",
+          "name": "4号桌"
         },
         {
           "url": "http://sh.frp.one:36234/964728739",
@@ -515,16 +515,16 @@
     },
     {
       "mgdbId": "120000576093",
-      "pID": "964693150",
-      "title": "全力冲击正赛！新组合揭幕战亮相",
+      "pID": "964693121",
+      "title": "揭幕战！胡林组合直落两局晋级",
       "keyword": "05月12日18:00",
       "sportItemId": "6",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "BWF",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/12/77C6BGGLIIVI.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/12/77C6C059U0F4.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
-      "pkInfoTitle": "全力冲击正赛！新组合揭幕战亮相",
+      "pkInfoTitle": "揭幕战！胡林组合直落两局晋级",
       "modifyTitle": "泰国羽毛球公开赛第一日：全力冲击正赛！新组合揭幕战亮相",
       "presenters": "",
       "matchInfo": {
@@ -532,36 +532,16 @@
       },
       "nodes": [
         {
-          "pID": "964693188",
-          "name": "3号场地"
-        },
-        {
           "pID": "964693121",
           "name": "1号场地"
-        },
-        {
-          "pID": "964693203",
-          "name": "4号场地"
         },
         {
           "pID": "964693150",
           "name": "2号场地"
         },
         {
-          "url": "http://sh.frp.one:36234/964693203",
+          "pID": "964693203",
           "name": "4号场地"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964693121",
-          "name": "1号场地"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964693150",
-          "name": "2号场地"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964693188",
-          "name": "3号场地"
         }
       ]
     },
@@ -627,11 +607,11 @@
     },
     {
       "mgdbId": "120000575773",
-      "pID": "964718403",
+      "pID": "964746745",
       "title": "CBA季后赛第二轮",
       "keyword": "05月12日19:35",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "华熙生物·润百颜ECM中心",
       "competitionName": "CBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/11/77C5CN00HNJS.jpg",
@@ -643,6 +623,10 @@
         "time": "05月12日19:35"
       },
       "nodes": [
+        {
+          "pID": "964746745",
+          "name": "北京2-1胜广东挺进半决赛 周琦18+8胡明轩13分"
+        },
         {
           "pID": "964718403",
           "name": "图文直播"
@@ -659,7 +643,7 @@
       "title": "北京首钢86-66南京同曦",
       "keyword": "05月12日20:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "全国青年篮球联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/11/77C5EMAVNOPL.png",
