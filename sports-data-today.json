@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-05-12 07:31:07",
+  "updateTime": "2026-05-12 08:01:12",
   "data": [
     {
       "mgdbId": "120000542988",
@@ -148,7 +148,7 @@
       "title": "NBA季后赛",
       "keyword": "05月12日08:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "火箭信贷球馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/11/77C5EVC10EG4.png",
@@ -177,6 +177,10 @@
           "name": "智能字幕"
         },
         {
+          "pID": "964608858",
+          "name": "庄宁宇 张兆旭 徐��"
+        },
+        {
           "url": "http://sh.frp.one:36234/964608858",
           "name": "庄宁宇 张兆旭 徐咏"
         },
@@ -200,7 +204,7 @@
       "title": "咪咕体育日报 第107期",
       "keyword": "05月12日00:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "咪咕体育日报",
       "padImg": "",
@@ -299,29 +303,29 @@
     },
     {
       "mgdbId": "120000576093",
-      "pID": "964693121",
-      "title": "任何组合冲正赛！新组合揭幕战亮相",
+      "pID": "964693150",
+      "title": "董天尧冲击正赛！新组合揭幕战亮相",
       "keyword": "05月12日10:00",
       "sportItemId": "6",
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "BWF",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/11/77C5ELJ540K4.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/12/77C6B778P82K.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
-      "pkInfoTitle": "任何组合冲正赛！新组合揭幕战亮相",
-      "modifyTitle": "泰国羽毛球公开赛第一日：任何组合冲正赛！新组合揭幕战亮相",
+      "pkInfoTitle": "董天尧冲击正赛！新组合揭幕战亮相",
+      "modifyTitle": "泰国羽毛球公开赛第一日：董天尧冲击正赛！新组合揭幕战亮相",
       "presenters": "",
       "matchInfo": {
         "time": "05月12日10:00"
       },
       "nodes": [
         {
-          "pID": "964693121",
-          "name": "1号场地"
-        },
-        {
           "pID": "964693150",
           "name": "2号场地"
+        },
+        {
+          "pID": "964693121",
+          "name": "1号场地"
         },
         {
           "pID": "964693188",
@@ -609,7 +613,7 @@
         },
         {
           "url": "http://sh.frp.one:36234/964665525",
-          "name": "侯英超、程靖���、徐晨皓与周冠达复盘世乒赛 侯英超 程靖淇 徐晨皓"
+          "name": "侯英超 程靖淇 徐晨皓"
         }
       ]
     },
@@ -730,6 +734,34 @@
         {
           "url": "http://sh.frp.one:36234/964666177",
           "name": "清流播出"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000575432",
+      "pID": "120000575432",
+      "title": "中国U17 vs 卡塔尔U17",
+      "keyword": "05月12日23:45",
+      "sportItemId": "",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "U17亚洲杯",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/11/77C5EC888992.png",
+      "competitionLogo": "",
+      "pkInfoTitle": "中国U17 vs 卡塔尔U17",
+      "modifyTitle": "中国U17 vs 卡塔尔U17",
+      "presenters": "",
+      "matchInfo": {
+        "time": "05月12日23:45"
+      },
+      "nodes": [
+        {
+          "pID": "964636096",
+          "name": "张昊泽 王宇"
+        },
+        {
+          "pID": "964636092",
+          "name": "赛场原声"
         }
       ]
     }
