@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-05-12 20:31:03",
+  "updateTime": "2026-05-12 21:01:20",
   "data": [
     {
       "mgdbId": "120000542988",
@@ -515,14 +515,14 @@
     },
     {
       "mgdbId": "120000576093",
-      "pID": "964693121",
+      "pID": "964693188",
       "title": "全力冲击正赛！新组合揭幕战亮相",
       "keyword": "05月12日18:00",
       "sportItemId": "6",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "BWF",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/12/77C6BF3PBLE9.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/12/77C6BGGLIIVI.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "全力冲击正赛！新组合揭幕战亮相",
       "modifyTitle": "泰国羽毛球公开赛第一日：全力冲击正赛！新组合揭幕战亮相",
@@ -532,12 +532,12 @@
       },
       "nodes": [
         {
-          "pID": "964693121",
-          "name": "1号场地"
-        },
-        {
           "pID": "964693188",
           "name": "3号场地"
+        },
+        {
+          "pID": "964693121",
+          "name": "1号场地"
         },
         {
           "pID": "964693150",
@@ -599,7 +599,7 @@
       "title": "侯英超、程靖淇、徐晨皓与周冠达复盘世乒赛",
       "keyword": "05月12日19:00",
       "sportItemId": "7",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "伦敦团体世乒赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/11/77C5D8JM9EP0.jpg",
@@ -618,42 +618,6 @@
         {
           "url": "http://sh.frp.one:36234/964665525",
           "name": "侯英超 程靖淇 徐晨皓"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000575546",
-      "pID": "964474289",
-      "title": "冲四强！奥斯塔彭科率先出战",
-      "keyword": "05月12日19:00",
-      "sportItemId": "9",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "WTA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/12/77C6AHELGJ2U.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "冲四强！奥斯塔彭科率先出战",
-      "modifyTitle": "WTA罗马站1/4决赛：冲四强！奥斯塔彭科率先出战",
-      "presenters": "",
-      "matchInfo": {
-        "time": "05月12日19:00"
-      },
-      "nodes": [
-        {
-          "pID": "964474289",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "964474378",
-          "name": "英文原声"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964474289",
-          "name": "赛场原声"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964474378",
-          "name": "英文原声"
         }
       ]
     },
@@ -766,6 +730,42 @@
         {
           "pID": "964636092",
           "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000575546",
+      "pID": "120000575546",
+      "title": "冲四强！奥斯塔彭科率先出战",
+      "keyword": "05月12日19:00",
+      "sportItemId": "",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "WTA",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/07/08/11005/25eab3e85d48452f9f639282bebcebd1/25eab3e85d48452f9f639282bebcebd1_H169_P1080_WEBP.webp",
+      "competitionLogo": "",
+      "pkInfoTitle": "冲四强！奥斯塔彭科率先出战",
+      "modifyTitle": "WTA罗马站1/4决赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "05月12日19:00"
+      },
+      "nodes": [
+        {
+          "pID": "964474289",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "964474378",
+          "name": "英文原声"
+        },
+        {
+          "url": "http://sh.frp.one:36234/964474289",
+          "name": "赛场原声"
+        },
+        {
+          "url": "http://sh.frp.one:36234/964474378",
+          "name": "英文原声"
         }
       ]
     }
