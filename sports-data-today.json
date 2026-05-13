@@ -1,11 +1,11 @@
 {
   "success": true,
-  "updateTime": "2026-05-13 12:31:16",
+  "updateTime": "2026-05-13 13:01:10",
   "data": [
     {
       "mgdbId": "120000575432",
       "pID": "964636096",
-      "title": "U17亚洲��小组赛",
+      "title": "U17亚洲杯小组赛",
       "keyword": "05月13日00:00",
       "sportItemId": "1",
       "matchStatus": "2",
@@ -29,8 +29,8 @@
           "name": "赛场原声"
         },
         {
-          "url": "http://sh.frp.one:36234/964748508",
-          "name": "全场回放（张昊泽、王宇）"
+          "url": "http://sh.frp.one:36234/964748519",
+          "name": "全场回放（鹿中原）"
         }
       ]
     },
@@ -61,8 +61,8 @@
           "name": "赛场原声"
         },
         {
-          "url": "http://sh.frp.one:36234/964748519",
-          "name": "全场回放（鹿中原）"
+          "url": "http://sh.frp.one:36234/964748659",
+          "name": "全场回放（吴子越）"
         }
       ]
     },
@@ -125,8 +125,8 @@
           "name": "赛场原声"
         },
         {
-          "url": "http://sh.frp.one:36234/964748659",
-          "name": "全场回放（吴子越）"
+          "url": "http://sh.frp.one:36234/964748634",
+          "name": "全场回放（张天翼）"
         }
       ]
     },
@@ -155,10 +155,6 @@
         {
           "pID": "964636142",
           "name": "赛场原声"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964748634",
-          "name": "全场回放（张天翼）"
         }
       ]
     },
@@ -350,34 +346,6 @@
       ]
     },
     {
-      "mgdbId": "120000575946",
-      "pID": "964632950",
-      "title": "收官日对决！各类重磅奖项将揭晓",
-      "keyword": "05月13日09:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "全国艺术体操锦标赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/13/77C79FDBO5NS.gif",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/5/7/1000000004341068cc7a.png",
-      "pkInfoTitle": "收官日对决！各类重磅奖项将揭晓",
-      "modifyTitle": "全国艺术体操锦标赛Day6：收官日对决！各类重磅奖项将揭晓",
-      "presenters": "",
-      "matchInfo": {
-        "time": "05月13日09:00"
-      },
-      "nodes": [
-        {
-          "pID": "964632950",
-          "name": "3D全真视频"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964632950",
-          "name": "3D全真视频"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000576177",
       "pID": "964740092",
       "title": "第十一届武术散打世界杯第一日早场",
@@ -443,7 +411,7 @@
     },
     {
       "mgdbId": "120000576094",
-      "pID": "964693227",
+      "pID": "964747650",
       "title": "冲击16强！石宇奇、陈雨菲领衔出战",
       "keyword": "05月13日10:00",
       "sportItemId": "6",
@@ -454,11 +422,15 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "冲击16强！石宇奇、陈雨菲领衔出战",
       "modifyTitle": "泰国羽毛球公开赛第二日：国羽全力冲击16强！石宇奇、陈雨菲领衔出战",
-      "presenters": "",
+      "presenters": "朱胤丞",
       "matchInfo": {
         "time": "05月13日10:00"
       },
       "nodes": [
+        {
+          "pID": "964747650",
+          "name": "石宇奇VS金廷"
+        },
         {
           "pID": "964693227",
           "name": "2号场地"
@@ -546,6 +518,30 @@
         {
           "url": "http://sh.frp.one:36234/964666199",
           "name": "清流播出"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000575946",
+      "pID": "964632967",
+      "title": "全国艺术体操锦标赛Day6",
+      "keyword": "05月13日15:00",
+      "sportItemId": "8",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "全国艺术体操锦标赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/13/77C79FDBO5NS.gif",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/5/7/1000000004341068cc7a.png",
+      "pkInfoTitle": "全国艺术体操锦标赛Day6",
+      "modifyTitle": "全国艺术体操锦标赛Day6：收官日对决！各类重磅奖项将揭晓",
+      "presenters": "",
+      "matchInfo": {
+        "time": "05月13日15:00"
+      },
+      "nodes": [
+        {
+          "pID": "964632967",
+          "name": "3D全真视频"
         }
       ]
     },
