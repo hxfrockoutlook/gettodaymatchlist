@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-05-13 14:31:06",
+  "updateTime": "2026-05-13 15:01:22",
   "data": [
     {
       "mgdbId": "120000575432",
@@ -317,10 +317,6 @@
           "name": "智能字幕"
         },
         {
-          "pID": "964751902",
-          "name": "25-26赛季NBA季后赛全场集锦：森林狼97:126马��（20260513）"
-        },
-        {
           "url": "http://sh.frp.one:36234/964752998",
           "name": "全场回放（连睿、马健、李根、拜月宁）"
         },
@@ -427,7 +423,7 @@
     },
     {
       "mgdbId": "120000576094",
-      "pID": "964693257",
+      "pID": "964747671",
       "title": "冲16强！稍后陈雨菲、星驰组合出战",
       "keyword": "05月13日10:00",
       "sportItemId": "6",
@@ -438,11 +434,15 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "冲16强！稍后陈雨菲、星驰组合出战",
       "modifyTitle": "泰国羽毛球公开赛第二日：石宇奇轻松晋级16强！稍后陈雨菲出战",
-      "presenters": "",
+      "presenters": "杨妮娜",
       "matchInfo": {
         "time": "05月13日10:00"
       },
       "nodes": [
+        {
+          "pID": "964747671",
+          "name": "哈尔布VS陈雨菲"
+        },
         {
           "pID": "964693257",
           "name": "4号场地"
@@ -480,15 +480,15 @@
     {
       "mgdbId": "120000576042",
       "pID": "964666288",
-      "title": "江苏肯帝亚vs青岛国信海天",
+      "title": "江苏肯帝亚79-101青岛国信海天",
       "keyword": "05月13日13:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "全国青年篮球联赛",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/12/24/10000000139310695eb8.png",
-      "pkInfoTitle": "江苏肯帝亚vs青岛国信海天",
+      "pkInfoTitle": "江苏肯帝亚79-101青岛国信海天",
       "modifyTitle": "全国青年篮球联赛",
       "presenters": "",
       "matchInfo": {
@@ -539,7 +539,7 @@
       "title": "全国艺术体操锦标赛Day6",
       "keyword": "05月13日15:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "全国艺术体操锦标赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/13/77C79FDBO5NS.gif",
@@ -670,6 +670,30 @@
         {
           "url": "http://sh.frp.one:36234/964666236",
           "name": "清流播出"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000576720",
+      "pID": "964750530",
+      "title": "NBA季后赛精彩重播：森林狼 vs 马刺 G5",
+      "keyword": "05月13日18:00",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "NBA经典赛事",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png",
+      "pkInfoTitle": "NBA季后赛精彩重播：森林狼 vs 马刺 G5",
+      "modifyTitle": "NBA经典赛事",
+      "presenters": "连睿 马健 李根",
+      "matchInfo": {
+        "time": "05月13日18:00"
+      },
+      "nodes": [
+        {
+          "pID": "964750530",
+          "name": "连睿 马健 李根"
         }
       ]
     },
