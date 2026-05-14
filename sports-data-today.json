@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-05-14 11:01:19",
+  "updateTime": "2026-05-14 11:31:20",
   "data": [
     {
       "mgdbId": "120000575429",
@@ -229,10 +229,6 @@
           "name": "【回放】斯维托丽娜2-1莱巴金娜（赛场原声）"
         },
         {
-          "url": "http://sh.frp.one:36234/964761505",
-          "name": "【回放】佩古拉0-2斯瓦泰克（赛场原声）"
-        },
-        {
           "url": "http://sh.frp.one:36234/964761140",
           "name": "【回放】佩古拉0-2斯瓦泰克（英文原声）"
         },
@@ -452,14 +448,14 @@
     },
     {
       "mgdbId": "120000575740",
-      "pID": "964755744",
+      "pID": "964767681",
       "title": "NBA季后赛",
       "keyword": "05月14日08:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "小凯撒球馆",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/13/77C78C43IRGF.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/14/77C86GJDKAHA.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "骑士VS活塞",
       "modifyTitle": "NBA季后赛",
@@ -468,6 +464,10 @@
         "time": "05月14日08:00"
       },
       "nodes": [
+        {
+          "pID": "964767681",
+          "name": "摧毁底特律！莫布利强碾禁区单臂炸裂隔扣"
+        },
         {
           "pID": "964755744",
           "name": "李天宇 刘炜 陈正昊"
@@ -607,14 +607,14 @@
     },
     {
       "mgdbId": "120000576095",
-      "pID": "964694454",
+      "pID": "964693285",
       "title": "石宇奇、陈雨菲领衔冲击八强",
       "keyword": "05月14日10:00",
       "sportItemId": "6",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "BWF",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/14/77C85FGRM5GP.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/14/77C86G1SK47G.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "石宇奇、陈雨菲领衔冲击八强",
       "modifyTitle": "泰国羽毛球公开赛第三日：石宇奇、陈雨菲领衔冲击八强",
@@ -624,12 +624,12 @@
       },
       "nodes": [
         {
-          "pID": "964694454",
-          "name": "1号场地"
-        },
-        {
           "pID": "964693285",
           "name": "2号场地"
+        },
+        {
+          "pID": "964694454",
+          "name": "1号场地"
         },
         {
           "pID": "964693330",
@@ -1002,7 +1002,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "全国青年篮球联赛",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/14/77C86H2BHT6C.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/12/24/10000000139310695eb8.png",
       "pkInfoTitle": "苏科雄狮vs新疆广汇",
       "modifyTitle": "全国青年篮球联赛",
@@ -1056,6 +1056,24 @@
           "name": "英文原声"
         }
       ]
+    },
+    {
+      "mgdbId": "120000576837",
+      "title": "科斯蒂亚 vs 高芙",
+      "keyword": "05月14日21:00",
+      "sportItemId": "9",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "WTA",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/14/77C86AH6017S.png",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
+      "pkInfoTitle": "科斯蒂亚 vs 高芙",
+      "modifyTitle": "科斯蒂亚 vs 高芙",
+      "presenters": "",
+      "matchInfo": {
+        "time": "05月14日21:00"
+      },
+      "nodes": []
     }
   ]
 }
