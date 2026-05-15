@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-05-15 09:31:22",
+  "updateTime": "2026-05-15 10:01:39",
   "data": [
     {
       "mgdbId": "120000543259",
@@ -237,7 +237,7 @@
         },
         {
           "url": "http://sh.frp.one:36234/964740394",
-          "name": "第��一届武术散打世界杯第三日 解说"
+          "name": "解说"
         }
       ]
     },
@@ -280,7 +280,7 @@
     {
       "mgdbId": "120000576156",
       "pID": "964725315",
-      "title": "女团终极对决！张清颖领衔出战",
+      "title": "女团终极对决！张清颖登场亮相",
       "keyword": "05月15日10:30",
       "sportItemId": "8",
       "matchStatus": "0",
@@ -288,7 +288,7 @@
       "competitionName": "全国体操锦标赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/15/77C9324GF6OJ.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2022/9/5/100000000968106d7a22.png",
-      "pkInfoTitle": "女团终极对决！张清颖领衔出战",
+      "pkInfoTitle": "女团终极对决！张清颖登场亮相",
       "modifyTitle": "全国体操锦标赛Day2：女子预赛暨团体决赛",
       "presenters": "",
       "matchInfo": {
@@ -318,11 +318,15 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "冲击半决赛！国羽石宇奇领衔出战",
       "modifyTitle": "泰国羽毛球公开赛第四日：冲击半决赛！国羽石宇奇领衔出战",
-      "presenters": "鸿昆 朱胤丞 杨妮娜",
+      "presenters": "朱胤丞",
       "matchInfo": {
         "time": "05月15日13:00"
       },
       "nodes": [
+        {
+          "pID": "964780636",
+          "name": "陈子睿/林煜杰VS 何济霆/任翔宇"
+        },
         {
           "pID": "964695135",
           "name": "1号场地"
@@ -338,30 +342,6 @@
         {
           "pID": "964763142",
           "name": "1号场地英文解说视角"
-        },
-        {
-          "pID": "964780622",
-          "name": "宫崎友花 VS 陈雨菲"
-        },
-        {
-          "pID": "964780632",
-          "name": "石宇奇VS 渡边航贵"
-        },
-        {
-          "pID": "964780636",
-          "name": "陈子睿/林煜杰VS 何济霆/任翔宇"
-        },
-        {
-          "pID": "964780643",
-          "name": "林芷均/杨筑云 VS鲍骊婧/曹梓涵"
-        },
-        {
-          "pID": "964780658",
-          "name": "高家炫/魏雅欣 VS 马蒂亚斯/博尔"
-        },
-        {
-          "pID": "964780680",
-          "name": "程星/张驰 VS 霜上雄一/保原彩夏"
         },
         {
           "url": "http://sh.frp.one:36234/964695135",
@@ -633,7 +613,7 @@
         },
         {
           "url": "http://sh.frp.one:36234/964757258",
-          "name": "2026贵州村超联赛第三轮：忠诚村VS富民村"
+          "name": "忠诚村足球队VS富民村足球��� 2026贵州村超联赛第三轮：忠诚村VS富民村"
         }
       ]
     },
@@ -751,6 +731,7 @@
     },
     {
       "mgdbId": "300000002057",
+      "pID": "964787938",
       "title": "篮球公园：坚持的力量——老兵谢幕",
       "keyword": "05月15日00:00",
       "sportItemId": "2",
@@ -765,7 +746,12 @@
       "matchInfo": {
         "time": "05月15日00:00"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "964787938",
+          "name": "篮球公园"
+        }
+      ]
     },
     {
       "mgdbId": "120000576113",
@@ -1084,6 +1070,10 @@
         {
           "url": "http://sh.frp.one:36234/964724550",
           "name": "清流"
+        },
+        {
+          "url": "http://sh.frp.one:36234/964754954",
+          "name": "上海海港VS浙江俱乐���绿城 赛场原声"
         }
       ]
     },
