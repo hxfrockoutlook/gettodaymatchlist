@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-05-15 10:01:39",
+  "updateTime": "2026-05-15 10:31:19",
   "data": [
     {
       "mgdbId": "120000543259",
@@ -283,7 +283,7 @@
       "title": "女团终极对决！张清颖登场亮相",
       "keyword": "05月15日10:30",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "全国体操锦标赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/15/77C9324GF6OJ.jpg",
@@ -613,7 +613,7 @@
         },
         {
           "url": "http://sh.frp.one:36234/964757258",
-          "name": "忠诚村足球队VS富民村足球��� 2026贵州村超联赛第三轮：忠诚村VS富民村"
+          "name": "2026贵州村超联赛第三轮：忠诚村VS富民村"
         }
       ]
     },
@@ -704,7 +704,7 @@
     {
       "mgdbId": "120000576793",
       "pID": "964757267",
-      "title": "贵州村超联赛",
+      "title": "贵州村超��赛",
       "keyword": "05月15日18:30",
       "sportItemId": "1",
       "matchStatus": "0",
@@ -1048,14 +1048,6 @@
           "name": "娄一晨 李彦 姚安妮"
         },
         {
-          "pID": "964724507",
-          "name": "演播室"
-        },
-        {
-          "pID": "964724550",
-          "name": "清流"
-        },
-        {
           "pID": "964754954",
           "name": "赛场原声"
         },
@@ -1257,7 +1249,7 @@
         },
         {
           "url": "http://sh.frp.one:36234/964757274",
-          "name": "2026赛季贵州村超联赛第三轮: 安乐村VS扒王村"
+          "name": "2026赛季贵州村超联赛第���轮: 安乐村VS扒王村"
         }
       ]
     },
@@ -1284,7 +1276,39 @@
           "name": "赛场原声"
         },
         {
+          "pID": "964788853",
+          "name": "英文解说"
+        },
+        {
           "url": "http://sh.frp.one:36234/964767780",
+          "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000576718",
+      "pID": "120000576718",
+      "title": "日本U17 vs 塔吉克斯坦U17",
+      "keyword": "05月15日23:45",
+      "sportItemId": "",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "U17亚洲杯",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000576718/202605130335_909260_H169_1080.webp",
+      "competitionLogo": "",
+      "pkInfoTitle": "日本U17 vs 塔吉克斯坦U17",
+      "modifyTitle": "日本U17 vs 塔吉克斯坦U17",
+      "presenters": "",
+      "matchInfo": {
+        "time": "05月15日23:45"
+      },
+      "nodes": [
+        {
+          "pID": "964788969",
+          "name": "鹿中原"
+        },
+        {
+          "pID": "964788635",
           "name": "赛场原声"
         }
       ]
