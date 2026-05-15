@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-05-15 19:01:30",
+  "updateTime": "2026-05-15 19:31:29",
   "data": [
     {
       "mgdbId": "120000543259",
@@ -300,12 +300,12 @@
           "name": "1号场地"
         },
         {
-          "pID": "964693359",
-          "name": "2号场地"
-        },
-        {
           "pID": "964763142",
           "name": "1号场地英文解说视角"
+        },
+        {
+          "pID": "964693359",
+          "name": "2号场地"
         },
         {
           "pID": "964693364",
@@ -544,7 +544,7 @@
     {
       "mgdbId": "120000576061",
       "pID": "964709245",
-      "title": "四川锦城vs新疆广汇",
+      "title": "四川锦城61-81新疆广汇",
       "keyword": "05月15日15:30",
       "sportItemId": "2",
       "matchStatus": "2",
@@ -552,7 +552,7 @@
       "competitionName": "全国青年篮球联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/14/77C83UI1Q2AT.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/12/24/10000000139310695eb8.png",
-      "pkInfoTitle": "四川锦城vs新疆广汇",
+      "pkInfoTitle": "四川锦城61-81新疆广汇",
       "modifyTitle": "全国青年篮球联赛",
       "presenters": "",
       "matchInfo": {
@@ -775,11 +775,11 @@
     },
     {
       "mgdbId": "300000002057",
-      "pID": "964787938",
+      "pID": "964242238",
       "title": "篮球公园：坚持的力量——老兵谢幕",
       "keyword": "05月15日00:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "CBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/14/77C861IVPOFJ.jpg",
@@ -791,6 +791,10 @@
         "time": "05月15日00:00"
       },
       "nodes": [
+        {
+          "pID": "964242238",
+          "name": "【篮球公园】传奇自传承！聆听名人堂传奇背后真实声音"
+        },
         {
           "pID": "964787938",
           "name": "篮球公园"
@@ -831,7 +835,7 @@
       "title": "北海市合浦县队vs玉林市北流市队",
       "keyword": "05月15日19:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "广西县超",
       "padImg": "",
@@ -887,7 +891,7 @@
       "title": "浙江省城市足球联赛",
       "keyword": "05月15日19:15",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "吴越杯",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000576150/202605111535_842119_H169_1080.webp",
@@ -915,7 +919,7 @@
       "title": "足协杯第三轮",
       "keyword": "05月15日19:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "临平体育中心体育场",
       "competitionName": "足协杯",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000574835/202604182230_615782_H169_1080.webp",
@@ -943,7 +947,7 @@
       "title": "足协杯第三轮",
       "keyword": "05月15日19:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "青岛西海岸大学城体育场",
       "competitionName": "足协杯",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000574836/202604182330_969707_H169_1080.webp",
@@ -982,7 +986,7 @@
       "matchStatus": "1",
       "matchField": "泰达足球场",
       "competitionName": "中超",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/15/77C924DCBDNC.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/15/77C92FVHLBA4.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png",
       "pkInfoTitle": "天津津门虎 vs 成都蓉城",
       "modifyTitle": "中超联赛",
@@ -1039,7 +1043,7 @@
       "title": "中超联赛",
       "keyword": "05月15日19:35",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "郑州航海体育场",
       "competitionName": "中超",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000569728/659096_H169_sc.jpg",
@@ -1075,7 +1079,7 @@
       "title": "中超联赛",
       "keyword": "05月15日19:35",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "上汽浦东足球场",
       "competitionName": "中超",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000569729/993312_H169_sc.jpg",
@@ -1109,7 +1113,7 @@
         },
         {
           "url": "http://sh.frp.one:36234/964754954",
-          "name": "赛场原声"
+          "name": "上海海港VS浙��俱乐部绿城 赛场原声"
         }
       ]
     },
@@ -1300,7 +1304,7 @@
     {
       "mgdbId": "120000576839",
       "pID": "964789078",
-      "title": "马德里站第一日（GCL全球冠军联赛）",
+      "title": "马德里站第一日（GCL团体赛）",
       "keyword": "05月15日23:00",
       "sportItemId": "8",
       "matchStatus": "0",
@@ -1308,7 +1312,7 @@
       "competitionName": "浪琴环球马术冠军赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/14/77C84HSVLLGC.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/5/1/100000001461106b6114.png",
-      "pkInfoTitle": "马德里站第一日（GCL全球冠军联赛）",
+      "pkInfoTitle": "马德里站第一日（GCL团体赛）",
       "modifyTitle": "2026浪琴环球马术冠军赛马德里站",
       "presenters": "",
       "matchInfo": {
