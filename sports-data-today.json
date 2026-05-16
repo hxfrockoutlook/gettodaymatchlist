@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-05-16 10:03:21",
+  "updateTime": "2026-05-16 10:33:14",
   "data": [
     {
       "mgdbId": "120000576718",
@@ -78,7 +78,7 @@
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/16/77C9UVHKL7NI.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png",
       "pkInfoTitle": "阿斯顿维拉 vs 利物浦",
-      "modifyTitle": "英超联��",
+      "modifyTitle": "英超联赛",
       "presenters": "詹俊 张路 林梦鸽",
       "matchInfo": {
         "time": "05月16日03:00"
@@ -108,11 +108,11 @@
     },
     {
       "mgdbId": "120000575741",
-      "pID": "964755836",
+      "pID": "964814672",
       "title": "NBA季后赛",
       "keyword": "05月16日07:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "火箭信贷球馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/16/77CA07JI6AN5.png",
@@ -124,6 +124,10 @@
         "time": "05月16日07:00"
       },
       "nodes": [
+        {
+          "pID": "964814672",
+          "name": "全场集锦"
+        },
         {
           "pID": "964755836",
           "name": "蔡凯臣 曾令旭 周鹏"
@@ -350,50 +354,22 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "全军出击！石宇奇、陈雨菲领衔冲决赛",
       "modifyTitle": "泰国羽毛球公开赛第五日：全军出击！石宇奇、陈雨菲领衔冲决赛",
-      "presenters": "杨妮娜 朱胤丞 鸿昆",
+      "presenters": "朱胤丞",
       "matchInfo": {
         "time": "05月16日13:00"
       },
       "nodes": [
         {
+          "pID": "964814063",
+          "name": "胡绫芳/郑宇倢 VS 鲍骊婧 /曹梓涵"
+        },
+        {
           "pID": "964694471",
           "name": "1号场地"
         },
         {
-          "pID": "964693373",
-          "name": "2号场地"
-        },
-        {
           "pID": "964763144",
           "name": "1号场地英文解说视角"
-        },
-        {
-          "pID": "964814035",
-          "name": "杨妮娜"
-        },
-        {
-          "pID": "964814044",
-          "name": "解说"
-        },
-        {
-          "pID": "964814055",
-          "name": "解说"
-        },
-        {
-          "pID": "964814063",
-          "name": "朱胤丞"
-        },
-        {
-          "pID": "964814073",
-          "name": "鸿昆"
-        },
-        {
-          "pID": "964814083",
-          "name": "鸿昆"
-        },
-        {
-          "pID": "964814094",
-          "name": "朱胤丞"
         },
         {
           "url": "http://sh.frp.one:36234/964694471",
@@ -1421,7 +1397,7 @@
         },
         {
           "url": "http://sh.frp.one:36234/964756991",
-          "name": "2026赛季福建��城市足球超级联赛第四轮: 三明vs福州"
+          "name": "2026赛季福建省城市足球超级联赛第四轮: 三明vs福州"
         }
       ]
     },
@@ -2652,7 +2628,7 @@
       "keyword": "05月16日19:35",
       "sportItemId": "2",
       "matchStatus": "0",
-      "matchField": "黄龙体育中心体育馆",
+      "matchField": "黄龙体育中心���育馆",
       "competitionName": "CBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/15/77C93BVPJ5IP.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png",
