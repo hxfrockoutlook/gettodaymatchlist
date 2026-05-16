@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-05-17 01:32:11",
+  "updateTime": "2026-05-17 02:02:26",
   "data": [
     {
       "mgdbId": "120000576835",
@@ -80,7 +80,7 @@
       "title": "亚冠二级决赛",
       "keyword": "05月17日01:45",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "沙特国王大学体育场",
       "competitionName": "亚冠二级",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/08/77C2L9FNB6FE.png",
@@ -686,10 +686,6 @@
         {
           "pID": "964666493",
           "name": "清流播出"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964666493",
-          "name": "清流播出"
         }
       ]
     },
@@ -1182,6 +1178,10 @@
         {
           "url": "http://sh.frp.one:36234/964787759",
           "name": "吴桐 刘腾"
+        },
+        {
+          "url": "http://sh.frp.one:36234/964787678",
+          "name": "多屏同看"
         },
         {
           "url": "http://sh.frp.one:36234/964787812",
@@ -1901,7 +1901,7 @@
         },
         {
           "url": "http://sh.frp.one:36234/964663067",
-          "name": "2026赛季广东省城市足球超级联赛第三轮: （普通话）"
+          "name": "2026赛季广东省城市足球超级联赛��三轮: （普通话）"
         },
         {
           "url": "http://sh.frp.one:36234/964791206",
@@ -2154,6 +2154,34 @@
         {
           "url": "http://sh.frp.one:36234/964743187",
           "name": "2026赛季江西省城市篮球联赛总决赛:"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000576863",
+      "pID": "964791089",
+      "title": "U17女足亚洲杯决赛",
+      "keyword": "05月17日19:30",
+      "sportItemId": "1",
+      "matchStatus": "0",
+      "matchField": "苏州市体育中心体育场",
+      "competitionName": "U17女足亚洲杯",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000576863/202605142135_992536_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/5/6/1000000011891062c765.png",
+      "pkInfoTitle": "朝鲜U17 vs 日本U17",
+      "modifyTitle": "U17女足亚洲杯决赛",
+      "presenters": "刘畅",
+      "matchInfo": {
+        "time": "05月17日19:30"
+      },
+      "nodes": [
+        {
+          "pID": "964791089",
+          "name": "刘畅"
+        },
+        {
+          "pID": "964791087",
+          "name": "赛场原声"
         }
       ]
     },
