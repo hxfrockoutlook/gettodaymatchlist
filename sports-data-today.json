@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-05-17 07:02:16",
+  "updateTime": "2026-05-17 07:32:17",
   "data": [
     {
       "mgdbId": "120000576835",
@@ -179,34 +179,6 @@
       ]
     },
     {
-      "mgdbId": "120000576785",
-      "pID": "964754947",
-      "title": "IRONMAN 70.3上海崇明站",
-      "keyword": "05月17日07:00",
-      "sportItemId": "8",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "IRONMAN 70.3",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/16/77C9VABT97I2.png",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/5/13/10000000146710694ca8.png",
-      "pkInfoTitle": "IRONMAN 70.3上海崇明站",
-      "modifyTitle": "IRONMAN 70.3上海崇明站",
-      "presenters": "",
-      "matchInfo": {
-        "time": "05月17日07:00"
-      },
-      "nodes": [
-        {
-          "pID": "964754947",
-          "name": "解说"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964754947",
-          "name": "70.3  解说"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000576786",
       "pID": "964756469",
       "title": "2026蒙牛宁夏银川马拉松",
@@ -356,7 +328,7 @@
       "title": "中信银行·2026北京大兴半程马拉松",
       "keyword": "05月17日07:30",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "马拉松系列赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/15/77C9197G1TMP.jpg",
@@ -456,16 +428,16 @@
     {
       "mgdbId": "120000576851",
       "pID": "964771765",
-      "title": "世界女子斯诺克锦标赛Day6",
+      "title": "白雨露、埃文斯出战 吴安仪vs刘子铃",
       "keyword": "05月17日10:00",
       "sportItemId": "8",
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "斯诺克",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/17/77CASLGKBJ1P.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "世界女子斯诺克锦标赛Day6",
-      "modifyTitle": "世界女子斯诺克锦标赛Day6",
+      "pkInfoTitle": "白雨露、埃文斯出战 吴安仪vs刘子铃",
+      "modifyTitle": "世界女子斯诺克锦标赛1/4决赛：白雨露、埃文斯出战 吴安仪vs刘子铃",
       "presenters": "",
       "matchInfo": {
         "time": "05月17日10:00"
@@ -1573,7 +1545,7 @@
         },
         {
           "url": "http://sh.frp.one:36234/964720976",
-          "name": "克州队VS��密队 新疆足球超级联赛第一轮: 克州vs哈密"
+          "name": "克州队VS���密队 新疆足球超级联赛第一轮: 克州vs哈密"
         }
       ]
     },
@@ -1802,10 +1774,6 @@
         {
           "url": "http://sh.frp.one:36234/964787619",
           "name": "赛场原声"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964787705",
-          "name": "洪荒"
         },
         {
           "url": "http://sh.frp.one:36234/964787716",
@@ -2693,7 +2661,31 @@
         },
         {
           "url": "http://sh.frp.one:36234/964789144",
-          "name": "中文解���"
+          "name": "中文解说"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000576785",
+      "pID": "120000576785",
+      "title": "IRONMAN 70.3上海崇明站",
+      "keyword": "05月17日07:00",
+      "sportItemId": "",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "IRONMAN 70.3",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/16/77C9VABT97I2.png",
+      "competitionLogo": "",
+      "pkInfoTitle": "IRONMAN 70.3上海崇明站",
+      "modifyTitle": "IRONMAN 70.3上海崇明站",
+      "presenters": "",
+      "matchInfo": {
+        "time": "05月17日07:00"
+      },
+      "nodes": [
+        {
+          "url": "http://sh.frp.one:36234/964754947",
+          "name": "70.3  解说"
         }
       ]
     }
