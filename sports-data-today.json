@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-05-16 15:03:28",
+  "updateTime": "2026-05-16 15:33:36",
   "data": [
     {
       "mgdbId": "120000576718",
@@ -311,7 +311,7 @@
     },
     {
       "mgdbId": "120000575098",
-      "pID": "964361705",
+      "pID": "964817338",
       "title": "武汉篮球城市超级联赛",
       "keyword": "05月16日12:00",
       "sportItemId": "2",
@@ -328,8 +328,8 @@
       },
       "nodes": [
         {
-          "pID": "964361705",
-          "name": "2026赛季武汉篮球城市超级联赛小组循环赛\n第2轮: 7號体育vs湖北励信"
+          "pID": "964817338",
+          "name": "2026武汉篮球城市超级联赛小组循环赛第2轮全场回放：7號体育vs湖北励信（赛场原声）"
         }
       ]
     },
@@ -356,12 +356,12 @@
           "name": "明地阳菜 VS 陈雨菲"
         },
         {
-          "pID": "964694471",
-          "name": "1号场地"
-        },
-        {
           "pID": "964693373",
           "name": "2号场地"
+        },
+        {
+          "pID": "964694471",
+          "name": "1号场地"
         },
         {
           "pID": "964763144",
@@ -412,7 +412,7 @@
     {
       "mgdbId": "120000576066",
       "pID": "963821949",
-      "title": "青岛国信海天vs长沙勇胜",
+      "title": "青岛国信海天122-76长沙勇胜",
       "keyword": "05月16日13:30",
       "sportItemId": "2",
       "matchStatus": "2",
@@ -420,7 +420,7 @@
       "competitionName": "全国青年篮球联赛",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/12/24/10000000139310695eb8.png",
-      "pkInfoTitle": "青岛国信海天vs长沙勇胜",
+      "pkInfoTitle": "青岛国信海天122-76长沙勇胜",
       "modifyTitle": "全国青年篮球联赛",
       "presenters": "",
       "matchInfo": {
@@ -443,22 +443,26 @@
     },
     {
       "mgdbId": "120000576067",
-      "pID": "964666414",
-      "title": "天津荣钢vs新疆广汇",
+      "pID": "963821949",
+      "title": "天津荣钢96-89新疆广汇",
       "keyword": "05月16日13:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "全国青年篮球联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/15/77C93BEDIVPR.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/12/24/10000000139310695eb8.png",
-      "pkInfoTitle": "天津荣钢vs新疆广汇",
+      "pkInfoTitle": "天津荣钢96-89新疆广汇",
       "modifyTitle": "全国青年篮球联赛",
       "presenters": "",
       "matchInfo": {
         "time": "05月16日13:30"
       },
       "nodes": [
+        {
+          "pID": "963821949",
+          "name": "再看依然热血沸腾！中日男篮大战纪录片《逆袭》：重压之下搏命赢回尊重"
+        },
         {
           "pID": "964666414",
           "name": "清流播出"
@@ -573,7 +577,7 @@
         },
         {
           "url": "http://sh.frp.one:36234/964720847",
-          "name": "2026赛季内蒙古足球超级联赛小组���第1轮: 呼伦贝尔市VS兴安盟"
+          "name": "2026赛季内蒙古足球超级联赛小组赛第1轮: 呼伦贝尔市VS兴安盟"
         }
       ]
     },
@@ -703,7 +707,7 @@
       "title": "足协杯第三轮",
       "keyword": "05月16日15:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "兰州奥体中心玫瑰场",
       "competitionName": "足协杯",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000574837/202604182330_233017_H169_1080.webp",
@@ -731,7 +735,7 @@
       "title": "足协杯第三轮",
       "keyword": "05月16日15:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "山西省体育场",
       "competitionName": "足协杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/14/77C85E1GJC8F.jpg",
@@ -759,7 +763,7 @@
       "title": "足协杯第三轮",
       "keyword": "05月16日15:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "乐动力临港足球综合运动中心",
       "competitionName": "足协杯",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000574848/202604200130_248973_H169_1080.webp",
@@ -1333,7 +1337,11 @@
         },
         {
           "url": "http://sh.frp.one:36234/964755451",
-          "name": "武汉三镇VS辽宁铁人楠波湾 梁祥宇 张辛昕"
+          "name": "梁祥宇 张辛昕"
+        },
+        {
+          "url": "http://sh.frp.one:36234/964755437",
+          "name": "赛场原声"
         }
       ]
     },
@@ -1684,7 +1692,7 @@
       "competitionName": "超三联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/15/77C93K3PNR2S.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg",
-      "pkInfoTitle": "超三联赛 贵阳大���赛 A档12晋8及B档决赛",
+      "pkInfoTitle": "超三联赛 贵阳大区赛 A档12晋8及B档决赛",
       "modifyTitle": "超三联赛",
       "presenters": "",
       "matchInfo": {
@@ -1693,6 +1701,10 @@
       "nodes": [
         {
           "pID": "964753502",
+          "name": "解说"
+        },
+        {
+          "url": "http://sh.frp.one:36234/964753502",
           "name": "解说"
         }
       ]
@@ -1889,7 +1901,7 @@
         },
         {
           "url": "http://sh.frp.one:36234/964087206",
-          "name": "阳江VS肇庆 2026广东省城市篮球联赛第八轮: 阳江vs肇庆"
+          "name": "2026广东省城市篮球联赛第八轮: 阳江vs肇庆"
         }
       ]
     },
@@ -3252,7 +3264,7 @@
     {
       "mgdbId": "120000542732",
       "pID": "964787923",
-      "title": "德甲���赛",
+      "title": "德甲联赛",
       "keyword": "05月16日21:30",
       "sportItemId": "1",
       "matchStatus": "0",
