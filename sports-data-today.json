@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-05-17 07:32:17",
+  "updateTime": "2026-05-17 08:02:32",
   "data": [
     {
       "mgdbId": "120000576835",
@@ -356,7 +356,7 @@
       "title": "咪咕体育日报 第112期",
       "keyword": "05月17日00:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "咪咕体育日报",
       "padImg": "",
@@ -1545,7 +1545,7 @@
         },
         {
           "url": "http://sh.frp.one:36234/964720976",
-          "name": "克州队VS���密队 新疆足球超级联赛第一轮: 克州vs哈密"
+          "name": "克州队VS��密队 新疆足球超级联赛第一轮: 克州vs哈密"
         }
       ]
     },
@@ -1774,6 +1774,10 @@
         {
           "url": "http://sh.frp.one:36234/964787619",
           "name": "赛场原声"
+        },
+        {
+          "url": "http://sh.frp.one:36234/964787705",
+          "name": "洪荒"
         },
         {
           "url": "http://sh.frp.one:36234/964787716",
@@ -2661,31 +2665,7 @@
         },
         {
           "url": "http://sh.frp.one:36234/964789144",
-          "name": "中文解说"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000576785",
-      "pID": "120000576785",
-      "title": "IRONMAN 70.3上海崇明站",
-      "keyword": "05月17日07:00",
-      "sportItemId": "",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "IRONMAN 70.3",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/16/77C9VABT97I2.png",
-      "competitionLogo": "",
-      "pkInfoTitle": "IRONMAN 70.3上海崇明站",
-      "modifyTitle": "IRONMAN 70.3上海崇明站",
-      "presenters": "",
-      "matchInfo": {
-        "time": "05月17日07:00"
-      },
-      "nodes": [
-        {
-          "url": "http://sh.frp.one:36234/964754947",
-          "name": "70.3  解说"
+          "name": "中文解���"
         }
       ]
     }
