@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-05-19 12:05:27",
+  "updateTime": "2026-05-19 12:30:54",
   "data": [
     {
       "mgdbId": "120000542160",
@@ -63,11 +63,11 @@
     },
     {
       "mgdbId": "120000576948",
-      "pID": "964855151",
+      "pID": "964864616",
       "title": "NBA季后赛",
       "keyword": "05月19日08:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Paycom中心",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/19/77CCO46TVIKQ.png",
@@ -79,6 +79,10 @@
         "time": "05月19日08:30"
       },
       "nodes": [
+        {
+          "pID": "964864616",
+          "name": "25/26赛季NBA西部决赛G1全场集锦：马刺122:115雷霆（20260519）"
+        },
         {
           "pID": "964855151",
           "name": "杨健 曾令旭 苏群"
@@ -131,7 +135,7 @@
     },
     {
       "mgdbId": "120000577266",
-      "pID": "964849371",
+      "pID": "964849426",
       "title": "董天尧、朱轩辰、胡哲安轮番冲击正赛",
       "keyword": "05月19日10:00",
       "sportItemId": "6",
@@ -306,10 +310,6 @@
         {
           "pID": "964854218",
           "name": "4号桌"
-        },
-        {
-          "pID": "964854194",
-          "name": "2号��"
         }
       ]
     },
