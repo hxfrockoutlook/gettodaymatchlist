@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-05-19 09:00:56",
+  "updateTime": "2026-05-19 09:35:24",
   "data": [
     {
       "mgdbId": "120000542160",
@@ -44,7 +44,7 @@
       "title": "咪咕体育日报 第114期",
       "keyword": "05月19日00:00",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "咪咕体育日报",
       "padImg": "",
@@ -234,10 +234,46 @@
       ]
     },
     {
+      "mgdbId": "120000576779",
+      "pID": "964754396",
+      "title": "李吉妮出战！姆博科压场亮相",
+      "keyword": "05月19日16:30",
+      "sportItemId": "9",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "WTA",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/19/77CCLLUF8KTG.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
+      "pkInfoTitle": "李吉妮出战！姆博科压场亮相",
+      "modifyTitle": "WTA500斯特拉斯堡站女单第一轮：李吉妮出战！姆博科压场亮相",
+      "presenters": "",
+      "matchInfo": {
+        "time": "05月19日16:30"
+      },
+      "nodes": [
+        {
+          "pID": "964754396",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "964754419",
+          "name": "英文原声"
+        },
+        {
+          "url": "http://sh.frp.one:36234/964754396",
+          "name": "赛场原声"
+        },
+        {
+          "url": "http://sh.frp.one:36234/964754419",
+          "name": "英文原声"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000577319",
       "pID": "964854283",
       "title": "单打资格赛第一轮",
-      "keyword": "05月19日16:00",
+      "keyword": "05月19日16:30",
       "sportItemId": "7",
       "matchStatus": "0",
       "matchField": "",
@@ -248,7 +284,7 @@
       "modifyTitle": "WTT拉各斯常规挑战赛单打资格赛第一轮",
       "presenters": "周冠达",
       "matchInfo": {
-        "time": "05月19日16:00"
+        "time": "05月19日16:30"
       },
       "nodes": [
         {
@@ -298,42 +334,6 @@
         {
           "url": "http://sh.frp.one:36234/964854242",
           "name": "5号桌"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000576779",
-      "pID": "964754396",
-      "title": "李吉妮出战！姆博科压场亮相",
-      "keyword": "05月19日16:30",
-      "sportItemId": "9",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "WTA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/19/77CCLLUF8KTG.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "李吉妮出战！姆博科压场亮相",
-      "modifyTitle": "WTA500斯特拉斯堡站女单第一轮：李吉妮出战！姆博科压场亮相",
-      "presenters": "",
-      "matchInfo": {
-        "time": "05月19日16:30"
-      },
-      "nodes": [
-        {
-          "pID": "964754396",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "964754419",
-          "name": "英文原声"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964754396",
-          "name": "赛场原声"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964754419",
-          "name": "英文原声"
         }
       ]
     },
