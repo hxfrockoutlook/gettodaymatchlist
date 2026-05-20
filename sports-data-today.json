@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-05-20 12:01:08",
+  "updateTime": "2026-05-20 12:31:03",
   "data": [
     {
       "mgdbId": "120000542161",
@@ -203,7 +203,7 @@
     },
     {
       "mgdbId": "120000577267",
-      "pID": "964849485",
+      "pID": "964849501",
       "title": "陈雨菲领衔！国羽多线齐发冲16强",
       "keyword": "05月20日09:00",
       "sportItemId": "6",
@@ -220,16 +220,16 @@
       },
       "nodes": [
         {
-          "pID": "964849485",
-          "name": "1号场地"
-        },
-        {
           "pID": "964849501",
           "name": "2号场地"
         },
         {
           "pID": "964849535",
           "name": "4号场地"
+        },
+        {
+          "pID": "964849485",
+          "name": "1号场地"
         },
         {
           "pID": "964849515",
@@ -259,7 +259,7 @@
       "title": "亚冠女足半决赛",
       "keyword": "05月20日13:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "Suwon Sports Complex",
       "competitionName": "亚冠女足",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/18/77CBOTDPGTP2.png",
@@ -457,19 +457,7 @@
         },
         {
           "url": "http://sh.frp.one:36234/964774824",
-          "name": "胡小凡"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964774740",
-          "name": "赛场原声"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964867507",
-          "name": "演播室"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964867523",
-          "name": "智能解说"
+          "name": "我故乡女足VS水原FC女足 胡小凡"
         }
       ]
     },
@@ -631,6 +619,7 @@
     },
     {
       "mgdbId": "120000577653",
+      "pID": "964887667",
       "title": "WTA斯特拉斯堡站女单第二轮：张帅 vs 帕里",
       "keyword": "05月20日19:30",
       "sportItemId": "9",
@@ -641,11 +630,20 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
       "pkInfoTitle": "张帅 vs 帕里",
       "modifyTitle": "WTA斯特拉斯堡站女单第二轮：张帅 vs 帕里",
-      "presenters": "",
+      "presenters": "单文强",
       "matchInfo": {
         "time": "05月20日19:30"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "964887667",
+          "name": "清流播出"
+        },
+        {
+          "pID": "964887671",
+          "name": "单文强"
+        }
+      ]
     },
     {
       "mgdbId": "120000577654",
