@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-05-20 22:31:33",
+  "updateTime": "2026-05-20 23:01:19",
   "data": [
     {
       "mgdbId": "120000542161",
@@ -392,12 +392,12 @@
       },
       "nodes": [
         {
-          "pID": "964890808",
-          "name": "2号桌"
-        },
-        {
           "pID": "964890798",
           "name": "1号桌"
+        },
+        {
+          "pID": "964890808",
+          "name": "2号桌"
         },
         {
           "pID": "964890841",
@@ -708,16 +708,16 @@
     {
       "mgdbId": "120000577654",
       "pID": "964884026",
-      "title": "揭幕战：华南理工 vs 中石大(华东)",
+      "title": "华南理工大学3-2中国石油大学(华东)",
       "keyword": "05月20日19:30",
       "sportItemId": "3",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "中国大学生排球联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/20/77CDKK46LM20.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/5/19/1000000009321062bfbb.jpg",
-      "pkInfoTitle": "揭幕战：华南理工 vs 中石大(华东)",
-      "modifyTitle": "中国大学生排球联赛揭幕战：华南理工 vs 中石大(华东)",
+      "pkInfoTitle": "华南理工大学3-2中国石油大学(华东)",
+      "modifyTitle": "中国大学生排球联赛揭幕战：华南理工大学3-2中国石油大学(华东)",
       "presenters": "",
       "matchInfo": {
         "time": "05月20日19:30"
@@ -918,6 +918,10 @@
         {
           "url": "http://sh.frp.one:36234/964854673",
           "name": "3号桌"
+        },
+        {
+          "url": "http://sh.frp.one:36234/964854685",
+          "name": "4号桌"
         }
       ]
     },
