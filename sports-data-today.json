@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-05-20 17:31:10",
+  "updateTime": "2026-05-20 18:01:23",
   "data": [
     {
       "mgdbId": "120000542161",
@@ -294,6 +294,10 @@
         {
           "url": "http://sh.frp.one:36234/964867480",
           "name": "演播室"
+        },
+        {
+          "url": "http://sh.frp.one:36234/964867486",
+          "name": "智能解说"
         }
       ]
     },
@@ -436,12 +440,12 @@
       },
       "nodes": [
         {
-          "pID": "964890798",
-          "name": "1号桌"
-        },
-        {
           "pID": "964890808",
           "name": "2号桌"
+        },
+        {
+          "pID": "964890798",
+          "name": "1号桌"
         },
         {
           "pID": "964890841",
@@ -467,7 +471,7 @@
       "title": "亚冠女足半决赛",
       "keyword": "05月20日18:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "Suwon Sports Complex",
       "competitionName": "亚冠女足",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/18/77CBOS1S9NJ3.png",
@@ -511,7 +515,7 @@
       "title": "玛利亚、曾丽美轮番登场",
       "keyword": "05月20日18:00",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/20/77CDK2PNGEMG.jpg",
@@ -547,7 +551,7 @@
       "title": "NBA季后赛精彩重播：骑士vs尼克斯 G1",
       "keyword": "05月20日18:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA经典赛事",
       "padImg": "",
