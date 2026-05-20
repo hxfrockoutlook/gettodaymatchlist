@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-05-20 07:31:02",
+  "updateTime": "2026-05-20 08:01:07",
   "data": [
     {
       "mgdbId": "120000542161",
@@ -180,7 +180,7 @@
       "title": "咪咕体育日报 第115期",
       "keyword": "05月20日00:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "咪咕体育日报",
       "padImg": "",
@@ -199,7 +199,7 @@
     },
     {
       "mgdbId": "120000577267",
-      "pID": "964849485",
+      "pID": "964849501",
       "title": "陈雨菲领衔！国羽多线齐发冲16强",
       "keyword": "05月20日09:00",
       "sportItemId": "6",
@@ -216,20 +216,20 @@
       },
       "nodes": [
         {
-          "pID": "964849485",
-          "name": "1号场地"
-        },
-        {
           "pID": "964849501",
           "name": "2号场地"
         },
         {
-          "pID": "964849515",
-          "name": "3号场地"
+          "pID": "964849485",
+          "name": "1号场地"
         },
         {
           "pID": "964849535",
           "name": "4号场地"
+        },
+        {
+          "pID": "964849515",
+          "name": "3号场地"
         },
         {
           "url": "http://sh.frp.one:36234/964849485",
@@ -472,16 +472,16 @@
     {
       "mgdbId": "120000576772",
       "pID": "964753743",
-      "title": "WTA拉巴特站Day4",
+      "title": "曾丽美、玛利亚轮番登场",
       "keyword": "05月20日18:00",
       "sportItemId": "9",
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "WTA",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/20/77CDK2PNGEMG.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "WTA拉巴特站Day4",
-      "modifyTitle": "WTA拉巴特站Day4",
+      "pkInfoTitle": "曾丽美、玛利亚轮番登场",
+      "modifyTitle": "WTA拉巴特站女单第二轮：曾丽美、玛利亚轮番登场",
       "presenters": "",
       "matchInfo": {
         "time": "05月20日18:00"
@@ -780,7 +780,7 @@
     {
       "mgdbId": "120000577322",
       "pID": "964854644",
-      "title": "男女单打资格赛最终轮、男女双打资格赛",
+      "title": "男女单打��格赛最终轮、男女双打资格赛",
       "keyword": "05月20日22:00",
       "sportItemId": "7",
       "matchStatus": "0",
