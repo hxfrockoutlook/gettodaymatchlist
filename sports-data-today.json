@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-05-20 21:31:17",
+  "updateTime": "2026-05-20 22:01:27",
   "data": [
     {
       "mgdbId": "120000542161",
@@ -199,11 +199,11 @@
     },
     {
       "mgdbId": "120000577267",
-      "pID": "964849485",
+      "pID": "964849515",
       "title": "国羽多点开花！陈雨菲速胜晋级",
       "keyword": "05月20日09:00",
       "sportItemId": "6",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "BWF",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/20/77CDJ3ELMPM9.png",
@@ -216,16 +216,16 @@
       },
       "nodes": [
         {
+          "pID": "964849515",
+          "name": "3号场地"
+        },
+        {
           "pID": "964849485",
           "name": "1号场地"
         },
         {
           "pID": "964849501",
           "name": "2号场地"
-        },
-        {
-          "pID": "964849515",
-          "name": "3号场地"
         },
         {
           "pID": "964849535",
@@ -356,6 +356,10 @@
           "name": "4号桌"
         },
         {
+          "url": "http://sh.frp.one:36234/964854489",
+          "name": "1号桌"
+        },
+        {
           "url": "http://sh.frp.one:36234/964854512",
           "name": "2号桌"
         },
@@ -366,46 +370,6 @@
         {
           "url": "http://sh.frp.one:36234/964854558",
           "name": "4号桌"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000576780",
-      "pID": "964754427",
-      "title": "约维奇出战 张帅晋级八强",
-      "keyword": "05月20日16:30",
-      "sportItemId": "9",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "WTA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/20/77CDK1M8ROGR.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "约维奇出战 张帅晋级八强",
-      "modifyTitle": "WTA500斯特拉斯堡站女单第二轮：约维奇出战 张帅晋级八强",
-      "presenters": "",
-      "matchInfo": {
-        "time": "05月20日16:30"
-      },
-      "nodes": [
-        {
-          "pID": "964754427",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "964754440",
-          "name": "英文原声"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964754427",
-          "name": "赛场原声"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964754440",
-          "name": "英文原声"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964887671",
-          "name": "张帅 vs 帕里(单文强)"
         }
       ]
     },
@@ -421,7 +385,7 @@
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/20/77CDJ3V85UBL.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "中国选手帕如克、张辽、廖予生出战",
-      "modifyTitle": "Qschool第一日：帕如克vs张辽",
+      "modifyTitle": "斯诺克Qschool第一日",
       "presenters": "",
       "matchInfo": {
         "time": "05月20日17:00"
@@ -469,7 +433,7 @@
         },
         {
           "url": "http://sh.frp.one:36234/964890903",
-          "name": "中国选手帕如���、张辽、廖予生出战 5号桌"
+          "name": "5号桌"
         },
         {
           "url": "http://sh.frp.one:36234/964890929",
@@ -516,16 +480,16 @@
     {
       "mgdbId": "120000576772",
       "pID": "964753743",
-      "title": "玛利亚、曾丽美轮番登场",
+      "title": "曾丽美出战 玛利亚止步",
       "keyword": "05月20日18:00",
       "sportItemId": "9",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/20/77CDK9EI8BR6.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/20/77CDKLQVBGCC.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "玛利亚、曾丽美轮番登场",
-      "modifyTitle": "WTA拉巴特站女单第二轮：玛利亚、曾丽美轮番登场",
+      "pkInfoTitle": "曾丽美出战 玛利亚止步",
+      "modifyTitle": "WTA拉巴特站女单第二轮：曾丽美出战 玛利亚止步",
       "presenters": "",
       "matchInfo": {
         "time": "05月20日18:00"
@@ -555,7 +519,7 @@
       "title": "NBA季后赛精彩重播：骑士vs尼克斯 G1",
       "keyword": "05月20日18:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA经典赛事",
       "padImg": "",
@@ -619,7 +583,7 @@
       "title": "浙江省城市足球联赛",
       "keyword": "05月20日19:15",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "吴越杯",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000577279/202605181335_823528_H169_1080.webp",
@@ -647,7 +611,7 @@
       "title": "浙江省城市足球联赛",
       "keyword": "05月20日19:15",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "吴越杯",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000577280/202605181340_368813_H169_1080.webp",
@@ -665,7 +629,7 @@
         },
         {
           "url": "http://sh.frp.one:36234/964851659",
-          "name": "绍��队VS金华队 2026赛季浙江省城市足球联赛第十轮: 绍兴VS金华"
+          "name": "2026赛季浙江省城市足球联赛第十轮: 绍兴VS金华"
         }
       ]
     },
@@ -675,7 +639,7 @@
       "title": "浙江省城市足球联赛",
       "keyword": "05月20日19:15",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "吴越杯",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000577281/202605181340_396317_H169_1080.webp",
@@ -761,7 +725,7 @@
       "nodes": [
         {
           "pID": "964884026",
-          "name": "官方解说"
+          "name": "现场原声"
         },
         {
           "url": "http://sh.frp.one:36234/964884026",
@@ -775,7 +739,7 @@
       "title": "中超联赛",
       "keyword": "05月20日19:35",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "上海体育场",
       "competitionName": "中超",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000569716/194173_H169_sc.jpg",
@@ -824,6 +788,10 @@
       },
       "nodes": [
         {
+          "pID": "964902040",
+          "name": "古德温28分白边18+11+4帽 上海轻取北京赢下天王山之战"
+        },
+        {
           "pID": "964768025",
           "name": "图文直播"
         },
@@ -842,7 +810,7 @@
       "matchStatus": "1",
       "matchField": "黄龙体育中心体育场",
       "competitionName": "中超",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000569714/441582_H169_sc.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000569714/465212_H169_sc.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png",
       "pkInfoTitle": "浙江 vs 山东泰山",
       "modifyTitle": "中超联赛",
@@ -875,7 +843,7 @@
       "title": "中超联赛",
       "keyword": "05月20日20:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "重庆龙兴足球场",
       "competitionName": "中超",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000569715/449782_H169_sc.jpg",
@@ -908,15 +876,15 @@
     {
       "mgdbId": "120000577322",
       "pID": "964854644",
-      "title": "男女单打资格赛最终轮、男女双打资格赛",
+      "title": "帕亚斯·贾恩冲正赛 谢蒂出战",
       "keyword": "05月20日22:00",
       "sportItemId": "7",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/20/77CDKJUDE5FT.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "男女单打资格赛最终轮、男女双打资格赛",
+      "pkInfoTitle": "帕亚斯·贾恩冲正赛 谢蒂出战",
       "modifyTitle": "WTT拉各斯常规挑战赛男女单打资格赛最终轮、男女双打资格赛",
       "presenters": "",
       "matchInfo": {
@@ -954,6 +922,34 @@
         {
           "url": "http://sh.frp.one:36234/964854685",
           "name": "4号桌"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000576780",
+      "pID": "964754427",
+      "title": "约维奇出战 张帅晋级八强",
+      "keyword": "05月20日23:30",
+      "sportItemId": "9",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "WTA",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/20/77CDK1M8ROGR.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
+      "pkInfoTitle": "约维奇出战 张帅晋级八强",
+      "modifyTitle": "WTA500斯特拉斯堡站女单第二轮：约维奇出战 张帅晋级八强",
+      "presenters": "",
+      "matchInfo": {
+        "time": "05月20日23:30"
+      },
+      "nodes": [
+        {
+          "pID": "964754427",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "964754440",
+          "name": "英文原声"
         }
       ]
     }
