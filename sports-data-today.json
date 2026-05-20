@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-05-20 15:31:07",
+  "updateTime": "2026-05-20 16:01:17",
   "data": [
     {
       "mgdbId": "120000542161",
@@ -303,7 +303,7 @@
       "title": "男女混合团体决赛",
       "keyword": "05月20日16:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "全国体操锦标赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/19/77CCNEM23Q5B.jpg",
@@ -331,7 +331,7 @@
       "title": "塔卡/巴特拉冲开门红 帕亚斯·贾恩登场",
       "keyword": "05月20日16:00",
       "sportItemId": "7",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/19/77CCM1SR9E58.jpg",
@@ -414,6 +414,50 @@
         {
           "url": "http://sh.frp.one:36234/964754440",
           "name": "英文原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000577761",
+      "pID": "964890798",
+      "title": "斯诺克Qschool第一阶段Day1下午场",
+      "keyword": "05月20日17:00",
+      "sportItemId": "8",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "斯诺克",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
+      "pkInfoTitle": "斯诺克Qschool第一阶段Day1下午场",
+      "modifyTitle": "斯诺克Qschool第一阶段Day1下午场：新疆小将帕鲁克vs张辽",
+      "presenters": "",
+      "matchInfo": {
+        "time": "05月20日17:00"
+      },
+      "nodes": [
+        {
+          "pID": "964890798",
+          "name": "1号桌"
+        },
+        {
+          "pID": "964890808",
+          "name": "2号桌"
+        },
+        {
+          "pID": "964890841",
+          "name": "3号桌"
+        },
+        {
+          "pID": "964890862",
+          "name": "4号桌"
+        },
+        {
+          "pID": "964890903",
+          "name": "5号桌"
+        },
+        {
+          "pID": "964890929",
+          "name": "6号桌"
         }
       ]
     },
@@ -756,7 +800,7 @@
     {
       "mgdbId": "120000576713",
       "pID": "964768025",
-      "title": "CBA季后赛半决赛",
+      "title": "CBA季后赛半决���",
       "keyword": "05月20日19:35",
       "sportItemId": "2",
       "matchStatus": "0",
@@ -870,6 +914,50 @@
       ]
     },
     {
+      "mgdbId": "120000577762",
+      "pID": "964891062",
+      "title": "斯诺克Qschool第一阶段Day1晚间场",
+      "keyword": "05月20日20:00",
+      "sportItemId": "8",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "斯诺克",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
+      "pkInfoTitle": "斯诺克Qschool第一阶段Day1晚间场",
+      "modifyTitle": "斯诺克Qschool",
+      "presenters": "",
+      "matchInfo": {
+        "time": "05月20日20:00"
+      },
+      "nodes": [
+        {
+          "pID": "964891062",
+          "name": "1号桌"
+        },
+        {
+          "pID": "964891109",
+          "name": "2号桌"
+        },
+        {
+          "pID": "964891162",
+          "name": "3号桌"
+        },
+        {
+          "pID": "964891240",
+          "name": "4号桌"
+        },
+        {
+          "pID": "964891270",
+          "name": "5号桌"
+        },
+        {
+          "pID": "964891354",
+          "name": "6号桌"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000577322",
       "pID": "964854644",
       "title": "男女单打资格赛最终轮、男女双打资格赛",
@@ -918,6 +1006,50 @@
         {
           "url": "http://sh.frp.one:36234/964854685",
           "name": "4号桌"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000577763",
+      "pID": "964891429",
+      "title": "斯诺克Qschool第一阶段Day1夜间场",
+      "keyword": "05月20日23:00",
+      "sportItemId": "8",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "斯诺克",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
+      "pkInfoTitle": "斯诺克Qschool第一阶段Day1夜间场",
+      "modifyTitle": "斯诺克Qschool",
+      "presenters": "",
+      "matchInfo": {
+        "time": "05月20日23:00"
+      },
+      "nodes": [
+        {
+          "pID": "964891429",
+          "name": "1号桌"
+        },
+        {
+          "pID": "964891464",
+          "name": "2号桌"
+        },
+        {
+          "pID": "964891503",
+          "name": "3号桌"
+        },
+        {
+          "pID": "964891536",
+          "name": "4号桌"
+        },
+        {
+          "pID": "964891574",
+          "name": "5号桌"
+        },
+        {
+          "pID": "964891611",
+          "name": "6号桌"
         }
       ]
     }
