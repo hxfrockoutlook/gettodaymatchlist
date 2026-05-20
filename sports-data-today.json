@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-05-20 16:01:17",
+  "updateTime": "2026-05-20 16:31:11",
   "data": [
     {
       "mgdbId": "120000542161",
@@ -199,14 +199,14 @@
     },
     {
       "mgdbId": "120000577267",
-      "pID": "964849501",
+      "pID": "964849485",
       "title": "陈雨菲领衔！国羽多线齐发冲16强",
       "keyword": "05月20日09:00",
       "sportItemId": "6",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "BWF",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/20/77CDIJRSJK5U.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/20/77CDJ3ELMPM9.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "陈雨菲领衔！国羽多线齐发冲16强",
       "modifyTitle": "马来西亚羽毛球大师赛第二日：陈雨菲领衔！国羽多线齐发冲16强",
@@ -215,6 +215,10 @@
         "time": "05月20日09:00"
       },
       "nodes": [
+        {
+          "pID": "964849485",
+          "name": "1号场地"
+        },
         {
           "pID": "964849501",
           "name": "2号场地"
@@ -226,10 +230,6 @@
         {
           "pID": "964849535",
           "name": "4号场地"
-        },
-        {
-          "pID": "964849485",
-          "name": "1号场地"
         },
         {
           "url": "http://sh.frp.one:36234/964849501",
@@ -294,6 +294,10 @@
         {
           "url": "http://sh.frp.one:36234/964867480",
           "name": "演播室"
+        },
+        {
+          "url": "http://sh.frp.one:36234/964867486",
+          "name": "智能解说"
         }
       ]
     },
@@ -334,7 +338,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/19/77CCM1SR9E58.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/20/77CDJ4BHH96U.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "塔卡/巴特拉冲开门红 帕亚斯·贾恩登场",
       "modifyTitle": "WTT拉各斯常规挑战赛混双资格赛、单打资格赛第三轮",
@@ -409,7 +413,7 @@
         },
         {
           "url": "http://sh.frp.one:36234/964754427",
-          "name": "赛场原声"
+          "name": "八强争���！陶森、约维奇出战 赛场原声"
         },
         {
           "url": "http://sh.frp.one:36234/964754440",
@@ -426,10 +430,10 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "斯诺克",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/20/77CDJ3V85UBL.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "斯诺克Qschool第一阶段Day1下午场",
-      "modifyTitle": "斯诺克Qschool第一阶段Day1下午场：新疆小将帕鲁克vs张辽",
+      "modifyTitle": "斯诺克Qschool第一阶段Day1下午场：帕鲁克vs张辽",
       "presenters": "",
       "matchInfo": {
         "time": "05月20日17:00"
@@ -800,7 +804,7 @@
     {
       "mgdbId": "120000576713",
       "pID": "964768025",
-      "title": "CBA季后赛半决���",
+      "title": "CBA季后赛半决赛",
       "keyword": "05月20日19:35",
       "sportItemId": "2",
       "matchStatus": "0",
