@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-05-20 18:01:23",
+  "updateTime": "2026-05-20 18:31:10",
   "data": [
     {
       "mgdbId": "120000542161",
@@ -199,7 +199,7 @@
     },
     {
       "mgdbId": "120000577267",
-      "pID": "964849485",
+      "pID": "964885820",
       "title": "陈雨菲领衔！国羽多线齐发冲16强",
       "keyword": "05月20日09:00",
       "sportItemId": "6",
@@ -210,18 +210,22 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "陈雨菲领衔！国羽多线齐发冲16强",
       "modifyTitle": "马来西亚羽毛球大师赛第二日：陈雨菲领衔！国羽多线齐发冲16强",
-      "presenters": "",
+      "presenters": "杨妮娜",
       "matchInfo": {
         "time": "05月20日09:00"
       },
       "nodes": [
         {
-          "pID": "964849485",
-          "name": "1号场地"
+          "pID": "964885820",
+          "name": "梁峻豪 VS 胡哲安"
         },
         {
           "pID": "964849501",
           "name": "2号场地"
+        },
+        {
+          "pID": "964849485",
+          "name": "1号场地"
         },
         {
           "pID": "964849515",
@@ -294,10 +298,6 @@
         {
           "url": "http://sh.frp.one:36234/964867480",
           "name": "演播室"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964867486",
-          "name": "智能解说"
         }
       ]
     },
@@ -332,15 +332,15 @@
     {
       "mgdbId": "120000577321",
       "pID": "964854489",
-      "title": "塔卡/巴特拉迎开门红 帕亚斯·贾恩登场",
+      "title": "塔卡/巴特拉横扫取胜 帕亚斯·贾恩憾负",
       "keyword": "05月20日16:00",
       "sportItemId": "7",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/20/77CDJ4BHH96U.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/20/77CDJL26HV9A.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "塔卡/巴特拉迎开门红 帕亚斯·贾恩登场",
+      "pkInfoTitle": "塔卡/巴特拉横扫取胜 帕亚斯·贾恩憾负",
       "modifyTitle": "WTT拉各斯常规挑战赛混双资格赛、单打资格赛第三轮",
       "presenters": "",
       "matchInfo": {
@@ -918,32 +918,7 @@
       "matchInfo": {
         "time": "05月20日20:00"
       },
-      "nodes": [
-        {
-          "pID": "964891062",
-          "name": "1号桌"
-        },
-        {
-          "pID": "964891109",
-          "name": "2号桌"
-        },
-        {
-          "pID": "964891162",
-          "name": "3号桌"
-        },
-        {
-          "pID": "964891240",
-          "name": "4号桌"
-        },
-        {
-          "pID": "964891270",
-          "name": "5号桌"
-        },
-        {
-          "pID": "964891354",
-          "name": "6号桌"
-        }
-      ]
+      "nodes": []
     },
     {
       "mgdbId": "120000577322",
@@ -1014,32 +989,7 @@
       "matchInfo": {
         "time": "05月20日23:00"
       },
-      "nodes": [
-        {
-          "pID": "964891429",
-          "name": "1号桌"
-        },
-        {
-          "pID": "964891464",
-          "name": "2号桌"
-        },
-        {
-          "pID": "964891503",
-          "name": "3号桌"
-        },
-        {
-          "pID": "964891536",
-          "name": "4号桌"
-        },
-        {
-          "pID": "964891574",
-          "name": "5号桌"
-        },
-        {
-          "pID": "964891611",
-          "name": "6号桌"
-        }
-      ]
+      "nodes": []
     }
   ]
 }
