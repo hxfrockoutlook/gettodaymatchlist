@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-05-22 08:31:08",
+  "updateTime": "2026-05-22 09:01:06",
   "data": [
     {
       "mgdbId": "120000577335",
@@ -132,7 +132,7 @@
       "title": "咪咕体育日报 第117期",
       "keyword": "05月22日00:00",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "咪咕体育日报",
       "padImg": "",
@@ -151,7 +151,7 @@
     },
     {
       "mgdbId": "120000577911",
-      "pID": "964912133",
+      "pID": "964919981",
       "title": "小组赛第二轮",
       "keyword": "05月22日08:30",
       "sportItemId": "3",
@@ -168,22 +168,6 @@
       },
       "nodes": [
         {
-          "pID": "964912133",
-          "name": "男子组一号场地"
-        },
-        {
-          "pID": "964912138",
-          "name": "男子组二号场地"
-        },
-        {
-          "pID": "964912180",
-          "name": "女子组一号场地"
-        },
-        {
-          "pID": "964912197",
-          "name": "女子组二号场地"
-        },
-        {
           "pID": "964919981",
           "name": "男子组一号场地"
         },
@@ -197,6 +181,22 @@
         },
         {
           "pID": "964920020",
+          "name": "女子组二号场地"
+        },
+        {
+          "pID": "964912133",
+          "name": "男子组一号场地"
+        },
+        {
+          "pID": "964912138",
+          "name": "男子组二号场地"
+        },
+        {
+          "pID": "964912180",
+          "name": "女子组一号场地"
+        },
+        {
+          "pID": "964912197",
           "name": "女子组二号场地"
         },
         {
@@ -235,11 +235,11 @@
     },
     {
       "mgdbId": "120000577269",
-      "pID": "964849605",
+      "pID": "964920181",
       "title": "陈雨菲领衔！李诗沣PK大波波夫",
       "keyword": "05月22日09:00",
       "sportItemId": "6",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "BWF",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/21/77CEI842OD1O.png",
@@ -251,6 +251,10 @@
         "time": "05月22日09:00"
       },
       "nodes": [
+        {
+          "pID": "964920181",
+          "name": "解说：轩子博"
+        },
         {
           "pID": "964849605",
           "name": "1号场地"
@@ -266,10 +270,6 @@
         {
           "pID": "964886182",
           "name": "1号场地英文解说视角"
-        },
-        {
-          "pID": "964920181",
-          "name": "解说：轩子博"
         },
         {
           "url": "http://sh.frp.one:36234/964849605",
@@ -722,16 +722,16 @@
     {
       "mgdbId": "120000576776",
       "pID": "964753841",
-      "title": "李吉妮出战！姆博科接场冲决赛",
+      "title": "乌德瓦尔迪、马辛科轮番登场",
       "keyword": "05月22日20:00",
       "sportItemId": "9",
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "WTA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/22/77CFDD1KF12N.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/22/77CFEIISNT11.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "李吉妮出战！姆博科接场冲决赛",
-      "modifyTitle": "WTA拉巴特站女单半决赛：李吉妮出战！姆博科接场冲决赛",
+      "pkInfoTitle": "乌德瓦尔迪、马辛科轮番登场",
+      "modifyTitle": "WTA拉巴特站女单半决赛：乌德瓦尔迪、马辛科轮番登场",
       "presenters": "",
       "matchInfo": {
         "time": "05月22日20:00"
@@ -764,7 +764,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "WTA",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/22/77CFEH7559Q2.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
       "pkInfoTitle": "李吉妮出战！姆博科接场冲决赛",
       "modifyTitle": "WTA500斯特拉斯堡站女单半决赛：李吉妮出战！姆博科接场冲决赛",
