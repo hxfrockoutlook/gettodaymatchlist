@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-05-22 14:01:15",
+  "updateTime": "2026-05-22 14:31:10",
   "data": [
     {
       "mgdbId": "120000577335",
@@ -168,6 +168,14 @@
           "name": "男子组二号场地"
         },
         {
+          "pID": "964920006",
+          "name": "女子组一号场地"
+        },
+        {
+          "pID": "964920020",
+          "name": "女子组二号场地"
+        },
+        {
           "pID": "964912133",
           "name": "男子组一号场地"
         },
@@ -178,14 +186,6 @@
         {
           "pID": "964912180",
           "name": "女子组一号场地"
-        },
-        {
-          "pID": "964920006",
-          "name": "女子组一号场地"
-        },
-        {
-          "pID": "964920020",
-          "name": "女子组二号场地"
         },
         {
           "pID": "964912197",
@@ -522,6 +522,24 @@
       ]
     },
     {
+      "mgdbId": "300000002066",
+      "title": "篮球公园——CBA半决赛激战正酣",
+      "keyword": "05月22日00:00",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "CBA",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/22/77CFCO4879KL.png",
+      "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/02/770HDE6N6HQ1.png",
+      "pkInfoTitle": "篮球公园——CBA半决赛激战正酣",
+      "modifyTitle": "篮球公园——CBA半决赛激战正酣",
+      "presenters": "",
+      "matchInfo": {
+        "time": "05月22日00:00"
+      },
+      "nodes": []
+    },
+    {
       "mgdbId": "120000572039",
       "pID": "964913178",
       "title": "中乙联赛",
@@ -657,7 +675,7 @@
         },
         {
           "url": "http://sh.frp.one:36234/964913203",
-          "name": "��说"
+          "name": "���说"
         }
       ]
     },
