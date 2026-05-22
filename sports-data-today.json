@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-05-22 14:31:10",
+  "updateTime": "2026-05-22 15:01:17",
   "data": [
     {
       "mgdbId": "120000577335",
@@ -231,7 +231,7 @@
       "title": "中乙联赛",
       "keyword": "05月22日15:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "普湾体育场",
       "competitionName": "中乙",
       "padImg": "",
@@ -259,7 +259,7 @@
       "title": "陈雨菲、李诗沣晋级四强！陆光祖出战",
       "keyword": "05月22日15:00",
       "sportItemId": "6",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "BWF",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/22/77CFFL1PL04O.png",
@@ -420,10 +420,6 @@
           "name": "1号桌"
         },
         {
-          "url": "http://sh.frp.one:36234/964891310",
-          "name": "2号桌"
-        },
-        {
           "url": "http://sh.frp.one:36234/964891339",
           "name": "3号桌"
         },
@@ -523,6 +519,7 @@
     },
     {
       "mgdbId": "300000002066",
+      "pID": "964928322",
       "title": "篮球公园——CBA半决赛激战正酣",
       "keyword": "05月22日00:00",
       "sportItemId": "2",
@@ -537,7 +534,12 @@
       "matchInfo": {
         "time": "05月22日00:00"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "964928322",
+          "name": "篮球公园"
+        }
+      ]
     },
     {
       "mgdbId": "120000572039",
@@ -675,7 +677,7 @@
         },
         {
           "url": "http://sh.frp.one:36234/964913203",
-          "name": "���说"
+          "name": "温州俱乐部VS广东铭途 ��说"
         }
       ]
     },
