@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-05-22 10:31:03",
+  "updateTime": "2026-05-22 11:01:06",
   "data": [
     {
       "mgdbId": "120000577335",
@@ -41,15 +41,15 @@
     {
       "mgdbId": "120000575674",
       "pID": "964889060",
-      "title": "UFC巴西柔术大赛第8期：穆苏梅奇VS丹茨勒",
+      "title": "穆苏梅奇莫拉双线告捷！成功卫冕金腰带",
       "keyword": "05月22日08:00",
       "sportItemId": "5",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "UFC BJJ",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/20/77CDIQ21IDI9.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/3/31/1000000013991064d8b5.png",
-      "pkInfoTitle": "UFC巴西柔术大赛第8期：穆苏梅奇VS丹茨勒",
+      "pkInfoTitle": "穆苏梅奇莫拉双线告捷！成功卫冕金腰带",
       "modifyTitle": "UFC巴西柔术大赛第8期：穆苏梅奇VS丹茨勒",
       "presenters": "王琰博 郝俊",
       "matchInfo": {
@@ -59,10 +59,6 @@
         {
           "pID": "964889060",
           "name": "王琰博 郝俊"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964889060",
-          "name": "BJJ  王琰博 郝俊"
         }
       ]
     },
@@ -75,7 +71,7 @@
       "matchStatus": "1",
       "matchField": "麦迪逊广场花园",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/21/77CEI8TB2V8D.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/22/77CFF4R4B1NV.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "骑士VS尼克斯",
       "modifyTitle": "NBA季后赛",
@@ -84,6 +80,10 @@
         "time": "05月22日08:00"
       },
       "nodes": [
+        {
+          "pID": "964924394",
+          "name": "这下摔得真狠！哈特杀筐崴脚+重摔 立马起身诠释硬汉本色"
+        },
         {
           "pID": "964862785",
           "name": "庄宁宇 陈正昊 徐咏"
@@ -144,7 +144,7 @@
     {
       "mgdbId": "120000577911",
       "pID": "964919981",
-      "title": "小组赛第二轮",
+      "title": "复旦大学VS北京师范大学",
       "keyword": "05月22日08:30",
       "sportItemId": "3",
       "matchStatus": "1",
@@ -152,7 +152,7 @@
       "competitionName": "中国大学生排球联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/21/77CEGOFFK7DB.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/5/19/1000000009321062bfbb.jpg",
-      "pkInfoTitle": "小组赛第二轮",
+      "pkInfoTitle": "复旦大学VS北京师范大学",
       "modifyTitle": "中国大学生排球联赛小组赛第二轮",
       "presenters": "",
       "matchInfo": {
@@ -227,33 +227,25 @@
     },
     {
       "mgdbId": "120000577269",
-      "pID": "964920195",
-      "title": "陈雨菲晋级！李诗沣PK大波波夫",
+      "pID": "964920242",
+      "title": "陈雨菲、李诗沣双双晋级四强",
       "keyword": "05月22日09:00",
       "sportItemId": "6",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "BWF",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/22/77CFESHNOAOD.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/22/77CFF6D8L703.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
-      "pkInfoTitle": "陈雨菲晋级！李诗沣PK大波波夫",
-      "modifyTitle": "马来西亚羽毛球大师赛第四日：陈雨菲晋级！李诗沣PK大波波夫",
-      "presenters": "轩子博 孙宁智",
+      "pkInfoTitle": "陈雨菲、李诗沣双双晋级四强",
+      "modifyTitle": "马来西亚羽毛球大师赛第四日：陈雨菲、李诗沣双双晋级四强",
+      "presenters": "孙宁智",
       "matchInfo": {
         "time": "05月22日09:00"
       },
       "nodes": [
         {
-          "pID": "964920195",
-          "name": "李诗沣VS大波波夫"
-        },
-        {
           "pID": "964920242",
           "name": "乔纳坦VS胡哲安"
-        },
-        {
-          "pID": "964849605",
-          "name": "1号场地"
         },
         {
           "pID": "964849659",
@@ -262,6 +254,10 @@
         {
           "pID": "964849629",
           "name": "2号场地"
+        },
+        {
+          "pID": "964849605",
+          "name": "1号场地"
         },
         {
           "pID": "964886182",
@@ -404,7 +400,7 @@
     {
       "mgdbId": "120000577769",
       "pID": "964891266",
-      "title": "巩晨智出战 李俊威迎战克里斯·托顿",
+      "title": "巩晨智、李俊威、米尔金斯出战",
       "keyword": "05月22日17:00",
       "sportItemId": "8",
       "matchStatus": "0",
@@ -412,8 +408,8 @@
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/20/77CDK9A9MLA8.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "巩晨智出战 李俊威迎战克里斯·托顿",
-      "modifyTitle": "斯诺克Qschool第三日",
+      "pkInfoTitle": "巩晨智、李俊威、米尔金斯出战",
+      "modifyTitle": "斯诺克Qschool第二轮",
       "presenters": "",
       "matchInfo": {
         "time": "05月22日17:00"
@@ -489,7 +485,7 @@
       "nodes": [
         {
           "pID": "964914302",
-          "name": "第二阶段"
+          "name": "经典回顾"
         },
         {
           "url": "http://sh.frp.one:36234/964914302",
@@ -661,7 +657,7 @@
         },
         {
           "url": "http://sh.frp.one:36234/964913203",
-          "name": "���说"
+          "name": "��说"
         }
       ]
     },
