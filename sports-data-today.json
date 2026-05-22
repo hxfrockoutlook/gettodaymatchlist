@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-05-22 11:01:06",
+  "updateTime": "2026-05-22 11:31:03",
   "data": [
     {
       "mgdbId": "120000577335",
@@ -64,11 +64,11 @@
     },
     {
       "mgdbId": "120000577273",
-      "pID": "964862785",
+      "pID": "964925906",
       "title": "NBA季后赛",
       "keyword": "05月22日08:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "麦迪逊广场花园",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/22/77CFF4R4B1NV.jpg",
@@ -81,8 +81,8 @@
       },
       "nodes": [
         {
-          "pID": "964924394",
-          "name": "这下摔得真狠！哈特杀筐崴脚+重摔 立马起身诠释硬汉本色"
+          "pID": "964925906",
+          "name": "25/26赛季NBA东部决赛G2全场集锦：骑士93:109尼克斯（20260522）"
         },
         {
           "pID": "964862785",
@@ -143,8 +143,8 @@
     },
     {
       "mgdbId": "120000577911",
-      "pID": "964919981",
-      "title": "复旦大学VS北京师范大学",
+      "pID": "964920006",
+      "title": "沈阳体育学院VS吉林大学",
       "keyword": "05月22日08:30",
       "sportItemId": "3",
       "matchStatus": "1",
@@ -152,7 +152,7 @@
       "competitionName": "中国大学生排球联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/21/77CEGOFFK7DB.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/5/19/1000000009321062bfbb.jpg",
-      "pkInfoTitle": "复旦大学VS北京师范大学",
+      "pkInfoTitle": "沈阳体育学院VS吉林大学",
       "modifyTitle": "中国大学生排球联赛小组赛第二轮",
       "presenters": "",
       "matchInfo": {
@@ -160,16 +160,20 @@
       },
       "nodes": [
         {
+          "pID": "964920006",
+          "name": "女子组一号场地"
+        },
+        {
+          "pID": "964912180",
+          "name": "女子组一号场地"
+        },
+        {
           "pID": "964919981",
           "name": "男子组一号场地"
         },
         {
           "pID": "964919998",
           "name": "男子组二号场地"
-        },
-        {
-          "pID": "964920006",
-          "name": "女子组一号场地"
         },
         {
           "pID": "964920020",
@@ -182,10 +186,6 @@
         {
           "pID": "964912138",
           "name": "男子组二号场地"
-        },
-        {
-          "pID": "964912180",
-          "name": "女子组一号场地"
         },
         {
           "pID": "964912197",
@@ -227,37 +227,33 @@
     },
     {
       "mgdbId": "120000577269",
-      "pID": "964920242",
-      "title": "陈雨菲、李诗沣双双晋级四强",
+      "pID": "964849605",
+      "title": "陈雨菲、李诗沣晋级四强！陆光祖出战",
       "keyword": "05月22日09:00",
       "sportItemId": "6",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "BWF",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/22/77CFF6D8L703.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/22/77CFFAPJ31KV.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
-      "pkInfoTitle": "陈雨菲、李诗沣双双晋级四强",
-      "modifyTitle": "马来西亚羽毛球大师赛第四日：陈雨菲、李诗沣双双晋级四强",
-      "presenters": "孙宁智",
+      "pkInfoTitle": "陈雨菲、李诗沣晋级四强！陆光祖出战",
+      "modifyTitle": "马来西亚羽毛球大师赛第四日：陈雨菲、李诗沣晋级四强！陆光祖出战",
+      "presenters": "",
       "matchInfo": {
         "time": "05月22日09:00"
       },
       "nodes": [
         {
-          "pID": "964920242",
-          "name": "乔纳坦VS胡哲安"
-        },
-        {
-          "pID": "964849659",
-          "name": "3号场地"
+          "pID": "964849605",
+          "name": "1号场地"
         },
         {
           "pID": "964849629",
           "name": "2号场地"
         },
         {
-          "pID": "964849605",
-          "name": "1号场地"
+          "pID": "964849659",
+          "name": "3号场地"
         },
         {
           "pID": "964886182",
@@ -657,7 +653,7 @@
         },
         {
           "url": "http://sh.frp.one:36234/964913203",
-          "name": "��说"
+          "name": "���说"
         }
       ]
     },
