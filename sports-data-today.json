@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-05-23 11:32:42",
+  "updateTime": "2026-05-23 12:02:56",
   "data": [
     {
       "mgdbId": "120000577646",
@@ -66,17 +66,17 @@
         },
         {
           "url": "http://sh.frp.one:36234/964937862",
-          "name": "全场回放���石庆圣）"
+          "name": "全场回放��石庆圣）"
         }
       ]
     },
     {
       "mgdbId": "120000576950",
-      "pID": "964862882",
+      "pID": "964941474",
       "title": "NBA季后赛",
       "keyword": "05月23日08:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "冰霜银行中心",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/23/77CGCG5U8J7A.jpg",
@@ -88,6 +88,10 @@
         "time": "05月23日08:30"
       },
       "nodes": [
+        {
+          "pID": "964941474",
+          "name": "25-26赛季NBA西部决赛G3全场集锦：雷霆123:108马刺（20260523）"
+        },
         {
           "pID": "964862882",
           "name": "李天宇 刘家成 张兆旭"
@@ -119,66 +123,6 @@
         {
           "url": "http://sh.frp.one:36234/964862969",
           "name": "智能字幕"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000577912",
-      "pID": "964924185",
-      "title": "小组赛第三轮",
-      "keyword": "05月23日08:30",
-      "sportItemId": "3",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "中国大学生排球联赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/22/77CFDCV6CSME.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/5/19/1000000009321062bfbb.jpg",
-      "pkInfoTitle": "小组赛第三轮",
-      "modifyTitle": "中国大学生排球联赛小组赛第三轮",
-      "presenters": "",
-      "matchInfo": {
-        "time": "05月23日08:30"
-      },
-      "nodes": [
-        {
-          "pID": "964924185",
-          "name": "女子组一号场地"
-        },
-        {
-          "pID": "964912600",
-          "name": "赛场原声"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964924136",
-          "name": "男子组一号场地"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964924185",
-          "name": "女子组一号场地"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964924191",
-          "name": "女子组二号场地"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964924166",
-          "name": "男子组二号场地"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964912353",
-          "name": "赛场原声"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964912586",
-          "name": "赛场原声"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964912600",
-          "name": "赛场原声"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964912608",
-          "name": "赛场原声"
         }
       ]
     },
@@ -235,7 +179,7 @@
       "title": "武汉篮球城市超级联赛",
       "keyword": "05月23日12:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "城超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000575025/202604221410_787847_H169_1080.webp",
@@ -259,7 +203,7 @@
       "title": "国羽内战！胡哲安PK李诗沣",
       "keyword": "05月23日12:00",
       "sportItemId": "6",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "BWF",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/22/77CFF49829JQ.png",
@@ -361,6 +305,42 @@
         },
         {
           "url": "http://sh.frp.one:36234/964928011",
+          "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000577912",
+      "pID": "964924136",
+      "title": "中国大学生排球联赛day4",
+      "keyword": "05月23日13:00",
+      "sportItemId": "3",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "中国大学生排球联赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/22/77CFDCV6CSME.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/5/19/1000000009321062bfbb.jpg",
+      "pkInfoTitle": "中国大学生排球联赛day4",
+      "modifyTitle": "中国大学生排球联赛小组赛第三轮",
+      "presenters": "",
+      "matchInfo": {
+        "time": "05月23日13:00"
+      },
+      "nodes": [
+        {
+          "pID": "964924136",
+          "name": "男子组一号场地"
+        },
+        {
+          "pID": "964924166",
+          "name": "男子组二号场地"
+        },
+        {
+          "pID": "964912353",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "964912586",
           "name": "赛场原声"
         }
       ]
@@ -837,7 +817,7 @@
         },
         {
           "url": "http://sh.frp.one:36234/964894008",
-          "name": "场坝大河口��军岩队VS仁吉村村牛足球队 2026赛季贵州村超联赛第四轮: 场坝大河口将军岩队VS仁吉村村牛队"
+          "name": "2026赛季贵州村超联赛第四轮: 场坝大河口将军岩队VS仁吉村村牛队"
         }
       ]
     },
@@ -1136,16 +1116,68 @@
           "name": "3号桌"
         },
         {
-          "url": "http://sh.frp.one:36234/964892596",
-          "name": "4号桌"
-        },
-        {
           "url": "http://sh.frp.one:36234/964892614",
           "name": "5号桌"
         },
         {
           "url": "http://sh.frp.one:36234/964892622",
           "name": "6号桌"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000576125",
+      "pID": "964720989",
+      "title": "新疆足球超级联赛",
+      "keyword": "05月23日17:58",
+      "sportItemId": "1",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "疆超",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000576125/202605111349_215924_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/5/11/100000001464106a56b8.png",
+      "pkInfoTitle": "塔城vs乌鲁木齐",
+      "modifyTitle": "新疆足球超级联赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "05月23日17:58"
+      },
+      "nodes": [
+        {
+          "pID": "964720989",
+          "name": "新疆足球超级联赛第二轮: 塔城vs乌鲁木齐"
+        },
+        {
+          "url": "http://sh.frp.one:36234/964720989",
+          "name": "新疆足球超级联赛第二轮: 塔城vs乌鲁木齐"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000576127",
+      "pID": "964721028",
+      "title": "新疆足球超级联赛",
+      "keyword": "05月23日17:58",
+      "sportItemId": "1",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "疆超",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000576127/202605111350_893983_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/5/11/100000001464106a56b8.png",
+      "pkInfoTitle": "巴州vs喀什",
+      "modifyTitle": "新疆足球超级联赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "05月23日17:58"
+      },
+      "nodes": [
+        {
+          "pID": "964721028",
+          "name": "新疆足球超级联赛第二轮: 巴州vs喀什"
+        },
+        {
+          "url": "http://sh.frp.one:36234/964721028",
+          "name": "新疆足球超级联赛第二轮: 巴州vs喀什"
         }
       ]
     },
@@ -1170,62 +1202,6 @@
         {
           "pID": "964362079",
           "name": "2026赛季武汉篮球城市超级联赛小组循环赛\n第3轮: 武汉波力斯vs驰傲"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000576125",
-      "pID": "964720989",
-      "title": "新疆足球超级联赛",
-      "keyword": "05月23日18:00",
-      "sportItemId": "1",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "疆超",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000576125/202605111349_215924_H169_1080.webp",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/5/11/100000001464106a56b8.png",
-      "pkInfoTitle": "塔城vs乌鲁木齐",
-      "modifyTitle": "新疆足球超级联赛",
-      "presenters": "",
-      "matchInfo": {
-        "time": "05月23日18:00"
-      },
-      "nodes": [
-        {
-          "pID": "964720989",
-          "name": "新疆足球超级联赛第二轮: 塔城vs乌鲁木齐"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964720989",
-          "name": "新疆足球超级联赛第二轮: 塔城vs乌鲁木齐"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000576127",
-      "pID": "964721028",
-      "title": "新疆足球超级联赛",
-      "keyword": "05月23日18:00",
-      "sportItemId": "1",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "疆超",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000576127/202605111350_893983_H169_1080.webp",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/5/11/100000001464106a56b8.png",
-      "pkInfoTitle": "巴州vs喀什",
-      "modifyTitle": "新疆足球超级联赛",
-      "presenters": "",
-      "matchInfo": {
-        "time": "05月23日18:00"
-      },
-      "nodes": [
-        {
-          "pID": "964721028",
-          "name": "新疆足球超级联赛第二轮: 巴州vs喀什"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964721028",
-          "name": "新疆足球超级联赛第二轮: 巴州vs喀什"
         }
       ]
     },
@@ -1393,7 +1369,7 @@
         },
         {
           "url": "http://sh.frp.one:36234/964851757",
-          "name": "2026赛季东北地区城市足球联赛第1轮:"
+          "name": "2026赛季东北地区城市足���联赛第1轮:"
         }
       ]
     },
@@ -1849,7 +1825,7 @@
       "sportItemId": "1",
       "matchStatus": "0",
       "matchField": "",
-      "competitionName": "齐鲁超赛",
+      "competitionName": "齐鲁���赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000577505/202605191105_332945_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/16/10000000144410687370.png",
       "pkInfoTitle": "威海文旅集团队VS泰安泰山城建队",
@@ -1865,7 +1841,7 @@
         },
         {
           "url": "http://sh.frp.one:36234/964863822",
-          "name": "威海文旅集团队VS泰安泰���城建队 2026赛季山东省齐鲁足球超级联赛第三轮: 威海文旅集团队队VS泰安泰山城建队"
+          "name": "2026赛季山东省齐鲁足球超级联赛第三轮: 威海文旅集团队队VS泰安泰山城建队"
         }
       ]
     },
@@ -2457,7 +2433,7 @@
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000573864/202604090931_252984_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/14/100000001420106fe8a3.png",
       "pkInfoTitle": "佛山vs云浮",
-      "modifyTitle": "广东省城市篮球联赛",
+      "modifyTitle": "���东省城市篮球联赛",
       "presenters": "",
       "matchInfo": {
         "time": "05月23日19:30"
@@ -3177,7 +3153,7 @@
         },
         {
           "url": "http://sh.frp.one:36234/964894026",
-          "name": "2026赛季贵州村超联赛第四轮: 平永村VS安乐村"
+          "name": "平永村足球队VS安���村足球队 2026赛季贵州村超联赛第四轮: 平永村VS安乐村"
         }
       ]
     },
@@ -3185,7 +3161,7 @@
       "mgdbId": "120000576126",
       "pID": "964721015",
       "title": "新疆足球超级联赛",
-      "keyword": "05月23日21:00",
+      "keyword": "05月23日20:58",
       "sportItemId": "1",
       "matchStatus": "0",
       "matchField": "",
@@ -3196,7 +3172,7 @@
       "modifyTitle": "新疆足球超级联赛",
       "presenters": "",
       "matchInfo": {
-        "time": "05月23日21:00"
+        "time": "05月23日20:58"
       },
       "nodes": [
         {
