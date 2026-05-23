@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-05-23 15:02:50",
+  "updateTime": "2026-05-23 15:32:42",
   "data": [
     {
       "mgdbId": "120000577646",
@@ -243,7 +243,7 @@
       "title": "世界职业围棋锦标赛第一比赛日",
       "keyword": "05月23日13:00",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "春兰杯世界职业围棋锦标赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/22/77CFFEVM7FSQ.png",
@@ -271,7 +271,7 @@
       "title": "亚冠女足决赛",
       "keyword": "05月23日13:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Suwon Sports Complex",
       "competitionName": "亚冠女足",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/23/77CG9V2PCPHK.png",
@@ -359,7 +359,7 @@
       "title": "武汉篮球城市超级联赛",
       "keyword": "05月23日14:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "城超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000575026/202604221410_861002_H169_1080.webp",
@@ -400,10 +400,6 @@
           "name": "张铭哲"
         },
         {
-          "pID": "964852227",
-          "name": "刘馨蕊"
-        },
-        {
           "pID": "964909446",
           "name": "胡朔"
         },
@@ -416,16 +412,20 @@
           "name": "上善青浦队vs徐汇愚公科技"
         },
         {
-          "pID": "964866134",
-          "name": "崇明乘风破浪队vs嘉定统嘉集团"
-        },
-        {
           "pID": "964868609",
           "name": "金山物流汇喆宇vs奉贤经发"
         },
         {
           "pID": "964866114",
           "name": "茸城乒将vs宝山国投私募基金"
+        },
+        {
+          "pID": "964852227",
+          "name": "刘馨蕊"
+        },
+        {
+          "pID": "964866134",
+          "name": "崇明乘风破浪队vs嘉定统嘉集团"
         },
         {
           "url": "http://sh.frp.one:36234/964852227",
@@ -611,7 +611,7 @@
       "title": "中乙联赛",
       "keyword": "05月23日15:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "天泰体育场",
       "competitionName": "中乙",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000572031/202603120940_273794_H169_1080.webp",
@@ -639,7 +639,7 @@
       "title": "中乙联赛",
       "keyword": "05月23日15:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "东华大学体育场",
       "competitionName": "中乙",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000572032/202603120940_505561_H169_1080.webp",
@@ -667,7 +667,7 @@
       "title": "广东省城市足球超级联赛",
       "keyword": "05月23日15:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "粤超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000574629/202604160950_988556_H169_1080.webp",
@@ -1076,16 +1076,16 @@
     {
       "mgdbId": "120000577773",
       "pID": "964892553",
-      "title": "帕如克、王雨晨、张家玮出战",
+      "title": "王雨晨PK张家玮 帕如克出战",
       "keyword": "05月23日17:00",
       "sportItemId": "8",
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "斯诺克",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/23/77CGA3GN9OUA.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "帕如克、王雨晨、张家玮出战",
-      "modifyTitle": "斯诺克英国Qschool第三轮",
+      "pkInfoTitle": "王雨晨PK张家玮 帕如克出战",
+      "modifyTitle": "王雨晨PK张家玮 帕如克出战",
       "presenters": "",
       "matchInfo": {
         "time": "05月23日17:00"
@@ -2449,7 +2449,7 @@
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000573864/202604090931_252984_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/14/100000001420106fe8a3.png",
       "pkInfoTitle": "佛山vs云浮",
-      "modifyTitle": "广东省城市篮球联赛",
+      "modifyTitle": "广东省城��篮球联赛",
       "presenters": "",
       "matchInfo": {
         "time": "05月23日19:30"
