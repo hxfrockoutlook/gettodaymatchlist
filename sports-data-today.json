@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-05-23 15:32:42",
+  "updateTime": "2026-05-23 16:02:52",
   "data": [
     {
       "mgdbId": "120000577646",
@@ -66,7 +66,7 @@
         },
         {
           "url": "http://sh.frp.one:36234/964937862",
-          "name": "全场回放��石庆圣）"
+          "name": "全场回放���石庆圣）"
         }
       ]
     },
@@ -175,7 +175,7 @@
     },
     {
       "mgdbId": "120000575025",
-      "pID": "964362034",
+      "pID": "964943975",
       "title": "武汉篮球城市超级联赛",
       "keyword": "05月23日12:00",
       "sportItemId": "2",
@@ -192,14 +192,14 @@
       },
       "nodes": [
         {
-          "pID": "964362034",
-          "name": "2026赛季武汉篮球城市超级联赛小组循环赛\n第3轮: SJZvsNewBee"
+          "pID": "964943975",
+          "name": "2026武汉篮球城市超级联赛小组循环赛第3轮全场回放：SJZvsNewBee（赛场原声）"
         }
       ]
     },
     {
       "mgdbId": "120000577270",
-      "pID": "964849456",
+      "pID": "964936914",
       "title": "陈雨菲、李诗沣晋级决赛",
       "keyword": "05月23日12:00",
       "sportItemId": "6",
@@ -210,11 +210,15 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "陈雨菲、李诗沣晋级决赛",
       "modifyTitle": "马来西亚羽毛球大师赛第五日：国羽男单、女双德比！陈雨菲、李诗沣晋级决赛",
-      "presenters": "",
+      "presenters": "孙宁智",
       "matchInfo": {
         "time": "05月23日12:00"
       },
       "nodes": [
+        {
+          "pID": "964936914",
+          "name": "帕克卡波/沙西丽VS郭新娃/陈芳卉"
+        },
         {
           "pID": "964849456",
           "name": "1号场地"
@@ -303,7 +307,7 @@
     },
     {
       "mgdbId": "120000577912",
-      "pID": "964924166",
+      "pID": "964924136",
       "title": "中国大学生排球联赛day4",
       "keyword": "05月23日13:00",
       "sportItemId": "3",
@@ -320,12 +324,12 @@
       },
       "nodes": [
         {
-          "pID": "964924166",
-          "name": "男子组二号场地"
-        },
-        {
           "pID": "964924136",
           "name": "男子组一号场地"
+        },
+        {
+          "pID": "964924166",
+          "name": "男子组二号场地"
         },
         {
           "pID": "964924185",
@@ -379,7 +383,7 @@
     },
     {
       "mgdbId": "120000577284",
-      "pID": "964909431",
+      "pID": "964909446",
       "title": "钱天一孙闻领衔上善青浦队亮相",
       "keyword": "05月23日14:00",
       "sportItemId": "7",
@@ -390,15 +394,11 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/9/100000001435106852ee.png",
       "pkInfoTitle": "钱天一孙闻领衔上善青浦队亮相",
       "modifyTitle": "上海乒乓球嘉年华市级循环赛第一轮",
-      "presenters": "张铭哲 刘馨蕊 胡朔 章稀瑄",
+      "presenters": "胡朔 张铭哲 刘馨蕊 章稀瑄",
       "matchInfo": {
         "time": "05月23日14:00"
       },
       "nodes": [
-        {
-          "pID": "964909431",
-          "name": "张铭哲"
-        },
         {
           "pID": "964909446",
           "name": "胡朔"
@@ -406,10 +406,6 @@
         {
           "pID": "964927407",
           "name": "章稀瑄"
-        },
-        {
-          "pID": "964866163",
-          "name": "上善青浦队vs徐汇愚公科技"
         },
         {
           "pID": "964868609",
@@ -420,8 +416,16 @@
           "name": "茸城乒将vs宝山国投私募基金"
         },
         {
+          "pID": "964909431",
+          "name": "张铭哲"
+        },
+        {
           "pID": "964852227",
           "name": "刘馨蕊"
+        },
+        {
+          "pID": "964866163",
+          "name": "上善青浦队vs徐汇愚公科技"
         },
         {
           "pID": "964866134",
@@ -703,7 +707,7 @@
       "title": "内蒙古足球超级联赛",
       "keyword": "05月23日15:50",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "蒙超联赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000577316/202605181415_135276_H169_1080.webp",
@@ -731,7 +735,7 @@
       "title": "湖北省城市足球联赛",
       "keyword": "05月23日15:50",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "楚超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000577508/202605191339_918248_H169_1080.webp",
@@ -759,7 +763,7 @@
       "title": "武汉篮球城市超级联赛",
       "keyword": "05月23日16:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "城超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000575028/202604221411_225720_H169_1080.webp",
@@ -783,7 +787,7 @@
       "title": "昆明队VS玉溪队",
       "keyword": "05月23日16:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "滇超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000577928/202605211805_769292_H169_1080.webp",
@@ -829,7 +833,7 @@
         },
         {
           "url": "http://sh.frp.one:36234/964894008",
-          "name": "2026赛季贵州村超联赛第四轮: 场坝大河口将军岩队VS仁吉村村牛队"
+          "name": "场坝大河口��军岩队VS仁吉村村牛足球队 2026赛季贵州村超联赛第四轮: 场坝大河口将军岩队VS仁吉村村牛队"
         }
       ]
     },
@@ -913,7 +917,7 @@
         },
         {
           "url": "http://sh.frp.one:36234/964917203",
-          "name": "2026云南省城市足球联赛第十四轮:"
+          "name": "2026云南省城市足球联赛第十四���:"
         }
       ]
     },
@@ -1765,7 +1769,7 @@
         },
         {
           "url": "http://sh.frp.one:36234/964866274",
-          "name": "长宁乐动虹桥vs虹口邮储银行"
+          "name": "市级���环赛第一轮晚间场 长宁乐动虹桥vs虹口邮储银行"
         },
         {
           "url": "http://sh.frp.one:36234/964866337",
@@ -2449,7 +2453,7 @@
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000573864/202604090931_252984_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/14/100000001420106fe8a3.png",
       "pkInfoTitle": "佛山vs云浮",
-      "modifyTitle": "广东省城��篮球联赛",
+      "modifyTitle": "广东省城市篮球联赛",
       "presenters": "",
       "matchInfo": {
         "time": "05月23日19:30"
@@ -2465,7 +2469,7 @@
         },
         {
           "url": "http://sh.frp.one:36234/964087583",
-          "name": "2026广东省城市篮球联赛第九轮: 佛山vs云浮"
+          "name": "2026广东省城市篮���联赛第九轮: 佛山vs云浮"
         },
         {
           "url": "http://sh.frp.one:36234/964927538",
@@ -3169,7 +3173,7 @@
         },
         {
           "url": "http://sh.frp.one:36234/964894026",
-          "name": "平永村足球队VS安���村足球队 2026赛季贵州村超联赛第四轮: 平永村VS安乐村"
+          "name": "2026赛季贵州村超联赛第四轮: 平永村VS安乐村"
         }
       ]
     },
