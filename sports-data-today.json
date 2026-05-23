@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-05-23 14:33:00",
+  "updateTime": "2026-05-23 15:02:50",
   "data": [
     {
       "mgdbId": "120000577646",
@@ -209,7 +209,7 @@
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/23/77CG9RJDVMAC.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "陈雨菲、李诗沣晋级决赛",
-      "modifyTitle": "马来西亚羽毛球大师赛第五日：国羽德比！陈雨菲、李诗沣晋级决赛",
+      "modifyTitle": "马来西亚羽毛球大师赛第五日：国羽男单、女双德比！陈雨菲、李诗沣晋级决赛",
       "presenters": "",
       "matchInfo": {
         "time": "05月23日12:00"
@@ -274,7 +274,7 @@
       "matchStatus": "1",
       "matchField": "Suwon Sports Complex",
       "competitionName": "亚冠女足",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/21/77CEGGQEL5EM.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/23/77CG9V2PCPHK.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/9/1000000013211060eb7f.png",
       "pkInfoTitle": "东京绿茵美人 vs 故乡",
       "modifyTitle": "亚冠女足决赛",
@@ -523,7 +523,7 @@
       "title": "内蒙古足球超级联赛",
       "keyword": "05月23日14:50",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "蒙超联赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000577315/202605181415_591316_H169_1080.webp",
@@ -551,7 +551,7 @@
       "title": "中乙联赛",
       "keyword": "05月23日15:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "山西省体育场",
       "competitionName": "中乙",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000572033/202603120941_639495_H169_1080.webp",
@@ -568,6 +568,10 @@
           "name": "解说"
         },
         {
+          "pID": "964943141",
+          "name": "AI解说"
+        },
+        {
           "url": "http://sh.frp.one:36234/964913281",
           "name": "解说"
         }
@@ -579,7 +583,7 @@
       "title": "山东省齐鲁足球超级联赛",
       "keyword": "05月23日15:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "齐鲁超赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000577501/202605191100_991393_H169_1080.webp",
@@ -2934,6 +2938,14 @@
         {
           "pID": "964889021",
           "name": "赛场原声"
+        },
+        {
+          "pID": "964943210",
+          "name": "演播室"
+        },
+        {
+          "pID": "964943258",
+          "name": "AI解说"
         },
         {
           "url": "http://sh.frp.one:36234/964888974",
