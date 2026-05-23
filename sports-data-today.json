@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-05-23 17:32:48",
+  "updateTime": "2026-05-23 18:03:01",
   "data": [
     {
       "mgdbId": "120000577646",
@@ -220,8 +220,8 @@
       },
       "nodes": [
         {
-          "pID": "964936907",
-          "name": "谢定峰/苏伟译VS吴世飞/伊祖丁"
+          "pID": "964936892",
+          "name": "马蒂亚斯/博尔VS高家炫/魏雅欣"
         },
         {
           "pID": "964849456",
@@ -332,6 +332,14 @@
           "name": "男子组一号场地"
         },
         {
+          "pID": "964912353",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "964924166",
+          "name": "男子组二号场地"
+        },
+        {
           "pID": "964924185",
           "name": "女子组一号场地"
         },
@@ -340,7 +348,7 @@
           "name": "女子组二号场地"
         },
         {
-          "pID": "964912353",
+          "pID": "964912586",
           "name": "赛场原声"
         },
         {
@@ -349,14 +357,6 @@
         },
         {
           "pID": "964912608",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "964924166",
-          "name": "男子组二号场地"
-        },
-        {
-          "pID": "964912586",
           "name": "赛场原声"
         },
         {
@@ -627,7 +627,7 @@
       "title": "中乙联赛",
       "keyword": "05月23日15:30",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "天泰体育场",
       "competitionName": "中乙",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000572031/202603120940_273794_H169_1080.webp",
@@ -655,7 +655,7 @@
       "title": "中乙联赛",
       "keyword": "05月23日15:30",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "东华大学体育场",
       "competitionName": "中乙",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000572032/202603120940_505561_H169_1080.webp",
@@ -683,7 +683,7 @@
       "title": "广东省城市足球超级联赛",
       "keyword": "05月23日15:30",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "粤超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000574629/202604160950_988556_H169_1080.webp",
@@ -818,6 +818,34 @@
         {
           "url": "http://sh.frp.one:36234/964917142",
           "name": "2026云南省城市足球联赛第十四轮:"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000577795",
+      "pID": "964894008",
+      "title": "贵州村超联赛",
+      "keyword": "05月23日16:30",
+      "sportItemId": "1",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "贵州村超",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000577795/202605231735_787055_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/29/10000000146010647880.png",
+      "pkInfoTitle": "党调村贵州村徒队VS党相村塔石羊瘪队",
+      "modifyTitle": "贵州村超联赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "05月23日16:30"
+      },
+      "nodes": [
+        {
+          "pID": "964894008",
+          "name": "2026赛季贵州村超联赛第四轮: 党调村贵州村徒队VS党相村塔石羊瘪队"
+        },
+        {
+          "url": "http://sh.frp.one:36234/964894008",
+          "name": "2026赛季贵州村超联赛第四轮: 场坝大河口将军岩队VS仁吉村村牛队"
         }
       ]
     },
@@ -1013,7 +1041,7 @@
         },
         {
           "url": "http://sh.frp.one:36234/964917158",
-          "name": "2026云南省城市足球联赛第十四轮:"
+          "name": "2026云南省城市足球联赛第十四轮: ��靖队VS昭通队"
         }
       ]
     },
@@ -1026,7 +1054,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/23/77CGAOA86EDV.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/23/77CGAOOHCBEA.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "桥本冲4强 塔卡/玛纳什·沙剑指决赛",
       "modifyTitle": "WTT拉各斯常规挑战赛男女单打1/4决赛、男女双打半决赛",
@@ -1135,7 +1163,7 @@
       "title": "新疆足球超级联赛",
       "keyword": "05月23日17:58",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "疆超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000576125/202605111349_215924_H169_1080.webp",
@@ -1163,7 +1191,7 @@
       "title": "新疆足球超级联赛",
       "keyword": "05月23日17:58",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "疆超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000576127/202605111350_893983_H169_1080.webp",
@@ -1191,7 +1219,7 @@
       "title": "武汉篮球城市超级联赛",
       "keyword": "05月23日18:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "城超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000575030/202604221415_943498_H169_1080.webp",
@@ -1215,7 +1243,7 @@
       "title": "NBA季后赛精彩重播：雷霆vs马刺 G3",
       "keyword": "05月23日18:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA经典赛事",
       "padImg": "",
@@ -1243,7 +1271,7 @@
       "title": "重播：2022世锦赛决赛（第三阶段）",
       "keyword": "05月23日18:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/23/77CGAHSHGLJU.png",
@@ -1261,7 +1289,7 @@
         },
         {
           "url": "http://sh.frp.one:36234/964915535",
-          "name": "重播：2022世锦赛决赛（第三阶���） 第三阶段"
+          "name": "第三阶段"
         }
       ]
     },
@@ -1457,7 +1485,7 @@
         },
         {
           "url": "http://sh.frp.one:36234/964852052",
-          "name": "2026赛季内蒙古足球超级联赛小组赛第2轮: 赤峰市vs包头��"
+          "name": "2026赛季内蒙古足球超级联赛小组赛第2轮: 赤峰市vs包头���"
         }
       ]
     },
@@ -2685,7 +2713,7 @@
         },
         {
           "url": "http://sh.frp.one:36234/963424553",
-          "name": "2026赛季四川省城市足���联赛第12轮：绵阳九洲长虹队vs达州川汉子队"
+          "name": "2026赛季四川省城市足球联赛第12轮：绵阳九洲长虹队vs达州川汉子队"
         }
       ]
     },
@@ -3098,6 +3126,10 @@
         {
           "url": "http://sh.frp.one:36234/964753876",
           "name": "赛场原声"
+        },
+        {
+          "url": "http://sh.frp.one:36234/964753899",
+          "name": "英文原声"
         },
         {
           "url": "http://sh.frp.one:36234/964940024",
