@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-05-24 18:32:12",
+  "updateTime": "2026-05-24 19:02:23",
   "data": [
     {
       "mgdbId": "120000542978",
@@ -593,7 +593,7 @@
         },
         {
           "url": "http://sh.frp.one:36234/964960386",
-          "name": "布瑞篮团VS武汉惠联 全场回放"
+          "name": "全场回放"
         }
       ]
     },
@@ -1023,7 +1023,7 @@
       "title": "中超联赛",
       "keyword": "05月24日17:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "青岛青春足球场",
       "competitionName": "中超",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000569709/669038_H169_sc.jpg",
@@ -1225,7 +1225,7 @@
         },
         {
           "url": "http://sh.frp.one:36234/964721047",
-          "name": "新疆足球��级联赛第二轮: 和田vs克州"
+          "name": "新疆足球超级联赛第二轮: 和田vs克州"
         }
       ]
     },
@@ -1263,7 +1263,7 @@
       "title": "新疆足球超级联赛",
       "keyword": "05月24日18:58",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "疆超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000576128/202605111350_411607_H169_1080.webp",
@@ -1291,7 +1291,7 @@
       "title": "新疆足球超级联赛",
       "keyword": "05月24日18:58",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "疆超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000576130/202605111355_342391_H169_1080.webp",
@@ -1319,7 +1319,7 @@
       "title": "中超联赛",
       "keyword": "05月24日19:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "玉溪高原体育运动中心体育场",
       "competitionName": "中超",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000569710/910037_H169_sc.jpg",
@@ -1355,7 +1355,7 @@
       "title": "中甲联赛",
       "keyword": "05月24日19:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "苏州市体育中心体育场",
       "competitionName": "中甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000570678/140336_H169_sc.jpg",
@@ -1426,7 +1426,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/9/100000001435106852ee.png",
       "pkInfoTitle": "习胜、孙艺祯领衔闵行沿浦出战",
       "modifyTitle": "上海乒乓球嘉年华市级循环赛第二轮",
-      "presenters": "刘馨蕊 赵曦 陈希",
+      "presenters": "刘馨蕊 陈希 赵曦",
       "matchInfo": {
         "time": "05月24日19:00"
       },
@@ -1436,12 +1436,16 @@
           "name": "刘馨蕊"
         },
         {
+          "pID": "964909380",
+          "name": "陈希"
+        },
+        {
           "pID": "964909352",
           "name": "赵曦"
         },
         {
-          "pID": "964909380",
-          "name": "陈希"
+          "pID": "964866746",
+          "name": "闵行沿浦vs杨浦回力"
         },
         {
           "pID": "964866685",
@@ -1450,10 +1454,6 @@
         {
           "pID": "964866714",
           "name": "浦东引领vs长宁乐动虹桥"
-        },
-        {
-          "pID": "964866746",
-          "name": "闵行沿浦vs杨浦回力"
         },
         {
           "url": "http://sh.frp.one:36234/964866793",
@@ -1661,7 +1661,7 @@
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000577332/202605181710_644537_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/1/10000000143110601739.png",
       "pkInfoTitle": "台州VS绍兴",
-      "modifyTitle": "浙江省城市足球联赛",
+      "modifyTitle": "浙江省城市足球��赛",
       "presenters": "",
       "matchInfo": {
         "time": "05月24日19:15"
@@ -2142,6 +2142,10 @@
         {
           "url": "http://sh.frp.one:36234/964889215",
           "name": "娄一晨 刘越 孙蕊"
+        },
+        {
+          "url": "http://sh.frp.one:36234/964889228",
+          "name": "赛场原声"
         }
       ]
     },
@@ -2482,10 +2486,6 @@
         {
           "pID": "964916420",
           "name": "赛场原声"
-        },
-        {
-          "pID": "964916434",
-          "name": "��文原声"
         },
         {
           "url": "http://sh.frp.one:36234/964916451",
