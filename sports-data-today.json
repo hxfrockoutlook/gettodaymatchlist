@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-05-24 13:32:25",
+  "updateTime": "2026-05-24 14:02:37",
   "data": [
     {
       "mgdbId": "120000542978",
@@ -551,7 +551,7 @@
     },
     {
       "mgdbId": "120000575034",
-      "pID": "964362094",
+      "pID": "964959432",
       "title": "武汉篮球城市超级联赛",
       "keyword": "05月24日10:00",
       "sportItemId": "2",
@@ -568,8 +568,8 @@
       },
       "nodes": [
         {
-          "pID": "964362094",
-          "name": "2026赛季武汉篮球城市超级联赛小组循环赛\n第3轮: 武汉GTvs话事人"
+          "pID": "964959432",
+          "name": "2026武汉篮球城市超级联赛小组循环赛第3轮全场回放：武汉GTvs话事人（赛场原声）"
         }
       ]
     },
@@ -579,7 +579,7 @@
       "title": "武汉篮球城市超级联赛",
       "keyword": "05月24日12:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "城超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000575035/202604221416_439854_H169_1080.webp",
@@ -626,6 +626,10 @@
         {
           "pID": "964886208",
           "name": "1号场地英文解说视角"
+        },
+        {
+          "url": "http://sh.frp.one:36234/964849436",
+          "name": "1号场地"
         },
         {
           "url": "http://sh.frp.one:36234/964886208",
@@ -689,7 +693,7 @@
         },
         {
           "url": "http://sh.frp.one:36234/964924741",
-          "name": "火力全开！小组���第四轮 男子组一号场地"
+          "name": "男子组一号场地"
         },
         {
           "url": "http://sh.frp.one:36234/964924219",
@@ -719,7 +723,7 @@
       "title": "武汉篮球城市超级联赛",
       "keyword": "05月24日14:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "城超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000575037/202604221420_182384_H169_1080.webp",
@@ -739,33 +743,25 @@
     },
     {
       "mgdbId": "120000577286",
-      "pID": "964866601",
+      "pID": "964866635",
       "title": "孙闻、钱天一率上善青浦冲连胜",
       "keyword": "05月24日14:00",
       "sportItemId": "7",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "乒乓球嘉年华",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/23/77CGBJOJFFUO.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/9/100000001435106852ee.png",
       "pkInfoTitle": "孙闻、钱天一率上善青浦冲连胜",
       "modifyTitle": "上海乒乓球嘉年华市级循环赛第二轮",
-      "presenters": "石楚阳 凌维康 王睿涓 张铭哲 胡朔",
+      "presenters": "凌维康 张铭哲 胡朔 石楚阳 王睿涓",
       "matchInfo": {
         "time": "05月24日14:00"
       },
       "nodes": [
         {
-          "pID": "964866601",
-          "name": "石楚阳"
-        },
-        {
           "pID": "964866635",
           "name": "凌维康"
-        },
-        {
-          "pID": "964909460",
-          "name": "王睿涓"
         },
         {
           "pID": "964927384",
@@ -776,12 +772,24 @@
           "name": "胡朔"
         },
         {
-          "pID": "964866444",
-          "name": "嘉定统嘉集团vs茸城乒将"
+          "pID": "964866601",
+          "name": "石楚阳"
+        },
+        {
+          "pID": "964909460",
+          "name": "王睿涓"
+        },
+        {
+          "pID": "964866609",
+          "name": "金山物流汇喆宇vs上善青浦"
         },
         {
           "pID": "964866480",
           "name": "虹口邮储银行vs崇明乘风破浪队"
+        },
+        {
+          "pID": "964866444",
+          "name": "嘉定统嘉集团vs茸城乒将"
         },
         {
           "pID": "964866538",
@@ -790,10 +798,6 @@
         {
           "pID": "964866562",
           "name": "普陀淘宝闪购vs徐汇愚公科技"
-        },
-        {
-          "pID": "964866609",
-          "name": "金山物流汇喆宇vs上善青浦"
         },
         {
           "url": "http://sh.frp.one:36234/964866601",
@@ -814,10 +818,6 @@
         {
           "url": "http://sh.frp.one:36234/964927391",
           "name": "胡朔"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964866444",
-          "name": "嘉定统嘉集团vs茸城乒将"
         },
         {
           "url": "http://sh.frp.one:36234/964866480",
@@ -1072,6 +1072,14 @@
           "name": "赛场原声"
         },
         {
+          "pID": "964959894",
+          "name": "演播室"
+        },
+        {
+          "pID": "964959904",
+          "name": "AI解说"
+        },
+        {
           "url": "http://sh.frp.one:36234/964889101",
           "name": "袁甲 李毅"
         },
@@ -1090,7 +1098,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "斯诺克",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/24/77CH6N4P6CO6.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "张家玮、帕如克出战",
       "modifyTitle": "斯诺克职业资格选拔赛 张家玮、帕如克出战",
@@ -1617,7 +1625,7 @@
         },
         {
           "url": "http://sh.frp.one:36234/964854695",
-          "name": "2026赛季浙江省城市足球联赛第十一轮: 舟山VS湖州"
+          "name": "舟山队VS湖��队 2026赛季浙江省城市足球联赛第十一轮: 舟山VS湖州"
         }
       ]
     },
@@ -2073,7 +2081,7 @@
         },
         {
           "url": "http://sh.frp.one:36234/964889190",
-          "name": "��场原声"
+          "name": "���场原声"
         }
       ]
     },
@@ -2138,6 +2146,14 @@
         {
           "pID": "964889228",
           "name": "赛场原声"
+        },
+        {
+          "pID": "964959914",
+          "name": "演播室"
+        },
+        {
+          "pID": "964959934",
+          "name": "AI解说"
         },
         {
           "url": "http://sh.frp.one:36234/964889215",
@@ -2306,10 +2322,6 @@
         {
           "url": "http://sh.frp.one:36234/964916692",
           "name": "苗锟"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964916664",
-          "name": "英文原声"
         },
         {
           "url": "http://sh.frp.one:36234/964916657",
@@ -2489,11 +2501,11 @@
         },
         {
           "url": "http://sh.frp.one:36234/964916451",
-          "name": "涂远 李彦 姚安妮"
+          "name": "涂远 李彦 姚��妮"
         },
         {
           "url": "http://sh.frp.one:36234/964916434",
-          "name": "曼城VS阿斯���维拉 英文原声"
+          "name": "英文原声"
         },
         {
           "url": "http://sh.frp.one:36234/964916420",
