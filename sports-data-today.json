@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-05-24 17:02:34",
+  "updateTime": "2026-05-24 17:32:26",
   "data": [
     {
       "mgdbId": "120000542978",
@@ -564,7 +564,7 @@
           "name": "2026武汉篮球城市超级联赛小组循环赛第3轮全场回放：武汉GTvs话事人（赛场原声）"
         },
         {
-          "url": "http://sh.frp.one:36234/964960386",
+          "url": "http://sh.frp.one:36234/964959432",
           "name": "全场回放"
         }
       ]
@@ -592,7 +592,7 @@
           "name": "2026武汉篮球城市超级联赛小组循环赛第3轮全场回放：布瑞篮团vs武汉惠联（赛场原声）"
         },
         {
-          "url": "http://sh.frp.one:36234/964961654",
+          "url": "http://sh.frp.one:36234/964960386",
           "name": "全场回放"
         }
       ]
@@ -742,6 +742,10 @@
         {
           "pID": "964961654",
           "name": "2026武汉篮球城市超级联赛小组循环赛第3轮全场回放：武汉引力空间vs中创汇科（赛场原声）"
+        },
+        {
+          "url": "http://sh.frp.one:36234/964961654",
+          "name": "全场回放"
         }
       ]
     },
@@ -859,10 +863,10 @@
       "title": "中甲联赛",
       "keyword": "05月24日15:30",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "长春经开体育中心体育场",
       "competitionName": "中甲",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000570679/621885_H169_sc.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000570679/215759_H169_sc.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/10106c2211.png",
       "pkInfoTitle": "长春亚泰 vs 深圳青年人",
       "modifyTitle": "中甲联赛",
@@ -951,7 +955,7 @@
       "title": "武汉篮球城市超级联赛",
       "keyword": "05月24日16:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "城超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000575039/202604221420_408049_H169_1080.webp",
@@ -1213,7 +1217,7 @@
       "mgdbId": "120000576129",
       "pID": "964721047",
       "title": "新疆足球超级联赛",
-      "keyword": "05月24日18:30",
+      "keyword": "05月24日18:28",
       "sportItemId": "1",
       "matchStatus": "0",
       "matchField": "",
@@ -1224,7 +1228,7 @@
       "modifyTitle": "新疆足球超级联赛",
       "presenters": "",
       "matchInfo": {
-        "time": "05月24日18:30"
+        "time": "05月24日18:28"
       },
       "nodes": [
         {
@@ -1262,6 +1266,62 @@
         {
           "url": "http://sh.frp.one:36234/964894063",
           "name": "2026赛季贵州村超联赛第四轮: 高硐村VS寿洞村"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000576128",
+      "pID": "964721040",
+      "title": "新疆足球超级联赛",
+      "keyword": "05月24日18:58",
+      "sportItemId": "1",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "疆超",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000576128/202605111350_411607_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/5/11/100000001464106a56b8.png",
+      "pkInfoTitle": "克拉玛依vs博州",
+      "modifyTitle": "新疆足球超级联赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "05月24日18:58"
+      },
+      "nodes": [
+        {
+          "pID": "964721040",
+          "name": "新疆足球超级联赛第二轮: 克拉玛依vs博州"
+        },
+        {
+          "url": "http://sh.frp.one:36234/964721040",
+          "name": "新疆足球超级联赛第二轮: 克拉玛依vs博州"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000576130",
+      "pID": "964721056",
+      "title": "新疆足球超级联赛",
+      "keyword": "05月24日18:58",
+      "sportItemId": "1",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "疆超",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000576130/202605111355_342391_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/5/11/100000001464106a56b8.png",
+      "pkInfoTitle": "阿克苏vs吐鲁番",
+      "modifyTitle": "新疆足球超级联赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "05月24日18:58"
+      },
+      "nodes": [
+        {
+          "pID": "964721056",
+          "name": "新疆足球超级联赛第二轮: 阿克苏vs吐鲁番"
+        },
+        {
+          "url": "http://sh.frp.one:36234/964721056",
+          "name": "新疆足球超级联赛第二轮: 阿克苏vs吐鲁番"
         }
       ]
     },
@@ -1340,7 +1400,7 @@
     {
       "mgdbId": "120000574506",
       "pID": "964914576",
-      "title": "福���省城市足球超级联赛",
+      "title": "福建省城市足球超级联赛",
       "keyword": "05月24日19:00",
       "sportItemId": "1",
       "matchStatus": "0",
@@ -1362,62 +1422,6 @@
         {
           "url": "http://sh.frp.one:36234/964914576",
           "name": "2026福建省城市足球超级联赛第五轮: 厦门VS三明"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000576128",
-      "pID": "964721040",
-      "title": "新疆足球超级联赛",
-      "keyword": "05月24日19:00",
-      "sportItemId": "1",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "疆超",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000576128/202605111350_411607_H169_1080.webp",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/5/11/100000001464106a56b8.png",
-      "pkInfoTitle": "克拉玛依vs博州",
-      "modifyTitle": "新疆足球超级联赛",
-      "presenters": "",
-      "matchInfo": {
-        "time": "05月24日19:00"
-      },
-      "nodes": [
-        {
-          "pID": "964721040",
-          "name": "新疆足球超级联赛第二轮: 克拉玛依vs博州"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964721040",
-          "name": "新疆足球超级联赛第二轮: 克拉玛依vs博州"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000576130",
-      "pID": "964721056",
-      "title": "新疆足球超级联赛",
-      "keyword": "05月24日19:00",
-      "sportItemId": "1",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "疆超",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000576130/202605111355_342391_H169_1080.webp",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/5/11/100000001464106a56b8.png",
-      "pkInfoTitle": "阿克苏vs吐鲁番",
-      "modifyTitle": "新疆足球超级联赛",
-      "presenters": "",
-      "matchInfo": {
-        "time": "05月24日19:00"
-      },
-      "nodes": [
-        {
-          "pID": "964721056",
-          "name": "新疆足球超级联赛第二轮: 阿克苏vs吐鲁番"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964721056",
-          "name": "新疆足球超级联赛第二轮: 阿克苏vs吐鲁番"
         }
       ]
     },
@@ -2332,7 +2336,7 @@
       "keyword": "05月24日23:00",
       "sportItemId": "1",
       "matchStatus": "0",
-      "matchField": "托特纳姆��刺球场",
+      "matchField": "托特纳姆热刺球场",
       "competitionName": "英超",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000542143/206077_H169_sc.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png",
