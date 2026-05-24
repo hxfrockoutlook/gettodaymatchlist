@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-05-24 11:32:19",
+  "updateTime": "2026-05-24 12:02:24",
   "data": [
     {
       "mgdbId": "120000542978",
@@ -551,7 +551,7 @@
     },
     {
       "mgdbId": "120000577913",
-      "pID": "964924219",
+      "pID": "964924224",
       "title": "火力全开！小组赛第四轮",
       "keyword": "05月24日08:30",
       "sportItemId": "3",
@@ -568,16 +568,8 @@
       },
       "nodes": [
         {
-          "pID": "964924219",
-          "name": "男子组二号场地"
-        },
-        {
           "pID": "964924224",
           "name": "女子组一号场地"
-        },
-        {
-          "pID": "964912654",
-          "name": "男子组二号场地"
         },
         {
           "pID": "964912689",
@@ -615,7 +607,7 @@
       "title": "武汉篮球城市超级联赛",
       "keyword": "05月24日10:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "城超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000575034/202604221415_818748_H169_1080.webp",
@@ -639,7 +631,7 @@
       "title": "武汉篮球城市超级联赛",
       "keyword": "05月24日12:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "城超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000575035/202604221416_439854_H169_1080.webp",
@@ -663,18 +655,22 @@
       "title": "国羽力争四金！陈雨菲PK因达农",
       "keyword": "05月24日12:00",
       "sportItemId": "6",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "BWF",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/23/77CGBSARINE7.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "国羽力争四金！陈雨菲PK因达农",
       "modifyTitle": "马来西亚羽毛球大师赛第六日：国羽力争四金！陈雨菲PK因达农",
-      "presenters": "余博洋 孙宁智",
+      "presenters": "余博洋",
       "matchInfo": {
         "time": "05月24日12:00"
       },
       "nodes": [
+        {
+          "pID": "964957743",
+          "name": "广田彩花/樱本绚子VS陈樊淑湉/罗徐敏"
+        },
         {
           "pID": "964849436",
           "name": "1号场地"
@@ -682,26 +678,6 @@
         {
           "pID": "964886208",
           "name": "1号场地英文解说视角"
-        },
-        {
-          "pID": "964957743",
-          "name": "余博洋"
-        },
-        {
-          "pID": "964957746",
-          "name": "余博洋"
-        },
-        {
-          "pID": "964957755",
-          "name": "余博洋"
-        },
-        {
-          "pID": "964957760",
-          "name": "孙宁智"
-        },
-        {
-          "pID": "964957772",
-          "name": "孙宁智"
         },
         {
           "url": "http://sh.frp.one:36234/964849436",
@@ -1021,7 +997,7 @@
         },
         {
           "url": "http://sh.frp.one:36234/964863837",
-          "name": "2026赛季山东省齐鲁足球超级联赛第三轮: ��沂队VS济宁港航"
+          "name": "2026赛季山东省齐鲁足球超级联赛第三轮:"
         }
       ]
     },
@@ -1482,10 +1458,6 @@
         {
           "url": "http://sh.frp.one:36234/964866714",
           "name": "浦东引领vs长宁乐动虹桥"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964866746",
-          "name": "闵行沿浦vs杨浦回力"
         }
       ]
     },
@@ -1914,6 +1886,10 @@
         {
           "url": "http://sh.frp.one:36234/964216791",
           "name": "2026赛季广东省城市足球超级联赛第四轮:"
+        },
+        {
+          "url": "http://sh.frp.one:36234/964928203",
+          "name": "客家话+潮汕话"
         }
       ]
     },
@@ -2357,7 +2333,7 @@
         },
         {
           "url": "http://sh.frp.one:36234/964916965",
-          "name": "叶紫辰 陆毅隽 陈曦"
+          "name": "叶紫��� 陆毅隽 陈曦"
         },
         {
           "url": "http://sh.frp.one:36234/964916635",
