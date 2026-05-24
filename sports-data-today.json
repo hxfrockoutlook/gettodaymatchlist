@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-05-24 18:02:21",
+  "updateTime": "2026-05-24 18:32:12",
   "data": [
     {
       "mgdbId": "120000542978",
@@ -643,7 +643,7 @@
       "title": "火力全开！小组赛第四轮",
       "keyword": "05月24日13:00",
       "sportItemId": "3",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "中国大学生排球联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/22/77CFDLF25QLB.jpg",
@@ -887,7 +887,7 @@
       "title": "内蒙古足球超级联赛",
       "keyword": "05月24日15:50",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "蒙超联赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000577314/202605181415_744777_H169_1080.webp",
@@ -915,7 +915,7 @@
       "title": "内蒙古足球超级联赛",
       "keyword": "05月24日15:50",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "蒙超联赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000577317/202605181415_643462_H169_1080.webp",
@@ -995,7 +995,7 @@
       "title": "贵州村超联赛",
       "keyword": "05月24日16:30",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "贵州村超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000577799/202605231705_449520_H169_1080.webp",
@@ -1154,7 +1154,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "斯诺克",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/24/77CH82GU5I3I.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "经典回放：2022世锦赛决赛（第四阶段）",
       "modifyTitle": "斯诺克经典回放重播：2022世锦赛决赛（第四阶段）",
@@ -1207,7 +1207,7 @@
       "title": "新疆足球超级联赛",
       "keyword": "05月24日18:28",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "疆超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000576129/202605111355_306427_H169_1080.webp",
@@ -1225,7 +1225,7 @@
         },
         {
           "url": "http://sh.frp.one:36234/964721047",
-          "name": "新疆足球超级联赛第二轮: 和田vs克州"
+          "name": "新疆足球��级联赛第二轮: 和田vs克州"
         }
       ]
     },
@@ -1235,7 +1235,7 @@
       "title": "贵州村超联赛",
       "keyword": "05月24日18:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "贵州村超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000577800/202605201740_296872_H169_1080.webp",
@@ -2142,10 +2142,6 @@
         {
           "url": "http://sh.frp.one:36234/964889215",
           "name": "娄一晨 刘越 孙蕊"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964889228",
-          "name": "赛场原声"
         }
       ]
     },
@@ -2324,7 +2320,7 @@
       "keyword": "05月24日23:00",
       "sportItemId": "1",
       "matchStatus": "0",
-      "matchField": "托特纳��热刺球场",
+      "matchField": "托特纳姆热刺球场",
       "competitionName": "英超",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000542143/206077_H169_sc.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png",
@@ -2486,6 +2482,10 @@
         {
           "pID": "964916420",
           "name": "赛场原声"
+        },
+        {
+          "pID": "964916434",
+          "name": "��文原声"
         },
         {
           "url": "http://sh.frp.one:36234/964916451",
@@ -2757,7 +2757,7 @@
         },
         {
           "url": "http://sh.frp.one:36234/964916481",
-          "name": "���莱顿VS曼联 智能字幕"
+          "name": "智能字幕"
         }
       ]
     }
