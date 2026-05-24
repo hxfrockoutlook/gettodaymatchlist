@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-05-24 20:40:23",
+  "updateTime": "2026-05-24 21:02:22",
   "data": [
     {
       "mgdbId": "120000542978",
@@ -928,6 +928,10 @@
       },
       "nodes": [
         {
+          "pID": "964852101",
+          "name": "2026赛季内蒙古足球超级联赛小组赛第2轮: 锡林郭勒盟vs呼和浩特市"
+        },
+        {
           "url": "http://sh.frp.one:36234/964852101",
           "name": "2026赛季内蒙古足球超级联赛小组赛第2轮: 锡林郭勒盟vs呼和浩特市"
         }
@@ -1203,7 +1207,7 @@
       "title": "新疆足球超级联赛",
       "keyword": "05月24日18:28",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "疆超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000576129/202605111355_306427_H169_1080.webp",
@@ -1259,7 +1263,7 @@
       "title": "新疆足球超级联赛",
       "keyword": "05月24日18:58",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "疆超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000576128/202605111350_411607_H169_1080.webp",
@@ -1354,7 +1358,7 @@
       "matchStatus": "1",
       "matchField": "苏州市体育中心体育场",
       "competitionName": "中甲",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000570678/140336_H169_sc.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000570678/155037_H169_sc.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/10106c2211.png",
       "pkInfoTitle": "苏州东吴 vs 陕西联合",
       "modifyTitle": "中甲联赛",
@@ -1411,26 +1415,22 @@
     },
     {
       "mgdbId": "120000577287",
-      "pID": "964909352",
+      "pID": "964909380",
       "title": "习胜、孙艺祯领衔闵行沿浦取连胜",
       "keyword": "05月24日19:00",
       "sportItemId": "7",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "乒乓球嘉年华",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/24/77CH7RPM8U67.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/9/100000001435106852ee.png",
       "pkInfoTitle": "习胜、孙艺祯领衔闵行沿浦取连胜",
       "modifyTitle": "上海乒乓球嘉年华市级循环赛第二轮",
-      "presenters": "赵曦 陈希",
+      "presenters": "陈希",
       "matchInfo": {
         "time": "05月24日19:00"
       },
       "nodes": [
-        {
-          "pID": "964909352",
-          "name": "赵曦"
-        },
         {
           "pID": "964909380",
           "name": "陈希"
@@ -1438,10 +1438,6 @@
         {
           "pID": "964866685",
           "name": "宝山国投私募基金vs黄浦南房"
-        },
-        {
-          "pID": "964866714",
-          "name": "浦东引领vs长宁乐动虹桥"
         },
         {
           "url": "http://sh.frp.one:36234/964866793",
@@ -1600,6 +1596,10 @@
       },
       "nodes": [
         {
+          "pID": "964854695",
+          "name": "2026赛季浙江省城市足球联赛第十一轮: 舟山VS湖州"
+        },
+        {
           "url": "http://sh.frp.one:36234/964854695",
           "name": "2026赛季浙江省城市足球联赛第十一轮: 舟山VS湖州"
         }
@@ -1645,7 +1645,7 @@
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000577332/202605181710_644537_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/1/10000000143110601739.png",
       "pkInfoTitle": "台州VS绍兴",
-      "modifyTitle": "浙江省城市足球联赛",
+      "modifyTitle": "浙江省城市��球联赛",
       "presenters": "",
       "matchInfo": {
         "time": "05月24日19:15"
@@ -2191,7 +2191,7 @@
       "title": "意甲联赛",
       "keyword": "05月24日21:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "恩尼奥·塔尔蒂尼球场",
       "competitionName": "意甲",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000543720/202507111210_353755_H169_1080.webp",
