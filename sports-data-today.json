@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-05-25 14:01:03",
+  "updateTime": "2026-05-25 14:30:55",
   "data": [
     {
       "mgdbId": "120000542974",
@@ -352,6 +352,14 @@
           "name": "男子组二号场地"
         },
         {
+          "pID": "964924435",
+          "name": "女子组一号场地"
+        },
+        {
+          "pID": "964924447",
+          "name": "女子组二号场地"
+        },
+        {
           "pID": "964912735",
           "name": "赛场原声"
         },
@@ -362,14 +370,6 @@
         {
           "pID": "964912853",
           "name": "赛场原声"
-        },
-        {
-          "pID": "964924435",
-          "name": "女子组一号场地"
-        },
-        {
-          "pID": "964924447",
-          "name": "女子组二号场地"
         },
         {
           "pID": "964912869",
@@ -468,7 +468,7 @@
     {
       "mgdbId": "120000577748",
       "pID": "964889530",
-      "title": "精彩回顾：2026澳大利亚网球公开赛正赛女单第1轮回放：王欣瑜vs卡利尼娜",
+      "title": "精彩回顾：王欣瑜vs卡利尼娜",
       "keyword": "05月25日13:30",
       "sportItemId": "9",
       "matchStatus": "1",
@@ -476,7 +476,7 @@
       "competitionName": "澳网",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/24/77CH7S0GPRKM.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/1/10/1000000010711060bffe.jpeg",
-      "pkInfoTitle": "精彩回顾：2026澳大利亚网球公开赛正赛女单第1轮回放：王欣瑜vs卡利尼娜",
+      "pkInfoTitle": "精彩回顾：王欣瑜vs卡利尼娜",
       "modifyTitle": "2026澳网女单第1轮精彩回顾：王欣瑜vs卡利尼娜",
       "presenters": "",
       "matchInfo": {
@@ -542,6 +542,30 @@
         {
           "url": "http://sh.frp.one:36234/964892230",
           "name": "4号桌"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000578355",
+      "pID": "964988927",
+      "title": "NBA季后赛精彩重播：雷霆vs马刺 G4",
+      "keyword": "05月25日18:00",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "NBA经典赛事",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png",
+      "pkInfoTitle": "NBA季后赛精彩重播：雷霆vs马刺 G4",
+      "modifyTitle": "NBA经典赛事",
+      "presenters": "杨健 周琦 刘晓宇",
+      "matchInfo": {
+        "time": "05月25日18:00"
+      },
+      "nodes": [
+        {
+          "pID": "964988927",
+          "name": "杨健 周琦 刘晓宇"
         }
       ]
     }
