@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-05-28 14:30:56",
+  "updateTime": "2026-05-28 15:01:02",
   "data": [
     {
       "mgdbId": "300000002045",
@@ -163,7 +163,7 @@
     },
     {
       "mgdbId": "120000578348",
-      "pID": "964989043",
+      "pID": "965026715",
       "title": "五大单项全线争胜！石宇奇、翁泓阳领衔",
       "keyword": "05月28日10:00",
       "sportItemId": "6",
@@ -174,18 +174,26 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "五大单项全线争胜！石宇奇、翁泓阳领衔",
       "modifyTitle": "新加坡羽毛球公开赛Day3：五大单项全线争胜！石宇奇、翁泓阳领衔",
-      "presenters": "",
+      "presenters": "鸿昆 朱胤丞",
       "matchInfo": {
         "time": "05月28日10:00"
       },
       "nodes": [
         {
-          "pID": "964989043",
-          "name": "1号场地"
+          "pID": "965026715",
+          "name": "姜珉赫/奇东柱VS梁伟铿/王昶"
+        },
+        {
+          "pID": "965026701",
+          "name": "吉凯尔/德尔吕VS高家炫/魏雅欣"
         },
         {
           "pID": "964989090",
           "name": "2号场地"
+        },
+        {
+          "pID": "964989043",
+          "name": "1号场地"
         },
         {
           "pID": "964989112",
@@ -340,16 +348,16 @@
     {
       "mgdbId": "120000578525",
       "pID": "965002125",
-      "title": "斯诺克Q school 第二阶段Day3",
+      "title": "巩晨智、李俊威、廖予生出战",
       "keyword": "05月28日17:00",
       "sportItemId": "8",
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "斯诺克",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/28/77CKRDVM1RD9.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "斯诺克Q school 第二阶段Day3",
-      "modifyTitle": "斯诺克英国Qschool第二站",
+      "pkInfoTitle": "巩晨智、李俊威、廖予生出战",
+      "modifyTitle": "斯诺克英国Qschool第二站：巩晨智、李俊威、廖予生出战",
       "presenters": "",
       "matchInfo": {
         "time": "05月28日17:00"
@@ -506,6 +514,30 @@
         {
           "url": "http://sh.frp.one:36234/964989087",
           "name": "清流播出"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000578681",
+      "pID": "965019187",
+      "title": "NBA季后赛精彩重播：2012西决 马刺vs雷霆G6",
+      "keyword": "05月28日18:00",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "NBA经典赛事",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png",
+      "pkInfoTitle": "NBA季后赛精彩重播：2012西决 马刺vs雷霆G6",
+      "modifyTitle": "NBA经典赛事",
+      "presenters": "徐秦威",
+      "matchInfo": {
+        "time": "05月28日18:00"
+      },
+      "nodes": [
+        {
+          "pID": "965019187",
+          "name": "徐秦威"
         }
       ]
     },
