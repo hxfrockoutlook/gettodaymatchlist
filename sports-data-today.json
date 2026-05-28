@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-05-28 11:00:57",
+  "updateTime": "2026-05-28 11:30:49",
   "data": [
     {
       "mgdbId": "300000002045",
@@ -22,38 +22,6 @@
         {
           "pID": "964853220",
           "name": "咪咕体育日报 第123期"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000575935",
-      "pID": "964632830",
-      "title": "男女100米、400米预赛",
-      "keyword": "05月28日08:30",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "亚洲U20田径锦标赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/22/77CFDMFFV1RF.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/5/7/100000001462106a6178.png",
-      "pkInfoTitle": "男女100米、400米预赛",
-      "modifyTitle": "第22届亚洲U20田径锦标赛Day1：男女100米、400米预赛",
-      "presenters": "",
-      "matchInfo": {
-        "time": "05月28日08:30"
-      },
-      "nodes": [
-        {
-          "pID": "964632830",
-          "name": "上午场"
-        },
-        {
-          "pID": "964890691",
-          "name": "下午场"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964632830",
-          "name": "上午场"
         }
       ]
     },
@@ -80,10 +48,6 @@
           "name": "男子组一号场地"
         },
         {
-          "pID": "965009423",
-          "name": "男子组二号场地"
-        },
-        {
           "pID": "965009529",
           "name": "女子组一号场地"
         },
@@ -93,10 +57,6 @@
         },
         {
           "pID": "965009614",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "965009622",
           "name": "赛场原声"
         },
         {
@@ -195,7 +155,7 @@
     },
     {
       "mgdbId": "120000578348",
-      "pID": "965026726",
+      "pID": "965026713",
       "title": "五大单项全线争胜！石宇奇、王祉怡领衔",
       "keyword": "05月28日10:00",
       "sportItemId": "6",
@@ -206,30 +166,26 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "五大单项全线争胜！石宇奇、王祉怡领衔",
       "modifyTitle": "新加坡羽毛球公开赛Day3：五大单项全线争胜！石宇奇、王祉怡领衔",
-      "presenters": "鸿昆 朱胤丞",
+      "presenters": "孙宁智 朱胤丞",
       "matchInfo": {
         "time": "05月28日10:00"
       },
       "nodes": [
         {
-          "pID": "965026726",
-          "name": "本吉/苏茵琦VS贾一凡/张殊贤"
+          "pID": "965026713",
+          "name": "莱恩VS王祉怡"
         },
         {
-          "pID": "965026698",
-          "name": "安洗莹VS宋硕芸"
-        },
-        {
-          "pID": "964989112",
-          "name": "3号场地"
+          "pID": "964989090",
+          "name": "2号场地"
         },
         {
           "pID": "964989043",
           "name": "1号场地"
         },
         {
-          "pID": "964989090",
-          "name": "2号场地"
+          "pID": "964989112",
+          "name": "3号场地"
         },
         {
           "pID": "964998773",
@@ -350,6 +306,30 @@
         {
           "url": "http://sh.frp.one:36234/965017579",
           "name": "解说"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000575935",
+      "pID": "964890691",
+      "title": "男女100米决赛压场开战",
+      "keyword": "05月28日16:30",
+      "sportItemId": "8",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "亚洲U20田径锦标赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/22/77CFDMFFV1RF.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/5/7/100000001462106a6178.png",
+      "pkInfoTitle": "男女100米决赛压场开战",
+      "modifyTitle": "第22届亚洲U20田径锦标赛Day1：男女100米决赛压场开战",
+      "presenters": "",
+      "matchInfo": {
+        "time": "05月28日16:30"
+      },
+      "nodes": [
+        {
+          "pID": "964890691",
+          "name": "下午场"
         }
       ]
     },
