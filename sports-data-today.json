@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-05-28 13:30:49",
+  "updateTime": "2026-05-28 14:01:02",
   "data": [
     {
       "mgdbId": "300000002045",
@@ -164,16 +164,16 @@
       },
       "nodes": [
         {
+          "pID": "964989112",
+          "name": "3号场地"
+        },
+        {
           "pID": "964989043",
           "name": "1号场地"
         },
         {
           "pID": "964989090",
           "name": "2号场地"
-        },
-        {
-          "pID": "964989112",
-          "name": "3号场地"
         },
         {
           "pID": "964998773",
@@ -275,7 +275,7 @@
       "title": "围甲联赛第1轮",
       "keyword": "05月28日14:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "中国围棋甲级联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/27/77CK0VQ91KJG.png",
@@ -518,6 +518,30 @@
         {
           "url": "http://sh.frp.one:36234/964984735",
           "name": "图文直播"
+        }
+      ]
+    },
+    {
+      "mgdbId": "WY900018115",
+      "pID": "WY900018115",
+      "title": "14:30播咪咕世界杯观赛发布会",
+      "keyword": "05月28日14:30",
+      "sportItemId": "",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "2026年咪咕全场景观赛生态发布会",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/27/77CJV7Q4H5BO.jpg",
+      "competitionLogo": "",
+      "pkInfoTitle": "14:30播咪咕世界杯观赛发布会",
+      "modifyTitle": "14:30播咪咕世界杯观赛发布会",
+      "presenters": "",
+      "matchInfo": {
+        "time": "05月28日14:30"
+      },
+      "nodes": [
+        {
+          "pID": "964983693",
+          "name": "2026年咪咕全场景观赛生态发布会"
         }
       ]
     }
