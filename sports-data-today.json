@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-05-29 15:01:15",
+  "updateTime": "2026-05-29 15:31:07",
   "data": [
     {
       "mgdbId": "300000002046",
@@ -108,10 +108,6 @@
           "name": "赛场原声"
         },
         {
-          "pID": "965009647",
-          "name": "女子组一号场地"
-        },
-        {
           "pID": "965009590",
           "name": "男子组二号场地"
         },
@@ -125,10 +121,6 @@
         },
         {
           "pID": "965009551",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "965009564",
           "name": "赛场原声"
         },
         {
@@ -223,7 +215,7 @@
     },
     {
       "mgdbId": "120000578349",
-      "pID": "964989123",
+      "pID": "965040821",
       "title": "狮城八强战！梁王组合冲击半决赛",
       "keyword": "05月29日12:00",
       "sportItemId": "6",
@@ -234,18 +226,22 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "狮城八强战！梁王组合冲击半决赛",
       "modifyTitle": "新加坡羽毛球公开赛Day4：狮城八强战！梁王组合冲击半决赛",
-      "presenters": "",
+      "presenters": "轩子博",
       "matchInfo": {
         "time": "05月29日12:00"
       },
       "nodes": [
         {
-          "pID": "964989123",
-          "name": "1号场地"
+          "pID": "965040821",
+          "name": "陈雨菲VS宫崎友花"
         },
         {
           "pID": "964989131",
           "name": "2号场地"
+        },
+        {
+          "pID": "964989123",
+          "name": "1号场地"
         },
         {
           "pID": "964998765",
@@ -698,6 +694,30 @@
         {
           "url": "http://sh.frp.one:36234/964989187",
           "name": "清流播出"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000578872",
+      "pID": "965051363",
+      "title": "NBA季后赛精彩重播：雷霆vs马刺 G6",
+      "keyword": "05月29日18:00",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "NBA经典赛事",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png",
+      "pkInfoTitle": "NBA季后赛精彩重播：雷霆vs马刺 G6",
+      "modifyTitle": "NBA经典赛事",
+      "presenters": "杨健 刘晓宇 苏群",
+      "matchInfo": {
+        "time": "05月29日18:00"
+      },
+      "nodes": [
+        {
+          "pID": "965051363",
+          "name": "杨健 刘晓宇 苏群"
         }
       ]
     },
