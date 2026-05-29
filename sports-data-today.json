@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-05-29 18:01:16",
+  "updateTime": "2026-05-29 18:31:10",
   "data": [
     {
       "mgdbId": "300000002046",
@@ -207,7 +207,7 @@
     },
     {
       "mgdbId": "120000578349",
-      "pID": "964989123",
+      "pID": "965040801",
       "title": "狮城八强战！梁王组合冲击半决赛",
       "keyword": "05月29日12:00",
       "sportItemId": "6",
@@ -218,11 +218,15 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "狮城八强战！梁王组合冲击半决赛",
       "modifyTitle": "新加坡羽毛球公开赛Day4：狮城八强战！梁王组合冲击半决赛",
-      "presenters": "",
+      "presenters": "杨妮娜",
       "matchInfo": {
         "time": "05月29日12:00"
       },
       "nodes": [
+        {
+          "pID": "965040801",
+          "name": "梁伟铿/王昶VS谢定峰/苏伟译"
+        },
         {
           "pID": "964989123",
           "name": "1号场地"
@@ -230,10 +234,6 @@
         {
           "pID": "964989131",
           "name": "2号场地"
-        },
-        {
-          "pID": "964989153",
-          "name": "3号场地"
         },
         {
           "pID": "964998765",
@@ -463,7 +463,7 @@
       "title": "贵州村超联赛",
       "keyword": "05月29日16:30",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "贵州村超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000578719/202605281410_419795_H169_1080.webp",
@@ -488,7 +488,7 @@
     {
       "mgdbId": "120000575936",
       "pID": "964890704",
-      "title": "男女110米栏争金 男女400米决赛压场进行",
+      "title": "张可依100米栏夺冠 男女400米决赛压场",
       "keyword": "05月29日16:35",
       "sportItemId": "8",
       "matchStatus": "1",
@@ -496,8 +496,8 @@
       "competitionName": "亚洲U20田径锦标赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/22/77CFDMI075PH.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/5/7/100000001462106a6178.png",
-      "pkInfoTitle": "男女110米栏争金 男女400米决赛压场进行",
-      "modifyTitle": "第22届亚洲U20田径锦标赛：男女110米栏争金 男女400米决赛压场进行",
+      "pkInfoTitle": "张可依100米栏夺冠 男女400米决赛压场",
+      "modifyTitle": "第22届亚洲U20田径锦标赛：张可依100米栏夺冠 男女400米决赛压场",
       "presenters": "",
       "matchInfo": {
         "time": "05月29日16:35"
@@ -511,8 +511,8 @@
     },
     {
       "mgdbId": "120000578526",
-      "pID": "965002177",
-      "title": "帕如克vs阿兰·泰勒 王雨晨出战",
+      "pID": "965002197",
+      "title": "王雨晨、新疆选手帕如克出战",
       "keyword": "05月29日17:00",
       "sportItemId": "8",
       "matchStatus": "1",
@@ -520,7 +520,7 @@
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/29/77CLRENNA5IC.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "帕如克vs阿兰·泰勒 王雨晨出战",
+      "pkInfoTitle": "王雨晨、新疆选手帕如克出战",
       "modifyTitle": "斯诺克英国Qschool职业选拔赛",
       "presenters": "",
       "matchInfo": {
@@ -528,16 +528,16 @@
       },
       "nodes": [
         {
+          "pID": "965002197",
+          "name": "3号桌"
+        },
+        {
           "pID": "965002177",
           "name": "1号桌"
         },
         {
           "pID": "965002184",
           "name": "2号桌"
-        },
-        {
-          "pID": "965002197",
-          "name": "3号桌"
         },
         {
           "pID": "965002203",
@@ -711,7 +711,7 @@
       "title": "贵州村超联赛",
       "keyword": "05月29日18:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "贵州村超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000578720/202605281407_510084_H169_1080.webp",
