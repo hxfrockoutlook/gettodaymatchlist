@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-05-29 11:01:12",
+  "updateTime": "2026-05-29 11:31:06",
   "data": [
     {
       "mgdbId": "300000002046",
@@ -63,11 +63,11 @@
     },
     {
       "mgdbId": "120000576953",
-      "pID": "965033988",
+      "pID": "965047550",
       "title": "NBA季后赛",
       "keyword": "05月29日08:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "冰霜银行中心",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/29/77CLQSBN2KHD.png",
@@ -79,6 +79,10 @@
         "time": "05月29日08:30"
       },
       "nodes": [
+        {
+          "pID": "965047550",
+          "name": "全场集锦"
+        },
         {
           "pID": "965033988",
           "name": "杨健 刘晓宇 苏群"
@@ -152,27 +156,11 @@
           "name": "男子组一号场地"
         },
         {
-          "pID": "965009590",
-          "name": "男子组二号场地"
-        },
-        {
-          "pID": "965009647",
-          "name": "女子组一号场地"
-        },
-        {
           "pID": "965009661",
           "name": "女子组二号场地"
         },
         {
           "pID": "965009543",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "965009551",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "965009564",
           "name": "赛场原声"
         },
         {
@@ -222,7 +210,7 @@
       "matchStatus": "2",
       "matchField": "",
       "competitionName": "UFC格斗之夜",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/28/77CKTN3QKLO7.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/29/77CLR2ADTMT6.gif",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/3/31/1000000002391064d391.png",
       "pkInfoTitle": "澳门站称重仪式：全员过磅！宋亚东对视菲格雷多险些失控",
       "modifyTitle": "UFC澳门站称重仪式：宋亚东张名扬亮相",
@@ -305,7 +293,7 @@
         },
         {
           "url": "http://sh.frp.one:36234/964989123",
-          "name": "冲四强！贾一凡/���殊贤领衔 1号场地"
+          "name": "冲四强！贾一凡/��殊贤领衔 1号场地"
         },
         {
           "url": "http://sh.frp.one:36234/964989131",
@@ -360,7 +348,7 @@
       "competitionName": "UFC前瞻与回顾",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/29/77CLQTGG7EF5.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/3/31/10000000124810634b09.png",
-      "pkInfoTitle": "激战前夜��RTU中国力量经典比赛回顾",
+      "pkInfoTitle": "激战前夜：RTU中国力量经典比赛回顾",
       "modifyTitle": "激战前夜：RTU中国力量经典比赛回顾",
       "presenters": "王琰博",
       "matchInfo": {
@@ -492,6 +480,14 @@
           "name": "清流播出"
         },
         {
+          "pID": "965047501",
+          "name": "AI解说"
+        },
+        {
+          "pID": "965047522",
+          "name": "演播室"
+        },
+        {
           "url": "http://sh.frp.one:36234/965013857",
           "name": "解说"
         },
@@ -621,7 +617,7 @@
         },
         {
           "url": "http://sh.frp.one:36234/965002217",
-          "name": "6号桌"
+          "name": "帕如克���战 6号桌"
         }
       ]
     },
@@ -753,7 +749,7 @@
         },
         {
           "url": "http://sh.frp.one:36234/965031708",
-          "name": "2026赛季贵���村超联赛第五轮: 小堡村VS车江一村"
+          "name": "2026赛季贵��村超联赛第五轮: 小堡村VS车江一村"
         }
       ]
     },
@@ -900,6 +896,14 @@
         {
           "pID": "965020195",
           "name": "赛场原声"
+        },
+        {
+          "pID": "965047558",
+          "name": "AI解说"
+        },
+        {
+          "pID": "965047585",
+          "name": "演播室"
         },
         {
           "url": "http://sh.frp.one:36234/965020167",
