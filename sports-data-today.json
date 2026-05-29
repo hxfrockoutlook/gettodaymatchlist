@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-05-29 14:31:12",
+  "updateTime": "2026-05-29 15:01:15",
   "data": [
     {
       "mgdbId": "300000002046",
@@ -312,7 +312,7 @@
       "competitionName": "澳网",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/28/77CKT3SRAU7K.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/1/10/1000000010711060bffe.jpeg",
-      "pkInfoTitle": "精彩回顾：德约科维奇vs��纳",
+      "pkInfoTitle": "精彩回顾：德约科维奇vs辛纳",
       "modifyTitle": "2026澳网男单半决赛精彩回顾：德约科维奇vs辛纳",
       "presenters": "",
       "matchInfo": {
@@ -391,7 +391,7 @@
       "title": "中甲联赛",
       "keyword": "05月29日15:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "西安国际足球中心",
       "competitionName": "中甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000570674/770721_H169_sc.jpg",
@@ -476,7 +476,7 @@
     {
       "mgdbId": "120000575936",
       "pID": "964890704",
-      "title": "第22届亚洲U20田径锦标赛Day2",
+      "title": "男女110米栏争金！男女400米决赛压场进行",
       "keyword": "05月29日16:30",
       "sportItemId": "8",
       "matchStatus": "0",
@@ -484,7 +484,7 @@
       "competitionName": "亚洲U20田径锦标赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/22/77CFDMI075PH.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/5/7/100000001462106a6178.png",
-      "pkInfoTitle": "第22届亚洲U20田径锦标赛Day2",
+      "pkInfoTitle": "男女110米栏争金！男女400米决赛压场进行",
       "modifyTitle": "第22届亚洲U20田径锦标赛：男女110米栏争金！男女400米决赛压场进行",
       "presenters": "",
       "matchInfo": {
@@ -731,6 +731,7 @@
     },
     {
       "mgdbId": "300000002083",
+      "pID": "965045652",
       "title": "篮球公园丨篮球——CBA总决赛",
       "keyword": "05月29日00:00",
       "sportItemId": "2",
@@ -745,7 +746,12 @@
       "matchInfo": {
         "time": "05月29日00:00"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "965045652",
+          "name": "篮球公园"
+        }
+      ]
     },
     {
       "mgdbId": "120000570675",
