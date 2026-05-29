@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-05-29 16:31:12",
+  "updateTime": "2026-05-29 17:01:13",
   "data": [
     {
       "mgdbId": "300000002046",
@@ -83,7 +83,7 @@
     },
     {
       "mgdbId": "120000578548",
-      "pID": "965009661",
+      "pID": "965009543",
       "title": "中国大学生排球联赛排位赛+决赛",
       "keyword": "05月29日08:30",
       "sportItemId": "3",
@@ -100,11 +100,7 @@
       },
       "nodes": [
         {
-          "pID": "965009661",
-          "name": "女子组二号场地"
-        },
-        {
-          "pID": "965009568",
+          "pID": "965009543",
           "name": "赛场原声"
         },
         {
@@ -112,7 +108,11 @@
           "name": "男子组一号场地"
         },
         {
-          "pID": "965009543",
+          "pID": "965009661",
+          "name": "女子组二号场地"
+        },
+        {
+          "pID": "965009568",
           "name": "赛场原声"
         },
         {
@@ -207,37 +207,37 @@
     },
     {
       "mgdbId": "120000578349",
-      "pID": "965040821",
+      "pID": "965040785",
       "title": "狮城八强战！梁王组合冲击半决赛",
       "keyword": "05月29日12:00",
       "sportItemId": "6",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "BWF",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/29/77CLOESP0VEI.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/29/77CLP3R9REU4.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "狮城八强战！梁王组合冲击半决赛",
       "modifyTitle": "新加坡羽毛球公开赛Day4：狮城八强战！梁王组合冲击半决赛",
-      "presenters": "轩子博 杨妮娜",
+      "presenters": "杨妮娜",
       "matchInfo": {
         "time": "05月29日12:00"
       },
       "nodes": [
         {
-          "pID": "965040821",
-          "name": "陈雨菲VS宫崎友花"
-        },
-        {
           "pID": "965040785",
           "name": "高家炫/魏雅欣VS邓俊文/谢影雪"
+        },
+        {
+          "pID": "964989123",
+          "name": "1号场地"
         },
         {
           "pID": "964989131",
           "name": "2号场地"
         },
         {
-          "pID": "964989123",
-          "name": "1号场地"
+          "pID": "964989153",
+          "name": "3号场地"
         },
         {
           "pID": "964998765",
@@ -327,7 +327,7 @@
       "title": "围甲联赛第2轮",
       "keyword": "05月29日14:00",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "中国围棋甲级联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/28/77CKS1F5D1TO.png",
@@ -351,11 +351,11 @@
     },
     {
       "mgdbId": "120000578713",
-      "pID": "965028750",
+      "pID": "965052043",
       "title": "超三联赛 潍坊大区赛 B档小组赛下午场",
       "keyword": "05月29日14:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "超三联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/28/77CKRLID3G3P.jpg",
@@ -367,6 +367,10 @@
         "time": "05月29日14:00"
       },
       "nodes": [
+        {
+          "pID": "965052043",
+          "name": "2026超三联赛贵阳大区赛B档小组赛回放：广东生涯21:13江苏香江猛虎（赛场原声）"
+        },
         {
           "pID": "965028750",
           "name": "清流播出"
@@ -383,7 +387,7 @@
       "title": "中甲联赛",
       "keyword": "05月29日15:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "西安国际足球中心",
       "competitionName": "中甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000570674/770721_H169_sc.jpg",
@@ -458,34 +462,6 @@
       ]
     },
     {
-      "mgdbId": "120000575936",
-      "pID": "964890704",
-      "title": "男女110米栏争金！男女400米决赛压场进行",
-      "keyword": "05月29日16:30",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "亚洲U20田径锦标赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/22/77CFDMI075PH.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/5/7/100000001462106a6178.png",
-      "pkInfoTitle": "男女110米栏争金！男女400米决赛压场进行",
-      "modifyTitle": "第22届亚洲U20田径锦标赛：男女110米栏争金！男女400米决赛压场进行",
-      "presenters": "",
-      "matchInfo": {
-        "time": "05月29日16:30"
-      },
-      "nodes": [
-        {
-          "pID": "964890704",
-          "name": "下午场"
-        },
-        {
-          "url": "http://sh.frp.one:36234/964890704",
-          "name": "下午场"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000578719",
       "pID": "965031704",
       "title": "贵州村超联赛",
@@ -514,12 +490,36 @@
       ]
     },
     {
+      "mgdbId": "120000575936",
+      "pID": "964890704",
+      "title": "男女110米栏争金！男女400米决赛压场进行",
+      "keyword": "05月29日16:35",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "亚洲U20田径锦标赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/22/77CFDMI075PH.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/5/7/100000001462106a6178.png",
+      "pkInfoTitle": "男女110米栏争金！男女400米决赛压场进行",
+      "modifyTitle": "第22届亚洲U20田径锦标赛：男女110米栏争金！男女400米决赛压场进行",
+      "presenters": "",
+      "matchInfo": {
+        "time": "05月29日16:35"
+      },
+      "nodes": [
+        {
+          "pID": "964890704",
+          "name": "下午场"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000578526",
       "pID": "965002177",
       "title": "帕如克vs阿兰·泰勒 王雨晨出战",
       "keyword": "05月29日17:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/29/77CLRENNA5IC.jpg",
