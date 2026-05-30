@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-05-30 16:03:11",
+  "updateTime": "2026-05-30 16:32:47",
   "data": [
     {
       "mgdbId": "120000578683",
@@ -403,7 +403,7 @@
       "title": "上海乒乓球嘉年华市级循环赛第三轮：奉贤经发 vs 杨浦回力",
       "keyword": "05月30日14:00",
       "sportItemId": "7",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "乒乓球嘉年华",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/30/77CMNMEV3OB8.jpg",
@@ -475,7 +475,7 @@
       "title": "贵州村超联赛",
       "keyword": "05月30日14:20",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "贵州村超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000578723/202605281410_767368_H169_1080.webp",
@@ -774,12 +774,40 @@
       ]
     },
     {
+      "mgdbId": "120000578724",
+      "pID": "965031737",
+      "title": "贵州村超联赛",
+      "keyword": "05月30日16:30",
+      "sportItemId": "1",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "贵州村超",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000578724/202605281411_749321_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/29/10000000146010647880.png",
+      "pkInfoTitle": "腊酉村VS忠诚村",
+      "modifyTitle": "贵州村超联赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "05月30日16:30"
+      },
+      "nodes": [
+        {
+          "pID": "965031737",
+          "name": "2026赛季贵州村超联赛第五轮: 腊酉村VS忠诚村"
+        },
+        {
+          "url": "http://sh.frp.one:36234/965031737",
+          "name": "2026赛季贵州村超联赛第五轮: 腊酉村VS忠诚村"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000574678",
       "pID": "964217036",
       "title": "广东省城市足球超级联赛",
       "keyword": "05月30日16:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "粤超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000574678/202604161025_311207_H169_1080.webp",
@@ -811,11 +839,11 @@
     },
     {
       "mgdbId": "120000575937",
-      "pID": "964632867",
+      "pID": "964890778",
       "title": "女子标枪决赛及混合接力决赛开战！",
       "keyword": "05月30日16:30",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "亚洲U20田径锦标赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/22/77CFDMLSAI63.jpg",
@@ -828,10 +856,6 @@
       },
       "nodes": [
         {
-          "pID": "964632867",
-          "name": "上午场"
-        },
-        {
           "pID": "964890778",
           "name": "下午场"
         },
@@ -842,40 +866,12 @@
       ]
     },
     {
-      "mgdbId": "120000578724",
-      "pID": "965031737",
-      "title": "贵州村超联赛",
-      "keyword": "05月30日16:30",
-      "sportItemId": "1",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "贵州村超",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000578724/202605281411_749321_H169_1080.webp",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/29/10000000146010647880.png",
-      "pkInfoTitle": "腊酉村VS忠诚村",
-      "modifyTitle": "贵州村超联赛",
-      "presenters": "",
-      "matchInfo": {
-        "time": "05月30日16:30"
-      },
-      "nodes": [
-        {
-          "pID": "965031737",
-          "name": "2026赛季贵州村超联赛第五轮: 腊酉村VS忠诚村"
-        },
-        {
-          "url": "http://sh.frp.one:36234/965031737",
-          "name": "2026赛季贵州村超联赛第五轮: 腊酉村VS忠诚村"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000578864",
       "pID": "965051381",
       "title": "临沧队VS丽江队",
       "keyword": "05月30日16:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "滇超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000578864/202605291451_425817_H169_1080.webp",
@@ -903,7 +899,7 @@
       "title": "德宏队VS怒江队",
       "keyword": "05月30日16:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "滇超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000578865/202605291452_181875_H169_1080.webp",
@@ -931,7 +927,7 @@
       "title": "迪庆队VS文山队",
       "keyword": "05月30日16:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "滇超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000578866/202605291455_558027_H169_1080.webp",
@@ -959,7 +955,7 @@
       "title": "昭通队VS普洱队",
       "keyword": "05月30日16:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "滇超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000578867/202605291455_335988_H169_1080.webp",
@@ -987,7 +983,7 @@
       "title": "大理队VS昆明队",
       "keyword": "05月30日16:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "滇超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000578868/202605291456_238133_H169_1080.webp",
@@ -1005,7 +1001,7 @@
         },
         {
           "url": "http://sh.frp.one:36234/965051562",
-          "name": "25/26赛季云南省城市足球联赛第十五轮:"
+          "name": "��理队VS昆明队 25/26赛季云南省城市足球联赛第十五轮:"
         }
       ]
     },
@@ -1015,7 +1011,7 @@
       "title": "保山队VS曲靖队",
       "keyword": "05月30日16:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "滇超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000578869/202605291500_958294_H169_1080.webp",
@@ -1043,7 +1039,7 @@
       "title": "玉溪队VS西双版纳队",
       "keyword": "05月30日16:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "滇超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000578870/202605291505_405516_H169_1080.webp",
@@ -3186,6 +3182,10 @@
         {
           "pID": "965020140",
           "name": "赛场原声"
+        },
+        {
+          "pID": "965069804",
+          "name": "智能解说"
         },
         {
           "url": "http://sh.frp.one:36234/965020097",
