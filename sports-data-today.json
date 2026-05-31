@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-05-31 14:31:38",
+  "updateTime": "2026-05-31 15:01:45",
   "data": [
     {
       "mgdbId": "120000576954",
@@ -159,7 +159,7 @@
       "title": "武汉篮球城市超级联赛",
       "keyword": "05月31日13:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "城超",
       "padImg": "",
@@ -297,7 +297,7 @@
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/29/77CLPA6AA01N.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/9/100000001435106852ee.png",
       "pkInfoTitle": "宝山国投私募基金 vs 崇明乘风破浪队",
-      "modifyTitle": "上海乒乓球嘉年华市级循环赛第四轮：宝山国投私募基金 vs ��明乘风破浪队",
+      "modifyTitle": "上海乒乓球嘉年华市级循环赛第四轮：宝山国投私募基金 vs 崇明乘风破浪队",
       "presenters": "陈希",
       "matchInfo": {
         "time": "05月31日14:00"
@@ -310,10 +310,6 @@
         {
           "pID": "964866285",
           "name": "宝山国投私募基金vs崇明乘风破浪队"
-        },
-        {
-          "pID": "964866285",
-          "name": "宝��国投私募基金vs崇明乘风破浪队"
         },
         {
           "url": "http://sh.frp.one:36234/965018178",
@@ -523,7 +519,7 @@
       "title": "武汉篮球城市超级联赛",
       "keyword": "05月31日15:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "城超",
       "padImg": "",
@@ -730,6 +726,30 @@
       ]
     },
     {
+      "mgdbId": "120000579000",
+      "pID": "965084956",
+      "title": "NBA季后赛精彩重播：马刺vs雷霆 G7",
+      "keyword": "05月31日18:00",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "NBA经典赛事",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png",
+      "pkInfoTitle": "NBA季后赛精彩重播：马刺vs雷霆 G7",
+      "modifyTitle": "NBA经典赛事",
+      "presenters": "孙博 曾令旭 马健",
+      "matchInfo": {
+        "time": "05月31日18:00"
+      },
+      "nodes": [
+        {
+          "pID": "965084956",
+          "name": "孙博 曾令旭 马健"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000578728",
       "pID": "965031777",
       "title": "贵州村超联赛",
@@ -794,6 +814,10 @@
         {
           "url": "http://sh.frp.one:36234/965020208",
           "name": "赛场原声"
+        },
+        {
+          "url": "http://sh.frp.one:36234/965069845",
+          "name": "智能解说"
         }
       ]
     },
@@ -1405,7 +1429,7 @@
         },
         {
           "url": "http://sh.frp.one:36234/964984751",
-          "name": "���江浙商证券VS上海久事 图文直播"
+          "name": "图文直播"
         }
       ]
     },
