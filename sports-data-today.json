@@ -1,14 +1,14 @@
 {
   "success": true,
-  "updateTime": "2026-05-31 11:01:49",
+  "updateTime": "2026-05-31 11:31:41",
   "data": [
     {
       "mgdbId": "120000576954",
-      "pID": "965065307",
+      "pID": "965086775",
       "title": "NBA季后赛",
       "keyword": "05月31日08:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Paycom中心",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/31/77CNL48J5CAB.png",
@@ -20,6 +20,10 @@
         "time": "05月31日08:00"
       },
       "nodes": [
+        {
+          "pID": "965086775",
+          "name": "25-26赛季NBA西部决赛G7全场集锦：马刺111:103雷霆（20260531）"
+        },
         {
           "pID": "965065307",
           "name": "孙博 曾令旭 马健"
@@ -336,6 +340,10 @@
           "name": "宝山国投私募基金vs崇明乘风破浪队"
         },
         {
+          "pID": "964866285",
+          "name": "宝山国投私募基金vs崇明乘���破浪队"
+        },
+        {
           "url": "http://sh.frp.one:36234/965018178",
           "name": "陈希"
         },
@@ -501,6 +509,10 @@
       "nodes": [
         {
           "pID": "965028777",
+          "name": "王冠证"
+        },
+        {
+          "url": "http://sh.frp.one:36234/965028777",
           "name": "王冠证"
         }
       ]
