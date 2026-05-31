@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-05-31 13:01:46",
+  "updateTime": "2026-05-31 13:31:44",
   "data": [
     {
       "mgdbId": "120000576954",
@@ -138,34 +138,6 @@
       ]
     },
     {
-      "mgdbId": "120000577759",
-      "pID": "965018543",
-      "title": "精彩回顾：萨巴伦卡vs莱巴金娜",
-      "keyword": "05月31日10:00",
-      "sportItemId": "9",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "澳网",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/30/77CMLK39AL79.png",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/1/10/1000000010711060bffe.jpeg",
-      "pkInfoTitle": "精彩回顾：萨巴伦卡vs莱巴金娜",
-      "modifyTitle": "2026澳网女单决赛精彩回顾：萨巴伦卡vs莱巴金娜",
-      "presenters": "",
-      "matchInfo": {
-        "time": "05月31日10:00"
-      },
-      "nodes": [
-        {
-          "pID": "965018543",
-          "name": "李宁,王蔷"
-        },
-        {
-          "url": "http://sh.frp.one:36234/965018543",
-          "name": "李宁,王蔷"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000578366",
       "pID": "964991651",
       "title": "武汉篮球城市超级联赛",
@@ -195,7 +167,7 @@
       "title": "精彩回顾：阿尔卡拉斯vs德约科维奇",
       "keyword": "05月31日13:30",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "澳网",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/30/77CMM5AR9DHC.png",
@@ -237,7 +209,7 @@
       "nodes": [
         {
           "pID": "965018137",
-          "name": "李柯鑫"
+          "name": "浦东引领vs嘉定统嘉集团"
         },
         {
           "pID": "964866155",
@@ -292,10 +264,6 @@
           "name": "1号场地英文解说"
         },
         {
-          "url": "http://sh.frp.one:36234/965082780",
-          "name": "刘圣书/谭宁VS 贾一凡 /张殊贤"
-        },
-        {
           "url": "http://sh.frp.one:36234/965082787",
           "name": "安洗莹VS山口茜"
         },
@@ -333,7 +301,7 @@
       "nodes": [
         {
           "pID": "965018178",
-          "name": "陈希"
+          "name": "宝山国投私募基金vs崇明乘风破浪队"
         },
         {
           "pID": "964866285",
@@ -369,7 +337,7 @@
       "nodes": [
         {
           "pID": "965018279",
-          "name": "王睿涓"
+          "name": "奉贤经发vs上善青浦队"
         },
         {
           "pID": "964867224",
@@ -405,7 +373,7 @@
       "nodes": [
         {
           "pID": "965018307",
-          "name": "胡朔"
+          "name": "金山物流汇喆宇vs闵行沿浦"
         },
         {
           "pID": "964867235",
@@ -706,10 +674,6 @@
         {
           "pID": "965002286",
           "name": "4号桌"
-        },
-        {
-          "url": "http://sh.frp.one:36234/965002269",
-          "name": "1号桌"
         },
         {
           "url": "http://sh.frp.one:36234/965002273",
@@ -1526,6 +1490,34 @@
         {
           "url": "http://sh.frp.one:36234/965068547",
           "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000577759",
+      "pID": "120000577759",
+      "title": "精彩回顾：萨巴伦卡vs莱巴金娜",
+      "keyword": "05月31日10:00",
+      "sportItemId": "",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "澳网",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/30/77CMLK39AL79.png",
+      "competitionLogo": "",
+      "pkInfoTitle": "精彩回顾：萨巴伦卡vs莱巴金娜",
+      "modifyTitle": "精彩回顾：萨巴伦卡vs莱巴金娜",
+      "presenters": "",
+      "matchInfo": {
+        "time": "05月31日10:00"
+      },
+      "nodes": [
+        {
+          "pID": "965018543",
+          "name": "李宁,王蔷"
+        },
+        {
+          "url": "http://sh.frp.one:36234/965018543",
+          "name": "李宁,王蔷"
         }
       ]
     }
