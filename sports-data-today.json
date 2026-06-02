@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-06-02 22:31:29",
+  "updateTime": "2026-06-02 23:01:30",
   "data": [
     {
       "mgdbId": "120000578935",
@@ -319,11 +319,11 @@
     },
     {
       "mgdbId": "120000578759",
-      "pID": "965047818",
+      "pID": "965047855",
       "title": "彭郁涵PK林依诺 倪夏莲战日乒小将",
       "keyword": "06月02日23:00",
       "sportItemId": "7",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/02/77EO7ELIPT94.jpg",
@@ -336,6 +336,10 @@
       },
       "nodes": [
         {
+          "pID": "965047855",
+          "name": "4号桌"
+        },
+        {
           "pID": "965047818",
           "name": "1号桌"
         },
@@ -346,10 +350,6 @@
         {
           "pID": "965047840",
           "name": "3号桌"
-        },
-        {
-          "pID": "965047855",
-          "name": "4号桌"
         }
       ]
     }
