@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-06-02 08:31:06",
+  "updateTime": "2026-06-02 09:01:13",
   "data": [
     {
       "mgdbId": "120000578935",
@@ -36,7 +36,7 @@
       "title": "咪咕体育日报 第128期",
       "keyword": "06月02日00:00",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "咪咕体育日报",
       "padImg": "",
@@ -90,11 +90,19 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "全主力出击！石宇奇带队冲击冠军",
       "modifyTitle": "印尼羽毛球公开赛第一日：全主力出击！石宇奇带队冲击冠军",
-      "presenters": "鸿昆",
+      "presenters": "余博洋 鸿昆",
       "matchInfo": {
         "time": "06月02日10:00"
       },
       "nodes": [
+        {
+          "pID": "965112384",
+          "name": "石宇奇VS戚又仁"
+        },
+        {
+          "pID": "965112313",
+          "name": "冯彦哲/黄东萍VS黄显维/钟舒韵"
+        },
         {
           "pID": "965105840",
           "name": "2号场地"
@@ -106,10 +114,6 @@
         {
           "pID": "965112288",
           "name": "1号场地英文解说视角"
-        },
-        {
-          "pID": "965112364",
-          "name": "陈雨菲VS莱恩"
         }
       ]
     },
