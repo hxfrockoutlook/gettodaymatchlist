@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-06-04 11:31:13",
+  "updateTime": "2026-06-04 12:01:16",
   "data": [
     {
       "mgdbId": "120000578939",
@@ -55,11 +55,11 @@
     },
     {
       "mgdbId": "120000569219",
-      "pID": "965119546",
+      "pID": "965159800",
       "title": "NBA总决赛",
       "keyword": "06月04日08:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "冰霜银行中心",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/04/77EQ1RKE3OPS.png",
@@ -71,6 +71,10 @@
         "time": "06月04日08:30"
       },
       "nodes": [
+        {
+          "pID": "965159800",
+          "name": "全场集锦"
+        },
         {
           "pID": "965119546",
           "name": "杨健 周琦 陈正昊"
@@ -107,8 +111,8 @@
     },
     {
       "mgdbId": "120000579178",
-      "pID": "965154530",
-      "title": "凤凰组合晋级 娃卉、星驰组合出战",
+      "pID": "965154522",
+      "title": "凤凰、娃卉、星驰组合携手晋级 稍晚石宇奇登场",
       "keyword": "06月04日10:00",
       "sportItemId": "6",
       "matchStatus": "1",
@@ -116,17 +120,13 @@
       "competitionName": "BWF",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/04/77EQ1ROAGFVL.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
-      "pkInfoTitle": "凤凰组合晋级 娃卉、星驰组合出战",
-      "modifyTitle": "印尼羽毛球公开赛第三日：凤凰组合晋级 娃卉、星驰组合出战",
-      "presenters": "杨妮娜 朱胤丞",
+      "pkInfoTitle": "凤凰、娃卉、星驰组合携手晋级 稍晚石宇奇登场",
+      "modifyTitle": "印尼羽毛球公开赛第三日：凤凰、娃卉、星驰组合携手晋级 稍晚石宇奇登场",
+      "presenters": "朱胤丞",
       "matchInfo": {
         "time": "06月04日10:00"
       },
       "nodes": [
-        {
-          "pID": "965154530",
-          "name": "邓俊文/谢影雪VS程星/张驰"
-        },
         {
           "pID": "965154522",
           "name": "安洗莹VS辛杜"
@@ -183,7 +183,7 @@
       "title": "精彩回顾：萨巴伦卡 vs 巴普蒂斯特",
       "keyword": "06月04日12:00",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/03/77EP4A786OGL.jpg",
