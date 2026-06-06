@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-06-06 16:01:29",
+  "updateTime": "2026-06-06 16:31:24",
   "data": [
     {
       "mgdbId": "120000578941",
@@ -130,30 +130,6 @@
         {
           "url": "http://vip.xa.frp.one:36234/965208950",
           "name": "全场回放（英文原声）"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000572716",
-      "pID": "963782241",
-      "title": "越野跑day1",
-      "keyword": "06月06日08:30",
-      "sportItemId": "8",
-      "matchStatus": "2",
-      "matchField": "",
-      "competitionName": "自然堂喜马拉雅越野跑",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/06/77ERQUB7GSS0.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/3/23/1000000014241069b88c.png",
-      "pkInfoTitle": "越野跑day1",
-      "modifyTitle": "越野跑day1",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月06日08:30"
-      },
-      "nodes": [
-        {
-          "pID": "963782241",
-          "name": "解说"
         }
       ]
     },
@@ -429,7 +405,7 @@
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/04/77EQ1J8BVA0F.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/9/100000001435106852ee.png",
       "pkInfoTitle": "奉贤经发vs普陀淘宝闪购",
-      "modifyTitle": "上海乒乓球嘉年华市级循环赛第五轮：奉贤���发vs普陀淘宝闪购",
+      "modifyTitle": "上海乒乓球嘉年华市级循环赛第五轮：奉贤经发vs普陀淘宝闪购",
       "presenters": "胡朔",
       "matchInfo": {
         "time": "06月06日14:00"
@@ -543,7 +519,7 @@
       "title": "武汉篮球城市超级联赛",
       "keyword": "06月06日15:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "城超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000579194/202606012002_343902_H169_1080.webp",
@@ -709,6 +685,30 @@
         },
         {
           "url": "http://vip.xa.frp.one:36234/965181385",
+          "name": "解说"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000572716",
+      "pID": "963782241",
+      "title": "自然堂喜马拉雅越野跑day1",
+      "keyword": "06月06日16:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "自然堂喜马拉雅越野跑",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/06/77ERQUB7GSS0.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/3/23/1000000014241069b88c.png",
+      "pkInfoTitle": "自然堂喜马拉雅越野跑day1",
+      "modifyTitle": "越野跑day1",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月06日16:00"
+      },
+      "nodes": [
+        {
+          "pID": "963782241",
           "name": "解说"
         }
       ]
@@ -886,6 +886,30 @@
         {
           "url": "http://vip.xa.frp.one:36234/965110900",
           "name": "2026赛季武汉篮球城市超级联赛淘汰赛8进4: 武汉引力空间vsCHA海外仓"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000579402",
+      "pID": "965183420",
+      "title": "NBA精彩重播：2026总决赛 尼克斯vs马刺 G2",
+      "keyword": "06月06日18:00",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "NBA经典赛事",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png",
+      "pkInfoTitle": "NBA精彩重播：2026总决赛 尼克斯vs马刺 G2",
+      "modifyTitle": "NBA经典赛事",
+      "presenters": "杨健 周琦 陈正昊",
+      "matchInfo": {
+        "time": "06月06日18:00"
+      },
+      "nodes": [
+        {
+          "pID": "965183420",
+          "name": "杨健 周琦 陈正昊"
         }
       ]
     },
