@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-06-06 13:31:30",
+  "updateTime": "2026-06-06 14:01:35",
   "data": [
     {
       "mgdbId": "120000578941",
@@ -243,7 +243,7 @@
     },
     {
       "mgdbId": "120000579180",
-      "pID": "965201344",
+      "pID": "965201356",
       "title": "陈雨菲再战安洗莹 国羽混双德比",
       "keyword": "06月06日13:00",
       "sportItemId": "6",
@@ -254,14 +254,14 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "陈雨菲再战安洗莹 国羽混双德比",
       "modifyTitle": "印尼羽毛球公开赛第五日：陈雨菲再战安洗莹 国羽混双德比",
-      "presenters": "余博洋",
+      "presenters": "鸿昆",
       "matchInfo": {
         "time": "06月06日13:00"
       },
       "nodes": [
         {
-          "pID": "965201344",
-          "name": "山口茜VS沈有振"
+          "pID": "965201356",
+          "name": "安洗莹VS陈雨菲"
         },
         {
           "pID": "965106143",
@@ -319,7 +319,7 @@
       "title": "上海乒乓球嘉年华市级循环赛第五轮：茸城乒将vs长宁乐动虹桥",
       "keyword": "06月06日14:00",
       "sportItemId": "7",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "乒乓球嘉年华",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/04/77EQ1HOP6RJN.jpg",
@@ -355,7 +355,7 @@
       "title": "上海乒乓球嘉年华市级循环赛第五轮：崇明乘风破浪队vs黄浦南房",
       "keyword": "06月06日14:00",
       "sportItemId": "7",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "乒乓球嘉年华",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/04/77EQ1LUJ2LDL.jpg",
@@ -391,7 +391,7 @@
       "title": "上海乒乓球嘉年华市级循环赛第五轮：金山物流汇喆宇vs徐汇愚公科技",
       "keyword": "06月06日14:00",
       "sportItemId": "7",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "乒乓球嘉年华",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/04/77EQ1IP1FSND.jpg",
@@ -427,13 +427,13 @@
       "title": "上海乒乓球嘉年华市级循环赛第五轮：奉贤经发vs普陀淘宝闪购",
       "keyword": "06月06日14:00",
       "sportItemId": "7",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "乒乓球嘉年华",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/04/77EQ1J8BVA0F.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/9/100000001435106852ee.png",
       "pkInfoTitle": "奉贤经发vs普陀淘宝闪购",
-      "modifyTitle": "上海乒乓球嘉年华市级循环赛第五轮：奉贤经发vs普陀���宝闪购",
+      "modifyTitle": "上海乒乓球嘉年华市级循环赛第五轮：奉贤经发vs普陀淘宝闪购",
       "presenters": "胡朔",
       "matchInfo": {
         "time": "06月06日14:00"
@@ -463,7 +463,7 @@
       "title": "围甲联赛第4轮",
       "keyword": "06月06日14:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "中国围棋甲级联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/06/77ERRQECT3BK.png",
@@ -491,7 +491,7 @@
       "title": "斯诺克经典回放：2022英锦赛正赛第一轮 丁俊晖vs霍金斯",
       "keyword": "06月06日14:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/05/77EQTSFQCR77.png",
@@ -760,6 +760,14 @@
           "name": "英文解说主赛"
         },
         {
+          "pID": "965209641",
+          "name": "第二直播间副赛"
+        },
+        {
+          "pID": "965209667",
+          "name": "第二直播间主赛"
+        },
+        {
           "url": "http://vip.xa.frp.one:36234/965173426",
           "name": "官方解说"
         },
@@ -797,7 +805,7 @@
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000579188/202606011626_170101_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/5/11/100000001463106bf9dd.png",
       "pkInfoTitle": "巴彦淖尔队vs呼伦贝尔队",
-      "modifyTitle": "��蒙古足球超级联赛",
+      "modifyTitle": "内蒙古足球���级联赛",
       "presenters": "",
       "matchInfo": {
         "time": "06月06日16:50"
