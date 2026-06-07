@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-06-07 14:31:20",
+  "updateTime": "2026-06-07 15:01:26",
   "data": [
     {
       "mgdbId": "120000579221",
@@ -152,7 +152,7 @@
       "title": "越野跑day2",
       "keyword": "06月07日04:20",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "自然堂喜马拉雅越野跑",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/06/77ERRPN2P9PJ.jpg",
@@ -686,6 +686,30 @@
       ]
     },
     {
+      "mgdbId": "120000579403",
+      "pID": "965183447",
+      "title": "NBA精彩重播：1994总决赛 尼克斯vs火箭 G6",
+      "keyword": "06月07日18:00",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "NBA经典赛事",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png",
+      "pkInfoTitle": "NBA精彩重播：1994总决赛 尼克斯vs火箭 G6",
+      "modifyTitle": "NBA经典赛事",
+      "presenters": "王冠证",
+      "matchInfo": {
+        "time": "06月07日18:00"
+      },
+      "nodes": [
+        {
+          "pID": "965183447",
+          "name": "王冠证"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000577295",
       "pID": "965120170",
       "title": "上海乒乓球嘉年华市级循环赛第六轮：虹口邮储银行vs宝山国投私募基金",
@@ -973,6 +997,10 @@
       "nodes": [
         {
           "pID": "965121705",
+          "name": "解说"
+        },
+        {
+          "url": "http://vip.xa.frp.one:36234/965121705",
           "name": "解说"
         }
       ]
