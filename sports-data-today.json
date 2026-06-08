@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-06-08 10:30:49",
+  "updateTime": "2026-06-08 11:00:54",
   "data": [
     {
       "mgdbId": "120000578944",
@@ -214,11 +214,15 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
       "pkInfoTitle": "费尔南德斯迎战博尔特",
       "modifyTitle": "WTA500伦敦站女单第一轮：费尔南德斯迎战博尔特",
-      "presenters": "",
+      "presenters": "李宁",
       "matchInfo": {
         "time": "06月08日20:00"
       },
       "nodes": [
+        {
+          "pID": "965237423",
+          "name": "郑钦文 vs克里斯蒂安(李宁)"
+        },
         {
           "pID": "965146093",
           "name": "赛场原声"
@@ -239,6 +243,7 @@
     },
     {
       "mgdbId": "120000579457",
+      "pID": "965237408",
       "title": "WTA500伦敦站女单第一轮：郑钦文 vs 克里斯蒂安",
       "keyword": "06月08日20:00",
       "sportItemId": "9",
@@ -249,11 +254,20 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
       "pkInfoTitle": "郑钦文 vs 克里斯蒂安",
       "modifyTitle": "WTA500伦敦站女单第一轮：郑钦文 vs 克里斯蒂安",
-      "presenters": "",
+      "presenters": "李宁",
       "matchInfo": {
         "time": "06月08日20:00"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "965237408",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "965237423",
+          "name": "李宁"
+        }
+      ]
     },
     {
       "mgdbId": "120000578949",
