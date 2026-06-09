@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-06-09 17:01:06",
+  "updateTime": "2026-06-09 17:30:59",
   "data": [
     {
       "mgdbId": "120000578948",
@@ -93,36 +93,16 @@
           "name": "智能字幕"
         },
         {
-          "url": "http://vip.xa.frp.one:36234/965244066",
-          "name": "杨健 周琦 陈正昊"
+          "url": "http://vip.xa.frp.one:36234/965256415",
+          "name": "全场回放（杨健、周琦、陈正昊）"
         },
         {
-          "url": "http://vip.xa.frp.one:36234/965244096",
-          "name": "姜帆 马健 周鹏"
+          "url": "http://vip.xa.frp.one:36234/965258956",
+          "name": "全场回放（姜帆、马健、周鹏、佳依）"
         },
         {
-          "url": "http://vip.xa.frp.one:36234/965244144",
-          "name": "王晓晨"
-        },
-        {
-          "url": "http://vip.xa.frp.one:36234/965248250",
-          "name": "莫俊祺"
-        },
-        {
-          "url": "http://vip.xa.frp.one:36234/965244349",
-          "name": "洪荒"
-        },
-        {
-          "url": "http://vip.xa.frp.one:36234/965244414",
-          "name": "英文原声"
-        },
-        {
-          "url": "http://vip.xa.frp.one:36234/965244455",
-          "name": "VIP前排视角"
-        },
-        {
-          "url": "http://vip.xa.frp.one:36234/965244496",
-          "name": "球场十倍镜"
+          "url": "http://vip.xa.frp.one:36234/965256493",
+          "name": "全场回放（英文原声）"
         }
       ]
     },
@@ -150,13 +130,13 @@
         },
         {
           "url": "http://vip.xa.frp.one:36234/965162082",
-          "name": "一"
+          "name": "丁俊晖vs艾伦"
         }
       ]
     },
     {
       "mgdbId": "120000579501",
-      "pID": "965239988",
+      "pID": "965253475",
       "title": "一百分、凡贤组合率先晋级",
       "keyword": "06月09日14:00",
       "sportItemId": "6",
@@ -167,11 +147,15 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "一百分、凡贤组合率先晋级",
       "modifyTitle": "澳大利亚公开赛第一日：一百分、凡贤组合率先晋级",
-      "presenters": "",
+      "presenters": "鸿昆",
       "matchInfo": {
         "time": "06月09日14:00"
       },
       "nodes": [
+        {
+          "pID": "965253475",
+          "name": "罗意/王汀戈VS张净惠/杨景惇"
+        },
         {
           "pID": "965239988",
           "name": "2号场地"
@@ -186,6 +170,22 @@
         },
         {
           "pID": "965239959",
+          "name": "1号场地"
+        },
+        {
+          "url": "http://vip.xa.frp.one:36234/965239988",
+          "name": "2号场地"
+        },
+        {
+          "url": "http://vip.xa.frp.one:36234/965240052",
+          "name": "4号场地"
+        },
+        {
+          "url": "http://vip.xa.frp.one:36234/965240022",
+          "name": "3号场地"
+        },
+        {
+          "url": "http://vip.xa.frp.one:36234/965239959",
           "name": "1号场地"
         }
       ]
@@ -222,7 +222,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/09/77EUGEEULNB3.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/09/77EUHL4L4UP0.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "袁励岑、李天阳冲正赛 倪夏莲PK拉娜",
       "modifyTitle": "WTT萨格勒布常规挑战赛单打资格赛第一轮",
@@ -236,16 +236,16 @@
           "name": "凌维康"
         },
         {
-          "pID": "965048575",
-          "name": "1号桌"
+          "pID": "965048644",
+          "name": "3号桌"
         },
         {
           "pID": "965048659",
           "name": "4号桌"
         },
         {
-          "pID": "965048644",
-          "name": "3号桌"
+          "pID": "965048575",
+          "name": "1号桌"
         },
         {
           "pID": "965048613",
@@ -260,16 +260,16 @@
           "name": "1号桌"
         },
         {
-          "url": "http://vip.xa.frp.one:36234/965048613",
-          "name": "2号桌"
+          "url": "http://vip.xa.frp.one:36234/965048659",
+          "name": "4号桌"
         },
         {
           "url": "http://vip.xa.frp.one:36234/965048644",
           "name": "3号桌"
         },
         {
-          "url": "http://vip.xa.frp.one:36234/965048659",
-          "name": "4号桌"
+          "url": "http://vip.xa.frp.one:36234/965048613",
+          "name": "2号桌"
         }
       ]
     },
@@ -321,6 +321,10 @@
       "nodes": [
         {
           "pID": "965258244",
+          "name": "杨健 周琦 陈正昊"
+        },
+        {
+          "url": "http://vip.xa.frp.one:36234/965258244",
           "name": "杨健 周琦 陈正昊"
         }
       ]
@@ -452,16 +456,16 @@
           "name": "赛场原声"
         },
         {
-          "pID": "965260160",
-          "name": "清流视角"
-        },
-        {
           "url": "http://vip.xa.frp.one:36234/965140984",
           "name": "张昊泽 王宇"
         },
         {
           "url": "http://vip.xa.frp.one:36234/965140978",
           "name": "赛场原声"
+        },
+        {
+          "url": "http://vip.xa.frp.one:36234/965260160",
+          "name": "清流视角"
         }
       ]
     },
