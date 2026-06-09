@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-06-09 12:00:56",
+  "updateTime": "2026-06-09 12:30:52",
   "data": [
     {
       "mgdbId": "120000578948",
@@ -36,7 +36,7 @@
     },
     {
       "mgdbId": "120000579501",
-      "pID": "965239988",
+      "pID": "965240022",
       "title": "蓄势待发！一百分、凡贤组合联袂出击",
       "keyword": "06月09日07:00",
       "sportItemId": "6",
@@ -45,7 +45,7 @@
       "competitionName": "BWF",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/08/77ETLCG001A4.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
-      "pkInfoTitle": "蓄势待发！一百分、凡贤���合联袂出击",
+      "pkInfoTitle": "蓄势待发！一百分、凡贤组���联袂出击",
       "modifyTitle": "澳大利亚公开赛第一日：蓄势待发！一百分、凡贤组合联袂出击",
       "presenters": "",
       "matchInfo": {
@@ -53,20 +53,12 @@
       },
       "nodes": [
         {
-          "pID": "965239988",
-          "name": "2号场地"
-        },
-        {
           "pID": "965240022",
           "name": "3号场地"
         },
         {
           "pID": "965240052",
           "name": "4号场地"
-        },
-        {
-          "pID": "965239959",
-          "name": "1号场地"
         },
         {
           "url": "http://vip.xa.frp.one:36234/965239988",
@@ -88,11 +80,11 @@
     },
     {
       "mgdbId": "120000569221",
-      "pID": "965244066",
+      "pID": "965256035",
       "title": "NBA总决赛",
       "keyword": "06月09日08:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "麦迪逊广场花园",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/09/77EUJEA8E6R6.jpg",
@@ -104,6 +96,10 @@
         "time": "06月09日08:30"
       },
       "nodes": [
+        {
+          "pID": "965256035",
+          "name": "全场集锦"
+        },
         {
           "pID": "965244066",
           "name": "杨健 周琦 陈正昊"
