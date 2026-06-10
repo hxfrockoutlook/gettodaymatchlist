@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-06-10 10:01:04",
+  "updateTime": "2026-06-10 10:31:01",
   "data": [
     {
       "mgdbId": "120000579350",
@@ -40,7 +40,7 @@
     },
     {
       "mgdbId": "120000579502",
-      "pID": "965240077",
+      "pID": "965267850",
       "title": "董天尧迎劲敌金廷 国羽凤凰、梁王亮相",
       "keyword": "06月10日07:00",
       "sportItemId": "6",
@@ -51,11 +51,19 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "董天尧迎劲敌金廷 国羽凤凰、梁王亮相",
       "modifyTitle": "澳大利亚公开赛第二日：董天尧迎劲敌金廷 国羽凤凰、梁王亮相",
-      "presenters": "",
+      "presenters": "鸿昆 杨妮娜",
       "matchInfo": {
         "time": "06月10日07:00"
       },
       "nodes": [
+        {
+          "pID": "965267850",
+          "name": "冯彦哲/黄东萍VS金俊英/李幽琳"
+        },
+        {
+          "pID": "965268281",
+          "name": "韩千禧VS伊沙拉尼"
+        },
         {
           "pID": "965240077",
           "name": "1号场地"
@@ -626,66 +634,6 @@
       ]
     },
     {
-      "mgdbId": "120000578852",
-      "pID": "965049040",
-      "title": "单打资格赛最终轮",
-      "keyword": "06月10日20:05",
-      "sportItemId": "7",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "WTT",
-      "padImg": "",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "单打资格赛最终轮",
-      "modifyTitle": "WTT萨格勒布常规挑战赛单打资格赛最终轮",
-      "presenters": "刘馨蕊",
-      "matchInfo": {
-        "time": "06月10日20:05"
-      },
-      "nodes": [
-        {
-          "pID": "965049040",
-          "name": "刘馨蕊"
-        },
-        {
-          "pID": "965048944",
-          "name": "1号桌"
-        },
-        {
-          "pID": "965048978",
-          "name": "2号桌"
-        },
-        {
-          "pID": "965048999",
-          "name": "3号桌"
-        },
-        {
-          "pID": "965049018",
-          "name": "4号桌"
-        },
-        {
-          "url": "http://vip.xa.frp.one:36234/965049040",
-          "name": "刘馨蕊"
-        },
-        {
-          "url": "http://vip.xa.frp.one:36234/965048944",
-          "name": "1号桌"
-        },
-        {
-          "url": "http://vip.xa.frp.one:36234/965048978",
-          "name": "2号桌"
-        },
-        {
-          "url": "http://vip.xa.frp.one:36234/965048999",
-          "name": "3号桌"
-        },
-        {
-          "url": "http://vip.xa.frp.one:36234/965049018",
-          "name": "4号桌"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000579353",
       "pID": "965164621",
       "title": "王信伯迎职业首秀",
@@ -766,6 +714,62 @@
         {
           "url": "http://vip.xa.frp.one:36234/965164969",
           "name": "八号桌"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000578852",
+      "pID": "965049040",
+      "title": "单打资格赛最终轮",
+      "keyword": "06月10日23:00",
+      "sportItemId": "7",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "WTT",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
+      "pkInfoTitle": "单打资格赛最终轮",
+      "modifyTitle": "WTT萨格勒布常规挑战赛单打资格赛最终轮",
+      "presenters": "刘馨蕊",
+      "matchInfo": {
+        "time": "06月10日23:00"
+      },
+      "nodes": [
+        {
+          "pID": "965048944",
+          "name": "1号桌"
+        },
+        {
+          "pID": "965048978",
+          "name": "2号桌"
+        },
+        {
+          "pID": "965048999",
+          "name": "3号桌"
+        },
+        {
+          "pID": "965049018",
+          "name": "4号桌"
+        },
+        {
+          "url": "http://vip.xa.frp.one:36234/965049040",
+          "name": "刘馨蕊"
+        },
+        {
+          "url": "http://vip.xa.frp.one:36234/965048944",
+          "name": "1号桌"
+        },
+        {
+          "url": "http://vip.xa.frp.one:36234/965048978",
+          "name": "2号桌"
+        },
+        {
+          "url": "http://vip.xa.frp.one:36234/965048999",
+          "name": "3号桌"
+        },
+        {
+          "url": "http://vip.xa.frp.one:36234/965049018",
+          "name": "4号桌"
         }
       ]
     }
