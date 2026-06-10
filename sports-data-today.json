@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-06-10 18:31:09",
+  "updateTime": "2026-06-10 19:01:16",
   "data": [
     {
       "mgdbId": "120000579350",
@@ -37,28 +37,32 @@
     {
       "mgdbId": "120000579502",
       "pID": "965240077",
-      "title": "董天尧迎劲敌金廷 国羽凤凰、梁王亮相",
+      "title": "董天尧战胜金廷挺进16强 凤凰、梁王组合晋级",
       "keyword": "06月10日07:00",
       "sportItemId": "6",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "BWF",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/09/77EUIPDK060L.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/10/77EVE931AU5L.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
-      "pkInfoTitle": "董天尧迎劲敌金廷 国羽凤凰、梁王亮相",
-      "modifyTitle": "澳大利亚公开赛第二日：董天尧迎劲敌金廷 国羽凤凰、梁王亮相",
-      "presenters": "",
+      "pkInfoTitle": "董天尧战胜金廷挺进16强 凤凰、梁王组合晋级",
+      "modifyTitle": "澳大利亚公开赛第二日：董天尧挺进16强 凤凰、梁王组合晋级",
+      "presenters": "朱胤丞",
       "matchInfo": {
         "time": "06月10日07:00"
       },
       "nodes": [
         {
+          "pID": "965240077",
+          "name": "1号场地"
+        },
+        {
           "pID": "965240122",
           "name": "3号场地"
         },
         {
-          "pID": "965240077",
-          "name": "1号场地"
+          "pID": "965268055",
+          "name": "穆希特/拉克什塔VS郭新娃/陈芳卉"
         },
         {
           "pID": "965240159",
@@ -67,10 +71,6 @@
         {
           "pID": "965240109",
           "name": "2号场地"
-        },
-        {
-          "pID": "965268055",
-          "name": "穆希特/拉克什塔VS郭新娃/陈芳卉"
         },
         {
           "url": "http://vip.xa.frp.one:36234/965240077",
@@ -91,39 +91,15 @@
       ]
     },
     {
-      "mgdbId": "120000579618",
-      "pID": "965262924",
-      "title": "中国极限运动大赛",
-      "keyword": "06月10日09:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "中国极限运动大赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/09/77EUHOLPP8S2.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/6/9/1000000014841067c4f6.png",
-      "pkInfoTitle": "中国极限运动大赛",
-      "modifyTitle": "中国极限运动大赛",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月10日09:00"
-      },
-      "nodes": [
-        {
-          "pID": "965262924",
-          "name": "解说"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000579410",
       "pID": "965260190",
       "title": "世界杯热身赛",
       "keyword": "06月10日09:08",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "世界杯热身赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/05/77EQTR6GV4P5.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/10/77EVGF0UKG2G.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/6/5/100000001482106b6caa.png",
       "pkInfoTitle": "阿根廷vs冰岛",
       "modifyTitle": "世界杯热身赛",
@@ -152,7 +128,7 @@
       "title": "《NBA周刊》2026总决赛G4特辑",
       "keyword": "06月10日10:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA",
       "padImg": "",
@@ -181,15 +157,15 @@
     {
       "mgdbId": "120000579608",
       "pID": "965255213",
-      "title": "单项赛Day1",
+      "title": "50+男/女单正赛",
       "keyword": "06月10日14:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "APBA匹克球全球总决赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/09/77EUHO2N6QF8.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/6/9/100000001483106e5a39.png",
-      "pkInfoTitle": "单项赛Day1",
+      "pkInfoTitle": "50+男/女单正赛",
       "modifyTitle": "全球总决赛“乐宜里杯”俱乐部单项赛Day1",
       "presenters": "",
       "matchInfo": {
@@ -207,12 +183,36 @@
       ]
     },
     {
+      "mgdbId": "120000579618",
+      "pID": "965262924",
+      "title": "中国极限运动大赛",
+      "keyword": "06月10日14:00",
+      "sportItemId": "8",
+      "matchStatus": "2",
+      "matchField": "",
+      "competitionName": "中国极限运动大赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/09/77EUHOLPP8S2.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/6/9/1000000014841067c4f6.png",
+      "pkInfoTitle": "中国极限运动大赛",
+      "modifyTitle": "中国极限运动大赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月10日14:00"
+      },
+      "nodes": [
+        {
+          "pID": "965262924",
+          "name": "解说"
+        }
+      ]
+    },
+    {
       "mgdbId": "300000002089",
       "pID": "965030560",
       "title": "咪咕体育日报 第136期",
       "keyword": "06月10日00:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "咪咕体育日报",
       "padImg": "",
@@ -232,15 +232,15 @@
     {
       "mgdbId": "120000578851",
       "pID": "965048903",
-      "title": "方博复出冲连胜 杨屹韵、李天阳争晋级",
+      "title": "方博PK罗伯勒斯 袁励岑横扫迎连胜",
       "keyword": "06月10日16:00",
       "sportItemId": "7",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/10/77EVEFPDQI62.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/10/77EVF3UOIF5F.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "方博复出冲连胜 杨屹韵、李天阳争晋级",
+      "pkInfoTitle": "方博PK罗伯勒斯 袁励岑横扫迎连胜",
       "modifyTitle": "WTT萨格勒布常规挑战赛单打资格赛第二、三轮及双打资格赛",
       "presenters": "刘馨蕊",
       "matchInfo": {
@@ -295,7 +295,7 @@
       "title": "巩晨智、张家玮出战",
       "keyword": "06月10日16:30",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/09/77EUGT035O60.png",
@@ -340,6 +340,10 @@
           "name": "七号桌"
         },
         {
+          "url": "http://vip.xa.frp.one:36234/965164372",
+          "name": "一号桌"
+        },
+        {
           "url": "http://vip.xa.frp.one:36234/965164588",
           "name": "八号桌"
         },
@@ -370,12 +374,40 @@
       ]
     },
     {
+      "mgdbId": "120000579686",
+      "pID": "965271181",
+      "title": "NBA常规赛精彩重播：尼克斯vs马刺",
+      "keyword": "06月10日18:00",
+      "sportItemId": "2",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "NBA经典赛事",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png",
+      "pkInfoTitle": "NBA常规赛精彩重播：尼克斯vs马刺",
+      "modifyTitle": "NBA经典赛事",
+      "presenters": "罗森",
+      "matchInfo": {
+        "time": "06月10日18:00"
+      },
+      "nodes": [
+        {
+          "pID": "965271181",
+          "name": "罗森"
+        },
+        {
+          "url": "http://vip.xa.frp.one:36234/965271181",
+          "name": "罗森"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000579239",
       "pID": "965146112",
       "title": "约维奇vs伊埃拉 阿尼西莫娃出战",
       "keyword": "06月10日18:30",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/10/77EVFM5BCOM6.jpg",
@@ -411,7 +443,7 @@
       "title": "CUVA男子高水平组总决赛：北京体育大学vs南昌大学",
       "keyword": "06月10日19:00",
       "sportItemId": "3",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "中国大学生排球联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/09/77EUH3PMMBI3.jpg",
@@ -590,58 +622,6 @@
       ]
     },
     {
-      "mgdbId": "120000578852",
-      "pID": "965049040",
-      "title": "单打资格赛最终轮",
-      "keyword": "06月10日20:05",
-      "sportItemId": "7",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "WTT",
-      "padImg": "",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "单打资格赛最终轮",
-      "modifyTitle": "WTT萨格勒布常规挑战赛单打资格赛最终轮",
-      "presenters": "刘馨蕊",
-      "matchInfo": {
-        "time": "06月10日20:05"
-      },
-      "nodes": [
-        {
-          "pID": "965048944",
-          "name": "1号桌"
-        },
-        {
-          "pID": "965048978",
-          "name": "2号桌"
-        },
-        {
-          "pID": "965048999",
-          "name": "3号桌"
-        },
-        {
-          "pID": "965049018",
-          "name": "4号桌"
-        },
-        {
-          "url": "http://vip.xa.frp.one:36234/965048944",
-          "name": "1号桌"
-        },
-        {
-          "url": "http://vip.xa.frp.one:36234/965048978",
-          "name": "2号桌"
-        },
-        {
-          "url": "http://vip.xa.frp.one:36234/965048999",
-          "name": "3号桌"
-        },
-        {
-          "url": "http://vip.xa.frp.one:36234/965049018",
-          "name": "4号桌"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000579353",
       "pID": "965164621",
       "title": "王信伯迎职业首秀",
@@ -726,30 +706,54 @@
       ]
     },
     {
-      "mgdbId": "120000579686",
-      "pID": "120000579686",
-      "title": "NBA常规赛精彩重播：尼克斯vs马刺",
-      "keyword": "06月10日18:00",
-      "sportItemId": "",
-      "matchStatus": "1",
+      "mgdbId": "120000578852",
+      "pID": "965048944",
+      "title": "单打资格赛最终轮",
+      "keyword": "06月10日23:00",
+      "sportItemId": "7",
+      "matchStatus": "0",
       "matchField": "",
-      "competitionName": "NBA经典赛事",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2024/06/05/11005/163f632f7dfb4759a7b394710aaf02c2/163f632f7dfb4759a7b394710aaf02c2_H169_P1080_WEBP.webp",
-      "competitionLogo": "",
-      "pkInfoTitle": "NBA常规赛精彩重播：尼克斯vs马刺",
-      "modifyTitle": "NBA常规赛精彩重播：尼克斯vs马刺",
-      "presenters": "",
+      "competitionName": "WTT",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
+      "pkInfoTitle": "单打资格赛最终轮",
+      "modifyTitle": "WTT萨格勒布常规挑战赛单打资格赛最终轮",
+      "presenters": "刘馨蕊",
       "matchInfo": {
-        "time": "06月10日18:00"
+        "time": "06月10日23:00"
       },
       "nodes": [
         {
-          "pID": "965271181",
-          "name": "罗森"
+          "pID": "965048944",
+          "name": "1号桌"
         },
         {
-          "url": "http://vip.xa.frp.one:36234/965271181",
-          "name": "罗森"
+          "pID": "965048978",
+          "name": "2号桌"
+        },
+        {
+          "pID": "965048999",
+          "name": "3号桌"
+        },
+        {
+          "pID": "965049018",
+          "name": "4号桌"
+        },
+        {
+          "url": "http://vip.xa.frp.one:36234/965048944",
+          "name": "1号桌"
+        },
+        {
+          "url": "http://vip.xa.frp.one:36234/965048978",
+          "name": "2号桌"
+        },
+        {
+          "url": "http://vip.xa.frp.one:36234/965048999",
+          "name": "3号桌"
+        },
+        {
+          "url": "http://vip.xa.frp.one:36234/965049018",
+          "name": "4号桌"
         }
       ]
     }
