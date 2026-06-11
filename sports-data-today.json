@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-06-11 12:01:05",
+  "updateTime": "2026-06-11 12:31:03",
   "data": [
     {
       "mgdbId": "120000578947",
@@ -148,14 +148,14 @@
     },
     {
       "mgdbId": "120000569222",
-      "pID": "965244600",
+      "pID": "965288813",
       "title": "NBA总决赛",
       "keyword": "06月11日08:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "麦迪逊广场花园",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/11/77F0DMBPKSAR.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/11/77F0DTFN8T60.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "马刺VS尼克斯",
       "modifyTitle": "NBA总决赛",
@@ -164,6 +164,10 @@
         "time": "06月11日08:30"
       },
       "nodes": [
+        {
+          "pID": "965288813",
+          "name": "全场集锦"
+        },
         {
           "pID": "965244600",
           "name": "杨健 周琦 陈正昊"
@@ -262,7 +266,7 @@
         },
         {
           "url": "http://vip.xa.frp.one:36234/965255226",
-          "name": "清流播出"
+          "name": "60+男/女单正赛 50+男/女双正赛 清流播出"
         }
       ]
     },
@@ -373,7 +377,7 @@
       "nodes": [
         {
           "pID": "965276067",
-          "name": "陶哲铭"
+          "name": "一号桌"
         },
         {
           "pID": "965165289",
@@ -437,7 +441,7 @@
         },
         {
           "url": "http://vip.xa.frp.one:36234/965165566",
-          "name": "七号桌"
+          "name": "白雨露出战 邓���辉PK周一尘 七号桌"
         },
         {
           "url": "http://vip.xa.frp.one:36234/965165597",
@@ -534,10 +538,6 @@
         {
           "url": "http://vip.xa.frp.one:36234/965158622",
           "name": "赛场原声"
-        },
-        {
-          "url": "http://vip.xa.frp.one:36234/965158633",
-          "name": "英文原声"
         }
       ]
     },
