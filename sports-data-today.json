@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-06-11 21:31:08",
+  "updateTime": "2026-06-11 22:01:24",
   "data": [
     {
       "mgdbId": "120000578947",
@@ -428,12 +428,12 @@
           "name": "1号桌"
         },
         {
-          "pID": "965049110",
-          "name": "2号桌"
-        },
-        {
           "pID": "965049167",
           "name": "3号桌"
+        },
+        {
+          "pID": "965049110",
+          "name": "2号桌"
         },
         {
           "pID": "965049183",
@@ -446,10 +446,6 @@
         {
           "url": "http://vip.xa.frp.one:36234/965049079",
           "name": "1号桌"
-        },
-        {
-          "url": "http://vip.xa.frp.one:36234/965049110",
-          "name": "2号桌"
         },
         {
           "url": "http://vip.xa.frp.one:36234/965049167",
@@ -503,7 +499,7 @@
       "title": "NBA精彩重播：2026总决赛 马刺vs尼克斯 G4",
       "keyword": "06月11日18:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA经典赛事",
       "padImg": "",
@@ -515,6 +511,10 @@
         "time": "06月11日18:00"
       },
       "nodes": [
+        {
+          "pID": "965258257",
+          "name": "25/26赛季NBA经典赛事:精彩重播：2026总决赛 马刺vs尼克斯 G4(杨健,周琦,陈正昊)"
+        },
         {
           "pID": "965258257",
           "name": "杨健 周琦 陈正昊"
@@ -556,7 +556,7 @@
     {
       "mgdbId": "120000579240",
       "pID": "965146116",
-      "title": "莱巴金娜领衔出战 小威女双亮相",
+      "title": "科斯蒂亚出战 莱巴金娜接场",
       "keyword": "06月11日18:30",
       "sportItemId": "9",
       "matchStatus": "1",
@@ -564,8 +564,8 @@
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/11/77F0DA4TVVTN.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "莱巴金娜领衔出战 小威女双亮相",
-      "modifyTitle": "WTA500伦敦站女单/双第二轮：莱巴金娜领衔出战 小威女双亮相",
+      "pkInfoTitle": "科斯蒂亚出战 莱巴金娜接场",
+      "modifyTitle": "WTA500伦敦站女单/双第二轮：科斯蒂亚出战 莱巴金娜接场",
       "presenters": "",
       "matchInfo": {
         "time": "06月11日18:30"
@@ -758,6 +758,10 @@
         {
           "url": "http://vip.xa.frp.one:36234/965165921",
           "name": "五号桌"
+        },
+        {
+          "url": "http://vip.xa.frp.one:36234/965166039",
+          "name": "六号桌"
         },
         {
           "url": "http://vip.xa.frp.one:36234/965166090",
