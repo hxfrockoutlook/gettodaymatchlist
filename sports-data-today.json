@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-06-13 11:32:25",
+  "updateTime": "2026-06-13 12:02:49",
   "data": [
     {
       "mgdbId": "120000579360",
@@ -62,7 +62,7 @@
         },
         {
           "url": "http://vip.xa.frp.one:36234/965329755",
-          "name": "【回放】卢卡·布雷切尔6-5杰米·克拉克（赛场原声）"
+          "name": "【回放】卢卡·��雷切尔6-5杰米·克拉克（赛场原声）"
         },
         {
           "url": "http://vip.xa.frp.one:36234/965329600",
@@ -147,40 +147,12 @@
       ]
     },
     {
-      "mgdbId": "120000579347",
-      "pID": "965163394",
-      "title": "2026年龙岗龙舟邀请赛",
-      "keyword": "06月13日08:30",
-      "sportItemId": "8",
-      "matchStatus": "2",
-      "matchField": "",
-      "competitionName": "龙舟邀请赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/12/77F19SLSVO9D.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/6/4/1000000012731061a1ba.png",
-      "pkInfoTitle": "2026年龙岗龙舟邀请赛",
-      "modifyTitle": "2026年龙岗龙舟邀请赛",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月13日08:30"
-      },
-      "nodes": [
-        {
-          "pID": "965163394",
-          "name": "解说"
-        },
-        {
-          "url": "http://vip.xa.frp.one:36234/965163394",
-          "name": "解说"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000575539",
       "pID": "965278009",
       "title": "世界杯小组赛",
       "keyword": "06月13日09:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "洛杉矶球场",
       "competitionName": "世界杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/13/77F27P1R5SQ6.jpg",
@@ -214,7 +186,7 @@
         },
         {
           "url": "http://vip.xa.frp.one:36234/965271551",
-          "name": "粤语：夏景俊 陆毅隽"
+          "name": "���语：夏景俊 陆毅隽"
         },
         {
           "url": "http://vip.xa.frp.one:36234/965271560",
@@ -309,7 +281,7 @@
     {
       "mgdbId": "120000579505",
       "pID": "965253881",
-      "title": "国羽男双德比！娃卉、凤凰组合出战",
+      "title": "国羽男双德比！娃卉、凤凰组合会师决赛",
       "keyword": "06月13日10:00",
       "sportItemId": "6",
       "matchStatus": "1",
@@ -317,8 +289,8 @@
       "competitionName": "BWF",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/13/77F282947KQR.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
-      "pkInfoTitle": "国羽男双德比！娃卉、凤凰组合出战",
-      "modifyTitle": "澳大利亚公开赛第五日：国羽男双德比！娃卉、凤凰组合出战",
+      "pkInfoTitle": "国羽男双德比！娃卉、凤凰组合会师决赛",
+      "modifyTitle": "澳大利亚公开赛第五日：国羽男双德比！娃卉、凤凰组合会师决赛",
       "presenters": "",
       "matchInfo": {
         "time": "06月13日10:00"
@@ -360,7 +332,7 @@
     },
     {
       "mgdbId": "120000579959",
-      "pID": "965333226",
+      "pID": "965334097",
       "title": "《NBA周刊》2026总决赛G5特辑",
       "keyword": "06月13日10:00",
       "sportItemId": "2",
@@ -377,8 +349,8 @@
       },
       "nodes": [
         {
-          "pID": "965333226",
-          "name": "历史性被翻盘！圣城氛围低迷吗？陈正昊、杨健给你揭晓"
+          "pID": "965334097",
+          "name": "《NBA周刊》总决赛特别节目：直击圣城氛围！马刺还有希望吗？"
         },
         {
           "pID": "965317919",
@@ -2140,6 +2112,7 @@
     },
     {
       "mgdbId": "120000578945",
+      "pID": "965334890",
       "title": "土伦杯三四名决赛",
       "keyword": "06月13日19:30",
       "sportItemId": "1",
@@ -2150,11 +2123,20 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/10000000006610601684.png",
       "pkInfoTitle": "科特迪瓦U23 vs 民主刚果U20",
       "modifyTitle": "土伦杯三四名决赛",
-      "presenters": "",
+      "presenters": "鹿中原",
       "matchInfo": {
         "time": "06月13日19:30"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "965334890",
+          "name": "鹿中原"
+        },
+        {
+          "pID": "965334905",
+          "name": "赛场原声"
+        }
+      ]
     },
     {
       "mgdbId": "120000579723",
