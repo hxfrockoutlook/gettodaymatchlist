@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-06-13 08:33:05",
+  "updateTime": "2026-06-13 09:02:39",
   "data": [
     {
       "mgdbId": "120000579360",
@@ -168,7 +168,7 @@
       "title": "2026年龙岗龙舟邀请赛",
       "keyword": "06月13日08:30",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "龙舟邀请赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/12/77F19SLSVO9D.jpg",
@@ -213,24 +213,24 @@
           "name": "娄一晨 刘越 徐云龙 程思钦"
         },
         {
-          "pID": "965271459",
-          "name": "美国队视角"
-        },
-        {
-          "pID": "965271447",
-          "name": "巴拉圭队视角"
-        },
-        {
           "pID": "965271551",
           "name": "粤语：夏景俊 陆毅隽"
+        },
+        {
+          "pID": "965271545",
+          "name": "新声代：张天翼 洪宇青"
         },
         {
           "pID": "965271560",
           "name": "女声：兰子非"
         },
         {
-          "pID": "965271545",
-          "name": "新声代：张天翼 洪宇青"
+          "pID": "965271459",
+          "name": "美国队视角"
+        },
+        {
+          "pID": "965271447",
+          "name": "巴拉圭队视角"
         },
         {
           "pID": "965271838",
@@ -243,6 +243,14 @@
         {
           "pID": "965278427",
           "name": "智能字幕"
+        },
+        {
+          "pID": "965298894",
+          "name": "山顶的风好大！"
+        },
+        {
+          "pID": "965298865",
+          "name": "开天眼了！"
         },
         {
           "url": "http://vip.xa.frp.one:36234/965278009",
@@ -276,7 +284,7 @@
       "title": "公开组双打正赛 35+男/女单正赛",
       "keyword": "06月13日09:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "APBA匹克球全球总决赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/09/77EUIS0Q5HOQ.jpg",
@@ -295,6 +303,34 @@
         {
           "url": "http://vip.xa.frp.one:36234/965255239",
           "name": "清流播出"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000579695",
+      "pID": "965272992",
+      "title": "中国速度攀岩系列赛",
+      "keyword": "06月13日09:30",
+      "sportItemId": "8",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "中国速度攀岩系列赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/12/77F1AGSC0EI0.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/6/10/100000001485106fa59a.png",
+      "pkInfoTitle": "中国速度攀岩系列赛",
+      "modifyTitle": "中国速度攀岩系列赛Day2",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月13日09:30"
+      },
+      "nodes": [
+        {
+          "pID": "965272992",
+          "name": "解说"
+        },
+        {
+          "url": "http://vip.xa.frp.one:36234/965272992",
+          "name": "解说"
         }
       ]
     },
@@ -946,7 +982,7 @@
         },
         {
           "url": "http://vip.xa.frp.one:36234/965308597",
-          "name": "阳光村足球队VS车江二村���球队 2026赛季贵州村超联赛第六轮: 阳光村VS车江二村"
+          "name": "2026赛季贵州村超联赛第六轮: 阳光村VS车江二村"
         }
       ]
     },
@@ -1083,34 +1119,6 @@
         {
           "url": "http://vip.xa.frp.one:36234/965158679",
           "name": "英文原声"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000579695",
-      "pID": "965272992",
-      "title": "中国速度攀岩系列赛Day2",
-      "keyword": "06月13日17:00",
-      "sportItemId": "8",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "中国速度攀岩系列赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/12/77F1AGSC0EI0.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/6/10/100000001485106fa59a.png",
-      "pkInfoTitle": "中国速度攀岩系列赛Day2",
-      "modifyTitle": "中国速度攀岩系列赛Day2",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月13日17:00"
-      },
-      "nodes": [
-        {
-          "pID": "965272992",
-          "name": "解说"
-        },
-        {
-          "url": "http://vip.xa.frp.one:36234/965272992",
-          "name": "解说"
         }
       ]
     },
@@ -1483,10 +1491,6 @@
         {
           "url": "http://vip.xa.frp.one:36234/965240599",
           "name": "赛场原声"
-        },
-        {
-          "url": "http://vip.xa.frp.one:36234/965240602",
-          "name": "解说"
         }
       ]
     },
@@ -1638,7 +1642,7 @@
       "sportItemId": "1",
       "matchStatus": "0",
       "matchField": "",
-      "competitionName": "楚超",
+      "competitionName": "楚���",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000577657/202605200940_369445_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/14/100000001434106e5143.png",
       "pkInfoTitle": "十堰武当vs宜昌东阳光",
