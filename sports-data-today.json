@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-06-13 20:03:36",
+  "updateTime": "2026-06-13 20:32:51",
   "data": [
     {
       "mgdbId": "120000579360",
@@ -276,7 +276,7 @@
       "title": "国羽男双德比！娃卉、凤凰组合会师决赛",
       "keyword": "06月13日10:00",
       "sportItemId": "6",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "BWF",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/13/77F259647KH8.png",
@@ -502,7 +502,7 @@
       "nodes": [
         {
           "pID": "965254633",
-          "name": "静安中安弘vs金山物流��喆宇"
+          "name": "静安中安弘vs金山物流汇���宇"
         },
         {
           "pID": "964868364",
@@ -788,8 +788,8 @@
     },
     {
       "mgdbId": "120000579361",
-      "pID": "965165049",
-      "title": "袁思俊、蓝裕豪出战 高阳PK卡特",
+      "pID": "965165182",
+      "title": "蓝裕豪出局 高阳4-6卡特",
       "keyword": "06月13日16:30",
       "sportItemId": "8",
       "matchStatus": "1",
@@ -797,13 +797,21 @@
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/13/77F27HVF91F2.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "袁思俊、蓝裕豪出战 高阳PK卡特",
-      "modifyTitle": "2026斯诺克中国公开赛资格赛：袁思俊、蓝裕豪出战 高阳PK卡特",
+      "pkInfoTitle": "蓝裕豪出局 高阳4-6卡特",
+      "modifyTitle": "2026斯诺克中国公开赛资格赛：蓝裕豪出局 高阳4-6卡特",
       "presenters": "",
       "matchInfo": {
         "time": "06月13日16:30"
       },
       "nodes": [
+        {
+          "pID": "965165182",
+          "name": "五号桌"
+        },
+        {
+          "pID": "965165152",
+          "name": "四号桌"
+        },
         {
           "pID": "965165049",
           "name": "一号桌"
@@ -815,14 +823,6 @@
         {
           "pID": "965165108",
           "name": "三号桌"
-        },
-        {
-          "pID": "965165152",
-          "name": "四号桌"
-        },
-        {
-          "pID": "965165182",
-          "name": "五号桌"
         },
         {
           "pID": "965165199",
@@ -1005,12 +1005,12 @@
           "name": "凌维康"
         },
         {
-          "pID": "965049506",
-          "name": "1号桌"
-        },
-        {
           "pID": "965049521",
           "name": "2号桌"
+        },
+        {
+          "pID": "965049506",
+          "name": "1号桌"
         },
         {
           "url": "http://vip.xa.frp.one:36234/965049551",
@@ -1084,7 +1084,7 @@
       "title": "新疆足球超级联赛",
       "keyword": "06月13日17:58",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "疆超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000579596/202606090955_998018_H169_1080.webp",
@@ -1843,7 +1843,7 @@
       "matchStatus": "1",
       "matchField": "Ouhai Olympic Sports Center Stadium",
       "competitionName": "中乙",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000572009/202606132027_835714_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/3/19/1000000011571066d376.png",
       "pkInfoTitle": "温州 vs 厦门飞鹭",
       "modifyTitle": "中乙联赛",
@@ -2692,7 +2692,7 @@
       "title": "贵州村超联赛",
       "keyword": "06月13日20:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "贵州村超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000579949/202606120924_987866_H169_1080.webp",
@@ -2720,7 +2720,7 @@
       "title": "WTA500伦敦站女单半决赛：博尔特 vs 维基奇",
       "keyword": "06月13日20:30",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/13/77F283G89EHF.jpg",
@@ -2935,10 +2935,6 @@
         {
           "url": "http://vip.xa.frp.one:36234/965049609",
           "name": "王睿涓"
-        },
-        {
-          "url": "http://vip.xa.frp.one:36234/965049576",
-          "name": "赛场原声"
         }
       ]
     },
