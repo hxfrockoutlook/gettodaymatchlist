@@ -432,52 +432,87 @@ async function fetchM3UAndAggregate() {
   return aggregateMap;
 }
 
-async function getMatchNodes(mgdbId) {
+async function getMatchNodes(mgdbId, matchStatus) {
   const seenNodes = new Set();
   const nodes = [];
-  
-  try {
-    const response = await fetchWithRetry(`https://vms-sc.miguvideo.com/vms-match/v6/staticcache/basic/basic-data/${mgdbId}/miguvideo`, {
-      headers: {
-        'appVersion': '2600052000',
-        'User-Agent': 'Dalvik%2F2.1.0+%28Linux%3B+U%3B+Android+9%3B+TAS-AN00+Build%2FPQ3A.190705.08211809%29',
-        'terminalId': 'android',
-        'appCode': 'miguvideo_default_android',
-        'appType': '3',
-        'appId': 'miguvideo',
-        'Content-Type': 'application/json'
+
+  // 提取节点的通用工具函数
+  const processNodeList = (list) => {
+    if (list && list.length > 0) {
+      for (const item of list) {
+        const nodeKey = `${item.pID}|${item.name}`;
+        if (!seenNodes.has(nodeKey)) {
+          seenNodes.add(nodeKey);
+          nodes.push({ pID: item.pID, name: item.name });
+        }
       }
-    });
-    
-    const jsonData = JSON.parse(response.data);
-    
-    if (jsonData.code === 200 && jsonData.body && jsonData.body.multiPlayList) {
-      
-      // 按照新的顺序处理节点数据：replayList → liveList → preList
-      const processNodeList = (nodeList) => {
-        if (nodeList) {
-          for (const item of nodeList) {
-            const nodeKey = `${item.pID}|${item.name}`;
-            if (!seenNodes.has(nodeKey)) {
-              seenNodes.add(nodeKey);
-              nodes.push({
-                pID: item.pID,
-                name: item.name
-              });
-            }
+    }
+  };
+
+  // 解析 basic-data 响应的通用逻辑（未结束 & 降级时使用）
+  const parseBasicData = (jsonData) => {
+    if (jsonData.code === 200 && jsonData.body) {
+      const multiPlayList = jsonData.body.multiPlayList;
+      if (multiPlayList) {
+        processNodeList(multiPlayList.replayList);
+        processNodeList(multiPlayList.liveList);
+        processNodeList(multiPlayList.preList);
+      }
+    }
+  };
+
+  const commonHeaders = {
+    'appVersion': '2600052000',
+    'User-Agent': 'Dalvik%2F2.1.0+%28Linux%3B+U%3B+Android+9%3B+TAS-AN00+Build%2FPQ3A.190705.08211809%29',
+    'terminalId': 'android',
+    'appCode': 'miguvideo_default_android',
+    'appType': '3',
+    'appId': 'miguvideo',
+    'Content-Type': 'application/json'
+  };
+
+  try {
+    if (matchStatus === '2') {
+      // ===== 已结束比赛：优先请求 all-view-list =====
+      const allViewUrl = `https://app-sc.miguvideo.com/vms-match/v5/staticcache/basic/all-view-list/${mgdbId}/2/miguvideo`;
+      let needFallback = true;
+
+      try {
+        const response = await fetchWithRetry(allViewUrl, { headers: commonHeaders });
+        const jsonData = JSON.parse(response.data);
+
+        if (jsonData.code === 200 && jsonData.body) {
+          const replayList = jsonData.body.replayList;
+          // 仅当 replayList 存在且非空时才认为有效，否则降级
+          if (replayList && replayList.length > 0) {
+            processNodeList(replayList);
+            needFallback = false;
           }
         }
-      };
-      
-      // 保持新的处理顺序：replayList → liveList → preList
-      processNodeList(jsonData.body.multiPlayList.replayList);
-      processNodeList(jsonData.body.multiPlayList.liveList);
-      processNodeList(jsonData.body.multiPlayList.preList);
+      } catch (innerError) {
+        console.warn(`all-view-list 请求失败 (mgdbId: ${mgdbId})，将降级到 basic-data:`, innerError.message);
+      }
+
+      // ===== 降级：replayList 为空/不存在 或 请求失败 → 调用 basic-data =====
+      if (needFallback) {
+        const basicDataUrl = `https://vms-sc.miguvideo.com/vms-match/v6/staticcache/basic/basic-data/${mgdbId}/miguvideo`;
+        const response = await fetchWithRetry(basicDataUrl, { headers: commonHeaders });
+        const jsonData = JSON.parse(response.data);
+        parseBasicData(jsonData);
+      }
+
+    } else {
+      // ===== 未结束比赛：直接请求 basic-data =====
+      const basicDataUrl = `https://vms-sc.miguvideo.com/vms-match/v6/staticcache/basic/basic-data/${mgdbId}/miguvideo`;
+      const response = await fetchWithRetry(basicDataUrl, { headers: commonHeaders });
+      const jsonData = JSON.parse(response.data);
+      parseBasicData(jsonData);
     }
+
   } catch (error) {
     console.error(`获取节点数据失败 (mgdbId: ${mgdbId}):`, error.message);
   }
-  
+
   return nodes;
 }
 
