@@ -1,11 +1,11 @@
 {
   "success": true,
-  "updateTime": "2026-06-17 05:01:27",
+  "updateTime": "2026-06-17 05:31:24",
   "data": [
     {
       "mgdbId": "120000580051",
       "pID": "965358301",
-      "title": "赵翰洋、刘文炜出战 罗泽涛遭零封",
+      "title": "赵翰洋出战 刘文炜、罗泽涛遭淘汰",
       "keyword": "06月17日02:00",
       "sportItemId": "8",
       "matchStatus": "1",
@@ -13,13 +13,21 @@
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/16/77F4UIICO2V6.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "赵翰洋、刘文炜出战 罗泽涛遭零封",
-      "modifyTitle": "斯诺克武汉公开赛资格赛：赵翰洋、刘文炜出战 罗泽涛遭零封",
+      "pkInfoTitle": "赵翰洋出战 刘文炜、罗泽涛遭淘汰",
+      "modifyTitle": "斯诺克武汉公开赛资格赛：赵翰洋出战 刘文炜、罗泽涛遭淘汰",
       "presenters": "",
       "matchInfo": {
         "time": "06月17日02:00"
       },
       "nodes": [
+        {
+          "pID": "965358301",
+          "name": "四号桌"
+        },
+        {
+          "pID": "965358386",
+          "name": "七号桌"
+        },
         {
           "pID": "965358179",
           "name": "一号桌"
@@ -29,8 +37,8 @@
           "name": "二号桌"
         },
         {
-          "pID": "965358301",
-          "name": "四号桌"
+          "pID": "965358276",
+          "name": "三号桌"
         },
         {
           "pID": "965358332",
@@ -39,14 +47,6 @@
         {
           "pID": "965358367",
           "name": "六号桌"
-        },
-        {
-          "pID": "965358386",
-          "name": "七号桌"
-        },
-        {
-          "pID": "965358276",
-          "name": "三号桌"
         }
       ]
     },
@@ -59,7 +59,7 @@
       "matchStatus": "1",
       "matchField": "纽约/新泽西球场",
       "competitionName": "世界杯",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/15/77F422SSIQDJ.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/17/77F5QF7NJUEV.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg",
       "pkInfoTitle": "法国 vs 塞内加尔",
       "modifyTitle": "世界杯小组赛",
@@ -71,6 +71,10 @@
         {
           "pID": "965336077",
           "name": "詹俊 张路 孙葆洁 美娜"
+        },
+        {
+          "pID": "965336224",
+          "name": "智能字幕"
         },
         {
           "pID": "965336235",
@@ -89,40 +93,8 @@
           "name": "新声代：刘一臻 盛斌"
         },
         {
-          "pID": "965336150",
-          "name": "法国队视角"
-        },
-        {
-          "pID": "965336165",
-          "name": "塞内加尔队视角"
-        },
-        {
-          "pID": "965271838",
-          "name": "CCTV5"
-        },
-        {
           "pID": "965336128",
           "name": "赛场原声"
-        },
-        {
-          "pID": "965336224",
-          "name": "智能字幕"
-        },
-        {
-          "pID": "965310224",
-          "name": "假如你是其中一位边裁！"
-        },
-        {
-          "pID": "965310115",
-          "name": "假如你是另外一位边裁！"
-        },
-        {
-          "pID": "965310088",
-          "name": "开天眼了！"
-        },
-        {
-          "pID": "965310093",
-          "name": "山顶的风好大！"
         }
       ]
     },
@@ -132,7 +104,7 @@
       "title": "世界杯小组赛",
       "keyword": "06月17日06:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "波士顿球场",
       "competitionName": "世界杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/15/77F4231MQGEH.png",
