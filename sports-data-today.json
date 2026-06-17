@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-06-18 04:31:12",
+  "updateTime": "2026-06-18 05:01:16",
   "data": [
     {
       "mgdbId": "120000580277",
@@ -20,6 +20,10 @@
         "time": "06月18日00:40"
       },
       "nodes": [
+        {
+          "pID": "965470414",
+          "name": "全场回放"
+        },
         {
           "pID": "965469571",
           "name": "全场回放（刘钟鸣）"
@@ -44,10 +48,6 @@
         "time": "06月18日01:00"
       },
       "nodes": [
-        {
-          "pID": "965470184",
-          "name": "全场回放"
-        },
         {
           "pID": "965469564",
           "name": "超长版集锦"
@@ -79,6 +79,10 @@
         {
           "pID": "965469976",
           "name": "全场回放（AI智慧观赛）"
+        },
+        {
+          "pID": "965470184",
+          "name": "全场回放（智能解说）"
         }
       ]
     },
@@ -91,7 +95,7 @@
       "matchStatus": "1",
       "matchField": "达拉斯球场",
       "competitionName": "世界杯",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/17/77F5SKJL049P.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/18/77F6ND1M427O.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg",
       "pkInfoTitle": "英格兰 vs 克罗地亚",
       "modifyTitle": "世界杯小组赛",
@@ -588,7 +592,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/18/77F6NAPUABVB.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "男女单打1/32决赛、双打1/8决赛",
       "modifyTitle": "WTT卢布尔雅那球星挑战赛男女单打1/32决赛、双打1/8决赛",
