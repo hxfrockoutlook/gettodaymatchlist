@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-06-17 13:01:20",
+  "updateTime": "2026-06-17 13:31:23",
   "data": [
     {
       "mgdbId": "120000580051",
@@ -173,10 +173,6 @@
       },
       "nodes": [
         {
-          "pID": "965450259",
-          "name": "全场回放"
-        },
-        {
           "pID": "965448039",
           "name": "超长版集锦"
         },
@@ -216,14 +212,14 @@
     },
     {
       "mgdbId": "120000580129",
-      "pID": "965441441",
+      "pID": "965381811",
       "title": "丫邦领衔出战！董天尧再冲冠军",
       "keyword": "06月17日10:00",
       "sportItemId": "6",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "BWF",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/17/77F5SGP62HDP.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/17/77F5PABL8REN.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "丫邦领衔出战！董天尧再冲冠军",
       "modifyTitle": "中国澳门羽毛球公开赛第二日：丫邦领衔出战！董天尧再冲冠军",
@@ -232,10 +228,6 @@
         "time": "06月17日10:00"
       },
       "nodes": [
-        {
-          "pID": "965441441",
-          "name": "解说：朱胤丞"
-        },
         {
           "pID": "965381811",
           "name": "2号场地"
@@ -251,6 +243,10 @@
         {
           "pID": "965381789",
           "name": "1号场地"
+        },
+        {
+          "pID": "965441441",
+          "name": "解说：朱胤丞"
         }
       ]
     },
@@ -539,6 +535,30 @@
       ]
     },
     {
+      "mgdbId": "120000580318",
+      "pID": "965444319",
+      "title": "德国队VS中国队",
+      "keyword": "06月17日17:30",
+      "sportItemId": "3",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "世界女排联赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/17/77F5PB6052U6.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2022/7/6/100000000122106b0b65.png",
+      "pkInfoTitle": "德国队VS中国队",
+      "modifyTitle": "世界女排联赛土耳其站",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月17日17:30"
+      },
+      "nodes": [
+        {
+          "pID": "965444319",
+          "name": "CCTV5"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000579893",
       "pID": "965293349",
       "title": "上海久事 vs 新疆广汇",
@@ -680,6 +700,30 @@
       ]
     },
     {
+      "mgdbId": "120000580319",
+      "pID": "965444253",
+      "title": "法国队VS巴西队",
+      "keyword": "06月17日21:00",
+      "sportItemId": "3",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "世界女排联赛",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2022/7/6/100000000122106b0b65.png",
+      "pkInfoTitle": "法国队VS巴西队",
+      "modifyTitle": "世界女排联赛土耳其站",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月17日21:00"
+      },
+      "nodes": [
+        {
+          "pID": "965444253",
+          "name": "CCTV5+"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000580016",
       "pID": "965361668",
       "title": "男女单打最终轮及混双资格赛",
@@ -768,6 +812,34 @@
         {
           "pID": "965359166",
           "name": "八号桌"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000580277",
+      "pID": "965443950",
+      "title": "WTA250诺丁汉站女单第二轮：吉布森 vs 郑钦文",
+      "keyword": "06月17日23:00",
+      "sportItemId": "9",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "WTA",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/17/77F5SF9UJKO7.png",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
+      "pkInfoTitle": "吉布森 vs 郑钦文",
+      "modifyTitle": "WTA250诺丁汉站女单第二轮：吉布森 vs 郑钦文",
+      "presenters": "刘钟鸣",
+      "matchInfo": {
+        "time": "06月17日23:00"
+      },
+      "nodes": [
+        {
+          "pID": "965443948",
+          "name": "郑钦文 vs 吉布森(刘钟鸣)"
+        },
+        {
+          "pID": "965443950",
+          "name": "清流播出"
         }
       ]
     }
