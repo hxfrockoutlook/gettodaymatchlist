@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-06-20 02:32:33",
+  "updateTime": "2026-06-20 03:02:44",
   "data": [
     {
       "mgdbId": "120000580008",
@@ -43,7 +43,7 @@
       "matchStatus": "1",
       "matchField": "西雅图球场",
       "competitionName": "世界杯",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/18/77F6P2MBN9AV.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/20/77F8GV9UI7PS.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg",
       "pkInfoTitle": "美国 vs 澳大利亚",
       "modifyTitle": "世界杯小组赛",
@@ -55,6 +55,10 @@
         {
           "pID": "965454743",
           "name": "孙雷 李欣 徐云龙 李子琪"
+        },
+        {
+          "pID": "965455013",
+          "name": "AI智慧观赛"
         },
         {
           "pID": "965454806",
@@ -75,6 +79,14 @@
         {
           "pID": "965454810",
           "name": "赛场原声"
+        },
+        {
+          "pID": "965454981",
+          "name": "开天眼了！"
+        },
+        {
+          "pID": "965454940",
+          "name": "山顶的风好大！"
         },
         {
           "pID": "965455062",
@@ -127,6 +139,10 @@
         {
           "pID": "965455068",
           "name": "石庆圣 李彦 姚安妮"
+        },
+        {
+          "pID": "965455544",
+          "name": "AI智慧观赛"
         },
         {
           "pID": "965455244",
@@ -287,6 +303,10 @@
         {
           "pID": "965449656",
           "name": "孙雨轩 张辛昕 李子琪"
+        },
+        {
+          "pID": "965450612",
+          "name": "AI智慧观赛"
         },
         {
           "pID": "965449576",
@@ -863,34 +883,6 @@
       ]
     },
     {
-      "mgdbId": "120000580344",
-      "pID": "965271638",
-      "title": "WTA柏林站 半决赛",
-      "keyword": "06月20日17:30",
-      "sportItemId": "9",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "WTA",
-      "padImg": "",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "WTA柏林站 半决赛",
-      "modifyTitle": "WTA柏林站 半决赛",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月20日17:30"
-      },
-      "nodes": [
-        {
-          "pID": "965271638",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "965271652",
-          "name": "英文原声"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000574275",
       "pID": "964851311",
       "title": "东北地区城市足球联赛",
@@ -963,6 +955,34 @@
         {
           "pID": "965444335",
           "name": "杨健 周琦 陈正昊"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000580344",
+      "pID": "965271638",
+      "title": "WTA柏林站 半决赛",
+      "keyword": "06月20日18:00",
+      "sportItemId": "9",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "WTA",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/20/77F8H1B5SU6O.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
+      "pkInfoTitle": "WTA柏林站 半决赛",
+      "modifyTitle": "WTA柏林站 半决赛：争夺决赛权！萨巴对决佩古拉",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月20日18:00"
+      },
+      "nodes": [
+        {
+          "pID": "965271638",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "965271652",
+          "name": "英文原声"
         }
       ]
     },
