@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-06-19 08:38:20",
+  "updateTime": "2026-06-19 09:01:51",
   "data": [
     {
       "mgdbId": "120000575492",
@@ -133,8 +133,16 @@
           "name": "纯享版回放（鲁靖明、娄一晨、魏欣怡）"
         },
         {
+          "pID": "965500098",
+          "name": "全场回放（魏欣怡、娄一晨、鲁靖明）"
+        },
+        {
           "pID": "965500028",
           "name": "全场回放（智能解说）"
+        },
+        {
+          "pID": "965500127",
+          "name": "全场回放（AI智慧观赛）"
         }
       ]
     },
@@ -168,7 +176,7 @@
       "title": "海上龙舟嘉年华",
       "keyword": "06月19日08:45",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "龙舟邀请赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/18/77F6P4OJF9SP.jpg",
@@ -221,6 +229,18 @@
           "name": "粤语：陈曦 任锴"
         },
         {
+          "pID": "965453442",
+          "name": "墨西哥队视角"
+        },
+        {
+          "pID": "965453449",
+          "name": "韩国队视角"
+        },
+        {
+          "pID": "965271838",
+          "name": "CCTV5"
+        },
+        {
           "pID": "965453016",
           "name": "赛场原声"
         },
@@ -236,7 +256,7 @@
       "title": "PPA亚洲职业匹克球巡回赛北京站1/4决赛",
       "keyword": "06月19日09:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "PPA亚洲职业匹克球巡回赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/18/77F6MUNEJOUF.jpg",
@@ -251,6 +271,30 @@
         {
           "pID": "965433382",
           "name": "清流播出"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000580477",
+      "pID": "965486183",
+      "title": "青年组预赛暨团体、个人全能决赛",
+      "keyword": "06月19日10:00",
+      "sportItemId": "8",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "亚洲体操锦标赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/19/77F7LKMUB299.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/6/15/100000001489106644c3.png",
+      "pkInfoTitle": "青年组预赛暨团体、个人全能决赛",
+      "modifyTitle": "亚洲体操锦标赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月19日10:00"
+      },
+      "nodes": [
+        {
+          "pID": "965486183",
+          "name": "CCTV5+"
         }
       ]
     },
@@ -1062,7 +1106,7 @@
     {
       "mgdbId": "120000580125",
       "pID": "965381478",
-      "title": "山东省齐鲁足���超级联赛",
+      "title": "山东省齐鲁足球超级联赛",
       "keyword": "06月19日19:30",
       "sportItemId": "1",
       "matchStatus": "0",
