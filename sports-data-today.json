@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-06-20 10:02:45",
+  "updateTime": "2026-06-20 10:32:48",
   "data": [
     {
       "mgdbId": "120000580008",
@@ -203,7 +203,7 @@
       "matchStatus": "1",
       "matchField": "费城球场",
       "competitionName": "世界杯",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/20/77F8IOR2QN2F.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/20/77F8J97B09HL.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg",
       "pkInfoTitle": "巴西 vs 海地",
       "modifyTitle": "世界杯小组赛",
@@ -304,7 +304,7 @@
       "title": "世界杯小组赛",
       "keyword": "06月20日11:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "旧金山湾区球场",
       "competitionName": "世界杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/18/77F6P2E9K0MB.jpg",
@@ -1100,6 +1100,7 @@
     },
     {
       "mgdbId": "120000580626",
+      "pID": "965521983",
       "title": "WTA500柏林站女单半决赛：萨巴伦卡 vs 佩古拉",
       "keyword": "06月20日18:00",
       "sportItemId": "9",
@@ -1110,11 +1111,20 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
       "pkInfoTitle": "萨巴伦卡 vs 佩古拉",
       "modifyTitle": "WTA500柏林站女单半决赛：萨巴伦卡 vs 佩古拉",
-      "presenters": "",
+      "presenters": "单文强",
       "matchInfo": {
         "time": "06月20日18:00"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "965521983",
+          "name": "清流播出"
+        },
+        {
+          "pID": "965522015",
+          "name": "单文强"
+        }
+      ]
     },
     {
       "mgdbId": "120000579806",
@@ -2061,7 +2071,7 @@
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000579231/831573_H169_sc.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/6/12/100000001282106a4194.png",
       "pkInfoTitle": "扬州队vs连云港队",
-      "modifyTitle": "苏超常规赛��10周",
+      "modifyTitle": "苏超常规赛第10周",
       "presenters": "",
       "matchInfo": {
         "time": "06月20日19:40"
@@ -2271,6 +2281,7 @@
     },
     {
       "mgdbId": "120000580627",
+      "pID": "965522070",
       "title": "WTA500柏林站女单半决赛：诺斯科娃 vs 伊埃拉",
       "keyword": "06月20日20:00",
       "sportItemId": "9",
@@ -2281,11 +2292,20 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
       "pkInfoTitle": "诺斯科娃 vs 伊埃拉",
       "modifyTitle": "WTA500柏林站女单半决赛：诺斯科娃 vs 伊埃拉",
-      "presenters": "",
+      "presenters": "李宁",
       "matchInfo": {
         "time": "06月20日20:00"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "965522070",
+          "name": "清流播出"
+        },
+        {
+          "pID": "965522085",
+          "name": "李宁"
+        }
+      ]
     },
     {
       "mgdbId": "120000579807",
