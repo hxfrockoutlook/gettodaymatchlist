@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-06-21 06:32:08",
+  "updateTime": "2026-06-21 07:02:07",
   "data": [
     {
       "mgdbId": "120000580009",
@@ -141,6 +141,10 @@
       },
       "nodes": [
         {
+          "pID": "965542218",
+          "name": "超长版集锦"
+        },
+        {
           "pID": "965542138",
           "name": "全场集锦"
         },
@@ -163,6 +167,14 @@
         {
           "pID": "965542104",
           "name": "全场回放（智能解说）"
+        },
+        {
+          "pID": "965542193",
+          "name": "全场回放（AI智慧观赛）"
+        },
+        {
+          "pID": "965542326",
+          "name": "全场回放（李子琪、孙葆洁、张路、詹俊）"
         }
       ]
     },
@@ -185,16 +197,12 @@
       },
       "nodes": [
         {
-          "pID": "965541173",
-          "name": "火箭升空！约翰逊双手滑翔暴扣终结比赛"
+          "pID": "965541392",
+          "name": "全场回放（吴博文）"
         },
         {
-          "pID": "965526667",
-          "name": "吴博文"
-        },
-        {
-          "pID": "965526752",
-          "name": "英文原声"
+          "pID": "965541457",
+          "name": "全场回放"
         }
       ]
     },
@@ -228,7 +236,7 @@
     },
     {
       "mgdbId": "120000580633",
-      "pID": "965526691",
+      "pID": "965542082",
       "title": "BIG3",
       "keyword": "06月21日05:00",
       "sportItemId": "2",
@@ -288,7 +296,7 @@
       "title": "2026“中国建设银行”嘉峪关长城马拉松",
       "keyword": "06月21日07:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "马拉松系列赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/19/77F7KBHT7QM9.jpg",
@@ -312,7 +320,7 @@
       "title": "BIG3",
       "keyword": "06月21日07:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "BIG3",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/20/77F8GO0O8LI5.png",
