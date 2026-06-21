@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-06-22 02:01:21",
+  "updateTime": "2026-06-22 02:31:13",
   "data": [
     {
       "mgdbId": "120000575518",
@@ -8,7 +8,7 @@
       "title": "世界杯小组赛",
       "keyword": "06月22日00:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "亚特兰大球场",
       "competitionName": "世界杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/22/77FAE40SOEBA.jpg",
@@ -21,64 +21,16 @@
       },
       "nodes": [
         {
-          "pID": "965452657",
-          "name": "娄一晨 李彦 武磊 邵凌霄"
+          "pID": "965564138",
+          "name": "超长版集锦"
         },
         {
-          "pID": "965452976",
-          "name": "AI智慧观赛"
+          "pID": "965564152",
+          "name": "全场集锦"
         },
         {
-          "pID": "965452667",
-          "name": "粤语：江忠德"
-        },
-        {
-          "pID": "965452659",
-          "name": "女声：沈云怡 胡小凡"
-        },
-        {
-          "pID": "965452675",
-          "name": "新声代：张昊泽 涂远"
-        },
-        {
-          "pID": "965452709",
-          "name": "西班牙队视角"
-        },
-        {
-          "pID": "965452755",
-          "name": "沙特阿拉伯队视角"
-        },
-        {
-          "pID": "965271838",
-          "name": "CCTV5"
-        },
-        {
-          "pID": "965452689",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "965452916",
-          "name": "假如你是其中一位边裁！"
-        },
-        {
-          "pID": "965452926",
-          "name": "假如你是另外一位边裁！"
-        },
-        {
-          "pID": "965452962",
-          "name": "开天眼了！"
-        },
-        {
-          "pID": "965452952",
-          "name": "山顶的风好大！"
-        },
-        {
-          "pID": "965453033",
-          "name": "粤语智能字幕"
-        },
-        {
-          "pID": "965453007",
-          "name": "智能字幕"
+          "pID": "965564073",
+          "name": "全场回放"
         }
       ]
     },
@@ -129,6 +81,14 @@
           "name": "苏东 刘越 韩乔生 林梦鸽"
         },
         {
+          "pID": "965448686",
+          "name": "比利时队视角"
+        },
+        {
+          "pID": "965448665",
+          "name": "伊朗队视角"
+        },
+        {
           "pID": "965449029",
           "name": "AI智慧观赛"
         },
@@ -151,66 +111,6 @@
         {
           "pID": "965448884",
           "name": "智能字幕"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000580327",
-      "pID": "965446038",
-      "title": "王欣瑜出战 萨姆索诺娃晋级",
-      "keyword": "06月22日03:30",
-      "sportItemId": "9",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "WTA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/21/77F9FER5NH2S.png",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "王欣瑜出战 萨姆索诺娃晋级",
-      "modifyTitle": "WTA巴特洪堡站女单第一轮：王欣瑜出战 萨姆索诺娃晋级",
-      "presenters": "单文强",
-      "matchInfo": {
-        "time": "06月22日03:30"
-      },
-      "nodes": [
-        {
-          "pID": "965546180",
-          "name": "约维奇 vs 王欣瑜(单文强)"
-        },
-        {
-          "pID": "965446038",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "965446300",
-          "name": "英文原声"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000580653",
-      "pID": "965546173",
-      "title": "WTA巴特洪堡站女单第一轮：约维奇 vs 王欣瑜",
-      "keyword": "06月22日03:30",
-      "sportItemId": "9",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "WTA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/20/77F8JG1KSRF5.png",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "约维奇vs王欣瑜",
-      "modifyTitle": "WTA巴特洪堡站女单第一轮��约维奇 vs 王欣瑜",
-      "presenters": "单文强",
-      "matchInfo": {
-        "time": "06月22日03:30"
-      },
-      "nodes": [
-        {
-          "pID": "965546180",
-          "name": "单文强"
-        },
-        {
-          "pID": "965546173",
-          "name": "清流播出"
         }
       ]
     },
@@ -578,6 +478,25 @@
           "name": "清流播出"
         }
       ]
+    },
+    {
+      "mgdbId": "120000580653",
+      "pID": "120000580653",
+      "title": "约维奇vs王欣瑜",
+      "keyword": "06月22日03:30",
+      "sportItemId": "",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "WTA",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/07/08/11005/25eab3e85d48452f9f639282bebcebd1/25eab3e85d48452f9f639282bebcebd1_H169_P1080_WEBP.webp",
+      "competitionLogo": "",
+      "pkInfoTitle": "约维奇vs王欣瑜",
+      "modifyTitle": "约维奇vs王欣瑜",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月22日03:30"
+      },
+      "nodes": []
     }
   ]
 }
