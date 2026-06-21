@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-06-22 05:31:12",
+  "updateTime": "2026-06-22 06:01:13",
   "data": [
     {
       "mgdbId": "120000575518",
@@ -88,7 +88,7 @@
       "title": "世界杯小组赛",
       "keyword": "06月22日03:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "洛杉矶球场",
       "competitionName": "世界杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/22/77FABPFOSQEM.jpg",
@@ -101,32 +101,36 @@
       },
       "nodes": [
         {
-          "pID": "965448827",
-          "name": "苏东 刘越 韩乔生 林梦鸽"
+          "pID": "965566386",
+          "name": "超长版集锦"
         },
         {
-          "pID": "965449029",
-          "name": "AI智慧观赛"
+          "pID": "965566296",
+          "name": "全场集锦"
         },
         {
-          "pID": "965448785",
-          "name": "粤语：陈凯冬 陆毅隽"
+          "pID": "965566230",
+          "name": "纯享版回放（苏东、刘越、韩乔生、林梦鸽）"
         },
         {
-          "pID": "965448805",
-          "name": "女声：兰子非 胡小凡"
+          "pID": "965566377",
+          "name": "全场回放（陈凯冬、陆毅隽）"
         },
         {
-          "pID": "965448727",
-          "name": "新声代：张天翼 洪宇青"
+          "pID": "965566320",
+          "name": "全场回放（兰子非、胡小凡）"
         },
         {
-          "pID": "965448716",
-          "name": "赛场原声"
+          "pID": "965566238",
+          "name": "全场回放（张天翼、洪宇青）"
         },
         {
-          "pID": "965448884",
-          "name": "智能字幕"
+          "pID": "965566346",
+          "name": "全场回放（AI智慧观赛）"
+        },
+        {
+          "pID": "965566469",
+          "name": "全场回放（智能解说）"
         }
       ]
     },
@@ -137,7 +141,7 @@
       "keyword": "06月22日06:00",
       "sportItemId": "1",
       "matchStatus": "1",
-      "matchField": "迈阿密球场",
+      "matchField": "迈阿密球���",
       "competitionName": "世界杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/20/77F8J97PA4C6.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg",
@@ -161,12 +165,32 @@
           "name": "粤语：陈凯冬 陈熙荣"
         },
         {
+          "pID": "965449651",
+          "name": "乌拉圭队视角"
+        },
+        {
+          "pID": "965449652",
+          "name": "佛得角队视角"
+        },
+        {
+          "pID": "965271838",
+          "name": "CCTV5"
+        },
+        {
           "pID": "965449681",
           "name": "赛场原声"
         },
         {
           "pID": "965449180",
           "name": "智能字幕"
+        },
+        {
+          "pID": "965449854",
+          "name": "开天眼了！"
+        },
+        {
+          "pID": "965449835",
+          "name": "山顶的风好大！"
         }
       ]
     },
