@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-06-21 11:18:10",
+  "updateTime": "2026-06-21 11:32:09",
   "data": [
     {
       "mgdbId": "120000580009",
@@ -337,12 +337,12 @@
       },
       "nodes": [
         {
-          "pID": "965542915",
+          "pID": "965542894",
           "name": "全场回放（蔡凯臣）"
         },
         {
-          "pID": "965542894",
-          "name": "全场回放（蔡凯臣）"
+          "pID": "965542915",
+          "name": "全场回放（英文原声）"
         }
       ]
     },
@@ -551,6 +551,18 @@
         {
           "pID": "965452048",
           "name": "新声代：鹿中原 乔迁"
+        },
+        {
+          "pID": "965271838",
+          "name": "CCTV5"
+        },
+        {
+          "pID": "965452101",
+          "name": "突尼斯队视角"
+        },
+        {
+          "pID": "965452119",
+          "name": "日本队视角"
         },
         {
           "pID": "965452056",
@@ -890,7 +902,7 @@
       "sportItemId": "8",
       "matchStatus": "0",
       "matchField": "",
-      "competitionName": "亚洲体操锦标赛",
+      "competitionName": "亚���体操锦标赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/20/77F8ID6U19H7.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/6/15/100000001489106644c3.png",
       "pkInfoTitle": "成年组、青年组单项决赛",
@@ -1435,7 +1447,12 @@
       "matchInfo": {
         "time": "06月21日19:00"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "965381524",
+          "name": "2026赛季山东省齐鲁足球超级联赛第六轮: 枣庄丰源轮胎队VS青岛平企联青春"
+        }
+      ]
     },
     {
       "mgdbId": "120000580136",
