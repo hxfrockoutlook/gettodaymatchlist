@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-06-22 00:01:27",
+  "updateTime": "2026-06-22 00:31:15",
   "data": [
     {
       "mgdbId": "120000575518",
@@ -83,10 +83,34 @@
       ]
     },
     {
+      "mgdbId": "120000580674",
+      "pID": "965551918",
+      "title": "土耳其队vs中国队",
+      "keyword": "06月22日00:30",
+      "sportItemId": "3",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "世界女排联赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/21/77F9EKPTBPGC.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2022/7/6/100000000122106b0b65.png",
+      "pkInfoTitle": "土耳其队vs中国队",
+      "modifyTitle": "世界女排联赛土耳其站：土耳其队vs中国队",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月22日00:30"
+      },
+      "nodes": [
+        {
+          "pID": "965551918",
+          "name": "CCTV5+"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000580327",
       "pID": "965446038",
       "title": "王欣瑜出战 萨姆索诺娃晋级",
-      "keyword": "06月22日00:30",
+      "keyword": "06月22日01:30",
       "sportItemId": "9",
       "matchStatus": "0",
       "matchField": "",
@@ -97,7 +121,7 @@
       "modifyTitle": "WTA巴特洪堡站女单第一轮：王欣瑜出战 萨姆索诺娃晋级",
       "presenters": "单文强",
       "matchInfo": {
-        "time": "06月22日00:30"
+        "time": "06月22日01:30"
       },
       "nodes": [
         {
@@ -118,7 +142,7 @@
       "mgdbId": "120000580653",
       "pID": "965546173",
       "title": "WTA巴特洪堡站女单第一轮：约维奇 vs 王欣瑜",
-      "keyword": "06月22日00:30",
+      "keyword": "06月22日01:30",
       "sportItemId": "9",
       "matchStatus": "0",
       "matchField": "",
@@ -129,7 +153,7 @@
       "modifyTitle": "WTA巴特洪堡站女单第一轮：约维奇 vs 王欣瑜",
       "presenters": "单文强",
       "matchInfo": {
-        "time": "06月22日00:30"
+        "time": "06月22日01:30"
       },
       "nodes": [
         {
@@ -139,30 +163,6 @@
         {
           "pID": "965546173",
           "name": "清流播出"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000580674",
-      "pID": "965551918",
-      "title": "土耳其队vs中国队",
-      "keyword": "06月22日00:30",
-      "sportItemId": "3",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "世界女排联赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/21/77F9EKPTBPGC.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2022/7/6/100000000122106b0b65.png",
-      "pkInfoTitle": "土耳其队vs中国队",
-      "modifyTitle": "世界女排联赛土耳其站：土耳其队vs中国队",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月22日00:30"
-      },
-      "nodes": [
-        {
-          "pID": "965551918",
-          "name": "CCTV5+"
         }
       ]
     },
