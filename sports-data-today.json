@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-06-21 10:32:11",
+  "updateTime": "2026-06-21 11:18:10",
   "data": [
     {
       "mgdbId": "120000580009",
@@ -229,6 +229,10 @@
       },
       "nodes": [
         {
+          "pID": "965546397",
+          "name": "卡佩VS堀口恭司"
+        },
+        {
           "pID": "965545782",
           "name": "库特拉巴VS斯特林"
         },
@@ -245,16 +249,16 @@
           "name": "奥利维拉VS菲利"
         },
         {
+          "pID": "965546640",
+          "name": "【主赛】（英文原声）"
+        },
+        {
           "pID": "965543706",
-          "name": "【副赛全场回放】（陈瑞阳、郑文祺）（50帧原画）"
+          "name": "【副赛】（陈瑞阳、郑文祺）"
         },
         {
           "pID": "965543739",
-          "name": "【副赛全场回放】（英文原声）（50帧原画）"
-        },
-        {
-          "pID": "965543865",
-          "name": "【副赛全场回放】（赛场原声）（50帧原画）"
+          "name": "【副赛】（英文原声）"
         },
         {
           "pID": "965543375",
@@ -348,7 +352,7 @@
       "title": "2026“中国建设银行”嘉峪关长城马拉松",
       "keyword": "06月21日07:00",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "马拉松系列赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/19/77F7KBHT7QM9.jpg",
@@ -419,6 +423,10 @@
         {
           "pID": "965546116",
           "name": "纯享版回放（石庆圣、鲁靖明、姚安妮）"
+        },
+        {
+          "pID": "965546415",
+          "name": "全场回放（石庆圣、鲁靖明、姚安妮）"
         },
         {
           "pID": "965546191",
@@ -512,7 +520,7 @@
       "title": "世界杯小组赛",
       "keyword": "06月21日12:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "蒙特雷体育场",
       "competitionName": "世界杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/20/77F8JS8C8I5Q.jpg",
@@ -1427,12 +1435,7 @@
       "matchInfo": {
         "time": "06月21日19:00"
       },
-      "nodes": [
-        {
-          "pID": "965381524",
-          "name": "2026赛季山东省齐鲁足球超级联赛第六轮: 枣庄丰源轮胎队VS青岛平企联青春"
-        }
-      ]
+      "nodes": []
     },
     {
       "mgdbId": "120000580136",
