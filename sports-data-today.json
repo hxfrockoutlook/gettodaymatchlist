@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-06-21 07:32:11",
+  "updateTime": "2026-06-21 08:02:34",
   "data": [
     {
       "mgdbId": "120000580009",
@@ -113,12 +113,8 @@
       },
       "nodes": [
         {
-          "pID": "965335066",
-          "name": "周楚雄"
-        },
-        {
-          "pID": "965335077",
-          "name": "赛场原声"
+          "pID": "965542316",
+          "name": "全场回放（周楚雄）"
         }
       ]
     },
@@ -268,11 +264,11 @@
     },
     {
       "mgdbId": "120000580634",
-      "pID": "965526757",
+      "pID": "965542511",
       "title": "BIG3",
       "keyword": "06月21日06:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "BIG3",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/20/77F8GNS2V7NT.png",
@@ -284,6 +280,10 @@
         "time": "06月21日06:00"
       },
       "nodes": [
+        {
+          "pID": "965542511",
+          "name": "爷们就爱1打1！墨菲精彩上下步终结上半场"
+        },
         {
           "pID": "965526757",
           "name": "蔡凯臣"
@@ -369,12 +369,20 @@
           "name": "石庆圣 鲁靖明 姚安妮"
         },
         {
+          "pID": "965451914",
+          "name": "AI智慧观赛"
+        },
+        {
           "pID": "965461962",
           "name": "孙雷 李霄"
         },
         {
-          "pID": "965451914",
-          "name": "AI智慧观赛"
+          "pID": "965451509",
+          "name": "厄瓜多尔队视角"
+        },
+        {
+          "pID": "965451523",
+          "name": "库拉索队视角"
         },
         {
           "pID": "965271838",
@@ -383,6 +391,14 @@
         {
           "pID": "965450475",
           "name": "赛场原声"
+        },
+        {
+          "pID": "965451842",
+          "name": "开天眼了！"
+        },
+        {
+          "pID": "965451719",
+          "name": "山顶的风好大！"
         },
         {
           "pID": "965451990",
@@ -396,7 +412,7 @@
       "title": "2026“黄河旋风杯”塔城半程马拉松",
       "keyword": "06月21日08:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "马拉松系列赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/19/77F7KBNBMBDS.jpg",
@@ -420,7 +436,7 @@
       "title": "中国体育舞蹈公开系列赛Day2",
       "keyword": "06月21日08:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "中国体育舞蹈公开系列赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/20/77F8HSCHSU33.png",
@@ -1446,7 +1462,7 @@
     {
       "mgdbId": "120000579606",
       "pID": "965254366",
-      "title": "新疆足球超级联赛",
+      "title": "新疆足球超级联��",
       "keyword": "06月21日19:28",
       "sportItemId": "1",
       "matchStatus": "0",
