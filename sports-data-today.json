@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-06-22 09:31:18",
+  "updateTime": "2026-06-22 10:01:20",
   "data": [
     {
       "mgdbId": "120000575518",
@@ -244,7 +244,7 @@
       "title": "浙江稠州银行VS南京同曦",
       "keyword": "06月22日10:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "全国青年篮球联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/21/77F9GNNAGNIV.jpg",
@@ -268,7 +268,7 @@
       "title": "苏科雄狮VS北京首钢",
       "keyword": "06月22日10:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "全国青年篮球联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/21/77F9GNP032MS.png",
@@ -459,6 +459,14 @@
         {
           "pID": "965546173",
           "name": "清流播出"
+        },
+        {
+          "pID": "965570534",
+          "name": "清流播出"
+        },
+        {
+          "pID": "965570605",
+          "name": "单文强"
         }
       ]
     },
@@ -557,6 +565,7 @@
     },
     {
       "mgdbId": "120000580760",
+      "pID": "965570558",
       "title": "WTA巴特洪堡站女单第一轮：谢拉 vs 郑钦文",
       "keyword": "06月22日20:00",
       "sportItemId": "9",
@@ -567,11 +576,20 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
       "pkInfoTitle": "谢拉 vs 郑钦文",
       "modifyTitle": "WTA巴特洪堡站女单第一轮：谢拉 vs 郑钦文",
-      "presenters": "",
+      "presenters": "李宁",
       "matchInfo": {
         "time": "06月22日20:00"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "965570558",
+          "name": "清流播出"
+        },
+        {
+          "pID": "965570580",
+          "name": "李宁"
+        }
+      ]
     }
   ]
 }
