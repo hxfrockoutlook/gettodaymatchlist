@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-06-23 14:31:45",
+  "updateTime": "2026-06-23 15:01:45",
   "data": [
     {
       "mgdbId": "120000575515",
@@ -248,7 +248,7 @@
     },
     {
       "mgdbId": "120000580769",
-      "pID": "965576511",
+      "pID": "965601708",
       "title": "Kyungbock高中 vs 禧年学校",
       "keyword": "06月23日13:00",
       "sportItemId": "2",
@@ -265,14 +265,14 @@
       },
       "nodes": [
         {
-          "pID": "965576511",
-          "name": "清流播出"
+          "pID": "965601708",
+          "name": "全场回放"
         }
       ]
     },
     {
       "mgdbId": "120000580770",
-      "pID": "965576798",
+      "pID": "965601759",
       "title": "Watnoinoppakhun学校 vs 光州Speer Girls高中",
       "keyword": "06月23日13:00",
       "sportItemId": "2",
@@ -289,8 +289,8 @@
       },
       "nodes": [
         {
-          "pID": "965576798",
-          "name": "清流播出"
+          "pID": "965601759",
+          "name": "全场回放"
         }
       ]
     },
@@ -635,6 +635,30 @@
         {
           "pID": "965489994",
           "name": "第三阶段"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000580904",
+      "pID": "965594759",
+      "title": "NBA精彩重播：2026西决 马刺vs雷霆 G1",
+      "keyword": "06月23日18:00",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "NBA经典赛事",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png",
+      "pkInfoTitle": "NBA精彩重播：2026西决 马刺vs雷霆 G1",
+      "modifyTitle": "NBA经典赛事",
+      "presenters": "杨健 曾令旭 苏群",
+      "matchInfo": {
+        "time": "06月23日18:00"
+      },
+      "nodes": [
+        {
+          "pID": "965594759",
+          "name": "杨健 曾令旭 苏群"
         }
       ]
     },
