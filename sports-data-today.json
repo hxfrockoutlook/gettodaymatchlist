@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-06-23 12:12:58",
+  "updateTime": "2026-06-23 12:31:32",
   "data": [
     {
       "mgdbId": "120000575515",
@@ -216,11 +216,11 @@
     },
     {
       "mgdbId": "120000580767",
-      "pID": "965576506",
+      "pID": "965577913",
       "title": "南洋理工学院 vs 雅礼中学",
       "keyword": "06月23日11:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA未来之星邀请赛",
       "padImg": "",
@@ -233,6 +233,10 @@
       },
       "nodes": [
         {
+          "pID": "965577913",
+          "name": "NBA未来之星邀请赛！为中国年轻球员加油 林书豪八村助阵"
+        },
+        {
           "pID": "965576506",
           "name": "清流播出"
         }
@@ -244,7 +248,7 @@
       "title": "武吉加里尔体育学校 vs 伯威克学院",
       "keyword": "06月23日11:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA未来之星邀请赛",
       "padImg": "",
@@ -423,7 +427,12 @@
       "matchInfo": {
         "time": "06月23日16:00"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "965585669",
+          "name": "解说"
+        }
+      ]
     },
     {
       "mgdbId": "120000571991",
@@ -500,7 +509,7 @@
     {
       "mgdbId": "120000580771",
       "pID": "965576537",
-      "title": "NBA未来之星邀请赛开幕式",
+      "title": "NBA未来之星邀请赛开���式",
       "keyword": "06月23日16:00",
       "sportItemId": "2",
       "matchStatus": "0",
