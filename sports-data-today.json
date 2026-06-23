@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-06-23 10:01:36",
+  "updateTime": "2026-06-23 10:31:28",
   "data": [
     {
       "mgdbId": "120000575515",
@@ -112,7 +112,7 @@
       "title": "世界杯小组赛",
       "keyword": "06月23日08:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "纽约/新泽西球场",
       "competitionName": "世界杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/23/77FBACJJB0T5.png",
@@ -125,44 +125,12 @@
       },
       "nodes": [
         {
-          "pID": "965460994",
-          "name": "鲁靖明 马延峰 孙蕊"
+          "pID": "965595311",
+          "name": "超长版集锦"
         },
         {
-          "pID": "965460028",
-          "name": "AI智慧观赛"
-        },
-        {
-          "pID": "965461016",
-          "name": "粤语：梁柏翘 叶紫辰"
-        },
-        {
-          "pID": "965460841",
-          "name": "挪威队视角"
-        },
-        {
-          "pID": "965460835",
-          "name": "塞内加尔队视角"
-        },
-        {
-          "pID": "965271838",
-          "name": "CCTV5"
-        },
-        {
-          "pID": "965460937",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "965460384",
-          "name": "智能字幕"
-        },
-        {
-          "pID": "965459650",
-          "name": "开天眼了！"
-        },
-        {
-          "pID": "965459606",
-          "name": "山顶的风好大！"
+          "pID": "965595352",
+          "name": "全场集锦"
         }
       ]
     },
@@ -172,7 +140,7 @@
       "title": "世界杯小组赛",
       "keyword": "06月23日11:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "旧金山湾区球场",
       "competitionName": "世界杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/21/77F9GAJTA1DS.jpg",
@@ -199,6 +167,18 @@
         {
           "pID": "965460492",
           "name": "智能字幕"
+        },
+        {
+          "pID": "965460821",
+          "name": "约旦队视角"
+        },
+        {
+          "pID": "965460819",
+          "name": "阿尔及利亚队视角"
+        },
+        {
+          "pID": "965271838",
+          "name": "CCTV5"
         }
       ]
     },
@@ -635,6 +615,38 @@
         {
           "pID": "965489994",
           "name": "第三阶段"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000580926",
+      "pID": "965595433",
+      "title": "WTA巴特洪堡站女单第二轮：王欣瑜 vs 费尔南德斯",
+      "keyword": "06月23日18:30",
+      "sportItemId": "9",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "WTA",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/23/77FBAHE3MM60.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
+      "pkInfoTitle": "王欣瑜 vs 费尔南德斯",
+      "modifyTitle": "WTA巴特洪堡站女单第二轮：王欣瑜 vs 费尔南德斯",
+      "presenters": "宋光振",
+      "matchInfo": {
+        "time": "06月23日18:30"
+      },
+      "nodes": [
+        {
+          "pID": "965446335",
+          "name": "英文原声"
+        },
+        {
+          "pID": "965595478",
+          "name": "王欣瑜 vs 费尔南德斯(宋光振)"
+        },
+        {
+          "pID": "965595433",
+          "name": "赛场原声"
         }
       ]
     },
