@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-06-23 18:01:44",
+  "updateTime": "2026-06-23 18:31:38",
   "data": [
     {
       "mgdbId": "120000575515",
@@ -296,7 +296,7 @@
     },
     {
       "mgdbId": "120000579859",
-      "pID": "965293008",
+      "pID": "965603204",
       "title": "福建U21vs江西赣星",
       "keyword": "06月23日13:30",
       "sportItemId": "2",
@@ -314,7 +314,7 @@
       "nodes": [
         {
           "pID": "965603204",
-          "name": "2026全国U21青年篮球锦标赛全场回放：福建U21vs江西赣星（赛场原声）"
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
@@ -344,7 +344,7 @@
     },
     {
       "mgdbId": "120000579860",
-      "pID": "965293011",
+      "pID": "965605461",
       "title": "上海U21vs河北英励",
       "keyword": "06月23日15:30",
       "sportItemId": "2",
@@ -361,8 +361,8 @@
       },
       "nodes": [
         {
-          "pID": "965293011",
-          "name": "清流播出"
+          "pID": "965605461",
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
@@ -372,7 +372,7 @@
       "title": "中乙联赛",
       "keyword": "06月23日16:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Conson Sports Center Outer Field",
       "competitionName": "中乙",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000571989/202606231628_450866_H169_1080.webp",
@@ -396,7 +396,7 @@
       "title": "中乙联赛",
       "keyword": "06月23日16:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "亚泰训练基地主体育场",
       "competitionName": "中乙",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000571990/202603120928_178910_H169_1080.webp",
@@ -420,7 +420,7 @@
       "title": "中乙联赛",
       "keyword": "06月23日16:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "海沧体育中心",
       "competitionName": "中乙",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000571991/202606231628_697718_H169_1080.webp",
@@ -444,7 +444,7 @@
       "title": "中乙联赛",
       "keyword": "06月23日16:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "东华大学体育场",
       "competitionName": "中乙",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000571992/202606231628_390584_H169_1080.webp",
@@ -663,38 +663,6 @@
       ]
     },
     {
-      "mgdbId": "120000580926",
-      "pID": "965595433",
-      "title": "WTA巴特洪堡站女单第二轮：王欣瑜 vs 费尔南德斯",
-      "keyword": "06月23日18:30",
-      "sportItemId": "9",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "WTA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/23/77FBAHE3MM60.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "王欣瑜 vs 费尔南德斯",
-      "modifyTitle": "WTA巴特洪堡站女单第二轮：王欣瑜 vs 费尔南德斯",
-      "presenters": "宋光振",
-      "matchInfo": {
-        "time": "06月23日18:30"
-      },
-      "nodes": [
-        {
-          "pID": "965446335",
-          "name": "英文原声"
-        },
-        {
-          "pID": "965595478",
-          "name": "王欣瑜 vs 费尔南德斯(宋光振)"
-        },
-        {
-          "pID": "965595433",
-          "name": "赛场原声"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000580774",
       "pID": "965576558",
       "title": "协恩中学 vs 华侨中学",
@@ -727,7 +695,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "NBA未来之星邀请赛",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/23/77FB9B9AGOSD.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/6/22/100000001285106165b1.jpeg",
       "pkInfoTitle": "远东大学迪利曼高中 vs 华侨中学",
       "modifyTitle": "NBA未来之星邀请赛",
@@ -739,6 +707,38 @@
         {
           "pID": "965576832",
           "name": "清流播出"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000580926",
+      "pID": "965595433",
+      "title": "WTA巴特洪堡站女单第二轮：王欣瑜 vs 费尔南德斯",
+      "keyword": "06月23日19:00",
+      "sportItemId": "9",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "WTA",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/23/77FBAHE3MM60.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
+      "pkInfoTitle": "王欣瑜 vs 费尔南德斯",
+      "modifyTitle": "WTA巴特洪堡站女单第二轮：王欣瑜 vs 费尔南德斯",
+      "presenters": "宋光振",
+      "matchInfo": {
+        "time": "06月23日19:00"
+      },
+      "nodes": [
+        {
+          "pID": "965446335",
+          "name": "英文原声"
+        },
+        {
+          "pID": "965595478",
+          "name": "王欣瑜 vs 费尔南德斯(宋光振)"
+        },
+        {
+          "pID": "965595433",
+          "name": "赛场原声"
         }
       ]
     },
