@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-06-24 12:01:32",
+  "updateTime": "2026-06-24 12:31:33",
   "data": [
     {
       "mgdbId": "120000575512",
@@ -83,10 +83,6 @@
         {
           "pID": "965571441",
           "name": "1号场地"
-        },
-        {
-          "pID": "965571613",
-          "name": "2号场地"
         },
         {
           "pID": "965571746",
@@ -216,7 +212,7 @@
     },
     {
       "mgdbId": "120000580630",
-      "pID": "965521168",
+      "pID": "965625919",
       "title": "NBA选秀大会首轮",
       "keyword": "06月24日08:00",
       "sportItemId": "2",
@@ -234,7 +230,11 @@
       "nodes": [
         {
           "pID": "965625919",
-          "name": "2026NBA选秀大会首轮全场回放（连睿、周鹏、季孟年）（50帧原画）"
+          "name": "完整回放（连睿、周鹏、季孟年）"
+        },
+        {
+          "pID": "965626227",
+          "name": "完整回放（英文原声）"
         }
       ]
     },
@@ -244,7 +244,7 @@
       "title": "世界杯小组赛",
       "keyword": "06月24日10:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "瓜达拉哈拉体育场",
       "competitionName": "世界杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/24/77FC7LBLAORQ.jpg",
@@ -257,36 +257,16 @@
       },
       "nodes": [
         {
-          "pID": "965512259",
-          "name": "梁祥宇 李欣 王伟 郭小仙儿"
+          "pID": "965626365",
+          "name": "全场集锦"
         },
         {
-          "pID": "965511977",
-          "name": "AI智慧观赛"
+          "pID": "965626324",
+          "name": "纯享版回放（梁祥宇、李欣、王伟、郭小仙儿）"
         },
         {
-          "pID": "965512176",
-          "name": "哥伦比亚队视角"
-        },
-        {
-          "pID": "965512167",
-          "name": "刚果（金）队视角"
-        },
-        {
-          "pID": "965512453",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "965512054",
-          "name": "智能字幕"
-        },
-        {
-          "pID": "965511760",
-          "name": "开天眼了！"
-        },
-        {
-          "pID": "965511638",
-          "name": "山顶的风好大！"
+          "pID": "965626430",
+          "name": "全场回放（智能解说）"
         }
       ]
     },
@@ -296,7 +276,7 @@
       "title": "雅礼中学 vs 禧年学校",
       "keyword": "06月24日11:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA未来之星高中邀请赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/24/77FC7AHNPPQJ.jpg",
@@ -320,7 +300,7 @@
       "title": "禧年学校 vs The Velammal国际学校",
       "keyword": "06月24日11:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA未来之星高中邀请赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/24/77FC7AJLKGRF.jpg",
