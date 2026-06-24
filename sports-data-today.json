@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-06-24 18:40:37",
+  "updateTime": "2026-06-24 19:01:56",
   "data": [
     {
       "mgdbId": "120000575512",
@@ -445,8 +445,8 @@
       },
       "nodes": [
         {
-          "pID": "965585648",
-          "name": "解说"
+          "pID": "965633494",
+          "name": "全场回放（官方解说）"
         }
       ]
     },
@@ -549,15 +549,15 @@
     {
       "mgdbId": "120000580330",
       "pID": "965446153",
-      "title": "小米拉、斯瓦泰克轮番出战",
+      "title": "小米拉止步次轮 斯瓦泰克稍后出战",
       "keyword": "06月24日17:00",
       "sportItemId": "9",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/24/77FC89244V27.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/24/77FC6ICNMJT7.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "小米拉、斯瓦泰克轮番出战",
+      "pkInfoTitle": "小米拉止步次轮 斯瓦泰克稍后出战",
       "modifyTitle": "WTA巴特洪堡站第二轮：小米拉、斯瓦泰克轮番出战",
       "presenters": "刘钟鸣",
       "matchInfo": {
@@ -565,26 +565,26 @@
       },
       "nodes": [
         {
+          "pID": "965622162",
+          "name": "郑钦文 vs 陶森(刘钟鸣)"
+        },
+        {
           "pID": "965446153",
           "name": "赛场原声"
         },
         {
           "pID": "965446380",
           "name": "英文原声"
-        },
-        {
-          "pID": "965622162",
-          "name": "郑钦文 vs 陶森(刘钟鸣)"
         }
       ]
     },
     {
       "mgdbId": "120000580782",
-      "pID": "965576658",
+      "pID": "965633611",
       "title": "华侨中学 vs 鸟取城北高校",
       "keyword": "06月24日17:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA未来之星高中邀请赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/24/77FC7APKUAPO.jpg",
@@ -597,8 +597,8 @@
       },
       "nodes": [
         {
-          "pID": "965576658",
-          "name": "清流播出"
+          "pID": "965633611",
+          "name": "全场回放"
         }
       ]
     },
@@ -732,7 +732,7 @@
       "title": "朔州市怀仁市赛区3-4名、冠亚军决赛",
       "keyword": "06月24日18:40",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "晋超联赛",
       "padImg": "",
@@ -751,12 +751,44 @@
       ]
     },
     {
+      "mgdbId": "120000581060",
+      "pID": "965622217",
+      "title": "WTA巴特洪堡站女单第二轮：郑钦文 vs 陶森",
+      "keyword": "06月24日18:40",
+      "sportItemId": "9",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "WTA",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/23/77FBAT9EJHSM.png",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
+      "pkInfoTitle": "郑钦文vs陶森",
+      "modifyTitle": "WTA巴特洪堡站女单第二轮：郑钦文 vs 陶森",
+      "presenters": "刘钟鸣",
+      "matchInfo": {
+        "time": "06月24日18:40"
+      },
+      "nodes": [
+        {
+          "pID": "965622162",
+          "name": "刘钟鸣"
+        },
+        {
+          "pID": "965622217",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "965446380",
+          "name": "英文原声"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000571985",
       "pID": "965585642",
       "title": "中乙联赛",
       "keyword": "06月24日19:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "中乙",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000571985/202603120927_278129_H169_1080.webp",
@@ -780,7 +812,7 @@
       "title": "杨明高中 vs Watnoinoppakhun学校",
       "keyword": "06月24日19:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA未来之星高中邀请赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/24/77FC7AQCQN0H.jpg",
@@ -799,44 +831,12 @@
       ]
     },
     {
-      "mgdbId": "120000581060",
-      "pID": "965622217",
-      "title": "WTA巴特洪堡站女单第二轮：郑钦文 vs 陶森",
-      "keyword": "06月24日19:00",
-      "sportItemId": "9",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "WTA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/23/77FBAT9EJHSM.png",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "郑钦文vs陶森",
-      "modifyTitle": "WTA巴特洪堡站女单第二轮：郑钦文 vs 陶森",
-      "presenters": "刘钟鸣",
-      "matchInfo": {
-        "time": "06月24日19:00"
-      },
-      "nodes": [
-        {
-          "pID": "965622162",
-          "name": "刘钟鸣"
-        },
-        {
-          "pID": "965622217",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "965446380",
-          "name": "英文原声"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000581103",
       "pID": "965626632",
       "title": "中国队vs土耳其队",
       "keyword": "06月24日19:00",
       "sportItemId": "3",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "世界男排联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/24/77FC5TTB34CE.jpg",
@@ -859,10 +859,10 @@
       "pID": "965274224",
       "title": "《绿茵狂想》：张路苏东谈C罗证明自己",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "世界杯",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/24/77FC6HKNTLI1.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg",
       "pkInfoTitle": "《绿茵狂想》：张路苏东谈C罗证明自己",
       "modifyTitle": "《绿茵狂想》第13期",
@@ -1051,7 +1051,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "世界杯",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/24/77FC6IVD61D0.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg",
       "pkInfoTitle": "人机大战：谁是世界杯预言家 嘉宾里竟藏AI内鬼",
       "modifyTitle": "人机大战：谁是世界杯预言家 第1期",
