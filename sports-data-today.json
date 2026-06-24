@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-06-24 09:31:32",
+  "updateTime": "2026-06-24 10:01:36",
   "data": [
     {
       "mgdbId": "120000575512",
@@ -203,6 +203,14 @@
         {
           "pID": "965621506",
           "name": "全场回放（陈曦、陈熙荣）"
+        },
+        {
+          "pID": "965621743",
+          "name": "全场回放（智能解说）"
+        },
+        {
+          "pID": "965621821",
+          "name": "全场回放（AI智慧观赛）"
         }
       ]
     },
@@ -240,7 +248,7 @@
       "title": "世界杯小组赛",
       "keyword": "06月24日10:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "瓜达拉哈拉体育场",
       "competitionName": "世界杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/22/77FADOEVCJT9.jpg",
@@ -261,12 +269,32 @@
           "name": "AI智慧观赛"
         },
         {
+          "pID": "965512176",
+          "name": "哥伦比亚队视角"
+        },
+        {
+          "pID": "965512167",
+          "name": "刚果（金）队视角"
+        },
+        {
+          "pID": "965271838",
+          "name": "CCTV5"
+        },
+        {
           "pID": "965512453",
           "name": "赛场原声"
         },
         {
           "pID": "965512054",
           "name": "智能字幕"
+        },
+        {
+          "pID": "965511760",
+          "name": "开天眼了！"
+        },
+        {
+          "pID": "965511638",
+          "name": "山顶的风好大！"
         }
       ]
     },
@@ -664,6 +692,7 @@
     },
     {
       "mgdbId": "120000581060",
+      "pID": "965622217",
       "title": "WTA巴特洪堡站女单第二轮：郑钦文 vs 陶森",
       "keyword": "06月24日18:30",
       "sportItemId": "9",
@@ -674,11 +703,20 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
       "pkInfoTitle": "郑钦文 vs 陶森",
       "modifyTitle": "WTA巴特洪堡站女单第二轮：郑钦文 vs 陶森",
-      "presenters": "",
+      "presenters": "刘钟鸣",
       "matchInfo": {
         "time": "06月24日18:30"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "965622217",
+          "name": "清流播出"
+        },
+        {
+          "pID": "965622162",
+          "name": "刘钟鸣"
+        }
+      ]
     },
     {
       "mgdbId": "120000580472",
