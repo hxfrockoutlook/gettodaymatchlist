@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-06-24 18:01:39",
+  "updateTime": "2026-06-24 18:40:37",
   "data": [
     {
       "mgdbId": "120000575512",
@@ -541,8 +541,8 @@
       },
       "nodes": [
         {
-          "pID": "965476746",
-          "name": "清流播出"
+          "pID": "965633336",
+          "name": "全场回放"
         }
       ]
     },
@@ -565,16 +565,16 @@
       },
       "nodes": [
         {
-          "pID": "965622162",
-          "name": "郑钦文 vs 陶森(刘钟鸣)"
-        },
-        {
           "pID": "965446153",
           "name": "赛场原声"
         },
         {
           "pID": "965446380",
           "name": "英文原声"
+        },
+        {
+          "pID": "965622162",
+          "name": "郑钦文 vs 陶森(刘钟鸣)"
         }
       ]
     },
@@ -708,7 +708,7 @@
       "title": "贵州村超联赛",
       "keyword": "06月24日18:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "贵州村超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000580985/202606231410_454602_H169_1080.webp",
@@ -723,38 +723,6 @@
         {
           "pID": "965600741",
           "name": "2026赛季贵州村超联赛村超友谊赛: 水尾乡中心校U12足球队VS古州三小U12足球队"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000581060",
-      "pID": "965622217",
-      "title": "WTA巴特洪堡站女单第二轮：郑钦文 vs 陶森",
-      "keyword": "06月24日18:30",
-      "sportItemId": "9",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "WTA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/23/77FBAT9EJHSM.png",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "郑钦文 vs 陶森",
-      "modifyTitle": "WTA巴特洪堡站女单第二轮：郑钦文 vs 陶森",
-      "presenters": "刘钟鸣",
-      "matchInfo": {
-        "time": "06月24日18:30"
-      },
-      "nodes": [
-        {
-          "pID": "965622162",
-          "name": "刘钟鸣"
-        },
-        {
-          "pID": "965622217",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "965446380",
-          "name": "英文原声"
         }
       ]
     },
@@ -827,6 +795,38 @@
         {
           "pID": "965576676",
           "name": "清流播出"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000581060",
+      "pID": "965622217",
+      "title": "WTA巴特洪堡站女单第二轮：郑钦文 vs 陶森",
+      "keyword": "06月24日19:00",
+      "sportItemId": "9",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "WTA",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/23/77FBAT9EJHSM.png",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
+      "pkInfoTitle": "郑钦文vs陶森",
+      "modifyTitle": "WTA巴特洪堡站女单第二轮：郑钦文 vs 陶森",
+      "presenters": "刘钟鸣",
+      "matchInfo": {
+        "time": "06月24日19:00"
+      },
+      "nodes": [
+        {
+          "pID": "965622162",
+          "name": "刘钟鸣"
+        },
+        {
+          "pID": "965622217",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "965446380",
+          "name": "英文原声"
         }
       ]
     },
