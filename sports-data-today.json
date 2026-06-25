@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-06-25 12:31:30",
+  "updateTime": "2026-06-25 13:01:37",
   "data": [
     {
       "mgdbId": "120000580762",
@@ -263,6 +263,10 @@
         {
           "pID": "965653536",
           "name": "完整回放（连睿、周鹏、季孟年）"
+        },
+        {
+          "pID": "965653795",
+          "name": "完整回放（英文原声）"
         }
       ]
     },
@@ -360,7 +364,7 @@
       "title": "清华附中 vs 吞武里易三仓学校",
       "keyword": "06月25日11:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA未来之星高中邀请赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/25/77FD4EVQFFML.jpg",
@@ -408,7 +412,7 @@
       "title": "Rowille中学 vs 圣托马斯大学",
       "keyword": "06月25日13:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA未来之星高中邀请赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/25/77FD4F21H2V9.jpg",
@@ -432,7 +436,7 @@
       "title": "The Velammal国际学校 vs Kyungbock高中",
       "keyword": "06月25日13:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA未来之星高中邀请赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/25/77FD4F2HQV5B.jpg",
@@ -573,7 +577,7 @@
     {
       "mgdbId": "120000579883",
       "pID": "965293093",
-      "title": "山东U21vs山西竹叶青酒",
+      "title": "山东U21vs山西竹叶青���",
       "keyword": "06月25日15:30",
       "sportItemId": "2",
       "matchStatus": "0",
@@ -748,6 +752,7 @@
     },
     {
       "mgdbId": "120000581177",
+      "pID": "965655083",
       "title": "WTA巴特洪堡站女单1/4决赛：大坂直美 vs 亚历山德洛娃",
       "keyword": "06月25日19:00",
       "sportItemId": "9",
@@ -758,11 +763,20 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
       "pkInfoTitle": "大坂直美 vs 亚历山德洛娃",
       "modifyTitle": "WTA巴特洪堡站女单1/4决赛：大坂直美 vs 亚历山德洛娃",
-      "presenters": "",
+      "presenters": "单文强",
       "matchInfo": {
         "time": "06月25日19:00"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "965655083",
+          "name": "清流播出"
+        },
+        {
+          "pID": "965655069",
+          "name": "单文强"
+        }
+      ]
     },
     {
       "mgdbId": "300000002137",
