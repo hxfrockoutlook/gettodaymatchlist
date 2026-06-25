@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-06-25 14:31:33",
+  "updateTime": "2026-06-25 15:01:35",
   "data": [
     {
       "mgdbId": "120000580762",
@@ -420,7 +420,7 @@
       "title": "Rowille中学 vs 圣托马斯大学",
       "keyword": "06月25日13:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA未来之星高中邀请赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/25/77FD4F21H2V9.jpg",
@@ -440,7 +440,7 @@
     },
     {
       "mgdbId": "120000580787",
-      "pID": "965576920",
+      "pID": "965656770",
       "title": "The Velammal国际学校 vs Kyungbock高中",
       "keyword": "06月25日13:00",
       "sportItemId": "2",
@@ -457,8 +457,8 @@
       },
       "nodes": [
         {
-          "pID": "965576920",
-          "name": "清流播出"
+          "pID": "965656770",
+          "name": "全场回放"
         }
       ]
     },
@@ -516,7 +516,7 @@
       "title": "伯威克学院 vs 东泰高中",
       "keyword": "06月25日15:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA未来之星高中邀请赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/25/77FD4F2V7PN4.jpg",
@@ -540,7 +540,7 @@
       "title": "精华女子高等学校 vs 协恩中学",
       "keyword": "06月25日15:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA未来之星高中邀请赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/25/77FD4F4GTEN7.jpg",
@@ -564,7 +564,7 @@
       "title": "中国足协杯第二次抽签仪式",
       "keyword": "06月25日15:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "足协杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/24/77FC5LBPTL15.png",
@@ -707,6 +707,30 @@
         {
           "pID": "965293101",
           "name": "清流播出"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000580910",
+      "pID": "965594829",
+      "title": "NBA精彩重播：2026西决 雷霆vs马刺 G3",
+      "keyword": "06月25日18:00",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "NBA经典赛事",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png",
+      "pkInfoTitle": "NBA精彩重播：2026西决 雷霆vs马刺 G3",
+      "modifyTitle": "NBA经典赛事",
+      "presenters": "李天宇 刘家成 张兆旭",
+      "matchInfo": {
+        "time": "06月25日18:00"
+      },
+      "nodes": [
+        {
+          "pID": "965594829",
+          "name": "李天宇 刘家成 张兆旭"
         }
       ]
     },
