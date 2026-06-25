@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-06-26 07:01:18",
+  "updateTime": "2026-06-26 07:31:19",
   "data": [
     {
       "mgdbId": "120000580763",
@@ -11,7 +11,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "BWF",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/25/77FD2GD67K0I.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/26/77FE0VJ4479C.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "李梓嘉领衔！贾士贤/盖骆晋级八强",
       "modifyTitle": "美国羽毛球公开赛第三日：李梓嘉领衔！贾士贤/盖骆晋级八强",
@@ -21,16 +21,16 @@
       },
       "nodes": [
         {
-          "pID": "965571809",
-          "name": "3号场地"
-        },
-        {
           "pID": "965571582",
           "name": "1号场地"
         },
         {
           "pID": "965571653",
           "name": "2号场地"
+        },
+        {
+          "pID": "965571809",
+          "name": "3号场地"
         },
         {
           "pID": "965572002",
@@ -147,7 +147,7 @@
       "matchStatus": "1",
       "matchField": "达拉斯球场",
       "competitionName": "世界杯",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/25/77FD23JV10HD.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/26/77FE0VP5I9GA.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg",
       "pkInfoTitle": "日本 vs 瑞典",
       "modifyTitle": "世界杯小组赛",
@@ -201,6 +201,10 @@
           "name": "智能字幕"
         },
         {
+          "pID": "965578172",
+          "name": "假如你是其中一位边裁！"
+        },
+        {
           "pID": "965658678",
           "name": "开天眼了！"
         },
@@ -219,7 +223,7 @@
       "matchStatus": "1",
       "matchField": "堪萨斯城体育场",
       "competitionName": "世界杯",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/25/77FD25S8K3CL.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/26/77FE10FU8VSS.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg",
       "pkInfoTitle": "突尼斯 vs 荷兰",
       "modifyTitle": "世界杯小组赛",
@@ -355,6 +359,54 @@
       ]
     },
     {
+      "mgdbId": "120000581169",
+      "pID": "965651329",
+      "title": "女子组半决赛 第一场",
+      "keyword": "06月26日10:10",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "NBA未来之星高中邀请赛",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/6/22/100000001285106165b1.jpeg",
+      "pkInfoTitle": "女子组半决赛 第一场",
+      "modifyTitle": "NBA未来之星邀请赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月26日10:10"
+      },
+      "nodes": [
+        {
+          "pID": "965651329",
+          "name": "清流播出"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000581170",
+      "pID": "965651333",
+      "title": "女子组半决赛 第二场",
+      "keyword": "06月26日12:10",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "NBA未来之星高中邀请赛",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/6/22/100000001285106165b1.jpeg",
+      "pkInfoTitle": "女子组半决赛 第二场",
+      "modifyTitle": "NBA未来之星邀请赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月26日12:10"
+      },
+      "nodes": [
+        {
+          "pID": "965651333",
+          "name": "清流播出"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000579890",
       "pID": "965293125",
       "title": "山西竹叶青酒vs北京首钢",
@@ -398,6 +450,30 @@
       "nodes": [
         {
           "pID": "965293132",
+          "name": "清流播出"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000581171",
+      "pID": "965651346",
+      "title": "男子组半决赛 第一场",
+      "keyword": "06月26日16:10",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "NBA未来之星高中邀请赛",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/6/22/100000001285106165b1.jpeg",
+      "pkInfoTitle": "男子组半决赛 第一场",
+      "modifyTitle": "NBA未来之星邀请赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月26日16:10"
+      },
+      "nodes": [
+        {
+          "pID": "965651346",
           "name": "清流播出"
         }
       ]
@@ -475,6 +551,30 @@
         {
           "pID": "965596495",
           "name": "英文原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000581172",
+      "pID": "965651373",
+      "title": "男子组半决赛 第二场",
+      "keyword": "06月26日18:10",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "NBA未来之星高中邀请赛",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/6/22/100000001285106165b1.jpeg",
+      "pkInfoTitle": "男子组半决赛 第二场",
+      "modifyTitle": "NBA未来之星邀请赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月26日18:10"
+      },
+      "nodes": [
+        {
+          "pID": "965651373",
+          "name": "清流播出"
         }
       ]
     },
