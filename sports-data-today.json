@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-06-25 14:01:36",
+  "updateTime": "2026-06-25 14:31:33",
   "data": [
     {
       "mgdbId": "120000580762",
@@ -55,6 +55,14 @@
         {
           "pID": "965648201",
           "name": "【全场回放】四号场地（赛场原声）（一）"
+        },
+        {
+          "pID": "965656438",
+          "name": "【全场回放】四号场地（赛场原声）（二）"
+        },
+        {
+          "pID": "965656715",
+          "name": "2026BWF美国羽毛球公开赛Day2二号场地全场回放（赛场原声）（二）"
         }
       ]
     },
@@ -436,7 +444,7 @@
       "title": "The Velammal国际学校 vs Kyungbock高中",
       "keyword": "06月25日13:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA未来之星高中邀请赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/25/77FD4F2HQV5B.jpg",
@@ -484,7 +492,7 @@
       "title": "吕梁赛区市级联赛3-4名、冠亚军决赛",
       "keyword": "06月25日14:10",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "晋超联赛",
       "padImg": "",
@@ -756,6 +764,7 @@
     },
     {
       "mgdbId": "120000581176",
+      "pID": "965653150",
       "title": "女子成年组预赛暨团体、女子个人全能决赛 第四场",
       "keyword": "06月25日19:00",
       "sportItemId": "8",
@@ -770,7 +779,12 @@
       "matchInfo": {
         "time": "06月25日19:00"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "965653150",
+          "name": "CCTV5+"
+        }
+      ]
     },
     {
       "mgdbId": "120000581177",
@@ -896,6 +910,7 @@
     },
     {
       "mgdbId": "120000581175",
+      "pID": "965653156",
       "title": "中国队vs比利时队",
       "keyword": "06月25日22:30",
       "sportItemId": "3",
@@ -910,7 +925,12 @@
       "matchInfo": {
         "time": "06月25日22:30"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "965653156",
+          "name": "CCTV5+"
+        }
+      ]
     }
   ]
 }
