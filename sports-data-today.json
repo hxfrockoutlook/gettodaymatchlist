@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-06-25 13:01:37",
+  "updateTime": "2026-06-25 13:31:29",
   "data": [
     {
       "mgdbId": "120000580762",
@@ -360,7 +360,7 @@
     },
     {
       "mgdbId": "120000580784",
-      "pID": "965576688",
+      "pID": "965655498",
       "title": "清华附中 vs 吞武里易三仓学校",
       "keyword": "06月25日11:00",
       "sportItemId": "2",
@@ -377,14 +377,14 @@
       },
       "nodes": [
         {
-          "pID": "965576688",
-          "name": "清流播出"
+          "pID": "965655498",
+          "name": "全场回放"
         }
       ]
     },
     {
       "mgdbId": "120000580785",
-      "pID": "965576910",
+      "pID": "965655461",
       "title": "禧年学校 vs 南洋理工学院",
       "keyword": "06月25日11:00",
       "sportItemId": "2",
@@ -401,8 +401,8 @@
       },
       "nodes": [
         {
-          "pID": "965576910",
-          "name": "清流播出"
+          "pID": "965655461",
+          "name": "全场回放"
         }
       ]
     },
@@ -460,7 +460,7 @@
       "title": "新疆天山vs武汉盛帆",
       "keyword": "06月25日13:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "全国青年篮球联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/24/77FC7TN0B220.png",
@@ -577,7 +577,7 @@
     {
       "mgdbId": "120000579883",
       "pID": "965293093",
-      "title": "山东U21vs山西竹叶青���",
+      "title": "山东U21vs山西竹叶青酒",
       "keyword": "06月25日15:30",
       "sportItemId": "2",
       "matchStatus": "0",
@@ -635,7 +635,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
       "pkInfoTitle": "大威廉姆斯女双出战 穆霍娃压场",
       "modifyTitle": "WTA巴特洪堡站1/4决赛：大威廉姆斯女双出战 穆霍娃压场",
-      "presenters": "",
+      "presenters": "单文强",
       "matchInfo": {
         "time": "06月25日17:00"
       },
@@ -647,6 +647,10 @@
         {
           "pID": "965446402",
           "name": "英文原声"
+        },
+        {
+          "pID": "965655069",
+          "name": "大坂直美 vs 亚历山德洛娃(单文强)"
         }
       ]
     },
@@ -769,12 +773,16 @@
       },
       "nodes": [
         {
-          "pID": "965655083",
-          "name": "清流播出"
-        },
-        {
           "pID": "965655069",
           "name": "单文强"
+        },
+        {
+          "pID": "965655083",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "965446402",
+          "name": "英文原声"
         }
       ]
     },
@@ -867,6 +875,24 @@
           "name": "人机大战第2期"
         }
       ]
+    },
+    {
+      "mgdbId": "120000581175",
+      "title": "中国队vs比利时队",
+      "keyword": "06月25日22:30",
+      "sportItemId": "3",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "世界男排联赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/25/77FD55LOTF4U.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2022/7/6/1000000008011065e8e5.png",
+      "pkInfoTitle": "中国队vs比利时队",
+      "modifyTitle": "世界男排联赛波兰站：中国队vs比利时队",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月25日22:30"
+      },
+      "nodes": []
     }
   ]
 }
