@@ -1,10 +1,10 @@
 {
   "success": true,
-  "updateTime": "2026-06-26 11:01:26",
+  "updateTime": "2026-06-26 11:31:22",
   "data": [
     {
       "mgdbId": "120000580763",
-      "pID": "965663618",
+      "pID": "965663631",
       "title": "贾士贤/盖骆晋级八强！李梓嘉惜败",
       "keyword": "06月26日03:00",
       "sportItemId": "6",
@@ -15,18 +15,14 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "贾士贤/盖骆晋级八强！李梓嘉惜败",
       "modifyTitle": "美国羽毛球公开赛第三日：贾士贤/盖骆晋级八强！李梓嘉惜败",
-      "presenters": "杨妮娜 刘炳阳",
+      "presenters": "杨妮娜",
       "matchInfo": {
         "time": "06月26日03:00"
       },
       "nodes": [
         {
-          "pID": "965663618",
-          "name": "盖斯/詹森VS松居圭一郎/三桥健也"
-        },
-        {
-          "pID": "965663653",
-          "name": "本·莱恩/文迪VS巴特勒/琼斯"
+          "pID": "965663631",
+          "name": "赖柏佑/蔡富丞VS陈子亦/贾士贤"
         },
         {
           "pID": "965571582",
@@ -611,11 +607,19 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
       "pkInfoTitle": "王欣瑜PK大坂直美 穆霍娃冲决赛",
       "modifyTitle": "WTA巴特洪堡站半决赛：王欣瑜PK大坂直美 穆霍娃冲决赛",
-      "presenters": "",
+      "presenters": "胡力涛 宋光振",
       "matchInfo": {
         "time": "06月26日19:00"
       },
       "nodes": [
+        {
+          "pID": "965678215",
+          "name": "王欣瑜 vs 大坂直美(胡力涛)"
+        },
+        {
+          "pID": "965678257",
+          "name": "鲁塞 vs 穆霍娃(宋光振)"
+        },
         {
           "pID": "965446246",
           "name": "赛场原声"
@@ -653,7 +657,7 @@
     {
       "mgdbId": "120000581235",
       "pID": "965678312",
-      "title": "WTA巴特洪堡站半决赛：王欣瑜vs大坂直美",
+      "title": "WTA巴特洪堡站半决赛：王欣瑜 vs 大坂直美",
       "keyword": "06月26日19:00",
       "sportItemId": "9",
       "matchStatus": "0",
@@ -661,20 +665,24 @@
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/26/77FE02NF40L5.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "王欣瑜vs大坂直美",
-      "modifyTitle": "WTA巴特洪堡站半决赛：王欣瑜vs大坂直美",
+      "pkInfoTitle": "王欣瑜 vs 大坂直美",
+      "modifyTitle": "WTA巴特洪堡站半决赛：王欣瑜 vs 大坂直美",
       "presenters": "胡力涛",
       "matchInfo": {
         "time": "06月26日19:00"
       },
       "nodes": [
         {
-          "pID": "965678312",
-          "name": "清流播出"
-        },
-        {
           "pID": "965678215",
           "name": "胡力涛"
+        },
+        {
+          "pID": "965678312",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "965446435",
+          "name": "英文原声"
         }
       ]
     },
@@ -826,7 +834,7 @@
     {
       "mgdbId": "120000581236",
       "pID": "965678341",
-      "title": "WTA巴特洪堡站半决赛：鲁塞vs穆霍娃",
+      "title": "WTA巴特洪堡站半决赛：鲁塞 vs 穆霍娃",
       "keyword": "06月26日21:00",
       "sportItemId": "9",
       "matchStatus": "0",
@@ -834,20 +842,24 @@
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/26/77FE04LT2HQG.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "鲁塞vs穆霍娃",
-      "modifyTitle": "WTA巴特洪堡站半决赛：鲁塞vs穆霍娃",
+      "pkInfoTitle": "鲁塞 vs 穆霍娃",
+      "modifyTitle": "WTA巴特洪堡站半决赛：鲁塞 vs 穆霍娃",
       "presenters": "宋光振",
       "matchInfo": {
         "time": "06月26日21:00"
       },
       "nodes": [
         {
-          "pID": "965678341",
-          "name": "清流播出"
-        },
-        {
           "pID": "965678257",
           "name": "宋光振"
+        },
+        {
+          "pID": "965678341",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "965446435",
+          "name": "英文原声"
         }
       ]
     },
