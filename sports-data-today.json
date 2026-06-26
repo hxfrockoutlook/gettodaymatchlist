@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-06-26 13:31:19",
+  "updateTime": "2026-06-26 14:01:25",
   "data": [
     {
       "mgdbId": "120000580763",
@@ -436,10 +436,11 @@
     },
     {
       "mgdbId": "120000581269",
+      "pID": "965680597",
       "title": "女子青年组预赛暨团体、女子个人全能决赛 第二场",
       "keyword": "06月26日14:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "亚洲体操锦标赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/26/77FE277BC99L.jpg",
@@ -450,7 +451,12 @@
       "matchInfo": {
         "time": "06月26日14:00"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "965680597",
+          "name": "CCTV5+"
+        }
+      ]
     },
     {
       "mgdbId": "120000579892",
