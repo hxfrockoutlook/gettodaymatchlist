@@ -1,10 +1,10 @@
 {
   "success": true,
-  "updateTime": "2026-06-26 11:31:22",
+  "updateTime": "2026-06-26 12:01:24",
   "data": [
     {
       "mgdbId": "120000580763",
-      "pID": "965663631",
+      "pID": "965572002",
       "title": "贾士贤/盖骆晋级八强！李梓嘉惜败",
       "keyword": "06月26日03:00",
       "sportItemId": "6",
@@ -15,27 +15,11 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "贾士贤/盖骆晋级八强！李梓嘉惜败",
       "modifyTitle": "美国羽毛球公开赛第三日：贾士贤/盖骆晋级八强！李梓嘉惜败",
-      "presenters": "杨妮娜",
+      "presenters": "",
       "matchInfo": {
         "time": "06月26日03:00"
       },
       "nodes": [
-        {
-          "pID": "965663631",
-          "name": "赖柏佑/蔡富丞VS陈子亦/贾士贤"
-        },
-        {
-          "pID": "965571582",
-          "name": "1号场地"
-        },
-        {
-          "pID": "965571653",
-          "name": "2号场地"
-        },
-        {
-          "pID": "965571809",
-          "name": "3号场地"
-        },
         {
           "pID": "965572002",
           "name": "4号场地"
@@ -259,7 +243,7 @@
       "matchStatus": "1",
       "matchField": "旧金山湾区球场",
       "competitionName": "世界杯",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/25/77FD25US8VR6.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/26/77FE27JOB3UN.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg",
       "pkInfoTitle": "巴拉圭 vs 澳大利亚",
       "modifyTitle": "世界杯小组赛",
@@ -319,7 +303,7 @@
       "matchStatus": "1",
       "matchField": "洛杉矶球场",
       "competitionName": "世界杯",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/26/77FE1SPV1L2I.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/26/77FE28L1J2H3.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg",
       "pkInfoTitle": "土耳其 vs 美国",
       "modifyTitle": "世界杯小组赛",
@@ -376,11 +360,11 @@
     },
     {
       "mgdbId": "120000581169",
-      "pID": "965651329",
+      "pID": "965577913",
       "title": "女子组半决赛 精华女子高等学校 vs Rowville中学",
       "keyword": "06月26日10:10",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA未来之星高中邀请赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/26/77FE1D60IBFK.jpg",
@@ -392,6 +376,10 @@
         "time": "06月26日10:10"
       },
       "nodes": [
+        {
+          "pID": "965577913",
+          "name": "NBA未来之星邀请赛！为中国年轻球员加油 林书豪八村助阵"
+        },
         {
           "pID": "965651329",
           "name": "清流播出"
@@ -445,6 +433,24 @@
           "name": "清流播出"
         }
       ]
+    },
+    {
+      "mgdbId": "120000581269",
+      "title": "女子青年组预赛暨团体、女子个人全能决赛 第二场",
+      "keyword": "06月26日14:00",
+      "sportItemId": "8",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "亚洲体操锦标赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/26/77FE277BC99L.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/6/15/100000001489106644c3.png",
+      "pkInfoTitle": "女子青年组预赛暨团体、女子个人全能决赛 第二场",
+      "modifyTitle": "亚洲体操锦标赛：女子青年组预赛暨团体、女子个人全能决赛 第二场",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月26日14:00"
+      },
+      "nodes": []
     },
     {
       "mgdbId": "120000579892",
@@ -627,6 +633,10 @@
         {
           "pID": "965446435",
           "name": "英文原声"
+        },
+        {
+          "pID": "965446435",
+          "name": "���文原声"
         }
       ]
     },
