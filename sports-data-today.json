@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-06-27 00:34:19",
+  "updateTime": "2026-06-27 01:03:59",
   "data": [
     {
       "mgdbId": "120000580346",
@@ -8,7 +8,7 @@
       "title": "薛飞冲开门红 林兆恒迎战库马尔",
       "keyword": "06月27日01:00",
       "sportItemId": "7",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/26/77FE25KUS97S.png",
@@ -25,10 +25,6 @@
           "name": "肖扬"
         },
         {
-          "pID": "965629481",
-          "name": "刘馨蕊"
-        },
-        {
           "pID": "965623684",
           "name": "2号桌"
         },
@@ -39,6 +35,10 @@
         {
           "pID": "965628801",
           "name": "4号桌"
+        },
+        {
+          "pID": "965629481",
+          "name": "刘馨蕊"
         }
       ]
     },
@@ -1202,7 +1202,7 @@
       "nodes": [
         {
           "pID": "965695561",
-          "name": "伪直播"
+          "name": "清流"
         }
       ]
     },
@@ -1477,7 +1477,7 @@
     {
       "mgdbId": "120000580334",
       "pID": "965446263",
-      "title": "WTA巴特洪堡站 决赛",
+      "title": "WTA巴特洪堡站决赛;：穆霍娃 vs 大坂直美",
       "keyword": "06月27日19:00",
       "sportItemId": "9",
       "matchStatus": "0",
@@ -1485,9 +1485,9 @@
       "competitionName": "WTA",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "WTA巴特洪堡站 决赛",
-      "modifyTitle": "WTA巴特洪堡站 决赛",
-      "presenters": "",
+      "pkInfoTitle": "穆霍娃 vs 大坂直美",
+      "modifyTitle": "WTA巴特洪堡站决赛;：穆霍娃 vs 大坂直美",
+      "presenters": "李宁",
       "matchInfo": {
         "time": "06月27日19:00"
       },
@@ -1499,6 +1499,14 @@
         {
           "pID": "965446490",
           "name": "英文原声"
+        },
+        {
+          "pID": "965697002",
+          "name": "李宁"
+        },
+        {
+          "pID": "965696995",
+          "name": "清流播出"
         }
       ]
     },
@@ -1529,7 +1537,7 @@
     {
       "mgdbId": "120000580930",
       "pID": "965596231",
-      "title": "WTA250伊斯特本站 决赛",
+      "title": "玛丽亚 vs 凯斯",
       "keyword": "06月27日19:00",
       "sportItemId": "9",
       "matchStatus": "0",
@@ -1537,8 +1545,8 @@
       "competitionName": "WTA",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "玛丽亚 vs 凯斯",
-      "modifyTitle": "WTA250伊斯特本站 决赛",
+      "pkInfoTitle": "���丽亚 vs 凯斯",
+      "modifyTitle": "玛丽亚 vs 凯斯",
       "presenters": "刘钟鸣",
       "matchInfo": {
         "time": "06月27日19:00"
@@ -2066,7 +2074,7 @@
       "competitionName": "中乙",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000571974/202603120926_555290_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/3/19/1000000011571066d376.png",
-      "pkInfoTitle": "湖北青年星 vs 贵州贵���竞技",
+      "pkInfoTitle": "湖北青年星 vs 贵州贵阳竞技",
       "modifyTitle": "中乙联赛",
       "presenters": "",
       "matchInfo": {
