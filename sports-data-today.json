@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-06-27 00:04:38",
+  "updateTime": "2026-06-27 00:34:19",
   "data": [
     {
       "mgdbId": "120000580346",
@@ -319,7 +319,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "中国自行车运动协会系列赛",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/27/77FEVGSIES78.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/6/25/100000001499106b6db1.png",
       "pkInfoTitle": "中国自行车运动骑游大会湖系列·康平站",
       "modifyTitle": "中国自行车运动骑游大会湖系列·康平站",
@@ -403,7 +403,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "Hello100北京昌平自行车赛",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/27/77FEVIRF03A2.jpeg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/6/16/100000001490106f1086.png",
       "pkInfoTitle": "嘉年华开幕式",
       "modifyTitle": "嘉年华开幕式",
@@ -772,6 +772,7 @@
     },
     {
       "mgdbId": "120000571977",
+      "pID": "965696772",
       "title": "中乙联赛",
       "keyword": "06月27日16:00",
       "sportItemId": "1",
@@ -786,10 +787,16 @@
       "matchInfo": {
         "time": "06月27日16:00"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "965696772",
+          "name": "解说"
+        }
+      ]
     },
     {
       "mgdbId": "120000571978",
+      "pID": "965696768",
       "title": "中乙联赛",
       "keyword": "06月27日16:00",
       "sportItemId": "1",
@@ -804,10 +811,16 @@
       "matchInfo": {
         "time": "06月27日16:00"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "965696768",
+          "name": "解说"
+        }
+      ]
     },
     {
       "mgdbId": "120000571979",
+      "pID": "965696764",
       "title": "中乙联赛",
       "keyword": "06月27日16:00",
       "sportItemId": "1",
@@ -822,7 +835,12 @@
       "matchInfo": {
         "time": "06月27日16:00"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "965696764",
+          "name": "解说"
+        }
+      ]
     },
     {
       "mgdbId": "120000574669",
@@ -1271,7 +1289,7 @@
     {
       "mgdbId": "120000574500",
       "pID": "965623716",
-      "title": "���建省城市足球超级联赛",
+      "title": "福建省城市足球超级联赛",
       "keyword": "06月27日19:00",
       "sportItemId": "1",
       "matchStatus": "0",
@@ -1521,7 +1539,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
       "pkInfoTitle": "玛丽亚 vs 凯斯",
       "modifyTitle": "WTA250伊斯特本站 决赛",
-      "presenters": "",
+      "presenters": "刘钟鸣",
       "matchInfo": {
         "time": "06月27日19:00"
       },
@@ -1533,6 +1551,14 @@
         {
           "pID": "965596510",
           "name": "英文原声"
+        },
+        {
+          "pID": "965696849",
+          "name": "清流播出"
+        },
+        {
+          "pID": "965696851",
+          "name": "刘钟鸣"
         }
       ]
     },
@@ -2031,6 +2057,7 @@
     },
     {
       "mgdbId": "120000571974",
+      "pID": "965696799",
       "title": "中乙联赛",
       "keyword": "06月27日19:30",
       "sportItemId": "1",
@@ -2039,16 +2066,22 @@
       "competitionName": "中乙",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000571974/202603120926_555290_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/3/19/1000000011571066d376.png",
-      "pkInfoTitle": "湖北青年星 vs 贵州贵阳竞技",
+      "pkInfoTitle": "湖北青年星 vs 贵州贵���竞技",
       "modifyTitle": "中乙联赛",
       "presenters": "",
       "matchInfo": {
         "time": "06月27日19:30"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "965696799",
+          "name": "解说"
+        }
+      ]
     },
     {
       "mgdbId": "120000571975",
+      "pID": "965696778",
       "title": "中乙联赛",
       "keyword": "06月27日19:30",
       "sportItemId": "1",
@@ -2063,10 +2096,16 @@
       "matchInfo": {
         "time": "06月27日19:30"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "965696778",
+          "name": "解说"
+        }
+      ]
     },
     {
       "mgdbId": "120000571976",
+      "pID": "965696777",
       "title": "中乙联赛",
       "keyword": "06月27日19:30",
       "sportItemId": "1",
@@ -2081,7 +2120,12 @@
       "matchInfo": {
         "time": "06月27日19:30"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "965696777",
+          "name": "解说"
+        }
+      ]
     },
     {
       "mgdbId": "120000574626",
