@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-06-26 14:01:25",
+  "updateTime": "2026-06-26 14:31:39",
   "data": [
     {
       "mgdbId": "120000580763",
@@ -63,6 +63,10 @@
         {
           "pID": "965684353",
           "name": "2026BWF美国羽毛球公开赛女双1/8决赛回放：许尹鏸/林芝昀2-0西安·凯利/托尔曼"
+        },
+        {
+          "pID": "965685972",
+          "name": "2026BWF美国羽毛球公开赛Day3二号场地全场回放（赛场原声）（二）"
         }
       ]
     },
@@ -392,7 +396,7 @@
       "title": "女子组半决赛 阳明高中 vs 雅礼中学",
       "keyword": "06月26日12:10",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA未来之星高中邀请赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/26/77FE1D8AE1V6.jpg",
@@ -551,6 +555,30 @@
         {
           "pID": "965293148",
           "name": "清流播出"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000580912",
+      "pID": "965594890",
+      "title": "NBA精彩重播：2026西决 雷霆vs马刺 G4",
+      "keyword": "06月26日18:00",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "NBA经典赛事",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png",
+      "pkInfoTitle": "NBA精彩重播：2026西决 雷霆vs马刺 G4",
+      "modifyTitle": "NBA经典赛事",
+      "presenters": "杨健 周琦 刘晓宇",
+      "matchInfo": {
+        "time": "06月26日18:00"
+      },
+      "nodes": [
+        {
+          "pID": "965594890",
+          "name": "杨健 周琦 刘晓宇"
         }
       ]
     },
@@ -898,6 +926,7 @@
     },
     {
       "mgdbId": "120000581270",
+      "pID": "965680675",
       "title": "中国队vs阿根廷队",
       "keyword": "06月26日22:30",
       "sportItemId": "3",
@@ -912,7 +941,12 @@
       "matchInfo": {
         "time": "06月26日22:30"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "965680675",
+          "name": "CCTV5+"
+        }
+      ]
     }
   ]
 }
