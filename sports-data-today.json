@@ -1,11 +1,11 @@
 {
   "success": true,
-  "updateTime": "2026-06-27 02:33:14",
+  "updateTime": "2026-06-27 03:24:42",
   "data": [
     {
       "mgdbId": "120000580346",
       "pID": "965629197",
-      "title": "薛飞冲开门红 林兆恒迎战库马尔",
+      "title": "薛飞横扫喜提开门红 林兆恒迎战库马尔",
       "keyword": "06月27日01:00",
       "sportItemId": "7",
       "matchStatus": "1",
@@ -13,17 +13,13 @@
       "competitionName": "WTT",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/27/77FESLT19BJA.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "薛飞冲开门红 林兆恒迎战库马尔",
+      "pkInfoTitle": "薛飞横扫喜提开门红 林兆恒迎战库马尔",
       "modifyTitle": "WTT美国大满贯男女单打资格赛第一轮",
       "presenters": "肖扬 刘馨蕊",
       "matchInfo": {
         "time": "06月27日01:00"
       },
       "nodes": [
-        {
-          "pID": "965628801",
-          "name": "4号桌"
-        },
         {
           "pID": "965629197",
           "name": "肖扬"
@@ -37,6 +33,10 @@
           "name": "3号桌"
         },
         {
+          "pID": "965628801",
+          "name": "4号桌"
+        },
+        {
           "pID": "965629481",
           "name": "刘馨蕊"
         }
@@ -45,15 +45,15 @@
     {
       "mgdbId": "120000581130",
       "pID": "965635713",
-      "title": "祝好签！王楚钦、陈熠出席抽签仪式",
+      "title": "孙颖莎、石洵瑶同1/8半区 王楚钦首轮战周启豪",
       "keyword": "06月27日02:00",
       "sportItemId": "7",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "WTT",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/27/77FESECL3S57.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "祝好签！王楚钦、陈熠出席抽签仪式",
+      "pkInfoTitle": "孙颖莎、石洵瑶同1/8半区 王楚钦首轮战周启豪",
       "modifyTitle": "WTT美国大满贯抽签仪式",
       "presenters": "",
       "matchInfo": {
@@ -93,16 +93,12 @@
           "name": "李欣 孙继海 张国伟 李子琪"
         },
         {
-          "pID": "965574997",
-          "name": "挪威队视角"
-        },
-        {
-          "pID": "965574987",
-          "name": "法国队视角"
-        },
-        {
           "pID": "965575141",
           "name": "AI智慧观赛"
+        },
+        {
+          "pID": "965575326",
+          "name": "同看塞内加尔vs伊拉克"
         },
         {
           "pID": "965575069",
@@ -117,6 +113,14 @@
           "name": "新声代：刘一臻 盛斌"
         },
         {
+          "pID": "965574997",
+          "name": "挪威队视角"
+        },
+        {
+          "pID": "965574987",
+          "name": "法国队视角"
+        },
+        {
           "pID": "965575047",
           "name": "沪语：陈渤胄"
         },
@@ -125,8 +129,24 @@
           "name": "闽南语：洪荒"
         },
         {
+          "pID": "965271838",
+          "name": "CCTV5"
+        },
+        {
           "pID": "965575024",
           "name": "赛场原声"
+        },
+        {
+          "pID": "965574947",
+          "name": "假如你是其中一位边裁！"
+        },
+        {
+          "pID": "965574943",
+          "name": "假如你是另外一位边裁！"
+        },
+        {
+          "pID": "965658688",
+          "name": "开天眼了！"
         },
         {
           "pID": "965575244",
@@ -165,20 +185,16 @@
           "name": "涂远 李彦 魏欣怡"
         },
         {
-          "pID": "965575115",
-          "name": "同看挪威vs法国"
-        },
-        {
           "pID": "965575533",
           "name": "AI智慧观赛"
         },
         {
-          "pID": "965575343",
-          "name": "赛场原声"
+          "pID": "965575115",
+          "name": "同看挪威vs法国"
         },
         {
-          "pID": "965578943",
-          "name": "智能字幕"
+          "pID": "965575343",
+          "name": "赛场原声"
         },
         {
           "pID": "965575363",
@@ -187,6 +203,18 @@
         {
           "pID": "965575369",
           "name": "伊拉克队视角"
+        },
+        {
+          "pID": "965271862",
+          "name": "CCTV5+"
+        },
+        {
+          "pID": "965578943",
+          "name": "智能字幕"
+        },
+        {
+          "pID": "965575507",
+          "name": "开天眼了！"
         }
       ]
     },
@@ -1495,42 +1523,6 @@
       ]
     },
     {
-      "mgdbId": "120000580334",
-      "pID": "965446263",
-      "title": "WTA巴特洪堡站决赛;：穆霍娃 vs 大坂直美",
-      "keyword": "06月27日19:00",
-      "sportItemId": "9",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "WTA",
-      "padImg": "",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "穆霍娃 vs 大坂直美",
-      "modifyTitle": "WTA巴特洪堡站决赛;：穆霍娃 vs 大坂直美",
-      "presenters": "李宁",
-      "matchInfo": {
-        "time": "06月27日19:00"
-      },
-      "nodes": [
-        {
-          "pID": "965446263",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "965446490",
-          "name": "英文原声"
-        },
-        {
-          "pID": "965697002",
-          "name": "李宁"
-        },
-        {
-          "pID": "965696995",
-          "name": "清流播出"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000580796",
       "pID": "965577645",
       "title": "内蒙古足球超级联赛",
@@ -1563,7 +1555,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "WTA",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/27/77FESOAUH2JH.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
       "pkInfoTitle": "玛丽亚 vs 凯斯",
       "modifyTitle": "WTA伊斯特本站决赛：玛丽亚 vs 凯斯",
@@ -1573,20 +1565,16 @@
       },
       "nodes": [
         {
+          "pID": "965696851",
+          "name": "刘钟鸣"
+        },
+        {
           "pID": "965596231",
           "name": "赛场原声"
         },
         {
           "pID": "965596510",
           "name": "英文原声"
-        },
-        {
-          "pID": "965696849",
-          "name": "清流播出"
-        },
-        {
-          "pID": "965696851",
-          "name": "刘钟鸣"
         }
       ]
     },
@@ -1863,7 +1851,7 @@
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000577677/202605201015_522313_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/14/100000001434106e5143.png",
       "pkInfoTitle": "宜昌东阳光vs黄冈祥云",
-      "modifyTitle": "湖北省城市足球联赛",
+      "modifyTitle": "湖北省城市足球��赛",
       "presenters": "",
       "matchInfo": {
         "time": "06月27日19:25"
@@ -2452,6 +2440,38 @@
         {
           "pID": "965444724",
           "name": "2026赛季广西城市篮球联赛第一轮: 梧州市VS柳州市"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000580334",
+      "pID": "965446263",
+      "title": "WTA巴特洪堡站决赛：穆霍娃 vs 大坂直美",
+      "keyword": "06月27日19:30",
+      "sportItemId": "9",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "WTA",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/27/77FESOGHMR37.png",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
+      "pkInfoTitle": "穆霍娃 vs 大坂直美",
+      "modifyTitle": "WTA巴特洪堡站决赛：穆霍娃 vs 大坂直美",
+      "presenters": "李宁",
+      "matchInfo": {
+        "time": "06月27日19:30"
+      },
+      "nodes": [
+        {
+          "pID": "965697002",
+          "name": "李宁"
+        },
+        {
+          "pID": "965446263",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "965446490",
+          "name": "英文原声"
         }
       ]
     },
