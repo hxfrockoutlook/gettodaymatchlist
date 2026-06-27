@@ -1,11 +1,11 @@
 {
   "success": true,
-  "updateTime": "2026-06-28 04:32:27",
+  "updateTime": "2026-06-28 05:02:32",
   "data": [
     {
       "mgdbId": "120000580348",
       "pID": "965629534",
-      "title": "薛飞五局力克对手 玛纳什·沙亮相",
+      "title": "薛飞五局力克对手 玛纳什·沙止步",
       "keyword": "06月28日01:00",
       "sportItemId": "7",
       "matchStatus": "1",
@@ -13,7 +13,7 @@
       "competitionName": "WTT",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/28/77FFQAIMN9LR.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "薛飞五局力克对手 玛纳什·沙亮相",
+      "pkInfoTitle": "薛飞五局力克对手 玛纳什·沙止步",
       "modifyTitle": "WTT美国大满贯男女单打资格赛第二轮",
       "presenters": "肖扬",
       "matchInfo": {
@@ -23,10 +23,6 @@
         {
           "pID": "965629534",
           "name": "肖扬"
-        },
-        {
-          "pID": "965623501",
-          "name": "2号桌"
         },
         {
           "pID": "965628563",
@@ -55,6 +51,10 @@
         {
           "pID": "965743056",
           "name": "全场集锦"
+        },
+        {
+          "pID": "965744045",
+          "name": "全场回放"
         }
       ]
     },
@@ -84,14 +84,14 @@
     },
     {
       "mgdbId": "120000580765",
-      "pID": "965727930",
+      "pID": "965727900",
       "title": "吴轩毅/杨筑云率先晋级 苏力扬领衔出战",
       "keyword": "06月28日03:00",
       "sportItemId": "6",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "BWF",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/28/77FFQ4AUFI1R.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/28/77FFQDQTTK10.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "吴轩毅/杨筑云率先晋级 苏力扬领衔出战",
       "modifyTitle": "美国羽毛球公开赛第五日：吴轩毅/杨筑云率先晋级 苏力扬领衔出战",
@@ -101,8 +101,8 @@
       },
       "nodes": [
         {
-          "pID": "965727930",
-          "name": "西哈格VS莱恩"
+          "pID": "965727900",
+          "name": "贾士贤/盖骆VS刘广珩/许尹鏸"
         },
         {
           "pID": "965571234",
@@ -165,16 +165,12 @@
           "name": "鲁靖明 赵鹏 王多多 魏欣怡"
         },
         {
+          "pID": "965575833",
+          "name": "AI智慧观赛"
+        },
+        {
           "pID": "965574978",
           "name": "同看巴拿马vs英格兰"
-        },
-        {
-          "pID": "965575666",
-          "name": "克罗地亚队视角"
-        },
-        {
-          "pID": "965575680",
-          "name": "加纳队视角"
         },
         {
           "pID": "965575595",
@@ -185,6 +181,18 @@
           "name": "新声代：张天翼 洪宇青"
         },
         {
+          "pID": "965575666",
+          "name": "克罗地亚队视角"
+        },
+        {
+          "pID": "965575680",
+          "name": "加纳队视角"
+        },
+        {
+          "pID": "965271862",
+          "name": "CCTV5+"
+        },
+        {
           "pID": "965575572",
           "name": "赛场原声"
         },
@@ -193,8 +201,8 @@
           "name": "智能字幕"
         },
         {
-          "pID": "965575833",
-          "name": "AI智慧观赛"
+          "pID": "965575783",
+          "name": "开天眼了！"
         }
       ]
     },
@@ -221,14 +229,6 @@
           "name": "苏东 李欣 冯潇霆 程思钦"
         },
         {
-          "pID": "965575175",
-          "name": "英格兰队视角"
-        },
-        {
-          "pID": "965575163",
-          "name": "巴拿马队视角"
-        },
-        {
           "pID": "965575365",
           "name": "AI智慧观赛"
         },
@@ -249,12 +249,32 @@
           "name": "新声代：张昊泽 涂远"
         },
         {
-          "pID": "965271838",
-          "name": "CCTV5"
+          "pID": "965575175",
+          "name": "英格兰队视角"
+        },
+        {
+          "pID": "965575163",
+          "name": "巴拿马队视角"
         },
         {
           "pID": "965574954",
           "name": "赛场原声"
+        },
+        {
+          "pID": "965575267",
+          "name": "看看边裁在看什么"
+        },
+        {
+          "pID": "965575280",
+          "name": "最高的看台最棒的视角"
+        },
+        {
+          "pID": "965658716",
+          "name": "开天眼了！"
+        },
+        {
+          "pID": "965271838",
+          "name": "CCTV5"
         },
         {
           "pID": "965575338",
@@ -268,7 +288,7 @@
       "title": "BIG3",
       "keyword": "06月28日05:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "BIG3",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/26/77FE28R39H9E.png",
@@ -682,15 +702,11 @@
         },
         {
           "pID": "965575617",
-          "name": "���场原声"
+          "name": "赛场原声"
         },
         {
           "pID": "965576240",
           "name": "智能字幕"
-        },
-        {
-          "pID": "965575617",
-          "name": "赛场原声"
         }
       ]
     },
@@ -2021,7 +2037,7 @@
       "keyword": "06月28日20:00",
       "sportItemId": "1",
       "matchStatus": "0",
-      "matchField": "定南足球青少年训练中心��育场",
+      "matchField": "定南足球青少年训练中心体育��",
       "competitionName": "中甲",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000570652/202603010105_470391_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/10106c2211.png",
