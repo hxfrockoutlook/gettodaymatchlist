@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-06-27 09:33:25",
+  "updateTime": "2026-06-27 10:03:53",
   "data": [
     {
       "mgdbId": "120000580346",
@@ -25,16 +25,16 @@
           "name": "全场回放（肖扬）"
         },
         {
+          "pID": "965706633",
+          "name": "全场回放（三号桌）"
+        },
+        {
           "pID": "965704003",
           "name": "全场回放（四号桌）（一）"
         },
         {
           "pID": "965704914",
           "name": "全场回放（四号桌）（二）"
-        },
-        {
-          "pID": "965706633",
-          "name": "2026WTT美国大满贯Day1夜间场三号桌全场回放（赛场原声）（一）"
         }
       ]
     },
@@ -172,7 +172,7 @@
     },
     {
       "mgdbId": "120000580764",
-      "pID": "965695751",
+      "pID": "965695747",
       "title": "贾士贤/盖骆率先晋级 本·莱恩/文迪压场",
       "keyword": "06月27日06:00",
       "sportItemId": "6",
@@ -189,8 +189,8 @@
       },
       "nodes": [
         {
-          "pID": "965695751",
-          "name": "浮士德/克亚尔VS赖柏佑/蔡富丞"
+          "pID": "965695747",
+          "name": "林芷均/杨筑云VS林瑞蓉/李欣梅"
         },
         {
           "pID": "965578737",
@@ -404,7 +404,7 @@
       "title": "嘉年华开幕式",
       "keyword": "06月27日10:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "Hello100北京昌平自行车赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/27/77FEVIRF03A2.jpeg",
@@ -418,30 +418,6 @@
       "nodes": [
         {
           "pID": "965417302",
-          "name": "解说"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000581091",
-      "pID": "965621495",
-      "title": "中国自行车运动骑游大会湖系列·康平站",
-      "keyword": "06月27日10:00",
-      "sportItemId": "8",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "中国自行车运动协会系列赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/27/77FEVGSIES78.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/6/25/100000001499106b6db1.png",
-      "pkInfoTitle": "中国自行车运动骑游大会湖系列·康平站",
-      "modifyTitle": "中国自行车运动骑游大会湖系列·康平站",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月27日10:00"
-      },
-      "nodes": [
-        {
-          "pID": "965621495",
           "name": "解说"
         }
       ]
@@ -492,7 +468,7 @@
       "title": "世界杯小组赛",
       "keyword": "06月27日11:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "不列颠哥伦比亚球场",
       "competitionName": "世界杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/26/77FDV7JP3VS6.jpg",
@@ -535,6 +511,30 @@
         {
           "pID": "965576157",
           "name": "智能字幕"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000581091",
+      "pID": "965621495",
+      "title": "中国自行车运动骑游大会湖系列·康平站",
+      "keyword": "06月27日12:00",
+      "sportItemId": "8",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "中国自行车运动协会系列赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/27/77FEVGSIES78.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/6/25/100000001499106b6db1.png",
+      "pkInfoTitle": "中国自行车运动骑游大会湖系列·康平站",
+      "modifyTitle": "中国自行车运动骑游大会湖系列·康平站",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月27日12:00"
+      },
+      "nodes": [
+        {
+          "pID": "965621495",
+          "name": "解说"
         }
       ]
     },
@@ -786,7 +786,7 @@
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/26/77FE0F89L8E7.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/12/24/10000000139310695eb8.png",
       "pkInfoTitle": "山西竹叶青酒vs新疆天山",
-      "modifyTitle": "全国青年篮球联赛女子组决赛",
+      "modifyTitle": "全国青年篮球��赛女子组决赛",
       "presenters": "",
       "matchInfo": {
         "time": "06月27日15:30"
@@ -987,6 +987,38 @@
         {
           "pID": "965656849",
           "name": "2026赛季贵州村超联赛第九轮: 车江二村VS富民村"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000580334",
+      "pID": "965446263",
+      "title": "WTA巴特洪堡站决赛：穆霍娃 vs 大坂直美",
+      "keyword": "06月27日17:00",
+      "sportItemId": "9",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "WTA",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/27/77FESOGHMR37.png",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
+      "pkInfoTitle": "穆霍娃 vs 大坂直美",
+      "modifyTitle": "WTA巴特洪堡站决赛：穆霍娃 vs 大坂直美",
+      "presenters": "李宁",
+      "matchInfo": {
+        "time": "06月27日17:00"
+      },
+      "nodes": [
+        {
+          "pID": "965697002",
+          "name": "李宁"
+        },
+        {
+          "pID": "965446263",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "965446490",
+          "name": "英文原声"
         }
       ]
     },
@@ -2338,7 +2370,7 @@
       "competitionName": "桂BA",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000580260/202606162120_864384_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/6/16/10000000149110630d4b.png",
-      "pkInfoTitle": "钦州市VS���林市",
+      "pkInfoTitle": "钦州市VS玉林市",
       "modifyTitle": "广西城市篮球联赛",
       "presenters": "",
       "matchInfo": {
@@ -2420,38 +2452,6 @@
         {
           "pID": "965444724",
           "name": "2026赛季广西城市篮球联赛第一轮: 梧州市VS柳州市"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000580334",
-      "pID": "965446263",
-      "title": "WTA巴特洪堡站决赛：穆霍娃 vs 大坂直美",
-      "keyword": "06月27日19:30",
-      "sportItemId": "9",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "WTA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/27/77FESOGHMR37.png",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "穆霍娃 vs 大坂直美",
-      "modifyTitle": "WTA巴特洪堡站决赛：穆霍娃 vs 大坂直美",
-      "presenters": "李宁",
-      "matchInfo": {
-        "time": "06月27日19:30"
-      },
-      "nodes": [
-        {
-          "pID": "965697002",
-          "name": "李宁"
-        },
-        {
-          "pID": "965446263",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "965446490",
-          "name": "英文原声"
         }
       ]
     },
