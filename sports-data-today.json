@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-06-27 16:04:02",
+  "updateTime": "2026-06-27 16:33:57",
   "data": [
     {
       "mgdbId": "120000580346",
@@ -381,6 +381,10 @@
       },
       "nodes": [
         {
+          "pID": "965709618",
+          "name": "2026WTT美国大满贯Day1男单资格赛第2轮集锦：约翰·奥耶博德0-3黄友政"
+        },
+        {
           "pID": "965716841",
           "name": "全场回放（凌维康）"
         },
@@ -569,8 +573,8 @@
       },
       "nodes": [
         {
-          "pID": "965293182",
-          "name": "清流播出"
+          "pID": "965721143",
+          "name": "2026全国U21青年篮球锦标赛全场回放：江西赣星vs河北英励（赛场原声）"
         }
       ]
     },
@@ -594,7 +598,15 @@
       "nodes": [
         {
           "pID": "965720497",
-          "name": "上海乒乓球嘉年华市级循环赛第11轮回放：茸城乒将2-8虹口邮储银行（朱子恒）"
+          "name": "全场回放（朱子恒）"
+        },
+        {
+          "pID": "965721623",
+          "name": "全场回放"
+        },
+        {
+          "pID": "965720447",
+          "name": "【集锦】茸城乒将2-8虹口邮储银行"
         }
       ]
     },
@@ -617,12 +629,8 @@
       },
       "nodes": [
         {
-          "pID": "965624570",
-          "name": "崇明乘风破浪队vs宝山国投私募基金"
-        },
-        {
-          "pID": "964866394",
-          "name": "崇明乘风破浪队vs宝山国投私募基金"
+          "pID": "965721386",
+          "name": "全场回放（林睿思）"
         }
       ]
     },
@@ -647,6 +655,10 @@
         {
           "pID": "965720294",
           "name": "全场回放（张铭哲）"
+        },
+        {
+          "pID": "965721569",
+          "name": "全场回放"
         }
       ]
     },
@@ -671,6 +683,10 @@
         {
           "pID": "965720541",
           "name": "全场回放（石楚阳）"
+        },
+        {
+          "pID": "965721720",
+          "name": "全场回放"
         }
       ]
     },
@@ -704,7 +720,7 @@
       "title": "贵州村超联赛",
       "keyword": "06月27日14:30",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "贵州村超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000581193/202606251413_883346_H169_1080.webp",
@@ -855,7 +871,7 @@
       "matchStatus": "1",
       "matchField": "大连足球青训基地体育场",
       "competitionName": "中乙",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000571978/202606271628_801881_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/3/19/1000000011571066d376.png",
       "pkInfoTitle": "大连可为 vs 上海海港B队",
       "modifyTitle": "中乙联赛",
@@ -1020,7 +1036,7 @@
       "title": "贵州村超联赛",
       "keyword": "06月27日16:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "贵州村超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000581194/202606251416_742158_H169_1080.webp",
@@ -1263,6 +1279,30 @@
         {
           "pID": "965623687",
           "name": "2026赛季福建省城市足球超级联赛第九轮: 泉州vs宁德"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000580914",
+      "pID": "965594903",
+      "title": "NBA精彩重播：2026西决 马刺vs雷霆 G5",
+      "keyword": "06月27日18:00",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "NBA经典赛事",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png",
+      "pkInfoTitle": "NBA精彩重播：2026西决 马刺vs雷霆 G5",
+      "modifyTitle": "NBA经典赛事",
+      "presenters": "庄宁宇 刘家成 张兆旭",
+      "matchInfo": {
+        "time": "06月27日18:00"
+      },
+      "nodes": [
+        {
+          "pID": "965594903",
+          "name": "庄宁宇 刘家成 张兆旭"
         }
       ]
     },
