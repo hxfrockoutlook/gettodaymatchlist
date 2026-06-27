@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-06-27 14:34:07",
+  "updateTime": "2026-06-27 15:03:44",
   "data": [
     {
       "mgdbId": "120000580346",
@@ -251,6 +251,10 @@
         {
           "pID": "965715870",
           "name": "2026BWF美国羽毛球公开赛Day4一号场地全场回放（赛场原声）（一）"
+        },
+        {
+          "pID": "965718675",
+          "name": "2026BWF美国羽毛球公开赛Day4三号场地全场回放（赛场原声）（二）"
         }
       ]
     },
@@ -373,16 +377,16 @@
           "name": "全场回放（凌维康）"
         },
         {
-          "pID": "965717044",
-          "name": "全场回放（四号桌）"
+          "pID": "965717624",
+          "name": "全场回放（二号桌）"
         },
         {
           "pID": "965717270",
           "name": "全场回放（三号桌）"
         },
         {
-          "pID": "965717624",
-          "name": "全场回放（二号桌）"
+          "pID": "965717044",
+          "name": "全场回放（四号桌）"
         }
       ]
     },
@@ -437,6 +441,10 @@
           "name": "纯享版回放（鲁靖明、马延峰、姚安妮）"
         },
         {
+          "pID": "965717816",
+          "name": "全场回放（鲁靖明、马延峰、姚安妮）"
+        },
+        {
           "pID": "965715749",
           "name": "全场回放（夏景俊、陆毅隽）"
         },
@@ -447,10 +455,6 @@
         {
           "pID": "965716316",
           "name": "全场回放（AI智慧观赛）"
-        },
-        {
-          "pID": "965717816",
-          "name": "全场回放（鲁靖明、马延峰、姚安妮）"
         }
       ]
     },
@@ -533,32 +537,8 @@
       },
       "nodes": [
         {
-          "pID": "965621495",
-          "name": "解说"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000581226",
-      "pID": "965667446",
-      "title": "全国男子冰球锦标赛day1",
-      "keyword": "06月27日12:30",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "全国男子冰球锦标赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/26/77FE285DVEC2.webp",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/6/25/10000000150110606419.png",
-      "pkInfoTitle": "全国男子冰球锦标赛day1",
-      "modifyTitle": "全国男子冰球锦标赛day1",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月27日12:30"
-      },
-      "nodes": [
-        {
-          "pID": "965667446",
-          "name": "解说"
+          "pID": "965718190",
+          "name": "2026中国自行车运动骑游大会湖系列·康平站全场回放（官方解说）"
         }
       ]
     },
@@ -651,7 +631,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "乒乓球嘉年华",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/25/77FD4OF3THD0.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/27/77FESNP2VU5S.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/9/100000001435106852ee.png",
       "pkInfoTitle": "上善青浦队 vs 奉贤经发",
       "modifyTitle": "上海乒乓球嘉年华市级循环赛第十一轮：上善青浦队 vs 奉贤经发",
@@ -752,7 +732,7 @@
       "title": "丽江队VS曲靖队",
       "keyword": "06月27日15:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "滇超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000581201/202606251510_820261_H169_1080.webp",
@@ -776,7 +756,7 @@
       "title": "女子成年组、青年组单项决赛1",
       "keyword": "06月27日15:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "亚洲体操锦标赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/27/77FEUVPF89ML.jpg",
@@ -1011,6 +991,30 @@
         {
           "pID": "965624625",
           "name": "2026赛季山东省齐鲁足球超级联赛第七轮: 德州古贝春VS威海文旅集团队"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000581226",
+      "pID": "965667446",
+      "title": "全国男子冰球锦标赛day1",
+      "keyword": "06月27日16:00",
+      "sportItemId": "8",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "全国男子冰球锦标赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/26/77FE285DVEC2.webp",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/6/25/10000000150110606419.png",
+      "pkInfoTitle": "全国男子冰球锦标赛day1",
+      "modifyTitle": "全国男子冰球锦标赛day1",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月27日16:00"
+      },
+      "nodes": [
+        {
+          "pID": "965667446",
+          "name": "解说"
         }
       ]
     },
@@ -2387,7 +2391,7 @@
       "mgdbId": "120000580259",
       "pID": "965444578",
       "title": "广西城市篮球联赛",
-      "keyword": "06月27日19:30",
+      "keyword": "06��27日19:30",
       "sportItemId": "2",
       "matchStatus": "0",
       "matchField": "",
@@ -2398,7 +2402,7 @@
       "modifyTitle": "广西城市篮球联赛",
       "presenters": "",
       "matchInfo": {
-        "time": "06月27日19:30"
+        "time": "06��27日19:30"
       },
       "nodes": [
         {
@@ -2635,7 +2639,7 @@
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000581099/202606241106_823105_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/16/10000000144410687370.png",
       "pkInfoTitle": "青岛平企联青春VS菏泽队",
-      "modifyTitle": "山东省齐鲁足球超级联赛",
+      "modifyTitle": "山东省齐鲁足球超��联赛",
       "presenters": "",
       "matchInfo": {
         "time": "06月27日19:30"
