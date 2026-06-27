@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-06-27 19:04:16",
+  "updateTime": "2026-06-27 19:34:09",
   "data": [
     {
       "mgdbId": "120000580346",
@@ -756,7 +756,7 @@
     },
     {
       "mgdbId": "120000581201",
-      "pID": "965657382",
+      "pID": "965724889",
       "title": "丽江队VS曲靖队",
       "keyword": "06月27日15:00",
       "sportItemId": "1",
@@ -822,6 +822,10 @@
       "nodes": [
         {
           "pID": "965725284",
+          "name": "全场回放"
+        },
+        {
+          "pID": "965725530",
           "name": "全场回放"
         }
       ]
@@ -893,8 +897,8 @@
       },
       "nodes": [
         {
-          "pID": "965696768",
-          "name": "解说"
+          "pID": "965726443",
+          "name": "全场回放"
         }
       ]
     },
@@ -917,8 +921,8 @@
       },
       "nodes": [
         {
-          "pID": "965696764",
-          "name": "解说"
+          "pID": "965726430",
+          "name": "全场回放"
         }
       ]
     },
@@ -941,8 +945,8 @@
       },
       "nodes": [
         {
-          "pID": "964216661",
-          "name": "2026广东省城市足球超级联赛第八轮（东区）: 潮州VS韶关（普通话+潮汕话）"
+          "pID": "965726473",
+          "name": "全场回放"
         }
       ]
     },
@@ -989,8 +993,8 @@
       },
       "nodes": [
         {
-          "pID": "965577565",
-          "name": "2026赛季内蒙古足球超级联赛第七轮: 呼伦贝尔队vs乌海队"
+          "pID": "965726664",
+          "name": "全场回放"
         }
       ]
     },
@@ -1087,6 +1091,14 @@
         {
           "pID": "965724847",
           "name": "全场回放（李宁）"
+        },
+        {
+          "pID": "965725696",
+          "name": "全场回放（赛场原声）"
+        },
+        {
+          "pID": "965726121",
+          "name": "全场回放"
         }
       ]
     },
@@ -1096,7 +1108,7 @@
       "title": "内蒙古足球超级联赛",
       "keyword": "06月27日17:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "蒙超联赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000580794/202606221455_624053_H169_1080.webp",
@@ -1116,11 +1128,11 @@
     },
     {
       "mgdbId": "120000580941",
-      "pID": "965602162",
+      "pID": "965684001",
       "title": "国际篮联U17男篮世界杯小组赛",
       "keyword": "06月27日17:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "BDC Main Venue",
       "competitionName": "U17男篮世界杯",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000580941/202606241411_850914_H169_1080.webp",
@@ -1133,6 +1145,10 @@
       },
       "nodes": [
         {
+          "pID": "965684001",
+          "name": "目标冲击八强！中国U17男篮展望U17世界杯：上下一心团结无私"
+        },
+        {
           "pID": "965602162",
           "name": "赛场原声"
         }
@@ -1140,14 +1156,14 @@
     },
     {
       "mgdbId": "120000580942",
-      "pID": "965602064",
+      "pID": "965724364",
       "title": "国际篮联U17男篮世界杯小组赛",
       "keyword": "06月27日17:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "BDC National Teams Venue",
       "competitionName": "U17男篮世界杯",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/26/77FDVTS1DNGB.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/27/77FEU4EN42HU.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/6/23/100000001494106794d9.png",
       "pkInfoTitle": "喀麦隆vs中国",
       "modifyTitle": "国际篮联U17男篮世界杯小组赛",
@@ -1157,12 +1173,16 @@
       },
       "nodes": [
         {
-          "pID": "965602064",
-          "name": "石楷文"
+          "pID": "965724287",
+          "name": "第一节"
         },
         {
-          "pID": "965602544",
-          "name": "赛场原声"
+          "pID": "965724766",
+          "name": "第二节"
+        },
+        {
+          "pID": "965725521",
+          "name": "第三节"
         }
       ]
     },
@@ -1877,7 +1897,7 @@
       "title": "湖北省城市足球联赛",
       "keyword": "06月27日19:25",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "楚超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000577669/202605201010_253813_H169_1080.webp",
@@ -1901,7 +1921,7 @@
       "title": "湖北省城市足球联赛",
       "keyword": "06月27日19:25",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "楚超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000577672/202605201010_109385_H169_1080.webp",
@@ -1925,7 +1945,7 @@
       "title": "湖北省城市足球联赛",
       "keyword": "06月27日19:25",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "楚超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000577673/202605201015_232862_H169_1080.webp",
@@ -1949,7 +1969,7 @@
       "title": "湖北省城市足球联赛",
       "keyword": "06月27日19:25",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "楚超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000577677/202605201015_522313_H169_1080.webp",
@@ -1973,7 +1993,7 @@
       "title": "湖北省城市足球联赛",
       "keyword": "06月27日19:25",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "楚超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000577680/202605201015_141394_H169_1080.webp",
@@ -1997,7 +2017,7 @@
       "title": "湖北省城市足球联赛",
       "keyword": "06月27日19:25",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "楚超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000577681/202605201020_729777_H169_1080.webp",
@@ -2021,7 +2041,7 @@
       "title": "湖北省城市足球联赛",
       "keyword": "06月27日19:25",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "楚超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000577682/202605201020_875431_H169_1080.webp",
@@ -2045,7 +2065,7 @@
       "title": "湖北省城市足球联赛",
       "keyword": "06月27日19:25",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "楚超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000577689/202605201025_249147_H169_1080.webp",
@@ -2069,7 +2089,7 @@
       "title": "中甲联赛",
       "keyword": "06月27日19:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "越秀山体育场",
       "competitionName": "中甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000570654/613987_H169_sc.jpg",
@@ -2097,7 +2117,7 @@
       "title": "中甲联赛",
       "keyword": "06月27日19:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "裕彤国际体育中心",
       "competitionName": "中甲",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000570655/202603010106_168184_H169_1080.webp",
@@ -2125,7 +2145,7 @@
       "title": "中甲联赛",
       "keyword": "06月27日19:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "如皋奥体中心体育场",
       "competitionName": "中甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000570656/203105_H169_sc.jpg",
@@ -2153,7 +2173,7 @@
       "title": "中甲联赛",
       "keyword": "06月27日19:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "南海体育中心体育场",
       "competitionName": "中甲",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000570657/202603010106_679158_H169_1080.webp",
@@ -2181,7 +2201,7 @@
       "title": "中乙联赛",
       "keyword": "06月27日19:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "湖北足管中心训练基地中心球场",
       "competitionName": "中乙",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000571974/202603120926_555290_H169_1080.webp",
@@ -2205,7 +2225,7 @@
       "title": "中乙联赛",
       "keyword": "06月27日19:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "兰州奥体中心玫瑰场",
       "competitionName": "中乙",
       "padImg": "",
@@ -2229,7 +2249,7 @@
       "title": "中乙联赛",
       "keyword": "06月27日19:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "广东省人民体育场",
       "competitionName": "中乙",
       "padImg": "",
@@ -2253,7 +2273,7 @@
       "title": "广东省城市足球超级联赛",
       "keyword": "06月27日19:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "粤超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000574626/202604160950_304272_H169_1080.webp",
@@ -2281,7 +2301,7 @@
       "title": "广东省城市足球超级联赛",
       "keyword": "06月27日19:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "粤超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000574666/202604161005_881240_H169_1080.webp",
@@ -2309,7 +2329,7 @@
       "title": "广东省城市足球超级联赛",
       "keyword": "06月27日19:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "粤超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000574667/202604161005_210488_H169_1080.webp",
@@ -2337,7 +2357,7 @@
       "title": "广东省城市足球超级联赛",
       "keyword": "06月27日19:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "粤超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000574668/202604161006_953905_H169_1080.webp",
@@ -2361,7 +2381,7 @@
       "title": "江西省城市足球超级联赛",
       "keyword": "06月27日19:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "赣超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000578638/202605271105_305388_H169_1080.webp",
@@ -2385,7 +2405,7 @@
       "title": "江西省城市足球超级联赛",
       "keyword": "06月27日19:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "赣超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000578639/202605271110_117896_H169_1080.webp",
@@ -2409,7 +2429,7 @@
       "title": "江西省城市足球超级联赛",
       "keyword": "06月27日19:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "赣超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000580146/202606151616_437761_H169_1080.webp",
@@ -2433,7 +2453,7 @@
       "title": "广西城市篮球联赛",
       "keyword": "06月27日19:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "桂BA",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000580259/202606162120_614905_H169_1080.webp",
@@ -2457,7 +2477,7 @@
       "title": "广西城市篮球联赛",
       "keyword": "06月27日19:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "桂BA",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000580260/202606162120_864384_H169_1080.webp",
@@ -2481,7 +2501,7 @@
       "title": "广西城市篮球联赛",
       "keyword": "06月27日19:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "桂BA",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000580262/202606162120_983063_H169_1080.webp",
@@ -2505,7 +2525,7 @@
       "title": "广西城市篮球联赛",
       "keyword": "06月27日19:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "桂BA",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000580263/202606162125_548302_H169_1080.webp",
@@ -2529,7 +2549,7 @@
       "title": "广西城市篮球联赛",
       "keyword": "06月27日19:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "桂BA",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000580264/202606162125_461856_H169_1080.webp",
@@ -2553,7 +2573,7 @@
       "title": "广东省城市篮球联赛",
       "keyword": "06月27日19:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "粤BA",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000580338/202606171035_192127_H169_1080.webp",
@@ -2577,7 +2597,7 @@
       "title": "广东省城市篮球联赛",
       "keyword": "06月27日19:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "粤BA",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000580339/202606171040_177595_H169_1080.webp",
@@ -2601,7 +2621,7 @@
       "title": "广东省城市篮球联赛",
       "keyword": "06月27日19:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "粤BA",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000580340/202606171040_602094_H169_1080.webp",
@@ -2625,7 +2645,7 @@
       "title": "广东省城市篮球联赛",
       "keyword": "06月27日19:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "粤BA",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000580341/202606171040_959229_H169_1080.webp",
@@ -2649,7 +2669,7 @@
       "title": "内蒙古足球超级联赛",
       "keyword": "06月27日19:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "蒙超联赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000580797/202606221516_788274_H169_1080.webp",
@@ -2673,7 +2693,7 @@
       "title": "山东省齐鲁足球超级联赛",
       "keyword": "06月27日19:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "齐鲁超赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000581099/202606241106_823105_H169_1080.webp",
@@ -2697,7 +2717,7 @@
       "title": "山东省齐鲁足球超级联赛",
       "keyword": "06月27日19:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "齐鲁超赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000581100/202606241053_650397_H169_1080.webp",
@@ -2721,7 +2741,7 @@
       "title": "余姚VS北仑",
       "keyword": "06月27日19:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "浙BA",
       "padImg": "",
@@ -2745,7 +2765,7 @@
       "title": "椒江VS黄岩",
       "keyword": "06月27日19:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "浙BA",
       "padImg": "",
@@ -2769,7 +2789,7 @@
       "title": "海宁VS海盐",
       "keyword": "06月27日19:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "浙BA",
       "padImg": "",
@@ -2821,7 +2841,7 @@
       "title": "中超联赛",
       "keyword": "06月27日19:35",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "郑州航海体育场",
       "competitionName": "中超",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/23/77FB8HRDVV41.jpg",
@@ -2993,7 +3013,7 @@
       "title": "苏超常规赛第11周",
       "keyword": "06月27日19:40",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "苏超",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000579234/907306_H169_sc.jpg",
@@ -3017,7 +3037,7 @@
       "title": "苏超常规赛第11周",
       "keyword": "06月27日19:40",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "苏超",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000579235/212310_H169_sc.jpg",
@@ -3041,7 +3061,7 @@
       "title": "苏超常规赛第11周",
       "keyword": "06月27日19:40",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "苏超",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000579236/236406_H169_sc.jpg",
@@ -3070,7 +3090,7 @@
       "competitionName": "U17男篮世界杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/26/77FE038BAOPA.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/6/23/100000001494106794d9.png",
-      "pkInfoTitle": "澳大利亚U17vs塞尔维亚U17",
+      "pkInfoTitle": "澳大利亚vs塞尔维亚",
       "modifyTitle": "国际篮联U17男篮世界杯小组赛",
       "presenters": "",
       "matchInfo": {
@@ -3089,7 +3109,7 @@
       "title": "中超联赛",
       "keyword": "06月27日20:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "工人体育场",
       "competitionName": "中超",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000569692/929348_H169_sc.jpg",
@@ -3150,7 +3170,7 @@
       "competitionName": "滇超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000581202/202606251515_700984_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/12/3/100000001384106a3015.png",
-      "pkInfoTitle": "昆明队VS德宏队",
+      "pkInfoTitle": "���明队VS德宏队",
       "modifyTitle": "昆明队VS德宏队",
       "presenters": "",
       "matchInfo": {
