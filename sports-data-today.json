@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-06-27 19:34:09",
+  "updateTime": "2026-06-27 20:04:00",
   "data": [
     {
       "mgdbId": "120000580346",
@@ -821,10 +821,6 @@
       },
       "nodes": [
         {
-          "pID": "965725284",
-          "name": "全场回放"
-        },
-        {
           "pID": "965725530",
           "name": "全场回放"
         }
@@ -850,7 +846,7 @@
       "nodes": [
         {
           "pID": "965724159",
-          "name": "2026全国U21青年篮球锦标赛全场回放：山西竹叶青酒vs新疆天山（赛场原声）"
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
@@ -1156,7 +1152,7 @@
     },
     {
       "mgdbId": "120000580942",
-      "pID": "965724364",
+      "pID": "965726609",
       "title": "国际篮联U17男篮世界杯小组赛",
       "keyword": "06月27日17:30",
       "sportItemId": "2",
@@ -1173,6 +1169,14 @@
       },
       "nodes": [
         {
+          "pID": "965726609",
+          "name": "全场集锦"
+        },
+        {
+          "pID": "965726774",
+          "name": "全场回放（石楷文）"
+        },
+        {
           "pID": "965724287",
           "name": "第一节"
         },
@@ -1183,6 +1187,10 @@
         {
           "pID": "965725521",
           "name": "第三节"
+        },
+        {
+          "pID": "965726531",
+          "name": "第四节"
         }
       ]
     },
@@ -1192,7 +1200,7 @@
       "title": "甘肃省足球超级联赛",
       "keyword": "06月27日17:30",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "陇超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000581119/202606241604_285696_H169_1080.webp",
@@ -1240,7 +1248,7 @@
       "title": "东北地区城市足球联赛",
       "keyword": "06月27日17:55",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "东北超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000574255/202604131625_958922_H169_1080.webp",
@@ -1333,15 +1341,15 @@
     {
       "mgdbId": "120000581451",
       "pID": "965695218",
-      "title": "山东U21vs北京首钢",
+      "title": "山东76-69北京首钢",
       "keyword": "06月27日18:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "全国青年篮球联赛",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/12/24/10000000139310695eb8.png",
-      "pkInfoTitle": "山东U21vs北京首钢",
+      "pkInfoTitle": "山东76-69北京首钢",
       "modifyTitle": "全国青年篮球联赛女子组决赛",
       "presenters": "",
       "matchInfo": {
@@ -2965,7 +2973,7 @@
       "title": "东北地区城市足球联赛",
       "keyword": "06月27日19:35",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "东北超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000574253/202604131630_913009_H169_1080.webp",
@@ -2989,7 +2997,7 @@
       "title": "东北地区城市足球联赛",
       "keyword": "06月27日19:35",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "东北超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000574254/202604131630_444931_H169_1080.webp",
@@ -3085,7 +3093,7 @@
       "title": "国际篮联U17男篮世界杯小组赛",
       "keyword": "06月27日19:45",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "BDC Main Venue",
       "competitionName": "U17男篮世界杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/26/77FE038BAOPA.jpg",
@@ -3137,7 +3145,7 @@
       "title": "中超联赛",
       "keyword": "06月27日20:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "铜梁龙体育场",
       "competitionName": "中超",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000569693/519582_H169_sc.jpg",
@@ -3165,12 +3173,12 @@
       "title": "昆明队VS德宏队",
       "keyword": "06月27日20:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "滇超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000581202/202606251515_700984_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/12/3/100000001384106a3015.png",
-      "pkInfoTitle": "���明队VS德宏队",
+      "pkInfoTitle": "昆明队VS德宏队",
       "modifyTitle": "昆明队VS德宏队",
       "presenters": "",
       "matchInfo": {
@@ -3189,7 +3197,7 @@
       "title": "广东U21vs上海U21",
       "keyword": "06月27日20:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "全国青年篮球联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/26/77FE1RP5GLKU.png",
