@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-06-27 11:03:25",
+  "updateTime": "2026-06-27 11:33:50",
   "data": [
     {
       "mgdbId": "120000580346",
@@ -43,6 +43,10 @@
         {
           "pID": "965704914",
           "name": "全场回放（四号桌）（二）"
+        },
+        {
+          "pID": "965709601",
+          "name": "2026WTT美国大满贯Day1夜间场三号桌全场回放（赛场原声）（二）"
         }
       ]
     },
@@ -180,8 +184,8 @@
     },
     {
       "mgdbId": "120000580764",
-      "pID": "965695747",
-      "title": "贾士贤/盖骆率先晋级 本·莱恩/文迪压场",
+      "pID": "965695772",
+      "title": "贾士贤/盖骆率先晋级 本·莱恩/文迪出战",
       "keyword": "06月27日06:00",
       "sportItemId": "6",
       "matchStatus": "1",
@@ -189,16 +193,16 @@
       "competitionName": "BWF",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/27/77FETRQE9P66.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
-      "pkInfoTitle": "贾士贤/盖骆率先晋级 本·莱恩/文迪压场",
-      "modifyTitle": "美国羽毛球公开赛第四日：贾士贤/盖骆率先晋级 本·莱恩/文迪压场",
+      "pkInfoTitle": "贾士贤/盖骆率先晋级 本·莱恩/文迪出战",
+      "modifyTitle": "美国羽毛球公开赛第四日：贾士贤/盖骆率先晋级 本·莱恩/文迪出战",
       "presenters": "杨妮娜",
       "matchInfo": {
         "time": "06月27日06:00"
       },
       "nodes": [
         {
-          "pID": "965695747",
-          "name": "林芷均/杨筑云VS林瑞蓉/李欣梅"
+          "pID": "965695772",
+          "name": "本·莱恩/文迪VS松居圭一郎/十三桥健也"
         },
         {
           "pID": "965578737",
@@ -315,7 +319,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/27/77FEV15A29TB.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/27/77FEV84UGS8J.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "黄友政首秀横扫 林仲勋力克廖振珽",
       "modifyTitle": "WTT美国大满贯男女单打资格赛第二轮",
@@ -343,36 +347,12 @@
       ]
     },
     {
-      "mgdbId": "120000581226",
-      "pID": "965667446",
-      "title": "全国男子冰球锦标赛day1",
-      "keyword": "06月27日08:45",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "全国男子冰球锦标赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/26/77FE285DVEC2.webp",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/6/25/10000000150110606419.png",
-      "pkInfoTitle": "全国男子冰球锦标赛day1",
-      "modifyTitle": "全国男子冰球锦标赛day1",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月27日08:45"
-      },
-      "nodes": [
-        {
-          "pID": "965667446",
-          "name": "解说"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000580211",
       "pID": "965417302",
       "title": "嘉年华开幕式",
       "keyword": "06月27日10:00",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "Hello100北京昌平自行车赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/27/77FEVIRF03A2.jpeg",
@@ -445,8 +425,16 @@
           "name": "智能字幕"
         },
         {
+          "pID": "965575635",
+          "name": "假如你是其中一位边裁！"
+        },
+        {
           "pID": "965658707",
           "name": "开天眼了！"
+        },
+        {
+          "pID": "965575647",
+          "name": "山顶的风好大！"
         }
       ]
     },
@@ -542,6 +530,30 @@
       "nodes": [
         {
           "pID": "965621495",
+          "name": "解说"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000581226",
+      "pID": "965667446",
+      "title": "全国男子冰球锦标赛day1",
+      "keyword": "06月27日12:30",
+      "sportItemId": "8",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "全国男子冰球锦标赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/26/77FE285DVEC2.webp",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/6/25/10000000150110606419.png",
+      "pkInfoTitle": "全国男子冰球锦标赛day1",
+      "modifyTitle": "全国男子冰球锦标赛day1",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月27日12:30"
+      },
+      "nodes": [
+        {
+          "pID": "965667446",
           "name": "解说"
         }
       ]
@@ -2370,7 +2382,7 @@
     {
       "mgdbId": "120000580259",
       "pID": "965444578",
-      "title": "广西城市篮球联赛",
+      "title": "广西城市篮球���赛",
       "keyword": "06月27日19:30",
       "sportItemId": "2",
       "matchStatus": "0",
@@ -2619,7 +2631,7 @@
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000581099/202606241106_823105_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/16/10000000144410687370.png",
       "pkInfoTitle": "青岛平企联青春VS菏泽队",
-      "modifyTitle": "山东省齐鲁足球超级联赛",
+      "modifyTitle": "山���省齐鲁足球超级联赛",
       "presenters": "",
       "matchInfo": {
         "time": "06月27日19:30"
