@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-06-28 15:32:55",
+  "updateTime": "2026-06-28 16:02:51",
   "data": [
     {
       "mgdbId": "120000580348",
@@ -429,8 +429,8 @@
       },
       "nodes": [
         {
-          "pID": "965695634",
-          "name": "2026临泽马拉松"
+          "pID": "965767373",
+          "name": "2026临泽马拉松全场回放（官方解说）"
         }
       ]
     },
@@ -549,8 +549,16 @@
       },
       "nodes": [
         {
+          "pID": "965764497",
+          "name": "终结集锦"
+        },
+        {
           "pID": "965761985",
           "name": "主赛全场（汪乐）"
+        },
+        {
+          "pID": "965764946",
+          "name": "PFL圣地亚哥站主赛全场回放（英文原声）"
         },
         {
           "pID": "965757886",
@@ -595,14 +603,6 @@
         {
           "pID": "965760981",
           "name": "副赛全场（英文原声）"
-        },
-        {
-          "pID": "965764946",
-          "name": "PFL圣地亚哥站主赛全场回放（英文原声）"
-        },
-        {
-          "pID": "965764497",
-          "name": "全场终结集锦"
         }
       ]
     },
@@ -910,7 +910,15 @@
       "nodes": [
         {
           "pID": "965766131",
-          "name": "上海乒乓球嘉年华市级循环赛第12轮回放：黄浦南房8-1崇明乘风破浪队（凌维康）"
+          "name": "全场回放（凌维康）"
+        },
+        {
+          "pID": "965767074",
+          "name": "全场回放"
+        },
+        {
+          "pID": "965766295",
+          "name": "【集锦】黄浦南房8-1崇明乘风破浪队"
         }
       ]
     },
@@ -920,7 +928,7 @@
       "title": "上海乒乓球嘉年华市级循环赛第十二轮：上善青浦队 vs 杨浦回力",
       "keyword": "06月28日14:00",
       "sportItemId": "7",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "乒乓球嘉年华",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/28/77FFPNRPDJB1.png",
@@ -948,10 +956,10 @@
       "title": "上海乒乓球嘉年华市级循环赛第十二轮：徐汇愚公科技 vs 金山物流汇喆宇",
       "keyword": "06月28日14:00",
       "sportItemId": "7",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "乒乓球嘉年华",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/26/77FE24KTVV9V.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/28/77FFQ3FOUI69.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/9/100000001435106852ee.png",
       "pkInfoTitle": "徐汇愚公科技 vs 金山物流汇喆宇",
       "modifyTitle": "上海乒乓球嘉年华市级循环赛第十二轮：徐汇愚公科技 vs 金山物流汇喆宇",
@@ -961,12 +969,8 @@
       },
       "nodes": [
         {
-          "pID": "965625484",
-          "name": "徐汇愚公科技vs金山物流汇喆宇"
-        },
-        {
-          "pID": "964866629",
-          "name": "徐汇愚公科技vs金山物流汇喆宇"
+          "pID": "965767082",
+          "name": "上海乒乓球嘉年华市级循环赛第12轮回放：徐汇愚公科技2-8金山物流汇喆宇（林睿思）"
         }
       ]
     },
@@ -1096,7 +1100,7 @@
       "title": "广西城市篮球联赛",
       "keyword": "06月28日16:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "桂BA",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000580261/202606162134_914943_H169_1080.webp",
@@ -1120,7 +1124,7 @@
       "title": "内蒙古足球超级联赛",
       "keyword": "06月28日16:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "蒙超联赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000580798/202606221500_131070_H169_1080.webp",
@@ -1144,7 +1148,7 @@
       "title": "全国男子冰球锦标赛day2",
       "keyword": "06月28日16:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "全国男子冰球锦标赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/28/77FFR7H2NCVM.webp",
@@ -1307,6 +1311,30 @@
         {
           "pID": "965596336",
           "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000580919",
+      "pID": "965594911",
+      "title": "NBA精彩重播：2026西决 雷霆vs马刺 G6",
+      "keyword": "06月28日18:00",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "NBA经典赛事",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png",
+      "pkInfoTitle": "NBA精彩重播：2026西决 雷霆vs马刺 G6",
+      "modifyTitle": "NBA经典赛事",
+      "presenters": "杨健 刘晓宇 苏群",
+      "matchInfo": {
+        "time": "06月28日18:00"
+      },
+      "nodes": [
+        {
+          "pID": "965594911",
+          "name": "杨健 刘晓宇 苏群"
         }
       ]
     },
