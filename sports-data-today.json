@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-06-28 21:02:43",
+  "updateTime": "2026-06-28 21:33:09",
   "data": [
     {
       "mgdbId": "120000580348",
@@ -1264,7 +1264,7 @@
     },
     {
       "mgdbId": "120000581174",
-      "pID": "965577913",
+      "pID": "965774047",
       "title": "男子组决赛 Kyungbock高中 vs 鸟取城北高中",
       "keyword": "06月28日17:10",
       "sportItemId": "2",
@@ -1281,8 +1281,8 @@
       },
       "nodes": [
         {
-          "pID": "965651395",
-          "name": "解说"
+          "pID": "965774047",
+          "name": "全场回放（官方解说）"
         }
       ]
     },
@@ -1344,11 +1344,11 @@
     },
     {
       "mgdbId": "120000580919",
-      "pID": "965594911",
+      "pID": "965047885",
       "title": "NBA精彩重播：2026西决 雷霆vs马刺 G6",
       "keyword": "06月28日18:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA经典赛事",
       "padImg": "",
@@ -1361,8 +1361,8 @@
       },
       "nodes": [
         {
-          "pID": "965594911",
-          "name": "杨健 刘晓宇 苏群"
+          "pID": "965047885",
+          "name": "全场回放"
         }
       ]
     },
@@ -1392,7 +1392,7 @@
     },
     {
       "mgdbId": "120000581572",
-      "pID": "965734998",
+      "pID": "965774206",
       "title": "广东U21 94-79 北京首钢",
       "keyword": "06月28日18:00",
       "sportItemId": "2",
@@ -1409,8 +1409,8 @@
       },
       "nodes": [
         {
-          "pID": "965734998",
-          "name": "清流播出"
+          "pID": "965774206",
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
@@ -1444,7 +1444,7 @@
       "title": "新疆足球超级联赛",
       "keyword": "06月28日18:58",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "疆超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000580989/202606231435_476696_H169_1080.webp",
@@ -1468,10 +1468,10 @@
       "title": "中超联赛",
       "keyword": "06月28日19:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "大连梭鱼湾足球场",
       "competitionName": "中超",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000569690/989978_H169_sc.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000569690/199782_H169_sc.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png",
       "pkInfoTitle": "大连英博 vs 上海申花",
       "modifyTitle": "中超联赛",
@@ -1481,28 +1481,12 @@
       },
       "nodes": [
         {
-          "pID": "965596358",
-          "name": "刘腾 徐云龙 郭小仙儿"
+          "pID": "965774280",
+          "name": "超长版集锦"
         },
         {
-          "pID": "965596382",
-          "name": "乔迁"
-        },
-        {
-          "pID": "965596405",
-          "name": "4K赛场原声"
-        },
-        {
-          "pID": "965596491",
-          "name": "上海申花球星视角"
-        },
-        {
-          "pID": "965596516",
-          "name": "数智战术视角"
-        },
-        {
-          "pID": "965596451",
-          "name": "大连英博海发球星视角"
+          "pID": "965774335",
+          "name": "全场集锦"
         }
       ]
     },
@@ -1607,6 +1591,14 @@
         {
           "pID": "965773507",
           "name": "全场回放（凌维康）"
+        },
+        {
+          "pID": "965774176",
+          "name": "全场回放"
+        },
+        {
+          "pID": "965773776",
+          "name": "【集锦】虹口邮储银行8-2浦东引领"
         }
       ]
     },
@@ -1629,12 +1621,12 @@
       },
       "nodes": [
         {
-          "pID": "965625887",
-          "name": "宝山国投私募基金vs嘉定统嘉集团"
+          "pID": "965774117",
+          "name": "全场回放（刘馨蕊）"
         },
         {
-          "pID": "964866671",
-          "name": "宝山国投私募基金vs嘉定统嘉集团"
+          "pID": "965774215",
+          "name": "【集锦】宝山国投私募基金4-8嘉定统嘉集团"
         }
       ]
     },
@@ -1658,7 +1650,7 @@
       "nodes": [
         {
           "pID": "965773823",
-          "name": "上海乒乓球嘉年华市级循环赛第12轮回放：普陀淘宝闪购8-2奉贤经发（赵曦）"
+          "name": "全场回放（赵曦）"
         }
       ]
     },
@@ -1681,12 +1673,8 @@
       },
       "nodes": [
         {
-          "pID": "965626025",
-          "name": "静安中安弘vs闵行沿浦"
-        },
-        {
-          "pID": "964866711",
-          "name": "静安中安弘vs闵行沿浦"
+          "pID": "965773808",
+          "name": "全场回放（石楚阳）"
         }
       ]
     },
@@ -1696,7 +1684,7 @@
       "title": "安徽省城市篮球联赛",
       "keyword": "06月28日19:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "徽BA",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000580981/202606231120_442811_H169_1080.webp",
@@ -1720,7 +1708,7 @@
       "title": "安徽省城市篮球联赛",
       "keyword": "06月28日19:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "徽BA",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000580982/202606231120_113119_H169_1080.webp",
@@ -1744,7 +1732,7 @@
       "title": "安徽省城市篮球联赛",
       "keyword": "06月28日19:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "徽BA",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000580983/202606231120_859775_H169_1080.webp",
@@ -1885,7 +1873,7 @@
       "title": "新疆足球超级联赛",
       "keyword": "06月28日19:28",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "疆超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000580990/202606231435_508248_H169_1080.webp",
@@ -2029,7 +2017,7 @@
       "title": "山东省齐鲁足球超级联赛",
       "keyword": "06月28日19:30",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "齐鲁超赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000581102/202606241116_934488_H169_1080.webp",
@@ -2050,16 +2038,16 @@
     {
       "mgdbId": "120000581217",
       "pID": "965660451",
-      "title": "义乌VS兰溪",
+      "title": "义乌89-62兰溪",
       "keyword": "06月28日19:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "浙BA",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/7/16/1000000012931063812e.png",
-      "pkInfoTitle": "义乌VS兰溪",
-      "modifyTitle": "义乌VS兰溪",
+      "pkInfoTitle": "义乌89-62兰溪",
+      "modifyTitle": "义乌89-62兰溪",
       "presenters": "",
       "matchInfo": {
         "time": "06月28日19:30"
@@ -2074,16 +2062,16 @@
     {
       "mgdbId": "120000581218",
       "pID": "965660463",
-      "title": "安吉VS吴兴",
+      "title": "安吉75-48吴兴",
       "keyword": "06月28日19:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "浙BA",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/7/16/1000000012931063812e.png",
-      "pkInfoTitle": "安吉VS吴兴",
-      "modifyTitle": "安吉VS吴兴",
+      "pkInfoTitle": "安吉75-48吴兴",
+      "modifyTitle": "安吉75-48吴兴",
       "presenters": "",
       "matchInfo": {
         "time": "06月28日19:30"
@@ -2173,7 +2161,7 @@
       "title": "国际篮联U17男篮世界杯小组赛",
       "keyword": "06月28日19:45",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "BDC Main Venue",
       "competitionName": "U17男篮世界杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/27/77FET6DKF31B.jpg",
