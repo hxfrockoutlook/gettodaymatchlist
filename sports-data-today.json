@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-06-28 20:32:29",
+  "updateTime": "2026-06-28 21:02:43",
   "data": [
     {
       "mgdbId": "120000580348",
@@ -1307,6 +1307,10 @@
         {
           "pID": "965772025",
           "name": "全场集锦"
+        },
+        {
+          "pID": "965773651",
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
@@ -1329,12 +1333,12 @@
       },
       "nodes": [
         {
-          "pID": "965773140",
-          "name": "全场回放（袁甲、张辛昕）"
+          "pID": "965773754",
+          "name": "全场集锦"
         },
         {
-          "pID": "965773205",
-          "name": "全场回放"
+          "pID": "965773140",
+          "name": "全场回放（袁甲、张辛昕）"
         }
       ]
     },
@@ -1416,7 +1420,7 @@
       "title": "贵州村超联赛",
       "keyword": "06月28日18:47",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "贵州村超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000581199/202606251424_839523_H169_1080.webp",
@@ -1493,25 +1497,25 @@
           "name": "上海申花球星视角"
         },
         {
-          "pID": "965596451",
-          "name": "大连英博海发球星视角"
-        },
-        {
           "pID": "965596516",
           "name": "数智战术视角"
+        },
+        {
+          "pID": "965596451",
+          "name": "大连英博海发球星视角"
         }
       ]
     },
     {
       "mgdbId": "120000570653",
-      "pID": "965594580",
+      "pID": "965772863",
       "title": "中甲联赛",
       "keyword": "06月28日19:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "苏州市体育中心体育场",
       "competitionName": "中甲",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000570653/177364_H169_sc.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000570653/989458_H169_sc.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/10106c2211.png",
       "pkInfoTitle": "苏州东吴 vs 宁波",
       "modifyTitle": "中甲联赛",
@@ -1520,6 +1524,10 @@
         "time": "06月28日19:00"
       },
       "nodes": [
+        {
+          "pID": "965772863",
+          "name": "下半场迅速扳回一球！苏州连续精妙配合 邰剑锋推射直挂死角"
+        },
         {
           "pID": "965594580",
           "name": "解说"
@@ -1597,12 +1605,8 @@
       },
       "nodes": [
         {
-          "pID": "965625578",
-          "name": "虹口邮储银行vs浦东引领"
-        },
-        {
-          "pID": "964866651",
-          "name": "虹口邮储银行vs浦东引领"
+          "pID": "965773507",
+          "name": "全场回放（凌维康）"
         }
       ]
     },
@@ -1612,7 +1616,7 @@
       "title": "上海乒乓球嘉年华市级循环赛第十二轮：宝山国投私募基金 vs 嘉定统嘉集团",
       "keyword": "06月28日19:00",
       "sportItemId": "7",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "乒乓球嘉年华",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/26/77FE1QU6DJ9D.jpg",
@@ -1640,10 +1644,10 @@
       "title": "上海乒乓球嘉年华市级循环赛第十二轮：普陀淘宝闪购 vs 奉贤经发",
       "keyword": "06月28日19:00",
       "sportItemId": "7",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "乒乓球嘉年华",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/26/77FE1RAUDCBT.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/28/77FFRHTP2R9H.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/9/100000001435106852ee.png",
       "pkInfoTitle": "普陀淘宝闪购 vs 奉贤经发",
       "modifyTitle": "上海乒乓球嘉年华市级循环赛第十二轮：普陀淘宝闪购 vs 奉贤经发",
@@ -1653,12 +1657,8 @@
       },
       "nodes": [
         {
-          "pID": "965625979",
-          "name": "普陀淘宝闪购vs奉贤经发"
-        },
-        {
-          "pID": "964866692",
-          "name": "普陀淘宝闪购vs奉贤经发"
+          "pID": "965773823",
+          "name": "上海乒乓球嘉年华市级循环赛第12轮回放：普陀淘宝闪购8-2奉贤经发（赵曦）"
         }
       ]
     },
@@ -1668,7 +1668,7 @@
       "title": "上海乒乓球嘉年华市级循环赛第十二轮：静安中安弘 vs 闵行沿浦",
       "keyword": "06月28日19:00",
       "sportItemId": "7",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "乒乓球嘉年华",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/26/77FE1RS3QUF5.jpg",
@@ -1792,7 +1792,7 @@
       "title": "山东省齐鲁足球超级联赛",
       "keyword": "06月28日19:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "齐鲁超赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000581101/202606241115_647813_H169_1080.webp",
@@ -1816,7 +1816,7 @@
       "title": "甘肃省足球超级联赛",
       "keyword": "06月28日19:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "陇超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000581122/202606241600_347115_H169_1080.webp",
@@ -1837,16 +1837,16 @@
     {
       "mgdbId": "120000581584",
       "pID": "965754955",
-      "title": "世界男排联赛波兰站：中国队vs德国队",
+      "title": "世界男排联赛波兰站：中国队1-3不敌德国队",
       "keyword": "06月28日19:00",
       "sportItemId": "3",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "世界男排联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/28/77FFSCP0890C.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2022/7/6/1000000008011065e8e5.png",
-      "pkInfoTitle": "中国队vs德国队",
-      "modifyTitle": "世界男排联赛波兰站：中国队vs德国队",
+      "pkInfoTitle": "中国队1-3不敌德国队",
+      "modifyTitle": "世界男排联赛波兰站：中国队1-3不敌德国队",
       "presenters": "",
       "matchInfo": {
         "time": "06月28日19:00"
@@ -2268,12 +2268,36 @@
       ]
     },
     {
+      "mgdbId": "120000581200",
+      "pID": "965656975",
+      "title": "贵州村超联赛",
+      "keyword": "06月28日20:52",
+      "sportItemId": "1",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "贵州村超",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000581200/202606251428_894829_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/29/10000000146010647880.png",
+      "pkInfoTitle": "仁吉村村牛队VS扒王村",
+      "modifyTitle": "贵州村超联赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月28日20:52"
+      },
+      "nodes": [
+        {
+          "pID": "965656975",
+          "name": "2026赛季贵州村超联赛第九轮: 仁吉村村牛队VS扒王村"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000580992",
       "pID": "965601390",
       "title": "新疆足球超级联赛",
       "keyword": "06月28日20:58",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "疆超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000580992/202606231435_867594_H169_1080.webp",
@@ -2296,7 +2320,7 @@
       "pID": "965549730",
       "title": "人机大战：谁是世界杯预言家 刘语熙张踩铃新秀\"整活\"战AI",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "世界杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/28/77FFQUD9BHFS.png",
@@ -2309,30 +2333,6 @@
         {
           "pID": "965549730",
           "name": "人机大战第5期"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000581200",
-      "pID": "965656975",
-      "title": "贵州村超联赛",
-      "keyword": "06月28日21:30",
-      "sportItemId": "1",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "贵州村超",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000581200/202606251428_894829_H169_1080.webp",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/29/10000000146010647880.png",
-      "pkInfoTitle": "仁吉村村牛队VS扒王村",
-      "modifyTitle": "贵州村超联赛",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月28日21:30"
-      },
-      "nodes": [
-        {
-          "pID": "965656975",
-          "name": "2026赛季贵州村超联赛第九轮: 仁吉村村牛队VS扒王村"
         }
       ]
     },
