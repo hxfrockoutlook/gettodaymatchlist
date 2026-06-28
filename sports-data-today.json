@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-06-28 07:32:36",
+  "updateTime": "2026-06-28 08:02:50",
   "data": [
     {
       "mgdbId": "120000580348",
@@ -117,10 +117,6 @@
           "name": "1号场地"
         },
         {
-          "pID": "965571675",
-          "name": "2号场地"
-        },
-        {
           "pID": "965572057",
           "name": "1号场地英文视角"
         }
@@ -185,8 +181,20 @@
           "name": "纯享版回放（鲁靖明、赵鹏、王多多、魏欣怡）"
         },
         {
+          "pID": "965748955",
+          "name": "全场回放（鲁靖明、赵鹏、王多多、魏欣怡）"
+        },
+        {
           "pID": "965748582",
           "name": "全场回放（夏景俊、陆毅隽）"
+        },
+        {
+          "pID": "965748852",
+          "name": "全场回放（张天翼、洪宇青）"
+        },
+        {
+          "pID": "965749216",
+          "name": "全场回放"
         }
       ]
     },
@@ -221,6 +229,10 @@
           "name": "纯享版回放（苏东、李欣、冯潇霆、程思钦）"
         },
         {
+          "pID": "965748871",
+          "name": "全场回放（苏东、李欣、冯潇霆、程思钦）"
+        },
+        {
           "pID": "965748502",
           "name": "全场回放（沈云怡）"
         },
@@ -231,6 +243,10 @@
         {
           "pID": "965748555",
           "name": "全场回放（张昊泽、涂远）"
+        },
+        {
+          "pID": "965748752",
+          "name": "全场回放（智能解说）"
         }
       ]
     },
@@ -288,14 +304,14 @@
     },
     {
       "mgdbId": "120000581181",
-      "pID": "965653960",
+      "pID": "965749052",
       "title": "BIG3",
       "keyword": "06月28日06:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "BIG3",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/26/77FDVRT884A1.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/28/77FFR8OAJCQ8.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/6/20/1000000014971069d7b4.jpeg",
       "pkInfoTitle": "迈阿密305 vs 底特律脉冲",
       "modifyTitle": "BIG3",
@@ -305,12 +321,8 @@
       },
       "nodes": [
         {
-          "pID": "965653960",
-          "name": "季孟年"
-        },
-        {
-          "pID": "965656153",
-          "name": "英文原声"
+          "pID": "965749052",
+          "name": "全场回放（季孟年）"
         }
       ]
     },
@@ -375,7 +387,7 @@
       "matchStatus": "1",
       "matchField": "亚特兰大球场",
       "competitionName": "世界杯",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/27/77FESA0ICEMM.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/28/77FFRA0F3SK9.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg",
       "pkInfoTitle": "刚果（金） vs 乌兹别克斯坦",
       "modifyTitle": "世界杯小组赛",
@@ -415,6 +427,10 @@
         {
           "pID": "965576254",
           "name": "智能字幕"
+        },
+        {
+          "pID": "965576117",
+          "name": "开天眼了！"
         }
       ]
     },
@@ -496,7 +512,7 @@
       "title": "PFL圣地亚哥：麦基VS伊斯布拉耶夫",
       "keyword": "06月28日08:00",
       "sportItemId": "5",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "PFL",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/27/77FEST55OFCB.jpg",
@@ -524,7 +540,7 @@
       "title": "爬坡赛",
       "keyword": "06月28日08:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "Hello100北京昌平自行车赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/27/77FEUGLQJV4U.jpeg",
@@ -548,7 +564,7 @@
       "title": "2026招商银行西宁半程马拉松",
       "keyword": "06月28日08:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "马拉松系列赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/27/77FEV7FDE3T1.jpg",
@@ -694,15 +710,11 @@
         },
         {
           "pID": "965575617",
-          "name": "���场原声"
+          "name": "赛场原声"
         },
         {
           "pID": "965576240",
           "name": "智能字幕"
-        },
-        {
-          "pID": "965575617",
-          "name": "赛场原声"
         }
       ]
     },
