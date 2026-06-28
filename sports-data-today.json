@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-06-28 09:02:35",
+  "updateTime": "2026-06-28 09:32:33",
   "data": [
     {
       "mgdbId": "120000580348",
@@ -251,6 +251,10 @@
         {
           "pID": "965748752",
           "name": "全场回放（智能解说）"
+        },
+        {
+          "pID": "965748857",
+          "name": "全场回放（AI智慧观赛）"
         }
       ]
     },
@@ -288,7 +292,7 @@
       "title": "“环意大利RIDE LIKE A PRO中国站”自行车赛",
       "keyword": "06月28日05:50",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "中国自行车运动协会系列赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/27/77FEUEU1AKRF.webp",
@@ -327,12 +331,16 @@
         {
           "pID": "965749052",
           "name": "全场回放（季孟年）"
+        },
+        {
+          "pID": "965751426",
+          "name": "全场回放（英文原声）"
         }
       ]
     },
     {
       "mgdbId": "120000581182",
-      "pID": "965750730",
+      "pID": "965752085",
       "title": "BIG3",
       "keyword": "06月28日07:00",
       "sportItemId": "2",
@@ -349,16 +357,8 @@
       },
       "nodes": [
         {
-          "pID": "965750730",
-          "name": "无解！帕戈如入无人之境犀利突破撕裂禁区"
-        },
-        {
-          "pID": "965653966",
-          "name": "季孟年"
-        },
-        {
-          "pID": "965656158",
-          "name": "英文原声"
+          "pID": "965752085",
+          "name": "全场回放（季孟年）"
         }
       ]
     },
@@ -485,10 +485,6 @@
           "name": "葡萄牙队视角"
         },
         {
-          "pID": "965575220",
-          "name": "哥伦比亚队视角"
-        },
-        {
           "pID": "965575133",
           "name": "新声代：刘一臻 盛斌"
         },
@@ -593,15 +589,15 @@
     {
       "mgdbId": "120000580349",
       "pID": "965629551",
-      "title": "薛飞冲正赛！黄友政PK陈颢桦",
+      "title": "薛飞冲正赛！黄友政止步资格赛",
       "keyword": "06月28日08:30",
       "sportItemId": "7",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/28/77FFQUUFSF5P.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/28/77FFRPIEFT8F.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "薛飞冲正赛！黄友政PK陈颢桦",
+      "pkInfoTitle": "薛飞冲正赛！黄友政止步资格赛",
       "modifyTitle": "WTT美国大满贯男女单打资格赛第三轮",
       "presenters": "朱子恒",
       "matchInfo": {
@@ -705,6 +701,14 @@
           "name": "娄一晨 刘越 邵凌霄"
         },
         {
+          "pID": "965575741",
+          "name": "阿根廷队视角"
+        },
+        {
+          "pID": "965575722",
+          "name": "约旦队视角"
+        },
+        {
           "pID": "965576161",
           "name": "AI智慧观赛"
         },
@@ -715,14 +719,6 @@
         {
           "pID": "965575587",
           "name": "新声代：鹿中原 乔迁"
-        },
-        {
-          "pID": "965575722",
-          "name": "约旦队视角"
-        },
-        {
-          "pID": "965575741",
-          "name": "阿根廷队视角"
         },
         {
           "pID": "965575617",
@@ -740,7 +736,7 @@
       "title": "世界杯小组赛",
       "keyword": "06月28日10:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "堪萨斯城体育场",
       "competitionName": "世界杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/27/77FESB38AM3C.jpg",
@@ -1242,7 +1238,7 @@
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/26/77FE1S4PI5Q8.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "2021英锦赛半决赛  赵心童vs霍金斯",
-      "modifyTitle": "斯诺克经典回放：2021英锦赛半决赛  赵心童vs霍金斯",
+      "modifyTitle": "斯诺克经典���放：2021英锦赛半决赛  赵心童vs霍金斯",
       "presenters": "",
       "matchInfo": {
         "time": "06月28日18:00"
