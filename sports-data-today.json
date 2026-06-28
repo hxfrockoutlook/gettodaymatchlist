@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-06-28 19:32:56",
+  "updateTime": "2026-06-28 20:02:36",
   "data": [
     {
       "mgdbId": "120000580348",
@@ -1011,6 +1011,10 @@
         {
           "pID": "965768122",
           "name": "2026中国自行车运动骑游大会湖系列·康平站全场回放（官方解说）（一）"
+        },
+        {
+          "pID": "965772293",
+          "name": "2026中国自行车运动骑游大会湖系列·康平站全场回放（官方解说）（二）"
         }
       ]
     },
@@ -1040,7 +1044,7 @@
     },
     {
       "mgdbId": "120000581198",
-      "pID": "965656901",
+      "pID": "965770070",
       "title": "贵州村超联赛",
       "keyword": "06月28日14:30",
       "sportItemId": "1",
@@ -1112,7 +1116,7 @@
     },
     {
       "mgdbId": "120000580261",
-      "pID": "965444645",
+      "pID": "965771452",
       "title": "广西城市篮球联赛",
       "keyword": "06月28日16:00",
       "sportItemId": "2",
@@ -1201,8 +1205,8 @@
       },
       "nodes": [
         {
-          "pID": "965656930",
-          "name": "2026赛季贵州村超联赛第九轮: 党调村贵州村徒队VS安乐村"
+          "pID": "965772163",
+          "name": "全场回放"
         }
       ]
     },
@@ -1232,7 +1236,7 @@
     },
     {
       "mgdbId": "120000580934",
-      "pID": "965602254",
+      "pID": "965771188",
       "title": "国际篮联U17男篮世界杯小组赛",
       "keyword": "06月28日17:00",
       "sportItemId": "2",
@@ -1249,8 +1253,12 @@
       },
       "nodes": [
         {
-          "pID": "965602254",
-          "name": "赛场原声"
+          "pID": "965771188",
+          "name": "全场集锦"
+        },
+        {
+          "pID": "965772689",
+          "name": "全场回放"
         }
       ]
     },
@@ -1280,11 +1288,11 @@
     },
     {
       "mgdbId": "120000580933",
-      "pID": "965602586",
+      "pID": "965772025",
       "title": "国际篮联U17男篮世界杯小组赛",
       "keyword": "06月28日17:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "BDC National Teams Venue",
       "competitionName": "U17男篮世界杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/28/77FFR7N3FGSO.jpg",
@@ -1297,8 +1305,8 @@
       },
       "nodes": [
         {
-          "pID": "965602586",
-          "name": "赛场原声"
+          "pID": "965772025",
+          "name": "全场集锦"
         }
       ]
     },
@@ -1381,15 +1389,15 @@
     {
       "mgdbId": "120000581572",
       "pID": "965734998",
-      "title": "广东U21vs北京首钢",
+      "title": "广东U21 94-79 北京首钢",
       "keyword": "06月28日18:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "全国青年篮球联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/27/77FEV2NI9HVH.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/12/24/10000000139310695eb8.png",
-      "pkInfoTitle": "广东U21vs北京首钢",
+      "pkInfoTitle": "广东U21 94-79 北京首钢",
       "modifyTitle": "全国青年篮球联赛女子组决赛",
       "presenters": "",
       "matchInfo": {
@@ -2165,7 +2173,7 @@
       "title": "国际篮联U17男篮世界杯小组赛",
       "keyword": "06月28日19:45",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "BDC Main Venue",
       "competitionName": "U17男篮世界杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/27/77FET6DKF31B.jpg",
@@ -2189,7 +2197,7 @@
       "title": "中甲联赛",
       "keyword": "06月28日20:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "定南足球青少年训练中心体育场",
       "competitionName": "中甲",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000570652/202603010105_470391_H169_1080.webp",
@@ -2217,7 +2225,7 @@
       "title": "山东U21vs福建U21",
       "keyword": "06月28日20:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "全国青年篮球联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/27/77FEV2QNQ86D.jpg",
@@ -2256,30 +2264,6 @@
         {
           "pID": "965602611",
           "name": "赛场原声"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000581200",
-      "pID": "965656975",
-      "title": "贵州村超联赛",
-      "keyword": "06月28日20:30",
-      "sportItemId": "1",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "贵州村超",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000581200/202606251428_894829_H169_1080.webp",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/29/10000000146010647880.png",
-      "pkInfoTitle": "仁吉村村牛队VS扒王村",
-      "modifyTitle": "贵州村超联赛",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月28日20:30"
-      },
-      "nodes": [
-        {
-          "pID": "965656975",
-          "name": "2026赛季贵州村超联赛第九轮: 仁吉村村牛队VS扒王村"
         }
       ]
     },
@@ -2325,6 +2309,30 @@
         {
           "pID": "965549730",
           "name": "人机大战第5期"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000581200",
+      "pID": "965656975",
+      "title": "贵州村超联赛",
+      "keyword": "06月28日21:30",
+      "sportItemId": "1",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "贵州村超",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000581200/202606251428_894829_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/29/10000000146010647880.png",
+      "pkInfoTitle": "仁吉村村牛队VS扒王村",
+      "modifyTitle": "贵州村超联赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月28日21:30"
+      },
+      "nodes": [
+        {
+          "pID": "965656975",
+          "name": "2026赛季贵州村超联赛第九轮: 仁吉村村牛队VS扒王村"
         }
       ]
     },
