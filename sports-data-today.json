@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-06-29 18:31:16",
+  "updateTime": "2026-06-29 19:01:26",
   "data": [
     {
       "mgdbId": "120000580949",
@@ -326,7 +326,7 @@
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/29/77FGPNK22DO8.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/12/24/10000000139310695eb8.png",
       "pkInfoTitle": "上海U21 79-50 新疆天山",
-      "modifyTitle": "全国青年篮球联赛女子组七八��",
+      "modifyTitle": "全国青年篮球联赛女子组七八名",
       "presenters": "",
       "matchInfo": {
         "time": "06月29日10:00"
@@ -464,7 +464,7 @@
       "title": "2021英锦赛决赛第一阶段  赵心童vs布雷切尔",
       "keyword": "06月29日16:00",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/26/77FE1S86IL1F.jpg",
@@ -507,35 +507,11 @@
       ]
     },
     {
-      "mgdbId": "120000581456",
-      "pID": "965695477",
-      "title": "2021英锦赛决赛第二阶段  赵心童vs布雷切尔",
-      "keyword": "06月29日19:00",
-      "sportItemId": "8",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "斯诺克",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/26/77FE1SDGJ3SU.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "2021英锦赛决赛第二阶段  赵心童vs布雷切尔",
-      "modifyTitle": "斯诺克经典回放：2021英锦赛决赛第二阶段  赵心童vs布雷切尔",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月29日19:00"
-      },
-      "nodes": [
-        {
-          "pID": "965695477",
-          "name": "第二阶段"
-        }
-      ]
-    },
-    {
       "mgdbId": "300000002141",
       "pID": "965274306",
       "title": "《绿茵狂想》：前瞻巴西日本狭路相逢",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "世界杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/29/77FGO03HB1G2.jpg",
@@ -548,6 +524,30 @@
         {
           "pID": "965274306",
           "name": "绿茵狂想第18期"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000581456",
+      "pID": "965695477",
+      "title": "斯诺克经典回放：2021英锦赛决赛  赵心童vs布雷切尔（二）",
+      "keyword": "06月29日19:10",
+      "sportItemId": "8",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "斯诺克",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/26/77FE1SDGJ3SU.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
+      "pkInfoTitle": "斯诺克经典回放：2021英锦赛决赛  赵心童vs布雷切尔（二）",
+      "modifyTitle": "斯诺克经典回放：2021英锦赛决赛第二阶段  赵心童vs布雷切尔",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月29日19:10"
+      },
+      "nodes": [
+        {
+          "pID": "965695477",
+          "name": "第二阶段"
         }
       ]
     },
