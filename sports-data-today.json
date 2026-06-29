@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-06-29 14:01:22",
+  "updateTime": "2026-06-29 14:31:20",
   "data": [
     {
       "mgdbId": "120000580949",
@@ -275,30 +275,6 @@
       ]
     },
     {
-      "mgdbId": "120000581093",
-      "pID": "965621517",
-      "title": "中国自行车运动骑游大会湖系列·康平站",
-      "keyword": "06月29日08:50",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "中国自行车运动协会系列赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/28/77FFREOHO99V.jpeg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/6/25/100000001499106b6db1.png",
-      "pkInfoTitle": "中国自行���运动骑游大会湖系列·康平站",
-      "modifyTitle": "中国自行车运动骑游大会湖系列·康平站",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月29日08:50"
-      },
-      "nodes": [
-        {
-          "pID": "965621517",
-          "name": "解说"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000580352",
       "pID": "965629043",
       "title": "王楚钦3-0周启豪 王曼昱横扫迎开门红",
@@ -327,6 +303,10 @@
         {
           "pID": "965792933",
           "name": "全场回放（三号桌）"
+        },
+        {
+          "pID": "965793769",
+          "name": "全场回放（四号桌）"
         }
       ]
     },
@@ -360,7 +340,7 @@
       "title": "精彩回顾：郑钦文 vs 克里斯蒂安",
       "keyword": "06月29日12:00",
       "sportItemId": "9",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/28/77FFRGK7BGFM.jpg",
@@ -373,8 +353,8 @@
       },
       "nodes": [
         {
-          "pID": "965696934",
-          "name": "李宁"
+          "pID": "965251959",
+          "name": "全场回放"
         }
       ]
     },
@@ -399,6 +379,30 @@
         {
           "pID": "965775427",
           "name": "清流播出"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000581093",
+      "pID": "965621517",
+      "title": "中国自行车运动骑游大会湖系列·康平站",
+      "keyword": "06月29日14:10",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "中国自行车运动协会系列赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/28/77FFREOHO99V.jpeg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/6/25/100000001499106b6db1.png",
+      "pkInfoTitle": "中国自行车运动骑游大会湖系列·康平站",
+      "modifyTitle": "中国自行车运动骑游大会湖系列·康平站",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月29日14:10"
+      },
+      "nodes": [
+        {
+          "pID": "965621517",
+          "name": "解说"
         }
       ]
     },
@@ -564,6 +568,78 @@
         {
           "pID": "965775442",
           "name": "清流播出"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000581639",
+      "pID": "965788388",
+      "title": "永嘉VS瓯海",
+      "keyword": "06月29日19:30",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "浙BA",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/7/16/1000000012931063812e.png",
+      "pkInfoTitle": "永嘉VS瓯海",
+      "modifyTitle": "永嘉VS瓯海",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月29日19:30"
+      },
+      "nodes": [
+        {
+          "pID": "965788388",
+          "name": "2026赛季浙江省城市篮球联赛温州赛区: 永嘉VS瓯海"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000581640",
+      "pID": "965788447",
+      "title": "龙游VS开化",
+      "keyword": "06月29日19:30",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "浙BA",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/7/16/1000000012931063812e.png",
+      "pkInfoTitle": "龙游VS开化",
+      "modifyTitle": "龙游VS开化",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月29日19:30"
+      },
+      "nodes": [
+        {
+          "pID": "965788447",
+          "name": "2026赛季浙江省城市篮球联赛衢州赛区: 龙游VS开化"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000581641",
+      "pID": "965788463",
+      "title": "松阳VS莲都",
+      "keyword": "06月29日19:30",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "浙BA",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/7/16/1000000012931063812e.png",
+      "pkInfoTitle": "松阳VS莲都",
+      "modifyTitle": "松阳VS莲都",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月29日19:30"
+      },
+      "nodes": [
+        {
+          "pID": "965788463",
+          "name": "2026赛季浙江省城市篮球联赛丽水赛区: 松阳VS莲都"
         }
       ]
     },
