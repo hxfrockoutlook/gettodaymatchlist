@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-06-29 10:01:17",
+  "updateTime": "2026-06-29 10:31:11",
   "data": [
     {
       "mgdbId": "120000580949",
@@ -184,7 +184,7 @@
       "title": "Zuffa拳击第8期：德洛斯-桑托斯VS巴伦苏埃拉",
       "keyword": "06月29日05:00",
       "sportItemId": "5",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "Zuffa拳击",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/28/77FFQ1P2LU70.png",
@@ -197,12 +197,24 @@
       },
       "nodes": [
         {
-          "pID": "965676941",
-          "name": "陈瑞阳"
+          "pID": "965787407",
+          "name": "特立尼达VS安卡哈斯"
         },
         {
-          "pID": "965677042",
-          "name": "英文原声"
+          "pID": "965785727",
+          "name": "桑多瓦尔VS布兰登-李"
+        },
+        {
+          "pID": "965784733",
+          "name": "迪亚兹VS特兰"
+        },
+        {
+          "pID": "965782530",
+          "name": "奥乔亚VS塞拉诺"
+        },
+        {
+          "pID": "965782264",
+          "name": "佐基罗夫VS斯皮勒"
         }
       ]
     },
@@ -241,7 +253,7 @@
       "competitionName": "中国自行车运动协会系列赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/28/77FFREOHO99V.jpeg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/6/25/100000001499106b6db1.png",
-      "pkInfoTitle": "中国自行车运动骑游大会湖系列·康平站",
+      "pkInfoTitle": "中国自行车运动骑游大会���系列·康平站",
       "modifyTitle": "中国自行车运动骑游大会湖系列·康平站",
       "presenters": "",
       "matchInfo": {
@@ -256,29 +268,37 @@
     },
     {
       "mgdbId": "120000580352",
-      "pID": "965629043",
-      "title": "王楚钦对阵周启豪 王曼昱迎首秀",
+      "pID": "965629668",
+      "title": "王楚钦3-0周启豪 王曼昱迎首秀",
       "keyword": "06月29日09:00",
       "sportItemId": "7",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/29/77FGOUAA9TQE.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/29/77FGP59T3JT3.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "王楚钦对阵周启豪 王曼昱迎首秀",
+      "pkInfoTitle": "王楚钦3-0周启豪 王曼昱迎首秀",
       "modifyTitle": "WTT美国大满贯男女单打1/32决赛、女双、混双1/16决赛",
-      "presenters": "周冠达 程靖淇 朱子恒",
+      "presenters": "朱子恒 周冠达 程靖淇",
       "matchInfo": {
         "time": "06月29日09:00"
       },
       "nodes": [
         {
+          "pID": "965629668",
+          "name": "朱子恒"
+        },
+        {
           "pID": "965629043",
           "name": "周冠达 程靖淇"
         },
         {
-          "pID": "965629668",
-          "name": "朱子恒"
+          "pID": "965628969",
+          "name": "4号桌"
+        },
+        {
+          "pID": "965628714",
+          "name": "3号桌"
         },
         {
           "pID": "965629647",
@@ -287,14 +307,6 @@
         {
           "pID": "965628325",
           "name": "2号桌"
-        },
-        {
-          "pID": "965628714",
-          "name": "3号桌"
-        },
-        {
-          "pID": "965628969",
-          "name": "4号桌"
         },
         {
           "pID": "965629124",
