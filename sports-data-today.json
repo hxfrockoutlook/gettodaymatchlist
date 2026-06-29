@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-06-29 18:01:22",
+  "updateTime": "2026-06-29 18:31:16",
   "data": [
     {
       "mgdbId": "120000580949",
@@ -147,10 +147,6 @@
         {
           "pID": "965797756",
           "name": "全场回放（四号桌）"
-        },
-        {
-          "pID": "965799817",
-          "name": "2026WTT美国大满贯混双1/16决赛回放：泊雷特/帕瓦德2-3A·勒布伦/大藤沙月（赛场原声）"
         }
       ]
     },
@@ -330,7 +326,7 @@
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/29/77FGPNK22DO8.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/12/24/10000000139310695eb8.png",
       "pkInfoTitle": "上海U21 79-50 新疆天山",
-      "modifyTitle": "全国青年篮球联赛女子组七八名",
+      "modifyTitle": "全国青年篮球联赛女子组七八��",
       "presenters": "",
       "matchInfo": {
         "time": "06月29日10:00"
@@ -463,30 +459,6 @@
       ]
     },
     {
-      "mgdbId": "120000581228",
-      "pID": "965667432",
-      "title": "全国男子冰球锦标赛day3",
-      "keyword": "06月29日16:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "全国男子冰球锦标赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/28/77FFS3PU20LR.webp",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/6/25/10000000150110606419.png",
-      "pkInfoTitle": "全国男子冰球锦标赛day3",
-      "modifyTitle": "全国男子冰球锦标赛day3",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月29日16:00"
-      },
-      "nodes": [
-        {
-          "pID": "965667432",
-          "name": "解说"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000581455",
       "pID": "965695514",
       "title": "2021英锦赛决赛第一阶段  赵心童vs布雷切尔",
@@ -566,7 +538,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "世界杯",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/29/77FGO03HB1G2.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg",
       "pkInfoTitle": "《绿茵狂想》：前瞻巴西日本狭路相逢",
       "modifyTitle": "《绿茵狂想》第18期",
@@ -576,6 +548,30 @@
         {
           "pID": "965274306",
           "name": "绿茵狂想第18期"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000581228",
+      "pID": "965667432",
+      "title": "全国男子冰球锦标赛day3",
+      "keyword": "06月29日19:30",
+      "sportItemId": "8",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "全国男子冰球锦标赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/28/77FFS3PU20LR.webp",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/6/25/10000000150110606419.png",
+      "pkInfoTitle": "全国男子冰球锦标赛day3",
+      "modifyTitle": "全国男子冰球锦标赛day3",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月29日19:30"
+      },
+      "nodes": [
+        {
+          "pID": "965667432",
+          "name": "解说"
         }
       ]
     },
