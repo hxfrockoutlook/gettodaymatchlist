@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-06-30 03:01:30",
+  "updateTime": "2026-06-30 03:31:23",
   "data": [
     {
       "mgdbId": "120000563064",
@@ -23,6 +23,10 @@
         {
           "pID": "965811762",
           "name": "全场集锦"
+        },
+        {
+          "pID": "965812718",
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
@@ -45,12 +49,12 @@
       },
       "nodes": [
         {
-          "pID": "965690902",
-          "name": "三杨开泰助力中国男篮！杨鸣+杨毅+杨健约你来看球 看男篮世预赛就在咪咕"
+          "pID": "965812229",
+          "name": "全场集锦"
         },
         {
-          "pID": "965793087",
-          "name": "赛场原声"
+          "pID": "965812710",
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
@@ -63,7 +67,7 @@
       "matchStatus": "1",
       "matchField": "休斯敦球场",
       "competitionName": "世界杯",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/30/77FHJLN5QDTK.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/30/77FHK7CU5Q6O.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg",
       "pkInfoTitle": "巴西 vs 日本",
       "modifyTitle": "世界杯1/16决赛",
@@ -81,6 +85,10 @@
           "name": "AI智慧观赛"
         },
         {
+          "pID": "965738013",
+          "name": "智能字幕"
+        },
+        {
           "pID": "965736846",
           "name": "粤语：陈凯冬 陆毅隽"
         },
@@ -93,50 +101,18 @@
           "name": "新声代：张昊泽 涂远"
         },
         {
-          "pID": "965738191",
-          "name": "o.O视角"
-        },
-        {
-          "pID": "965738240",
-          "name": "日本队主教练视角"
-        },
-        {
-          "pID": "965737512",
-          "name": "巴西队明星视角"
-        },
-        {
-          "pID": "965737660",
-          "name": "日本队明星视角"
-        },
-        {
-          "pID": "965737627",
-          "name": "山顶的风好大！"
-        },
-        {
-          "pID": "965737716",
-          "name": "开天眼了！"
-        },
-        {
           "pID": "965736901",
           "name": "赛场原声"
-        },
-        {
-          "pID": "965271838",
-          "name": "CCTV5"
-        },
-        {
-          "pID": "965738013",
-          "name": "智能字幕"
         }
       ]
     },
     {
       "mgdbId": "120000563065",
-      "pID": "965793113",
+      "pID": "965776092",
       "title": "男篮世预赛亚洲赛区",
       "keyword": "06月30日02:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Nouhad Nawfal Sports Complex",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/29/77FGP90AJCSL.jpg",
@@ -148,6 +124,10 @@
         "time": "06月30日02:00"
       },
       "nodes": [
+        {
+          "pID": "965776092",
+          "name": "上咪咕 看男篮世预赛！中国男篮披甲出征 全程直击赛场内外"
+        },
         {
           "pID": "965793113",
           "name": "赛场原声"
@@ -204,7 +184,7 @@
       "title": "世界杯1/16决赛",
       "keyword": "06月30日04:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "波士顿球场",
       "competitionName": "世界杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/28/77FFPMPKFJIG.jpg",
