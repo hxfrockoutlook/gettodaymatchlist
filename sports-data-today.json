@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-06-29 13:31:13",
+  "updateTime": "2026-06-29 14:01:22",
   "data": [
     {
       "mgdbId": "120000580949",
@@ -178,11 +178,11 @@
         },
         {
           "pID": "965791408",
-          "name": "2026BWF美国羽毛球公开赛Day6一号场地全场回放（英文解说）"
+          "name": "【全场回放】一号场地（英文解说）"
         },
         {
           "pID": "965792030",
-          "name": "2026BWF美国羽毛球公开赛Day6一号场地全场回放（赛场原声）"
+          "name": "【全场回放】一号场地（赛场原声）"
         }
       ]
     },
@@ -239,6 +239,14 @@
         {
           "pID": "965790814",
           "name": "Zuffa拳击第8期主赛全场回放（赛场原声）"
+        },
+        {
+          "pID": "965792687",
+          "name": "Zuffa拳击第8期次中量级：达莫尼-卡托-凯恩VS弗农-布朗"
+        },
+        {
+          "pID": "965792922",
+          "name": "Zuffa拳击第8期轻量级：小托尼-赫希VS杰布里奥-佩-贝尼托"
         }
       ]
     },
@@ -277,7 +285,7 @@
       "competitionName": "中国自行车运动协会系列赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/28/77FFREOHO99V.jpeg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/6/25/100000001499106b6db1.png",
-      "pkInfoTitle": "中国自行车运动骑游大会湖系列·康平站",
+      "pkInfoTitle": "中国自行���运动骑游大会湖系列·康平站",
       "modifyTitle": "中国自行车运动骑游大会湖系列·康平站",
       "presenters": "",
       "matchInfo": {
@@ -309,14 +317,22 @@
       },
       "nodes": [
         {
+          "pID": "965792932",
+          "name": "全场回放（周冠达、程靖淇）"
+        },
+        {
           "pID": "965791566",
           "name": "全场回放（朱子恒）"
+        },
+        {
+          "pID": "965792933",
+          "name": "全场回放（三号桌）"
         }
       ]
     },
     {
       "mgdbId": "120000581634",
-      "pID": "965775424",
+      "pID": "965790836",
       "title": "上海U21 79-50 新疆天山",
       "keyword": "06月29日10:00",
       "sportItemId": "2",
@@ -334,7 +350,7 @@
       "nodes": [
         {
           "pID": "965790836",
-          "name": "2026全国U21青年篮球锦标赛全场回放：上海U21vs新疆天山（赛场原声）"
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
@@ -459,6 +475,30 @@
       ]
     },
     {
+      "mgdbId": "120000580921",
+      "pID": "965594941",
+      "title": "NBA精彩重播：2026西决 马刺vs雷霆 G7",
+      "keyword": "06月29日18:00",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "NBA经典赛事",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png",
+      "pkInfoTitle": "NBA精彩重播：2026西决 马刺vs雷霆 G7",
+      "modifyTitle": "NBA经典赛事",
+      "presenters": "孙博 曾令旭 马健",
+      "matchInfo": {
+        "time": "06月29日18:00"
+      },
+      "nodes": [
+        {
+          "pID": "965594941",
+          "name": "孙博 曾令旭 马健"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000581456",
       "pID": "965695477",
       "title": "2021英锦赛决赛第二阶段  赵心童vs布雷切尔",
@@ -529,7 +569,7 @@
     },
     {
       "mgdbId": "120000563053",
-      "pID": "963260306",
+      "pID": "965792960",
       "title": "男篮世预赛亚洲赛区",
       "keyword": "06月29日21:30",
       "sportItemId": "2",
@@ -544,7 +584,12 @@
       "matchInfo": {
         "time": "06月29日21:30"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "965792960",
+          "name": "赛场原声"
+        }
+      ]
     }
   ]
 }
