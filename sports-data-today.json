@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-06-29 17:01:20",
+  "updateTime": "2026-06-29 17:31:15",
   "data": [
     {
       "mgdbId": "120000580949",
@@ -133,6 +133,10 @@
       },
       "nodes": [
         {
+          "pID": "965799520",
+          "name": "全场回放（二号桌）"
+        },
+        {
           "pID": "965784533",
           "name": "全场回放（三号桌）"
         },
@@ -141,8 +145,12 @@
           "name": "全场回放（四号桌）"
         },
         {
-          "pID": "965799520",
-          "name": "2026WTT美国大满贯Day3夜间场二号桌全场回放（赛场原声）"
+          "pID": "965799817",
+          "name": "2026WTT美国大满贯混双1/16决赛回放：泊雷特/帕瓦德2-3A·勒布伦/大藤沙月（赛场原声）"
+        },
+        {
+          "pID": "965800259",
+          "name": "2026WTT美国大满贯Day3夜间场一号桌全场回放（赛场原声）"
         }
       ]
     },
@@ -213,10 +221,6 @@
       },
       "nodes": [
         {
-          "pID": "965788557",
-          "name": "【主赛】（陈瑞阳）"
-        },
-        {
           "pID": "965788308",
           "name": "德洛斯-桑托斯VS巴伦苏埃拉"
         },
@@ -229,8 +233,32 @@
           "name": "桑多瓦尔VS布兰登-李"
         },
         {
+          "pID": "965788557",
+          "name": "【主赛】（陈瑞阳）"
+        },
+        {
+          "pID": "965789873",
+          "name": "【主赛】（英文原声）"
+        },
+        {
+          "pID": "965795560",
+          "name": "【副赛】（陈瑞阳）"
+        },
+        {
+          "pID": "965797233",
+          "name": "【副赛】（英文原声）"
+        },
+        {
           "pID": "965784733",
           "name": "迪亚兹VS特兰"
+        },
+        {
+          "pID": "965792922",
+          "name": "赫希VS贝尼托"
+        },
+        {
+          "pID": "965792687",
+          "name": "凯恩VS布朗"
         },
         {
           "pID": "965782530",
@@ -239,34 +267,6 @@
         {
           "pID": "965782264",
           "name": "佐基罗夫VS斯皮勒"
-        },
-        {
-          "pID": "965789873",
-          "name": "Zuffa拳击第8期主赛全场回放（英文原声）"
-        },
-        {
-          "pID": "965790814",
-          "name": "Zuffa拳击第8期主赛全场回放（赛场原声）"
-        },
-        {
-          "pID": "965792687",
-          "name": "Zuffa拳击第8期次中量级：达莫尼-卡托-凯恩VS弗农-布朗"
-        },
-        {
-          "pID": "965792922",
-          "name": "Zuffa拳击第8期轻量级：小托尼-赫希VS杰布里奥-佩-贝尼托"
-        },
-        {
-          "pID": "965795560",
-          "name": "Zuffa拳击第8期副赛全场回放（陈瑞阳）"
-        },
-        {
-          "pID": "965797233",
-          "name": "Zuffa拳击第8期副赛全场回放（英文原声）"
-        },
-        {
-          "pID": "965799003",
-          "name": "Zuffa拳击第8期副赛全场回放（赛场原声）"
         }
       ]
     },
@@ -441,15 +441,15 @@
     {
       "mgdbId": "120000581636",
       "pID": "965775434",
-      "title": "北京首钢vs福建U21",
+      "title": "北京首钢 70-63 福建U21",
       "keyword": "06月29日15:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "全国青年篮球联赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/29/77FGPNQGCIK3.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/29/77FGNHVFUO28.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/12/24/10000000139310695eb8.png",
-      "pkInfoTitle": "北京首钢vs福建U21",
+      "pkInfoTitle": "北京首钢 70-63 福建U21",
       "modifyTitle": "全国青年篮球联赛女子组三四名",
       "presenters": "",
       "matchInfo": {
@@ -561,14 +561,14 @@
     {
       "mgdbId": "300000002141",
       "pID": "965274306",
-      "title": "《绿茵狂想》第18期",
+      "title": "《绿茵狂想》：前瞻巴西日本狭路相逢",
       "sportItemId": "1",
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "世界杯",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg",
-      "pkInfoTitle": "《绿茵狂想》第18期",
+      "pkInfoTitle": "《绿茵狂想》：前瞻巴西日本狭路相逢",
       "modifyTitle": "《绿茵狂想》第18期",
       "presenters": "",
       "matchInfo": {},
