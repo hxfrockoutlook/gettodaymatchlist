@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-06-30 08:01:31",
+  "updateTime": "2026-06-30 08:31:29",
   "data": [
     {
       "mgdbId": "120000563064",
@@ -221,8 +221,16 @@
           "name": "全场回放（叶紫辰、梁柏翘）"
         },
         {
-          "pID": "965817209",
-          "name": "全场回放"
+          "pID": "965817312",
+          "name": "全场回放（智能解说）"
+        },
+        {
+          "pID": "965817289",
+          "name": "全场回放（AI智慧观赛）"
+        },
+        {
+          "pID": "965817368",
+          "name": "全场回放（颜强、李欣、韩乔生、程思钦）"
         }
       ]
     },
@@ -273,6 +281,14 @@
           "name": "詹俊 张路 孙葆洁 李子琪"
         },
         {
+          "pID": "965737457",
+          "name": "荷兰队视角"
+        },
+        {
+          "pID": "965737467",
+          "name": "摩洛哥队视角"
+        },
+        {
           "pID": "965737105",
           "name": "AI智慧观赛"
         },
@@ -287,6 +303,10 @@
         {
           "pID": "965737417",
           "name": "新声代：张天翼 洪宇青"
+        },
+        {
+          "pID": "965271838",
+          "name": "CCTV5"
         },
         {
           "pID": "965737423",
@@ -304,7 +324,7 @@
       "title": "孙颖莎首秀冲开门红 陈熠对决韩莹",
       "keyword": "06月30日09:00",
       "sportItemId": "7",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/28/77FFPMQ8CI4N.png",
@@ -612,6 +632,42 @@
         {
           "pID": "965602471",
           "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000581722",
+      "pID": "965801181",
+      "title": "资格赛、1/16决赛",
+      "keyword": "06月30日21:00",
+      "sportItemId": "6",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "BWF",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
+      "pkInfoTitle": "资格赛、1/16决赛",
+      "modifyTitle": "加拿大羽毛球公开赛第一日：资格赛、1/16决赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月30日21:00"
+      },
+      "nodes": [
+        {
+          "pID": "965801181",
+          "name": "1号场地"
+        },
+        {
+          "pID": "965801198",
+          "name": "2号场地"
+        },
+        {
+          "pID": "965801220",
+          "name": "3号场地"
+        },
+        {
+          "pID": "965801232",
+          "name": "4号场地"
         }
       ]
     },
