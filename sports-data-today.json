@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-06-30 13:31:37",
+  "updateTime": "2026-06-30 14:01:36",
   "data": [
     {
       "mgdbId": "120000563064",
@@ -289,12 +289,12 @@
           "name": "全场回放（张天翼、洪宇青）"
         },
         {
-          "pID": "965826652",
-          "name": "全场回放（AI智慧观赛）"
-        },
-        {
           "pID": "965826669",
           "name": "全场回放（智能解说）"
+        },
+        {
+          "pID": "965826652",
+          "name": "全场回放（AI智慧观赛）"
         }
       ]
     },
@@ -316,6 +316,10 @@
         "time": "06月30日09:00"
       },
       "nodes": [
+        {
+          "pID": "965829011",
+          "name": "全场回放（周冠达、周雨）"
+        },
         {
           "pID": "965826609",
           "name": "全场回放（朱子恒）"
@@ -467,6 +471,30 @@
         {
           "pID": "965799348",
           "name": "经典回放"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000581708",
+      "pID": "965796962",
+      "title": "NBA精彩重播：2012总决赛 雷霆vs热火 G5",
+      "keyword": "06月30日18:00",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "NBA经典赛事",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png",
+      "pkInfoTitle": "NBA精彩重播：2012总决赛 雷霆vs热火 G5",
+      "modifyTitle": "NBA经典赛事",
+      "presenters": "王冠证",
+      "matchInfo": {
+        "time": "06月30日18:00"
+      },
+      "nodes": [
+        {
+          "pID": "965796962",
+          "name": "王冠证"
         }
       ]
     },
