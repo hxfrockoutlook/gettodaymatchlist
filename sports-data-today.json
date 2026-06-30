@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-06-30 21:32:10",
+  "updateTime": "2026-06-30 22:01:39",
   "data": [
     {
       "mgdbId": "120000563064",
@@ -33,7 +33,7 @@
     {
       "mgdbId": "120000563052",
       "pID": "965812229",
-      "title": "���篮世预赛亚洲赛区",
+      "title": "男篮世预赛亚洲赛区",
       "keyword": "06月30日00:30",
       "sportItemId": "2",
       "matchStatus": "2",
@@ -584,21 +584,26 @@
       "matchInfo": {
         "time": "06月30日19:30"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "965788506",
+          "name": "2026赛季浙江省城市篮球联赛温州赛区: 泰顺VS文成"
+        }
+      ]
     },
     {
       "mgdbId": "120000581644",
       "pID": "965788522",
-      "title": "景宁VS云和",
+      "title": "景宁64-86云和",
       "keyword": "06月30日19:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "浙BA",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/7/16/1000000012931063812e.png",
-      "pkInfoTitle": "景宁VS云和",
-      "modifyTitle": "景宁VS云和",
+      "pkInfoTitle": "景宁64-86云和",
+      "modifyTitle": "景宁64-86云和",
       "presenters": "",
       "matchInfo": {
         "time": "06月30日19:30"
@@ -616,10 +621,10 @@
       "title": "国际篮联U17男篮世界杯小组赛",
       "keyword": "06月30日19:45",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "BDC National Teams Venue",
       "competitionName": "U17男篮世界杯",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/29/77FGPEJ9K2J5.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/30/77FHM2BGKV8B.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/6/23/100000001494106794d9.png",
       "pkInfoTitle": "喀麦隆vs加拿大",
       "modifyTitle": "国际篮联U17男篮世界杯小组赛",
@@ -636,14 +641,14 @@
     },
     {
       "mgdbId": "120000580946",
-      "pID": "965602145",
+      "pID": "965840234",
       "title": "国际篮联U17男篮世界杯小组赛",
       "keyword": "06月30日19:45",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "BDC Main Venue",
       "competitionName": "U17男篮世界杯",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/29/77FGPEVEBRNR.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/30/77FHM2NOJ91E.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/6/23/100000001494106794d9.png",
       "pkInfoTitle": "立陶宛vs中国",
       "modifyTitle": "国际篮联U17男篮世界杯小组赛",
@@ -653,18 +658,26 @@
       },
       "nodes": [
         {
-          "pID": "965602145",
-          "name": "石楷文"
+          "pID": "965840234",
+          "name": "全场集锦"
         },
         {
-          "pID": "965602471",
-          "name": "赛场原声"
+          "pID": "965839181",
+          "name": "第一节"
+        },
+        {
+          "pID": "965839419",
+          "name": "第二节"
+        },
+        {
+          "pID": "965839725",
+          "name": "第三节"
         }
       ]
     },
     {
       "mgdbId": "120000581722",
-      "pID": "965837268",
+      "pID": "965837168",
       "title": "首日挥拍！何志伟/黄睿璿领衔出战",
       "keyword": "06月30日21:00",
       "sportItemId": "6",
@@ -681,8 +694,8 @@
       },
       "nodes": [
         {
-          "pID": "965837268",
-          "name": "詹俊为VS王晏清"
+          "pID": "965837168",
+          "name": "基克利茨VS古莱亚"
         },
         {
           "pID": "965801181",
@@ -699,6 +712,10 @@
         {
           "pID": "965801232",
           "name": "4号场地"
+        },
+        {
+          "pID": "965837268",
+          "name": "詹俊为VS王晏清"
         }
       ]
     },
