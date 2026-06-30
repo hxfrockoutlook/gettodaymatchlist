@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-06-30 07:31:21",
+  "updateTime": "2026-06-30 08:01:31",
   "data": [
     {
       "mgdbId": "120000563064",
@@ -116,7 +116,7 @@
     },
     {
       "mgdbId": "120000563065",
-      "pID": "965815920",
+      "pID": "965817020",
       "title": "男篮世预赛亚洲赛区",
       "keyword": "06月30日02:00",
       "sportItemId": "2",
@@ -132,6 +132,10 @@
         "time": "06月30日02:00"
       },
       "nodes": [
+        {
+          "pID": "965817020",
+          "name": "全场集锦"
+        },
         {
           "pID": "965815920",
           "name": "全场回放（赛场原声）"
@@ -157,16 +161,20 @@
       },
       "nodes": [
         {
-          "pID": "965815622",
-          "name": "【混双1/8决赛】皮斯特耶/库库洛娃0-3王楚钦/孙颖莎"
-        },
-        {
-          "pID": "965816532",
-          "name": "2026WTT美国大满贯Day4夜间场全场回放（智能字幕）"
-        },
-        {
           "pID": "965816954",
-          "name": "2026WTT美国大满贯Day4夜间场全场回放（王睿涓）"
+          "name": "全场回放（王睿涓）"
+        },
+        {
+          "pID": "965817186",
+          "name": "全场回放（二号桌）"
+        },
+        {
+          "pID": "965817211",
+          "name": "全场回放（三号桌）"
+        },
+        {
+          "pID": "965817033",
+          "name": "全场回放（四号桌）"
         }
       ]
     },
@@ -176,10 +184,10 @@
       "title": "世界杯1/16决赛",
       "keyword": "06月30日04:30",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "波士顿球场",
       "competitionName": "世界杯",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/30/77FHKTV6G2MK.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/30/77FHLET67OD5.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg",
       "pkInfoTitle": "德国 vs 巴拉圭",
       "modifyTitle": "世界杯1/16决赛",
@@ -189,60 +197,32 @@
       },
       "nodes": [
         {
-          "pID": "965736925",
-          "name": "颜强 李欣 韩乔生 程思钦"
+          "pID": "965817193",
+          "name": "超长版集锦"
         },
         {
-          "pID": "965737301",
-          "name": "AI智慧观赛"
+          "pID": "965817181",
+          "name": "全场集锦"
         },
         {
-          "pID": "965736948",
-          "name": "粤语：叶紫辰 梁柏翘"
+          "pID": "965817060",
+          "name": "纯享版回放（颜强、李欣、韩乔生、程思钦）"
         },
         {
-          "pID": "965736945",
-          "name": "女声：兰子非 胡小凡"
+          "pID": "965817169",
+          "name": "全场回放（兰子非、胡小凡）"
         },
         {
-          "pID": "965736971",
-          "name": "新声代：刘一臻 盛斌"
+          "pID": "965817188",
+          "name": "全场回放（刘一臻、盛斌）"
         },
         {
-          "pID": "965737046",
-          "name": "德国队主帅视角"
+          "pID": "965817195",
+          "name": "全场回放（叶紫辰、梁柏翘）"
         },
         {
-          "pID": "965737058",
-          "name": "巴拉圭队主帅视角"
-        },
-        {
-          "pID": "965737124",
-          "name": "德国队明星视角"
-        },
-        {
-          "pID": "965737196",
-          "name": "巴拉圭队明星视角"
-        },
-        {
-          "pID": "965737188",
-          "name": "山顶的风好大！"
-        },
-        {
-          "pID": "965737216",
-          "name": "开天眼了！"
-        },
-        {
-          "pID": "965271838",
-          "name": "CCTV5"
-        },
-        {
-          "pID": "965736975",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "965738022",
-          "name": "智能字幕"
+          "pID": "965817209",
+          "name": "全场回放"
         }
       ]
     },
@@ -276,7 +256,7 @@
       "title": "世界杯1/16决赛",
       "keyword": "06月30日09:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "蒙特雷体育场",
       "competitionName": "世界杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/28/77FFPN6G6V95.jpg",
