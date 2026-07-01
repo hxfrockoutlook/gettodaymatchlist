@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-01 19:31:42",
+  "updateTime": "2026-07-01 20:01:42",
   "data": [
     {
       "mgdbId": "120000575584",
@@ -547,6 +547,10 @@
         {
           "pID": "965869203",
           "name": "全场集锦"
+        },
+        {
+          "pID": "965869991",
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
@@ -569,6 +573,10 @@
       },
       "nodes": [
         {
+          "pID": "965869722",
+          "name": "全场回放（石楷文）"
+        },
+        {
           "pID": "965869013",
           "name": "第一节"
         },
@@ -583,20 +591,16 @@
         {
           "pID": "965869628",
           "name": "第四节"
-        },
-        {
-          "pID": "965869722",
-          "name": "全场回放（石楷文）"
         }
       ]
     },
     {
       "mgdbId": "120000581709",
-      "pID": "965797022",
+      "pID": "965797860",
       "title": "NBA精彩重播：1998总决赛 公牛vs爵士 G6",
       "keyword": "07月01日18:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA经典赛事",
       "padImg": "",
@@ -609,8 +613,8 @@
       },
       "nodes": [
         {
-          "pID": "965797022",
-          "name": "徐秦威"
+          "pID": "965797860",
+          "name": "全场回放"
         }
       ]
     },
@@ -761,7 +765,7 @@
       "title": "U17男篮世界杯16进8淘汰赛",
       "keyword": "07月01日19:45",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "BDC Main Venue",
       "competitionName": "U17男篮世界杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/01/77HI8NJ8MVJO.jpg",
@@ -855,7 +859,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "世界杯",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/01/77HI7RHRDJVR.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg",
       "pkInfoTitle": "人机大战：谁是世界杯预言家 徐志胜惊喜入局",
       "modifyTitle": "人机大战：谁是世界杯预言家 第7期",
