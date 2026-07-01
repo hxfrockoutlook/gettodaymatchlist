@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-02 07:01:39",
+  "updateTime": "2026-07-02 07:31:36",
   "data": [
     {
       "mgdbId": "120000575588",
@@ -117,15 +117,15 @@
     {
       "mgdbId": "120000580357",
       "pID": "965623949",
-      "title": "莎头组合完成让二追三 双曼晋级四强",
+      "title": "莎头组合让二追三 双曼晋级四强",
       "keyword": "07月02日03:00",
       "sportItemId": "7",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "WTT",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/02/77HJ4M76IIR8.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "莎头组合完成让二追三 双曼晋级四强",
+      "pkInfoTitle": "莎头组合让二追三 双曼晋级四强",
       "modifyTitle": "WTT美国大满贯男女单打1/16决赛、双打1/4决赛",
       "presenters": "",
       "matchInfo": {
@@ -133,12 +133,20 @@
       },
       "nodes": [
         {
-          "pID": "965623949",
-          "name": "2号桌"
+          "pID": "965878592",
+          "name": "全场回放（三号桌）"
         },
         {
-          "pID": "965797176",
-          "name": "智能字幕"
+          "pID": "965878885",
+          "name": "全场回放（四号桌）"
+        },
+        {
+          "pID": "965880937",
+          "name": "2026WTT美国大满贯混双1/4决赛回放：A·勒布伦/大藤沙月2-3王楚钦/孙颖莎（赛场原声）"
+        },
+        {
+          "pID": "965881036",
+          "name": "2026WTT美国大满贯混双1/4决赛回放：梁吉善/陈伊依2-3雨果/高桥·布鲁娜（赛场原声）"
         }
       ]
     },
@@ -148,7 +156,7 @@
       "title": "世界杯1/16决赛",
       "keyword": "07月02日04:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "西雅图球场",
       "competitionName": "世界杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/02/77HJ4MM66RFK.png",
@@ -161,32 +169,40 @@
       },
       "nodes": [
         {
-          "pID": "965827785",
-          "name": "娄一晨 李彦 赵鹏 孙蕊"
+          "pID": "965880853",
+          "name": "超长版集锦"
         },
         {
-          "pID": "965832490",
-          "name": "AI智慧观赛"
+          "pID": "965880850",
+          "name": "全场集锦"
         },
         {
-          "pID": "965828738",
-          "name": "智能字幕"
+          "pID": "965880697",
+          "name": "纯享版回放（娄一晨、李彦、赵鹏、孙蕊）"
         },
         {
-          "pID": "965827887",
-          "name": "粤语：江忠德"
+          "pID": "965880735",
+          "name": "全场回放（江忠德）"
         },
         {
-          "pID": "965827938",
-          "name": "女声：兰子非 胡小凡"
+          "pID": "965880816",
+          "name": "全场回放（鹿中原、乔迁）"
         },
         {
-          "pID": "965827912",
-          "name": "新声代：鹿中原 乔迁"
+          "pID": "965880895",
+          "name": "全场回放（兰子非、胡小凡）"
         },
         {
-          "pID": "965827973",
-          "name": "赛场原声"
+          "pID": "965880918",
+          "name": "全场回放（AI智慧观赛）"
+        },
+        {
+          "pID": "965880956",
+          "name": "全场回放"
+        },
+        {
+          "pID": "965880966",
+          "name": "全场回放"
         }
       ]
     },
@@ -227,6 +243,10 @@
         {
           "pID": "965832647",
           "name": "新声代：张天翼 洪宇青"
+        },
+        {
+          "pID": "965271838",
+          "name": "CCTV5"
         },
         {
           "pID": "965832659",
