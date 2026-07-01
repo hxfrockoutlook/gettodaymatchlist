@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-01 09:01:31",
+  "updateTime": "2026-07-01 09:31:21",
   "data": [
     {
       "mgdbId": "120000575584",
@@ -143,13 +143,29 @@
         {
           "pID": "965849080",
           "name": "全场回放（四号桌）"
+        },
+        {
+          "pID": "965851479",
+          "name": "2026WTT美国大满贯Day5夜间场全场回放（智能字幕）"
+        },
+        {
+          "pID": "965852164",
+          "name": "2026WTT美国大满贯Day5夜间场二号桌全场回放（赛场原声）"
+        },
+        {
+          "pID": "965852198",
+          "name": "2026WTT美国大满贯Day5夜间场全场回放（英文解说）"
+        },
+        {
+          "pID": "965852335",
+          "name": "2026WTT美国大满贯Day5夜间场一号桌全场回放（赛场原声）"
         }
       ]
     },
     {
       "mgdbId": "120000581722",
       "pID": "965837123",
-      "title": "32强赛！陈子亦/贾士贤2-0横扫晋级",
+      "title": "陈子亦/贾士贤零封！詹俊为进正赛",
       "keyword": "07月01日04:00",
       "sportItemId": "6",
       "matchStatus": "2",
@@ -157,8 +173,8 @@
       "competitionName": "BWF",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/01/77HI82Q1N9VT.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
-      "pkInfoTitle": "32强赛！陈子亦/贾士贤2-0横扫晋级",
-      "modifyTitle": "加拿大羽毛球公开赛第一日：32强赛！陈子亦/贾士贤2-0横扫晋级",
+      "pkInfoTitle": "陈子亦/贾士贤零封！詹俊为进正赛",
+      "modifyTitle": "加拿大羽毛球公开赛第一日：陈子亦/贾士贤零封！詹俊为进正赛",
       "presenters": "轩子博",
       "matchInfo": {
         "time": "07月01日04:00"
@@ -182,11 +198,15 @@
         },
         {
           "pID": "965850124",
-          "name": "2026BWF加拿大羽毛球公开赛Day1四号场地全场回放（赛场原声）（一）"
+          "name": "【全场回放】四号场地（赛场原声）（一）"
         },
         {
           "pID": "965850099",
-          "name": "2026BWF加拿大羽毛球公开赛Day1一号场地全场回放（赛场原声）（一）"
+          "name": "【全场回放】一号场地（赛场原声）（一）"
+        },
+        {
+          "pID": "965851849",
+          "name": "2026BWF加拿大羽毛球公开赛男双资格赛回放：伊劳埃/里奥0-0川边悠阳/松川健大（轩子博）"
         }
       ]
     },
@@ -271,12 +291,64 @@
       ]
     },
     {
+      "mgdbId": "120000580356",
+      "pID": "965624349",
+      "title": "争胜！王楚钦PK塔卡 王曼昱对决削球手",
+      "keyword": "07月01日09:00",
+      "sportItemId": "7",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "WTT",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/01/77HI8ACCA9D3.png",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
+      "pkInfoTitle": "争胜！王楚钦PK塔卡 王曼昱对决削球手",
+      "modifyTitle": "WTT美国大满贯男女单打1/16决赛、男女双打1/8决赛",
+      "presenters": "朱子恒 程靖淇 赵曦",
+      "matchInfo": {
+        "time": "07月01日09:00"
+      },
+      "nodes": [
+        {
+          "pID": "965624349",
+          "name": "朱子恒 程靖淇"
+        },
+        {
+          "pID": "965624312",
+          "name": "赵曦"
+        },
+        {
+          "pID": "965624293",
+          "name": "3号桌"
+        },
+        {
+          "pID": "965624304",
+          "name": "4号桌"
+        },
+        {
+          "pID": "965624273",
+          "name": "1号桌"
+        },
+        {
+          "pID": "965624285",
+          "name": "2号桌"
+        },
+        {
+          "pID": "965797405",
+          "name": "智能字幕"
+        },
+        {
+          "pID": "965767720",
+          "name": "智能文字解说"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000575587",
       "pID": "965830488",
       "title": "世界杯1/16决赛",
-      "keyword": "07月01日09:00",
+      "keyword": "07月01日10:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "0",
       "matchField": "墨西哥城球场",
       "competitionName": "世界杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/29/77FGMQJND7EN.jpg",
@@ -285,7 +357,7 @@
       "modifyTitle": "世界杯1/16决赛",
       "presenters": "石庆圣 鲁靖明 王多多",
       "matchInfo": {
-        "time": "07月01日09:00"
+        "time": "07月01日10:00"
       },
       "nodes": [
         {
@@ -327,58 +399,6 @@
       ]
     },
     {
-      "mgdbId": "120000580356",
-      "pID": "965624349",
-      "title": "争胜！王楚钦PK塔卡 王曼昱对决削球手",
-      "keyword": "07月01日09:00",
-      "sportItemId": "7",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/30/77FHJMCAIACA.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "争胜！王楚钦PK塔卡 王曼昱对决削球手",
-      "modifyTitle": "WTT美国大满贯男女单打1/16决赛、男女双打1/8决赛",
-      "presenters": "朱子恒 程靖淇 赵曦",
-      "matchInfo": {
-        "time": "07月01日09:00"
-      },
-      "nodes": [
-        {
-          "pID": "965624349",
-          "name": "朱子恒 程靖淇"
-        },
-        {
-          "pID": "965624312",
-          "name": "赵曦"
-        },
-        {
-          "pID": "965624273",
-          "name": "1号桌"
-        },
-        {
-          "pID": "965624285",
-          "name": "2号桌"
-        },
-        {
-          "pID": "965624293",
-          "name": "3号桌"
-        },
-        {
-          "pID": "965624304",
-          "name": "4号桌"
-        },
-        {
-          "pID": "965797405",
-          "name": "智能字幕"
-        },
-        {
-          "pID": "965767720",
-          "name": "智能文字解说"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000581479",
       "pID": "965696949",
       "title": "精彩回顾：拉杜卡努 vs 约维奇",
@@ -405,7 +425,7 @@
     {
       "mgdbId": "120000581764",
       "pID": "965828331",
-      "title": "尤杯经典重映-中国 3-0 马来西亚",
+      "title": "尤杯经典重映-中国 vs 马来西亚",
       "keyword": "07月01日12:00",
       "sportItemId": "6",
       "matchStatus": "0",
@@ -413,8 +433,8 @@
       "competitionName": "BWF",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/30/77FHK6I2UIBA.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
-      "pkInfoTitle": "尤杯经典重映-中国 3-0 马来西亚",
-      "modifyTitle": "经典重映-2026尤伯杯1/4决赛：中国 3-0 马来西亚",
+      "pkInfoTitle": "尤杯经典重映-中国 vs 马来西亚",
+      "modifyTitle": "经典重映-2026尤伯杯1/4决赛：中国 vs 马来西亚",
       "presenters": "",
       "matchInfo": {
         "time": "07月01日12:00"
