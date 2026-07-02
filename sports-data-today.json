@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-02 19:31:38",
+  "updateTime": "2026-07-02 20:01:51",
   "data": [
     {
       "mgdbId": "120000575588",
@@ -443,6 +443,10 @@
         {
           "pID": "965901063",
           "name": "全场集锦"
+        },
+        {
+          "pID": "965901468",
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
@@ -452,7 +456,7 @@
       "title": "【经典回顾】吴宜泽大战赵心童",
       "keyword": "07月02日17:00",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/29/77FGPEIQ2V6Q.png",
@@ -472,11 +476,11 @@
     },
     {
       "mgdbId": "120000581710",
-      "pID": "965797035",
+      "pID": "965797332",
       "title": "NBA精彩重播：1992总决赛 开拓者vs公牛 G1",
       "keyword": "07月02日18:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA经典赛事",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/02/77HJ4I6CNDCR.png",
@@ -490,11 +494,7 @@
       "nodes": [
         {
           "pID": "965797332",
-          "name": "NBA总决赛精彩重播：1992年开拓者vs公牛G1"
-        },
-        {
-          "pID": "965797035",
-          "name": "蔡凯臣"
+          "name": "全场回放"
         }
       ]
     },
@@ -645,7 +645,7 @@
       "title": "男篮世预赛非洲赛区",
       "keyword": "07月02日20:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "Pavilhao Multiusos de Luanda",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000563101/202511261141_861155_H169_1080.webp",
@@ -743,7 +743,7 @@
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000563077/202511261136_311062_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/11/26/10000000019110696ecb.jpg",
-      "pkInfoTitle": "利比亚vs南���丹",
+      "pkInfoTitle": "利比亚vs南苏丹",
       "modifyTitle": "男篮世预赛非洲赛区",
       "presenters": "",
       "matchInfo": {
