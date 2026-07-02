@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-02 23:01:43",
+  "updateTime": "2026-07-02 23:31:54",
   "data": [
     {
       "mgdbId": "120000575588",
@@ -696,7 +696,7 @@
       "pID": "965549780",
       "title": "人机大战：谁是世界杯预言家 徐志胜爆笑战AI",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "世界杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/02/77HJ431OQ3CG.png",
@@ -714,11 +714,11 @@
     },
     {
       "mgdbId": "120000563054",
-      "pID": "965793168",
+      "pID": "965690902",
       "title": "男篮世预赛亚洲赛区",
       "keyword": "07月02日21:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Prince Hamza",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000563054/202511261130_126548_H169_1080.webp",
@@ -730,6 +730,10 @@
         "time": "07月02日21:30"
       },
       "nodes": [
+        {
+          "pID": "965690902",
+          "name": "三杨开泰助力中国男篮！杨鸣+杨毅+杨健约你来看球 看男篮世预赛就在咪咕"
+        },
         {
           "pID": "965793168",
           "name": "赛场原声"
@@ -762,7 +766,7 @@
     },
     {
       "mgdbId": "120000581724",
-      "pID": "965887050",
+      "pID": "965887040",
       "title": "赖浩俊迎战科尔约宁 李梓嘉冲8强",
       "keyword": "07月02日22:00",
       "sportItemId": "6",
@@ -779,16 +783,12 @@
       },
       "nodes": [
         {
-          "pID": "965887050",
-          "name": "黄宇轩/张悦欣VS古贺辉/斋藤夏"
+          "pID": "965887040",
+          "name": "廖倬甫VS李梓嘉"
         },
         {
           "pID": "965887008",
           "name": "马尤/巴莱尔莫VS法比奥/杰奎琳"
-        },
-        {
-          "pID": "965887025",
-          "name": "贾士贤/盖骆VS卡瓦略/萨尼亚"
         },
         {
           "pID": "965810069",
@@ -809,6 +809,14 @@
         {
           "pID": "965887067",
           "name": "扎卡里/西蒙娜·黄VS邓恩/麦克菲森"
+        },
+        {
+          "pID": "965887025",
+          "name": "贾士贤/盖骆VS卡瓦略/萨尼亚"
+        },
+        {
+          "pID": "965887050",
+          "name": "黄宇轩/张悦欣VS古贺辉/斋藤夏"
         }
       ]
     },
@@ -866,7 +874,7 @@
       "title": "男篮世预赛欧洲赛区",
       "keyword": "07月02日23:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "Xiaomi Arena",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000563126/202511261146_138555_H169_1080.webp",
@@ -890,7 +898,7 @@
       "title": "男篮世预赛欧洲赛区",
       "keyword": "07月02日23:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "Svyturio Arena",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/01/77HI6N7J7R0C.jpg",
