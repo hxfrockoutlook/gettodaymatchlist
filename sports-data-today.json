@@ -1,14 +1,14 @@
 {
   "success": true,
-  "updateTime": "2026-07-04 01:33:26",
+  "updateTime": "2026-07-04 02:03:37",
   "data": [
     {
       "mgdbId": "120000563187",
-      "pID": "965831850",
+      "pID": "965776092",
       "title": "男篮世预赛欧洲赛区",
       "keyword": "07月04日00:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Sport Arena Wien",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000563187/202511261201_297350_H169_1080.webp",
@@ -21,6 +21,10 @@
       },
       "nodes": [
         {
+          "pID": "965776092",
+          "name": "上咪咕 看男篮世预赛！中国男篮披甲出征 全程直击赛场内外"
+        },
+        {
           "pID": "965831850",
           "name": "赛场原声"
         }
@@ -28,11 +32,11 @@
     },
     {
       "mgdbId": "120000563210",
-      "pID": "965831889",
+      "pID": "965776092",
       "title": "男篮世预赛欧洲赛区",
       "keyword": "07月04日00:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Unibet Arena",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000563210/202511261206_889439_H169_1080.webp",
@@ -44,6 +48,10 @@
         "time": "07月04日00:00"
       },
       "nodes": [
+        {
+          "pID": "965776092",
+          "name": "上咪咕 看男篮世预赛！中国男篮披甲出征 全程直击赛场内外"
+        },
         {
           "pID": "965831889",
           "name": "赛场原声"
@@ -180,7 +188,7 @@
       "title": "U17男篮世界杯四分之一决赛",
       "keyword": "07月04日01:45",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "U17男篮世界杯",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000582055/202607022118_878956_H169_1080.webp",
@@ -208,7 +216,7 @@
       "title": "男篮世预赛非洲赛区",
       "keyword": "07月04日02:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "Pavilhao Multiusos de Luanda",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000563102/202511261141_782974_H169_1080.webp",
@@ -249,14 +257,6 @@
           "name": "娄一晨 李彦 王多多 孙蕊"
         },
         {
-          "pID": "965830285",
-          "name": "澳大利亚队视角"
-        },
-        {
-          "pID": "965830313",
-          "name": "埃及队视角"
-        },
-        {
           "pID": "965829130",
           "name": "AI智慧观赛"
         },
@@ -271,6 +271,38 @@
         {
           "pID": "965830168",
           "name": "新声代：鹿中原 乔迁"
+        },
+        {
+          "pID": "965828988",
+          "name": "埃及队球星视角"
+        },
+        {
+          "pID": "965830425",
+          "name": "澳大利亚队球星视角"
+        },
+        {
+          "pID": "965830285",
+          "name": "澳大利亚队视角"
+        },
+        {
+          "pID": "965830313",
+          "name": "埃及队视角"
+        },
+        {
+          "pID": "965830428",
+          "name": "最佳观赛位"
+        },
+        {
+          "pID": "965829019",
+          "name": "开天眼了！"
+        },
+        {
+          "pID": "965271838",
+          "name": "CCTV5"
+        },
+        {
+          "pID": "965830406",
+          "name": "我在主席台看球"
         },
         {
           "pID": "965830194",
@@ -1485,7 +1517,7 @@
     {
       "mgdbId": "120000574495",
       "pID": "965623738",
-      "title": "福建省城市足球超��联赛",
+      "title": "福建省城市足球超级联赛",
       "keyword": "07月04日19:00",
       "sportItemId": "1",
       "matchStatus": "0",
