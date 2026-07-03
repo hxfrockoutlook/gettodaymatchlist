@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-03 17:02:10",
+  "updateTime": "2026-07-03 17:31:58",
   "data": [
     {
       "mgdbId": "120000563138",
@@ -816,7 +816,7 @@
     },
     {
       "mgdbId": "120000581904",
-      "pID": "965856103",
+      "pID": "965928921",
       "title": "超三联赛 上海崇明大区赛 B档小组赛下午场",
       "keyword": "07月03日14:00",
       "sportItemId": "2",
@@ -832,6 +832,10 @@
         "time": "07月03日14:00"
       },
       "nodes": [
+        {
+          "pID": "965928921",
+          "name": "全场回放（赛场原声）"
+        },
         {
           "pID": "965925204",
           "name": "【回放】广东悦跑豹猫20:6湖北江鲟"
@@ -880,7 +884,7 @@
       "title": "精彩回顾：吉布森 vs 郑钦文",
       "keyword": "07月03日15:00",
       "sportItemId": "9",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/02/77HJ5O1HUNFA.jpg",
@@ -976,7 +980,7 @@
       "title": "U17男篮世界杯四分之一决赛",
       "keyword": "07月03日17:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "U17男篮世界杯",
       "padImg": "",
@@ -1192,6 +1196,10 @@
         {
           "pID": "965793380",
           "name": "赛场原声"
+        },
+        {
+          "pID": "965903126",
+          "name": "U17男篮世界杯"
         }
       ]
     },
