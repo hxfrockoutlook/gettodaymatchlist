@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-04 03:03:26",
+  "updateTime": "2026-07-04 03:33:24",
   "data": [
     {
       "mgdbId": "120000563187",
@@ -28,7 +28,7 @@
     },
     {
       "mgdbId": "120000563210",
-      "pID": "965776092",
+      "pID": "965937608",
       "title": "男篮世预赛欧洲赛区",
       "keyword": "07月04日00:00",
       "sportItemId": "2",
@@ -45,18 +45,14 @@
       },
       "nodes": [
         {
-          "pID": "965776092",
-          "name": "上咪咕 看男篮世预赛！中国男篮披甲出征 全程直击赛场内外"
-        },
-        {
-          "pID": "965831889",
-          "name": "赛场原声"
+          "pID": "965937608",
+          "name": "全场集锦"
         }
       ]
     },
     {
       "mgdbId": "120000563174",
-      "pID": "965776092",
+      "pID": "965938475",
       "title": "男篮世预赛欧洲赛区",
       "keyword": "07月04日01:00",
       "sportItemId": "2",
@@ -73,16 +69,12 @@
       },
       "nodes": [
         {
-          "pID": "965776092",
-          "name": "上咪咕 看男篮世预赛！中国男篮披甲出征 全程直击赛场内外"
+          "pID": "965938475",
+          "name": "全场集锦"
         },
         {
-          "pID": "965831921",
-          "name": "徐秦威"
-        },
-        {
-          "pID": "965831971",
-          "name": "赛场原声"
+          "pID": "965938418",
+          "name": "全场回放（徐秦威）"
         }
       ]
     },
@@ -144,11 +136,11 @@
     },
     {
       "mgdbId": "120000582054",
-      "pID": "965903116",
+      "pID": "965605676",
       "title": "U17男篮世界杯9-16名排位赛",
       "keyword": "07月04日01:15",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "U17男篮世界杯",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000582054/202607022114_624496_H169_1080.webp",
@@ -160,6 +152,10 @@
         "time": "07月04日01:15"
       },
       "nodes": [
+        {
+          "pID": "965605676",
+          "name": "16支球队集结！U17男篮世界杯球队巡礼 谁能最终登顶？"
+        },
         {
           "pID": "965903116",
           "name": "赛场原声"
@@ -379,6 +375,34 @@
         {
           "pID": "965797264",
           "name": "智能字幕"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000581725",
+      "pID": "965801227",
+      "title": "赖浩俊、李文珊主场冲四强",
+      "keyword": "07月04日04:30",
+      "sportItemId": "6",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "BWF",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/03/77HK0IB9QCQ7.png",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
+      "pkInfoTitle": "赖浩俊、李文珊主场冲四强",
+      "modifyTitle": "加拿大羽毛球公开赛第四日：赖浩俊、李文珊主场冲四强",
+      "presenters": "",
+      "matchInfo": {
+        "time": "07月04日04:30"
+      },
+      "nodes": [
+        {
+          "pID": "965801227",
+          "name": "1号场地"
+        },
+        {
+          "pID": "965801288",
+          "name": "2号场地"
         }
       ]
     },
