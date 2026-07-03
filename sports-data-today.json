@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-03 21:02:40",
+  "updateTime": "2026-07-03 21:32:09",
   "data": [
     {
       "mgdbId": "120000563138",
@@ -980,7 +980,7 @@
     },
     {
       "mgdbId": "120000582045",
-      "pID": "965902917",
+      "pID": "965931151",
       "title": "U17男篮世界杯四分之一决赛",
       "keyword": "07月03日17:30",
       "sportItemId": "2",
@@ -997,12 +997,16 @@
       },
       "nodes": [
         {
+          "pID": "965931151",
+          "name": "全场集锦"
+        },
+        {
           "pID": "965931747",
-          "name": "全场回放"
+          "name": "全场回放（英文解说）"
         },
         {
           "pID": "965931990",
-          "name": "全场回放"
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
@@ -1080,11 +1084,11 @@
     },
     {
       "mgdbId": "120000563042",
-      "pID": "965824241",
+      "pID": "965932744",
       "title": "男篮世预赛亚洲赛区",
       "keyword": "07月03日18:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Goyang Gymnasium",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/03/77HK2AGONTL3.jpg",
@@ -1097,12 +1101,8 @@
       },
       "nodes": [
         {
-          "pID": "965824241",
-          "name": "孔德昕"
-        },
-        {
-          "pID": "965793353",
-          "name": "赛场原声"
+          "pID": "965932744",
+          "name": "全场集锦"
         }
       ]
     },
@@ -1136,7 +1136,7 @@
       "title": "超三联赛 上海崇明大区赛 B档小组赛晚间场",
       "keyword": "07月03日19:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "超三联赛",
       "padImg": "",
@@ -1149,8 +1149,12 @@
       },
       "nodes": [
         {
-          "pID": "965856122",
-          "name": "清流播出"
+          "pID": "965931893",
+          "name": "2026超三联赛上海崇明大区赛B档小组赛回放：湖北江鲟6:22浙江普徕"
+        },
+        {
+          "pID": "965932180",
+          "name": "2026超三联赛上海崇明大区赛B档小组赛回放：江苏香江猛虎18:20无锡文旅惠汕"
         }
       ]
     },
@@ -1210,16 +1214,16 @@
     {
       "mgdbId": "120000581655",
       "pID": "965789142",
-      "title": "文成VS苍南",
+      "title": "文成44-94苍南",
       "keyword": "07月03日19:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "浙BA",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/7/16/1000000012931063812e.png",
-      "pkInfoTitle": "文成VS苍南",
-      "modifyTitle": "文成VS苍南",
+      "pkInfoTitle": "文成44-94苍南",
+      "modifyTitle": "文成44-94苍南",
       "presenters": "",
       "matchInfo": {
         "time": "07月03日19:30"
@@ -1234,16 +1238,16 @@
     {
       "mgdbId": "120000581656",
       "pID": "965789154",
-      "title": "柯城VS常山",
+      "title": "柯城88-55常山",
       "keyword": "07月03日19:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "浙BA",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/7/16/1000000012931063812e.png",
-      "pkInfoTitle": "柯城VS常山",
-      "modifyTitle": "柯城VS常山",
+      "pkInfoTitle": "柯城88-55常山",
+      "modifyTitle": "柯城88-55常山",
       "presenters": "",
       "matchInfo": {
         "time": "07月03日19:30"
