@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-04 03:33:24",
+  "updateTime": "2026-07-04 04:03:38",
   "data": [
     {
       "mgdbId": "120000563187",
@@ -20,6 +20,10 @@
         "time": "07月04日00:00"
       },
       "nodes": [
+        {
+          "pID": "965938860",
+          "name": "全场回放"
+        },
         {
           "pID": "965937359",
           "name": "全场集锦"
@@ -80,7 +84,7 @@
     },
     {
       "mgdbId": "120000563175",
-      "pID": "965776092",
+      "pID": "965938634",
       "title": "男篮世预赛欧洲赛区",
       "keyword": "07月04日01:00",
       "sportItemId": "2",
@@ -97,18 +101,14 @@
       },
       "nodes": [
         {
-          "pID": "965776092",
-          "name": "上咪咕 看男篮世预赛！中国男篮披甲出征 全程直击赛场内外"
-        },
-        {
-          "pID": "965831906",
-          "name": "赛场原声"
+          "pID": "965938634",
+          "name": "全场集锦"
         }
       ]
     },
     {
       "mgdbId": "120000563211",
-      "pID": "965776092",
+      "pID": "965938553",
       "title": "男篮世预赛欧洲赛区",
       "keyword": "07月04日01:00",
       "sportItemId": "2",
@@ -125,12 +125,8 @@
       },
       "nodes": [
         {
-          "pID": "965776092",
-          "name": "上咪咕 看男篮世预赛！中国男篮披甲出征 全程直击赛场内外"
-        },
-        {
-          "pID": "965831999",
-          "name": "赛场原声"
+          "pID": "965938553",
+          "name": "全场集锦"
         }
       ]
     },
@@ -164,11 +160,11 @@
     },
     {
       "mgdbId": "120000563186",
-      "pID": "965832016",
+      "pID": "965938748",
       "title": "男篮世预赛欧洲赛区",
       "keyword": "07月04日01:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Topsportcentrum",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000563186/202511261201_414007_H169_1080.webp",
@@ -181,18 +177,18 @@
       },
       "nodes": [
         {
-          "pID": "965832016",
-          "name": "赛场原声"
+          "pID": "965938748",
+          "name": "全场集锦"
         }
       ]
     },
     {
       "mgdbId": "120000582055",
-      "pID": "965903019",
+      "pID": "965605676",
       "title": "U17男篮世界杯四分之一决赛",
       "keyword": "07月04日01:45",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "U17男篮世界杯",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000582055/202607022118_878956_H169_1080.webp",
@@ -205,6 +201,10 @@
       },
       "nodes": [
         {
+          "pID": "965605676",
+          "name": "16支球队集结！U17男篮世界杯球队巡礼 谁能最终登顶？"
+        },
+        {
           "pID": "965903019",
           "name": "英文解说"
         },
@@ -216,11 +216,11 @@
     },
     {
       "mgdbId": "120000563102",
-      "pID": "965833674",
+      "pID": "965938779",
       "title": "男篮世预赛非洲赛区",
       "keyword": "07月04日02:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Pavilhao Multiusos de Luanda",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000563102/202511261141_782974_H169_1080.webp",
@@ -233,8 +233,8 @@
       },
       "nodes": [
         {
-          "pID": "965833674",
-          "name": "赛场原声"
+          "pID": "965938779",
+          "name": "全场集锦"
         }
       ]
     },
@@ -355,7 +355,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/04/77HKTOGSNPAL.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/04/77HKTVQ4DPO6.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "孙颖莎PK梅谢芙 石油组合冲决赛席",
       "modifyTitle": "WTT美国大满贯男女单打1/8决赛、男双半决赛",
@@ -623,7 +623,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/04/77HL0GJV53JI.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/04/77HKU12UK10S.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "王楚钦/孙颖莎冲冠！王艺迪争八强",
       "modifyTitle": "WTT美国大满贯混双决赛、男女单打1/8决赛",
