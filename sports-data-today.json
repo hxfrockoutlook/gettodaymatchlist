@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-04 04:03:38",
+  "updateTime": "2026-07-04 04:33:23",
   "data": [
     {
       "mgdbId": "120000563187",
@@ -21,12 +21,12 @@
       },
       "nodes": [
         {
-          "pID": "965938860",
-          "name": "全场回放"
-        },
-        {
           "pID": "965937359",
           "name": "全场集锦"
+        },
+        {
+          "pID": "965938860",
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
@@ -324,7 +324,7 @@
       "title": "男篮世预赛欧洲赛区",
       "keyword": "07月04日02:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Lotto Arena",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/02/77HJ508U4KSH.jpg",
@@ -336,6 +336,10 @@
         "time": "07月04日02:30"
       },
       "nodes": [
+        {
+          "pID": "965776092",
+          "name": "上咪咕 看男篮世预赛！中国男篮披甲出征 全程直击赛场内外"
+        },
         {
           "pID": "965832025",
           "name": "王冠证"
@@ -355,7 +359,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/04/77HKTVQ4DPO6.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/04/77HKU6JGN2UG.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "孙颖莎PK梅谢芙 石油组合冲决赛席",
       "modifyTitle": "WTT美国大满贯男女单打1/8决赛、男双半决赛",
@@ -384,7 +388,7 @@
       "title": "赖浩俊、李文珊主场冲四强",
       "keyword": "07月04日04:30",
       "sportItemId": "6",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "BWF",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/03/77HK0IB9QCQ7.png",
@@ -2615,7 +2619,7 @@
       "sportItemId": "1",
       "matchStatus": "0",
       "matchField": "",
-      "competitionName": "东北超",
+      "competitionName": "东���超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000574256/202604131635_940223_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/13/1000000014401064d03a.png",
       "pkInfoTitle": "通辽vs大连",
