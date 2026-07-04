@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-04 09:33:40",
+  "updateTime": "2026-07-04 10:03:23",
   "data": [
     {
       "mgdbId": "120000563187",
@@ -419,6 +419,10 @@
         {
           "pID": "965945252",
           "name": "【全场回放】一号场地（赛场原声）（一）"
+        },
+        {
+          "pID": "965946772",
+          "name": "2026BWF加拿大羽毛球公开赛Day4二号场地全场回放（赛场原声）（一）"
         }
       ]
     },
@@ -453,18 +457,30 @@
           "name": "全场回放（詹俊、张路、冯潇霆、程思钦）"
         },
         {
+          "pID": "965945888",
+          "name": "全场回放（陈曦、叶紫辰）"
+        },
+        {
           "pID": "965945645",
           "name": "全场回放（林梦鸽）"
         },
         {
           "pID": "965945255",
           "name": "全场回放（张昊泽、涂远）"
+        },
+        {
+          "pID": "965946764",
+          "name": "全场回放（智能解说）"
+        },
+        {
+          "pID": "965946589",
+          "name": "全场回放（AI智慧观赛）"
         }
       ]
     },
     {
       "mgdbId": "120000562995",
-      "pID": "965823869",
+      "pID": "965946716",
       "title": "男篮世预赛美洲赛区",
       "keyword": "07月04日07:10",
       "sportItemId": "2",
@@ -481,12 +497,12 @@
       },
       "nodes": [
         {
-          "pID": "965823869",
-          "name": "邢晨"
+          "pID": "965946716",
+          "name": "全场集锦"
         },
         {
-          "pID": "965791131",
-          "name": "赛场原声"
+          "pID": "965946169",
+          "name": "全场回放（邢晨）"
         }
       ]
     },
@@ -496,7 +512,7 @@
       "title": "男篮世预赛美洲赛区",
       "keyword": "07月04日07:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Coliseo Evangelista Mora",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000563006/202511261116_802766_H169_1080.webp",
@@ -548,7 +564,7 @@
       "title": "男篮世预赛美洲赛区",
       "keyword": "07月04日08:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Sir Kendal Isaacs Gymnasium",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/02/77HJ500E28NN.jpg",
@@ -572,14 +588,14 @@
     },
     {
       "mgdbId": "120000582019",
-      "pID": "965896458",
+      "pID": "965944324",
       "title": "NBA夏季联赛",
       "keyword": "07月04日08:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/03/77HK2LEO21TA.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/04/77HKVOH90EMH.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "热火VS马刺",
       "modifyTitle": "NBA夏季联赛",
@@ -589,12 +605,16 @@
       },
       "nodes": [
         {
-          "pID": "965896458",
-          "name": "王晓晨"
+          "pID": "965944443",
+          "name": "第一节"
         },
         {
-          "pID": "965897781",
-          "name": "英文原声"
+          "pID": "965944902",
+          "name": "第二节"
+        },
+        {
+          "pID": "965945636",
+          "name": "第三节"
         }
       ]
     },
@@ -631,7 +651,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/04/77HKVKEE015S.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/04/77HKVO872KPP.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "王楚钦/孙颖莎冲冠！王艺迪争八强",
       "modifyTitle": "WTT美国大满贯混双决赛、男女单打1/8决赛",
@@ -710,11 +730,11 @@
         },
         {
           "pID": "965831149",
-          "name": "哥伦比亚队视角"
+          "name": "哥伦比亚队主帅视角"
         },
         {
           "pID": "965831173",
-          "name": "加纳队视角"
+          "name": "加纳队主帅视角"
         },
         {
           "pID": "965271838",
@@ -729,12 +749,12 @@
           "name": "为了听不到的你"
         },
         {
-          "pID": "965831392",
-          "name": "山顶的风好大！"
-        },
-        {
           "pID": "965831430",
           "name": "开天眼了！"
+        },
+        {
+          "pID": "965831392",
+          "name": "山顶的风好大！"
         }
       ]
     },
@@ -775,14 +795,14 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "湖人VS勇士金队",
       "modifyTitle": "NBA夏季联赛",
-      "presenters": "王冠证",
+      "presenters": "徐秦威",
       "matchInfo": {
         "time": "07月04日10:30"
       },
       "nodes": [
         {
           "pID": "965896466",
-          "name": "王冠证"
+          "name": "徐秦威"
         },
         {
           "pID": "965897789",
@@ -1317,7 +1337,7 @@
     {
       "mgdbId": "120000574505",
       "pID": "965853658",
-      "title": "福建省城市足球超级联赛",
+      "title": "���建省城市足球超级联赛",
       "keyword": "07月04日18:00",
       "sportItemId": "1",
       "matchStatus": "0",
