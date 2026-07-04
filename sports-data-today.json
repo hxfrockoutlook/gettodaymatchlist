@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-05 04:32:56",
+  "updateTime": "2026-07-05 05:03:03",
   "data": [
     {
       "mgdbId": "120000563078",
@@ -62,7 +62,7 @@
         },
         {
           "pID": "965972151",
-          "name": "全场回放（兰子非���"
+          "name": "全场回放（兰子非）"
         },
         {
           "pID": "965972192",
@@ -168,7 +168,7 @@
     },
     {
       "mgdbId": "120000582238",
-      "pID": "965605676",
+      "pID": "965973191",
       "title": "U17男篮世界杯半决赛",
       "keyword": "07月05日02:00",
       "sportItemId": "2",
@@ -185,16 +185,8 @@
       },
       "nodes": [
         {
-          "pID": "965605676",
-          "name": "16支球队集结！U17男篮世界杯球队巡礼 谁能最终登顶？"
-        },
-        {
-          "pID": "965950437",
-          "name": "英文解说"
-        },
-        {
-          "pID": "965950610",
-          "name": "赛场原声"
+          "pID": "965973191",
+          "name": "全场集锦"
         }
       ]
     },
@@ -239,7 +231,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/05/77HLR984N5IM.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/05/77HLRDNI39MH.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "王曼昱/蒯曼冲冠！王艺迪战朱芊曦",
       "modifyTitle": "WTT美国大满贯女双决赛、男女单打1/4决赛",
@@ -264,14 +256,14 @@
     },
     {
       "mgdbId": "120000582025",
-      "pID": "965896522",
+      "pID": "965972300",
       "title": "NBA夏季联赛",
       "keyword": "07月05日03:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/04/77HKVPNB5H41.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/05/77HLRCO2N9JT.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "雄鹿VS勇士蓝队",
       "modifyTitle": "NBA夏季联赛",
@@ -281,12 +273,20 @@
       },
       "nodes": [
         {
-          "pID": "965896522",
-          "name": "姜帆"
+          "pID": "965972709",
+          "name": "第一节"
         },
         {
-          "pID": "965898127",
-          "name": "英文原声"
+          "pID": "965972744",
+          "name": "第二节"
+        },
+        {
+          "pID": "965973039",
+          "name": "第三节"
+        },
+        {
+          "pID": "965973529",
+          "name": "第四节"
         }
       ]
     },
@@ -296,7 +296,7 @@
       "title": "NBA夏季联赛",
       "keyword": "07月05日03:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/05/77HLR9304H63.jpg",
@@ -309,12 +309,16 @@
       },
       "nodes": [
         {
-          "pID": "965896611",
-          "name": "罗森"
+          "pID": "965972368",
+          "name": "第一节"
         },
         {
-          "pID": "965898476",
-          "name": "英文原声"
+          "pID": "965972555",
+          "name": "第二节"
+        },
+        {
+          "pID": "965972918",
+          "name": "第三节"
         }
       ]
     },
@@ -369,16 +373,16 @@
           "name": "詹俊 张路 孙葆洁 程思钦"
         },
         {
+          "pID": "965947825",
+          "name": "AI智慧观赛"
+        },
+        {
           "pID": "965947573",
           "name": "巴拉圭队视角"
         },
         {
           "pID": "965947547",
           "name": "法国队视角"
-        },
-        {
-          "pID": "965947825",
-          "name": "AI智慧观赛"
         },
         {
           "pID": "965947660",
@@ -393,12 +397,32 @@
           "name": "新声代：鹿中原 乔迁"
         },
         {
+          "pID": "965947475",
+          "name": "巴拉圭队球星视角"
+        },
+        {
+          "pID": "965947448",
+          "name": "法国队球星视角"
+        },
+        {
           "pID": "965947657",
           "name": "闽南语：洪荒"
         },
         {
           "pID": "965947645",
           "name": "沪语：陈渤胄"
+        },
+        {
+          "pID": "965947464",
+          "name": "最佳观赛位"
+        },
+        {
+          "pID": "965947419",
+          "name": "开天眼了！"
+        },
+        {
+          "pID": "965271838",
+          "name": "CCTV5"
         },
         {
           "pID": "965947608",
@@ -411,6 +435,10 @@
         {
           "pID": "965947745",
           "name": "沪语智能字幕"
+        },
+        {
+          "pID": "965947660",
+          "name": "粤���：陈凯冬 陆毅隽"
         }
       ]
     },
@@ -420,7 +448,7 @@
       "title": "NBA夏季联赛",
       "keyword": "07月05日05:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/04/77HKVTOGAI1F.jpg",
@@ -448,7 +476,7 @@
       "title": "NBA夏季联赛",
       "keyword": "07月05日05:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/04/77HKVU2UABIJ.jpg",
