@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-04 20:04:14",
+  "updateTime": "2026-07-04 20:33:30",
   "data": [
     {
       "mgdbId": "120000563187",
@@ -1329,12 +1329,12 @@
       },
       "nodes": [
         {
-          "pID": "965960094",
-          "name": "全场回放"
-        },
-        {
           "pID": "965958135",
           "name": "全场集锦"
+        },
+        {
+          "pID": "965960094",
+          "name": "全场回放"
         }
       ]
     },
@@ -1392,7 +1392,7 @@
       "title": "【重播】2025南京国锦赛决赛 吴宜泽vs希金斯",
       "keyword": "07月04日17:00",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/29/77FGPF8E8NQC.png",
@@ -1892,10 +1892,10 @@
       "title": "上海乒乓球嘉年华市级循环赛第十三轮：静安中安弘 vs 徐汇愚公科技",
       "keyword": "07月04日19:00",
       "sportItemId": "7",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "乒乓球嘉年华",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/02/77HJ3GDHPCD3.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/04/77HKVCEBCU6J.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/9/100000001435106852ee.png",
       "pkInfoTitle": "静安中安弘 vs 徐汇愚公科技",
       "modifyTitle": "上海乒乓球嘉年华市级循环赛第十三轮：静安中安弘 vs 徐汇愚公科技",
@@ -1905,12 +1905,8 @@
       },
       "nodes": [
         {
-          "pID": "965626409",
-          "name": "静安中安弘vs徐汇愚公科技"
-        },
-        {
-          "pID": "964866926",
-          "name": "静安中安弘vs徐汇愚公科技"
+          "pID": "965961567",
+          "name": "全场回放（林睿思）"
         }
       ]
     },
@@ -2159,10 +2155,10 @@
       "pID": "965274204",
       "title": "《绿茵狂想》：张路复盘阿根廷战佛得角",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "世界杯",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/04/77HKUFQK917G.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/04/77HKUGNM9AMM.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg",
       "pkInfoTitle": "《绿茵狂想》：张路复盘阿根廷战佛得角",
       "modifyTitle": "《绿茵狂想》第23期",
@@ -2352,7 +2348,7 @@
       "matchStatus": "1",
       "matchField": "珂缔缘赛事中心体育场",
       "competitionName": "中乙",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000571964/202607042028_388012_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/3/19/1000000011571066d376.png",
       "pkInfoTitle": "海门珂缔缘 vs 大连可为",
       "modifyTitle": "中乙联赛",
@@ -3302,7 +3298,7 @@
     },
     {
       "mgdbId": "120000581726",
-      "pID": "965801314",
+      "pID": "965956309",
       "title": "本土赖浩俊、李文珊出战 李梓嘉冲决赛",
       "keyword": "07月04日23:00",
       "sportItemId": "6",
@@ -3313,38 +3309,22 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "本土赖浩俊、李文珊出战 李梓嘉冲决赛",
       "modifyTitle": "加拿大羽毛球公开赛第五日：本土赖浩俊、李文珊出战 李梓嘉冲决赛",
-      "presenters": "杨妮娜 鸿昆",
+      "presenters": "鸿昆",
       "matchInfo": {
         "time": "07月04日23:00"
       },
       "nodes": [
         {
+          "pID": "965956309",
+          "name": "贾士贤/盖骆VS刘广珩/许尹鏸"
+        },
+        {
           "pID": "965801314",
           "name": "1号场地"
         },
         {
-          "pID": "965801354",
-          "name": "2号场地"
-        },
-        {
           "pID": "965801365",
           "name": "1号场地"
-        },
-        {
-          "pID": "965956286",
-          "name": "杨妮娜"
-        },
-        {
-          "pID": "965956296",
-          "name": "杨妮娜"
-        },
-        {
-          "pID": "965956302",
-          "name": "鸿昆"
-        },
-        {
-          "pID": "965956309",
-          "name": "鸿昆"
         }
       ]
     },
