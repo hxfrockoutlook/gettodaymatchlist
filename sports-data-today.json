@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-04 10:03:23",
+  "updateTime": "2026-07-04 10:33:34",
   "data": [
     {
       "mgdbId": "120000563187",
@@ -49,12 +49,12 @@
       },
       "nodes": [
         {
-          "pID": "965940994",
-          "name": "全场回放"
-        },
-        {
           "pID": "965937608",
           "name": "全场集锦"
+        },
+        {
+          "pID": "965940994",
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
@@ -137,12 +137,12 @@
       },
       "nodes": [
         {
-          "pID": "965942645",
-          "name": "全场回放"
-        },
-        {
           "pID": "965938553",
           "name": "全场集锦"
+        },
+        {
+          "pID": "965942645",
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
@@ -401,6 +401,10 @@
           "name": "【回放】贾士贤/盖骆2-1琼斯/托尔曼（朱胤丞）"
         },
         {
+          "pID": "965947469",
+          "name": "【回放】赖浩俊2-0王渝凯（赛场原声）"
+        },
+        {
           "pID": "965936386",
           "name": "【回放】马尤/巴莱尔莫0-2刘广珩/许尹鏸（杨妮娜）"
         },
@@ -422,7 +426,7 @@
         },
         {
           "pID": "965946772",
-          "name": "2026BWF加拿大羽毛球公开赛Day4二号场地全场回放（赛场原声）（一）"
+          "name": "【全场回放】二号场地（赛场原声）（一）"
         }
       ]
     },
@@ -508,7 +512,7 @@
     },
     {
       "mgdbId": "120000563006",
-      "pID": "965791174",
+      "pID": "965947440",
       "title": "男篮世预赛美洲赛区",
       "keyword": "07月04日07:30",
       "sportItemId": "2",
@@ -525,8 +529,8 @@
       },
       "nodes": [
         {
-          "pID": "965791174",
-          "name": "赛场原声"
+          "pID": "965947440",
+          "name": "全场集锦"
         }
       ]
     },
@@ -536,7 +540,7 @@
       "title": "男篮世预赛美洲赛区",
       "keyword": "07月04日08:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Palacio de los Deportes",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/02/77HJ4VNM2B40.jpg",
@@ -560,7 +564,7 @@
     },
     {
       "mgdbId": "120000562994",
-      "pID": "965824078",
+      "pID": "965947201",
       "title": "男篮世预赛美洲赛区",
       "keyword": "07月04日08:00",
       "sportItemId": "2",
@@ -577,18 +581,18 @@
       },
       "nodes": [
         {
-          "pID": "965824078",
-          "name": "殷文玉"
+          "pID": "965947201",
+          "name": "全场集锦"
         },
         {
-          "pID": "965791165",
-          "name": "赛场原声"
+          "pID": "965946970",
+          "name": "全场回放（殷文玉）"
         }
       ]
     },
     {
       "mgdbId": "120000582019",
-      "pID": "965944324",
+      "pID": "965947238",
       "title": "NBA夏季联赛",
       "keyword": "07月04日08:00",
       "sportItemId": "2",
@@ -605,6 +609,14 @@
       },
       "nodes": [
         {
+          "pID": "965947238",
+          "name": "全场集锦"
+        },
+        {
+          "pID": "965947333",
+          "name": "全场回放（王晓晨）"
+        },
+        {
           "pID": "965944443",
           "name": "第一节"
         },
@@ -615,6 +627,10 @@
         {
           "pID": "965945636",
           "name": "第三节"
+        },
+        {
+          "pID": "965946761",
+          "name": "第四节"
         }
       ]
     },
@@ -651,7 +667,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/04/77HKVO872KPP.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/04/77HKVV1U2BPT.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "王楚钦/孙颖莎冲冠！王艺迪争八强",
       "modifyTitle": "WTT美国大满贯混双决赛、男女单打1/8决赛",
@@ -764,7 +780,7 @@
       "title": "男篮世预赛美洲赛区",
       "keyword": "07月04日10:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "Gimnasio Marcelino Gonzalez",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000562983/202511261111_692568_H169_1080.webp",
@@ -788,7 +804,7 @@
       "title": "NBA夏季联赛",
       "keyword": "07月04日10:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/03/77HK2LM2E2O9.jpg",
@@ -1337,7 +1353,7 @@
     {
       "mgdbId": "120000574505",
       "pID": "965853658",
-      "title": "���建省城市足球超级联赛",
+      "title": "福建省城市足球超级联赛",
       "keyword": "07月04日18:00",
       "sportItemId": "1",
       "matchStatus": "0",
