@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-04 12:03:49",
+  "updateTime": "2026-07-04 12:34:08",
   "data": [
     {
       "mgdbId": "120000563187",
@@ -425,12 +425,12 @@
           "name": "【全场回放】一号场地（赛场原声）（一）"
         },
         {
-          "pID": "965946772",
-          "name": "【全场回放】二号场地（赛场原声）（一）"
+          "pID": "965950538",
+          "name": "【全场回放】一号场地（赛场原声）（二）"
         },
         {
-          "pID": "965950538",
-          "name": "2026BWF加拿大羽毛球公开赛Day4一号场地全场回放（赛场原声）（二）"
+          "pID": "965946772",
+          "name": "【全场回放】二号场地（赛场原声）（一）"
         }
       ]
     },
@@ -537,18 +537,18 @@
       },
       "nodes": [
         {
-          "pID": "965950257",
-          "name": "全场回放"
-        },
-        {
           "pID": "965947440",
           "name": "全场集锦"
+        },
+        {
+          "pID": "965950257",
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
     {
       "mgdbId": "120000562982",
-      "pID": "965824063",
+      "pID": "965950695",
       "title": "男篮世预赛美洲赛区",
       "keyword": "07月04日08:00",
       "sportItemId": "2",
@@ -565,12 +565,12 @@
       },
       "nodes": [
         {
-          "pID": "965824063",
-          "name": "蔡凯臣"
+          "pID": "965950695",
+          "name": "全场集锦"
         },
         {
-          "pID": "965791161",
-          "name": "赛场原声"
+          "pID": "965950813",
+          "name": "全场回放（蔡凯臣）"
         }
       ]
     },
@@ -602,7 +602,7 @@
         },
         {
           "pID": "965949048",
-          "name": "全场回放"
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
@@ -683,7 +683,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/04/77HL08VQSII1.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/04/77HL0GSVLHP1.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "王楚钦/孙颖莎冲冠！王艺迪五局险胜",
       "modifyTitle": "WTT美国大满贯混双决赛、男女单打1/8决赛",
@@ -730,7 +730,15 @@
         },
         {
           "pID": "965950221",
+          "name": "纯享版回放（孙雷、李欣、贺宇、郭小仙儿）"
+        },
+        {
+          "pID": "965950792",
           "name": "全场回放（孙雷、李欣、贺宇、郭小仙儿）"
+        },
+        {
+          "pID": "965950631",
+          "name": "全场回放（梁祥宇、曲波、李子琪）"
         },
         {
           "pID": "965950302",
@@ -750,11 +758,7 @@
         },
         {
           "pID": "965950629",
-          "name": "全场回放"
-        },
-        {
-          "pID": "965950631",
-          "name": "全场回放（梁祥宇、曲波、李子琪）"
+          "name": "全场回放（智能解说）"
         }
       ]
     },
@@ -784,14 +788,14 @@
     },
     {
       "mgdbId": "120000582020",
-      "pID": "965896466",
+      "pID": "965950392",
       "title": "NBA夏季联赛",
       "keyword": "07月04日10:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/03/77HK2LM2E2O9.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/04/77HL0HFNEGKD.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "湖人VS勇士金队",
       "modifyTitle": "NBA夏季联赛",
@@ -801,12 +805,20 @@
       },
       "nodes": [
         {
-          "pID": "965896466",
-          "name": "徐秦威"
+          "pID": "965948920",
+          "name": "第一节"
         },
         {
-          "pID": "965897789",
-          "name": "英文原声"
+          "pID": "965949786",
+          "name": "第二节"
+        },
+        {
+          "pID": "965950611",
+          "name": "第三节"
+        },
+        {
+          "pID": "965950931",
+          "name": "第四节"
         }
       ]
     },
@@ -1211,6 +1223,30 @@
       ]
     },
     {
+      "mgdbId": "120000582231",
+      "pID": "965950455",
+      "title": "U17男篮世界杯13-16名排位赛",
+      "keyword": "07月04日16:45",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "U17男篮世界杯",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000582231/202607041140_661534_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/6/23/100000001494106794d9.png",
+      "pkInfoTitle": "委内瑞拉vs日本",
+      "modifyTitle": "U17男篮世界杯13-16名排位赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "07月04日16:45"
+      },
+      "nodes": [
+        {
+          "pID": "965950455",
+          "name": "赛场原声"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000581703",
       "pID": "965798145",
       "title": "内蒙古足球超级联赛",
@@ -1279,6 +1315,30 @@
         {
           "pID": "965799406",
           "name": "第一阶段"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000582232",
+      "pID": "965950551",
+      "title": "U17男篮世界杯5-8名排位赛",
+      "keyword": "07月04日17:15",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "U17男篮世界杯",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000582232/202607041140_465380_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/6/23/100000001494106794d9.png",
+      "pkInfoTitle": "波多黎各vs加拿大",
+      "modifyTitle": "U17男篮世界杯5-8名排位赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "07月04日17:15"
+      },
+      "nodes": [
+        {
+          "pID": "965950551",
+          "name": "赛场原声"
         }
       ]
     },
@@ -2600,6 +2660,30 @@
       ]
     },
     {
+      "mgdbId": "120000582233",
+      "pID": "965950501",
+      "title": "U17男篮世界杯13-16名排位赛",
+      "keyword": "07月04日19:30",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "U17男篮世界杯",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000582233/202607041140_606647_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/6/23/100000001494106794d9.png",
+      "pkInfoTitle": "喀麦隆vs意大利",
+      "modifyTitle": "U17男篮世界杯13-16名排位赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "07月04日19:30"
+      },
+      "nodes": [
+        {
+          "pID": "965950501",
+          "name": "赛场原声"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000569685",
       "pID": "965856437",
       "title": "中超联赛",
@@ -2908,6 +2992,30 @@
       ]
     },
     {
+      "mgdbId": "120000582234",
+      "pID": "965950556",
+      "title": "U17男篮世界杯5-8名排位赛",
+      "keyword": "07月04日20:00",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "U17男篮世界杯",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000582234/202607041141_464667_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/6/23/100000001494106794d9.png",
+      "pkInfoTitle": "法国vs立陶宛",
+      "modifyTitle": "U17男篮世界杯5-8名排位赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "07月04日20:00"
+      },
+      "nodes": [
+        {
+          "pID": "965950556",
+          "name": "赛场原声"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000580994",
       "pID": "965601443",
       "title": "新疆足球超级联赛",
@@ -2972,6 +3080,34 @@
       "nodes": [
         {
           "pID": "965833712",
+          "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000582235",
+      "pID": "965950390",
+      "title": "U17男篮世界杯9-12名排位赛",
+      "keyword": "07月04日22:15",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "U17男篮世界杯",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/04/77HL0IOTC0RT.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/6/23/100000001494106794d9.png",
+      "pkInfoTitle": "中国vs新西兰",
+      "modifyTitle": "U17男篮世界杯9-12名排位赛",
+      "presenters": "石楷文",
+      "matchInfo": {
+        "time": "07月04日22:15"
+      },
+      "nodes": [
+        {
+          "pID": "965950390",
+          "name": "石楷文"
+        },
+        {
+          "pID": "965950515",
           "name": "赛场原声"
         }
       ]
@@ -3053,6 +3189,34 @@
         {
           "pID": "965801365",
           "name": "1号场地"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000582236",
+      "pID": "965950417",
+      "title": "U17男篮世界杯半决赛",
+      "keyword": "07月04日23:00",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "U17男篮世界杯",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000582236/202607041145_404969_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/6/23/100000001494106794d9.png",
+      "pkInfoTitle": "美国vs澳大利亚",
+      "modifyTitle": "U17男篮世界杯半决赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "07月04日23:00"
+      },
+      "nodes": [
+        {
+          "pID": "965950417",
+          "name": "英文解说"
+        },
+        {
+          "pID": "965950588",
+          "name": "赛场原声"
         }
       ]
     }
