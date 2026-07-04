@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-04 19:34:04",
+  "updateTime": "2026-07-04 20:04:14",
   "data": [
     {
       "mgdbId": "120000563187",
@@ -1193,7 +1193,7 @@
     {
       "mgdbId": "120000581702",
       "pID": "965798062",
-      "title": "内蒙古足球超级联���",
+      "title": "内蒙古足球超级联赛",
       "keyword": "07月04日16:00",
       "sportItemId": "1",
       "matchStatus": "2",
@@ -1329,6 +1329,10 @@
       },
       "nodes": [
         {
+          "pID": "965960094",
+          "name": "全场回放"
+        },
+        {
           "pID": "965958135",
           "name": "全场集锦"
         }
@@ -1353,8 +1357,8 @@
       },
       "nodes": [
         {
-          "pID": "965798145",
-          "name": "2026赛季内蒙古足球超级联赛第八轮: 巴彦淖尔队vs赤峰队"
+          "pID": "965960276",
+          "name": "全场回放"
         }
       ]
     },
@@ -1425,8 +1429,8 @@
       },
       "nodes": [
         {
-          "pID": "965833209",
-          "name": "2026赛季山东省齐鲁足球超级联赛第八轮: 聊城传奇农商行VS枣庄丰源轮胎队"
+          "pID": "965960226",
+          "name": "全场回放"
         }
       ]
     },
@@ -1449,8 +1453,8 @@
       },
       "nodes": [
         {
-          "pID": "965950551",
-          "name": "赛场原声"
+          "pID": "965959048",
+          "name": "全场集锦"
         }
       ]
     },
@@ -1484,7 +1488,7 @@
       "title": "中甲联赛",
       "keyword": "07月04日18:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "延吉市全民健身体育中心体育场",
       "competitionName": "中甲",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000570651/202603010105_197675_H169_1080.webp",
@@ -1536,7 +1540,7 @@
       "title": "贵州村超联赛",
       "keyword": "07月04日18:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "贵州村超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000581998/202607021058_890467_H169_1080.webp",
@@ -2865,7 +2869,7 @@
       "title": "东北地区城市足球联赛",
       "keyword": "07月04日19:35",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "东北超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000574256/202604131635_940223_H169_1080.webp",
@@ -2889,7 +2893,7 @@
       "title": "东北地区城市足球联赛",
       "keyword": "07月04日19:35",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "东北超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000574257/202604131635_715165_H169_1080.webp",
@@ -2913,7 +2917,7 @@
       "title": "东北地区城市足球联赛",
       "keyword": "07月04日19:35",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "东北超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000574258/202604131635_721305_H169_1080.webp",
@@ -2933,10 +2937,11 @@
     },
     {
       "mgdbId": "120000581973",
+      "pID": "965884924",
       "title": "苏超常规赛第12周",
       "keyword": "07月04日19:40",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "苏超",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000581973/577033_H169_sc.jpg",
@@ -2947,14 +2952,20 @@
       "matchInfo": {
         "time": "07月04日19:40"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "965884924",
+          "name": "官方解说"
+        }
+      ]
     },
     {
       "mgdbId": "120000581974",
+      "pID": "965884946",
       "title": "苏超常规赛第12周",
       "keyword": "07月04日19:40",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "苏超",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000581974/724826_H169_sc.jpg",
@@ -2965,14 +2976,20 @@
       "matchInfo": {
         "time": "07月04日19:40"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "965884946",
+          "name": "官方解说"
+        }
+      ]
     },
     {
       "mgdbId": "120000581975",
+      "pID": "965884973",
       "title": "苏超常规赛第12周",
       "keyword": "07月04日19:40",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "苏超",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000581975/859133_H169_sc.jpg",
@@ -2983,14 +3000,20 @@
       "matchInfo": {
         "time": "07月04日19:40"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "965884973",
+          "name": "官方解说"
+        }
+      ]
     },
     {
       "mgdbId": "120000581977",
+      "pID": "965885010",
       "title": "苏超常规赛第12周",
       "keyword": "07月04日19:40",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "苏超",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000581977/944310_H169_sc.jpg",
@@ -3001,7 +3024,12 @@
       "matchInfo": {
         "time": "07月04日19:40"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "965885010",
+          "name": "官方解说"
+        }
+      ]
     },
     {
       "mgdbId": "120000569684",
@@ -3009,7 +3037,7 @@
       "title": "中超联赛",
       "keyword": "07月04日20:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "泰达足球场",
       "competitionName": "中超",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000569684/703274_H169_sc.jpg",
@@ -3037,7 +3065,7 @@
       "title": "中乙联赛",
       "keyword": "07月04日20:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "双流体育中心",
       "competitionName": "中乙",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000571962/202603120922_355513_H169_1080.webp",
@@ -3061,7 +3089,7 @@
       "title": "新疆足球超级联赛",
       "keyword": "07月04日20:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "疆超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000580995/202606231436_994022_H169_1080.webp",
@@ -3085,7 +3113,7 @@
       "title": "贵州村超联赛",
       "keyword": "07月04日20:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "贵州村超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000581999/202607021101_959945_H169_1080.webp",
@@ -3109,7 +3137,7 @@
       "title": "U17男篮世界杯5-8名排位赛",
       "keyword": "07月04日20:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "U17男篮世界杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/04/77HKTVNOL11F.jpg",
