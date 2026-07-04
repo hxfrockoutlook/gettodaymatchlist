@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-05 07:16:29",
+  "updateTime": "2026-07-05 07:33:01",
   "data": [
     {
       "mgdbId": "120000563078",
@@ -20,6 +20,10 @@
         "time": "07月05日01:00"
       },
       "nodes": [
+        {
+          "pID": "965976327",
+          "name": "全场回放"
+        },
         {
           "pID": "965972221",
           "name": "全场集锦"
@@ -229,54 +233,42 @@
       },
       "nodes": [
         {
-          "pID": "965595049",
-          "name": "赛场原声"
+          "pID": "965975615",
+          "name": "2026LGCT浪琴环球马术冠军赛摩纳哥站LGCT大奖赛全场回放（赛场原声）"
         },
         {
-          "pID": "965595065",
-          "name": "英文解说"
-        },
-        {
-          "pID": "965595091",
-          "name": "中文解说"
+          "pID": "965976336",
+          "name": "2026LGCT浪琴环球马术冠军赛摩纳哥站LGCT大奖赛全场回放（英文解说）"
         }
       ]
     },
     {
       "mgdbId": "120000580363",
-      "pID": "965623963",
-      "title": "王曼昱/蒯曼冲冠 大迪横扫朱芊曦",
+      "pID": "965628483",
+      "title": "王曼昱/蒯曼摘国乒首冠 大迪横扫",
       "keyword": "07月05日03:00",
       "sportItemId": "7",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/05/77HLRT42V8J7.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/05/77HLS5OHFKGE.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "王曼昱/蒯曼冲冠 大迪横扫朱芊曦",
+      "pkInfoTitle": "王曼昱/蒯曼摘国乒首冠 大迪横扫",
       "modifyTitle": "WTT美国大满贯女双决赛、男女单打1/4决赛",
-      "presenters": "徐铭辰",
+      "presenters": "",
       "matchInfo": {
         "time": "07月05日03:00"
       },
       "nodes": [
         {
-          "pID": "965623963",
-          "name": "徐铭辰"
-        },
-        {
-          "pID": "965628483",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "965797299",
-          "name": "智能字幕"
+          "pID": "965976447",
+          "name": "【女双决赛】王曼昱/蒯曼3-1张本美和/早田希娜"
         }
       ]
     },
     {
       "mgdbId": "120000582025",
-      "pID": "965972300",
+      "pID": "965976074",
       "title": "NBA夏季联赛",
       "keyword": "07月05日03:00",
       "sportItemId": "2",
@@ -292,6 +284,10 @@
         "time": "07月05日03:00"
       },
       "nodes": [
+        {
+          "pID": "965976074",
+          "name": "全场集锦"
+        },
         {
           "pID": "965973740",
           "name": "全场回放（姜帆）"
@@ -364,7 +360,7 @@
     },
     {
       "mgdbId": "120000581726",
-      "pID": "965956296",
+      "pID": "965956286",
       "title": "赖浩俊压阵 李梓嘉无缘决赛",
       "keyword": "07月05日04:30",
       "sportItemId": "6",
@@ -381,8 +377,8 @@
       },
       "nodes": [
         {
-          "pID": "965956296",
-          "name": "王曦曦/盖骆VS铃木阳向/山北奈绪"
+          "pID": "965956286",
+          "name": "赖浩俊VS冲本优大"
         },
         {
           "pID": "965801314",
@@ -400,10 +396,10 @@
       "title": "世界杯1/8决赛",
       "keyword": "07月05日05:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "费城球场",
       "competitionName": "世界杯",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/05/77HLRS6H6B1O.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/05/77HLS5IK0GHU.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg",
       "pkInfoTitle": "巴拉圭 vs 法国",
       "modifyTitle": "世界杯1/8决赛",
@@ -413,85 +409,41 @@
       },
       "nodes": [
         {
-          "pID": "965947707",
-          "name": "詹俊 张路 孙葆洁 程思钦"
+          "pID": "965976406",
+          "name": "超长版集锦"
         },
         {
-          "pID": "965947825",
-          "name": "AI智慧观赛"
+          "pID": "965976351",
+          "name": "全场集锦"
         },
         {
-          "pID": "965947660",
-          "name": "粤语：陈凯冬 陆毅隽"
+          "pID": "965976309",
+          "name": "纯享版回放（詹俊、张路、孙葆洁、程思钦）"
         },
         {
-          "pID": "965947674",
-          "name": "女声：兰子非"
+          "pID": "965976451",
+          "name": "全场回放（陈渤胄）"
         },
         {
-          "pID": "965947635",
-          "name": "新声代：鹿中原 乔迁"
+          "pID": "965976449",
+          "name": "全场回放（洪荒）"
         },
         {
-          "pID": "965947657",
-          "name": "闽南语：洪荒"
-        },
-        {
-          "pID": "965947645",
-          "name": "沪语：陈渤胄"
-        },
-        {
-          "pID": "965947573",
-          "name": "巴拉圭队视角"
-        },
-        {
-          "pID": "965947547",
-          "name": "法国队视角"
-        },
-        {
-          "pID": "965947475",
-          "name": "巴拉圭队球星视角"
-        },
-        {
-          "pID": "965947448",
-          "name": "法国队球星视角"
-        },
-        {
-          "pID": "965947464",
-          "name": "最佳观赛位"
-        },
-        {
-          "pID": "965947419",
-          "name": "开天眼了！"
-        },
-        {
-          "pID": "965271838",
-          "name": "CCTV5"
-        },
-        {
-          "pID": "965947608",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "965947753",
-          "name": "为了听不到的你"
-        },
-        {
-          "pID": "965947745",
-          "name": "沪语智能字幕"
+          "pID": "965976390",
+          "name": "全场回放（兰子非）"
         }
       ]
     },
     {
       "mgdbId": "120000582026",
-      "pID": "965896543",
+      "pID": "965976007",
       "title": "NBA夏季联赛",
       "keyword": "07月05日05:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/04/77HKVTOGAI1F.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/05/77HLS6MN33SE.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "篮网VS国王",
       "modifyTitle": "NBA夏季联赛",
@@ -500,6 +452,10 @@
         "time": "07月05日05:00"
       },
       "nodes": [
+        {
+          "pID": "965976007",
+          "name": "游刃有余！杰明全场奔袭一条龙对抗上篮得手"
+        },
         {
           "pID": "965896543",
           "name": "蔡凯臣"
@@ -512,14 +468,14 @@
     },
     {
       "mgdbId": "120000582032",
-      "pID": "965896630",
+      "pID": "965976428",
       "title": "NBA夏季联赛",
       "keyword": "07月05日05:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/04/77HKVU2UABIJ.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/05/77HLS17QM6VL.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "老鹰VS爵士",
       "modifyTitle": "NBA夏季联赛",
@@ -529,12 +485,28 @@
       },
       "nodes": [
         {
-          "pID": "965896630",
-          "name": "刘沛元"
+          "pID": "965976428",
+          "name": "全场集锦"
         },
         {
-          "pID": "965898484",
-          "name": "英文原声"
+          "pID": "965974050",
+          "name": "第一节"
+        },
+        {
+          "pID": "965974670",
+          "name": "第二节"
+        },
+        {
+          "pID": "965975371",
+          "name": "第三节"
+        },
+        {
+          "pID": "965975884",
+          "name": "第四节"
+        },
+        {
+          "pID": "965976156",
+          "name": "加时1"
         }
       ]
     },
@@ -571,7 +543,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "HYROX全球健身跑系列赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/03/77HK37GUS2EJ.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/05/77HLS78SOES3.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/7/3/1000000015041061cc80.png",
       "pkInfoTitle": "HYROX2026杭州站",
       "modifyTitle": "HYROX2026杭州站",
@@ -1788,7 +1760,16 @@
       "matchInfo": {
         "time": "07月05日19:35"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "965855155",
+          "name": "娄一晨 刘越 魏欣怡"
+        },
+        {
+          "pID": "965855141",
+          "name": "赛场原声"
+        }
+      ]
     },
     {
       "mgdbId": "120000571104",
