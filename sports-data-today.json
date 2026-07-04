@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-05 05:33:03",
+  "updateTime": "2026-07-05 06:03:01",
   "data": [
     {
       "mgdbId": "120000563078",
@@ -137,12 +137,12 @@
       },
       "nodes": [
         {
-          "pID": "965973035",
-          "name": "全场回放"
-        },
-        {
           "pID": "965972684",
           "name": "全场集锦"
+        },
+        {
+          "pID": "965973035",
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
@@ -165,12 +165,12 @@
       },
       "nodes": [
         {
-          "pID": "965973651",
-          "name": "全场回放"
-        },
-        {
           "pID": "965972787",
           "name": "全场集锦"
+        },
+        {
+          "pID": "965973651",
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
@@ -195,6 +195,14 @@
         {
           "pID": "965973191",
           "name": "全场集锦"
+        },
+        {
+          "pID": "965974270",
+          "name": "全场回放（英文解说）"
+        },
+        {
+          "pID": "965974187",
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
@@ -233,15 +241,15 @@
     {
       "mgdbId": "120000580363",
       "pID": "965623963",
-      "title": "王曼昱/蒯曼冲冠！王艺迪战朱芊曦",
+      "title": "王曼昱/蒯曼冲冠 大迪横扫朱芊曦",
       "keyword": "07月05日03:00",
       "sportItemId": "7",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/05/77HLRDNI39MH.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/05/77HLRLOREHIQ.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "王曼昱/蒯曼冲冠！王艺迪战朱芊曦",
+      "pkInfoTitle": "王曼昱/蒯曼冲冠 大迪横扫朱芊曦",
       "modifyTitle": "WTT美国大满贯女双决赛、男女单打1/4决赛",
       "presenters": "徐铭辰",
       "matchInfo": {
@@ -299,6 +307,10 @@
         {
           "pID": "965973529",
           "name": "第四节"
+        },
+        {
+          "pID": "965974734",
+          "name": "全场回放"
         }
       ]
     },
@@ -323,6 +335,10 @@
         {
           "pID": "965973554",
           "name": "全场回放（罗森）"
+        },
+        {
+          "pID": "965974172",
+          "name": "全场回放（英文原声）"
         },
         {
           "pID": "965972368",
