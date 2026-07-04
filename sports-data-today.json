@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-05 04:03:00",
+  "updateTime": "2026-07-05 04:32:56",
   "data": [
     {
       "mgdbId": "120000563078",
@@ -62,7 +62,7 @@
         },
         {
           "pID": "965972151",
-          "name": "全场回放（兰子非）"
+          "name": "全场回放（兰子非���"
         },
         {
           "pID": "965972192",
@@ -83,6 +83,10 @@
         {
           "pID": "965972457",
           "name": "全场回放（AI智慧观赛）"
+        },
+        {
+          "pID": "965972703",
+          "name": "全场回放（智能解说）"
         }
       ]
     },
@@ -105,18 +109,18 @@
       },
       "nodes": [
         {
-          "pID": "965972689",
-          "name": "全场回放"
-        },
-        {
           "pID": "965972313",
           "name": "全场集锦"
+        },
+        {
+          "pID": "965972689",
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
     {
       "mgdbId": "120000563090",
-      "pID": "960639612",
+      "pID": "965972684",
       "title": "男篮世预赛非洲赛区",
       "keyword": "07月05日02:00",
       "sportItemId": "2",
@@ -133,22 +137,18 @@
       },
       "nodes": [
         {
-          "pID": "960639612",
-          "name": "天赋无极限！2027男篮世预赛非洲赛区谁能脱颖而出？"
-        },
-        {
-          "pID": "965833759",
-          "name": "赛场原声"
+          "pID": "965972684",
+          "name": "全场集锦"
         }
       ]
     },
     {
       "mgdbId": "120000563114",
-      "pID": "965833778",
+      "pID": "965776092",
       "title": "男篮世预赛非洲赛区",
       "keyword": "07月05日02:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Pavilhao Multiusos de Luanda",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000563114/202511261142_993708_H169_1080.webp",
@@ -161,8 +161,8 @@
       },
       "nodes": [
         {
-          "pID": "965833778",
-          "name": "赛场原声"
+          "pID": "965972787",
+          "name": "全场集锦"
         }
       ]
     },
@@ -239,7 +239,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/05/77HLQRRLSQNF.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/05/77HLR984N5IM.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "王曼昱/蒯曼冲冠！王艺迪战朱芊曦",
       "modifyTitle": "WTT美国大满贯女双决赛、男女单打1/4决赛",
@@ -299,7 +299,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/04/77HKVPQF3FLI.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/05/77HLR9304H63.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "灰熊VS雷霆",
       "modifyTitle": "NBA夏季联赛",
@@ -324,7 +324,7 @@
       "title": "本土赖浩俊、李文珊出战 李梓嘉冲决赛",
       "keyword": "07月05日04:30",
       "sportItemId": "6",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "BWF",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/05/77HLQQLLIQ2C.jpg",
@@ -367,6 +367,14 @@
         {
           "pID": "965947707",
           "name": "詹俊 张路 孙葆洁 程思钦"
+        },
+        {
+          "pID": "965947573",
+          "name": "巴拉圭队视角"
+        },
+        {
+          "pID": "965947547",
+          "name": "法国队视角"
         },
         {
           "pID": "965947825",
