@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-05 23:03:33",
+  "updateTime": "2026-07-05 23:33:09",
   "data": [
     {
       "mgdbId": "120000563078",
@@ -1361,8 +1361,8 @@
       },
       "nodes": [
         {
-          "pID": "965915188",
-          "name": "解说"
+          "pID": "965998266",
+          "name": "全场回放（官方解说）"
         }
       ]
     },
@@ -1386,7 +1386,7 @@
       "nodes": [
         {
           "pID": "965998055",
-          "name": "全场回放"
+          "name": "全场回放（官方解说）"
         }
       ]
     },
@@ -1507,6 +1507,10 @@
         {
           "pID": "965996662",
           "name": "全场回放（王睿涓）"
+        },
+        {
+          "pID": "965998298",
+          "name": "全场回放"
         },
         {
           "pID": "965996788",
@@ -1697,8 +1701,8 @@
       },
       "nodes": [
         {
-          "pID": "965917929",
-          "name": "赛场原声"
+          "pID": "965998425",
+          "name": "全场回放"
         }
       ]
     },
@@ -1768,6 +1772,10 @@
         {
           "pID": "965996068",
           "name": "全场集锦"
+        },
+        {
+          "pID": "965997606",
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
@@ -1815,11 +1823,7 @@
       "nodes": [
         {
           "pID": "965997912",
-          "name": "全场回放"
-        },
-        {
-          "pID": "965997996",
-          "name": "全场回放"
+          "name": "全场回放（官方解说）"
         }
       ]
     },
@@ -1871,7 +1875,7 @@
       "nodes": [
         {
           "pID": "965998005",
-          "name": "全场回放"
+          "name": "全场回放（官方解说）"
         }
       ]
     },
@@ -1894,8 +1898,8 @@
       },
       "nodes": [
         {
-          "pID": "965915381",
-          "name": "解说"
+          "pID": "965998274",
+          "name": "全场回放（官方解说）"
         }
       ]
     },
@@ -2022,7 +2026,7 @@
     {
       "mgdbId": "120000581804",
       "pID": "965833750",
-      "title": "山东省齐鲁足��超级联赛",
+      "title": "山东省齐鲁足球超级联赛",
       "keyword": "07月05日19:30",
       "sportItemId": "1",
       "matchStatus": "2",
@@ -2138,8 +2142,8 @@
       },
       "nodes": [
         {
-          "pID": "963424414",
-          "name": "2026赛季四川省城市足球联赛第17轮: 成都锦城队vs绵阳九洲长虹队"
+          "pID": "965998545",
+          "name": "全场回放"
         }
       ]
     },
@@ -2216,6 +2220,10 @@
         {
           "pID": "965997459",
           "name": "全场集锦"
+        },
+        {
+          "pID": "965998252",
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
@@ -2329,7 +2337,7 @@
       "title": "新疆足球超级联赛",
       "keyword": "07月05日21:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "疆超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000580997/202606231436_688515_H169_1080.webp",
@@ -2353,7 +2361,7 @@
       "title": "新疆足球超级联赛",
       "keyword": "07月05日21:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "疆超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000580998/202606231440_223077_H169_1080.webp",
@@ -2394,11 +2402,11 @@
     },
     {
       "mgdbId": "120000563056",
-      "pID": "965793393",
+      "pID": "965776092",
       "title": "男篮世预赛亚洲赛区",
       "keyword": "07月05日21:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Prince Hamza",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/04/77HKU6JN4E4V.jpg",
@@ -2411,8 +2419,8 @@
       },
       "nodes": [
         {
-          "pID": "965793393",
-          "name": "赛场原声"
+          "pID": "965998455",
+          "name": "全场集锦"
         }
       ]
     },
@@ -2654,7 +2662,7 @@
       "title": "男篮世预赛欧洲赛区",
       "keyword": "07月05日23:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "Otar Korkia and Nodar Jorjikia Tbilisi Sports Palace",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/04/77HL01NM18UF.jpg",
