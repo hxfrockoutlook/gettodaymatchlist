@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-06 04:31:58",
+  "updateTime": "2026-07-06 05:02:00",
   "data": [
     {
       "mgdbId": "120000563057",
@@ -248,11 +248,11 @@
     },
     {
       "mgdbId": "120000563141",
-      "pID": "965832274",
+      "pID": "965776092",
       "title": "男篮世预赛欧洲赛区",
       "keyword": "07月06日02:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Sports Hall Topolica",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000563141/202511261151_691095_H169_1080.webp",
@@ -264,6 +264,10 @@
         "time": "07月06日02:30"
       },
       "nodes": [
+        {
+          "pID": "965776092",
+          "name": "上咪咕 看男篮世预赛！中国男篮披甲出征 全程直击赛场内外"
+        },
         {
           "pID": "965832274",
           "name": "赛场原声"
@@ -304,14 +308,14 @@
     },
     {
       "mgdbId": "120000582017",
-      "pID": "966000548",
+      "pID": "966001122",
       "title": "BIG3",
       "keyword": "07月06日03:00",
       "sportItemId": "2",
       "matchStatus": "2",
       "matchField": "",
       "competitionName": "BIG3",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/06/77HMNGIJCA0I.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/06/77HMOHSOQFTD.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/6/20/1000000014971069d7b4.jpeg",
       "pkInfoTitle": "迈阿密305vs芝加哥三雄",
       "modifyTitle": "BIG3",
@@ -321,26 +325,18 @@
       },
       "nodes": [
         {
-          "pID": "966000548",
-          "name": "一柱擎天！哈雷尔抢下篮板强起双手暴扣虐筐"
-        },
-        {
-          "pID": "965892702",
-          "name": "周鹏"
-        },
-        {
-          "pID": "965892908",
-          "name": "英文原声"
+          "pID": "966001122",
+          "name": "全场回放（周鹏）"
         }
       ]
     },
     {
       "mgdbId": "120000582027",
-      "pID": "965896564",
+      "pID": "966000286",
       "title": "NBA夏季联赛",
       "keyword": "07月06日03:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/06/77HMOF0E9PHV.jpg",
@@ -353,12 +349,20 @@
       },
       "nodes": [
         {
-          "pID": "965896564",
-          "name": "张泽欣"
+          "pID": "965999984",
+          "name": "第一节"
         },
         {
-          "pID": "965898218",
-          "name": "英文原声"
+          "pID": "966000515",
+          "name": "第二节"
+        },
+        {
+          "pID": "966000867",
+          "name": "第三节"
+        },
+        {
+          "pID": "966001298",
+          "name": "第四节"
         }
       ]
     },
@@ -512,7 +516,7 @@
       "title": "NBA夏季联赛",
       "keyword": "07月06日05:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/05/77HLT0V4R07A.jpg",
@@ -653,7 +657,7 @@
     {
       "mgdbId": "120000563020",
       "pID": "965791214",
-      "title": "男篮世预赛美洲赛��",
+      "title": "男篮世预赛美洲赛区",
       "keyword": "07月06日08:10",
       "sportItemId": "2",
       "matchStatus": "0",
