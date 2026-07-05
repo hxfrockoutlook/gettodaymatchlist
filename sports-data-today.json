@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-06 02:31:46",
+  "updateTime": "2026-07-06 03:01:53",
   "data": [
     {
       "mgdbId": "120000563057",
@@ -32,11 +32,11 @@
     },
     {
       "mgdbId": "120000563140",
-      "pID": "965832229",
+      "pID": "965776092",
       "title": "男篮世预赛欧洲赛区",
       "keyword": "07月06日00:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "SUNEL Arena",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000563140/202511261151_751450_H169_1080.webp",
@@ -60,11 +60,11 @@
     },
     {
       "mgdbId": "120000563080",
-      "pID": "965833878",
+      "pID": "960639612",
       "title": "男篮世预赛非洲赛区",
       "keyword": "07月06日01:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Complexe multisports de Japoma",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/04/77HL01TP5I51.jpg",
@@ -76,6 +76,10 @@
         "time": "07月06日01:00"
       },
       "nodes": [
+        {
+          "pID": "960639612",
+          "name": "天赋无极限！2027男篮世预赛非洲赛区谁能脱颖而出？"
+        },
         {
           "pID": "965833878",
           "name": "赛场原声"
@@ -91,7 +95,7 @@
       "matchStatus": "2",
       "matchField": "",
       "competitionName": "BIG3",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/06/77HMNGFN2HM7.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/06/77HMNT2EAUJ3.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/6/20/1000000014971069d7b4.jpeg",
       "pkInfoTitle": "达拉斯动力vs底特律脉冲",
       "modifyTitle": "BIG3",
@@ -101,16 +105,8 @@
       },
       "nodes": [
         {
-          "pID": "965999497",
-          "name": "一剑封喉！斯图尔特三分手起刀落结束上半场"
-        },
-        {
-          "pID": "965892421",
-          "name": "连睿"
-        },
-        {
-          "pID": "965892491",
-          "name": "英文原声"
+          "pID": "965999737",
+          "name": "全场回放（连睿）"
         }
       ]
     },
@@ -276,7 +272,7 @@
       "title": "争决赛席位！孙颖莎PK王艺迪",
       "keyword": "07月06日03:00",
       "sportItemId": "7",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/05/77HLR4QC14VJ.png",
@@ -308,7 +304,7 @@
       "title": "BIG3",
       "keyword": "07月06日03:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "BIG3",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/06/77HMNGIJCA0I.jpg",
@@ -336,7 +332,7 @@
       "title": "NBA夏季联赛",
       "keyword": "07月06日03:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/05/77HLSSU5RQ25.jpg",
@@ -364,7 +360,7 @@
       "title": "世界杯1/8决赛",
       "keyword": "07月06日04:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "纽约/新泽西球场",
       "competitionName": "世界杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/03/77HK390MK4TN.jpg",
@@ -379,6 +375,14 @@
         {
           "pID": "965948194",
           "name": "詹俊 张路 武磊 孙继海 李子琪"
+        },
+        {
+          "pID": "965948070",
+          "name": "巴西队视角"
+        },
+        {
+          "pID": "965948064",
+          "name": "挪威队视角"
         },
         {
           "pID": "965947907",
