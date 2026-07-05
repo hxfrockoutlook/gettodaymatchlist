@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-06 05:31:47",
+  "updateTime": "2026-07-06 06:01:55",
   "data": [
     {
       "mgdbId": "120000563057",
@@ -116,7 +116,7 @@
     },
     {
       "mgdbId": "120000582295",
-      "pID": "965999830",
+      "pID": "966002385",
       "title": "U17男篮世界杯决赛",
       "keyword": "07月06日01:15",
       "sportItemId": "2",
@@ -133,12 +133,16 @@
       },
       "nodes": [
         {
+          "pID": "966002385",
+          "name": "全场集锦"
+        },
+        {
           "pID": "965999830",
           "name": "全场回放（姜帆）"
         },
         {
           "pID": "966001637",
-          "name": "全场回放"
+          "name": "全场回放（原声）"
         }
       ]
     },
@@ -161,18 +165,18 @@
       },
       "nodes": [
         {
-          "pID": "966001543",
-          "name": "全场回放"
-        },
-        {
           "pID": "966000561",
           "name": "全场集锦"
+        },
+        {
+          "pID": "966001543",
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
     {
       "mgdbId": "120000563116",
-      "pID": "965776092",
+      "pID": "966001086",
       "title": "男篮世预赛非洲赛区",
       "keyword": "07月06日02:00",
       "sportItemId": "2",
@@ -189,8 +193,12 @@
       },
       "nodes": [
         {
+          "pID": "966001086",
+          "name": "全场集锦"
+        },
+        {
           "pID": "966001395",
-          "name": "全场回放"
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
@@ -213,8 +221,12 @@
       },
       "nodes": [
         {
+          "pID": "966001394",
+          "name": "全场集锦"
+        },
+        {
           "pID": "966001360",
-          "name": "全场回放"
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
@@ -265,12 +277,8 @@
       },
       "nodes": [
         {
-          "pID": "965776092",
-          "name": "上咪咕 看男篮世预赛！中国男篮披甲出征 全程直击赛场内外"
-        },
-        {
-          "pID": "965832274",
-          "name": "赛场原声"
+          "pID": "966001545",
+          "name": "全场集锦"
         }
       ]
     },
@@ -361,6 +369,10 @@
           "name": "全场回放（张泽欣）"
         },
         {
+          "pID": "966001962",
+          "name": "全场回放（英文原声）"
+        },
+        {
           "pID": "965999984",
           "name": "第一节"
         },
@@ -387,7 +399,7 @@
       "matchStatus": "1",
       "matchField": "纽约/新泽西球场",
       "competitionName": "世界杯",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/06/77HMOF0SRJ98.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/06/77HMOQUUDTSD.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg",
       "pkInfoTitle": "巴西 vs 挪威",
       "modifyTitle": "世界杯1/8决赛",
@@ -468,11 +480,11 @@
     },
     {
       "mgdbId": "120000582018",
-      "pID": "965892808",
+      "pID": "966001606",
       "title": "BIG3",
       "keyword": "07月06日04:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "BIG3",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/06/77HMNGKIDFLP.jpg",
@@ -484,6 +496,10 @@
         "time": "07月06日04:00"
       },
       "nodes": [
+        {
+          "pID": "966001606",
+          "name": "先声夺人！克拉克中距离翻身跳投拿下首分"
+        },
         {
           "pID": "965892808",
           "name": "周鹏"
