@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-06 03:31:47",
+  "updateTime": "2026-07-06 04:01:49",
   "data": [
     {
       "mgdbId": "120000563057",
@@ -23,6 +23,10 @@
         {
           "pID": "965999655",
           "name": "全场集锦"
+        },
+        {
+          "pID": "966000332",
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
@@ -76,7 +80,7 @@
     },
     {
       "mgdbId": "120000582014",
-      "pID": "965999497",
+      "pID": "965999737",
       "title": "BIG3",
       "keyword": "07月06日01:00",
       "sportItemId": "2",
@@ -95,16 +99,20 @@
         {
           "pID": "965999737",
           "name": "全场回放（连睿）"
+        },
+        {
+          "pID": "966000340",
+          "name": "全场回放"
         }
       ]
     },
     {
       "mgdbId": "120000582295",
-      "pID": "965981132",
+      "pID": "965999830",
       "title": "U17男篮世界杯决赛",
       "keyword": "07月06日01:15",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "U17男篮世界杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/05/77HLQD5R98J8.jpg",
@@ -117,26 +125,18 @@
       },
       "nodes": [
         {
-          "pID": "965981132",
-          "name": "姜帆"
-        },
-        {
-          "pID": "965981148",
-          "name": "英文解说"
-        },
-        {
-          "pID": "965981204",
-          "name": "赛场原声"
+          "pID": "965999830",
+          "name": "全场回放（姜帆）"
         }
       ]
     },
     {
       "mgdbId": "120000563092",
-      "pID": "965833902",
+      "pID": "965776092",
       "title": "男篮世预赛非洲赛区",
       "keyword": "07月06日02:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Stadium Marius Ndiaye",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000563092/202511261137_617352_H169_1080.webp",
@@ -148,6 +148,10 @@
         "time": "07月06日02:00"
       },
       "nodes": [
+        {
+          "pID": "965776092",
+          "name": "上咪咕 看男篮世预赛！中国男篮披甲出征 全程直击赛场内外"
+        },
         {
           "pID": "965833902",
           "name": "赛场原声"
@@ -204,7 +208,7 @@
     },
     {
       "mgdbId": "120000582016",
-      "pID": "965999764",
+      "pID": "966000089",
       "title": "BIG3",
       "keyword": "07月06日02:00",
       "sportItemId": "2",
@@ -221,16 +225,12 @@
       },
       "nodes": [
         {
-          "pID": "965999764",
-          "name": "神射手附体！帕戈连续命中3记4分球打停洛杉矶"
+          "pID": "966000089",
+          "name": "全场回放（连睿）"
         },
         {
-          "pID": "965892527",
-          "name": "连睿"
-        },
-        {
-          "pID": "965892747",
-          "name": "英文原声"
+          "pID": "966000489",
+          "name": "全场回放"
         }
       ]
     },
@@ -261,15 +261,15 @@
     {
       "mgdbId": "120000580365",
       "pID": "965623577",
-      "title": "争决赛席位！孙颖莎PK王艺迪",
+      "title": "孙颖莎4-1王艺迪 蒯曼迎战美和",
       "keyword": "07月06日03:00",
       "sportItemId": "7",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/05/77HLR4QC14VJ.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/06/77HMO8AOHODA.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "争决赛席位！孙颖莎PK王艺迪",
+      "pkInfoTitle": "孙颖莎4-1王艺迪 蒯曼迎战美和",
       "modifyTitle": "WTT美国大满贯男女单打半决赛",
       "presenters": "周泽昊",
       "matchInfo": {
@@ -369,14 +369,6 @@
           "name": "詹俊 张路 武磊 孙继海 李子琪"
         },
         {
-          "pID": "965948070",
-          "name": "巴西队视角"
-        },
-        {
-          "pID": "965948064",
-          "name": "挪威队视角"
-        },
-        {
           "pID": "965947907",
           "name": "AI智慧观赛"
         },
@@ -389,8 +381,24 @@
           "name": "女声：兰子非 胡小凡"
         },
         {
+          "pID": "965947996",
+          "name": "巴西队球星视角"
+        },
+        {
+          "pID": "965947978",
+          "name": "挪威队球星视角"
+        },
+        {
           "pID": "965948134",
           "name": "新声代：张昊泽 涂远"
+        },
+        {
+          "pID": "965948070",
+          "name": "巴西队视角"
+        },
+        {
+          "pID": "965948064",
+          "name": "挪威队视角"
         },
         {
           "pID": "965271838",
@@ -399,6 +407,18 @@
         {
           "pID": "965948103",
           "name": "赛场原声"
+        },
+        {
+          "pID": "965948016",
+          "name": "我在主席台看球"
+        },
+        {
+          "pID": "965947986",
+          "name": "最佳观赛位"
+        },
+        {
+          "pID": "965947968",
+          "name": "开天眼了！"
         },
         {
           "pID": "965947860",
@@ -420,7 +440,7 @@
       "title": "BIG3",
       "keyword": "07月06日04:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "BIG3",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/06/77HMNGKIDFLP.jpg",
