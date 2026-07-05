@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-05 10:02:37",
+  "updateTime": "2026-07-05 10:33:04",
   "data": [
     {
       "mgdbId": "120000563078",
@@ -26,7 +26,7 @@
         },
         {
           "pID": "965976327",
-          "name": "全场回放"
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
@@ -239,6 +239,10 @@
         {
           "pID": "965976336",
           "name": "2026LGCT浪琴环球马术冠军赛摩纳哥站LGCT大奖赛全场回放（英文解说）"
+        },
+        {
+          "pID": "965978769",
+          "name": "2026LGCT浪琴环球马术冠军赛摩纳哥站LGCT大奖赛全场回放（中文解说）"
         }
       ]
     },
@@ -274,7 +278,7 @@
         },
         {
           "pID": "965978335",
-          "name": "2026WTT美国大满贯Day9夜间场全场回放（英文解说）"
+          "name": "全场回放（英文解说）"
         }
       ]
     },
@@ -419,6 +423,10 @@
         {
           "pID": "965975223",
           "name": "【全场回放】一号场地（英文解说）（一）"
+        },
+        {
+          "pID": "965978488",
+          "name": "【全场回放】二号场地（赛场原声）（一）"
         }
       ]
     },
@@ -636,11 +644,11 @@
     },
     {
       "mgdbId": "120000563007",
-      "pID": "965791100",
+      "pID": "965978906",
       "title": "男篮世预赛美洲赛区",
       "keyword": "07月05日08:10",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Coliseo Evangelista Mora",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/04/77HKU1G9IBOE.jpg",
@@ -653,8 +661,8 @@
       },
       "nodes": [
         {
-          "pID": "965791100",
-          "name": "赛场原声"
+          "pID": "965978906",
+          "name": "全场集锦"
         }
       ]
     },
@@ -667,7 +675,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/05/77HLSR4ATBIT.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/05/77HLT224326F.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "孙颖莎4-0陈幸同 争冠！国乒男双对对碰",
       "modifyTitle": "WTT美国大满贯男双决赛、男女单打1/4决赛",
