@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-05 16:33:17",
+  "updateTime": "2026-07-05 17:03:02",
   "data": [
     {
       "mgdbId": "120000563078",
@@ -430,7 +430,7 @@
         },
         {
           "pID": "965981260",
-          "name": "【全场回放】一号场地（英文解说��（二）"
+          "name": "【全场回放】一号场地（英文解说）（二）"
         },
         {
           "pID": "965978488",
@@ -837,6 +837,10 @@
           "name": "全场回放（刘馨蕊）"
         },
         {
+          "pID": "965988345",
+          "name": "全场回放"
+        },
+        {
           "pID": "965987209",
           "name": "【集锦】金山物流汇喆宇6-8静安中安弘"
         }
@@ -866,7 +870,7 @@
         },
         {
           "pID": "965987384",
-          "name": "上海乒乓球嘉年华市级循环赛第14轮回放：上善青浦8-4闵行沿浦（赛场原声）"
+          "name": "全场回放"
         },
         {
           "pID": "965986570",
@@ -968,7 +972,7 @@
       "title": "精彩回顾：萨巴伦卡 vs 亚历山德洛娃",
       "keyword": "07月05日15:00",
       "sportItemId": "9",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/04/77HKTM6QGARM.png",
@@ -981,8 +985,8 @@
       },
       "nodes": [
         {
-          "pID": "965696925",
-          "name": "赛场原声"
+          "pID": "965470981",
+          "name": "全场回放"
         }
       ]
     },
@@ -1136,7 +1140,7 @@
       "title": "男篮世预赛非洲赛区",
       "keyword": "07月05日17:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "Pavilhao Multiusos de Luanda",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/04/77HKU0K8S101.jpg",
@@ -1160,7 +1164,7 @@
       "title": "【重播】吴宜泽登顶2025南京之巅",
       "keyword": "07月05日17:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/29/77FGPFGOL5AL.png",
@@ -2470,7 +2474,7 @@
     },
     {
       "mgdbId": "120000581727",
-      "pID": "965810065",
+      "pID": "965987703",
       "title": "收官之战！刘广珩/许尹鏸全力冲冠",
       "keyword": "07月05日23:00",
       "sportItemId": "6",
@@ -2481,11 +2485,15 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "收官之战！刘广珩/许尹鏸全力冲冠",
       "modifyTitle": "加拿大羽毛球公开赛第六日：收官之战！刘广珩/许尹鏸全力冲冠",
-      "presenters": "余博洋 朱胤丞",
+      "presenters": "朱胤丞",
       "matchInfo": {
         "time": "07月05日23:00"
       },
       "nodes": [
+        {
+          "pID": "965987703",
+          "name": "刘广珩/许尹鏸VS古贺辉/斋藤夏"
+        },
         {
           "pID": "965810065",
           "name": "1号场地"
@@ -2493,26 +2501,6 @@
         {
           "pID": "965810108",
           "name": "1号场地"
-        },
-        {
-          "pID": "965987634",
-          "name": "余博洋"
-        },
-        {
-          "pID": "965987653",
-          "name": "余博洋"
-        },
-        {
-          "pID": "965987678",
-          "name": "朱胤丞"
-        },
-        {
-          "pID": "965987688",
-          "name": "朱胤丞"
-        },
-        {
-          "pID": "965987703",
-          "name": "朱胤丞"
         }
       ]
     },
