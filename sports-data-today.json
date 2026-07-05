@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-06 07:01:56",
+  "updateTime": "2026-07-06 07:31:47",
   "data": [
     {
       "mgdbId": "120000563057",
@@ -288,14 +288,14 @@
     },
     {
       "mgdbId": "120000580365",
-      "pID": "965623577",
+      "pID": "965628540",
       "title": "孙颖莎4-1王艺迪 蒯曼七局力克美和",
       "keyword": "07月06日03:00",
       "sportItemId": "7",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/06/77HMOVRUE7KI.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/06/77HMP8SN560O.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "孙颖莎4-1王艺迪 蒯曼七局力克美和",
       "modifyTitle": "WTT美国大满贯男女单打半决赛",
@@ -305,16 +305,12 @@
       },
       "nodes": [
         {
-          "pID": "965623577",
-          "name": "周泽昊"
+          "pID": "966004478",
+          "name": "全场回放（周泽昊）"
         },
         {
-          "pID": "965628540",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "965797336",
-          "name": "智能字幕"
+          "pID": "966000535",
+          "name": "【女单半决赛】孙颖莎4-1王艺迪"
         }
       ]
     },
@@ -532,11 +528,11 @@
     },
     {
       "mgdbId": "120000582028",
-      "pID": "965896570",
+      "pID": "966003242",
       "title": "NBA夏季联赛",
       "keyword": "07月06日05:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/06/77HMP47U6VBR.jpg",
@@ -549,12 +545,16 @@
       },
       "nodes": [
         {
-          "pID": "965896570",
-          "name": "王冠证"
+          "pID": "966003787",
+          "name": "第一节"
         },
         {
-          "pID": "965898220",
-          "name": "英文原声"
+          "pID": "966003857",
+          "name": "第二节"
+        },
+        {
+          "pID": "966003927",
+          "name": "第三节"
         }
       ]
     },
@@ -564,7 +564,7 @@
       "title": "男篮世预赛美洲赛区",
       "keyword": "07月06日05:40",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Antel Arena",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000563021/202511261120_102216_H169_1080.webp",
@@ -611,10 +611,34 @@
       ]
     },
     {
+      "mgdbId": "120000563020",
+      "pID": "965791214",
+      "title": "男篮世预赛美洲赛区",
+      "keyword": "07月06日08:10",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "Arena Roberto Durán",
+      "competitionName": "男篮世预赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/05/77HLQGFRCDIV.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/11/26/10000000019110696ecb.jpg",
+      "pkInfoTitle": "巴拿马vs阿根廷",
+      "modifyTitle": "男篮世预赛美洲赛区",
+      "presenters": "",
+      "matchInfo": {
+        "time": "07月06日08:10"
+      },
+      "nodes": [
+        {
+          "pID": "965791214",
+          "name": "赛场原声"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000575605",
       "pID": "965948986",
       "title": "世界杯1/8决赛",
-      "keyword": "07月06日08:00",
+      "keyword": "07月06日09:00",
       "sportItemId": "1",
       "matchStatus": "1",
       "matchField": "墨西哥城球场",
@@ -625,7 +649,7 @@
       "modifyTitle": "世界杯1/8决赛",
       "presenters": "苏东 刘越 杨九郎 梁祥宇 贺宇",
       "matchInfo": {
-        "time": "07月06日08:00"
+        "time": "07月06日09:00"
       },
       "nodes": [
         {
@@ -633,12 +657,16 @@
           "name": "苏东 刘越 杨九郎 郭小仙儿"
         },
         {
-          "pID": "965948812",
-          "name": "墨西哥队视角"
+          "pID": "965948926",
+          "name": "粤语：陈曦 陈熙荣"
         },
         {
           "pID": "965948804",
           "name": "英格兰队视角"
+        },
+        {
+          "pID": "965948812",
+          "name": "墨西哥队视角"
         },
         {
           "pID": "965948269",
@@ -647,10 +675,6 @@
         {
           "pID": "965948976",
           "name": "梁祥宇 贺宇"
-        },
-        {
-          "pID": "965948926",
-          "name": "粤语：陈曦 陈熙荣"
         },
         {
           "pID": "965948941",
@@ -687,33 +711,9 @@
       ]
     },
     {
-      "mgdbId": "120000563020",
-      "pID": "965791214",
-      "title": "男篮世预赛美洲赛区",
-      "keyword": "07月06日08:10",
-      "sportItemId": "2",
-      "matchStatus": "0",
-      "matchField": "Arena Roberto Durán",
-      "competitionName": "男篮世预赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/05/77HLQGFRCDIV.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/11/26/10000000019110696ecb.jpg",
-      "pkInfoTitle": "巴拿马vs阿根廷",
-      "modifyTitle": "男篮世预赛美洲赛区",
-      "presenters": "",
-      "matchInfo": {
-        "time": "07月06日08:10"
-      },
-      "nodes": [
-        {
-          "pID": "965791214",
-          "name": "赛场原声"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000580366",
       "pID": "965623504",
-      "title": "男女单打决赛",
+      "title": "争冠！孙颖莎PK蒯曼 松岛迎战俄罗斯黑马",
       "keyword": "07月06日10:00",
       "sportItemId": "7",
       "matchStatus": "0",
@@ -721,7 +721,7 @@
       "competitionName": "WTT",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/06/77HMP492SRU0.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "男女单打决赛",
+      "pkInfoTitle": "争冠！孙颖莎PK蒯曼 松岛迎战俄罗斯黑马",
       "modifyTitle": "WTT美国大满贯男女单打决赛",
       "presenters": "周冠达 刘国正",
       "matchInfo": {
