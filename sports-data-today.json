@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-05 19:03:08",
+  "updateTime": "2026-07-05 19:33:10",
   "data": [
     {
       "mgdbId": "120000563078",
@@ -430,7 +430,7 @@
         },
         {
           "pID": "965981260",
-          "name": "【全场回放】一号���地（英文解说）（二）"
+          "name": "【全场回放】一号场地（英文解说）（二）"
         },
         {
           "pID": "965978488",
@@ -673,12 +673,12 @@
       },
       "nodes": [
         {
-          "pID": "965980437",
-          "name": "全场回放"
-        },
-        {
           "pID": "965978906",
           "name": "全场集锦"
+        },
+        {
+          "pID": "965980437",
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
@@ -1105,8 +1105,8 @@
       },
       "nodes": [
         {
-          "pID": "965915111",
-          "name": "解说"
+          "pID": "965991705",
+          "name": "全场回放（官方解说）"
         }
       ]
     },
@@ -1184,7 +1184,7 @@
     },
     {
       "mgdbId": "120000563104",
-      "pID": "965833782",
+      "pID": "965991208",
       "title": "男篮世预赛非洲赛区",
       "keyword": "07月05日17:00",
       "sportItemId": "2",
@@ -1201,8 +1201,8 @@
       },
       "nodes": [
         {
-          "pID": "965833782",
-          "name": "赛场原声"
+          "pID": "965991208",
+          "name": "全场集锦"
         }
       ]
     },
@@ -1212,7 +1212,7 @@
       "title": "【重播】吴宜泽登顶2025南京之巅",
       "keyword": "07月05日17:00",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/06/29/77FGPFGOL5AL.png",
@@ -1363,7 +1363,7 @@
       "matchStatus": "1",
       "matchField": "普湾体育场",
       "competitionName": "中乙",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000571959/202607051927_287650_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/3/19/1000000011571066d376.png",
       "pkInfoTitle": "大连英博B队 vs 青岛红狮",
       "modifyTitle": "中乙联赛",
@@ -1415,7 +1415,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "乒乓球嘉年华",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/03/77HK173DG0UF.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/05/77HLS5DTIIM6.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/9/100000001435106852ee.png",
       "pkInfoTitle": "虹口邮储银行 vs 黄浦南房",
       "modifyTitle": "上海乒乓球嘉年华市级循环赛第十四轮：虹口邮储银行vs黄浦南房",
@@ -1709,7 +1709,7 @@
       "title": "U17男篮世界杯5-6名排位赛",
       "keyword": "07月05日19:15",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "U17男篮世界杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/05/77HLQDNE0HAR.jpg",
@@ -1733,7 +1733,7 @@
       "title": "中甲联赛",
       "keyword": "07月05日19:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "五华奥体中心惠堂体育场",
       "competitionName": "中甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000570644/601185_H169_sc.jpg",
@@ -1761,7 +1761,7 @@
       "title": "中甲联赛",
       "keyword": "07月05日19:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "中甲",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000570645/202603010102_957277_H169_1080.webp",
@@ -1789,7 +1789,7 @@
       "title": "中甲联赛",
       "keyword": "07月05日19:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "江苏五台山体育中心体育场",
       "competitionName": "中甲",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000570646/202603010102_328492_H169_1080.webp",
@@ -1817,7 +1817,7 @@
       "title": "中乙联赛",
       "keyword": "07月05日19:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "遵义奥体中心",
       "competitionName": "中乙",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000571956/202603120921_173971_H169_1080.webp",
@@ -1841,7 +1841,7 @@
       "title": "中乙联赛",
       "keyword": "07月05日19:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "临平体育中心体育场",
       "competitionName": "中乙",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000571957/202603120921_558961_H169_1080.webp",
@@ -1865,7 +1865,7 @@
       "title": "江西省城市足球超级联赛",
       "keyword": "07月05日19:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "赣超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000580913/202606231026_104178_H169_1080.webp",
@@ -1889,7 +1889,7 @@
       "title": "象山VS余姚",
       "keyword": "07月05日19:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "浙BA",
       "padImg": "",
@@ -1913,7 +1913,7 @@
       "title": "长兴VS安吉",
       "keyword": "07月05日19:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "浙BA",
       "padImg": "",
@@ -1937,7 +1937,7 @@
       "title": "金东VS永康",
       "keyword": "07月05日19:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "浙BA",
       "padImg": "",
@@ -1961,7 +1961,7 @@
       "title": "临海VS玉环",
       "keyword": "07月05日19:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "浙BA",
       "padImg": "",
@@ -1985,7 +1985,7 @@
       "title": "山东省齐鲁足球超级联赛",
       "keyword": "07月05日19:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "齐鲁超赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000581804/202606301520_616845_H169_1080.webp",
@@ -2133,7 +2133,7 @@
       "title": "银川国际青年足球锦标赛 第1轮",
       "keyword": "07月05日19:35",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "中国之队·银川国际青年足球锦标赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/03/77HK28KTE0FM.jpg",
@@ -2335,7 +2335,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "世界杯",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/05/77HLS7ATNFGO.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg",
       "pkInfoTitle": "人机大战：谁是世界杯预言家 第11期",
       "modifyTitle": "人机大战：谁是世界杯预言家 第11期",
