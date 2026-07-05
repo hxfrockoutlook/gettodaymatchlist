@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-06 05:02:00",
+  "updateTime": "2026-07-06 05:31:47",
   "data": [
     {
       "mgdbId": "120000563057",
@@ -135,6 +135,10 @@
         {
           "pID": "965999830",
           "name": "全场回放（姜帆）"
+        },
+        {
+          "pID": "966001637",
+          "name": "全场回放"
         }
       ]
     },
@@ -156,6 +160,10 @@
         "time": "07月06日02:00"
       },
       "nodes": [
+        {
+          "pID": "966001543",
+          "name": "全场回放"
+        },
         {
           "pID": "966000561",
           "name": "全场集锦"
@@ -181,12 +189,8 @@
       },
       "nodes": [
         {
-          "pID": "965776092",
-          "name": "上咪咕 看男篮世预赛！中国男篮披甲出征 全程直击赛场内外"
-        },
-        {
-          "pID": "965833918",
-          "name": "赛场原声"
+          "pID": "966001395",
+          "name": "全场回放"
         }
       ]
     },
@@ -209,12 +213,8 @@
       },
       "nodes": [
         {
-          "pID": "965776092",
-          "name": "上咪咕 看男篮世预赛！中国男篮披甲出征 全程直击赛场内外"
-        },
-        {
-          "pID": "965832248",
-          "name": "赛场原声"
+          "pID": "966001360",
+          "name": "全场回放"
         }
       ]
     },
@@ -277,15 +277,15 @@
     {
       "mgdbId": "120000580365",
       "pID": "965623577",
-      "title": "孙颖莎4-1王艺迪 蒯曼迎战美和",
+      "title": "孙颖莎4-1王艺迪 蒯曼七局力克美和",
       "keyword": "07月06日03:00",
       "sportItemId": "7",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/06/77HMO8AOHODA.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/06/77HMONJFB1NC.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "孙颖莎4-1王艺迪 蒯曼迎战美和",
+      "pkInfoTitle": "孙颖莎4-1王艺迪 蒯曼七局力克美和",
       "modifyTitle": "WTT美国大满贯男女单打半决赛",
       "presenters": "周泽昊",
       "matchInfo": {
@@ -327,12 +327,16 @@
         {
           "pID": "966001122",
           "name": "全场回放（周鹏）"
+        },
+        {
+          "pID": "966001699",
+          "name": "全场回放"
         }
       ]
     },
     {
       "mgdbId": "120000582027",
-      "pID": "966000286",
+      "pID": "966001561",
       "title": "NBA夏季联赛",
       "keyword": "07月06日03:00",
       "sportItemId": "2",
@@ -348,6 +352,14 @@
         "time": "07月06日03:00"
       },
       "nodes": [
+        {
+          "pID": "966001561",
+          "name": "全场集锦"
+        },
+        {
+          "pID": "966001378",
+          "name": "全场回放（张泽欣）"
+        },
         {
           "pID": "965999984",
           "name": "第一节"
@@ -544,7 +556,7 @@
       "title": "男篮世预赛美洲赛区",
       "keyword": "07月06日05:40",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "Antel Arena",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000563021/202511261120_102216_H169_1080.webp",
