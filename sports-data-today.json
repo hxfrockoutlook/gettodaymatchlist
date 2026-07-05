@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-05 22:33:26",
+  "updateTime": "2026-07-05 23:03:33",
   "data": [
     {
       "mgdbId": "120000563078",
@@ -526,7 +526,7 @@
         },
         {
           "pID": "965976592",
-          "name": "全场回放（蔡凯���）"
+          "name": "全场回放（蔡凯臣）"
         },
         {
           "pID": "965977248",
@@ -1385,8 +1385,8 @@
       },
       "nodes": [
         {
-          "pID": "965915167",
-          "name": "解说"
+          "pID": "965998055",
+          "name": "全场回放"
         }
       ]
     },
@@ -1649,8 +1649,8 @@
       },
       "nodes": [
         {
-          "pID": "965917882",
-          "name": "赛场原声"
+          "pID": "965998013",
+          "name": "全场回放"
         }
       ]
     },
@@ -1790,12 +1790,8 @@
       },
       "nodes": [
         {
-          "pID": "965822210",
-          "name": "解说"
-        },
-        {
-          "pID": "965822232",
-          "name": "赛场原声"
+          "pID": "965997891",
+          "name": "全场回放（官方解说）"
         }
       ]
     },
@@ -1818,12 +1814,12 @@
       },
       "nodes": [
         {
-          "pID": "965822289",
-          "name": "解说"
+          "pID": "965997912",
+          "name": "全场回放"
         },
         {
-          "pID": "965822297",
-          "name": "赛场原声"
+          "pID": "965997996",
+          "name": "全场回放"
         }
       ]
     },
@@ -1874,8 +1870,8 @@
       },
       "nodes": [
         {
-          "pID": "965915620",
-          "name": "解说"
+          "pID": "965998005",
+          "name": "全场回放"
         }
       ]
     },
@@ -2026,7 +2022,7 @@
     {
       "mgdbId": "120000581804",
       "pID": "965833750",
-      "title": "山东���齐鲁足球超级联赛",
+      "title": "山东省齐鲁足��超级联赛",
       "keyword": "07月05日19:30",
       "sportItemId": "1",
       "matchStatus": "2",
@@ -2201,7 +2197,7 @@
     },
     {
       "mgdbId": "120000563105",
-      "pID": "965833806",
+      "pID": "965997459",
       "title": "男篮世预赛非洲赛区",
       "keyword": "07月05日20:00",
       "sportItemId": "2",
@@ -2277,7 +2273,7 @@
     },
     {
       "mgdbId": "120000582292",
-      "pID": "965605676",
+      "pID": "965997835",
       "title": "U17男篮世界杯11-12名排位赛",
       "keyword": "07月05日20:30",
       "sportItemId": "2",
@@ -2294,22 +2290,18 @@
       },
       "nodes": [
         {
-          "pID": "965605676",
-          "name": "16支球队集结！U17男篮世界杯球队巡礼 谁能最终登顶？"
-        },
-        {
-          "pID": "965981169",
-          "name": "赛场原声"
+          "pID": "965997835",
+          "name": "全场集锦"
         }
       ]
     },
     {
       "mgdbId": "120000563129",
-      "pID": "965832105",
+      "pID": "965776092",
       "title": "男篮世预赛欧洲赛区",
       "keyword": "07月05日21:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Farum Arena",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/04/77HKU19QHJ7K.jpg",
@@ -2321,6 +2313,10 @@
         "time": "07月05日21:00"
       },
       "nodes": [
+        {
+          "pID": "965776092",
+          "name": "上咪咕 看男篮世预赛！中国男篮披甲出征 全程直击赛场内外"
+        },
         {
           "pID": "965832105",
           "name": "赛场原声"
@@ -2380,10 +2376,10 @@
       "pID": "965549825",
       "title": "人机大战：颜强苏东推演巴西战术",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "世界杯",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/05/77HLS7ATNFGO.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/05/77HLS7HG9FVE.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg",
       "pkInfoTitle": "人机大战：颜强苏东推演巴西战术",
       "modifyTitle": "人机大战：谁是世界杯预言家 第11期",
@@ -2502,7 +2498,7 @@
       "title": "男篮世预赛亚洲赛区",
       "keyword": "07月05日23:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "Veer Savarkar Indoor Stadium",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000563068/202511261131_898193_H169_1080.webp",
@@ -2526,7 +2522,7 @@
       "title": "男篮世预赛亚洲赛区",
       "keyword": "07月05日23:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "King Abdullah Sports City",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/04/77HKU753AH0I.jpg",
@@ -2550,7 +2546,7 @@
       "title": "男篮世预赛非洲赛区",
       "keyword": "07月05日23:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "Stadium Marius Ndiaye",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000563093/202511261136_839911_H169_1080.webp",
@@ -2574,7 +2570,7 @@
       "title": "男篮世预赛非洲赛区",
       "keyword": "07月05日23:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "Pavilhao Multiusos de Luanda",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000563117/202511261145_319333_H169_1080.webp",
@@ -2598,7 +2594,7 @@
       "title": "收官之战！刘广珩/许尹鏸全力冲冠",
       "keyword": "07月05日23:00",
       "sportItemId": "6",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "BWF",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/05/77HLQG9NK5RK.jpg",
@@ -2630,7 +2626,7 @@
       "title": "U17男篮世界杯9-10名排位赛",
       "keyword": "07月05日23:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "U17男篮世界杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/05/77HLQDE0J3DG.jpg",
