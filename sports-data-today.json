@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-06 06:31:50",
+  "updateTime": "2026-07-06 07:01:56",
   "data": [
     {
       "mgdbId": "120000563057",
@@ -143,6 +143,10 @@
         {
           "pID": "966001637",
           "name": "全场回放（原声）"
+        },
+        {
+          "pID": "966003498",
+          "name": "全场回放"
         }
       ]
     },
@@ -396,7 +400,7 @@
       "title": "世界杯1/8决赛",
       "keyword": "07月06日04:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "纽约/新泽西球场",
       "competitionName": "世界杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/06/77HMOQUUDTSD.jpg",
@@ -409,40 +413,48 @@
       },
       "nodes": [
         {
-          "pID": "965948194",
-          "name": "詹俊 张路 武磊 孙继海 李子琪"
+          "pID": "966003711",
+          "name": "超长版集锦"
         },
         {
-          "pID": "965947860",
-          "name": "为了听不到的你"
+          "pID": "966003610",
+          "name": "全场集锦"
         },
         {
-          "pID": "965947907",
-          "name": "AI智慧观赛"
+          "pID": "966003457",
+          "name": "纯享版回放（詹俊、张路、武磊、孙继海、李子琪）"
         },
         {
-          "pID": "965948169",
-          "name": "粤语：任锴 梁柏翘"
+          "pID": "966003888",
+          "name": "全场回放（詹俊、张路、武磊、孙继海、李子琪）"
         },
         {
-          "pID": "965948188",
-          "name": "女声：兰子非 胡小凡"
+          "pID": "966003693",
+          "name": "全场回放（兰子非、胡小凡）"
         },
         {
-          "pID": "965948134",
-          "name": "新声代：张昊泽 涂远"
+          "pID": "966003628",
+          "name": "全场回放（张昊泽、涂远）"
         },
         {
-          "pID": "965948103",
-          "name": "赛场原声"
+          "pID": "966003494",
+          "name": "全场回放（洪荒）"
         },
         {
-          "pID": "965948162",
-          "name": "闽南语：洪荒"
+          "pID": "966003487",
+          "name": "全场回放（陈渤胄）"
         },
         {
-          "pID": "965948136",
-          "name": "沪语：陈渤胄"
+          "pID": "966003908",
+          "name": "全场回放（任锴、梁柏翘）"
+        },
+        {
+          "pID": "966003719",
+          "name": "全场回放（AI智慧观赛）"
+        },
+        {
+          "pID": "966003913",
+          "name": "全场回放（智能解说）"
         }
       ]
     },
@@ -476,11 +488,11 @@
     },
     {
       "mgdbId": "120000582021",
-      "pID": "965896478",
+      "pID": "966002581",
       "title": "NBA夏季联赛",
       "keyword": "07月06日04:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/06/77HMP0EF2SG5.jpg",
@@ -493,12 +505,28 @@
       },
       "nodes": [
         {
-          "pID": "965896478",
-          "name": "盛哲"
+          "pID": "966001397",
+          "name": "第一节"
         },
         {
-          "pID": "965897910",
-          "name": "英文原声"
+          "pID": "966001820",
+          "name": "第二节"
+        },
+        {
+          "pID": "966002927",
+          "name": "第三节"
+        },
+        {
+          "pID": "966003871",
+          "name": "第四节"
+        },
+        {
+          "pID": "966003876",
+          "name": "加时1"
+        },
+        {
+          "pID": "966003971",
+          "name": "加时2"
         }
       ]
     },
@@ -511,7 +539,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/05/77HLT0V4R07A.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/06/77HMP47U6VBR.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "勇士蓝队VS国王",
       "modifyTitle": "NBA夏季联赛",
@@ -560,7 +588,7 @@
       "title": "NBA夏季联赛",
       "keyword": "07月06日07:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/05/77HLT12U50B4.jpg",
@@ -588,7 +616,7 @@
       "title": "世界杯1/8决赛",
       "keyword": "07月06日08:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "墨西哥城球场",
       "competitionName": "世界杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/04/77HL0G94TS4G.jpg",
@@ -603,6 +631,14 @@
         {
           "pID": "965948986",
           "name": "苏东 刘越 杨九郎 郭小仙儿"
+        },
+        {
+          "pID": "965948812",
+          "name": "墨西哥队视角"
+        },
+        {
+          "pID": "965948804",
+          "name": "英格兰队视角"
         },
         {
           "pID": "965948269",
@@ -631,6 +667,10 @@
         {
           "pID": "965948913",
           "name": "沪语：陈渤胄"
+        },
+        {
+          "pID": "965271838",
+          "name": "CCTV5"
         },
         {
           "pID": "965948895",
@@ -679,7 +719,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/06/77HMP492SRU0.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "男女单打决赛",
       "modifyTitle": "WTT美国大满贯男女单打决赛",
