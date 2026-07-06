@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-07 03:35:44",
+  "updateTime": "2026-07-07 04:02:04",
   "data": [
     {
       "mgdbId": "120000563152",
@@ -27,6 +27,10 @@
         {
           "pID": "966026224",
           "name": "全场回放（周鹏）"
+        },
+        {
+          "pID": "966026608",
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
@@ -75,6 +79,10 @@
         {
           "pID": "966026240",
           "name": "全场集锦"
+        },
+        {
+          "pID": "966026640",
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
@@ -97,6 +105,10 @@
       },
       "nodes": [
         {
+          "pID": "966026904",
+          "name": "全场回放"
+        },
+        {
           "pID": "966026349",
           "name": "全场集锦"
         }
@@ -104,7 +116,7 @@
     },
     {
       "mgdbId": "120000563176",
-      "pID": "965776092",
+      "pID": "966026483",
       "title": "男篮世预赛欧洲赛区",
       "keyword": "07月07日01:00",
       "sportItemId": "2",
@@ -123,16 +135,20 @@
         {
           "pID": "966026483",
           "name": "全场集锦"
+        },
+        {
+          "pID": "966026471",
+          "name": "全场回放（徐秦威）"
         }
       ]
     },
     {
       "mgdbId": "120000563153",
-      "pID": "965833185",
+      "pID": "965776092",
       "title": "男篮世预赛欧洲赛区",
       "keyword": "07月07日02:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Aleksandar Nikolic Hall",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/05/77HLQRDNE16T.jpg",
@@ -145,6 +161,10 @@
       },
       "nodes": [
         {
+          "pID": "965776092",
+          "name": "上咪咕 看男篮世预赛！中国男篮披甲出征 全程直击赛场内外"
+        },
+        {
           "pID": "965833185",
           "name": "季孟年"
         },
@@ -156,11 +176,11 @@
     },
     {
       "mgdbId": "120000563177",
-      "pID": "965833219",
+      "pID": "960639313",
       "title": "男篮世预赛欧洲赛区",
       "keyword": "07月07日02:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Sports Hall \"Gradski Vrt\"",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/05/77HLQOJAS9DV.jpg",
@@ -172,6 +192,10 @@
         "time": "07月07日02:00"
       },
       "nodes": [
+        {
+          "pID": "960639313",
+          "name": "欧洲篮坛超巨环伺！德意志战车卫冕之路荆棘密布"
+        },
         {
           "pID": "965833219",
           "name": "赛场原声"
