@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-06 14:31:46",
+  "updateTime": "2026-07-06 15:01:55",
   "data": [
     {
       "mgdbId": "120000563057",
@@ -757,6 +757,10 @@
           "name": "全场回放（张天翼、洪宇青）"
         },
         {
+          "pID": "966011079",
+          "name": "全场回放（AI智慧观赛）"
+        },
+        {
           "pID": "966010834",
           "name": "全场回放（智能解说）"
         }
@@ -803,6 +807,14 @@
         {
           "pID": "966013044",
           "name": "全场回放（周冠达、刘国正）"
+        },
+        {
+          "pID": "966015433",
+          "name": "全场回放"
+        },
+        {
+          "pID": "966015762",
+          "name": "全场回放（英文解说）"
         }
       ]
     },
@@ -836,7 +848,7 @@
       "title": "精彩回顾：萨巴伦卡 vs 巴图科娃",
       "keyword": "07月06日12:00",
       "sportItemId": "9",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/05/77HLRJ8EBG4I.png",
@@ -916,7 +928,7 @@
       "title": "男篮世预赛亚洲赛区",
       "keyword": "07月06日15:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "EventFinda Stadium",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000563033/202511261122_944886_H169_1080.webp",
@@ -940,7 +952,7 @@
       "title": "精彩回顾：佩古拉 vs 凯斯",
       "keyword": "07月06日15:00",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/05/77HLRJDOOO07.png",
@@ -1028,6 +1040,78 @@
         {
           "pID": "965274189",
           "name": "绿茵狂想第25期"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000582319",
+      "pID": "966010939",
+      "title": "海盐VS秀洲",
+      "keyword": "07月06日19:30",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "浙BA",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/7/16/1000000012931063812e.png",
+      "pkInfoTitle": "海盐VS秀洲",
+      "modifyTitle": "海盐VS秀洲",
+      "presenters": "",
+      "matchInfo": {
+        "time": "07月06日19:30"
+      },
+      "nodes": [
+        {
+          "pID": "966010939",
+          "name": "2026赛季浙江省城市篮球联赛嘉兴赛区: 海盐VS秀洲"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000582320",
+      "pID": "966010956",
+      "title": "云和VS缙云",
+      "keyword": "07月06日19:30",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "浙BA",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/7/16/1000000012931063812e.png",
+      "pkInfoTitle": "云和VS缙云",
+      "modifyTitle": "云和VS缙云",
+      "presenters": "",
+      "matchInfo": {
+        "time": "07月06日19:30"
+      },
+      "nodes": [
+        {
+          "pID": "966010956",
+          "name": "2026赛季浙江省城市篮球联赛丽水赛区: 云和VS缙云"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000582321",
+      "pID": "966010967",
+      "title": "景宁VS遂昌",
+      "keyword": "07月06日19:30",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "浙BA",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/7/16/1000000012931063812e.png",
+      "pkInfoTitle": "景宁VS遂昌",
+      "modifyTitle": "景宁VS遂昌",
+      "presenters": "",
+      "matchInfo": {
+        "time": "07月06日19:30"
+      },
+      "nodes": [
+        {
+          "pID": "966010967",
+          "name": "2026赛季浙江省城市篮球联赛丽水赛区: 景宁VS遂昌"
         }
       ]
     },
