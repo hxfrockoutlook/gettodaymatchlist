@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-07 04:02:04",
+  "updateTime": "2026-07-07 04:32:02",
   "data": [
     {
       "mgdbId": "120000563152",
@@ -105,12 +105,12 @@
       },
       "nodes": [
         {
-          "pID": "966026904",
-          "name": "全场回放"
-        },
-        {
           "pID": "966026349",
           "name": "全场集锦"
+        },
+        {
+          "pID": "966026904",
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
@@ -144,7 +144,7 @@
     },
     {
       "mgdbId": "120000563153",
-      "pID": "965776092",
+      "pID": "966027303",
       "title": "男篮世预赛欧洲赛区",
       "keyword": "07月07日02:00",
       "sportItemId": "2",
@@ -161,16 +161,8 @@
       },
       "nodes": [
         {
-          "pID": "965776092",
-          "name": "上咪咕 看男篮世预赛！中国男篮披甲出征 全程直击赛场内外"
-        },
-        {
-          "pID": "965833185",
-          "name": "季孟年"
-        },
-        {
-          "pID": "965833201",
-          "name": "赛场原声"
+          "pID": "966027303",
+          "name": "全场集锦"
         }
       ]
     },
@@ -204,11 +196,11 @@
     },
     {
       "mgdbId": "120000563212",
-      "pID": "965833365",
+      "pID": "965776092",
       "title": "男篮世预赛欧洲赛区",
       "keyword": "07月07日02:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Arena Stožice",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000563212/202511261207_953358_H169_1080.webp",
@@ -221,6 +213,10 @@
       },
       "nodes": [
         {
+          "pID": "965776092",
+          "name": "上咪咕 看男篮世预赛！中国男篮披甲出征 全程直击赛场内外"
+        },
+        {
           "pID": "965833365",
           "name": "赛场原声"
         }
@@ -228,11 +224,11 @@
     },
     {
       "mgdbId": "120000563200",
-      "pID": "965833396",
+      "pID": "965776092",
       "title": "男篮世预赛欧洲赛区",
       "keyword": "07月07日02:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Palais des Sports de Pau",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/05/77HLQOK1HSTM.jpg",
@@ -244,6 +240,10 @@
         "time": "07月07日02:30"
       },
       "nodes": [
+        {
+          "pID": "965776092",
+          "name": "上咪咕 看男篮世预赛！中国男篮披甲出征 全程直击赛场内外"
+        },
         {
           "pID": "965833396",
           "name": "王冠证"
