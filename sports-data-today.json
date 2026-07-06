@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-06 09:01:47",
+  "updateTime": "2026-07-06 09:31:38",
   "data": [
     {
       "mgdbId": "120000563057",
@@ -281,6 +281,10 @@
       },
       "nodes": [
         {
+          "pID": "966006028",
+          "name": "全场回放"
+        },
+        {
           "pID": "966001545",
           "name": "全场集锦"
         }
@@ -509,6 +513,10 @@
           "name": "全场回放（盛哲）"
         },
         {
+          "pID": "966004757",
+          "name": "全场回放（英文原声）"
+        },
+        {
           "pID": "966001397",
           "name": "第一节"
         },
@@ -536,7 +544,7 @@
     },
     {
       "mgdbId": "120000582028",
-      "pID": "966003242",
+      "pID": "966004734",
       "title": "NBA夏季联赛",
       "keyword": "07月06日05:00",
       "sportItemId": "2",
@@ -559,6 +567,10 @@
         {
           "pID": "966004477",
           "name": "全场回放"
+        },
+        {
+          "pID": "966005168",
+          "name": "全场回放（英文原声）"
         },
         {
           "pID": "966003787",
@@ -608,7 +620,7 @@
     },
     {
       "mgdbId": "120000582022",
-      "pID": "966004981",
+      "pID": "966005496",
       "title": "NBA夏季联赛",
       "keyword": "07月06日07:00",
       "sportItemId": "2",
@@ -625,12 +637,28 @@
       },
       "nodes": [
         {
+          "pID": "966005496",
+          "name": "全场集锦"
+        },
+        {
+          "pID": "966005376",
+          "name": "全场回放（姜帆）"
+        },
+        {
           "pID": "966004541",
           "name": "第一节"
         },
         {
           "pID": "966004785",
           "name": "第二节"
+        },
+        {
+          "pID": "966005143",
+          "name": "第三节"
+        },
+        {
+          "pID": "966005313",
+          "name": "第四节"
         }
       ]
     },
@@ -667,7 +695,7 @@
       "matchStatus": "1",
       "matchField": "墨西哥城球场",
       "competitionName": "世界杯",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/04/77HL0G94TS4G.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/06/77HMPS8BJHCS.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg",
       "pkInfoTitle": "墨西哥 vs 英格兰",
       "modifyTitle": "世界杯1/8决赛",
@@ -756,7 +784,7 @@
       "title": "争冠！孙颖莎PK蒯曼 松岛迎战俄罗斯黑马",
       "keyword": "07月06日10:00",
       "sportItemId": "7",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/06/77HMP492SRU0.jpg",
@@ -853,16 +881,12 @@
           "name": "杨健 郭艾伦 杨毅"
         },
         {
-          "pID": "965793481",
+          "pID": "966005353",
           "name": "赛场原声"
         },
         {
           "pID": "965981675",
           "name": "郭艾伦专属视角"
-        },
-        {
-          "pID": "966005353",
-          "name": "赛场原声"
         }
       ]
     },
