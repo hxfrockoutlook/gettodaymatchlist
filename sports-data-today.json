@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-07 18:32:04",
+  "updateTime": "2026-07-07 19:02:11",
   "data": [
     {
       "mgdbId": "120000563152",
@@ -598,7 +598,7 @@
         },
         {
           "pID": "966033626",
-          "name": "全场回放（鹿中原、乔迁）"
+          "name": "��场回放（鹿中原、乔迁）"
         },
         {
           "pID": "966033527",
@@ -988,7 +988,7 @@
       "title": "第四届武术世界杯 首日下半场",
       "keyword": "07月07日15:00",
       "sportItemId": "5",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "武术套路世界杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/04/77HL08T9EE56.png",
@@ -1064,7 +1064,7 @@
       "title": "滨江VS上城",
       "keyword": "07月07日19:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "浙BA",
       "padImg": "",
@@ -1087,7 +1087,7 @@
       "pID": "965274168",
       "title": "《绿茵狂想》：苏东深度复盘双牙之战",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "世界杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/07/77HNLSV4JGIN.png",
@@ -1172,6 +1172,30 @@
         {
           "pID": "966011013",
           "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000582415",
+      "pID": "966047009",
+      "title": "NBA夏季联赛精彩重播： 灰熊 vs 爵士",
+      "keyword": "07月07日20:00",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "NBA经典赛事",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png",
+      "pkInfoTitle": "NBA夏季联赛精彩重播： 灰熊 vs 爵士",
+      "modifyTitle": "NBA经典赛事",
+      "presenters": "连睿",
+      "matchInfo": {
+        "time": "07月07日20:00"
+      },
+      "nodes": [
+        {
+          "pID": "966047009",
+          "name": "连睿"
         }
       ]
     },
