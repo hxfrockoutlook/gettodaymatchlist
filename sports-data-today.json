@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-07 10:02:00",
+  "updateTime": "2026-07-07 10:32:03",
   "data": [
     {
       "mgdbId": "120000563152",
@@ -353,12 +353,12 @@
       },
       "nodes": [
         {
-          "pID": "966030041",
-          "name": "全场回放"
-        },
-        {
           "pID": "966029333",
           "name": "全场集锦"
+        },
+        {
+          "pID": "966030041",
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
@@ -383,6 +383,14 @@
         {
           "pID": "966031129",
           "name": "全场集锦"
+        },
+        {
+          "pID": "966031076",
+          "name": "全场回放（刘芳宇）"
+        },
+        {
+          "pID": "966032431",
+          "name": "全场回放（英文原声）"
         },
         {
           "pID": "966029260",
@@ -460,7 +468,7 @@
     },
     {
       "mgdbId": "120000582023",
-      "pID": "966031034",
+      "pID": "966032059",
       "title": "NBA夏季联赛",
       "keyword": "07月07日07:30",
       "sportItemId": "2",
@@ -477,6 +485,14 @@
       },
       "nodes": [
         {
+          "pID": "966032059",
+          "name": "全场集锦"
+        },
+        {
+          "pID": "966032269",
+          "name": "全场回放（孙博）"
+        },
+        {
           "pID": "966029410",
           "name": "第一节"
         },
@@ -491,10 +507,6 @@
         {
           "pID": "966031983",
           "name": "第四节"
-        },
-        {
-          "pID": "966032269",
-          "name": "全场回放（孙博）"
         }
       ]
     },
@@ -528,7 +540,7 @@
       "title": "世界杯1/8决赛",
       "keyword": "07月07日08:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "西雅图球场",
       "competitionName": "世界杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/07/77HNN7J1FVLC.png",
@@ -541,82 +553,42 @@
       },
       "nodes": [
         {
-          "pID": "965950034",
-          "name": "苏东 刘越 徐云龙 林梦鸽"
+          "pID": "966033436",
+          "name": "超长版集锦"
         },
         {
-          "pID": "965950020",
-          "name": "梁祥宇 贺宇"
+          "pID": "966033188",
+          "name": "全场集锦"
         },
         {
-          "pID": "965949622",
-          "name": "AI智慧观赛"
+          "pID": "966032980",
+          "name": "纯享版回放（苏东、刘越、徐云龙、林梦鸽）"
         },
         {
-          "pID": "965949999",
-          "name": "粤语：陈曦 叶紫辰"
+          "pID": "966033223",
+          "name": "全场回放（梁祥宇、贺宇）"
         },
         {
-          "pID": "965950013",
-          "name": "女声：沈云怡 兰子非"
+          "pID": "966033450",
+          "name": "全场回放（陈曦、叶紫辰）"
         },
         {
-          "pID": "965949945",
-          "name": "新声代：鹿中原 乔迁"
+          "pID": "966033476",
+          "name": "全场回放（沈云怡、兰子非）"
         },
         {
-          "pID": "965949691",
-          "name": "美国队球星视角"
+          "pID": "966033527",
+          "name": "全场回放（洪荒）"
         },
         {
-          "pID": "965949658",
-          "name": "比利时队球星视角"
-        },
-        {
-          "pID": "965949878",
-          "name": "美国队主帅视角"
-        },
-        {
-          "pID": "965949842",
-          "name": "比利时队主帅视角"
-        },
-        {
-          "pID": "965949989",
-          "name": "闽南语：洪荒"
-        },
-        {
-          "pID": "965949982",
-          "name": "沪语：陈渤胄"
-        },
-        {
-          "pID": "965271838",
-          "name": "CCTV5"
-        },
-        {
-          "pID": "965949910",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "965950039",
-          "name": "为了听不到的你"
-        },
-        {
-          "pID": "965949509",
-          "name": "沪语智能字幕"
-        },
-        {
-          "pID": "965949650",
-          "name": "开天眼了！"
-        },
-        {
-          "pID": "965949666",
-          "name": "山顶的风好大！"
+          "pID": "966033578",
+          "name": "全场回放（陈渤胄）"
         }
       ]
     },
     {
       "mgdbId": "120000582029",
-      "pID": "966030071",
+      "pID": "966033167",
       "title": "NBA夏季联赛",
       "keyword": "07月07日08:00",
       "sportItemId": "2",
@@ -633,6 +605,10 @@
       },
       "nodes": [
         {
+          "pID": "966033167",
+          "name": "全场集锦"
+        },
+        {
           "pID": "966030102",
           "name": "第一节"
         },
@@ -643,6 +619,10 @@
         {
           "pID": "966031766",
           "name": "第三节"
+        },
+        {
+          "pID": "966032975",
+          "name": "第四节"
         }
       ]
     },
@@ -652,7 +632,7 @@
       "title": "男篮世预赛美洲赛区",
       "keyword": "07月07日08:10",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Coliseo Evangelista Mora",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000563008/202511261116_616279_H169_1080.webp",
@@ -735,7 +715,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/06/77HMNGL51BL0.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/07/77HNN8KU25L3.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "热火VS勇士金队",
       "modifyTitle": "NBA夏季联赛",
@@ -1093,6 +1073,74 @@
         {
           "pID": "965549872",
           "name": "人机大战第13期"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000575608",
+      "pID": "120000575608",
+      "title": "阿根廷 vs 埃及",
+      "keyword": "07月07日23:00",
+      "sportItemId": "",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "世界杯",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2026/06/09/11005/1467af15ad1d4b33b1b32c3568185360/1467af15ad1d4b33b1b32c3568185360_H169_P1080_WEBP.webp",
+      "competitionLogo": "",
+      "pkInfoTitle": "阿根廷 vs 埃及",
+      "modifyTitle": "阿根廷 vs 埃及",
+      "presenters": "",
+      "matchInfo": {
+        "time": "07月07日23:00"
+      },
+      "nodes": [
+        {
+          "pID": "965996216",
+          "name": "詹俊 张路 徐云龙"
+        },
+        {
+          "pID": "965996214",
+          "name": "李欣 李金羽 姚安妮"
+        },
+        {
+          "pID": "965996176",
+          "name": "孟繁达 张力"
+        },
+        {
+          "pID": "965995339",
+          "name": "AI智慧观赛"
+        },
+        {
+          "pID": "965996653",
+          "name": "粤语：陈凯冬 陈熙荣"
+        },
+        {
+          "pID": "965996678",
+          "name": "女声：胡小凡 林梦鸽"
+        },
+        {
+          "pID": "965996612",
+          "name": "新声代：张昊泽 涂远"
+        },
+        {
+          "pID": "965996627",
+          "name": "闽南语：洪荒"
+        },
+        {
+          "pID": "965996623",
+          "name": "沪语：陈渤胄"
+        },
+        {
+          "pID": "965996120",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "965995414",
+          "name": "智能字幕"
+        },
+        {
+          "pID": "965995484",
+          "name": "沪语智能字幕"
         }
       ]
     }
