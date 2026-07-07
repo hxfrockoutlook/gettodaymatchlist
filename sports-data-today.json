@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-07 12:02:05",
+  "updateTime": "2026-07-07 12:31:54",
   "data": [
     {
       "mgdbId": "120000563152",
@@ -692,7 +692,7 @@
     },
     {
       "mgdbId": "120000582034",
-      "pID": "965896651",
+      "pID": "966037208",
       "title": "NBA夏季联赛",
       "keyword": "07月07日09:00",
       "sportItemId": "2",
@@ -708,6 +708,10 @@
         "time": "07月07日09:00"
       },
       "nodes": [
+        {
+          "pID": "966037208",
+          "name": "全场集锦"
+        },
         {
           "pID": "966035252",
           "name": "全场回放（连睿）"
@@ -727,6 +731,10 @@
         {
           "pID": "966034944",
           "name": "第四节"
+        },
+        {
+          "pID": "966037059",
+          "name": "全场回放（英文原声）"
         }
       ]
     },
@@ -736,7 +744,7 @@
       "title": "男篮世预赛美洲赛区",
       "keyword": "07月07日10:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Gimnasio Marcelino Gonzalez",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/06/77HMQNJ3QSN3.jpg",
@@ -749,12 +757,8 @@
       },
       "nodes": [
         {
-          "pID": "965824235",
-          "name": "蔡凯臣"
-        },
-        {
-          "pID": "965791275",
-          "name": "赛场原声"
+          "pID": "966037277",
+          "name": "全场回放（蔡凯臣）"
         }
       ]
     },
@@ -777,6 +781,14 @@
       },
       "nodes": [
         {
+          "pID": "966037137",
+          "name": "全场集锦"
+        },
+        {
+          "pID": "966037115",
+          "name": "全场回放（董倡硕）"
+        },
+        {
           "pID": "966033667",
           "name": "第一节"
         },
@@ -796,11 +808,11 @@
     },
     {
       "mgdbId": "120000582030",
-      "pID": "965896598",
+      "pID": "966037163",
       "title": "NBA夏季联赛",
       "keyword": "07月07日10:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/07/77HNNLLNJS37.jpg",
@@ -813,12 +825,28 @@
       },
       "nodes": [
         {
-          "pID": "965896598",
-          "name": "邵化谦"
+          "pID": "966037163",
+          "name": "全场集锦"
         },
         {
-          "pID": "965898371",
-          "name": "英文原声"
+          "pID": "966037180",
+          "name": "全场回放（邵化谦）"
+        },
+        {
+          "pID": "966033958",
+          "name": "第一节"
+        },
+        {
+          "pID": "966034745",
+          "name": "第二节"
+        },
+        {
+          "pID": "966035710",
+          "name": "第三节"
+        },
+        {
+          "pID": "966037076",
+          "name": "第四节"
         }
       ]
     },
