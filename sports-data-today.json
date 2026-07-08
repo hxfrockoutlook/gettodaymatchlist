@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-08 15:31:50",
+  "updateTime": "2026-07-08 16:01:54",
   "data": [
     {
       "mgdbId": "120000575608",
@@ -271,6 +271,10 @@
         {
           "pID": "965564077",
           "name": "全场回放"
+        },
+        {
+          "pID": "966068469",
+          "name": "精彩回顾：2026WTA柏林站女单决赛回放：佩古拉vs诺斯科娃"
         }
       ]
     },
@@ -380,7 +384,7 @@
       "title": "中乙联赛",
       "keyword": "07月08日16:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "山西省体育场",
       "competitionName": "中乙",
       "padImg": "",
@@ -419,6 +423,30 @@
         {
           "pID": "966011505",
           "name": "第一阶段"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000582512",
+      "pID": "966061578",
+      "title": "NBA夏季联赛精彩重播： 雷霆 vs 爵士",
+      "keyword": "07月08日18:00",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "NBA经典赛事",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png",
+      "pkInfoTitle": "NBA夏季联赛精彩重播： 雷霆 vs 爵士",
+      "modifyTitle": "NBA经典赛事",
+      "presenters": "罗森",
+      "matchInfo": {
+        "time": "07月08日18:00"
+      },
+      "nodes": [
+        {
+          "pID": "966061578",
+          "name": "罗森"
         }
       ]
     },
