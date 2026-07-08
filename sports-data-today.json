@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-08 11:31:40",
+  "updateTime": "2026-07-08 12:02:23",
   "data": [
     {
       "mgdbId": "120000575608",
@@ -180,11 +180,11 @@
     },
     {
       "mgdbId": "120000582036",
-      "pID": "965896691",
+      "pID": "966061815",
       "title": "NBA夏季联赛",
       "keyword": "07月08日09:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/08/77HOKFMQRDCE.jpg",
@@ -197,12 +197,28 @@
       },
       "nodes": [
         {
-          "pID": "965896691",
-          "name": "罗森"
+          "pID": "966061815",
+          "name": "全场集锦"
         },
         {
-          "pID": "965898669",
-          "name": "英文原声"
+          "pID": "966061155",
+          "name": "全场回放（罗森）"
+        },
+        {
+          "pID": "966058722",
+          "name": "第一节"
+        },
+        {
+          "pID": "966059244",
+          "name": "第二节"
+        },
+        {
+          "pID": "966060296",
+          "name": "第三节"
+        },
+        {
+          "pID": "966060955",
+          "name": "第四节"
         }
       ]
     },
@@ -240,7 +256,7 @@
       "title": "精彩回顾：佩古拉 vs 诺斯科娃",
       "keyword": "07月08日12:00",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/07/77HNLL7NI31D.jpg",
@@ -264,7 +280,7 @@
       "title": "经典重映-2026全英赛决赛",
       "keyword": "07月08日12:00",
       "sportItemId": "6",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "BWF",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/06/77HMOMCQ5BFJ.png",
@@ -288,7 +304,7 @@
       "title": "2026UFC中国赛上海站重磅对阵官宣",
       "keyword": "07月08日12:00",
       "sportItemId": "5",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "UFC前瞻与回顾",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/07/77HNLQAT4M35.png",
@@ -403,6 +419,30 @@
         {
           "pID": "966011505",
           "name": "第一阶段"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000582508",
+      "pID": "966060357",
+      "title": "日本队VS巴西队",
+      "keyword": "07月08日18:20",
+      "sportItemId": "3",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "世界女排联赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/08/77HOKNIMSCDR.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2022/7/6/100000000122106b0b65.png",
+      "pkInfoTitle": "日本队VS巴西队",
+      "modifyTitle": "世界女排联赛日本站：日本队VS巴西队",
+      "presenters": "",
+      "matchInfo": {
+        "time": "07月08日18:20"
+      },
+      "nodes": [
+        {
+          "pID": "966060357",
+          "name": "CCTV5+"
         }
       ]
     },
@@ -668,6 +708,30 @@
         {
           "pID": "965930679",
           "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000582509",
+      "pID": "966060411",
+      "title": "中国队VS加拿大队",
+      "keyword": "07月08日20:30",
+      "sportItemId": "3",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "世界女排联赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/08/77HOKO4O5G45.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2022/7/6/100000000122106b0b65.png",
+      "pkInfoTitle": "中国队VS加拿大队",
+      "modifyTitle": "世界女排联赛中国香港站：中国队VS加拿大队",
+      "presenters": "",
+      "matchInfo": {
+        "time": "07月08日20:30"
+      },
+      "nodes": [
+        {
+          "pID": "966060411",
+          "name": "CCTV5+"
         }
       ]
     }
