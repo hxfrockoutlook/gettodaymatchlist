@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-10 07:01:41",
+  "updateTime": "2026-07-10 07:31:40",
   "data": [
     {
       "mgdbId": "120000582582",
@@ -89,26 +89,42 @@
           "name": "全场回放（兰子非、林梦鸽）"
         },
         {
-          "pID": "966099030",
-          "name": "全场回放（陈渤胄）"
-        },
-        {
-          "pID": "966099043",
-          "name": "全场回放（洪荒）"
-        },
-        {
           "pID": "966099071",
           "name": "全场回放（刘一臻、盛斌）"
         },
         {
           "pID": "966099101",
           "name": "全场回放（陈凯冬、陆毅隽）"
+        },
+        {
+          "pID": "966099043",
+          "name": "全场回放（洪荒）"
+        },
+        {
+          "pID": "966099030",
+          "name": "全场回放（陈渤胄）"
+        },
+        {
+          "pID": "966099238",
+          "name": "全场回放（智能解说）"
+        },
+        {
+          "pID": "966099250",
+          "name": "全场回放（AI智能观赛）"
+        },
+        {
+          "pID": "966099382",
+          "name": "全场回放"
+        },
+        {
+          "pID": "966099445",
+          "name": "全场回放"
         }
       ]
     },
     {
       "mgdbId": "120000582583",
-      "pID": "966098322",
+      "pID": "966099374",
       "title": "NBA夏季联赛",
       "keyword": "07月10日04:30",
       "sportItemId": "2",
@@ -124,6 +140,10 @@
         "time": "07月10日04:30"
       },
       "nodes": [
+        {
+          "pID": "966099374",
+          "name": "全场集锦"
+        },
         {
           "pID": "966099035",
           "name": "全场回放（王晓晨）"
@@ -208,7 +228,7 @@
       "title": "NBA夏季联赛",
       "keyword": "07月10日07:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/09/77HPFG769Q6B.png",
@@ -490,7 +510,7 @@
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/7/16/1000000012931063812e.png",
       "pkInfoTitle": "临安VS桐庐",
-      "modifyTitle": "临安VS桐庐",
+      "modifyTitle": "临安VS��庐",
       "presenters": "",
       "matchInfo": {
         "time": "07月10日19:00"
