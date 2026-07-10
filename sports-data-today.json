@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-10 13:01:48",
+  "updateTime": "2026-07-10 13:31:41",
   "data": [
     {
       "mgdbId": "120000582582",
@@ -237,6 +237,10 @@
           "name": "全场回放（刘圳展）"
         },
         {
+          "pID": "966101869",
+          "name": "全场回放（英文原声）"
+        },
+        {
           "pID": "966099520",
           "name": "第一节"
         },
@@ -400,14 +404,14 @@
     },
     {
       "mgdbId": "120000582590",
-      "pID": "966089381",
+      "pID": "966105717",
       "title": "NBA夏季联赛",
       "keyword": "07月10日11:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/09/77HPFFSH1KTP.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/10/77HQBVN9BNF5.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "国王VS快船",
       "modifyTitle": "NBA夏季联赛",
@@ -417,12 +421,16 @@
       },
       "nodes": [
         {
-          "pID": "966089381",
-          "name": "周赫"
+          "pID": "966105056",
+          "name": "第一节"
         },
         {
-          "pID": "966089418",
-          "name": "英文原声"
+          "pID": "966105546",
+          "name": "第二节"
+        },
+        {
+          "pID": "966105820",
+          "name": "第三节"
         }
       ]
     },
@@ -453,7 +461,7 @@
     {
       "mgdbId": "120000582368",
       "pID": "966014423",
-      "title": "经典重映-2026印尼赛决赛",
+      "title": "圣坛、星驰组合获得亚军",
       "keyword": "07月10日12:00",
       "sportItemId": "6",
       "matchStatus": "1",
@@ -461,7 +469,7 @@
       "competitionName": "BWF",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/06/77HMOMOK075P.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
-      "pkInfoTitle": "经典重映-2026印尼赛决赛",
+      "pkInfoTitle": "圣坛、星驰组合获得亚军",
       "modifyTitle": "经典重映-2026印尼公开赛决赛：圣坛、星驰组合获得亚军",
       "presenters": "",
       "matchInfo": {
