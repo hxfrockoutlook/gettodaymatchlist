@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-11 05:32:43",
+  "updateTime": "2026-07-11 06:02:36",
   "data": [
     {
       "mgdbId": "120000575574",
@@ -33,6 +33,10 @@
           "name": "纯享版回放（詹俊、张路、孙继海、邵凌霄）"
         },
         {
+          "pID": "966119456",
+          "name": "全场回放（詹俊、张路、孙继海、邵凌霄）"
+        },
+        {
           "pID": "966119391",
           "name": "全场回放（鲁靖明、李彦、魏欣怡）"
         },
@@ -41,25 +45,37 @@
           "name": "全场回放（沈云怡、兰子非）"
         },
         {
+          "pID": "966119439",
+          "name": "粤语回放（任锴、梁柏翘）"
+        },
+        {
           "pID": "966119358",
           "name": "闽南语回放（洪荒）"
         },
         {
           "pID": "966119389",
           "name": "沪语回放（陈渤胄）"
+        },
+        {
+          "pID": "966119572",
+          "name": "全场回放（鹿中原、乔迁）"
+        },
+        {
+          "pID": "966119491",
+          "name": "全场回放（AI智慧观赛）"
         }
       ]
     },
     {
       "mgdbId": "120000582593",
-      "pID": "966089709",
+      "pID": "966119463",
       "title": "NBA夏季联赛",
       "keyword": "07月11日04:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/10/77HQERIA08KT.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/11/77HRAATIHK9L.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "雄鹿VS热火",
       "modifyTitle": "NBA夏季联赛",
@@ -69,12 +85,16 @@
       },
       "nodes": [
         {
-          "pID": "966089709",
-          "name": "刘沛元"
+          "pID": "966118665",
+          "name": "第一节"
         },
         {
-          "pID": "966089623",
-          "name": "英文原声"
+          "pID": "966119000",
+          "name": "第二节"
+        },
+        {
+          "pID": "966119382",
+          "name": "第三节"
         }
       ]
     },
@@ -87,7 +107,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/10/77HQERMUJM4M.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/11/77HRA94P7U5O.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "骑士VS步行者",
       "modifyTitle": "NBA夏季联赛",
@@ -112,7 +132,7 @@
       "title": "NBA夏季联赛",
       "keyword": "07月11日06:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/10/77HQERO9EC8M.png",
