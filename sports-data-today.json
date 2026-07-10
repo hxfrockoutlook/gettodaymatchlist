@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-11 06:02:36",
+  "updateTime": "2026-07-11 06:32:33",
   "data": [
     {
       "mgdbId": "120000575574",
@@ -63,12 +63,16 @@
         {
           "pID": "966119491",
           "name": "全场回放（AI智慧观赛）"
+        },
+        {
+          "pID": "966119589",
+          "name": "全场回放（智能解说）"
         }
       ]
     },
     {
       "mgdbId": "120000582593",
-      "pID": "966119463",
+      "pID": "966119812",
       "title": "NBA夏季联赛",
       "keyword": "07月11日04:00",
       "sportItemId": "2",
@@ -85,6 +89,10 @@
       },
       "nodes": [
         {
+          "pID": "966119812",
+          "name": "全场集锦"
+        },
+        {
           "pID": "966118665",
           "name": "第一节"
         },
@@ -100,11 +108,11 @@
     },
     {
       "mgdbId": "120000582596",
-      "pID": "966089724",
+      "pID": "966119546",
       "title": "NBA夏季联赛",
       "keyword": "07月11日04:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/11/77HRA94P7U5O.jpg",
@@ -117,12 +125,8 @@
       },
       "nodes": [
         {
-          "pID": "966089724",
-          "name": "盛哲"
-        },
-        {
-          "pID": "966089633",
-          "name": "英文原声"
+          "pID": "966119056",
+          "name": "第一节"
         }
       ]
     },
@@ -160,7 +164,7 @@
       "title": "NBA夏季联赛",
       "keyword": "07月11日06:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/10/77HQESC3538U.png",
