@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-10 13:31:41",
+  "updateTime": "2026-07-10 14:01:48",
   "data": [
     {
       "mgdbId": "120000582582",
@@ -404,7 +404,7 @@
     },
     {
       "mgdbId": "120000582590",
-      "pID": "966105717",
+      "pID": "966106722",
       "title": "NBA夏季联赛",
       "keyword": "07月10日11:00",
       "sportItemId": "2",
@@ -421,6 +421,14 @@
       },
       "nodes": [
         {
+          "pID": "966106722",
+          "name": "全场集锦"
+        },
+        {
+          "pID": "966106379",
+          "name": "全场回放（周赫）"
+        },
+        {
           "pID": "966105056",
           "name": "第一节"
         },
@@ -431,6 +439,10 @@
         {
           "pID": "966105820",
           "name": "第三节"
+        },
+        {
+          "pID": "966106289",
+          "name": "第四节"
         }
       ]
     },
@@ -440,7 +452,7 @@
       "title": "精彩回顾：王欣瑜 vs 扎拉祖阿",
       "keyword": "07月10日12:00",
       "sportItemId": "9",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/09/77HPEVQTJFRL.png",
@@ -453,8 +465,12 @@
       },
       "nodes": [
         {
-          "pID": "965928990",
-          "name": "单文强"
+          "pID": "965581369",
+          "name": "全场回放"
+        },
+        {
+          "pID": "966106650",
+          "name": "精彩回顾：2026WTA巴特洪堡站女单第1轮回放：王欣瑜vs扎拉祖阿"
         }
       ]
     },
@@ -551,6 +567,30 @@
         {
           "pID": "966011486",
           "name": "第一阶段"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000582571",
+      "pID": "966085607",
+      "title": "NBA季后赛精彩重播：火箭 vs 湖人 G2",
+      "keyword": "07月10日18:00",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "NBA经典赛事",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png",
+      "pkInfoTitle": "NBA季后赛精彩重播：火箭 vs 湖人 G2",
+      "modifyTitle": "NBA经典赛事",
+      "presenters": "杨健 李根 马健",
+      "matchInfo": {
+        "time": "07月10日18:00"
+      },
+      "nodes": [
+        {
+          "pID": "966085607",
+          "name": "杨健 李根 马健"
         }
       ]
     },
