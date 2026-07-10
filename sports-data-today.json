@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-10 07:31:40",
+  "updateTime": "2026-07-10 08:01:42",
   "data": [
     {
       "mgdbId": "120000582582",
@@ -111,14 +111,6 @@
         {
           "pID": "966099250",
           "name": "全场回放（AI智能观赛）"
-        },
-        {
-          "pID": "966099382",
-          "name": "全场回放"
-        },
-        {
-          "pID": "966099445",
-          "name": "全场回放"
         }
       ]
     },
@@ -149,6 +141,10 @@
           "name": "全场回放（王晓晨）"
         },
         {
+          "pID": "966099559",
+          "name": "全场回放（英文原声）"
+        },
+        {
           "pID": "966097625",
           "name": "第一节"
         },
@@ -168,14 +164,14 @@
     },
     {
       "mgdbId": "120000582585",
-      "pID": "966089015",
+      "pID": "966099613",
       "title": "NBA夏季联赛",
       "keyword": "07月10日05:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/09/77HPFGGF910C.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/10/77HQDP54OH0O.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "活塞VS76人",
       "modifyTitle": "NBA夏季联赛",
@@ -185,12 +181,24 @@
       },
       "nodes": [
         {
-          "pID": "966089015",
-          "name": "姜帆"
+          "pID": "966099660",
+          "name": "全场回放（姜帆）"
         },
         {
-          "pID": "966089046",
-          "name": "英文原声"
+          "pID": "966098812",
+          "name": "第一节"
+        },
+        {
+          "pID": "966099062",
+          "name": "第二节"
+        },
+        {
+          "pID": "966099398",
+          "name": "第三节"
+        },
+        {
+          "pID": "966099544",
+          "name": "第四节"
         }
       ]
     },
@@ -510,7 +518,7 @@
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/7/16/1000000012931063812e.png",
       "pkInfoTitle": "临安VS桐庐",
-      "modifyTitle": "临安VS��庐",
+      "modifyTitle": "临安VS桐庐",
       "presenters": "",
       "matchInfo": {
         "time": "07月10日19:00"
