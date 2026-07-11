@@ -1,19 +1,19 @@
 {
   "success": true,
-  "updateTime": "2026-07-12 01:33:36",
+  "updateTime": "2026-07-12 02:02:18",
   "data": [
     {
       "mgdbId": "120000580961",
-      "pID": "966086616",
+      "pID": "966122516",
       "title": "U17女篮世界杯小组赛",
       "keyword": "07月12日01:45",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "Starez Arena Vodova Hall 2",
       "competitionName": "U17女篮世界杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/10/77HQC9AQH2K9.jpg",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/09/77HPETPFSE8E.jpg",
-      "pkInfoTitle": "墨西哥U17女篮vs中国U17女篮",
+      "pkInfoTitle": "墨西哥vs中国",
       "modifyTitle": "U17女篮世界杯小组赛",
       "presenters": "吕程",
       "matchInfo": {
@@ -21,12 +21,12 @@
       },
       "nodes": [
         {
-          "pID": "966086616",
-          "name": "赛场原声"
-        },
-        {
           "pID": "966122516",
           "name": "吕程"
+        },
+        {
+          "pID": "966086616",
+          "name": "赛场原声"
         }
       ]
     },
