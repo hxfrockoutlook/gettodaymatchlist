@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-11 08:32:40",
+  "updateTime": "2026-07-11 09:02:44",
   "data": [
     {
       "mgdbId": "120000575574",
@@ -208,14 +208,14 @@
     },
     {
       "mgdbId": "120000582599",
-      "pID": "966089749",
+      "pID": "966120706",
       "title": "NBA夏季联赛",
       "keyword": "07月11日06:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/10/77HQESC3538U.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/11/77HRB5U0GEIO.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "火箭VS掘金",
       "modifyTitle": "NBA夏季联赛",
@@ -225,12 +225,16 @@
       },
       "nodes": [
         {
-          "pID": "966089749",
-          "name": "邵化谦"
+          "pID": "966119978",
+          "name": "第一节"
         },
         {
-          "pID": "966089658",
-          "name": "英文原声"
+          "pID": "966120185",
+          "name": "第二节"
+        },
+        {
+          "pID": "966120580",
+          "name": "第三节"
         }
       ]
     },
@@ -287,36 +291,12 @@
       ]
     },
     {
-      "mgdbId": "120000582578",
-      "pID": "966086417",
-      "title": "单打半决赛决赛、团体赛第一、二阶段",
-      "keyword": "07月11日08:30",
-      "sportItemId": "7",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "中国乒协会员联赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/10/77HQEHIJSBG9.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/3/18/1000000014191068af2d.png",
-      "pkInfoTitle": "单打半决赛决赛、团体赛第一、二阶段",
-      "modifyTitle": "“李宁·红双喜杯”中国乒协会员联赛宁夏银川站单打半决赛决赛、团体赛第一、二阶段",
-      "presenters": "",
-      "matchInfo": {
-        "time": "07月11日08:30"
-      },
-      "nodes": [
-        {
-          "pID": "966086417",
-          "name": "赛场原声"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000582563",
       "pID": "966081463",
       "title": "APBA匹克球公开赛单项总决赛Day 2",
       "keyword": "07月11日09:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "APBA匹克球全球总决赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/10/77HQDVBAB3VG.jpg",
@@ -335,12 +315,36 @@
       ]
     },
     {
+      "mgdbId": "120000582578",
+      "pID": "966086417",
+      "title": "单打半决赛决赛、团体赛第一、二阶段",
+      "keyword": "07月11日09:00",
+      "sportItemId": "7",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "中国乒协会员联赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/10/77HQEHIJSBG9.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/3/18/1000000014191068af2d.png",
+      "pkInfoTitle": "单打半决赛决赛、团体赛第一、二阶段",
+      "modifyTitle": "“李宁·红双喜杯”中国乒协会员联赛宁夏银川站单打半决赛决赛、团体赛第一、二阶段",
+      "presenters": "",
+      "matchInfo": {
+        "time": "07月11日09:00"
+      },
+      "nodes": [
+        {
+          "pID": "966086417",
+          "name": "赛场原声"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000582605",
       "pID": "966089767",
       "title": "NBA夏季联赛",
       "keyword": "07月11日09:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/10/77HQESUSUBP0.png",
