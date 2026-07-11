@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-11 08:02:48",
+  "updateTime": "2026-07-11 08:32:40",
   "data": [
     {
       "mgdbId": "120000575574",
@@ -168,7 +168,7 @@
     },
     {
       "mgdbId": "120000582595",
-      "pID": "966120293",
+      "pID": "966120628",
       "title": "NBA夏季联赛",
       "keyword": "07月11日06:00",
       "sportItemId": "2",
@@ -185,16 +185,24 @@
       },
       "nodes": [
         {
-          "pID": "966120186",
-          "name": "第三节"
+          "pID": "966120628",
+          "name": "全场集锦"
+        },
+        {
+          "pID": "966119921",
+          "name": "第一节"
         },
         {
           "pID": "966119976",
           "name": "第二节"
         },
         {
-          "pID": "966119921",
-          "name": "第一节"
+          "pID": "966120186",
+          "name": "第三节"
+        },
+        {
+          "pID": "966120495",
+          "name": "第四节"
         }
       ]
     },
@@ -284,7 +292,7 @@
       "title": "单打半决赛决赛、团体赛第一、二阶段",
       "keyword": "07月11日08:30",
       "sportItemId": "7",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "中国乒协会员联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/10/77HQEHIJSBG9.jpg",
