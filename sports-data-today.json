@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-11 09:02:44",
+  "updateTime": "2026-07-11 09:32:25",
   "data": [
     {
       "mgdbId": "120000575574",
@@ -189,6 +189,14 @@
           "name": "全场集锦"
         },
         {
+          "pID": "966120531",
+          "name": "全场回放（刘芳宇）"
+        },
+        {
+          "pID": "966120720",
+          "name": "全场回放（英文原声）"
+        },
+        {
           "pID": "966119921",
           "name": "第一节"
         },
@@ -208,7 +216,7 @@
     },
     {
       "mgdbId": "120000582599",
-      "pID": "966120706",
+      "pID": "966120839",
       "title": "NBA夏季联赛",
       "keyword": "07月11日06:30",
       "sportItemId": "2",
@@ -224,6 +232,10 @@
         "time": "07月11日06:30"
       },
       "nodes": [
+        {
+          "pID": "966120839",
+          "name": "全场集锦"
+        },
         {
           "pID": "966119978",
           "name": "第一节"
@@ -1598,12 +1610,8 @@
           "name": "孙雨轩 李欣 郭小仙儿"
         },
         {
-          "pID": "966087412",
-          "name": "乔迁"
-        },
-        {
-          "pID": "966087406",
-          "name": "4K赛场原声"
+          "pID": "966087356",
+          "name": "赛场原声"
         }
       ]
     },
@@ -1844,6 +1852,34 @@
       "nodes": [
         {
           "pID": "966086494",
+          "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000569679",
+      "pID": "120000569679",
+      "title": "浙江 vs 青岛海牛",
+      "keyword": "07月11日18:45",
+      "sportItemId": "",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "中超",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/04/22/11005/2f8bf05ff993401ba9a8447a812ebce7/2f8bf05ff993401ba9a8447a812ebce7_H169_P1080_WEBP.webp",
+      "competitionLogo": "",
+      "pkInfoTitle": "浙江 vs 青岛海牛",
+      "modifyTitle": "浙江 vs 青岛海牛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "07月11日18:45"
+      },
+      "nodes": [
+        {
+          "pID": "966087522",
+          "name": "梁祥宇 鲁靖明"
+        },
+        {
+          "pID": "966087518",
           "name": "赛场原声"
         }
       ]
