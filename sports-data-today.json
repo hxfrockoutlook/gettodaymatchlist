@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-11 07:32:34",
+  "updateTime": "2026-07-11 08:02:48",
   "data": [
     {
       "mgdbId": "120000575574",
@@ -145,6 +145,10 @@
           "name": "全场回放（盛哲）"
         },
         {
+          "pID": "966120030",
+          "name": "全场回放（英文原声）"
+        },
+        {
           "pID": "966119056",
           "name": "第一节"
         },
@@ -164,16 +168,16 @@
     },
     {
       "mgdbId": "120000582595",
-      "pID": "966089731",
+      "pID": "966120293",
       "title": "NBA夏季联赛",
       "keyword": "07月11日06:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/10/77HQERO9EC8M.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/11/77HRATNQVOUA.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
-      "pkInfoTitle": "尼克斯VS篮网",
+      "pkInfoTitle": "篮网VS尼克斯",
       "modifyTitle": "NBA夏季联赛",
       "presenters": "刘芳宇",
       "matchInfo": {
@@ -181,12 +185,16 @@
       },
       "nodes": [
         {
-          "pID": "966089731",
-          "name": "刘芳宇"
+          "pID": "966120186",
+          "name": "第三节"
         },
         {
-          "pID": "966089651",
-          "name": "英文原声"
+          "pID": "966119976",
+          "name": "第二节"
+        },
+        {
+          "pID": "966119921",
+          "name": "第一节"
         }
       ]
     },
@@ -224,7 +232,7 @@
       "title": "2026亚洲自由式小轮车锦标赛",
       "keyword": "07月11日07:40",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "中国自行车运动协会系列赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/10/77HQE42RLTQR.jpg",
@@ -248,7 +256,7 @@
       "title": "NBA夏季联赛",
       "keyword": "07月11日08:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/10/77HQESQVMD0U.png",
