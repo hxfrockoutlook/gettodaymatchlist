@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-12 06:32:11",
+  "updateTime": "2026-07-12 07:02:20",
   "data": [
     {
       "mgdbId": "120000580961",
@@ -69,12 +69,12 @@
       },
       "nodes": [
         {
-          "pID": "966137463",
-          "name": "全场回放"
-        },
-        {
           "pID": "966137330",
           "name": "全场集锦"
+        },
+        {
+          "pID": "966137463",
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
@@ -105,6 +105,10 @@
           "name": "全场回放（张泽欣）"
         },
         {
+          "pID": "966138822",
+          "name": "全场回放（英文原声）"
+        },
+        {
           "pID": "966137256",
           "name": "第一节"
         },
@@ -124,7 +128,7 @@
     },
     {
       "mgdbId": "120000582619",
-      "pID": "966138289",
+      "pID": "966139052",
       "title": "NBA夏季联赛",
       "keyword": "07月12日04:00",
       "sportItemId": "2",
@@ -140,6 +144,10 @@
         "time": "07月12日04:00"
       },
       "nodes": [
+        {
+          "pID": "966139052",
+          "name": "全场集锦"
+        },
         {
           "pID": "966137337",
           "name": "第一节"
@@ -218,11 +226,11 @@
         },
         {
           "pID": "966086281",
-          "name": "哈宝视角"
+          "name": "哈宝直拍"
         },
         {
           "pID": "966086311",
-          "name": "贝林视角"
+          "name": "贝林直拍"
         },
         {
           "pID": "966086050",
@@ -291,7 +299,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/11/77HR96973UQT.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/12/77HS7NPK0EN5.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "步行者VS76人",
       "modifyTitle": "NBA夏季联赛",
@@ -861,7 +869,7 @@
     {
       "mgdbId": "120000580975",
       "pID": "966086454",
-      "title": "U17��篮世界杯小组赛",
+      "title": "U17女篮世界杯小组赛",
       "keyword": "07月12日17:30",
       "sportItemId": "2",
       "matchStatus": "0",
