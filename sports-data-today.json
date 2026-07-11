@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-11 20:33:06",
+  "updateTime": "2026-07-11 21:03:17",
   "data": [
     {
       "mgdbId": "120000575574",
@@ -787,6 +787,10 @@
         {
           "pID": "966130208",
           "name": "激战前夜全场回放：嘴炮康纳发布会回顾（陈瑞阳）"
+        },
+        {
+          "pID": "966132003",
+          "name": "激战前夜全场回放：嘴炮康纳发布会回顾（赛场原声）"
         }
       ]
     },
@@ -907,6 +911,10 @@
         {
           "pID": "966130234",
           "name": "全场集锦"
+        },
+        {
+          "pID": "966131967",
+          "name": "全场回放"
         }
       ]
     },
@@ -919,7 +927,7 @@
       "matchStatus": "2",
       "matchField": "延吉市全民健身体育中心体育场",
       "competitionName": "中甲",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000570643/202603010102_595574_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000570643/202607112031_731495_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/10106c2211.png",
       "pkInfoTitle": "延边龙鼎 vs 苏州东吴",
       "modifyTitle": "中甲联赛",
@@ -929,12 +937,8 @@
       },
       "nodes": [
         {
-          "pID": "966058205",
-          "name": "解说"
-        },
-        {
-          "pID": "966058207",
-          "name": "赛场原声"
+          "pID": "966132183",
+          "name": "全场回放"
         }
       ]
     },
@@ -1016,7 +1020,7 @@
       "title": "中甲联赛",
       "keyword": "07月11日19:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "西安国际足球中心",
       "competitionName": "中甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000570640/846978_H169_sc.jpg",
@@ -1044,7 +1048,7 @@
       "title": "中甲联赛",
       "keyword": "07月11日19:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "金州体育场",
       "competitionName": "中甲",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000570642/202603010102_140901_H169_1080.webp",
@@ -1130,8 +1134,8 @@
       "matchInfo": {},
       "nodes": [
         {
-          "pID": "965274132",
-          "name": "绿茵狂想第29期"
+          "pID": "966131995",
+          "name": "《绿茵狂想》第29期-徐云龙看好法国击败西班牙 颜强预测英格兰挺进四强"
         }
       ]
     },
@@ -1822,7 +1826,7 @@
       "competitionName": "U17女篮世界杯",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000580973/202607101752_443741_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/09/77HPETPFSE8E.jpg",
-      "pkInfoTitle": "埃及U17女篮vs新西兰U17女篮",
+      "pkInfoTitle": "埃及vs新西兰",
       "modifyTitle": "U17女篮世界杯小组赛",
       "presenters": "",
       "matchInfo": {
@@ -1889,12 +1893,12 @@
       "title": "U17女篮世界杯小组赛",
       "keyword": "07月11日20:45",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "Starez Arena Vodova",
       "competitionName": "U17女篮世界杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/10/77HQCANCSMUB.png",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/09/77HPETPFSE8E.jpg",
-      "pkInfoTitle": "意大利U17女篮vs加拿大U17女篮",
+      "pkInfoTitle": "意大利vs加拿大",
       "modifyTitle": "U17女篮世界杯小组赛",
       "presenters": "",
       "matchInfo": {
@@ -1913,7 +1917,7 @@
       "title": "疆超8进4第一回合",
       "keyword": "07月11日21:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "疆超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000582397/202607070950_525244_H169_1080.webp",
@@ -1937,7 +1941,7 @@
       "title": "疆超8进4第一回合",
       "keyword": "07月11日21:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "疆超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000582398/202607070950_865122_H169_1080.webp",
@@ -1960,7 +1964,7 @@
       "pID": "965549896",
       "title": "人机大战：谁是世界杯预言家 颜强苏东分析四强战局",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "世界杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/11/77HRAJONN1MG.png",
