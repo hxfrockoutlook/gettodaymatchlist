@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-11 17:32:45",
+  "updateTime": "2026-07-11 18:02:57",
   "data": [
     {
       "mgdbId": "120000575574",
@@ -893,7 +893,7 @@
       "competitionName": "U17女篮世界杯",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000580955/202607101750_157993_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/09/77HPETPFSE8E.jpg",
-      "pkInfoTitle": "澳大利亚U17女篮vs拉脱维亚U17女篮",
+      "pkInfoTitle": "澳大利亚vs拉脱维亚",
       "modifyTitle": "U17女篮世界杯小组赛",
       "presenters": "",
       "matchInfo": {
@@ -912,7 +912,7 @@
       "title": "中甲联赛",
       "keyword": "07月11日18:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "延吉市全民健身体育中心体育场",
       "competitionName": "中甲",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000570643/202603010102_595574_H169_1080.webp",
@@ -940,12 +940,12 @@
       "title": "U17女篮世界杯小组赛",
       "keyword": "07月11日18:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "Starez Arena Vodova",
       "competitionName": "U17女篮世界杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/10/77HQDD208FSD.jpg",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/09/77HPETPFSE8E.jpg",
-      "pkInfoTitle": "科特迪瓦U17女篮vs美国U17女篮",
+      "pkInfoTitle": "科特迪瓦vs美国",
       "modifyTitle": "U17女篮世界杯小组赛",
       "presenters": "",
       "matchInfo": {
@@ -964,7 +964,7 @@
       "title": "丽江VS昆明",
       "keyword": "07月11日18:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "滇超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000582566/202607091125_257306_H169_1080.webp",
@@ -988,7 +988,7 @@
       "title": "NBA季后赛精彩重播：湖人 vs 火箭 G3",
       "keyword": "07月11日18:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA经典赛事",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/11/77HR945U1J8H.jpg",
@@ -1118,7 +1118,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "世界杯",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/11/77HRABB6KFQL.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg",
       "pkInfoTitle": "《绿茵狂想》：前瞻英格兰阿根廷冲四强",
       "modifyTitle": "《绿茵狂想》第29期",
@@ -1200,12 +1200,7 @@
       "matchInfo": {
         "time": "07月11日19:30"
       },
-      "nodes": [
-        {
-          "pID": "966088684",
-          "name": "解说"
-        }
-      ]
+      "nodes": []
     },
     {
       "mgdbId": "120000571953",
@@ -1300,6 +1295,10 @@
         {
           "pID": "964217605",
           "name": "2026赛季广东省城市足球超级联赛第九轮（东区）: 韶关VS惠州"
+        },
+        {
+          "pID": "966129218",
+          "name": "普通话"
         }
       ]
     },
@@ -1435,7 +1434,7 @@
       "sportItemId": "2",
       "matchStatus": "0",
       "matchField": "",
-      "competitionName": "���BA",
+      "competitionName": "桂BA",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000582373/202607061630_105552_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/6/16/10000000149110630d4b.png",
       "pkInfoTitle": "贺州市vs柳州市",
@@ -1679,7 +1678,7 @@
       "sportItemId": "1",
       "matchStatus": "0",
       "matchField": "",
-      "competitionName": "��超",
+      "competitionName": "川超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000571111/202603051512_238035_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/18/100000001331106965f8.png",
       "pkInfoTitle": "达州川汉子队vs成都锦城队",
