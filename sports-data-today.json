@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-11 13:33:00",
+  "updateTime": "2026-07-11 14:03:06",
   "data": [
     {
       "mgdbId": "120000575574",
@@ -433,6 +433,10 @@
           "name": "全场回放（徐秦威）"
         },
         {
+          "pID": "966126091",
+          "name": "全场回放（英文原声）"
+        },
+        {
           "pID": "966123521",
           "name": "第一节"
         },
@@ -493,14 +497,14 @@
       },
       "nodes": [
         {
-          "pID": "966010827",
-          "name": "赛场原声"
+          "pID": "966126462",
+          "name": "全场回放"
         }
       ]
     },
     {
       "mgdbId": "120000582612",
-      "pID": "966125992",
+      "pID": "966126038",
       "title": "NBA夏季联赛",
       "keyword": "07月11日11:00",
       "sportItemId": "2",
@@ -517,8 +521,16 @@
       },
       "nodes": [
         {
+          "pID": "966126038",
+          "name": "杨瀚森集锦"
+        },
+        {
           "pID": "966125992",
           "name": "全场集锦"
+        },
+        {
+          "pID": "966126057",
+          "name": "全场回放（邢晨）"
         },
         {
           "pID": "966124470",
@@ -640,7 +652,7 @@
       "title": "2026亚洲自由式小轮车锦标赛",
       "keyword": "07月11日14:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "中国自行车运动协会系列赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/10/77HQE42RLTQR.jpg",
@@ -959,7 +971,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "NBA经典赛事",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/11/77HR945U1J8H.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png",
       "pkInfoTitle": "NBA季后赛精彩重播：湖人 vs 火箭 G3",
       "modifyTitle": "NBA经典赛事",
@@ -1163,7 +1175,7 @@
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000571952/202607081136_428334_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/7/7/1000000011571060f297.png",
       "pkInfoTitle": "兰州陇原竞技 vs 泰安天贶",
-      "modifyTitle": "中乙联���",
+      "modifyTitle": "中乙联赛",
       "presenters": "",
       "matchInfo": {
         "time": "07月11日19:30"
