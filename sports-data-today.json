@@ -1,10 +1,10 @@
 {
   "success": true,
-  "updateTime": "2026-07-12 04:02:10",
+  "updateTime": "2026-07-12 04:32:20",
   "data": [
     {
       "mgdbId": "120000580961",
-      "pID": "965605708",
+      "pID": "966137273",
       "title": "U17女篮世界杯小组赛",
       "keyword": "07月12日01:45",
       "sportItemId": "2",
@@ -21,6 +21,10 @@
       },
       "nodes": [
         {
+          "pID": "966137273",
+          "name": "全场集锦"
+        },
+        {
           "pID": "966137045",
           "name": "第一节"
         },
@@ -31,16 +35,24 @@
         {
           "pID": "966137175",
           "name": "第三节"
+        },
+        {
+          "pID": "966137269",
+          "name": "全场回放（吕程）"
+        },
+        {
+          "pID": "966137293",
+          "name": "第四节"
         }
       ]
     },
     {
       "mgdbId": "120000580962",
-      "pID": "966086675",
+      "pID": "965605708",
       "title": "U17女篮世界杯小组赛",
       "keyword": "07月12日02:15",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Starez Arena Vodova",
       "competitionName": "U17女篮世界杯",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000580962/202607101753_347151_H169_1080.webp",
@@ -52,6 +64,10 @@
         "time": "07月12日02:15"
       },
       "nodes": [
+        {
+          "pID": "965605708",
+          "name": "女篮新星集结亮相世界舞台！U17女篮世界杯球队巡礼来袭"
+        },
         {
           "pID": "966086675",
           "name": "赛场原声"
@@ -169,6 +185,14 @@
           "name": "苏东 贺宇 冯潇霆 李子琪"
         },
         {
+          "pID": "966086167",
+          "name": "挪威队热身"
+        },
+        {
+          "pID": "966086177",
+          "name": "英格兰队热身"
+        },
+        {
           "pID": "966086372",
           "name": "AI智慧观赛"
         },
@@ -207,10 +231,6 @@
         {
           "pID": "966086354",
           "name": "粤语智能字幕"
-        },
-        {
-          "pID": "966086167",
-          "name": "挪威队热身"
         }
       ]
     },
@@ -1284,7 +1304,7 @@
       "matchStatus": "0",
       "matchField": "Starez Arena Vodova Hall 2",
       "competitionName": "U17女篮世界杯",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000580969/202607101754_285612_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/12/77HS72DN8IM7.png",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/09/77HPETPFSE8E.jpg",
       "pkInfoTitle": "斯洛文尼亚U17女篮vs日本U17女篮",
       "modifyTitle": "U17女篮世界杯小组赛",
