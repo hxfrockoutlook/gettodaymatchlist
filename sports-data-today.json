@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-11 18:02:57",
+  "updateTime": "2026-07-11 18:32:52",
   "data": [
     {
       "mgdbId": "120000575574",
@@ -351,6 +351,10 @@
         {
           "pID": "966126031",
           "name": "全场回放（一）"
+        },
+        {
+          "pID": "966129479",
+          "name": "全场回放（二）"
         }
       ]
     },
@@ -625,7 +629,7 @@
       "competitionName": "中国自行车运动协会系列赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/10/77HQEHUBKD8P.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/6/25/100000001499106b6db1.png",
-      "pkInfoTitle": "环大���青海国际公路自行车赛",
+      "pkInfoTitle": "环大美青海国际公路自行车赛",
       "modifyTitle": "环大美青海国际公路自行车赛",
       "presenters": "",
       "matchInfo": {
@@ -744,7 +748,7 @@
       "title": "蒙超联赛",
       "keyword": "07月11日16:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "蒙超联赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000582322/202607061130_114101_H169_1080.webp",
@@ -792,7 +796,7 @@
       "title": "贵州村超",
       "keyword": "07月11日16:30",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "贵州村超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000582380/202607061645_964201_H169_1080.webp",
@@ -816,7 +820,7 @@
       "title": "齐鲁超赛",
       "keyword": "07月11日16:30",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "齐鲁超赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000582409/202607071505_445993_H169_1080.webp",
@@ -1184,25 +1188,6 @@
       ]
     },
     {
-      "mgdbId": "120000571952",
-      "pID": "966088684",
-      "title": "中乙联赛",
-      "keyword": "07月11日19:30",
-      "sportItemId": "1",
-      "matchStatus": "0",
-      "matchField": "兰州奥体中心玫瑰场",
-      "competitionName": "中乙",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000571952/202607081136_428334_H169_1080.webp",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/7/7/1000000011571060f297.png",
-      "pkInfoTitle": "兰州陇原竞技 vs 泰安天贶",
-      "modifyTitle": "中乙联赛",
-      "presenters": "",
-      "matchInfo": {
-        "time": "07月11日19:30"
-      },
-      "nodes": []
-    },
-    {
       "mgdbId": "120000571953",
       "pID": "966088675",
       "title": "中乙联赛",
@@ -1293,12 +1278,12 @@
       },
       "nodes": [
         {
-          "pID": "964217605",
-          "name": "2026赛季广东省城市足球超级联赛第九轮（东区）: 韶关VS惠州"
-        },
-        {
           "pID": "966129218",
           "name": "普通话"
+        },
+        {
+          "pID": "964217605",
+          "name": "2026赛季广东省城市足球超级联赛东区第九轮: 韶关VS惠州（粤语）"
         }
       ]
     },
