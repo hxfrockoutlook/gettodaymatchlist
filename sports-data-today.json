@@ -1,14 +1,14 @@
 {
   "success": true,
-  "updateTime": "2026-07-12 03:32:07",
+  "updateTime": "2026-07-12 04:02:10",
   "data": [
     {
       "mgdbId": "120000580961",
-      "pID": "966122516",
+      "pID": "965605708",
       "title": "U17女篮世界杯小组赛",
       "keyword": "07月12日01:45",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Starez Arena Vodova Hall 2",
       "competitionName": "U17女篮世界杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/10/77HQC9AQH2K9.jpg",
@@ -21,12 +21,16 @@
       },
       "nodes": [
         {
-          "pID": "966122516",
-          "name": "吕程"
+          "pID": "966137045",
+          "name": "第一节"
         },
         {
-          "pID": "966086616",
-          "name": "赛场原声"
+          "pID": "966137107",
+          "name": "第二节"
+        },
+        {
+          "pID": "966137175",
+          "name": "第三节"
         }
       ]
     },
@@ -88,7 +92,7 @@
       "title": "NBA夏季联赛",
       "keyword": "07月12日04:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/11/77HR95OKDIHB.jpg",
@@ -148,7 +152,7 @@
       "title": "世界杯1/4决赛",
       "keyword": "07月12日05:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "迈阿密球场",
       "competitionName": "世界杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/10/77HQC1PH2F1M.jpg",
@@ -185,6 +189,10 @@
           "name": "赛场原声"
         },
         {
+          "pID": "966086429",
+          "name": "CCTV5"
+        },
+        {
           "pID": "966086063",
           "name": "闽南语：洪荒"
         },
@@ -199,6 +207,10 @@
         {
           "pID": "966086354",
           "name": "粤语智能字幕"
+        },
+        {
+          "pID": "966086167",
+          "name": "挪威队热身"
         }
       ]
     },
