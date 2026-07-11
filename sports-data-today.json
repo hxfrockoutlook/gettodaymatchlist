@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-12 05:02:34",
+  "updateTime": "2026-07-12 05:32:21",
   "data": [
     {
       "mgdbId": "120000580961",
@@ -69,6 +69,10 @@
       },
       "nodes": [
         {
+          "pID": "966137463",
+          "name": "全场回放"
+        },
+        {
           "pID": "966137330",
           "name": "全场集锦"
         }
@@ -76,11 +80,11 @@
     },
     {
       "mgdbId": "120000582615",
-      "pID": "966088612",
+      "pID": "966137278",
       "title": "NBA夏季联赛",
       "keyword": "07月12日03:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/12/77HS74VJVCT1.jpg",
@@ -93,12 +97,20 @@
       },
       "nodes": [
         {
-          "pID": "966088612",
-          "name": "张泽欣"
+          "pID": "966137256",
+          "name": "第一节"
         },
         {
-          "pID": "966088636",
-          "name": "英文原声"
+          "pID": "966137327",
+          "name": "第二节"
+        },
+        {
+          "pID": "966137433",
+          "name": "第三节"
+        },
+        {
+          "pID": "966137715",
+          "name": "第四节"
         }
       ]
     },
@@ -197,12 +209,16 @@
           "name": "同看UFC嘴炮"
         },
         {
-          "pID": "966086050",
-          "name": "粤语：江忠德"
+          "pID": "966086281",
+          "name": "哈宝直拍"
         },
         {
-          "pID": "966086281",
-          "name": "哈兰德直拍"
+          "pID": "966086311",
+          "name": "贝林直拍"
+        },
+        {
+          "pID": "966086050",
+          "name": "粤语：江忠德"
         },
         {
           "pID": "966086016",
@@ -221,24 +237,20 @@
           "name": "沪语：陈渤胄"
         },
         {
-          "pID": "966086006",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "966086429",
-          "name": "CCTV5"
-        },
-        {
-          "pID": "966086311",
-          "name": "英格兰队球星视角"
-        },
-        {
           "pID": "966086167",
           "name": "挪威队视角"
         },
         {
           "pID": "966086177",
           "name": "英格兰队视角"
+        },
+        {
+          "pID": "966086006",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "966086429",
+          "name": "CCTV5"
         },
         {
           "pID": "966086343",
@@ -268,7 +280,7 @@
       "title": "NBA夏季联赛",
       "keyword": "07月12日05:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/11/77HR96973UQT.jpg",
