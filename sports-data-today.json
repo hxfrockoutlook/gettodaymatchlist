@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-12 20:02:24",
+  "updateTime": "2026-07-12 20:32:23",
   "data": [
     {
       "mgdbId": "120000580961",
@@ -1015,7 +1015,7 @@
       "matchStatus": "2",
       "matchField": "大连足球青训基地体育场",
       "competitionName": "中乙",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000571947/202607121843_475203_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000571947/202607122000_934471_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/7/7/1000000011571060f297.png",
       "pkInfoTitle": "大连可为 vs 上海赛更达",
       "modifyTitle": "中乙联赛",
@@ -1051,6 +1051,10 @@
         {
           "pID": "966155639",
           "name": "全场集锦"
+        },
+        {
+          "pID": "966156311",
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
@@ -1108,10 +1112,10 @@
       "title": "U17女篮世界杯小组赛",
       "keyword": "07月12日18:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Starez Arena Vodova",
       "competitionName": "U17女篮世界杯",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/11/77HR9BPLNB1H.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/12/77HS85S85VVV.jpg",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/09/77HPETPFSE8E.jpg",
       "pkInfoTitle": "加拿大vs埃及",
       "modifyTitle": "U17女篮世界杯小组赛",
@@ -1421,7 +1425,7 @@
       "title": "U17女篮世界杯小组赛",
       "keyword": "07月12日20:15",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "Starez Arena Vodova Hall 2",
       "competitionName": "U17女篮世界杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/11/77HRA7TU5MIT.jpg",
@@ -1439,30 +1443,6 @@
         },
         {
           "pID": "966086621",
-          "name": "赛场原声"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000582386",
-      "pID": "966020163",
-      "title": "贵州村超",
-      "keyword": "07月12日20:30",
-      "sportItemId": "1",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "贵州村超",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000582386/202607061646_715869_H169_1080.webp",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/29/10000000146010647880.png",
-      "pkInfoTitle": "车江二村VS车江一村",
-      "modifyTitle": "贵州村超",
-      "presenters": "",
-      "matchInfo": {
-        "time": "07月12日20:30"
-      },
-      "nodes": [
-        {
-          "pID": "966020163",
           "name": "赛场原声"
         }
       ]
@@ -1487,6 +1467,30 @@
       "nodes": [
         {
           "pID": "966086682",
+          "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000582386",
+      "pID": "966020163",
+      "title": "贵州村超",
+      "keyword": "07月12日21:00",
+      "sportItemId": "1",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "贵州村超",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000582386/202607061646_715869_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/29/10000000146010647880.png",
+      "pkInfoTitle": "车江二村VS车江一村",
+      "modifyTitle": "贵州村超",
+      "presenters": "",
+      "matchInfo": {
+        "time": "07月12日21:00"
+      },
+      "nodes": [
+        {
+          "pID": "966020163",
           "name": "赛场原声"
         }
       ]
