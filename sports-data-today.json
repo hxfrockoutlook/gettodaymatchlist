@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-12 09:32:07",
+  "updateTime": "2026-07-12 10:02:16",
   "data": [
     {
       "mgdbId": "120000580961",
@@ -376,11 +376,11 @@
     },
     {
       "mgdbId": "120000582630",
-      "pID": "966088741",
+      "pID": "966141862",
       "title": "NBA夏季联赛",
       "keyword": "07月12日07:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/12/77HS8H5DGTID.jpg",
@@ -393,12 +393,24 @@
       },
       "nodes": [
         {
-          "pID": "966088741",
-          "name": "刘圳展"
+          "pID": "966142783",
+          "name": "全场回放（刘圳展）"
         },
         {
-          "pID": "966088760",
-          "name": "英文原声"
+          "pID": "966140620",
+          "name": "第一节"
+        },
+        {
+          "pID": "966141020",
+          "name": "第二节"
+        },
+        {
+          "pID": "966141535",
+          "name": "第三节"
+        },
+        {
+          "pID": "966142502",
+          "name": "第四节"
         }
       ]
     },
@@ -487,7 +499,7 @@
       "matchStatus": "1",
       "matchField": "堪萨斯城体育场",
       "competitionName": "世界杯",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/10/77HQC1SC6Q3S.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/12/77HS8JL5CP5T.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg",
       "pkInfoTitle": "阿根廷 vs 瑞士",
       "modifyTitle": "世界杯1/4决赛",
@@ -615,7 +627,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/11/77HRBMLU5OV9.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/12/77HS8JRNSFF3.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "火箭VS猛龙",
       "modifyTitle": "NBA夏季联赛",
@@ -640,10 +652,10 @@
       "title": "NBA夏季联赛",
       "keyword": "07月12日10:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/11/77HRBMO5RFLO.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/12/77HS8IE77I33.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "湖人VS独行侠",
       "modifyTitle": "NBA夏季联赛",
@@ -668,7 +680,7 @@
       "title": "9岁组预赛暨团体决赛、个人全能决赛",
       "keyword": "07月12日10:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "全国少年体操U系列锦标赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/11/77HRBBRR4DO9.jpg",
@@ -937,7 +949,7 @@
       "competitionName": "U17女篮世界杯",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000580975/202607101753_170265_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/09/77HPETPFSE8E.jpg",
-      "pkInfoTitle": "新西兰U17女篮vs意大利U17女篮",
+      "pkInfoTitle": "新西兰vs意大利",
       "modifyTitle": "U17女篮世界杯小组赛",
       "presenters": "",
       "matchInfo": {
@@ -1033,7 +1045,7 @@
       "competitionName": "U17女篮世界杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/11/77HR9BPLNB1H.png",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/09/77HPETPFSE8E.jpg",
-      "pkInfoTitle": "加拿大U17女篮vs埃及U17女篮",
+      "pkInfoTitle": "加拿大vs埃及",
       "modifyTitle": "U17女篮世界杯小组赛",
       "presenters": "",
       "matchInfo": {
@@ -1298,7 +1310,7 @@
       "competitionName": "U17女篮世界杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/11/77HRA7TU5MIT.jpg",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/09/77HPETPFSE8E.jpg",
-      "pkInfoTitle": "中国U17女篮vs德国U17女篮",
+      "pkInfoTitle": "中国vs德国",
       "modifyTitle": "U17女篮世界杯小组赛",
       "presenters": "吕程",
       "matchInfo": {
@@ -1350,7 +1362,7 @@
       "competitionName": "U17女篮世界杯",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000580964/202607101754_373833_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/09/77HPETPFSE8E.jpg",
-      "pkInfoTitle": "西班牙U17女篮vs墨西哥U17女篮",
+      "pkInfoTitle": "西班牙vs墨西哥",
       "modifyTitle": "U17女篮世界杯小组赛",
       "presenters": "",
       "matchInfo": {
@@ -1422,7 +1434,7 @@
       "competitionName": "U17女篮世界杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/12/77HS72DN8IM7.png",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/09/77HPETPFSE8E.jpg",
-      "pkInfoTitle": "斯洛文尼亚U17女篮vs日本U17女篮",
+      "pkInfoTitle": "斯洛文尼亚vs日本",
       "modifyTitle": "U17女篮世界杯小组赛",
       "presenters": "",
       "matchInfo": {
@@ -1446,7 +1458,7 @@
       "competitionName": "U17女篮世界杯",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000580970/202607101754_233808_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/09/77HPETPFSE8E.jpg",
-      "pkInfoTitle": "哥伦比亚U17女篮vs捷克U17女篮",
+      "pkInfoTitle": "哥伦比亚vs捷克",
       "modifyTitle": "U17女篮世界杯小组赛",
       "presenters": "",
       "matchInfo": {
