@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-12 10:02:16",
+  "updateTime": "2026-07-12 10:32:11",
   "data": [
     {
       "mgdbId": "120000580961",
@@ -376,7 +376,7 @@
     },
     {
       "mgdbId": "120000582630",
-      "pID": "966141862",
+      "pID": "966143378",
       "title": "NBA夏季联赛",
       "keyword": "07月12日07:30",
       "sportItemId": "2",
@@ -392,6 +392,10 @@
         "time": "07月12日07:30"
       },
       "nodes": [
+        {
+          "pID": "966143378",
+          "name": "全场集锦"
+        },
         {
           "pID": "966142783",
           "name": "全场回放（刘圳展）"
@@ -440,14 +444,14 @@
     },
     {
       "mgdbId": "120000582584",
-      "pID": "966088769",
+      "pID": "966143031",
       "title": "NBA夏季联赛",
       "keyword": "07月12日08:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/11/77HRBMKT98F0.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/12/77HS8OS0PO10.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "老鹰VS篮网",
       "modifyTitle": "NBA夏季联赛",
@@ -457,12 +461,24 @@
       },
       "nodes": [
         {
-          "pID": "966088769",
-          "name": "刘沛元"
+          "pID": "966143992",
+          "name": "全场回放（刘沛元）"
         },
         {
-          "pID": "966088796",
-          "name": "英文原声"
+          "pID": "966141072",
+          "name": "第一节"
+        },
+        {
+          "pID": "966141211",
+          "name": "第二节"
+        },
+        {
+          "pID": "966142229",
+          "name": "第三节"
+        },
+        {
+          "pID": "966143442",
+          "name": "第四节"
         }
       ]
     },
