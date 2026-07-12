@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-13 06:31:39",
+  "updateTime": "2026-07-13 07:08:32",
   "data": [
     {
       "mgdbId": "120000580957",
@@ -108,7 +108,7 @@
     },
     {
       "mgdbId": "120000582617",
-      "pID": "966159802",
+      "pID": "966159967",
       "title": "NBA夏季联赛",
       "keyword": "07月13日04:00",
       "sportItemId": "2",
@@ -125,8 +125,16 @@
       },
       "nodes": [
         {
+          "pID": "966159967",
+          "name": "全场集锦"
+        },
+        {
           "pID": "966159926",
           "name": "全场回放（王冠证）"
+        },
+        {
+          "pID": "966160006",
+          "name": "全场回放（英文原声）"
         },
         {
           "pID": "966159808",
@@ -170,7 +178,7 @@
         },
         {
           "pID": "966159916",
-          "name": "全场回放"
+          "name": "全场回放（英文原声）"
         }
       ]
     },
@@ -192,6 +200,10 @@
         "time": "07月13日05:00"
       },
       "nodes": [
+        {
+          "pID": "966159992",
+          "name": "拍苍蝇呢！米切尔敏锐协防送出排球大帽"
+        },
         {
           "pID": "966089037",
           "name": "季孟年"
@@ -288,7 +300,7 @@
       "title": "NBA夏季联赛",
       "keyword": "07月13日07:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/12/77HS8TI6V8VG.png",
@@ -316,7 +328,7 @@
       "title": "BIG3",
       "keyword": "07月13日07:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "BIG3",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/12/77HS9EFBGH0P.jpg",
