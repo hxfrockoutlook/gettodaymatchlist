@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-12 22:32:38",
+  "updateTime": "2026-07-12 23:02:48",
   "data": [
     {
       "mgdbId": "120000580961",
@@ -1249,12 +1249,8 @@
       },
       "nodes": [
         {
-          "pID": "966058375",
-          "name": "解说"
-        },
-        {
-          "pID": "966058415",
-          "name": "赛场原声"
+          "pID": "966158655",
+          "name": "全场集锦"
         }
       ]
     },
@@ -1446,6 +1442,14 @@
           "name": "全场集锦"
         },
         {
+          "pID": "966157814",
+          "name": "全场回放（吕程）"
+        },
+        {
+          "pID": "966158455",
+          "name": "全场回放（赛场原声）"
+        },
+        {
           "pID": "966156524",
           "name": "第一节"
         },
@@ -1460,20 +1464,16 @@
         {
           "pID": "966157720",
           "name": "第四节"
-        },
-        {
-          "pID": "966157814",
-          "name": "全场回放（吕程）"
         }
       ]
     },
     {
       "mgdbId": "120000580964",
-      "pID": "966086682",
+      "pID": "966158439",
       "title": "U17女篮世界杯小组赛",
       "keyword": "07月12日20:45",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Starez Arena Vodova",
       "competitionName": "U17女篮世界杯",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000580964/202607101754_373833_H169_1080.webp",
@@ -1486,8 +1486,8 @@
       },
       "nodes": [
         {
-          "pID": "966086682",
-          "name": "赛场原声"
+          "pID": "966158439",
+          "name": "全场集锦"
         }
       ]
     },
@@ -1497,7 +1497,7 @@
       "title": "贵州村超",
       "keyword": "07月12日20:50",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "贵州村超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000582386/202607061646_715869_H169_1080.webp",
@@ -1543,7 +1543,7 @@
       "mgdbId": "120000582387",
       "pID": "966020181",
       "title": "贵州村超",
-      "keyword": "07月12日22:30",
+      "keyword": "07月12日22:50",
       "sportItemId": "1",
       "matchStatus": "1",
       "matchField": "",
@@ -1554,7 +1554,7 @@
       "modifyTitle": "贵州村超",
       "presenters": "",
       "matchInfo": {
-        "time": "07月12日22:30"
+        "time": "07月12日22:50"
       },
       "nodes": [
         {
@@ -1569,7 +1569,7 @@
       "title": "U17女篮世界杯小组赛",
       "keyword": "07月12日23:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "Starez Arena Vodova Hall 2",
       "competitionName": "U17女篮世界杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/12/77HS72DN8IM7.png",
