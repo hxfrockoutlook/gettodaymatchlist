@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-12 14:04:36",
+  "updateTime": "2026-07-12 14:32:24",
   "data": [
     {
       "mgdbId": "120000580961",
@@ -764,7 +764,7 @@
       "title": "精彩回顾：鲁塞 vs 穆霍娃",
       "keyword": "07月12日12:00",
       "sportItemId": "9",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/11/77HR9CBA59U0.png",
@@ -777,8 +777,8 @@
       },
       "nodes": [
         {
-          "pID": "965929024",
-          "name": "宋光振"
+          "pID": "965696958",
+          "name": "全场回放"
         }
       ]
     },
@@ -860,7 +860,7 @@
       "title": "贵州村超",
       "keyword": "07月12日14:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "贵州村超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000582383/202607061645_668562_H169_1080.webp",
@@ -1139,6 +1139,30 @@
         {
           "pID": "966086496",
           "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000582573",
+      "pID": "966085588",
+      "title": "NBA季后赛精彩重播：湖人 vs 火箭 G4",
+      "keyword": "07月12日18:00",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "NBA经典赛事",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png",
+      "pkInfoTitle": "NBA季后赛精彩重播：湖人 vs 火箭 G4",
+      "modifyTitle": "NBA经典赛事",
+      "presenters": "杨健 麦基 曾令旭",
+      "matchInfo": {
+        "time": "07月12日18:00"
+      },
+      "nodes": [
+        {
+          "pID": "966085588",
+          "name": "杨健 麦基 曾令旭"
         }
       ]
     },
