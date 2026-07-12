@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-13 04:31:48",
+  "updateTime": "2026-07-13 05:01:47",
   "data": [
     {
       "mgdbId": "120000580957",
@@ -20,6 +20,10 @@
         "time": "07月13日01:45"
       },
       "nodes": [
+        {
+          "pID": "966159803",
+          "name": "全场回放"
+        },
         {
           "pID": "966159751",
           "name": "全场集锦"
@@ -56,11 +60,11 @@
     },
     {
       "mgdbId": "120000582613",
-      "pID": "966088978",
+      "pID": "966159725",
       "title": "NBA夏季联赛",
       "keyword": "07月13日03:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/13/77HT45TGA35C.jpg",
@@ -73,12 +77,12 @@
       },
       "nodes": [
         {
-          "pID": "966088978",
-          "name": "王琰博"
+          "pID": "966159758",
+          "name": "第一节"
         },
         {
-          "pID": "966088991",
-          "name": "英文原声"
+          "pID": "966159761",
+          "name": "第二节"
         }
       ]
     },
@@ -144,7 +148,7 @@
       "title": "NBA夏季联赛",
       "keyword": "07月13日05:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/12/77HS962PCG6J.jpg",
@@ -172,7 +176,7 @@
       "title": "BIG3",
       "keyword": "07月13日05:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "BIG3",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/12/77HS9E796T2C.jpg",
