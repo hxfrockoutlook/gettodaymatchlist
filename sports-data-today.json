@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-13 05:31:41",
+  "updateTime": "2026-07-13 06:01:49",
   "data": [
     {
       "mgdbId": "120000580957",
@@ -60,7 +60,7 @@
     },
     {
       "mgdbId": "120000582613",
-      "pID": "966159725",
+      "pID": "966159908",
       "title": "NBA夏季联赛",
       "keyword": "07月13日03:00",
       "sportItemId": "2",
@@ -76,6 +76,18 @@
         "time": "07月13日03:00"
       },
       "nodes": [
+        {
+          "pID": "966159908",
+          "name": "全场集锦"
+        },
+        {
+          "pID": "966159887",
+          "name": "全场回放（王琰博）"
+        },
+        {
+          "pID": "966159910",
+          "name": "全场回放（英文原声）"
+        },
         {
           "pID": "966159758",
           "name": "第一节"
@@ -96,14 +108,14 @@
     },
     {
       "mgdbId": "120000582617",
-      "pID": "966089004",
+      "pID": "966159802",
       "title": "NBA夏季联赛",
       "keyword": "07月13日04:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/12/77HS9600Q4OI.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/13/77HT4H96AI4A.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "骑士VS活塞",
       "modifyTitle": "NBA夏季联赛",
@@ -113,18 +125,22 @@
       },
       "nodes": [
         {
-          "pID": "966089004",
-          "name": "王冠证"
+          "pID": "966159808",
+          "name": "第一节"
         },
         {
-          "pID": "966089020",
-          "name": "英文原声"
+          "pID": "966159831",
+          "name": "第二节"
+        },
+        {
+          "pID": "966159892",
+          "name": "第三节"
         }
       ]
     },
     {
       "mgdbId": "120000582805",
-      "pID": "966159799",
+      "pID": "966159852",
       "title": "BIG3",
       "keyword": "07月13日04:00",
       "sportItemId": "2",
@@ -141,16 +157,8 @@
       },
       "nodes": [
         {
-          "pID": "966159799",
-          "name": "闲庭信步！比斯利转身一步过掉防守轻松上篮得手"
-        },
-        {
-          "pID": "966146404",
-          "name": "蔡凯臣"
-        },
-        {
-          "pID": "966146416",
-          "name": "英文原声"
+          "pID": "966159852",
+          "name": "全场回放（蔡凯臣）"
         }
       ]
     },
@@ -216,7 +224,7 @@
       "title": "NBA夏季联赛",
       "keyword": "07月13日06:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/12/77HS9669F5G8.jpg",
@@ -244,7 +252,7 @@
       "title": "BIG3",
       "keyword": "07月13日06:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "BIG3",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/12/77HS9EAJQRPP.jpg",
