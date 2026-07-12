@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-12 13:02:27",
+  "updateTime": "2026-07-12 13:32:27",
   "data": [
     {
       "mgdbId": "120000580961",
@@ -601,6 +601,10 @@
           "name": "全场回放（颜强、李欣、孙葆洁、郭小仙儿）"
         },
         {
+          "pID": "966148558",
+          "name": "全场回放（詹俊、张路、邵凌霄）"
+        },
+        {
           "pID": "966148256",
           "name": "全场回放（鲁靖明、李彦、魏欣怡）"
         },
@@ -685,6 +689,10 @@
           "name": "全场回放（王凯）"
         },
         {
+          "pID": "966148951",
+          "name": "全场回放（英文原声）"
+        },
+        {
           "pID": "966143701",
           "name": "第一节"
         },
@@ -743,30 +751,6 @@
         {
           "pID": "966147896",
           "name": "第四节"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000582770",
-      "pID": "966121795",
-      "title": "9岁组预赛暨团体决赛、个人全能决赛",
-      "keyword": "07月12日10:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "全国少年体操U系列锦标赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/11/77HRBBRR4DO9.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/7/18/1000000012941069da17.png",
-      "pkInfoTitle": "9岁组预赛暨团体决赛、个人全能决赛",
-      "modifyTitle": "全国少年体操U系列锦标赛Day2：9岁组预赛暨团体决赛、个人全能决赛",
-      "presenters": "",
-      "matchInfo": {
-        "time": "07月12日10:00"
-      },
-      "nodes": [
-        {
-          "pID": "966121795",
-          "name": "赛场原声"
         }
       ]
     },
@@ -911,6 +895,30 @@
         {
           "pID": "965929038",
           "name": "刘钟鸣"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000582770",
+      "pID": "966121795",
+      "title": "全国少年体操U系列锦标赛Day2",
+      "keyword": "07月12日15:00",
+      "sportItemId": "8",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "全国少年体操U系列锦标赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/11/77HRBBRR4DO9.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/7/18/1000000012941069da17.png",
+      "pkInfoTitle": "全国少年体操U系列锦标赛Day2",
+      "modifyTitle": "全国少年体操U系列锦标赛Day2：9岁组预赛暨团体决赛、个人全能决赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "07月12日15:00"
+      },
+      "nodes": [
+        {
+          "pID": "966121795",
+          "name": "赛场原声"
         }
       ]
     },
