@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-13 05:01:47",
+  "updateTime": "2026-07-13 05:31:41",
   "data": [
     {
       "mgdbId": "120000580957",
@@ -21,18 +21,18 @@
       },
       "nodes": [
         {
-          "pID": "966159803",
-          "name": "全场回放"
-        },
-        {
           "pID": "966159751",
           "name": "全场集锦"
+        },
+        {
+          "pID": "966159803",
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
     {
       "mgdbId": "120000580958",
-      "pID": "965605708",
+      "pID": "966159791",
       "title": "U17女篮世界杯小组赛",
       "keyword": "07月13日02:15",
       "sportItemId": "2",
@@ -49,12 +49,12 @@
       },
       "nodes": [
         {
-          "pID": "965605708",
-          "name": "女篮新星集结亮相世界舞台！U17女篮世界杯球队巡礼来袭"
+          "pID": "966159791",
+          "name": "全场集锦"
         },
         {
-          "pID": "966086686",
-          "name": "赛场原声"
+          "pID": "966159847",
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
@@ -83,6 +83,14 @@
         {
           "pID": "966159761",
           "name": "第二节"
+        },
+        {
+          "pID": "966159861",
+          "name": "第三节"
+        },
+        {
+          "pID": "966159844",
+          "name": "第四节"
         }
       ]
     },
@@ -116,14 +124,14 @@
     },
     {
       "mgdbId": "120000582805",
-      "pID": "966146404",
+      "pID": "966159799",
       "title": "BIG3",
       "keyword": "07月13日04:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "BIG3",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/12/77HS9E3DLGB4.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/13/77HT4ECH11FR.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/6/20/1000000014971069d7b4.jpeg",
       "pkInfoTitle": "迈阿密305 vs 休斯顿铁钻",
       "modifyTitle": "BIG3",
@@ -132,6 +140,10 @@
         "time": "07月13日04:00"
       },
       "nodes": [
+        {
+          "pID": "966159799",
+          "name": "闲庭信步！比斯利转身一步过掉防守轻松上篮得手"
+        },
         {
           "pID": "966146404",
           "name": "蔡凯臣"
