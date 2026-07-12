@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-12 11:02:21",
+  "updateTime": "2026-07-12 11:32:13",
   "data": [
     {
       "mgdbId": "120000580961",
@@ -491,30 +491,6 @@
       ]
     },
     {
-      "mgdbId": "120000582579",
-      "pID": "966086413",
-      "title": "团体赛第二阶段、半决赛决赛",
-      "keyword": "07月12日08:30",
-      "sportItemId": "7",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "中国乒协会员联赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/11/77HRA7JV08M7.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/3/18/1000000014191068af2d.png",
-      "pkInfoTitle": "团体赛第二阶段、半决赛决赛",
-      "modifyTitle": "“李宁·红双喜杯”中国乒协会员联赛宁夏银川站团体赛第二阶段、半决赛决赛",
-      "presenters": "",
-      "matchInfo": {
-        "time": "07月12日08:30"
-      },
-      "nodes": [
-        {
-          "pID": "966086413",
-          "name": "赛场原声"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000575571",
       "pID": "966086008",
       "title": "世界杯1/4决赛",
@@ -651,7 +627,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/12/77HS8JRNSFF3.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/12/77HS947B9AIP.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "火箭VS猛龙",
       "modifyTitle": "NBA夏季联赛",
@@ -791,6 +767,30 @@
         {
           "pID": "966068436",
           "name": "解说"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000582579",
+      "pID": "966086413",
+      "title": "团体赛第二阶段、半决赛决赛",
+      "keyword": "07月12日14:00",
+      "sportItemId": "7",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "中国乒协会员联赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/11/77HRA7JV08M7.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/3/18/1000000014191068af2d.png",
+      "pkInfoTitle": "团体赛第二阶段、半决赛决赛",
+      "modifyTitle": "“李宁·红双喜杯”中国乒协会员联赛宁夏银川站团体赛第二阶段、半决赛决赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "07月12日14:00"
+      },
+      "nodes": [
+        {
+          "pID": "966086413",
+          "name": "赛场原声"
         }
       ]
     },
