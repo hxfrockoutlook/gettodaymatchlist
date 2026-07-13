@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-13 08:31:38",
+  "updateTime": "2026-07-13 09:01:47",
   "data": [
     {
       "mgdbId": "120000580957",
@@ -211,12 +211,20 @@
         {
           "pID": "966159922",
           "name": "第二节"
+        },
+        {
+          "pID": "966159995",
+          "name": "第三节"
+        },
+        {
+          "pID": "966160063",
+          "name": "第四节"
         }
       ]
     },
     {
       "mgdbId": "120000582806",
-      "pID": "966159932",
+      "pID": "966159947",
       "title": "BIG3",
       "keyword": "07月13日05:00",
       "sportItemId": "2",
@@ -238,7 +246,7 @@
         },
         {
           "pID": "966159988",
-          "name": "全场回放"
+          "name": "全场回放（英文原声）"
         }
       ]
     },
@@ -284,7 +292,7 @@
     },
     {
       "mgdbId": "120000582807",
-      "pID": "966160051",
+      "pID": "966160164",
       "title": "BIG3",
       "keyword": "07月13日06:00",
       "sportItemId": "2",
@@ -301,16 +309,12 @@
       },
       "nodes": [
         {
-          "pID": "966160051",
-          "name": "风采依旧！克劳福德急停飘逸中投稳稳命中"
+          "pID": "966160164",
+          "name": "全场回放（李嘉伟）"
         },
         {
-          "pID": "966146445",
-          "name": "李嘉伟"
-        },
-        {
-          "pID": "966146447",
-          "name": "英文原声"
+          "pID": "966160303",
+          "name": "全场回放（英文原声）"
         }
       ]
     },
@@ -344,14 +348,14 @@
     },
     {
       "mgdbId": "120000582808",
-      "pID": "966146463",
+      "pID": "966160444",
       "title": "BIG3",
       "keyword": "07月13日07:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "BIG3",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/12/77HS9EFBGH0P.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/13/77HT5DNT7PBF.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/6/20/1000000014971069d7b4.jpeg",
       "pkInfoTitle": "芝加哥三雄 vs 波士顿球霸",
       "modifyTitle": "BIG3",
@@ -360,6 +364,10 @@
         "time": "07月13日07:00"
       },
       "nodes": [
+        {
+          "pID": "966160444",
+          "name": "制霸篮下！约翰逊内线一柱擎天补篮打成2+1"
+        },
         {
           "pID": "966146463",
           "name": "李嘉伟"
@@ -404,7 +412,7 @@
       "title": "NBA夏季联赛",
       "keyword": "07月13日09:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/12/77HS92CJP6LE.png",
