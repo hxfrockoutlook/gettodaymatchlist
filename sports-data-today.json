@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-13 14:01:54",
+  "updateTime": "2026-07-13 14:32:11",
   "data": [
     {
       "mgdbId": "120000580957",
@@ -601,6 +601,10 @@
           "name": "5号桌"
         },
         {
+          "pID": "966151744",
+          "name": "7号桌"
+        },
+        {
           "pID": "966151034",
           "name": "1号桌"
         },
@@ -611,10 +615,6 @@
         {
           "pID": "966151726",
           "name": "6号桌"
-        },
-        {
-          "pID": "966151744",
-          "name": "7号桌"
         },
         {
           "pID": "966151780",
@@ -723,6 +723,30 @@
       ]
     },
     {
+      "mgdbId": "120000582574",
+      "pID": "966085583",
+      "title": "NBA季后赛精彩重播：火箭 vs 湖人 G5",
+      "keyword": "07月13日18:00",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "NBA经典赛事",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png",
+      "pkInfoTitle": "NBA季后赛精彩重播：火箭 vs 湖人 G5",
+      "modifyTitle": "NBA经典赛事",
+      "presenters": "杨健 苏群 周鹏",
+      "matchInfo": {
+        "time": "07月13日18:00"
+      },
+      "nodes": [
+        {
+          "pID": "966085583",
+          "name": "杨健 苏群 周鹏"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000570638",
       "pID": "966058421",
       "title": "中甲联赛",
@@ -771,6 +795,30 @@
         {
           "pID": "964636405",
           "name": "2026福建省城市足球超级联赛第三轮: 莆田vs三明"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000582828",
+      "pID": "966163487",
+      "title": "临平VS富阳",
+      "keyword": "07月13日19:00",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "浙BA",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/7/16/1000000012931063812e.png",
+      "pkInfoTitle": "临平VS富阳",
+      "modifyTitle": "临平VS富阳",
+      "presenters": "",
+      "matchInfo": {
+        "time": "07月13日19:00"
+      },
+      "nodes": [
+        {
+          "pID": "966163487",
+          "name": "赛场原声"
         }
       ]
     },
@@ -842,6 +890,30 @@
       "nodes": [
         {
           "pID": "966011220",
+          "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000582829",
+      "pID": "966163493",
+      "title": "云和VS景宁",
+      "keyword": "07月13日19:30",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "浙BA",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/7/16/1000000012931063812e.png",
+      "pkInfoTitle": "云和VS景宁",
+      "modifyTitle": "浙BA丽水赛区",
+      "presenters": "",
+      "matchInfo": {
+        "time": "07月13日19:30"
+      },
+      "nodes": [
+        {
+          "pID": "966163493",
           "name": "赛场原声"
         }
       ]
