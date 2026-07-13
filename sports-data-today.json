@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-14 06:31:44",
+  "updateTime": "2026-07-14 07:01:47",
   "data": [
     {
       "mgdbId": "120000582633",
@@ -29,6 +29,10 @@
           "name": "全场回放（邵化谦）"
         },
         {
+          "pID": "966174184",
+          "name": "全场回放（英文原声）"
+        },
+        {
           "pID": "966174003",
           "name": "第一节"
         },
@@ -48,7 +52,7 @@
     },
     {
       "mgdbId": "120000582634",
-      "pID": "966174071",
+      "pID": "966174193",
       "title": "NBA夏季联赛",
       "keyword": "07月14日04:30",
       "sportItemId": "2",
@@ -64,6 +68,14 @@
         "time": "07月14日04:30"
       },
       "nodes": [
+        {
+          "pID": "966174193",
+          "name": "全场集锦"
+        },
+        {
+          "pID": "966174183",
+          "name": "全场回放（盛哲）"
+        },
         {
           "pID": "966174029",
           "name": "第一节"
@@ -116,7 +128,7 @@
       "title": "NBA夏季联赛",
       "keyword": "07月14日07:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/13/77HT5LDEV0GN.jpg",
