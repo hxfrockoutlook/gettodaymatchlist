@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-13 10:01:45",
+  "updateTime": "2026-07-13 10:31:47",
   "data": [
     {
       "mgdbId": "120000580957",
@@ -384,7 +384,7 @@
     },
     {
       "mgdbId": "120000582808",
-      "pID": "966160444",
+      "pID": "966160718",
       "title": "BIG3",
       "keyword": "07月13日07:00",
       "sportItemId": "2",
@@ -406,13 +406,13 @@
         },
         {
           "pID": "966161055",
-          "name": "全场回放"
+          "name": "全场回放（英文原声）"
         }
       ]
     },
     {
       "mgdbId": "120000582629",
-      "pID": "966089211",
+      "pID": "966161560",
       "title": "NBA夏季联赛",
       "keyword": "07月13日08:00",
       "sportItemId": "2",
@@ -428,6 +428,14 @@
         "time": "07月13日08:00"
       },
       "nodes": [
+        {
+          "pID": "966161560",
+          "name": "全场集锦"
+        },
+        {
+          "pID": "966161507",
+          "name": "全场回放（孙博）"
+        },
         {
           "pID": "966160425",
           "name": "第一节"
@@ -459,7 +467,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "马刺VS雄鹿",
       "modifyTitle": "NBA夏季联赛",
-      "presenters": "王晓晨",
+      "presenters": "王���晨",
       "matchInfo": {
         "time": "07月13日09:00"
       },
