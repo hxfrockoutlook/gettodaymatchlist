@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-13 09:31:36",
+  "updateTime": "2026-07-13 10:01:45",
   "data": [
     {
       "mgdbId": "120000580957",
@@ -205,6 +205,14 @@
           "name": "全场集锦"
         },
         {
+          "pID": "966160104",
+          "name": "全场回放（季孟年）"
+        },
+        {
+          "pID": "966160222",
+          "name": "全场回放（英文原声）"
+        },
+        {
           "pID": "966159885",
           "name": "第一节"
         },
@@ -219,14 +227,6 @@
         {
           "pID": "966160063",
           "name": "第四节"
-        },
-        {
-          "pID": "966160104",
-          "name": "全场回放（季孟年）"
-        },
-        {
-          "pID": "966160222",
-          "name": "全场回放"
         }
       ]
     },
@@ -336,7 +336,7 @@
     },
     {
       "mgdbId": "120000582628",
-      "pID": "966160749",
+      "pID": "966161390",
       "title": "NBA夏季联赛",
       "keyword": "07月13日07:00",
       "sportItemId": "2",
@@ -352,6 +352,14 @@
         "time": "07月13日07:00"
       },
       "nodes": [
+        {
+          "pID": "966161390",
+          "name": "全场集锦"
+        },
+        {
+          "pID": "966161106",
+          "name": "全场回放（邢晨）"
+        },
         {
           "pID": "966160197",
           "name": "第一节"
@@ -370,7 +378,7 @@
         },
         {
           "pID": "966160898",
-          "name": "加时1"
+          "name": "加时"
         }
       ]
     },
@@ -395,6 +403,10 @@
         {
           "pID": "966160718",
           "name": "全场回放（李嘉伟）"
+        },
+        {
+          "pID": "966161055",
+          "name": "全场回放"
         }
       ]
     },
@@ -404,10 +416,10 @@
       "title": "NBA夏季联赛",
       "keyword": "07月13日08:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/12/77HS9201HK7D.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/13/77HT5N81412A.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "国王VS奇才",
       "modifyTitle": "NBA夏季联赛",
@@ -417,12 +429,20 @@
       },
       "nodes": [
         {
-          "pID": "966089211",
-          "name": "孙博"
+          "pID": "966160425",
+          "name": "第一节"
         },
         {
-          "pID": "966089240",
-          "name": "英文原声"
+          "pID": "966160698",
+          "name": "第二节"
+        },
+        {
+          "pID": "966161020",
+          "name": "第三节"
+        },
+        {
+          "pID": "966161387",
+          "name": "第四节"
         }
       ]
     },
@@ -464,7 +484,7 @@
       "title": "NBA夏季联赛",
       "keyword": "07月13日10:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/12/77HS92LH1G1C.png",
@@ -496,7 +516,7 @@
       "title": "男、女10岁组预赛暨团体决赛、个人全能决赛",
       "keyword": "07月13日10:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "全国少年体操U系列锦标赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/12/77HS7K0VMI7A.jpg",
