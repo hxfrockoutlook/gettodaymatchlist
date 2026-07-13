@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-13 12:31:50",
+  "updateTime": "2026-07-13 13:01:45",
   "data": [
     {
       "mgdbId": "120000580957",
@@ -464,7 +464,7 @@
     },
     {
       "mgdbId": "120000582631",
-      "pID": "966163561",
+      "pID": "966163838",
       "title": "NBA夏季联赛",
       "keyword": "07月13日09:00",
       "sportItemId": "2",
@@ -480,6 +480,10 @@
         "time": "07月13日09:00"
       },
       "nodes": [
+        {
+          "pID": "966163838",
+          "name": "全场集锦"
+        },
         {
           "pID": "966163764",
           "name": "全场回放（王晓晨）"
@@ -499,6 +503,10 @@
         {
           "pID": "966163636",
           "name": "第四节"
+        },
+        {
+          "pID": "966164279",
+          "name": "全场回放"
         }
       ]
     },
@@ -529,6 +537,10 @@
           "name": "全场回放（吴博文）"
         },
         {
+          "pID": "966164063",
+          "name": "全场回放（英文原声）"
+        },
+        {
           "pID": "966162125",
           "name": "第一节"
         },
@@ -543,30 +555,10 @@
         {
           "pID": "966163850",
           "name": "第四节"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000582771",
-      "pID": "966121776",
-      "title": "男、女10岁组预赛暨团体决赛、个人全能决赛",
-      "keyword": "07月13日10:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "全国少年体操U系列锦标赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/12/77HS7K0VMI7A.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/7/18/1000000012941069da17.png",
-      "pkInfoTitle": "男、女10岁组预赛暨团体决赛、个人全能决赛",
-      "modifyTitle": "全国少年体操U系列锦标赛Day3：男、女10岁组预赛暨团体决赛、个人全能决赛",
-      "presenters": "",
-      "matchInfo": {
-        "time": "07月13日10:00"
-      },
-      "nodes": [
+        },
         {
-          "pID": "966121776",
-          "name": "赛场原声"
+          "pID": "966164314",
+          "name": "全场回放"
         }
       ]
     },
@@ -579,7 +571,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "全国乒乓球锦标赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/12/77HS8JJ7G4B8.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/13/77HT6JLH0NLM.jpg",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/09/77HPGC5HO61T.png",
       "pkInfoTitle": "孙杨/杨屹韵双削出战 周雨/赵尚亮相",
       "modifyTitle": "全国乒乓球锦标赛男双、女双、混双资格赛第一轮",
@@ -640,7 +632,7 @@
       "title": "环大美青海国际公路自行车赛",
       "keyword": "07月13日13:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "中国自行车运动协会系列赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/12/77HS7DMA2IUK.jpg",
@@ -679,6 +671,30 @@
         {
           "pID": "965416762",
           "name": "解说"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000582771",
+      "pID": "966121776",
+      "title": "全国少年体操U系列锦标赛Day3",
+      "keyword": "07月13日15:00",
+      "sportItemId": "8",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "全国少年体操U系列锦标赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/12/77HS7K0VMI7A.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/7/18/1000000012941069da17.png",
+      "pkInfoTitle": "全国少年体操U系列锦标赛Day3",
+      "modifyTitle": "全国少年体操U系列锦标赛Day3：男、女10岁组预赛暨团体决赛、个人全能决赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "07月13日15:00"
+      },
+      "nodes": [
+        {
+          "pID": "966121776",
+          "name": "赛场原声"
         }
       ]
     },
@@ -826,6 +842,34 @@
       "nodes": [
         {
           "pID": "966011220",
+          "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000582820",
+      "pID": "966161477",
+      "title": "WTA250雅典站女单第一轮：郑钦文 vs 马内罗",
+      "keyword": "07月13日22:30",
+      "sportItemId": "9",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "WTA",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/13/77HT6IOLHCAH.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
+      "pkInfoTitle": "郑钦文 vs 马内罗",
+      "modifyTitle": "WTA250雅典站女单第一轮：郑钦文 vs 马内罗",
+      "presenters": "单文强",
+      "matchInfo": {
+        "time": "07月13日22:30"
+      },
+      "nodes": [
+        {
+          "pID": "966161482",
+          "name": "单文强"
+        },
+        {
+          "pID": "966161477",
           "name": "赛场原声"
         }
       ]
