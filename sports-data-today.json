@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-14 07:31:46",
+  "updateTime": "2026-07-14 08:01:51",
   "data": [
     {
       "mgdbId": "120000582633",
@@ -77,6 +77,10 @@
           "name": "全场回放（盛哲）"
         },
         {
+          "pID": "966174256",
+          "name": "全场回放（英文原声）"
+        },
+        {
           "pID": "966174029",
           "name": "第一节"
         },
@@ -96,14 +100,14 @@
     },
     {
       "mgdbId": "120000582635",
-      "pID": "966089532",
+      "pID": "966174326",
       "title": "NBA夏季联赛",
       "keyword": "07月14日06:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/13/77HT5LC8MG96.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/14/77HU26HOSPCI.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "老鹰VS凯尔特人",
       "modifyTitle": "NBA夏季联赛",
@@ -113,12 +117,16 @@
       },
       "nodes": [
         {
-          "pID": "966089532",
-          "name": "刘芳宇"
+          "pID": "966174161",
+          "name": "第一节"
         },
         {
-          "pID": "966089521",
-          "name": "英文原声"
+          "pID": "966174220",
+          "name": "第二节"
+        },
+        {
+          "pID": "966174327",
+          "name": "第三节"
         }
       ]
     },
@@ -156,7 +164,7 @@
       "title": "NBA夏季联赛",
       "keyword": "07月14日08:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/13/77HT5JMHPGC9.jpg",
@@ -188,14 +196,14 @@
       "title": "剑指东京！国羽尽遣主力亮相日本站",
       "keyword": "07月14日08:00",
       "sportItemId": "6",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "BWF",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/13/77HT480QKG9P.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "剑指东京！国羽尽遣主力亮相日本站",
       "modifyTitle": "日本羽毛球公开赛第一日：剑指东京！国羽尽遣主力亮相日本站",
-      "presenters": "杨妮娜 鸿昆 轩子博 孙宁智 朱胤丞 张婕",
+      "presenters": "",
       "matchInfo": {
         "time": "07月14日08:00"
       },
@@ -211,58 +219,6 @@
         {
           "pID": "966164687",
           "name": "3号场地"
-        },
-        {
-          "pID": "966172619",
-          "name": "杨妮娜"
-        },
-        {
-          "pID": "966172631",
-          "name": "杨妮娜"
-        },
-        {
-          "pID": "966172640",
-          "name": "杨妮娜"
-        },
-        {
-          "pID": "966172661",
-          "name": "鸿昆"
-        },
-        {
-          "pID": "966172696",
-          "name": "轩子博"
-        },
-        {
-          "pID": "966172704",
-          "name": "轩子博"
-        },
-        {
-          "pID": "966172709",
-          "name": "解说"
-        },
-        {
-          "pID": "966172723",
-          "name": "鸿昆"
-        },
-        {
-          "pID": "966172732",
-          "name": "孙宁智"
-        },
-        {
-          "pID": "966172750",
-          "name": "孙宁智"
-        },
-        {
-          "pID": "966172765",
-          "name": "朱胤丞"
-        },
-        {
-          "pID": "966172779",
-          "name": "朱胤丞"
-        },
-        {
-          "pID": "966172793",
-          "name": "张婕"
         }
       ]
     },
