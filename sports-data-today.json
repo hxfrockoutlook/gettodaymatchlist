@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-15 06:31:40",
+  "updateTime": "2026-07-15 07:01:45",
   "data": [
     {
       "mgdbId": "120000580924",
@@ -132,7 +132,7 @@
     },
     {
       "mgdbId": "120000582641",
-      "pID": "966193005",
+      "pID": "966194214",
       "title": "NBA夏季联赛",
       "keyword": "07月15日04:00",
       "sportItemId": "2",
@@ -148,6 +148,10 @@
         "time": "07月15日04:00"
       },
       "nodes": [
+        {
+          "pID": "966194214",
+          "name": "全场集锦"
+        },
         {
           "pID": "966193502",
           "name": "全场回放（吴博文）"
@@ -204,7 +208,7 @@
       "title": "NBA夏季联赛",
       "keyword": "07月15日07:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/14/77HU338P3P1R.png",
