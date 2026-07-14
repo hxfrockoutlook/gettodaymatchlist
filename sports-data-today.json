@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-14 14:02:14",
+  "updateTime": "2026-07-14 14:31:44",
   "data": [
     {
       "mgdbId": "120000582633",
@@ -244,7 +244,7 @@
     },
     {
       "mgdbId": "120000582849",
-      "pID": "966164667",
+      "pID": "966172661",
       "title": "剑指东京！国羽尽遣主力亮相日本站",
       "keyword": "07月14日08:00",
       "sportItemId": "6",
@@ -255,11 +255,15 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "剑指东京！国羽尽遣主力亮相日本站",
       "modifyTitle": "日本羽毛球公开赛第一日：剑指东京！国羽尽遣主力亮相日本站",
-      "presenters": "",
+      "presenters": "鸿昆",
       "matchInfo": {
         "time": "07月14日08:00"
       },
       "nodes": [
+        {
+          "pID": "966172661",
+          "name": "石宇奇VS冲本优大"
+        },
         {
           "pID": "966164667",
           "name": "1号场地"
@@ -368,7 +372,7 @@
     },
     {
       "mgdbId": "120000582640",
-      "pID": "966179145",
+      "pID": "966179520",
       "title": "NBA夏季联赛",
       "keyword": "07月14日11:00",
       "sportItemId": "2",
@@ -384,6 +388,14 @@
         "time": "07月14日11:00"
       },
       "nodes": [
+        {
+          "pID": "966179769",
+          "name": "全场集锦"
+        },
+        {
+          "pID": "966179765",
+          "name": "全场回放（邢晨）"
+        },
         {
           "pID": "966178239",
           "name": "第一节"
@@ -441,16 +453,16 @@
           "name": "6号桌"
         },
         {
+          "pID": "966151797",
+          "name": "9号桌"
+        },
+        {
           "pID": "966151733",
           "name": "7号桌"
         },
         {
           "pID": "966151764",
           "name": "8号桌"
-        },
-        {
-          "pID": "966151797",
-          "name": "9号桌"
         },
         {
           "pID": "966151166",
@@ -679,7 +691,12 @@
       "matchInfo": {
         "time": "07月14日19:30"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "966011292",
+          "name": "赛场原声"
+        }
+      ]
     },
     {
       "mgdbId": "120000582830",
@@ -766,7 +783,7 @@
       "matchStatus": "0",
       "matchField": "Starez Arena Vodova",
       "competitionName": "U17女篮世界杯",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000580960/202607101755_969396_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/14/77HU0M3Q4SA2.jpg",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/09/77HPETPFSE8E.jpg",
       "pkInfoTitle": "拉脱维亚U17女篮vs美国U17女篮",
       "modifyTitle": "U17女篮世界杯小组赛",
