@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-14 11:01:43",
+  "updateTime": "2026-07-14 11:31:46",
   "data": [
     {
       "mgdbId": "120000582633",
@@ -244,7 +244,7 @@
     },
     {
       "mgdbId": "120000582849",
-      "pID": "966172631",
+      "pID": "966172750",
       "title": "剑指东京！国羽尽遣主力亮相日本站",
       "keyword": "07月14日08:00",
       "sportItemId": "6",
@@ -255,22 +255,26 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "剑指东京！国羽尽遣主力亮相日本站",
       "modifyTitle": "日本羽毛球公开赛第一日：剑指东京！国羽尽遣主力亮相日本站",
-      "presenters": "杨妮娜",
+      "presenters": "孙宁智 杨妮娜",
       "matchInfo": {
         "time": "07月14日08:00"
       },
       "nodes": [
         {
+          "pID": "966172750",
+          "name": "刘圣书/谭宁VS哈泰蒂普/纳帕帕卡孔"
+        },
+        {
           "pID": "966172631",
           "name": "小波波夫VS翁泓阳"
         },
         {
-          "pID": "966164667",
-          "name": "1号场地"
-        },
-        {
           "pID": "966164674",
           "name": "2号场地"
+        },
+        {
+          "pID": "966164667",
+          "name": "1号场地"
         },
         {
           "pID": "966164687",
@@ -280,14 +284,14 @@
     },
     {
       "mgdbId": "120000582638",
-      "pID": "966089440",
+      "pID": "966177510",
       "title": "NBA夏季联赛",
       "keyword": "07月14日09:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/13/77HT5JPPLUV3.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/14/77HU3AEG3VVA.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "公牛VS爵士",
       "modifyTitle": "NBA夏季联赛",
@@ -297,12 +301,16 @@
       },
       "nodes": [
         {
-          "pID": "966089440",
-          "name": "周赫"
+          "pID": "966175824",
+          "name": "第一节"
         },
         {
-          "pID": "966089431",
-          "name": "英文原声"
+          "pID": "966176354",
+          "name": "第二节"
+        },
+        {
+          "pID": "966177001",
+          "name": "第三节"
         }
       ]
     },
