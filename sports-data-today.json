@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-14 14:31:44",
+  "updateTime": "2026-07-14 15:01:53",
   "data": [
     {
       "mgdbId": "120000582633",
@@ -407,6 +407,10 @@
         {
           "pID": "966179119",
           "name": "第三节"
+        },
+        {
+          "pID": "966180351",
+          "name": "全场回放"
         }
       ]
     },
@@ -419,7 +423,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "全国乒乓球锦标赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/14/77HU0B4AL35P.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/14/77HU0PDLR4Q6.jpg",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/09/77HPGC5HO61T.png",
       "pkInfoTitle": "孙闻/钱天一冲首胜 周雨一日双赛争晋级",
       "modifyTitle": "全国乒乓球锦标赛男双、女双、混双资格赛第二轮",
@@ -453,16 +457,16 @@
           "name": "6号桌"
         },
         {
-          "pID": "966151797",
-          "name": "9号桌"
-        },
-        {
           "pID": "966151733",
           "name": "7号桌"
         },
         {
           "pID": "966151764",
           "name": "8号桌"
+        },
+        {
+          "pID": "966151797",
+          "name": "9号桌"
         },
         {
           "pID": "966151166",
@@ -484,7 +488,7 @@
       "title": "环大美青海国际公路自行车赛",
       "keyword": "07月14日13:00",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "中国自行车运动协会系列赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/14/77HU30II0T5K.png",
@@ -508,7 +512,7 @@
       "title": "重温世锦赛历史100分钟最长单局",
       "keyword": "07月14日13:00",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/14/77HU3J5FFLII.png",
@@ -623,6 +627,30 @@
         {
           "pID": "966086504",
           "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000582575",
+      "pID": "966085580",
+      "title": "NBA季后赛精彩重播：湖人 vs 火箭 G6",
+      "keyword": "07月14日18:00",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "NBA经典赛事",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/14/77HU0OT6NA24.png",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png",
+      "pkInfoTitle": "NBA季后赛精彩重播：湖人 vs 火箭 G6",
+      "modifyTitle": "NBA经典赛事",
+      "presenters": "杨健 马健 周鹏",
+      "matchInfo": {
+        "time": "07月14日18:00"
+      },
+      "nodes": [
+        {
+          "pID": "966085580",
+          "name": "杨健 马健 周鹏"
         }
       ]
     },
