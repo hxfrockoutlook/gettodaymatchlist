@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-14 19:31:48",
+  "updateTime": "2026-07-14 20:01:59",
   "data": [
     {
       "mgdbId": "120000582633",
@@ -415,11 +415,11 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "全国乒乓球锦标赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/14/77HU25L21TDR.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/14/77HU27LOVJI5.jpg",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/09/77HPGC5HO61T.png",
       "pkInfoTitle": "周雨一日双赛均晋级 孙闻/钱天一夺首胜",
       "modifyTitle": "全国乒乓球锦标赛男双、女双、混双资格赛第二轮",
-      "presenters": "凌维康 徐铭辰 章稀瑄 周冠达 侯英超",
+      "presenters": "凌维康 周冠达 侯英超 徐铭辰 章稀瑄",
       "matchInfo": {
         "time": "07月14日13:00"
       },
@@ -433,8 +433,16 @@
           "name": "凌维康"
         },
         {
-          "pID": "966150905",
-          "name": "徐铭辰 章稀瑄"
+          "pID": "966151764",
+          "name": "8号桌"
+        },
+        {
+          "pID": "966151166",
+          "name": "1号桌"
+        },
+        {
+          "pID": "966151397",
+          "name": "2号桌"
         },
         {
           "pID": "966151511",
@@ -453,24 +461,16 @@
           "name": "7号桌"
         },
         {
-          "pID": "966151764",
-          "name": "8号桌"
-        },
-        {
           "pID": "966151797",
           "name": "9号桌"
         },
         {
-          "pID": "966151166",
-          "name": "1号桌"
-        },
-        {
-          "pID": "966151397",
-          "name": "2号桌"
-        },
-        {
           "pID": "966149449",
           "name": "周冠达 侯英超"
+        },
+        {
+          "pID": "966150905",
+          "name": "徐铭辰 章稀瑄"
         }
       ]
     },
@@ -541,8 +541,8 @@
       },
       "nodes": [
         {
-          "pID": "966121757",
-          "name": "赛场原声"
+          "pID": "966185516",
+          "name": "2026全国少年体操U系列锦标赛Day4全场回放（一）"
         }
       ]
     },
@@ -572,14 +572,14 @@
     },
     {
       "mgdbId": "120000580965",
-      "pID": "966141248",
+      "pID": "966184044",
       "title": "U17女篮世界杯小组赛",
       "keyword": "07月14日18:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Starez Arena Vodova",
       "competitionName": "U17女篮世界杯",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/13/77HT67R623TC.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/14/77HU282LNVCC.jpg",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/09/77HPETPFSE8E.jpg",
       "pkInfoTitle": "中国vs西班牙",
       "modifyTitle": "U17女篮世界杯小组赛",
@@ -589,22 +589,30 @@
       },
       "nodes": [
         {
-          "pID": "966141248",
-          "name": "吕程"
+          "pID": "966184044",
+          "name": "第一节"
         },
         {
-          "pID": "966086532",
-          "name": "赛场原声"
+          "pID": "966184230",
+          "name": "第二节"
+        },
+        {
+          "pID": "966185172",
+          "name": "第三节"
+        },
+        {
+          "pID": "966185726",
+          "name": "第四节"
         }
       ]
     },
     {
       "mgdbId": "120000580966",
-      "pID": "966086504",
+      "pID": "966185575",
       "title": "U17女篮世界杯小组赛",
       "keyword": "07月14日18:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Starez Arena Vodova Hall 2",
       "competitionName": "U17女篮世界杯",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000580966/202607101755_539862_H169_1080.webp",
@@ -617,8 +625,8 @@
       },
       "nodes": [
         {
-          "pID": "966086504",
-          "name": "赛场原声"
+          "pID": "966185575",
+          "name": "全场集锦"
         }
       ]
     },
