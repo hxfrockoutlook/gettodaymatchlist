@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-14 09:01:47",
+  "updateTime": "2026-07-14 09:31:43",
   "data": [
     {
       "mgdbId": "120000582633",
@@ -125,6 +125,10 @@
           "name": "全场回放（刘芳宇）"
         },
         {
+          "pID": "966174812",
+          "name": "全场回放（英文原声）"
+        },
+        {
           "pID": "966174161",
           "name": "第一节"
         },
@@ -144,14 +148,14 @@
     },
     {
       "mgdbId": "120000582636",
-      "pID": "966089502",
+      "pID": "966174826",
       "title": "NBA夏季联赛",
       "keyword": "07月14日07:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/14/77HU25LA2FLR.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/14/77HU2MS7QOVL.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "独行侠VS灰熊",
       "modifyTitle": "NBA夏季联赛",
@@ -161,12 +165,20 @@
       },
       "nodes": [
         {
-          "pID": "966089502",
-          "name": "孙博"
+          "pID": "966174384",
+          "name": "第一节"
         },
         {
-          "pID": "966089487",
-          "name": "英文原声"
+          "pID": "966174546",
+          "name": "第二节"
+        },
+        {
+          "pID": "966174758",
+          "name": "第三节"
+        },
+        {
+          "pID": "966175128",
+          "name": "第四节"
         }
       ]
     },
