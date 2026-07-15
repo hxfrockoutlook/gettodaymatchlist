@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-15 15:31:56",
+  "updateTime": "2026-07-15 16:02:05",
   "data": [
     {
       "mgdbId": "120000580924",
@@ -324,7 +324,7 @@
     },
     {
       "mgdbId": "120000582850",
-      "pID": "966164690",
+      "pID": "966190581",
       "title": "首轮晋级战！梁王组合男双领衔",
       "keyword": "07月15日08:00",
       "sportItemId": "6",
@@ -335,11 +335,15 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "首轮晋级战！梁王组合男双领衔",
       "modifyTitle": "日本羽毛球公开赛第二日：首轮晋级战！梁王组合男双领衔",
-      "presenters": "",
+      "presenters": "朱胤丞",
       "matchInfo": {
         "time": "07月15日08:00"
       },
       "nodes": [
+        {
+          "pID": "966190581",
+          "name": "阿莱西娅/费比VS贾一凡/张殊贤"
+        },
         {
           "pID": "966164690",
           "name": "1号场地"
@@ -480,29 +484,29 @@
     },
     {
       "mgdbId": "120000582418",
-      "pID": "966150902",
+      "pID": "966149459",
       "title": "周雨/赵尚冲三连胜 孙闻/钱天一争进正赛",
       "keyword": "07月15日13:00",
       "sportItemId": "7",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "全国乒乓球锦标赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/15/77HUTRVURSRF.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/15/77HUU6CHANC5.png",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/09/77HPGC5HO61T.png",
       "pkInfoTitle": "周雨/赵尚冲三连胜 孙闻/钱天一争进正赛",
       "modifyTitle": "全国乒乓球锦标赛男双、女双、混双资格赛第三轮",
-      "presenters": "徐铭辰 林睿思 周冠达 侯英超 刘馨蕊",
+      "presenters": "周冠达 侯英超 徐铭辰 林睿思 刘馨蕊",
       "matchInfo": {
         "time": "07月15日13:00"
       },
       "nodes": [
         {
-          "pID": "966150902",
-          "name": "徐铭辰 林睿思"
-        },
-        {
           "pID": "966149459",
           "name": "周冠达 侯英超"
+        },
+        {
+          "pID": "966150902",
+          "name": "徐铭辰 林睿思"
         },
         {
           "pID": "966176186",
@@ -549,8 +553,8 @@
       },
       "nodes": [
         {
-          "pID": "966068388",
-          "name": "解说"
+          "pID": "966204051",
+          "name": "2026中国自行车运动协会系列赛环大美青海国际公路自行车赛Day5全场回放（官方解说）"
         }
       ]
     },
@@ -560,7 +564,7 @@
       "title": "北京大学vs厦门银行",
       "keyword": "07月15日14:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "全国女子篮球锦标赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/13/77HT5RKP6IHH.png",
@@ -579,36 +583,12 @@
       ]
     },
     {
-      "mgdbId": "120000580476",
-      "pID": "965484299",
-      "title": "长治赛区市级联赛3-4名、冠亚军决赛",
-      "keyword": "07月15日15:40",
-      "sportItemId": "2",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "晋超联赛",
-      "padImg": "",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/6/17/100000001493106c8171.png",
-      "pkInfoTitle": "长治赛区市级联赛3-4名、冠亚军决赛",
-      "modifyTitle": "长治赛区市级联赛3-4名、冠亚军决赛",
-      "presenters": "",
-      "matchInfo": {
-        "time": "07月15日15:40"
-      },
-      "nodes": [
-        {
-          "pID": "965484299",
-          "name": "2026赛季山西省男子篮球超级联赛第六轮: 长治赛区市级联赛"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000582931",
       "pID": "966167889",
       "title": "北京首钢vs福建金篮",
       "keyword": "07月15日16:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "全国女子篮球锦标赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/13/77HT5RU1IH06.png",
@@ -623,6 +603,30 @@
         {
           "pID": "966167889",
           "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000580476",
+      "pID": "965484299",
+      "title": "长治赛区市级联赛3-4名、冠亚军决赛",
+      "keyword": "07月15日16:20",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "晋超联赛",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/6/17/100000001493106c8171.png",
+      "pkInfoTitle": "长治赛区市级联赛3-4名、冠亚军决赛",
+      "modifyTitle": "长治赛区市级联赛3-4名、冠亚军决赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "07月15日16:20"
+      },
+      "nodes": [
+        {
+          "pID": "965484299",
+          "name": "2026赛季山西省男子篮球超级联赛第六轮: 长治赛区市级联赛"
         }
       ]
     },
