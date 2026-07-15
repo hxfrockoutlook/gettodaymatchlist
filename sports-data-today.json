@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-15 22:02:07",
+  "updateTime": "2026-07-15 22:32:11",
   "data": [
     {
       "mgdbId": "120000580924",
@@ -411,6 +411,10 @@
         {
           "pID": "966207280",
           "name": "【全场回放】一号场地（英文原声）（二）"
+        },
+        {
+          "pID": "966209087",
+          "name": "2026BWF日本羽毛球公开赛Day2一号场地全场回放（赛场原声）（三）"
         }
       ]
     },
@@ -930,18 +934,18 @@
       },
       "nodes": [
         {
-          "pID": "966167938",
-          "name": "赛场原声"
+          "pID": "966209356",
+          "name": "2026全国女子篮球锦标赛简阳赛区全场回放：四川远达美乐vs大连文体旅（赛场原声）"
         }
       ]
     },
     {
       "mgdbId": "120000583141",
-      "pID": "966198991",
+      "pID": "966209146",
       "title": "U17女篮世界杯16进8淘汰赛",
       "keyword": "07月15日20:15",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "U17女篮世界杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/15/77HV0DHQUU92.png",
@@ -954,22 +958,34 @@
       },
       "nodes": [
         {
-          "pID": "966198991",
-          "name": "吕程"
+          "pID": "966209146",
+          "name": "全场集锦"
         },
         {
-          "pID": "966199000",
-          "name": "赛场原声"
+          "pID": "966208134",
+          "name": "第一节"
+        },
+        {
+          "pID": "966208502",
+          "name": "第二节"
+        },
+        {
+          "pID": "966208879",
+          "name": "第三节"
+        },
+        {
+          "pID": "966209108",
+          "name": "第四节"
         }
       ]
     },
     {
       "mgdbId": "120000583142",
-      "pID": "966199022",
+      "pID": "965605708",
       "title": "U17女篮世界杯16进8淘汰赛",
       "keyword": "07月15日20:45",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "U17女篮世界杯",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000583142/202607151045_649026_H169_1080.webp",
@@ -981,6 +997,10 @@
         "time": "07月15日20:45"
       },
       "nodes": [
+        {
+          "pID": "965605708",
+          "name": "女篮新星集结亮相世界舞台！U17女篮世界杯球队巡礼来袭"
+        },
         {
           "pID": "966199022",
           "name": "赛场原声"
@@ -1014,7 +1034,7 @@
       "title": "WTA250雅典站女单第二轮：米契奇 vs 郑钦文",
       "keyword": "07月15日22:30",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/15/77HUVPQ098T8.jpg",
@@ -1040,7 +1060,7 @@
       "mgdbId": "120000583143",
       "pID": "966199029",
       "title": "U17女篮世界杯16进8淘汰赛",
-      "keyword": "07月15日23:00",
+      "keyword": "07月15���23:00",
       "sportItemId": "2",
       "matchStatus": "0",
       "matchField": "",
@@ -1051,7 +1071,7 @@
       "modifyTitle": "U17女篮世界杯16进8淘汰赛",
       "presenters": "",
       "matchInfo": {
-        "time": "07月15日23:00"
+        "time": "07月15���23:00"
       },
       "nodes": [
         {
