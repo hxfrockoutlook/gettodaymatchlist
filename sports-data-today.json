@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-15 09:01:49",
+  "updateTime": "2026-07-15 09:31:39",
   "data": [
     {
       "mgdbId": "120000580924",
@@ -197,6 +197,14 @@
           "name": "全场集锦"
         },
         {
+          "pID": "966195701",
+          "name": "全场回放（蔡凯臣）"
+        },
+        {
+          "pID": "966196031",
+          "name": "全场回放（英文原声）"
+        },
+        {
           "pID": "966194144",
           "name": "第一节"
         },
@@ -207,12 +215,16 @@
         {
           "pID": "966195125",
           "name": "第三节"
+        },
+        {
+          "pID": "966195612",
+          "name": "第四节"
         }
       ]
     },
     {
       "mgdbId": "120000582591",
-      "pID": "966194507",
+      "pID": "966196418",
       "title": "NBA夏季联赛",
       "keyword": "07月15日07:00",
       "sportItemId": "2",
@@ -229,16 +241,28 @@
       },
       "nodes": [
         {
-          "pID": "966194507",
-          "name": "展示超广视野！布泽尔精确制导送洛夫林起飞暴扣"
+          "pID": "966196418",
+          "name": "全场集锦"
         },
         {
-          "pID": "966088910",
-          "name": "周赫"
+          "pID": "966196359",
+          "name": "全场回放（周赫）"
         },
         {
-          "pID": "966088902",
-          "name": "英文原声"
+          "pID": "966194761",
+          "name": "第一节"
+        },
+        {
+          "pID": "966195251",
+          "name": "第二节"
+        },
+        {
+          "pID": "966195839",
+          "name": "第三节"
+        },
+        {
+          "pID": "966196161",
+          "name": "第四节"
         }
       ]
     },
@@ -272,29 +296,29 @@
     },
     {
       "mgdbId": "120000582850",
-      "pID": "966190569",
+      "pID": "966190573",
       "title": "首轮晋级战！梁王组合男双领衔",
       "keyword": "07月15日08:00",
       "sportItemId": "6",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "BWF",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/15/77HUVB5LEPDH.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/15/77HUVP26DC8C.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "首轮晋级战！梁王组合男双领衔",
       "modifyTitle": "日本羽毛球公开赛第二日：首轮晋级战！梁王组合男双领衔",
-      "presenters": "朱胤丞 孙宁智",
+      "presenters": "孙宁智",
       "matchInfo": {
         "time": "07月15日08:00"
       },
       "nodes": [
         {
-          "pID": "966190569",
-          "name": "绿川大辉/松友美佐纪VS蒋振邦/魏雅欣"
-        },
-        {
           "pID": "966190573",
           "name": "田中涌士VS李诗沣"
+        },
+        {
+          "pID": "966164744",
+          "name": "3号场地"
         },
         {
           "pID": "966164690",
@@ -303,10 +327,6 @@
         {
           "pID": "966164727",
           "name": "2号场地"
-        },
-        {
-          "pID": "966164744",
-          "name": "3号场地"
         },
         {
           "pID": "966164746",
@@ -757,6 +777,34 @@
         {
           "pID": "965549931",
           "name": "人机大战第17期"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000583133",
+      "pID": "966196988",
+      "title": "WTA250雅典站女单第二轮：米契奇 vs 郑钦文",
+      "keyword": "07月15日22:30",
+      "sportItemId": "9",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "WTA",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/15/77HUVPQ098T8.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
+      "pkInfoTitle": "米契奇 vs 郑钦文",
+      "modifyTitle": "WTA250雅典站女单第二轮：米契奇 vs 郑钦文",
+      "presenters": "李宁",
+      "matchInfo": {
+        "time": "07月15日22:30"
+      },
+      "nodes": [
+        {
+          "pID": "966196988",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "966196887",
+          "name": "李宁"
         }
       ]
     }
