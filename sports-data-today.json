@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-16 05:31:47",
+  "updateTime": "2026-07-16 06:01:50",
   "data": [
     {
       "mgdbId": "120000583145",
@@ -20,6 +20,10 @@
         "time": "07月16日01:45"
       },
       "nodes": [
+        {
+          "pID": "966212988",
+          "name": "全场回放"
+        },
         {
           "pID": "966212074",
           "name": "全场集锦"
@@ -60,7 +64,7 @@
       "title": "世界杯半决赛",
       "keyword": "07月16日03:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "亚特兰大球场",
       "competitionName": "世界杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/16/77HVRNDJ9V91.png",
@@ -73,48 +77,32 @@
       },
       "nodes": [
         {
-          "pID": "966176027",
-          "name": "詹俊 张路 冯潇霆 魏欣怡"
+          "pID": "966213081",
+          "name": "全场集锦"
         },
         {
-          "pID": "966175463",
-          "name": "AI智慧观赛"
+          "pID": "966212942",
+          "name": "纯享版回放（詹俊、张路、冯潇霆）"
         },
         {
-          "pID": "966175594",
-          "name": "为了听不见的你"
+          "pID": "966213278",
+          "name": "全场回放（鲁靖明、徐云龙、洪荒）"
         },
         {
-          "pID": "966176040",
-          "name": "苏东 刘越 李子琪"
+          "pID": "966213412",
+          "name": "粤语回放（陈凯冬、陆毅隽）"
         },
         {
-          "pID": "966176560",
-          "name": "鲁靖明 徐云龙 洪荒"
+          "pID": "966213295",
+          "name": "全场回放（林梦鸽）"
         },
         {
-          "pID": "966176666",
-          "name": "粤语：陈凯冬 陆毅隽"
+          "pID": "966213387",
+          "name": "全场回放（刘一臻、盛斌）"
         },
         {
-          "pID": "966176321",
-          "name": "女声：林梦鸽"
-        },
-        {
-          "pID": "966176363",
-          "name": "新声代：刘一臻 盛斌"
-        },
-        {
-          "pID": "966176221",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "966176332",
-          "name": "沪语：陈渤胄"
-        },
-        {
-          "pID": "966175620",
-          "name": "沪语智能字幕"
+          "pID": "966213345",
+          "name": "沪语回放（陈渤胄）"
         }
       ]
     },
@@ -143,16 +131,28 @@
         {
           "pID": "966212179",
           "name": "第二节"
+        },
+        {
+          "pID": "966213205",
+          "name": "第四节"
+        },
+        {
+          "pID": "966212792",
+          "name": "第三节"
+        },
+        {
+          "pID": "966213275",
+          "name": "全场回放（连睿）"
         }
       ]
     },
     {
       "mgdbId": "120000582600",
-      "pID": "966089088",
+      "pID": "966213175",
       "title": "NBA夏季联赛",
       "keyword": "07月16日04:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/16/77HVRO8G3KAM.jpg",
@@ -165,12 +165,20 @@
       },
       "nodes": [
         {
-          "pID": "966089088",
-          "name": "张泽欣"
+          "pID": "966212348",
+          "name": "第一节"
         },
         {
-          "pID": "966089124",
-          "name": "英文原声"
+          "pID": "966212602",
+          "name": "第二节"
+        },
+        {
+          "pID": "966213017",
+          "name": "第三节"
+        },
+        {
+          "pID": "966213354",
+          "name": "第四节"
         }
       ]
     },
@@ -208,7 +216,7 @@
       "title": "NBA夏季联赛",
       "keyword": "07月16日06:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/15/77HUTQEVBAMS.png",
