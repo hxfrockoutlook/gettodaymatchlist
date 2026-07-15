@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-15 08:01:46",
+  "updateTime": "2026-07-15 08:31:44",
   "data": [
     {
       "mgdbId": "120000580924",
@@ -154,7 +154,7 @@
         },
         {
           "pID": "966193502",
-          "name": "全场��放（吴博文）"
+          "name": "全场回放（吴博文）"
         },
         {
           "pID": "966192255",
@@ -176,11 +176,11 @@
     },
     {
       "mgdbId": "120000582588",
-      "pID": "966088950",
+      "pID": "966195683",
       "title": "NBA夏季联赛",
       "keyword": "07月15日06:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/15/77HUVB9IS7R0.png",
@@ -193,12 +193,20 @@
       },
       "nodes": [
         {
-          "pID": "966088950",
-          "name": "蔡凯臣"
+          "pID": "966195683",
+          "name": "全场集锦"
         },
         {
-          "pID": "966088932",
-          "name": "英文原声"
+          "pID": "966194144",
+          "name": "第一节"
+        },
+        {
+          "pID": "966194553",
+          "name": "第二节"
+        },
+        {
+          "pID": "966195125",
+          "name": "第三节"
         }
       ]
     },
@@ -239,7 +247,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/14/77HU33BC109A.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/15/77HUVHPSG0M1.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "奇才VS公牛",
       "modifyTitle": "NBA夏季联赛",
@@ -267,7 +275,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "BWF",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/14/77HU2PNI0TB5.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/15/77HUVB5LEPDH.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "首轮晋级战！梁王组合男双领衔",
       "modifyTitle": "日本羽毛球公开赛第二日：首轮晋级战！梁王组合男双领衔",
@@ -299,6 +307,30 @@
         {
           "pID": "966164746",
           "name": "1号场地英文视角"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000583042",
+      "pID": "966179597",
+      "title": "2026年亚洲体育舞蹈节",
+      "keyword": "07月15日08:20",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "中国体育舞蹈联合会系列赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/14/77HU1LKATMA5.png",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/7/14/1000000014681066d65b.png",
+      "pkInfoTitle": "2026年亚洲体育舞蹈节",
+      "modifyTitle": "2026年亚洲体育舞蹈节",
+      "presenters": "",
+      "matchInfo": {
+        "time": "07月15日08:20"
+      },
+      "nodes": [
+        {
+          "pID": "966179597",
+          "name": "解说"
         }
       ]
     },
@@ -363,30 +395,6 @@
         {
           "pID": "966145016",
           "name": "智能字幕"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000583042",
-      "pID": "966179597",
-      "title": "2026年亚洲体育舞蹈节",
-      "keyword": "07月15日11:30",
-      "sportItemId": "8",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "中国体育舞蹈联合会系列赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/14/77HU1LKATMA5.png",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/7/14/1000000014681066d65b.png",
-      "pkInfoTitle": "2026年亚洲体育舞蹈节",
-      "modifyTitle": "2026年亚洲体育舞蹈节",
-      "presenters": "",
-      "matchInfo": {
-        "time": "07月15日11:30"
-      },
-      "nodes": [
-        {
-          "pID": "966179597",
-          "name": "解说"
         }
       ]
     },
