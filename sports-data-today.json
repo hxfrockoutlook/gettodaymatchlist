@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-16 08:01:55",
+  "updateTime": "2026-07-16 08:31:48",
   "data": [
     {
       "mgdbId": "120000583145",
@@ -220,7 +220,7 @@
     },
     {
       "mgdbId": "120000582601",
-      "pID": "966214347",
+      "pID": "966214733",
       "title": "NBA夏季联赛",
       "keyword": "07月16日05:30",
       "sportItemId": "2",
@@ -236,6 +236,14 @@
         "time": "07月16日05:30"
       },
       "nodes": [
+        {
+          "pID": "966214733",
+          "name": "全场集锦"
+        },
+        {
+          "pID": "966214558",
+          "name": "全场回放（董倡硕）"
+        },
         {
           "pID": "966213491",
           "name": "第一节"
@@ -256,11 +264,11 @@
     },
     {
       "mgdbId": "120000582603",
-      "pID": "966089200",
+      "pID": "966214730",
       "title": "NBA夏季联赛",
       "keyword": "07月16日06:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/16/77HVSE71TQKM.png",
@@ -273,12 +281,16 @@
       },
       "nodes": [
         {
-          "pID": "966089200",
-          "name": "殷文玉"
+          "pID": "966214165",
+          "name": "第一节"
         },
         {
-          "pID": "966089229",
-          "name": "英文原声"
+          "pID": "966214189",
+          "name": "第二节"
+        },
+        {
+          "pID": "966214699",
+          "name": "第三节"
         }
       ]
     },
@@ -349,7 +361,7 @@
     {
       "mgdbId": "120000582851",
       "pID": "966210319",
-      "title": "芳新组合领衔 陈雨菲稍后出战",
+      "title": "石宇奇、陈雨菲出战 国羽上演男双德比",
       "keyword": "07月16日08:00",
       "sportItemId": "6",
       "matchStatus": "1",
@@ -357,8 +369,8 @@
       "competitionName": "BWF",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/15/77HV0C8LDLIR.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
-      "pkInfoTitle": "芳新组合领衔 陈雨菲稍后出战",
-      "modifyTitle": "日本羽毛球公开赛第三日：芳新组合领衔 陈雨菲稍后出战",
+      "pkInfoTitle": "石宇奇、陈雨菲出战 国羽上演男双德比",
+      "modifyTitle": "日本羽毛球公开赛第三日：石宇奇、陈雨菲出战 国羽上演男双德比",
       "presenters": "鸿昆",
       "matchInfo": {
         "time": "07月16日08:00"
@@ -369,16 +381,16 @@
           "name": "郭新娃/陈芳卉VS叶宏蔚/詹又蓁"
         },
         {
+          "pID": "966164802",
+          "name": "3号场地"
+        },
+        {
           "pID": "966164753",
           "name": "1号场地"
         },
         {
           "pID": "966164782",
           "name": "2号场地"
-        },
-        {
-          "pID": "966164802",
-          "name": "3号场地"
         },
         {
           "pID": "966164831",
