@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-16 11:31:45",
+  "updateTime": "2026-07-16 12:02:00",
   "data": [
     {
       "mgdbId": "120000583145",
@@ -472,7 +472,7 @@
     },
     {
       "mgdbId": "120000582609",
-      "pID": "966218804",
+      "pID": "966220459",
       "title": "NBA夏季联赛",
       "keyword": "07月16日09:30",
       "sportItemId": "2",
@@ -488,6 +488,14 @@
         "time": "07月16日09:30"
       },
       "nodes": [
+        {
+          "pID": "966220459",
+          "name": "全场集锦"
+        },
+        {
+          "pID": "966220537",
+          "name": "全场回放（王晓晨）"
+        },
         {
           "pID": "966217556",
           "name": "第一节"
@@ -541,12 +549,12 @@
           "name": "4号桌"
         },
         {
-          "pID": "966151137",
-          "name": "1号桌"
-        },
-        {
           "pID": "966151629",
           "name": "5号桌"
+        },
+        {
+          "pID": "966151137",
+          "name": "1号桌"
         }
       ]
     },
@@ -577,7 +585,7 @@
     {
       "mgdbId": "120000583170",
       "pID": "966206067",
-      "title": "APBA���克球公开赛单项总决赛Day1",
+      "title": "APBA匹克球公��赛单项总决赛Day1",
       "keyword": "07月16日10:05",
       "sportItemId": "8",
       "matchStatus": "1",
@@ -843,6 +851,30 @@
         {
           "pID": "966088055",
           "name": "英文原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000583165",
+      "pID": "966204029",
+      "title": "NBA季后赛精彩重播：湖人vs雷霆 G1",
+      "keyword": "07月16日18:00",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "NBA经典赛事",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/16/77HVTJL3UE0M.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png",
+      "pkInfoTitle": "NBA季后赛精彩重播：湖人vs雷霆 G1",
+      "modifyTitle": "NBA经典赛事",
+      "presenters": "杨健 曾令旭 苏群",
+      "matchInfo": {
+        "time": "07月16日18:00"
+      },
+      "nodes": [
+        {
+          "pID": "966204029",
+          "name": "杨健 曾令旭 苏群"
         }
       ]
     },
