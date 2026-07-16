@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-16 09:31:42",
+  "updateTime": "2026-07-16 10:01:51",
   "data": [
     {
       "mgdbId": "120000583145",
@@ -312,7 +312,7 @@
     },
     {
       "mgdbId": "120000582606",
-      "pID": "966215834",
+      "pID": "966216479",
       "title": "NBA夏季联赛",
       "keyword": "07月16日07:30",
       "sportItemId": "2",
@@ -328,6 +328,14 @@
         "time": "07月16日07:30"
       },
       "nodes": [
+        {
+          "pID": "966216479",
+          "name": "全场集锦"
+        },
+        {
+          "pID": "966216391",
+          "name": "全场回放（王琰博）"
+        },
         {
           "pID": "966214853",
           "name": "第一节"
@@ -380,7 +388,7 @@
     },
     {
       "mgdbId": "120000582851",
-      "pID": "966210310",
+      "pID": "966210328",
       "title": "石宇奇、陈雨菲出战 国羽上演男双德比",
       "keyword": "07月16日08:00",
       "sportItemId": "6",
@@ -391,18 +399,14 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "石宇奇、陈雨菲出战 国羽上演男双德比",
       "modifyTitle": "日本羽毛球公开赛第三日：石宇奇、陈雨菲出战 国羽上演男双德比",
-      "presenters": "鸿昆 轩子博",
+      "presenters": "轩子博",
       "matchInfo": {
         "time": "07月16日08:00"
       },
       "nodes": [
         {
-          "pID": "966210310",
-          "name": "陈雨菲VS布洛娃"
-        },
-        {
           "pID": "966210328",
-          "name": "冯彦哲/黄东萍VS卡��拉/克拉斯托"
+          "name": "冯彦哲/黄东萍VS卡皮拉/克拉斯托"
         },
         {
           "pID": "966164802",
@@ -423,10 +427,6 @@
         {
           "pID": "966164840",
           "name": "2号场地英文视角"
-        },
-        {
-          "pID": "966210328",
-          "name": "冯彦哲/黄东萍VS卡皮拉/克拉斯托"
         }
       ]
     },
@@ -488,10 +488,10 @@
       "title": "莎头组合迎首秀 温瑞博/林诗栋冲胜",
       "keyword": "07月16日10:00",
       "sportItemId": "7",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "全国乒乓球锦标赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/15/77HUVK4QBK0L.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/16/77HVSVO7LD53.png",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/09/77HPGC5HO61T.png",
       "pkInfoTitle": "莎头组合迎首秀 温瑞博/林诗栋冲胜",
       "modifyTitle": "全国乒乓球锦标赛男双、女双、混双1/16决赛",
@@ -532,7 +532,7 @@
       "title": "2026年亚洲体育舞蹈节",
       "keyword": "07月16日10:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "中国体育舞蹈联合会系列赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/15/77HUVI9L3RRB.jpg",
@@ -553,7 +553,7 @@
     {
       "mgdbId": "120000583170",
       "pID": "966206067",
-      "title": "APBA匹克球��开赛单项总决赛Day1",
+      "title": "APBA匹克球公开赛单项总决赛Day1",
       "keyword": "07月16日10:05",
       "sportItemId": "8",
       "matchStatus": "0",
@@ -960,6 +960,34 @@
         {
           "pID": "966167971",
           "name": "清流播出"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000582557",
+      "pID": "966088193",
+      "title": "WTA雅典站 Day4",
+      "keyword": "07月16日22:30",
+      "sportItemId": "9",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "WTA",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
+      "pkInfoTitle": "WTA雅典站 Day4",
+      "modifyTitle": "WTA雅典站 Day4",
+      "presenters": "",
+      "matchInfo": {
+        "time": "07月16日22:30"
+      },
+      "nodes": [
+        {
+          "pID": "966088193",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "966088224",
+          "name": "英文原声"
         }
       ]
     }
