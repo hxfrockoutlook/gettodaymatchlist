@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-17 07:01:53",
+  "updateTime": "2026-07-17 07:31:56",
   "data": [
     {
       "mgdbId": "120000582614",
@@ -52,7 +52,7 @@
     },
     {
       "mgdbId": "120000582616",
-      "pID": "966234129",
+      "pID": "966234237",
       "title": "NBA夏季联赛",
       "keyword": "07月17日04:30",
       "sportItemId": "2",
@@ -68,6 +68,14 @@
         "time": "07月17日04:30"
       },
       "nodes": [
+        {
+          "pID": "966234237",
+          "name": "全场集锦"
+        },
+        {
+          "pID": "966234190",
+          "name": "全场回放（周鹏）"
+        },
         {
           "pID": "966234007",
           "name": "第一节"
@@ -252,7 +260,7 @@
     },
     {
       "mgdbId": "120000582852",
-      "pID": "966164847",
+      "pID": "966231204",
       "title": "陈雨菲领衔出战 凤凰组合稍后",
       "keyword": "07月17日09:00",
       "sportItemId": "6",
@@ -263,11 +271,15 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "陈雨菲领衔出战 凤凰组合稍后",
       "modifyTitle": "日本羽毛球公开赛第四日：陈雨菲领衔出战 凤凰组合稍后",
-      "presenters": "金子嘉 朱胤丞 鸿昆 孙宁智",
+      "presenters": "鸿昆",
       "matchInfo": {
         "time": "07月17日09:00"
       },
       "nodes": [
+        {
+          "pID": "966231204",
+          "name": "陈雨菲VS沈有振"
+        },
         {
           "pID": "966164847",
           "name": "1号场地"
@@ -283,38 +295,6 @@
         {
           "pID": "966164885",
           "name": "2号场地英文视角"
-        },
-        {
-          "pID": "966231132",
-          "name": "邓俊文/谢影雪VS蒋振邦/魏雅欣"
-        },
-        {
-          "pID": "966231140",
-          "name": "金元浩/徐承宰VS江凯兴/戴伟钦"
-        },
-        {
-          "pID": "966231174",
-          "name": "石宇奇VS小波波夫"
-        },
-        {
-          "pID": "966231204",
-          "name": "陈雨菲VS沈有振"
-        },
-        {
-          "pID": "966231223",
-          "name": "冯彦哲/黄东萍VS叶宏蔚/詹又蓁"
-        },
-        {
-          "pID": "966231232",
-          "name": "瓦尔达尼VS王祉怡"
-        },
-        {
-          "pID": "966231236",
-          "name": "加夫列拉/斯蒂法尼VS贾一凡/张殊贤"
-        },
-        {
-          "pID": "966231254",
-          "name": "保木卓朗/小林优吾VS梁伟铿/王昶"
         }
       ]
     },
@@ -597,7 +577,7 @@
     {
       "mgdbId": "120000582554",
       "pID": "966087966",
-      "title": "普汀塞娃、巴多萨出战",
+      "title": "普丁塞娃、巴多萨出战",
       "keyword": "07月17日18:00",
       "sportItemId": "9",
       "matchStatus": "0",
@@ -605,8 +585,8 @@
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/17/77I0OL7B1KSD.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "普汀塞娃、巴多萨出战",
-      "modifyTitle": "WTA雅西站1/4决赛：普汀塞娃、巴多萨出战",
+      "pkInfoTitle": "普丁塞娃、巴多萨出战",
+      "modifyTitle": "WTA雅西站1/4决赛：普丁塞娃、巴多萨出战",
       "presenters": "",
       "matchInfo": {
         "time": "07月17日18:00"
@@ -619,6 +599,30 @@
         {
           "pID": "966088058",
           "name": "英文原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000583166",
+      "pID": "966204047",
+      "title": "NBA季后赛精彩重播：湖人vs雷霆 G2",
+      "keyword": "07月17日18:00",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "NBA经典赛事",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png",
+      "pkInfoTitle": "NBA季后赛精彩重播：湖人vs雷霆 G2",
+      "modifyTitle": "NBA经典赛事",
+      "presenters": "杨健 李根 马健",
+      "matchInfo": {
+        "time": "07月17日18:00"
+      },
+      "nodes": [
+        {
+          "pID": "966204047",
+          "name": "杨健 李根 马健"
         }
       ]
     },
