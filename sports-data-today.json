@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-17 06:31:48",
+  "updateTime": "2026-07-17 07:01:53",
   "data": [
     {
       "mgdbId": "120000582614",
@@ -29,6 +29,10 @@
           "name": "全场回放（罗森）"
         },
         {
+          "pID": "966234155",
+          "name": "全场回放（英文原声）"
+        },
+        {
           "pID": "966233970",
           "name": "第一节"
         },
@@ -48,14 +52,14 @@
     },
     {
       "mgdbId": "120000582616",
-      "pID": "966089513",
+      "pID": "966234129",
       "title": "NBA夏季联赛",
       "keyword": "07月17日04:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/16/77HVR8PP3871.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/17/77I0P781G5FM.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "篮网VS火箭",
       "modifyTitle": "NBA夏季联赛",
@@ -65,12 +69,20 @@
       },
       "nodes": [
         {
-          "pID": "966089513",
-          "name": "周鹏"
+          "pID": "966234007",
+          "name": "第一节"
         },
         {
-          "pID": "966089529",
-          "name": "英文原声"
+          "pID": "966234065",
+          "name": "第二节"
+        },
+        {
+          "pID": "966234116",
+          "name": "第三节"
+        },
+        {
+          "pID": "966234167",
+          "name": "第四节"
         }
       ]
     },
@@ -132,7 +144,7 @@
       "title": "NBA夏季联赛",
       "keyword": "07月17日07:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/16/77HVR8V8134M.png",
