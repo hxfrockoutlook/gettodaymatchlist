@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-16 09:01:48",
+  "updateTime": "2026-07-16 09:31:42",
   "data": [
     {
       "mgdbId": "120000583145",
@@ -312,14 +312,14 @@
     },
     {
       "mgdbId": "120000582606",
-      "pID": "966089257",
+      "pID": "966215834",
       "title": "NBA夏季联赛",
       "keyword": "07月16日07:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/14/77HU1KMNG5T7.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/16/77HVSUASNELU.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "雄鹿VS黄蜂",
       "modifyTitle": "NBA夏季联赛",
@@ -329,16 +329,20 @@
       },
       "nodes": [
         {
-          "pID": "966089257",
-          "name": "王琰博"
+          "pID": "966214853",
+          "name": "第一节"
         },
         {
-          "pID": "966089273",
-          "name": "英文原声"
+          "pID": "966215157",
+          "name": "第二节"
         },
         {
-          "pID": "966145007",
-          "name": "智能字幕"
+          "pID": "966215444",
+          "name": "第三节"
+        },
+        {
+          "pID": "966216104",
+          "name": "第四节"
         }
       ]
     },
@@ -376,29 +380,29 @@
     },
     {
       "mgdbId": "120000582851",
-      "pID": "966210319",
+      "pID": "966210310",
       "title": "石宇奇、陈雨菲出战 国羽上演男双德比",
       "keyword": "07月16日08:00",
       "sportItemId": "6",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "BWF",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/15/77HV0C8LDLIR.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/16/77HVSTOVQM6U.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "石宇奇、陈雨菲出战 国羽上演男双德比",
       "modifyTitle": "日本羽毛球公开赛第三日：石宇奇、陈雨菲出战 国羽上演男双德比",
-      "presenters": "鸿昆 朱胤丞",
+      "presenters": "鸿昆 轩子博",
       "matchInfo": {
         "time": "07月16日08:00"
       },
       "nodes": [
         {
-          "pID": "966210319",
-          "name": "郭新娃/陈芳卉VS叶宏蔚/詹又蓁"
+          "pID": "966210310",
+          "name": "陈雨菲VS布洛娃"
         },
         {
-          "pID": "966210335",
-          "name": "韩悦VS辛杜"
+          "pID": "966210328",
+          "name": "冯彦哲/黄东萍VS卡��拉/克拉斯托"
         },
         {
           "pID": "966164802",
@@ -419,6 +423,10 @@
         {
           "pID": "966164840",
           "name": "2号场地英文视角"
+        },
+        {
+          "pID": "966210328",
+          "name": "冯彦哲/黄东萍VS卡皮拉/克拉斯托"
         }
       ]
     },
@@ -447,36 +455,12 @@
       ]
     },
     {
-      "mgdbId": "120000583170",
-      "pID": "966206067",
-      "title": "APBA匹克球公开赛单项总决赛 Day1",
-      "keyword": "07月16日09:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "APBA匹克球全球总决赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/15/77HUUSUQNE2S.png",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/6/9/100000001483106e5a39.png",
-      "pkInfoTitle": "APBA匹克球公开赛单项总决赛 Day1",
-      "modifyTitle": "APBA匹克球公开赛单项总决赛 Day1",
-      "presenters": "",
-      "matchInfo": {
-        "time": "07月16日09:00"
-      },
-      "nodes": [
-        {
-          "pID": "966206067",
-          "name": "清流播出"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000582609",
       "pID": "966089369",
       "title": "NBA夏季联赛",
       "keyword": "07月16日09:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/14/77HU1LE9VPD9.jpg",
@@ -563,6 +547,30 @@
         {
           "pID": "966179593",
           "name": "解说"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000583170",
+      "pID": "966206067",
+      "title": "APBA匹克球��开赛单项总决赛Day1",
+      "keyword": "07月16日10:05",
+      "sportItemId": "8",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "APBA匹克球全球总决赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/15/77HUUSUQNE2S.png",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/6/9/100000001483106e5a39.png",
+      "pkInfoTitle": "APBA匹克球公开赛单项总决赛Day1",
+      "modifyTitle": "APBA匹克球公开赛单项总决赛 Day1",
+      "presenters": "",
+      "matchInfo": {
+        "time": "07月16日10:05"
+      },
+      "nodes": [
+        {
+          "pID": "966206067",
+          "name": "清流播出"
         }
       ]
     },
