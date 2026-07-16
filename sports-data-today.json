@@ -1,10 +1,10 @@
 {
   "success": true,
-  "updateTime": "2026-07-17 06:02:03",
+  "updateTime": "2026-07-17 06:31:48",
   "data": [
     {
       "mgdbId": "120000582614",
-      "pID": "966233978",
+      "pID": "966234077",
       "title": "NBA夏季联赛",
       "keyword": "07月17日04:00",
       "sportItemId": "2",
@@ -21,12 +21,28 @@
       },
       "nodes": [
         {
+          "pID": "966234077",
+          "name": "全场集锦"
+        },
+        {
+          "pID": "966234070",
+          "name": "全场回放（罗森）"
+        },
+        {
           "pID": "966233970",
           "name": "第一节"
         },
         {
           "pID": "966233997",
           "name": "第二节"
+        },
+        {
+          "pID": "966234036",
+          "name": "第三节"
+        },
+        {
+          "pID": "966234062",
+          "name": "第四节"
         }
       ]
     },
@@ -61,16 +77,16 @@
     {
       "mgdbId": "120000583192",
       "pID": "966219198",
-      "title": "中国队vs法国队",
+      "title": "中国队0-3法国队",
       "keyword": "07月17日05:00",
       "sportItemId": "3",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "世界男排联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/16/77HVTIOM8TO8.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2022/7/6/1000000008011065e8e5.png",
-      "pkInfoTitle": "中国队vs法国队",
-      "modifyTitle": "世界男排联赛美国站：中国队vs法国队",
+      "pkInfoTitle": "中国队0-3法国队",
+      "modifyTitle": "世界男排联赛美国站：中国队0-3法国队",
       "presenters": "",
       "matchInfo": {
         "time": "07月17日05:00"
