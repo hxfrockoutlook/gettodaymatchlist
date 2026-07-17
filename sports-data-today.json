@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-17 10:01:55",
+  "updateTime": "2026-07-17 10:31:57",
   "data": [
     {
       "mgdbId": "120000582614",
@@ -240,14 +240,14 @@
     },
     {
       "mgdbId": "120000582622",
-      "pID": "966089598",
+      "pID": "966236558",
       "title": "NBA夏季联赛",
       "keyword": "07月17日08:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/16/77HVR92E4755.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/17/77I0Q9645ACG.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "灰熊VS老鹰",
       "modifyTitle": "NBA夏季联赛",
@@ -257,12 +257,24 @@
       },
       "nodes": [
         {
-          "pID": "966089598",
-          "name": "连睿"
+          "pID": "966236558",
+          "name": "全场集锦"
         },
         {
-          "pID": "966089617",
-          "name": "英文原声"
+          "pID": "966234859",
+          "name": "第一节"
+        },
+        {
+          "pID": "966235122",
+          "name": "第二节"
+        },
+        {
+          "pID": "966235597",
+          "name": "第三节"
+        },
+        {
+          "pID": "966236430",
+          "name": "第四节"
         }
       ]
     },
@@ -389,12 +401,12 @@
           "name": "2号桌"
         },
         {
-          "pID": "966151457",
-          "name": "3号桌"
-        },
-        {
           "pID": "966151106",
           "name": "1号桌"
+        },
+        {
+          "pID": "966151457",
+          "name": "3号桌"
         }
       ]
     },
@@ -1267,7 +1279,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
       "pkInfoTitle": "帕克斯PK萨卡里 陶森压场亮相",
       "modifyTitle": "WTA雅典站1/4决赛：帕克斯PK萨卡里 陶森压场亮相",
-      "presenters": "",
+      "presenters": "刘钟鸣",
       "matchInfo": {
         "time": "07月17日22:30"
       },
@@ -1323,6 +1335,14 @@
         {
           "pID": "966088296",
           "name": "中心球场英文原声"
+        },
+        {
+          "pID": "966235197",
+          "name": "大看台球场赛场原声"
+        },
+        {
+          "pID": "966235224",
+          "name": "大看台球场英文原声"
         }
       ]
     },
