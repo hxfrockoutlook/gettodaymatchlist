@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-17 13:31:54",
+  "updateTime": "2026-07-17 14:02:00",
   "data": [
     {
       "mgdbId": "120000582614",
@@ -197,6 +197,10 @@
           "name": "全场回放（王冠证）"
         },
         {
+          "pID": "966236190",
+          "name": "全场回放（英文原声）"
+        },
+        {
           "pID": "966234443",
           "name": "第一节"
         },
@@ -336,7 +340,7 @@
     },
     {
       "mgdbId": "120000582852",
-      "pID": "966231254",
+      "pID": "966164847",
       "title": "石宇奇、梁王组合领衔冲四强",
       "keyword": "07月17日09:00",
       "sportItemId": "6",
@@ -347,15 +351,11 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "石宇奇、梁王组合领衔冲四强",
       "modifyTitle": "日本羽毛球公开赛第四日：石宇奇、梁王组合领衔冲四强",
-      "presenters": "孙宁智",
+      "presenters": "",
       "matchInfo": {
         "time": "07月17日09:00"
       },
       "nodes": [
-        {
-          "pID": "966231254",
-          "name": "保木卓朗/小林优吾VS梁伟铿/王昶"
-        },
         {
           "pID": "966164847",
           "name": "1号场地"
@@ -401,21 +401,25 @@
     {
       "mgdbId": "120000582421",
       "pID": "966150854",
-      "title": "莎头组合晋级8强 牛冠凯夫妇争胜",
+      "title": "莎头组合晋级8强 温瑞博/林诗栋连扳3局",
       "keyword": "07月17日10:00",
       "sportItemId": "7",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "全国乒乓球锦标赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/17/77I0NL6MBAG0.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/17/77I0NQ0VFQQF.jpg",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/09/77HPGC5HO61T.png",
-      "pkInfoTitle": "莎头组合晋级8强 牛冠凯夫妇争胜",
+      "pkInfoTitle": "莎头组合晋级8强 温瑞博/林诗栋连扳3局",
       "modifyTitle": "全国乒乓球锦标赛男双、女双、混双1/8决赛",
       "presenters": "王睿涓 张铭哲",
       "matchInfo": {
         "time": "07月17日10:00"
       },
       "nodes": [
+        {
+          "pID": "966239523",
+          "name": "王楚钦/孙颖莎"
+        },
         {
           "pID": "966150854",
           "name": "王睿涓 张铭哲"
@@ -461,6 +465,10 @@
           "name": "全场回放（邢晨）"
         },
         {
+          "pID": "966239527",
+          "name": "全场回放（英文原声）"
+        },
+        {
           "pID": "966236997",
           "name": "第一节"
         },
@@ -475,10 +483,6 @@
         {
           "pID": "966238505",
           "name": "第四节"
-        },
-        {
-          "pID": "966239527",
-          "name": "全场回放"
         }
       ]
     },
@@ -512,7 +516,7 @@
       "title": "北京大学vs四川远达美乐",
       "keyword": "07月17日14:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "全国女子篮球锦标赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/16/77HVTJ3S5GP5.jpg",
