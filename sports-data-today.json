@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-17 22:02:18",
+  "updateTime": "2026-07-17 22:32:09",
   "data": [
     {
       "mgdbId": "120000582614",
@@ -401,8 +401,16 @@
           "name": "【全场回放】一号场地（赛场原声）（一）"
         },
         {
+          "pID": "966252835",
+          "name": "【全场回放】一号场地（赛场原声）（二）"
+        },
+        {
           "pID": "966241860",
           "name": "【全场回放】一号场地（英文原声）（一）"
+        },
+        {
+          "pID": "966252820",
+          "name": "【全场回放】一号场地（英文原声）（二）"
         },
         {
           "pID": "966241531",
@@ -867,10 +875,6 @@
         {
           "pID": "966251458",
           "name": "全场回放（孙雷、李欣、程思钦）"
-        },
-        {
-          "pID": "966251034",
-          "name": "全场回放"
         }
       ]
     },
@@ -921,12 +925,8 @@
       },
       "nodes": [
         {
-          "pID": "966227463",
-          "name": "解说"
-        },
-        {
-          "pID": "966227469",
-          "name": "赛场原声"
+          "pID": "966253139",
+          "name": "全场回放"
         }
       ]
     },
@@ -939,7 +939,7 @@
       "matchStatus": "2",
       "matchField": "裕彤国际体育中心",
       "competitionName": "中甲",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000570632/202603010101_559882_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000570632/202607172201_697273_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/10106c2211.png",
       "pkInfoTitle": "石家庄功夫 vs 延边龙鼎",
       "modifyTitle": "中甲联赛",
@@ -1132,7 +1132,7 @@
     },
     {
       "mgdbId": "120000582938",
-      "pID": "966167990",
+      "pID": "966252913",
       "title": "上海浦发银行79-62厦门银行",
       "keyword": "07月17日19:30",
       "sportItemId": "2",
@@ -1149,8 +1149,8 @@
       },
       "nodes": [
         {
-          "pID": "966167990",
-          "name": "清流播出"
+          "pID": "966252913",
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
@@ -1249,12 +1249,16 @@
       },
       "nodes": [
         {
-          "pID": "966217319",
-          "name": "苏东 刘越 林梦鸽"
+          "pID": "966253136",
+          "name": "全场集锦"
         },
         {
-          "pID": "966217346",
-          "name": "赛场原声"
+          "pID": "966253100",
+          "name": "全场回放"
+        },
+        {
+          "pID": "966253013",
+          "name": "全场集锦"
         }
       ]
     },
@@ -1279,6 +1283,10 @@
         {
           "pID": "966252304",
           "name": "全场集锦"
+        },
+        {
+          "pID": "966252438",
+          "name": "全场回放（梁祥宇、鲁靖明）"
         }
       ]
     },
@@ -1288,10 +1296,10 @@
       "title": "中超联赛",
       "keyword": "07月17日20:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "玉溪高原体育运动中心体育场",
       "competitionName": "中超",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000569671/681951_H169_sc.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000569671/338360_H169_sc.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png",
       "pkInfoTitle": "云南玉昆 vs 上海海港",
       "modifyTitle": "中超联赛",
@@ -1320,7 +1328,7 @@
       "title": "U17女篮世界杯9-16名排位赛",
       "keyword": "07月17日20:15",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "U17女篮世界杯",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000583198/202607161735_403540_H169_1080.webp",
@@ -1388,11 +1396,11 @@
     },
     {
       "mgdbId": "120000582558",
-      "pID": "966088248",
+      "pID": "966235197",
       "title": "帕克斯PK萨卡里 陶森压场亮相",
       "keyword": "07月17日22:30",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/17/77I0Q094KFOS.jpg",
@@ -1409,16 +1417,16 @@
           "name": "克雷吉茨科娃 vs 郑钦文(刘钟鸣)"
         },
         {
+          "pID": "966235197",
+          "name": "大看台球场赛场原声"
+        },
+        {
           "pID": "966088248",
           "name": "中心球场赛场原声"
         },
         {
           "pID": "966088296",
           "name": "中心球场英文原声"
-        },
-        {
-          "pID": "966235197",
-          "name": "大看台球场赛场原声"
         },
         {
           "pID": "966235224",
@@ -1432,7 +1440,7 @@
       "title": "WTA雅典站1/4决赛：克雷吉茨科娃 vs 郑钦文",
       "keyword": "07月17日22:30",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/17/77I0OBRGD6IM.png",
