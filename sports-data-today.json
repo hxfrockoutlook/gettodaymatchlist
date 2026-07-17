@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-17 11:02:00",
+  "updateTime": "2026-07-17 11:31:48",
   "data": [
     {
       "mgdbId": "120000582614",
@@ -284,7 +284,7 @@
     },
     {
       "mgdbId": "120000582625",
-      "pID": "966236900",
+      "pID": "966237171",
       "title": "NBA夏季联赛",
       "keyword": "07月17日09:00",
       "sportItemId": "2",
@@ -300,6 +300,10 @@
         "time": "07月17日09:00"
       },
       "nodes": [
+        {
+          "pID": "966237171",
+          "name": "全场集锦"
+        },
         {
           "pID": "966237142",
           "name": "全场回放（殷文玉）"
@@ -324,7 +328,7 @@
     },
     {
       "mgdbId": "120000582852",
-      "pID": "966164847",
+      "pID": "966231132",
       "title": "石宇奇、王祉怡领衔冲四强",
       "keyword": "07月17日09:00",
       "sportItemId": "6",
@@ -335,11 +339,19 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "石宇奇、王祉怡领衔冲四强",
       "modifyTitle": "日本羽毛球公开赛第四日：石宇奇、王祉怡领衔冲四强",
-      "presenters": "",
+      "presenters": "金子嘉 朱胤丞",
       "matchInfo": {
         "time": "07月17日09:00"
       },
       "nodes": [
+        {
+          "pID": "966231232",
+          "name": "瓦尔达尼VS王祉怡"
+        },
+        {
+          "pID": "966231132",
+          "name": "邓俊文/谢影雪VS蒋振邦/魏雅欣"
+        },
         {
           "pID": "966164847",
           "name": "1号场地"
@@ -384,14 +396,14 @@
     },
     {
       "mgdbId": "120000582421",
-      "pID": "966150854",
+      "pID": "966151457",
       "title": "争8强！莎头组合vs林高远/刘炜珊",
       "keyword": "07月17日10:00",
       "sportItemId": "7",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "全国乒乓球锦标赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/17/77I0QDAIGVHI.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/17/77I0QK6LVA13.png",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/09/77HPGC5HO61T.png",
       "pkInfoTitle": "争8强！莎头组合vs林高远/刘炜珊",
       "modifyTitle": "全国乒乓球锦标赛男双、女双、混双1/8决赛",
@@ -401,16 +413,16 @@
       },
       "nodes": [
         {
+          "pID": "966151457",
+          "name": "3号桌"
+        },
+        {
           "pID": "966150854",
           "name": "王睿涓 张铭哲"
         },
         {
           "pID": "966151306",
           "name": "2号桌"
-        },
-        {
-          "pID": "966151457",
-          "name": "3号桌"
         },
         {
           "pID": "966151106",
