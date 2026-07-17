@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-17 09:01:54",
+  "updateTime": "2026-07-17 09:31:54",
   "data": [
     {
       "mgdbId": "120000582614",
@@ -124,7 +124,7 @@
     },
     {
       "mgdbId": "120000582618",
-      "pID": "966234549",
+      "pID": "966234743",
       "title": "NBA夏季联赛",
       "keyword": "07月17日06:00",
       "sportItemId": "2",
@@ -141,8 +141,16 @@
       },
       "nodes": [
         {
+          "pID": "966234743",
+          "name": "全场集锦"
+        },
+        {
           "pID": "966234770",
           "name": "全场回放（蔡凯臣）"
+        },
+        {
+          "pID": "966235010",
+          "name": "全场回放（英文原声）"
         },
         {
           "pID": "966234147",
@@ -164,7 +172,7 @@
     },
     {
       "mgdbId": "120000582620",
-      "pID": "966234887",
+      "pID": "966235077",
       "title": "NBA夏季联赛",
       "keyword": "07月17日07:00",
       "sportItemId": "2",
@@ -180,6 +188,14 @@
         "time": "07月17日07:00"
       },
       "nodes": [
+        {
+          "pID": "966235077",
+          "name": "全场集锦"
+        },
+        {
+          "pID": "966234980",
+          "name": "全场回放（王冠证）"
+        },
         {
           "pID": "966234443",
           "name": "第一节"
@@ -1056,6 +1072,7 @@
     },
     {
       "mgdbId": "120000583194",
+      "pID": "966235050",
       "title": "ONE格斗夜162：迪贝拉VS张沛勉二番战 战斗鸡再次冲击世界冠军",
       "keyword": "07月17日19:30",
       "sportItemId": "5",
@@ -1066,11 +1083,20 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/7/16/1000000015101065ca9b.png",
       "pkInfoTitle": "ONE格斗夜162：迪贝拉VS张沛勉二番战 战斗鸡再次冲击世界冠军",
       "modifyTitle": "ONE周五格斗夜162：迪贝拉VS张沛勉二番战",
-      "presenters": "",
+      "presenters": "王琰博 马嘉文",
       "matchInfo": {
         "time": "07月17日19:30"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "966235050",
+          "name": "王琰博 马嘉文"
+        },
+        {
+          "pID": "966235251",
+          "name": "英文原声"
+        }
+      ]
     },
     {
       "mgdbId": "120000569672",
@@ -1253,11 +1279,20 @@
         {
           "pID": "966088296",
           "name": "英文原声"
+        },
+        {
+          "pID": "966235197",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "966235224",
+          "name": "英文原声"
         }
       ]
     },
     {
       "mgdbId": "120000583220",
+      "pID": "966235295",
       "title": "克雷吉茨科娃 vs 郑钦文",
       "keyword": "07月17日22:30",
       "sportItemId": "9",
@@ -1268,16 +1303,25 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
       "pkInfoTitle": "克雷吉茨科娃 vs 郑钦文",
       "modifyTitle": "克雷吉茨科娃 vs 郑钦文",
-      "presenters": "",
+      "presenters": "刘钟鸣",
       "matchInfo": {
         "time": "07月17日22:30"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "966235295",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "966235316",
+          "name": "刘钟鸣"
+        }
+      ]
     },
     {
       "mgdbId": "120000583200",
       "pID": "966227328",
-      "title": "U17女篮世界杯9-16名排位赛",
+      "title": "U17���篮世界杯9-16名排位赛",
       "keyword": "07月17日23:00",
       "sportItemId": "2",
       "matchStatus": "0",
@@ -1286,7 +1330,7 @@
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000583200/202607161740_910778_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/09/77HPETPFSE8E.jpg",
       "pkInfoTitle": "拉脱维亚vs捷克",
-      "modifyTitle": "U17女��世界杯9-16名排位赛",
+      "modifyTitle": "U17女篮世界杯9-16名排位赛",
       "presenters": "",
       "matchInfo": {
         "time": "07月17日23:00"
