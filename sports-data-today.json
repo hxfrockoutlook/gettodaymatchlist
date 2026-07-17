@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-18 04:32:44",
+  "updateTime": "2026-07-18 05:02:59",
   "data": [
     {
       "mgdbId": "120000583202",
@@ -21,18 +21,18 @@
       },
       "nodes": [
         {
-          "pID": "966256039",
-          "name": "全场回放"
-        },
-        {
           "pID": "966255949",
           "name": "全场集锦"
+        },
+        {
+          "pID": "966256039",
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
     {
       "mgdbId": "120000583203",
-      "pID": "965605708",
+      "pID": "966255990",
       "title": "U17女篮世界杯四分之一决赛",
       "keyword": "07月18日02:15",
       "sportItemId": "2",
@@ -49,12 +49,12 @@
       },
       "nodes": [
         {
-          "pID": "965605708",
-          "name": "女篮新星集结亮相世界舞台！U17女篮世界杯球队巡礼来袭"
+          "pID": "966256086",
+          "name": "全场回放"
         },
         {
-          "pID": "966227351",
-          "name": "赛场原声"
+          "pID": "966255990",
+          "name": "全场集锦"
         }
       ]
     },
@@ -64,7 +64,7 @@
       "title": "中国队vs保加利亚队",
       "keyword": "07月18日05:00",
       "sportItemId": "3",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "世界男排联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/17/77I0QJ0C1G9Q.jpg",
@@ -2548,7 +2548,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "WTA",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/18/77I1LNVP07EP.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
       "pkInfoTitle": "谢里芙率先出战 巴多萨接场",
       "modifyTitle": "WTA雅西站半决赛：谢里芙率先出战 巴多萨接场",
