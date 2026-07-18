@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-19 03:01:56",
+  "updateTime": "2026-07-19 03:31:48",
   "data": [
     {
       "mgdbId": "120000582559",
@@ -32,11 +32,11 @@
     },
     {
       "mgdbId": "120000583259",
-      "pID": "966261179",
+      "pID": "965605708",
       "title": "U17女篮世界杯9-12名排位赛",
       "keyword": "07月19日01:45",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "U17女篮世界杯",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000583259/202607181405_510084_H169_1080.webp",
@@ -48,6 +48,10 @@
         "time": "07月19日01:45"
       },
       "nodes": [
+        {
+          "pID": "965605708",
+          "name": "女篮新星集结亮相世界舞台！U17女篮世界杯球队巡礼来袭"
+        },
         {
           "pID": "966261179",
           "name": "赛场原声"
@@ -1449,6 +1453,34 @@
         {
           "pID": "966256977",
           "name": "陶哲铭"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000582556",
+      "pID": "966088021",
+      "title": "WTA雅西站决赛",
+      "keyword": "07月19日22:30",
+      "sportItemId": "9",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "WTA",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
+      "pkInfoTitle": "谢里芙 vs 巴多萨",
+      "modifyTitle": "WTA雅西站决赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "07月19日22:30"
+      },
+      "nodes": [
+        {
+          "pID": "966088021",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "966088102",
+          "name": "英文原声"
         }
       ]
     }
