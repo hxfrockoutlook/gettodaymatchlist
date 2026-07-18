@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-18 10:35:07",
+  "updateTime": "2026-07-18 11:02:47",
   "data": [
     {
       "mgdbId": "120000583202",
@@ -200,14 +200,14 @@
     },
     {
       "mgdbId": "120000583235",
-      "pID": "966241398",
+      "pID": "966258262",
       "title": "NBA夏季联赛",
       "keyword": "07月18日08:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/17/77I0O9NB8OJC.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/18/77I1NFGACBO1.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "独行侠VS尼克斯",
       "modifyTitle": "NBA夏季联赛",
@@ -217,40 +217,52 @@
       },
       "nodes": [
         {
-          "pID": "966241398",
-          "name": "王凯"
+          "pID": "966258262",
+          "name": "全场集锦"
         },
         {
-          "pID": "966241681",
-          "name": "英文原声"
+          "pID": "966258208",
+          "name": "全场回放（王凯）"
         },
         {
-          "pID": "966243539",
-          "name": "智能字幕"
+          "pID": "966257082",
+          "name": "第一节"
+        },
+        {
+          "pID": "966257315",
+          "name": "第二节"
+        },
+        {
+          "pID": "966257710",
+          "name": "第三节"
+        },
+        {
+          "pID": "966258103",
+          "name": "第四节"
         }
       ]
     },
     {
       "mgdbId": "120000582853",
-      "pID": "966253340",
+      "pID": "966253352",
       "title": "陈雨菲领衔 凤凰组合首进日公决赛",
       "keyword": "07月18日09:00",
       "sportItemId": "6",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "BWF",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/18/77I1NE6H849B.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/18/77I1NG8K34OJ.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "陈雨菲领衔 凤凰组合首进日公决赛",
       "modifyTitle": "日本羽毛球公开赛半决赛：陈雨菲领衔 凤凰组合首进日公决赛",
-      "presenters": "鸿昆",
+      "presenters": "刘炳阳",
       "matchInfo": {
         "time": "07月18日09:00"
       },
       "nodes": [
         {
-          "pID": "966253340",
-          "name": "辛杜VS陈雨菲"
+          "pID": "966253352",
+          "name": "黄显维/钟舒韵VS邓俊文/谢影雪"
         },
         {
           "pID": "966164900",
@@ -316,14 +328,14 @@
     },
     {
       "mgdbId": "120000583236",
-      "pID": "966241389",
+      "pID": "966258305",
       "title": "NBA夏季联赛",
       "keyword": "07月18日09:00",
       "sportItemId": "2",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/17/77I0O9PT1KOV.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/18/77I1NH0C6PM9.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "活塞VS热火",
       "modifyTitle": "NBA夏季联赛",
@@ -332,6 +344,10 @@
         "time": "07月18日09:00"
       },
       "nodes": [
+        {
+          "pID": "966258305",
+          "name": "末节战神！唐纳森末节暴走连砍7分逆转比赛"
+        },
         {
           "pID": "966241389",
           "name": "刘沛元"
@@ -375,7 +391,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "全国乒乓球锦标赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/18/77I1N88K96G5.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/18/77I1NF3SDS90.jpg",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/09/77HPGC5HO61T.png",
       "pkInfoTitle": "莎头组合冲4强 动漫组合迎周雨/赵尚挑战",
       "modifyTitle": "全国乒乓球锦标赛男双、女双、混双1/4决赛",
@@ -389,16 +405,16 @@
           "name": "陈希 徐铭辰"
         },
         {
-          "pID": "966151054",
-          "name": "1号桌"
-        },
-        {
           "pID": "966151252",
           "name": "2号桌"
         },
         {
           "pID": "966151433",
           "name": "3号桌"
+        },
+        {
+          "pID": "966151054",
+          "name": "1号桌"
         }
       ]
     },
@@ -440,7 +456,7 @@
       "title": "NBA夏季联赛",
       "keyword": "07月18日11:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/17/77I0OA1IBTFD.png",
@@ -1662,7 +1678,7 @@
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/17/77I0Q0UJIN9O.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/7/3/100000001502106b2e56.png",
       "pkInfoTitle": "第74届世界小姐中国区总决赛",
-      "modifyTitle": "第74��世界小姐中国区总决赛",
+      "modifyTitle": "第74届世界小姐中国区总决赛",
       "presenters": "",
       "matchInfo": {
         "time": "07月18日19:30"
