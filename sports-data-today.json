@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-18 12:32:49",
+  "updateTime": "2026-07-18 13:02:55",
   "data": [
     {
       "mgdbId": "120000583202",
@@ -340,7 +340,7 @@
       "title": "NBA夏季联赛",
       "keyword": "07月18日09:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/18/77I1NH0C6PM9.jpg",
@@ -354,15 +354,31 @@
       "nodes": [
         {
           "pID": "966258658",
-          "name": "26/赛季NBA夏季联赛全场集锦：活塞87:101热火（20260718）"
+          "name": "全场集锦"
         },
         {
-          "pID": "966241389",
-          "name": "刘沛元"
+          "pID": "966258399",
+          "name": "全场回放（刘沛元）"
         },
         {
-          "pID": "966241721",
-          "name": "英文原声"
+          "pID": "966259157",
+          "name": "全场回放（英文原声）"
+        },
+        {
+          "pID": "966257163",
+          "name": "第一节"
+        },
+        {
+          "pID": "966257583",
+          "name": "第二节"
+        },
+        {
+          "pID": "966257990",
+          "name": "第三节"
+        },
+        {
+          "pID": "966258329",
+          "name": "第四节"
         }
       ]
     },
@@ -399,7 +415,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "全国乒乓球锦标赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/18/77I1NUS92V6H.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/18/77I1O48OBDTV.jpg",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/09/77HPGC5HO61T.png",
       "pkInfoTitle": "莎头组合晋级半决赛 动漫组合3-0周雨/赵尚",
       "modifyTitle": "全国乒乓球锦标赛男双、女双、混双1/4决赛",
@@ -428,14 +444,14 @@
     },
     {
       "mgdbId": "120000583237",
-      "pID": "966241386",
+      "pID": "966260036",
       "title": "NBA夏季联赛",
       "keyword": "07月18日10:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/18/77I1NVDTEC55.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/18/77I1O20V1PT6.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "开拓者VS爵士",
       "modifyTitle": "NBA夏季联赛",
@@ -445,16 +461,20 @@
       },
       "nodes": [
         {
-          "pID": "966241386",
-          "name": "邢晨"
+          "pID": "966258690",
+          "name": "第一节"
         },
         {
-          "pID": "966241690",
-          "name": "英文原声"
+          "pID": "966259096",
+          "name": "第二节"
         },
         {
-          "pID": "966243566",
-          "name": "智能字幕"
+          "pID": "966259874",
+          "name": "第三节"
+        },
+        {
+          "pID": "966259923",
+          "name": "第四节"
         }
       ]
     },
@@ -467,7 +487,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/17/77I0OA1IBTFD.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/18/77I1O29T4Q5Q.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "森林狼VS快船",
       "modifyTitle": "NBA夏季联赛",
@@ -492,7 +512,7 @@
       "title": "环大美青海国际公路自行车赛",
       "keyword": "07月18日13:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "中国自行车运动协会系列赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/17/77I0POKG2LCM.jpg",
@@ -1105,7 +1125,7 @@
       "competitionName": "JCK",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/18/77I1NOH5I7OM.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/3/31/10000000103110616c76.png",
-      "pkInfoTitle": "JCK觉城之��N121：求基伦周VS萨洛希迪诺夫",
+      "pkInfoTitle": "JCK觉城之夜N121：求基伦周VS萨洛希迪诺夫",
       "modifyTitle": "JCK觉城之夜N121：求基伦周VS萨洛希迪诺夫",
       "presenters": "",
       "matchInfo": {
