@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-18 22:34:05",
+  "updateTime": "2026-07-18 23:03:58",
   "data": [
     {
       "mgdbId": "120000583202",
@@ -315,6 +315,10 @@
         {
           "pID": "966267283",
           "name": "【全场回放】一号场地（英文原声）（二）"
+        },
+        {
+          "pID": "966269545",
+          "name": "2026BWF日本羽毛球公开赛男双半决赛回放：保木卓朗/小林优吾1-2阿尔菲安/菲克里（杨妮娜）"
         }
       ]
     },
@@ -1040,11 +1044,11 @@
     },
     {
       "mgdbId": "120000582424",
-      "pID": "966149491",
+      "pID": "966264990",
       "title": "袁励岑/王艺迪晋级决赛 龙蟒决胜局轰11-2",
       "keyword": "07月18日18:00",
       "sportItemId": "7",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "全国乒乓球锦标赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/18/77I1NEFU1E3N.png",
@@ -1056,6 +1060,10 @@
         "time": "07月18日18:00"
       },
       "nodes": [
+        {
+          "pID": "966264990",
+          "name": "马龙/许昕3-2徐海东/牛冠凯"
+        },
         {
           "pID": "966149491",
           "name": "周冠达 马特"
@@ -1486,7 +1494,7 @@
       "nodes": [
         {
           "pID": "966271869",
-          "name": "全场集锦"
+          "name": "超长版集锦"
         }
       ]
     },
@@ -1510,7 +1518,7 @@
       "nodes": [
         {
           "pID": "966272578",
-          "name": "全场集锦"
+          "name": "超长版集锦"
         }
       ]
     },
@@ -2342,7 +2350,7 @@
       "nodes": [
         {
           "pID": "966272551",
-          "name": "全场集锦"
+          "name": "超长版集锦"
         },
         {
           "pID": "966273103",
@@ -2356,10 +2364,10 @@
       "title": "中超联赛",
       "keyword": "07月18日19:35",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "上海体育场",
       "competitionName": "中超",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000569668/939869_H169_sc.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/18/77I1NH3P7V42.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png",
       "pkInfoTitle": "上海申花 vs 天津津门虎",
       "modifyTitle": "中超联赛",
@@ -2503,7 +2511,7 @@
       "matchStatus": "2",
       "matchField": "定南足球青少年训练中心体育场",
       "competitionName": "中甲",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000570628/202603010100_984622_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000570628/202607182231_259843_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/10106c2211.png",
       "pkInfoTitle": "定南赣联 vs 宁波",
       "modifyTitle": "中甲联赛",
@@ -2716,7 +2724,7 @@
     },
     {
       "mgdbId": "120000583255",
-      "pID": "966261141",
+      "pID": "965605708",
       "title": "U17女篮世界杯9-12名排位赛",
       "keyword": "07月18日20:15",
       "sportItemId": "2",
@@ -2732,6 +2740,10 @@
         "time": "07月18日20:15"
       },
       "nodes": [
+        {
+          "pID": "965605708",
+          "name": "女篮新星集结亮相世界舞台！U17女篮世界杯球队巡礼来袭"
+        },
         {
           "pID": "966261141",
           "name": "赛场原声"
@@ -2768,10 +2780,10 @@
       "title": "U17女篮世界杯5-8名排位赛",
       "keyword": "07月18日20:45",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "U17女篮世界杯",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/18/77I1L69PEG3V.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/18/77I1NGDKHUSK.png",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/09/77HPETPFSE8E.jpg",
       "pkInfoTitle": "斯洛文尼亚vs中国",
       "modifyTitle": "U17女篮世界杯5-8名排位赛",
@@ -2781,12 +2793,20 @@
       },
       "nodes": [
         {
-          "pID": "966261145",
-          "name": "吕程"
+          "pID": "966271273",
+          "name": "第一节"
         },
         {
-          "pID": "966261152",
-          "name": "赛场原声"
+          "pID": "966271854",
+          "name": "第二节"
+        },
+        {
+          "pID": "966273352",
+          "name": "第三节"
+        },
+        {
+          "pID": "966274459",
+          "name": "第四节"
         }
       ]
     },
@@ -2795,10 +2815,10 @@
       "pID": "965549950",
       "title": "人机大战：法英荣誉终极战 众预言家观点分歧拉满",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "世界杯",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/18/77I1MC0PH9LR.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/18/77I1MCCUD5FK.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/5/20/1000000009911062c19f.jpg",
       "pkInfoTitle": "人机大战：法英荣誉终极战 众预言家观点分歧拉满",
       "modifyTitle": "人机大战：谁是世界杯预言家 第18期",
@@ -2806,8 +2826,8 @@
       "matchInfo": {},
       "nodes": [
         {
-          "pID": "965549950",
-          "name": "人机大战第18期"
+          "pID": "966274671",
+          "name": "《人机大战：谁是世界杯预言家》第18期：苏东认为世界杯需要决出三四名 场外大神预测法国2比1英格兰"
         }
       ]
     },
@@ -2845,7 +2865,7 @@
       "title": "U17女篮世界杯13-16名排位赛",
       "keyword": "07月18日23:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "U17女篮世界杯",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000583257/202607181421_272881_H169_1080.webp",
