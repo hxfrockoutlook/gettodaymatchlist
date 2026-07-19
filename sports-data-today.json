@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-19 13:02:09",
+  "updateTime": "2026-07-19 13:32:04",
   "data": [
     {
       "mgdbId": "120000582559",
@@ -584,7 +584,7 @@
       "title": "全国青年山地自行车锦标赛",
       "keyword": "07月19日08:00",
       "sportItemId": "8",
-      "matchStatus": "2",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "中国自行车运动协会系列赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/18/77I1LLV1EEEE.jpg",
@@ -831,7 +831,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "全国乒乓球锦标赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/19/77I2KTVU5FIF.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/19/77I2HTEB97RO.jpg",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/09/77HPGC5HO61T.png",
       "pkInfoTitle": "龙蟒冲决赛 黄友政/向鹏3-0袁励岑/徐瑛彬",
       "modifyTitle": "全国乒乓球锦标赛男双、女双半决赛",
@@ -1652,30 +1652,6 @@
       ]
     },
     {
-      "mgdbId": "120000582403",
-      "pID": "966034047",
-      "title": "疆超8进4第二回合",
-      "keyword": "07月19日20:00",
-      "sportItemId": "1",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "疆超",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000582403/202607071000_458124_H169_1080.webp",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/5/11/100000001464106a56b8.png",
-      "pkInfoTitle": "吐鲁番VS乌鲁木齐",
-      "modifyTitle": "疆超8进4第二回合",
-      "presenters": "",
-      "matchInfo": {
-        "time": "07月19日20:00"
-      },
-      "nodes": [
-        {
-          "pID": "966034047",
-          "name": "赛场原声"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000583339",
       "pID": "966284866",
       "title": "U17女篮世界杯5-6名排位赛",
@@ -1699,6 +1675,30 @@
         },
         {
           "pID": "966284877",
+          "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000582403",
+      "pID": "966034047",
+      "title": "疆超8进4第二回合",
+      "keyword": "07月19日20:30",
+      "sportItemId": "1",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "疆超",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000582403/202607071000_458124_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/5/11/100000001464106a56b8.png",
+      "pkInfoTitle": "吐鲁番VS乌鲁木齐",
+      "modifyTitle": "疆超8进4第二回合",
+      "presenters": "",
+      "matchInfo": {
+        "time": "07月19日20:30"
+      },
+      "nodes": [
+        {
+          "pID": "966034047",
           "name": "赛场原声"
         }
       ]
