@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-19 19:32:14",
+  "updateTime": "2026-07-19 20:02:11",
   "data": [
     {
       "mgdbId": "120000582559",
@@ -119,6 +119,14 @@
         {
           "pID": "966285400",
           "name": "2026海发海岛海钓联赛庄河分站赛Day2全场回放（官方解说）（一）"
+        },
+        {
+          "pID": "966291499",
+          "name": "2026海发海岛海钓联赛庄河分站赛Day2全场回放（官方解说）（二）"
+        },
+        {
+          "pID": "966291846",
+          "name": "2026海发海岛海钓联赛庄河分站赛Day2全场回放（官方解说）（三）"
         }
       ]
     },
@@ -953,8 +961,8 @@
       },
       "nodes": [
         {
-          "pID": "966166486",
-          "name": "赛场原声"
+          "pID": "966291507",
+          "name": "全场回放"
         }
       ]
     },
@@ -1001,6 +1009,10 @@
       },
       "nodes": [
         {
+          "pID": "966291695",
+          "name": "全场回放"
+        },
+        {
           "pID": "966291054",
           "name": "全场集锦"
         }
@@ -1025,8 +1037,8 @@
       },
       "nodes": [
         {
-          "pID": "966167649",
-          "name": "清流播出"
+          "pID": "966291772",
+          "name": "2026全国女子篮球锦标赛宣城赛区全场回放：浙江稠州银行vs江苏南钢（赛场原声）"
         }
       ]
     },
@@ -1081,20 +1093,12 @@
           "name": "一号桌"
         },
         {
-          "pID": "966256966",
-          "name": "孙嘉星"
-        },
-        {
-          "pID": "966168812",
-          "name": "五号桌"
-        },
-        {
-          "pID": "966168826",
-          "name": "六号桌"
-        },
-        {
           "pID": "966168835",
           "name": "七号桌"
+        },
+        {
+          "pID": "966256966",
+          "name": "孙嘉星"
         },
         {
           "pID": "966168789",
@@ -1103,6 +1107,14 @@
         {
           "pID": "966168802",
           "name": "四号桌"
+        },
+        {
+          "pID": "966168812",
+          "name": "五号桌"
+        },
+        {
+          "pID": "966168826",
+          "name": "六号桌"
         },
         {
           "pID": "966168848",
@@ -1116,7 +1128,7 @@
       "title": "甘肃省足球超级联赛",
       "keyword": "07月19日17:20",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "陇超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000581811/202606301620_363001_H169_1080.webp",
@@ -1185,7 +1197,7 @@
     {
       "mgdbId": "120000582426",
       "pID": "966149501",
-      "title": "龙蟒争冠 动漫组合勇闯五局登顶",
+      "title": "蒯曼双线出战 龙蟒组合登顶男双",
       "keyword": "07月19日18:00",
       "sportItemId": "7",
       "matchStatus": "1",
@@ -1193,7 +1205,7 @@
       "competitionName": "全国乒乓球锦标赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/19/77I2JAP98E8Q.png",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/09/77HPGC5HO61T.png",
-      "pkInfoTitle": "龙蟒争冠 动漫组合勇闯五局登顶",
+      "pkInfoTitle": "蒯曼双线出战 龙蟒组合登顶男双",
       "modifyTitle": "全国乒乓球锦标赛男双、女双、混双决赛",
       "presenters": "周冠达 马特",
       "matchInfo": {
@@ -1520,30 +1532,6 @@
       ]
     },
     {
-      "mgdbId": "120000582133",
-      "pID": "965914190",
-      "title": "第74届世界小姐中国区总决赛·海韵盛典",
-      "keyword": "07月19日19:30",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "世界小姐中国区总决赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/17/77I0Q0UJIN9O.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/7/3/100000001502106b2e56.png",
-      "pkInfoTitle": "第74届世界小姐中国区总决赛·海韵盛典",
-      "modifyTitle": "第74届世界小姐中国区总决赛",
-      "presenters": "",
-      "matchInfo": {
-        "time": "07月19日19:30"
-      },
-      "nodes": [
-        {
-          "pID": "965914190",
-          "name": "解说"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000582846",
       "pID": "966164527",
       "title": "乐清VS瓯海",
@@ -1813,6 +1801,30 @@
         {
           "pID": "965549965",
           "name": "人机大战第19期"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000582133",
+      "pID": "965914190",
+      "title": "第74届世界小姐中国区总决赛·海韵盛典",
+      "keyword": "07月19日21:30",
+      "sportItemId": "8",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "世界小姐中国区总决赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/17/77I0Q0UJIN9O.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/7/3/100000001502106b2e56.png",
+      "pkInfoTitle": "第74届世界小姐中国区总决赛·海韵盛典",
+      "modifyTitle": "第74届世界小姐中国区总决赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "07月19日21:30"
+      },
+      "nodes": [
+        {
+          "pID": "965914190",
+          "name": "解说"
         }
       ]
     },
