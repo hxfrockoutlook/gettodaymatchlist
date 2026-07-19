@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-19 08:31:50",
+  "updateTime": "2026-07-19 09:01:58",
   "data": [
     {
       "mgdbId": "120000582559",
@@ -274,7 +274,7 @@
       "mgdbId": "120000583262",
       "pID": "966280881",
       "title": "NBA夏季联赛",
-      "keyword": "07月19日05:00",
+      "keyword": "7��19日 05:00",
       "sportItemId": "2",
       "matchStatus": "2",
       "matchField": "",
@@ -285,7 +285,7 @@
       "modifyTitle": "NBA夏季联赛",
       "presenters": "徐秦威",
       "matchInfo": {
-        "time": "07月19日05:00"
+        "time": "7��19日 05:00"
       },
       "nodes": [
         {
@@ -344,7 +344,7 @@
     },
     {
       "mgdbId": "120000583263",
-      "pID": "966281095",
+      "pID": "966281706",
       "title": "NBA夏季联赛",
       "keyword": "07月19日06:30",
       "sportItemId": "2",
@@ -361,6 +361,10 @@
       },
       "nodes": [
         {
+          "pID": "966281706",
+          "name": "全场集锦"
+        },
+        {
           "pID": "966280987",
           "name": "第一节"
         },
@@ -371,19 +375,23 @@
         {
           "pID": "966281278",
           "name": "第三节"
+        },
+        {
+          "pID": "966281543",
+          "name": "第四节"
         }
       ]
     },
     {
       "mgdbId": "120000583264",
-      "pID": "966261973",
+      "pID": "966281607",
       "title": "NBA夏季联赛",
       "keyword": "07月19日07:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/18/77I1LEGFKEOK.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/19/77I2K28GVUOS.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "老鹰VS奇才",
       "modifyTitle": "NBA夏季联赛",
@@ -393,12 +401,16 @@
       },
       "nodes": [
         {
-          "pID": "966261973",
-          "name": "孙博"
+          "pID": "966281016",
+          "name": "第一节"
         },
         {
-          "pID": "966261974",
-          "name": "英文原声"
+          "pID": "966281272",
+          "name": "第二节"
+        },
+        {
+          "pID": "966281594",
+          "name": "第三节"
         }
       ]
     },
@@ -484,7 +496,7 @@
       "title": "2026年亚洲体育舞蹈节",
       "keyword": "07月19日09:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "中国体育舞蹈联合会系列赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/18/77I1LMQ2UMO1.jpg",
@@ -505,15 +517,15 @@
     {
       "mgdbId": "120000583173",
       "pID": "966206095",
-      "title": "APBA匹克球公开赛单项总决赛 Day4",
+      "title": "单项总决赛 Day4",
       "keyword": "07月19日09:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "APBA匹克球全球总决赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/15/77HUUTJ5E8CR.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/6/9/100000001483106e5a39.png",
-      "pkInfoTitle": "APBA匹克球公开赛单项总决赛 Day4",
+      "pkInfoTitle": "单项总决赛 Day4",
       "modifyTitle": "APBA匹克球公开赛单项总决赛 Day4",
       "presenters": "",
       "matchInfo": {
@@ -522,7 +534,7 @@
       "nodes": [
         {
           "pID": "966206095",
-          "name": "清流播出"
+          "name": "赛场原声"
         }
       ]
     },
@@ -532,7 +544,7 @@
       "title": "NBA夏季联赛",
       "keyword": "07月19日09:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/18/77I1LEIKPEFK.jpg",
@@ -589,7 +601,7 @@
       "competitionName": "BWF",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/18/77I1N7IUHRUR.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
-      "pkInfoTitle": "凤凰���双争冠 凡贤稍后登场",
+      "pkInfoTitle": "凤凰混双争冠 凡贤稍后登场",
       "modifyTitle": "日本羽毛球公开赛决赛：凤凰混双争冠 凡贤稍后登场",
       "presenters": "鸿昆",
       "matchInfo": {
