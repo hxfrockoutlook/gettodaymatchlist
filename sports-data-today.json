@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-19 10:32:05",
+  "updateTime": "2026-07-19 11:02:11",
   "data": [
     {
       "mgdbId": "120000582559",
@@ -242,7 +242,7 @@
         },
         {
           "pID": "966281333",
-          "name": "全场回放��智能解说）"
+          "name": "全场回放（智能解说）"
         }
       ]
     },
@@ -536,14 +536,14 @@
     },
     {
       "mgdbId": "120000583265",
-      "pID": "966261982",
+      "pID": "966284508",
       "title": "NBA夏季联赛",
       "keyword": "07月19日08:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/18/77I1LCO0M24H.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/19/77I2KII9GG5F.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "勇士VS湖人",
       "modifyTitle": "NBA夏季联赛",
@@ -553,12 +553,24 @@
       },
       "nodes": [
         {
-          "pID": "966261982",
-          "name": "王冠证"
+          "pID": "966285033",
+          "name": "全场回放（王冠证）"
         },
         {
-          "pID": "966261994",
-          "name": "英文原声"
+          "pID": "966281913",
+          "name": "第一节"
+        },
+        {
+          "pID": "966283164",
+          "name": "第二节"
+        },
+        {
+          "pID": "966283177",
+          "name": "第三节"
+        },
+        {
+          "pID": "966284885",
+          "name": "第四节"
         }
       ]
     },
@@ -612,14 +624,14 @@
     },
     {
       "mgdbId": "120000583266",
-      "pID": "966261997",
+      "pID": "966284958",
       "title": "NBA夏季联赛",
       "keyword": "07月19日09:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/18/77I1LEIKPEFK.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/19/77I2KJVJG6LI.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "步行者VS鹈鹕",
       "modifyTitle": "NBA夏季联赛",
@@ -629,12 +641,20 @@
       },
       "nodes": [
         {
-          "pID": "966261997",
-          "name": "姜帆"
+          "pID": "966282751",
+          "name": "第一节"
         },
         {
-          "pID": "966262009",
-          "name": "英文原声"
+          "pID": "966283151",
+          "name": "第二节"
+        },
+        {
+          "pID": "966284621",
+          "name": "第三节"
+        },
+        {
+          "pID": "966285101",
+          "name": "第四节"
         }
       ]
     },
@@ -732,10 +752,10 @@
       "title": "龙蟒冲决赛 黄友政/向鹏PK袁励岑/徐瑛彬",
       "keyword": "07月19日11:00",
       "sportItemId": "7",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "全国乒乓球锦标赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/18/77I1NPLA3CLT.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/19/77I2KKSPLG0G.jpg",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/09/77HPGC5HO61T.png",
       "pkInfoTitle": "龙蟒冲决赛 黄友政/向鹏PK袁励岑/徐瑛彬",
       "modifyTitle": "全国乒乓球锦标赛男双、女双半决赛",
@@ -846,6 +866,30 @@
       "nodes": [
         {
           "pID": "966166486",
+          "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000583336",
+      "pID": "966284838",
+      "title": "U17女篮世界杯15-16名排位赛",
+      "keyword": "07月19日16:30",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "U17女篮世界杯",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000583336/202607191033_119432_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/09/77HPETPFSE8E.jpg",
+      "pkInfoTitle": "墨西哥vs科特迪瓦",
+      "modifyTitle": "U17女篮世界杯15-16名排位赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "07月19日16:30"
+      },
+      "nodes": [
+        {
+          "pID": "966284838",
           "name": "赛场原声"
         }
       ]
@@ -975,6 +1019,30 @@
         {
           "pID": "965835421",
           "name": "2026赛季甘肃省足球超级联赛第六轮: 兰州新区VS武威"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000583337",
+      "pID": "966284843",
+      "title": "U17女篮世界杯7-8名排位赛",
+      "keyword": "07月19日17:30",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "U17女篮世界杯",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000583337/202607191051_637919_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/09/77HPETPFSE8E.jpg",
+      "pkInfoTitle": "斯洛文尼亚vs日本",
+      "modifyTitle": "U17女篮世界杯7-8名排位赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "07月19日17:30"
+      },
+      "nodes": [
+        {
+          "pID": "966284843",
+          "name": "赛场原声"
         }
       ]
     },
@@ -1146,6 +1214,30 @@
       "nodes": [
         {
           "pID": "966179423",
+          "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000583338",
+      "pID": "966284854",
+      "title": "U17女篮世界杯11-12名排位赛",
+      "keyword": "07月19日19:00",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "U17女篮世界杯",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000583338/202607191040_862109_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/09/77HPETPFSE8E.jpg",
+      "pkInfoTitle": "拉脱维亚vs哥伦比亚",
+      "modifyTitle": "U17女篮世界杯11-12名排位赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "07月19日19:00"
+      },
+      "nodes": [
+        {
+          "pID": "966284854",
           "name": "赛场原声"
         }
       ]
@@ -1460,6 +1552,34 @@
       ]
     },
     {
+      "mgdbId": "120000583339",
+      "pID": "966284866",
+      "title": "U17女篮世界杯5-6名排位赛",
+      "keyword": "07月19日20:15",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "U17女篮世界杯",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000583339/202607191052_272754_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/09/77HPETPFSE8E.jpg",
+      "pkInfoTitle": "中国vs新西兰",
+      "modifyTitle": "U17女篮世界杯5-6名排位赛",
+      "presenters": "吕程",
+      "matchInfo": {
+        "time": "07月19日20:15"
+      },
+      "nodes": [
+        {
+          "pID": "966284866",
+          "name": "吕程"
+        },
+        {
+          "pID": "966284877",
+          "name": "赛场原声"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000582406",
       "pID": "966033632",
       "title": "里森贝克站LGCT大奖赛",
@@ -1569,6 +1689,30 @@
       ]
     },
     {
+      "mgdbId": "120000583340",
+      "pID": "966284890",
+      "title": "U17女篮世界杯9-10名排位赛",
+      "keyword": "07月19日21:30",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "U17女篮世界杯",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000583340/202607191040_233924_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/09/77HPETPFSE8E.jpg",
+      "pkInfoTitle": "意大利vs埃及",
+      "modifyTitle": "U17女篮世界杯9-10名排位赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "07月19日21:30"
+      },
+      "nodes": [
+        {
+          "pID": "966284890",
+          "name": "赛场原声"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000582556",
       "pID": "966088021",
       "title": "WTA雅西站决赛：谢里芙 vs 巴多萨",
@@ -1581,11 +1725,15 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
       "pkInfoTitle": "谢里芙 vs 巴多萨",
       "modifyTitle": "WTA雅西站决赛：谢里芙 vs 巴多萨",
-      "presenters": "",
+      "presenters": "宋光振",
       "matchInfo": {
         "time": "07月19日22:30"
       },
       "nodes": [
+        {
+          "pID": "966284740",
+          "name": "宋光振"
+        },
         {
           "pID": "966088021",
           "name": "赛场原声"
@@ -1593,6 +1741,34 @@
         {
           "pID": "966088102",
           "name": "英文原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000583341",
+      "pID": "966284905",
+      "title": "U17女篮世界杯季军赛",
+      "keyword": "07月19日23:15",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "U17女篮世界杯",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000583341/202607191038_148361_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/09/77HPETPFSE8E.jpg",
+      "pkInfoTitle": "加拿大vs澳大利亚",
+      "modifyTitle": "U17女篮世界杯季军赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "07月19日23:15"
+      },
+      "nodes": [
+        {
+          "pID": "966284905",
+          "name": "英文解说"
+        },
+        {
+          "pID": "966284914",
+          "name": "赛场原声"
         }
       ]
     }
