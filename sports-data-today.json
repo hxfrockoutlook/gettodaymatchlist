@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-19 08:02:10",
+  "updateTime": "2026-07-19 08:31:50",
   "data": [
     {
       "mgdbId": "120000582559",
@@ -197,6 +197,10 @@
           "name": "纯享版回放（詹俊、张路、孙葆洁、魏欣怡）"
         },
         {
+          "pID": "966281290",
+          "name": "全场回放（苏东、刘越、孙继海、程思钦）"
+        },
+        {
           "pID": "966281073",
           "name": "全场回放（詹俊、张路、孙葆洁、魏欣怡）"
         },
@@ -209,24 +213,32 @@
           "name": "全场回放（刘焕、贺宇）"
         },
         {
-          "pID": "966281085",
-          "name": "全场回放（江忠德）"
-        },
-        {
           "pID": "966281011",
           "name": "全场回放（林梦鸽）"
         },
         {
+          "pID": "966281181",
+          "name": "全场回放（鹿中原、乔迁）"
+        },
+        {
+          "pID": "966281085",
+          "name": "粤语回放（江忠德）"
+        },
+        {
           "pID": "966281114",
-          "name": "全场回放（洪荒）"
+          "name": "闽南语回放（洪荒）"
         },
         {
           "pID": "966281210",
-          "name": "全场回放（陈渤胄）"
+          "name": "沪语回放（陈渤胄）"
         },
         {
-          "pID": "966281181",
-          "name": "全场回放（鹿中原、乔迁）"
+          "pID": "966281329",
+          "name": "全场回放（AI智慧观赛）"
+        },
+        {
+          "pID": "966281333",
+          "name": "全场回放（智能解说）"
         }
       ]
     },
@@ -281,6 +293,10 @@
           "name": "全场集锦"
         },
         {
+          "pID": "966280897",
+          "name": "全场回放（徐秦威）"
+        },
+        {
           "pID": "966278760",
           "name": "第一节"
         },
@@ -328,14 +344,14 @@
     },
     {
       "mgdbId": "120000583263",
-      "pID": "966261954",
+      "pID": "966281095",
       "title": "NBA夏季联赛",
       "keyword": "07月19日06:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/18/77I1LED5E61R.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/19/77I2JUT5B2IR.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "火箭VS灰熊",
       "modifyTitle": "NBA夏季联赛",
@@ -345,12 +361,16 @@
       },
       "nodes": [
         {
-          "pID": "966261954",
-          "name": "周鹏"
+          "pID": "966280987",
+          "name": "第一节"
         },
         {
-          "pID": "966261965",
-          "name": "英文原声"
+          "pID": "966280989",
+          "name": "第二节"
+        },
+        {
+          "pID": "966281278",
+          "name": "第三节"
         }
       ]
     },
@@ -436,7 +456,7 @@
       "title": "NBA夏季联赛",
       "keyword": "07月19日08:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/18/77I1LCO0M24H.jpg",
@@ -560,7 +580,7 @@
     },
     {
       "mgdbId": "120000582854",
-      "pID": "966164919",
+      "pID": "966273145",
       "title": "凤凰混双争冠 凡贤稍后登场",
       "keyword": "07月19日10:00",
       "sportItemId": "6",
@@ -569,13 +589,17 @@
       "competitionName": "BWF",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/18/77I1N7IUHRUR.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
-      "pkInfoTitle": "凤凰混双争冠 凡贤稍后登场",
+      "pkInfoTitle": "凤凰���双争冠 凡贤稍后登场",
       "modifyTitle": "日本羽毛球公开赛决赛：凤凰混双争冠 凡贤稍后登场",
-      "presenters": "鸿昆 余博洋",
+      "presenters": "鸿昆",
       "matchInfo": {
         "time": "07月19日10:00"
       },
       "nodes": [
+        {
+          "pID": "966273145",
+          "name": "冯彦哲/黄东萍VS邓俊文/谢影雪"
+        },
         {
           "pID": "966164919",
           "name": "1号场地"
@@ -583,26 +607,6 @@
         {
           "pID": "966164927",
           "name": "1号场地英文视角"
-        },
-        {
-          "pID": "966273145",
-          "name": "冯彦哲/黄东萍VS邓俊文/谢影雪"
-        },
-        {
-          "pID": "966273175",
-          "name": "辛杜VS山口茜"
-        },
-        {
-          "pID": "966273213",
-          "name": "小波波夫VS渡边航贵"
-        },
-        {
-          "pID": "966273243",
-          "name": "金慧贞/孔熙容VS贾一凡/张殊贤"
-        },
-        {
-          "pID": "966273269",
-          "name": "金元浩/徐承宰VS阿尔菲安/菲克里"
         }
       ]
     },
