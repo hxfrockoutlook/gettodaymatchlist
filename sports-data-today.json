@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-20 04:01:20",
+  "updateTime": "2026-07-20 04:31:19",
   "data": [
     {
       "mgdbId": "120000583342",
@@ -51,13 +51,17 @@
         {
           "pID": "966296527",
           "name": "全场回放（房朕）"
+        },
+        {
+          "pID": "966297322",
+          "name": "全场回放"
         }
       ]
     },
     {
       "mgdbId": "120000583011",
       "pID": "966168986",
-      "title": "白雨露登场 许医尘PK罗泽涛",
+      "title": "白雨露登场 刘文玮vs黄佳浩",
       "keyword": "07月20日02:00",
       "sportItemId": "8",
       "matchStatus": "1",
@@ -65,8 +69,8 @@
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/18/77I1NMLL8TS8.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "白雨露登场 许医尘PK罗泽涛",
-      "modifyTitle": "斯诺克深圳公开赛资格赛第一轮：白雨露登场 许医尘PK罗泽涛",
+      "pkInfoTitle": "白雨露登场 刘文玮vs黄佳浩",
+      "modifyTitle": "斯诺克深圳公开赛资格赛第一轮：白雨露登场 刘文玮vs黄佳浩",
       "presenters": "",
       "matchInfo": {
         "time": "07月20日02:00"
@@ -91,10 +95,6 @@
         {
           "pID": "966169039",
           "name": "五号桌"
-        },
-        {
-          "pID": "966169050",
-          "name": "六号桌"
         },
         {
           "pID": "966169072",
@@ -132,11 +132,11 @@
     },
     {
       "mgdbId": "120000583343",
-      "pID": "966284934",
+      "pID": "965605708",
       "title": "U17女篮世界杯决赛",
       "keyword": "07月20日02:15",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "U17女篮世界杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/19/77I2III8VOJ9.png",
@@ -148,6 +148,10 @@
         "time": "07月20日02:15"
       },
       "nodes": [
+        {
+          "pID": "965605708",
+          "name": "女篮新星集结亮相世界舞台！U17女篮世界杯球队巡礼来袭"
+        },
         {
           "pID": "966284934",
           "name": "英文解说"
@@ -221,8 +225,28 @@
           "name": "阿根廷队视角"
         },
         {
+          "pID": "966282435",
+          "name": "西班牙队视角"
+        },
+        {
           "pID": "966282008",
           "name": "CCTV5"
+        },
+        {
+          "pID": "966282457",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "966282330",
+          "name": "最佳观赛位"
+        },
+        {
+          "pID": "966282363",
+          "name": "我在主席台看球"
+        },
+        {
+          "pID": "966282260",
+          "name": "开天眼了！"
         },
         {
           "pID": "966282472",
@@ -243,20 +267,16 @@
         {
           "pID": "966282062",
           "name": "沪语智能字幕"
-        },
-        {
-          "pID": "966282457",
-          "name": "赛场原声"
         }
       ]
     },
     {
       "mgdbId": "120000583347",
-      "pID": "966288954",
+      "pID": "966297383",
       "title": "BIG3",
       "keyword": "07月20日03:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "BIG3",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/19/77I2IJACIIQF.png",
@@ -269,12 +289,8 @@
       },
       "nodes": [
         {
-          "pID": "966288954",
-          "name": "邵化谦"
-        },
-        {
-          "pID": "966288963",
-          "name": "英文原声"
+          "pID": "966297383",
+          "name": "全场回放（邵化谦）"
         }
       ]
     },
@@ -312,7 +328,7 @@
       "title": "NBA夏季联赛",
       "keyword": "07月20日04:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/19/77I2KR4DNJKE.jpg",
