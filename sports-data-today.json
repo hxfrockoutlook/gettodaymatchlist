@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-19 22:02:31",
+  "updateTime": "2026-07-19 22:32:36",
   "data": [
     {
       "mgdbId": "120000582559",
@@ -707,6 +707,10 @@
         {
           "pID": "966291252",
           "name": "2025-2026赛季APBA匹克球公开赛单项总决赛Day4全场回放（赛场原声）（二）"
+        },
+        {
+          "pID": "966293689",
+          "name": "2025-2026赛季APBA匹克球公开赛单项总决赛Day4全场回放（赛场原声）（三）"
         }
       ]
     },
@@ -730,7 +734,7 @@
       "nodes": [
         {
           "pID": "966285298",
-          "name": "全场集锦"
+          "name": "���场集锦"
         },
         {
           "pID": "966285267",
@@ -1181,8 +1185,8 @@
       },
       "nodes": [
         {
-          "pID": "966034067",
-          "name": "赛场原声"
+          "pID": "966293452",
+          "name": "全场回放"
         }
       ]
     },
@@ -1309,8 +1313,8 @@
       },
       "nodes": [
         {
-          "pID": "966227580",
-          "name": "解说"
+          "pID": "966293371",
+          "name": "全场回放"
         }
       ]
     },
@@ -1333,8 +1337,8 @@
       },
       "nodes": [
         {
-          "pID": "966227567",
-          "name": "解说"
+          "pID": "966293724",
+          "name": "全场回放（官方解说）"
         }
       ]
     },
@@ -1357,8 +1361,8 @@
       },
       "nodes": [
         {
-          "pID": "966164523",
-          "name": "赛场原声"
+          "pID": "966293513",
+          "name": "2026浙江省城市篮球联赛全场回放：余杭VS萧山（赛场原声）"
         }
       ]
     },
@@ -1405,12 +1409,12 @@
       },
       "nodes": [
         {
-          "pID": "966293155",
-          "name": "全场回放"
-        },
-        {
           "pID": "966293260",
           "name": "全场集锦"
+        },
+        {
+          "pID": "966293155",
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
@@ -1492,7 +1496,7 @@
       "matchStatus": "2",
       "matchField": "临平体育中心体育场",
       "competitionName": "中乙",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000571934/202603120914_370953_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000571934/202607192216_661989_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/7/7/1000000011571060f297.png",
       "pkInfoTitle": "杭州临平吴越 vs 成都蓉城B队",
       "modifyTitle": "中乙联赛",
@@ -1503,30 +1507,6 @@
       "nodes": [
         {
           "pID": "966227603",
-          "name": "解说"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000571935",
-      "pID": "966227593",
-      "title": "中乙联赛",
-      "keyword": "07月19日19:30",
-      "sportItemId": "1",
-      "matchStatus": "1",
-      "matchField": "珂缔缘赛事中心体育场",
-      "competitionName": "中乙",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000571935/202607081137_255433_H169_1080.webp",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/7/7/1000000011571060f297.png",
-      "pkInfoTitle": "海门珂缔缘 vs 兰州陇原竞技",
-      "modifyTitle": "中乙联赛",
-      "presenters": "",
-      "matchInfo": {
-        "time": "07月19日19:30"
-      },
-      "nodes": [
-        {
-          "pID": "966227593",
           "name": "解说"
         }
       ]
@@ -1598,14 +1578,14 @@
       },
       "nodes": [
         {
-          "pID": "966164503",
-          "name": "赛场原声"
+          "pID": "966293729",
+          "name": "2026浙江省城市篮球联赛全场回放：常山VS江山（赛场原声）"
         }
       ]
     },
     {
       "mgdbId": "120000582949",
-      "pID": "966167642",
+      "pID": "966293431",
       "title": "大连文体旅105-84北京大学",
       "keyword": "07月19日19:30",
       "sportItemId": "2",
@@ -1622,14 +1602,14 @@
       },
       "nodes": [
         {
-          "pID": "966167642",
-          "name": "清流播出"
+          "pID": "966293431",
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
     {
       "mgdbId": "120000582950",
-      "pID": "966167610",
+      "pID": "966293406",
       "title": "石家庄英励75-86上海交通大学",
       "keyword": "07月19日19:30",
       "sportItemId": "2",
@@ -1646,8 +1626,8 @@
       },
       "nodes": [
         {
-          "pID": "966167610",
-          "name": "清流播出"
+          "pID": "966293406",
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
@@ -1694,16 +1674,32 @@
       },
       "nodes": [
         {
-          "pID": "966292534",
-          "name": "篮下巨无霸！庞云舒连摘前场板碾压打进"
-        },
+          "pID": "966293487",
+          "name": "全场回放"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000571935",
+      "pID": "966227593",
+      "title": "中乙联赛",
+      "keyword": "07月19日20:30",
+      "sportItemId": "1",
+      "matchStatus": "1",
+      "matchField": "珂缔缘赛事中心体育场",
+      "competitionName": "中乙",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000571935/202607081137_255433_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/7/7/1000000011571060f297.png",
+      "pkInfoTitle": "海门珂缔缘 vs 兰州陇原竞技",
+      "modifyTitle": "中乙联赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "07月19日20:30"
+      },
+      "nodes": [
         {
-          "pID": "966284866",
-          "name": "吕程"
-        },
-        {
-          "pID": "966284877",
-          "name": "赛场原声"
+          "pID": "966227593",
+          "name": "解说"
         }
       ]
     },
@@ -1918,7 +1914,7 @@
       "title": "WTA雅西站决赛：谢里芙 vs 巴多萨",
       "keyword": "07月19日22:30",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/19/77I2IJEB7ABL.png",
