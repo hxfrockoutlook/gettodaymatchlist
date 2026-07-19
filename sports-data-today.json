@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-20 03:01:44",
+  "updateTime": "2026-07-20 03:31:19",
   "data": [
     {
       "mgdbId": "120000583342",
@@ -21,12 +21,12 @@
       },
       "nodes": [
         {
-          "pID": "966296013",
-          "name": "全场回放"
-        },
-        {
           "pID": "966295794",
           "name": "全场集锦"
+        },
+        {
+          "pID": "966296013",
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
@@ -36,7 +36,7 @@
       "title": "WTA雅典站决赛：萨卡里 vs 克雷吉茨科娃",
       "keyword": "07月20日01:00",
       "sportItemId": "9",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/20/77I3FDK392RK.jpg",
@@ -116,14 +116,14 @@
     },
     {
       "mgdbId": "120000583346",
-      "pID": "966288944",
+      "pID": "966296365",
       "title": "BIG3",
       "keyword": "07月20日02:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "BIG3",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/19/77I2IIJA0NUT.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/20/77I3FI1UV0I2.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/6/20/1000000014971069d7b4.jpeg",
       "pkInfoTitle": "迈阿密305 vs 达拉斯动力",
       "modifyTitle": "BIG3",
@@ -133,12 +133,8 @@
       },
       "nodes": [
         {
-          "pID": "966288944",
-          "name": "邵化谦"
-        },
-        {
-          "pID": "966288952",
-          "name": "英文原声"
+          "pID": "966296440",
+          "name": "全场回放（邵化谦）"
         }
       ]
     },
@@ -303,10 +299,6 @@
         {
           "pID": "966288963",
           "name": "英文原声"
-        },
-        {
-          "pID": "966290267",
-          "name": "智能字幕"
         }
       ]
     },
