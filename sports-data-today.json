@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-19 10:01:55",
+  "updateTime": "2026-07-19 10:32:05",
   "data": [
     {
       "mgdbId": "120000582559",
@@ -85,16 +85,16 @@
       },
       "nodes": [
         {
+          "pID": "966278352",
+          "name": "全场集锦"
+        },
+        {
           "pID": "966279172",
-          "name": "全场回放"
+          "name": "全场回放（英文解说）"
         },
         {
           "pID": "966279559",
-          "name": "全场回放"
-        },
-        {
-          "pID": "966278352",
-          "name": "全场集锦"
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
@@ -242,7 +242,7 @@
         },
         {
           "pID": "966281333",
-          "name": "全场回放（智能解说）"
+          "name": "全场回放��智能解说）"
         }
       ]
     },
@@ -301,6 +301,10 @@
           "name": "全场回放（徐秦威）"
         },
         {
+          "pID": "966283042",
+          "name": "全场回放（英文原声）"
+        },
+        {
           "pID": "966278760",
           "name": "第一节"
         },
@@ -321,15 +325,15 @@
     {
       "mgdbId": "120000576101",
       "pID": "966180849",
-      "title": "PFL奥斯汀：埃布伦VS卡桑加奈二番战",
+      "title": "埃布伦KO卡桑加奈夺临时腰带",
       "keyword": "07月19日05:30",
       "sportItemId": "5",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "PFL",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/18/77I1KT0FQDIH.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/3/31/100000001408106a8f70.png",
-      "pkInfoTitle": "PFL奥斯汀：埃布伦VS卡桑加奈二番战",
+      "pkInfoTitle": "埃布伦KO卡桑加奈夺临时腰带",
       "modifyTitle": "PFL奥斯汀：埃布伦VS卡桑加奈二番战",
       "presenters": "汪乐",
       "matchInfo": {
@@ -337,12 +341,52 @@
       },
       "nodes": [
         {
-          "pID": "966180849",
-          "name": "汪乐"
+          "pID": "966284227",
+          "name": "【主赛】（汪乐）"
         },
         {
-          "pID": "966180896",
-          "name": "英文原声"
+          "pID": "966283843",
+          "name": "埃布伦VS卡桑加奈"
+        },
+        {
+          "pID": "966282538",
+          "name": "埃文斯VS纳斯西门托"
+        },
+        {
+          "pID": "966282307",
+          "name": "洛克伦VS阿尔斯"
+        },
+        {
+          "pID": "966282449",
+          "name": "皮内多VS萨拉扎"
+        },
+        {
+          "pID": "966281172",
+          "name": "【副赛】（汪乐）"
+        },
+        {
+          "pID": "966282089",
+          "name": "【副赛】（英文原声）"
+        },
+        {
+          "pID": "966281082",
+          "name": "沃尔什VS希兹里耶夫"
+        },
+        {
+          "pID": "966280895",
+          "name": "瓦斯克斯VS萨维切娃"
+        },
+        {
+          "pID": "966280175",
+          "name": "格拉维VS西纳"
+        },
+        {
+          "pID": "966279431",
+          "name": "格拉斯VS弗莱萨斯"
+        },
+        {
+          "pID": "966279277",
+          "name": "阿尔巴VS茨尔茨瓦泽"
         }
       ]
     },
@@ -371,6 +415,10 @@
         {
           "pID": "966281735",
           "name": "全场回放（周鹏）"
+        },
+        {
+          "pID": "966283000",
+          "name": "全场回放（英文原声）"
         },
         {
           "pID": "966280987",
@@ -415,6 +463,10 @@
         {
           "pID": "966281976",
           "name": "全场回放（孙博）"
+        },
+        {
+          "pID": "966283938",
+          "name": "全场回放（英文原声）"
         },
         {
           "pID": "966281016",
@@ -648,7 +700,7 @@
       "title": "NBA夏季联赛",
       "keyword": "07月19日10:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/18/77I1LEGSDTTH.jpg",
