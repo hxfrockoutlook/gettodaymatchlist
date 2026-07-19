@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-20 04:31:19",
+  "updateTime": "2026-07-20 05:01:18",
   "data": [
     {
       "mgdbId": "120000583342",
@@ -55,6 +55,10 @@
         {
           "pID": "966297322",
           "name": "全场回放"
+        },
+        {
+          "pID": "966297545",
+          "name": "全场回放"
         }
       ]
     },
@@ -87,10 +91,6 @@
         {
           "pID": "966169010",
           "name": "三号桌"
-        },
-        {
-          "pID": "966169018",
-          "name": "四号桌"
         },
         {
           "pID": "966169039",
@@ -356,7 +356,7 @@
       "title": "BIG3",
       "keyword": "07月20日05:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "BIG3",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/19/77I2IPHN7KVR.png",
