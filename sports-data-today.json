@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-20 13:01:22",
+  "updateTime": "2026-07-20 13:31:19",
   "data": [
     {
       "mgdbId": "120000583342",
@@ -282,7 +282,7 @@
         },
         {
           "pID": "966297757",
-          "name": "全场回放（英文原声���"
+          "name": "全场回放（英文原声）"
         }
       ]
     },
@@ -756,6 +756,30 @@
       ]
     },
     {
+      "mgdbId": "120000583362",
+      "pID": "966305000",
+      "title": "钱塘VS建德",
+      "keyword": "07月20日19:00",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "浙BA",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/7/16/1000000012931063812e.png",
+      "pkInfoTitle": "钱塘VS建德",
+      "modifyTitle": "浙BA杭州赛区",
+      "presenters": "",
+      "matchInfo": {
+        "time": "07月20日19:00"
+      },
+      "nodes": [
+        {
+          "pID": "966305000",
+          "name": "赛场原声"
+        }
+      ]
+    },
+    {
       "mgdbId": "300000002158",
       "pID": "965274061",
       "title": "《绿茵狂想》第34期",
@@ -809,7 +833,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "全国女子篮球锦标赛",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/20/77I3F1FE409F.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/7/13/10000000109310670724.png",
       "pkInfoTitle": "山西竹叶青酒vs浙江稠州银行",
       "modifyTitle": "全国女子篮球锦标赛",
@@ -821,6 +845,30 @@
         {
           "pID": "966167545",
           "name": "清流播出"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000583363",
+      "pID": "966305027",
+      "title": "洞头VS永嘉",
+      "keyword": "07月20日19:30",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "浙BA",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/7/16/1000000012931063812e.png",
+      "pkInfoTitle": "洞头VS永嘉",
+      "modifyTitle": "浙BA温州赛区",
+      "presenters": "",
+      "matchInfo": {
+        "time": "07月20日19:30"
+      },
+      "nodes": [
+        {
+          "pID": "966305027",
+          "name": "赛场原声"
         }
       ]
     },
