@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-20 13:31:19",
+  "updateTime": "2026-07-20 14:01:25",
   "data": [
     {
       "mgdbId": "120000583342",
@@ -282,7 +282,7 @@
         },
         {
           "pID": "966297757",
-          "name": "全场回放（英文原声）"
+          "name": "全场回放（英文原声���"
         }
       ]
     },
@@ -502,6 +502,10 @@
       "matchInfo": {},
       "nodes": [
         {
+          "pID": "966305593",
+          "name": "《人机大战：谁是世界杯预言家》第20期：复盘西阿决赛 盘点预言对错"
+        },
+        {
           "pID": "966304847",
           "name": "都是真爱！苏东：爱足球的人永远阳光永远积极向上"
         },
@@ -553,7 +557,7 @@
       "title": "北京首钢vs大连文体旅",
       "keyword": "07月20日14:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "全国女子篮球锦标赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/19/77I2IECB9RK3.jpg",
@@ -868,6 +872,54 @@
       "nodes": [
         {
           "pID": "966305027",
+          "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000583364",
+      "pID": "966305064",
+      "title": "长兴VS吴兴",
+      "keyword": "07月20日19:30",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "浙BA",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/7/16/1000000012931063812e.png",
+      "pkInfoTitle": "长兴VS吴兴",
+      "modifyTitle": "浙BA湖州赛区",
+      "presenters": "",
+      "matchInfo": {
+        "time": "07月20日19:30"
+      },
+      "nodes": [
+        {
+          "pID": "966305064",
+          "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000583365",
+      "pID": "966305101",
+      "title": "庆元VS遂昌",
+      "keyword": "07月20日19:30",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "浙BA",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/7/16/1000000012931063812e.png",
+      "pkInfoTitle": "庆元VS遂昌",
+      "modifyTitle": "浙BA丽水赛区",
+      "presenters": "",
+      "matchInfo": {
+        "time": "07月20日19:30"
+      },
+      "nodes": [
+        {
+          "pID": "966305101",
           "name": "赛场原声"
         }
       ]
