@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-21 13:01:23",
+  "updateTime": "2026-07-21 13:31:16",
   "data": [
     {
       "mgdbId": "120000583014",
@@ -99,6 +99,30 @@
         {
           "pID": "966167535",
           "name": "清流播出"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000583504",
+      "pID": "966321099",
+      "title": "首日32强对决！国羽主场出击",
+      "keyword": "07月21日14:00",
+      "sportItemId": "6",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "中国羽毛球公开赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/21/77I4FCL7MK8K.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/9/17/1000000012291064f891.png",
+      "pkInfoTitle": "首日32强对决！国羽主场出击",
+      "modifyTitle": "中国羽毛球公开赛第一轮：首日32强对决！国羽主场出击",
+      "presenters": "",
+      "matchInfo": {
+        "time": "07月21日14:00"
+      },
+      "nodes": [
+        {
+          "pID": "966321099",
+          "name": "CCTV5+"
         }
       ]
     },
@@ -215,11 +239,15 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "蓝裕豪PK桑坎姆 黄佳浩、罗泽涛出战",
       "modifyTitle": "斯诺克深圳公开赛资格赛第二轮：蓝裕豪PK桑坎姆 黄佳浩、罗泽涛出战",
-      "presenters": "",
+      "presenters": "孙嘉星",
       "matchInfo": {
         "time": "07月21日17:00"
       },
       "nodes": [
+        {
+          "pID": "966322526",
+          "name": "孙嘉星"
+        },
         {
           "pID": "966168892",
           "name": "一号桌"
@@ -667,11 +695,15 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "常冰玉、徐思出战 贺国强PK吕昊天",
       "modifyTitle": "斯诺克深圳公开赛资格赛第二轮：常冰玉、徐思出战 贺国强PK吕昊天",
-      "presenters": "",
+      "presenters": "柏林",
       "matchInfo": {
         "time": "07月21日23:00"
       },
       "nodes": [
+        {
+          "pID": "966322528",
+          "name": "柏林"
+        },
         {
           "pID": "966168984",
           "name": "一号桌"
