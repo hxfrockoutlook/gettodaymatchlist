@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-22 17:01:21",
+  "updateTime": "2026-07-22 17:31:17",
   "data": [
     {
       "mgdbId": "120000583078",
@@ -72,7 +72,7 @@
       "title": "首届北京市中学生人形机器人足球赛DAY2",
       "keyword": "07月22日13:30",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "机器人足球赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/21/77I4EE1T9F6T.jpg",
@@ -96,7 +96,7 @@
       "title": "围甲联赛第8轮",
       "keyword": "07月22日14:00",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "中国围棋甲级联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/21/77I4E5BQEEIU.jpg",
@@ -117,24 +117,32 @@
     {
       "mgdbId": "120000583506",
       "pID": "966321505",
-      "title": "梁王组合速胜晋级 王祉怡逆转取胜",
+      "title": "凤凰组合顺利晋级 王祉怡逆转取胜",
       "keyword": "07月22日14:00",
       "sportItemId": "6",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "中国羽毛球公开赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/22/77I59SL23E2R.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/22/77I5ABTCVFS9.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/9/17/1000000012291064f891.png",
-      "pkInfoTitle": "梁王组合速胜晋级 王祉怡逆转取胜",
-      "modifyTitle": "中国羽毛球公开赛-梁王组合速胜晋级 王祉怡逆转取胜",
+      "pkInfoTitle": "凤凰组合顺利晋级 王祉怡逆转取胜",
+      "modifyTitle": "中国羽毛球公开赛-凤凰组合顺利晋级 王祉怡逆转取胜",
       "presenters": "",
       "matchInfo": {
         "time": "07月22日14:00"
       },
       "nodes": [
         {
-          "pID": "966321505",
-          "name": "CCTV5+"
+          "pID": "966339214",
+          "name": "【集锦】王祉怡2-1吉尔莫"
+        },
+        {
+          "pID": "966338827",
+          "name": "【集锦】昆拉武特1-2格姆克"
+        },
+        {
+          "pID": "966340219",
+          "name": "【集锦】贾一凡/张殊贤0-2阿莱西娅/费比组合"
         }
       ]
     },
@@ -165,16 +173,16 @@
     {
       "mgdbId": "120000583507",
       "pID": "966321582",
-      "title": "意大利队VS荷兰队",
+      "title": "意大利队3-0荷兰队",
       "keyword": "07月22日16:00",
       "sportItemId": "3",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "世界女排联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/22/77I59GS6G775.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2022/7/6/100000000122106b0b65.png",
-      "pkInfoTitle": "意大利队VS荷兰队",
-      "modifyTitle": "世界女排联赛1/4决赛：意大利队VS荷兰队",
+      "pkInfoTitle": "意大利队3-0荷兰队",
+      "modifyTitle": "世界女排联赛1/4决赛：意大利队3-0荷兰队",
       "presenters": "",
       "matchInfo": {
         "time": "07月22日16:00"
@@ -212,7 +220,7 @@
     },
     {
       "mgdbId": "120000583017",
-      "pID": "966169153",
+      "pID": "966169200",
       "title": "周跃龙、雷佩凡、塔猜亚领衔出战",
       "keyword": "07月22日17:00",
       "sportItemId": "8",
@@ -233,12 +241,8 @@
           "name": "孙嘉星"
         },
         {
-          "pID": "966169153",
-          "name": "一号桌"
-        },
-        {
-          "pID": "966169165",
-          "name": "二号桌"
+          "pID": "966169200",
+          "name": "六号桌"
         },
         {
           "pID": "966169178",
@@ -253,16 +257,20 @@
           "name": "五号桌"
         },
         {
-          "pID": "966169200",
-          "name": "六号桌"
+          "pID": "966169230",
+          "name": "八号桌"
+        },
+        {
+          "pID": "966169153",
+          "name": "一号桌"
+        },
+        {
+          "pID": "966169165",
+          "name": "二号桌"
         },
         {
           "pID": "966169212",
           "name": "七号桌"
-        },
-        {
-          "pID": "966169230",
-          "name": "八号桌"
         }
       ]
     },
