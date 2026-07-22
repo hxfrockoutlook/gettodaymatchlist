@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-22 15:31:14",
+  "updateTime": "2026-07-22 16:01:21",
   "data": [
     {
       "mgdbId": "120000583078",
@@ -47,7 +47,7 @@
       "matchStatus": "2",
       "matchField": "",
       "competitionName": "中国羽毛球公开赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/21/77I4F3SP3D5D.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/22/77I59SIAK2F2.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/9/17/1000000012291064f891.png",
       "pkInfoTitle": "主场作战！凤凰组合零封晋级",
       "modifyTitle": "中国羽毛球公开赛-主场作战！凤凰组合零封晋级",
@@ -123,7 +123,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "中国羽毛球公开赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/21/77I4F494CM5Q.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/22/77I59SL23E2R.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/9/17/1000000012291064f891.png",
       "pkInfoTitle": "国羽女双内战！梁王组合出战",
       "modifyTitle": "中国羽毛球公开赛-国羽女双内战！梁王组合出战",
@@ -168,7 +168,7 @@
       "title": "意大利队VS荷兰队",
       "keyword": "07月22日16:00",
       "sportItemId": "3",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "世界女排联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/22/77I59GS6G775.jpg",
@@ -460,21 +460,27 @@
     },
     {
       "mgdbId": "120000583508",
+      "pID": "966321622",
       "title": "巴西队VS日本队",
       "keyword": "07月22日19:30",
       "sportItemId": "3",
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "世界女排联赛",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/22/77I59RV0QOJJ.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2022/7/6/100000000122106b0b65.png",
       "pkInfoTitle": "巴西队VS日本队",
-      "modifyTitle": "世界女排联赛总决赛1/4决赛 巴西队VS日本队",
+      "modifyTitle": "世界女排联赛总决赛1/4决赛：巴西队VS日本队",
       "presenters": "",
       "matchInfo": {
         "time": "07月22日19:30"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "966321622",
+          "name": "CCTV5"
+        }
+      ]
     },
     {
       "mgdbId": "120000581205",
