@@ -1,10 +1,10 @@
 {
   "success": true,
-  "updateTime": "2026-07-25 14:03:02",
+  "updateTime": "2026-07-25 14:32:47",
   "data": [
     {
       "mgdbId": "120000583087",
-      "pID": "966378116",
+      "pID": "966198080",
       "title": "达科晋级男单16强 雨果3-0贝塔斯迈尔",
       "keyword": "07月25日04:00",
       "sportItemId": "7",
@@ -31,6 +31,14 @@
         {
           "pID": "966379434",
           "name": "全场回放（四号桌）"
+        },
+        {
+          "pID": "966382997",
+          "name": "2026WTT巴西球星挑战赛Day4凌晨场三号桌全场回放（赛场原声）"
+        },
+        {
+          "pID": "966383047",
+          "name": "2026WTT巴西球星挑战赛男单1/16决赛回放：雨果3-0贝塔斯迈尔（樊欣阳）"
         }
       ]
     },
@@ -103,6 +111,10 @@
         {
           "pID": "966381865",
           "name": "【集锦】郭新娃/陈芳卉2-0德差波/苏皮萨拉"
+        },
+        {
+          "pID": "966382865",
+          "name": "【集锦】山口茜2-1王祉怡"
         }
       ]
     },
@@ -212,7 +224,7 @@
       "title": "陕西榆林天泽vs山东赤水河酒",
       "keyword": "07月25日14:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "全国女子篮球锦标赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/24/77I74UI1J7RL.jpg",
@@ -236,7 +248,7 @@
       "title": "第六届嵊州杯中国王中王围棋争霸赛",
       "keyword": "07月25日14:30",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "中国围棋协会系列赛事",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/24/77I756SCL0M1.jpg",
@@ -359,7 +371,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "斯诺克",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/25/77I80P43KCC5.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "傅家俊、白雨露、吴安仪出战",
       "modifyTitle": "斯诺克英格兰公开赛资格赛第一轮：傅家俊、白雨露、吴安仪出战",
@@ -577,7 +589,7 @@
       "keyword": "07月25日17:30",
       "sportItemId": "1",
       "matchStatus": "0",
-      "matchField": "青岛青春足球场",
+      "matchField": "青���青春足球场",
       "competitionName": "中超",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000569665/354690_H169_sc.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png",
@@ -1715,6 +1727,30 @@
         {
           "pID": "966364259",
           "name": "CCTV5"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000585185",
+      "pID": "966382799",
+      "title": "齐鲁超赛",
+      "keyword": "07月25日19:30",
+      "sportItemId": "1",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "齐鲁超赛",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/16/10000000144410687370.png",
+      "pkInfoTitle": "烟台队VS青岛平企联青春",
+      "modifyTitle": "齐鲁超赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "07月25日19:30"
+      },
+      "nodes": [
+        {
+          "pID": "966382799",
+          "name": "赛场原声"
         }
       ]
     },
