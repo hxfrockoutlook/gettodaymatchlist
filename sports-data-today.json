@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-26 16:02:03",
+  "updateTime": "2026-07-26 16:31:59",
   "data": [
     {
       "mgdbId": "120000583090",
@@ -252,7 +252,7 @@
     },
     {
       "mgdbId": "120000582987",
-      "pID": "966167589",
+      "pID": "966403821",
       "title": "山东赤水河酒69-61北京师范大学",
       "keyword": "07月26日10:00",
       "sportItemId": "2",
@@ -270,7 +270,7 @@
       "nodes": [
         {
           "pID": "966403821",
-          "name": "2026全国女子篮球锦标赛淄博赛区全场回放：山东赤水河酒vs北京师范大学（赛场原声）"
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
@@ -417,15 +417,15 @@
     {
       "mgdbId": "120000582990",
       "pID": "966340303",
-      "title": "黑龙江队vs陕西榆林天泽",
+      "title": "黑龙江队56-92陕西榆林天泽",
       "keyword": "07月26日14:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "全国女子篮球锦标赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/25/77I81VIRPP1N.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/7/13/10000000109310670724.png",
-      "pkInfoTitle": "黑龙江队vs陕西榆林天泽",
+      "pkInfoTitle": "黑龙江队56-92陕西榆林天泽",
       "modifyTitle": "全国女子篮球锦标赛",
       "presenters": "",
       "matchInfo": {
@@ -543,7 +543,7 @@
       "matchStatus": "1",
       "matchField": "Xiamen Sports Center Stadium",
       "competitionName": "中乙",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000571925/202607261627_471098_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/7/7/1000000011571060f297.png",
       "pkInfoTitle": "厦门飞鹭 vs 杭州临平吴越",
       "modifyTitle": "中乙联赛",
@@ -564,7 +564,7 @@
       "title": "中乙联赛",
       "keyword": "07月26日16:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "乐动力临港足球综合运动中心",
       "competitionName": "中乙",
       "padImg": "",
@@ -1541,7 +1541,7 @@
     {
       "mgdbId": "120000583186",
       "pID": "966218238",
-      "title": "WTA250布拉格站女单决赛",
+      "title": "WTA250布拉格站女单决赛：斯尼古尔 vs 塔格尔",
       "keyword": "07月26日20:00",
       "sportItemId": "9",
       "matchStatus": "0",
@@ -1550,12 +1550,16 @@
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/26/77I900N1T1EI.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
       "pkInfoTitle": "斯尼古尔 vs 塔格尔",
-      "modifyTitle": "WTA250布拉格站女单决赛",
+      "modifyTitle": "WTA250布拉格站女单决赛：斯尼古尔 vs 塔格尔",
       "presenters": "乔迁",
       "matchInfo": {
         "time": "07月26日20:00"
       },
       "nodes": [
+        {
+          "pID": "966404372",
+          "name": "乔迁"
+        },
         {
           "pID": "966218238",
           "name": "赛场原声"
@@ -1563,21 +1567,13 @@
         {
           "pID": "966218298",
           "name": "英文原声"
-        },
-        {
-          "pID": "966404354",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "966404372",
-          "name": "乔迁"
         }
       ]
     },
     {
       "mgdbId": "120000583190",
       "pID": "966218738",
-      "title": "WTA250汉堡站女单决赛",
+      "title": "WTA250汉堡站女单决赛：邦达尔 vs 科尔帕奇",
       "keyword": "07月26日20:00",
       "sportItemId": "9",
       "matchStatus": "0",
@@ -1586,12 +1582,16 @@
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/26/77I901KNDHOU.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
       "pkInfoTitle": "邦达尔 vs 科尔帕奇",
-      "modifyTitle": "WTA250汉堡站女单决赛",
+      "modifyTitle": "WTA250汉堡站女单决赛：邦达尔 vs 科尔帕奇",
       "presenters": "李宁",
       "matchInfo": {
         "time": "07月26日20:00"
       },
       "nodes": [
+        {
+          "pID": "966404192",
+          "name": "李宁"
+        },
         {
           "pID": "966218738",
           "name": "赛场原声"
@@ -1599,14 +1599,6 @@
         {
           "pID": "966218799",
           "name": "英文原声"
-        },
-        {
-          "pID": "966404185",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "966404192",
-          "name": "李宁"
         }
       ]
     },
