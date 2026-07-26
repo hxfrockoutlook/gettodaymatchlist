@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-26 18:31:58",
+  "updateTime": "2026-07-26 19:02:17",
   "data": [
     {
       "mgdbId": "120000583090",
@@ -184,7 +184,7 @@
       "title": "“乐宜里杯”U系列赛Day4",
       "keyword": "07月26日08:00",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "APBA匹克球全球总决赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/25/77I833V2DL3H.jpg",
@@ -197,8 +197,12 @@
       },
       "nodes": [
         {
-          "pID": "966343632",
-          "name": "清流播出"
+          "pID": "966404540",
+          "name": "APBA Pickleball Open 全球总决赛“乐宜里杯”U系列赛Day4全场回放（赛场原声）（一）"
+        },
+        {
+          "pID": "966407075",
+          "name": "APBA Pickleball Open 全球总决赛“乐宜里杯”U系列赛Day4全场回放（赛场原声）（二）"
         }
       ]
     },
@@ -420,7 +424,7 @@
     },
     {
       "mgdbId": "120000582990",
-      "pID": "966340303",
+      "pID": "966406538",
       "title": "黑龙江队56-92陕西榆林天泽",
       "keyword": "07月26日14:30",
       "sportItemId": "2",
@@ -438,7 +442,7 @@
       "nodes": [
         {
           "pID": "966406538",
-          "name": "2026全国女子篮球锦标赛淄博赛区全场回放：黑龙江队vs陕西榆林天泽（赛场原声）"
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
@@ -472,7 +476,7 @@
       "title": "中国自行车运动超级赛暨中国自由式小轮车联赛",
       "keyword": "07月26日15:00",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "中国自行车运动协会系列赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/25/77I82KT641JF.png",
@@ -557,8 +561,8 @@
       },
       "nodes": [
         {
-          "pID": "966370357",
-          "name": "解说"
+          "pID": "966407374",
+          "name": "全场回放"
         }
       ]
     },
@@ -589,15 +593,15 @@
     {
       "mgdbId": "120000582993",
       "pID": "966167621",
-      "title": "合肥文旅vs武汉盛帆黄鹤",
+      "title": "合肥文旅88-74武汉盛帆黄鹤",
       "keyword": "07月26日17:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "全国女子篮球锦标赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/25/77I82I6Q8ANV.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/7/13/10000000109310670724.png",
-      "pkInfoTitle": "合肥文旅vs武汉盛帆黄鹤",
+      "pkInfoTitle": "合肥文旅88-74武汉盛帆黄鹤",
       "modifyTitle": "全国女子篮球锦标赛",
       "presenters": "",
       "matchInfo": {
@@ -612,7 +616,7 @@
     },
     {
       "mgdbId": "120000583230",
-      "pID": "966239803",
+      "pID": "966239668",
       "title": "常冰玉、范争一、江俊出战",
       "keyword": "07月26日17:00",
       "sportItemId": "8",
@@ -629,16 +633,8 @@
       },
       "nodes": [
         {
-          "pID": "966239803",
-          "name": "6号桌"
-        },
-        {
           "pID": "966239668",
           "name": "1号桌"
-        },
-        {
-          "pID": "966239677",
-          "name": "2号桌"
         },
         {
           "pID": "966239754",
@@ -651,6 +647,14 @@
         {
           "pID": "966239830",
           "name": "8号桌"
+        },
+        {
+          "pID": "966239803",
+          "name": "6号桌"
+        },
+        {
+          "pID": "966239677",
+          "name": "2号桌"
         },
         {
           "pID": "966239719",
@@ -771,7 +775,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "乒超",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/26/77I8UTFTIT28.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/26/77I8V4OTJBN1.png",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/21/77I4DCD6FR90.png",
       "pkInfoTitle": "王楚钦率魏桥争胜 陈幸同领衔鲁能女团出战",
       "modifyTitle": "乒超常规赛第一阶段Day4下午场",
@@ -801,16 +805,16 @@
           "name": "6号桌"
         },
         {
+          "pID": "966342447",
+          "name": "5号桌"
+        },
+        {
           "pID": "966342146",
           "name": "3号桌"
         },
         {
           "pID": "966342056",
           "name": "1号桌"
-        },
-        {
-          "pID": "966342447",
-          "name": "5号桌"
         }
       ]
     },
@@ -820,7 +824,7 @@
       "title": "中超联赛",
       "keyword": "07月26日19:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "玉溪高原体育运动中心体育场",
       "competitionName": "中超",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000569661/186717_H169_sc.jpg",
@@ -852,7 +856,7 @@
       "title": "中甲联赛",
       "keyword": "07月26日19:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "金州体育场",
       "competitionName": "中甲",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000570621/202603010056_399696_H169_1080.webp",
@@ -880,7 +884,7 @@
       "title": "徽BA",
       "keyword": "07月26日19:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "徽BA",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000583630/202607221119_235362_H169_1080.webp",
@@ -904,7 +908,7 @@
       "title": "徽BA",
       "keyword": "07月26日19:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "徽BA",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000583631/202607221125_648678_H169_1080.webp",
@@ -928,7 +932,7 @@
       "title": "徽BA",
       "keyword": "07月26日19:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "徽BA",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000583632/202607221125_137041_H169_1080.webp",
@@ -952,7 +956,7 @@
       "title": "徽BA",
       "keyword": "07月26日19:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "徽BA",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000583633/202607221125_376474_H169_1080.webp",
@@ -976,7 +980,7 @@
       "title": "超三联赛 张家港大区赛 A档半决赛及决赛",
       "keyword": "07月26日19:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "超三联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/26/77I8UI107V95.png",
@@ -1169,7 +1173,7 @@
     {
       "mgdbId": "120000583384",
       "pID": "966305498",
-      "title": "宁海VS北仑",
+      "title": "���海VS北仑",
       "keyword": "07月26日19:30",
       "sportItemId": "2",
       "matchStatus": "0",
@@ -1292,7 +1296,7 @@
       "title": "中超联赛",
       "keyword": "07月26日19:35",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "五粮液文化体育中心专业足球场",
       "competitionName": "中超",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000569659/924214_H169_sc.jpg",
@@ -1320,7 +1324,7 @@
       "title": "中超联赛",
       "keyword": "07月26日19:35",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "济南奥体中心体育场",
       "competitionName": "中超",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000569660/192820_H169_sc.jpg",
