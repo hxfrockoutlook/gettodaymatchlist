@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-26 13:02:08",
+  "updateTime": "2026-07-26 13:32:05",
   "data": [
     {
       "mgdbId": "120000583090",
@@ -125,6 +125,10 @@
           "name": "主赛全场回放（汪乐）"
         },
         {
+          "pID": "966404263",
+          "name": "主赛全场回放（英文原声）"
+        },
+        {
           "pID": "966403650",
           "name": "吉恩VS罗德里格斯"
         },
@@ -138,7 +142,7 @@
         },
         {
           "pID": "966402555",
-          "name": "埃利埃泽-库班扎VS克里斯-米克桑"
+          "name": "库班扎VS米克桑"
         },
         {
           "pID": "966402257",
@@ -150,19 +154,23 @@
         },
         {
           "pID": "966402254",
-          "name": "布莱斯-梅雷迪思VS迈克尔-西尔"
+          "name": "布莱斯VS西尔"
         },
         {
           "pID": "966402057",
-          "name": "恩科西-恩德贝莱VS布兰登-戴维斯"
+          "name": "恩德贝莱VS戴维斯"
         },
         {
           "pID": "966401849",
-          "name": "查德-亚德VS科比-布拉德福德"
+          "name": "亚德VS布拉德福德"
         },
         {
           "pID": "966401493",
-          "name": "诺亚-埃莫西约VS雅各布-派斯"
+          "name": "埃莫西约VS派斯"
+        },
+        {
+          "pID": "966404335",
+          "name": "PFL华盛顿主赛全场回放（赛场原声）"
         }
       ]
     },
@@ -265,15 +273,15 @@
     {
       "mgdbId": "120000583624",
       "pID": "966342878",
-      "title": "王楚钦/梁靖崑横扫 魏桥男团8-2迎五连胜",
+      "title": "王楚钦/梁靖崑横扫 魏桥男团迎五连胜",
       "keyword": "07月26日11:00",
       "sportItemId": "7",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "乒超",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/26/77I90SN02TU4.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/26/77I8TJ47HO5L.png",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/21/77I4DCD6FR90.png",
-      "pkInfoTitle": "王楚钦/梁靖崑横扫 魏桥男团8-2迎五连胜",
+      "pkInfoTitle": "王楚钦/梁靖崑横扫 魏桥男团迎五连胜",
       "modifyTitle": "乒超常规赛第一阶段Day4上午场",
       "presenters": "徐铭辰",
       "matchInfo": {
@@ -285,16 +293,16 @@
           "name": "徐铭辰"
         },
         {
-          "pID": "966342455",
-          "name": "5号桌"
-        },
-        {
           "pID": "966342048",
           "name": "1号桌"
         },
         {
           "pID": "966342561",
           "name": "6号桌"
+        },
+        {
+          "pID": "966342455",
+          "name": "5号桌"
         },
         {
           "pID": "966342353",
@@ -315,7 +323,7 @@
       "matchStatus": "2",
       "matchField": "",
       "competitionName": "足球热身赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/26/77I90UAI99OR.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/26/77I8TK3S2699.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2022/7/12/1000000008461068fbfd.png",
       "pkInfoTitle": "托特纳姆热刺vs奥克兰FC",
       "modifyTitle": "足球热身赛",
@@ -325,12 +333,8 @@
       },
       "nodes": [
         {
-          "pID": "966365087",
-          "name": "孙雨轩 王宇"
-        },
-        {
-          "pID": "966365078",
-          "name": "赛场原声"
+          "pID": "966404134",
+          "name": "全场回放（孙雨轩、王宇）"
         }
       ]
     },
@@ -1523,7 +1527,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
       "pkInfoTitle": "斯尼古尔 vs 塔格尔",
       "modifyTitle": "WTA250布拉格站女单决赛",
-      "presenters": "",
+      "presenters": "乔迁",
       "matchInfo": {
         "time": "07月26日20:00"
       },
@@ -1535,6 +1539,14 @@
         {
           "pID": "966218298",
           "name": "英文原声"
+        },
+        {
+          "pID": "966404354",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "966404372",
+          "name": "乔迁"
         }
       ]
     },
@@ -1551,7 +1563,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
       "pkInfoTitle": "邦达尔 vs 科尔帕奇",
       "modifyTitle": "WTA250汉堡站女单决赛",
-      "presenters": "",
+      "presenters": "李宁",
       "matchInfo": {
         "time": "07月26日20:00"
       },
@@ -1563,6 +1575,14 @@
         {
           "pID": "966218799",
           "name": "英文原声"
+        },
+        {
+          "pID": "966404185",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "966404192",
+          "name": "李宁"
         }
       ]
     },
