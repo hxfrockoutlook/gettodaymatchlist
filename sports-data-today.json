@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-26 08:32:07",
+  "updateTime": "2026-07-26 09:02:39",
   "data": [
     {
       "mgdbId": "120000583090",
@@ -21,12 +21,12 @@
       },
       "nodes": [
         {
-          "pID": "966400997",
-          "name": "全场回放（二号桌）"
-        },
-        {
           "pID": "966400960",
           "name": "【女双决赛】早田希娜/赤江夏星3-0杜凯琹/吴咏琳"
+        },
+        {
+          "pID": "966400997",
+          "name": "全场回放（二号桌）"
         }
       ]
     },
@@ -49,8 +49,12 @@
       },
       "nodes": [
         {
+          "pID": "966401451",
+          "name": "全场集锦"
+        },
+        {
           "pID": "966401249",
-          "name": "全场回放"
+          "name": "全场回放（刘焕,鲁靖明）"
         }
       ]
     },
@@ -160,7 +164,7 @@
       "title": "摔跤比赛上午场",
       "keyword": "07月26日09:00",
       "sportItemId": "4",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "贵州省运会",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/24/77I73Q2A4TH9.png",
@@ -259,7 +263,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "足球热身赛",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000585055/202607240916_103455_H169_1080.webp",
+      "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2022/7/12/1000000008461068fbfd.png",
       "pkInfoTitle": "托特纳姆热刺vs奥克兰FC",
       "modifyTitle": "足球热身赛",
