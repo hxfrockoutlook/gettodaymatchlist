@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-26 22:02:31",
+  "updateTime": "2026-07-26 22:32:22",
   "data": [
     {
       "mgdbId": "120000583090",
@@ -585,8 +585,8 @@
       },
       "nodes": [
         {
-          "pID": "966370372",
-          "name": "解说"
+          "pID": "966416234",
+          "name": "全场回放（官方解说）"
         }
       ]
     },
@@ -841,6 +841,22 @@
       },
       "nodes": [
         {
+          "pID": "966415463",
+          "name": "全场回放（袁甲、王伟）"
+        },
+        {
+          "pID": "966415507",
+          "name": "全场回放"
+        },
+        {
+          "pID": "966415478",
+          "name": "全场回放"
+        },
+        {
+          "pID": "966415532",
+          "name": "全场回放"
+        },
+        {
           "pID": "966414975",
           "name": "【全场集锦】"
         }
@@ -968,7 +984,7 @@
     },
     {
       "mgdbId": "120000583872",
-      "pID": "966346758",
+      "pID": "966414869",
       "title": "超三联赛 张家港大区赛 A档半决赛及决赛",
       "keyword": "07月26日19:00",
       "sportItemId": "2",
@@ -984,6 +1000,10 @@
         "time": "07月26日19:00"
       },
       "nodes": [
+        {
+          "pID": "966414869",
+          "name": "全场回放（李嘉伟）"
+        },
         {
           "pID": "966408761",
           "name": "【回放】南昌凯锆商贸15:17宁波海曙捷英"
@@ -1087,7 +1107,7 @@
       "matchStatus": "2",
       "matchField": "湖北足管中心训练基地中心球场",
       "competitionName": "中乙",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000571920/202603120911_886179_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000571920/202607262200_813260_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/7/7/1000000011571060f297.png",
       "pkInfoTitle": "湖北青年星 vs 武汉三镇B队",
       "modifyTitle": "中乙联赛",
@@ -1313,8 +1333,16 @@
       },
       "nodes": [
         {
+          "pID": "966415737",
+          "name": "超长版集锦"
+        },
+        {
           "pID": "966415147",
           "name": "全场集锦"
+        },
+        {
+          "pID": "966415503",
+          "name": "全场回放（苏东、徐阳、李子琪）"
         }
       ]
     },
@@ -1337,12 +1365,8 @@
       },
       "nodes": [
         {
-          "pID": "966350696",
-          "name": "孙雷 徐云龙 程思钦"
-        },
-        {
-          "pID": "966351042",
-          "name": "赛场原声"
+          "pID": "966415863",
+          "name": "全场回放（孙雷、徐云龙、程思钦）"
         }
       ]
     },
@@ -1496,10 +1520,10 @@
       "title": "中超联赛",
       "keyword": "07月26日20:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "黄龙体育中心体育场",
       "competitionName": "中超",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000569658/814758_H169_sc.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000569658/790003_H169_sc.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png",
       "pkInfoTitle": "浙江 vs 大连英博",
       "modifyTitle": "中超联赛",
@@ -1556,7 +1580,7 @@
       "title": "WTA250汉堡站女单决赛：邦达尔 vs 科尔帕奇",
       "keyword": "07月26日20:00",
       "sportItemId": "9",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/26/77I900IHJENB.png",
@@ -1569,12 +1593,8 @@
       },
       "nodes": [
         {
-          "pID": "966218738",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "966218799",
-          "name": "英文原声"
+          "pID": "966415836",
+          "name": "全场回放（李宁）"
         }
       ]
     },
