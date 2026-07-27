@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-27 09:01:11",
+  "updateTime": "2026-07-27 09:31:04",
   "data": [
     {
       "mgdbId": "120000585281",
@@ -156,7 +156,7 @@
       "title": "斯诺克上海大师赛第一轮：肖国栋VS徐嘉锐",
       "keyword": "07月27日09:30",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/27/77I9U07VR1LP.png",
@@ -184,7 +184,7 @@
       "title": "斯诺克上海大师赛第一轮：克里斯·韦克林VS唐和文",
       "keyword": "07月27日09:30",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/27/77I9U0ALSVE2.png",
@@ -236,7 +236,7 @@
     },
     {
       "mgdbId": "120000583054",
-      "pID": "966197803",
+      "pID": "966384639",
       "title": "斯诺克上海大师赛第一轮：巴里·霍金斯VS雷佩凡",
       "keyword": "07月27日14:00",
       "sportItemId": "8",
@@ -253,12 +253,12 @@
       },
       "nodes": [
         {
-          "pID": "966197803",
-          "name": "2号桌"
-        },
-        {
           "pID": "966384639",
           "name": "孙嘉星"
+        },
+        {
+          "pID": "966197803",
+          "name": "2号桌"
         }
       ]
     },
