@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-27 16:31:07",
+  "updateTime": "2026-07-27 17:01:16",
   "data": [
     {
       "mgdbId": "120000585281",
@@ -256,7 +256,7 @@
     },
     {
       "mgdbId": "120000583053",
-      "pID": "966384635",
+      "pID": "966197803",
       "title": "斯诺克上海大师赛第一轮：丁俊晖6-2姚东成",
       "keyword": "07月27日14:00",
       "sportItemId": "8",
@@ -273,22 +273,22 @@
       },
       "nodes": [
         {
+          "pID": "966197803",
+          "name": "巴里·霍金斯VS雷佩凡"
+        },
+        {
           "pID": "966384635",
           "name": "朱峰立"
         },
         {
           "pID": "966197731",
           "name": "1号桌"
-        },
-        {
-          "pID": "966197803",
-          "name": "巴里·霍金斯VS雷佩凡"
         }
       ]
     },
     {
       "mgdbId": "120000583054",
-      "pID": "966384639",
+      "pID": "966197803",
       "title": "斯诺克上海大师赛第一轮：巴里·霍金斯VS雷佩凡",
       "keyword": "07月27日14:00",
       "sportItemId": "8",
@@ -305,12 +305,12 @@
       },
       "nodes": [
         {
-          "pID": "966384639",
-          "name": "孙嘉星"
-        },
-        {
           "pID": "966197803",
           "name": "2号桌"
+        },
+        {
+          "pID": "966384639",
+          "name": "孙嘉星"
         },
         {
           "pID": "966197731",
@@ -386,6 +386,34 @@
       "nodes": [
         {
           "pID": "966370397",
+          "name": "解说"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000571921",
+      "pID": "966370387",
+      "title": "中乙联赛",
+      "keyword": "07月27日19:30",
+      "sportItemId": "1",
+      "matchStatus": "0",
+      "matchField": "广东省人民体育场",
+      "competitionName": "中乙",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000571921/202603120911_337650_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/7/7/1000000011571060f297.png",
+      "pkInfoTitle": "广东铭途 vs 成都蓉城B队",
+      "modifyTitle": "中乙联赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "07月27日19:30"
+      },
+      "nodes": [
+        {
+          "pID": "966370387",
+          "name": "解说"
+        },
+        {
+          "pID": "966425860",
           "name": "解说"
         }
       ]
