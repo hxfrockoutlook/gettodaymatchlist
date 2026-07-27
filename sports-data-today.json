@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-27 17:31:08",
+  "updateTime": "2026-07-27 18:01:19",
   "data": [
     {
       "mgdbId": "120000585281",
@@ -250,7 +250,7 @@
         },
         {
           "pID": "966423874",
-          "name": "【回放】克里斯·韦克林6-0唐和文（赛场原���）"
+          "name": "【回放】克里斯·韦克林6-0唐和文（赛场原声）"
         }
       ]
     },
@@ -324,7 +324,7 @@
       "title": "第六届嵊州杯中国王中王围棋争霸赛",
       "keyword": "07月27日14:30",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "中国围棋协会系列赛事",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/27/77I9TTB4TKRD.jpg",
@@ -348,7 +348,7 @@
       "title": "NBA精彩重播：快船vs独行侠",
       "keyword": "07月27日18:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA经典赛事",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/27/77I9R17QVQQ5.png",
@@ -391,6 +391,66 @@
       ]
     },
     {
+      "mgdbId": "120000583055",
+      "pID": "966422879",
+      "title": "斯诺克上海大师赛第一轮：罗尼·奥沙利文VS刘林昊",
+      "keyword": "07月27日19:00",
+      "sportItemId": "8",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "斯诺克",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/27/77I9R1E6VAGM.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
+      "pkInfoTitle": "罗尼·奥沙利文VS刘林昊",
+      "modifyTitle": "斯诺克上海大师赛第一轮：罗尼·奥沙利文VS刘林昊",
+      "presenters": "蔡剑忠 朱峰立",
+      "matchInfo": {
+        "time": "07月27日19:00"
+      },
+      "nodes": [
+        {
+          "pID": "966422879",
+          "name": "蔡剑忠"
+        },
+        {
+          "pID": "966384644",
+          "name": "朱峰立"
+        },
+        {
+          "pID": "966197862",
+          "name": "1号桌"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000583056",
+      "pID": "966384652",
+      "title": "斯诺克上海大师赛第一轮：马克·塞尔比VS周跃龙",
+      "keyword": "07月27日19:00",
+      "sportItemId": "8",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "斯诺克",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/27/77I9R1H6HUD6.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
+      "pkInfoTitle": "马克·塞尔比VS周跃龙",
+      "modifyTitle": "斯诺克上海大师赛第一轮：马克·塞尔比VS周跃龙",
+      "presenters": "陶哲铭",
+      "matchInfo": {
+        "time": "07月27日19:00"
+      },
+      "nodes": [
+        {
+          "pID": "966384652",
+          "name": "陶哲铭"
+        },
+        {
+          "pID": "966197907",
+          "name": "2号桌"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000571921",
       "pID": "966370387",
       "title": "中乙联赛",
@@ -415,66 +475,6 @@
         {
           "pID": "966425860",
           "name": "解说"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000583055",
-      "pID": "966422879",
-      "title": "斯诺克上海大师赛第一轮：罗尼·奥沙利文VS刘林昊",
-      "keyword": "07月27日19:30",
-      "sportItemId": "8",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "斯诺克",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/27/77I9R1E6VAGM.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "罗尼·奥沙利文VS刘林昊",
-      "modifyTitle": "斯诺克上海大师赛第一轮：罗尼·奥沙利文VS刘林昊",
-      "presenters": "蔡剑忠 朱峰立",
-      "matchInfo": {
-        "time": "07月27日19:30"
-      },
-      "nodes": [
-        {
-          "pID": "966422879",
-          "name": "蔡剑忠"
-        },
-        {
-          "pID": "966384644",
-          "name": "朱峰立"
-        },
-        {
-          "pID": "966197862",
-          "name": "1号桌"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000583056",
-      "pID": "966384652",
-      "title": "斯诺克上海大师赛第一轮：马克·塞尔比VS周跃龙",
-      "keyword": "07月27日19:30",
-      "sportItemId": "8",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "斯诺克",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/27/77I9R1H6HUD6.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "马克·塞尔比VS周跃龙",
-      "modifyTitle": "斯诺克上海大师赛第一轮：马克·塞尔比VS周跃龙",
-      "presenters": "陶哲铭",
-      "matchInfo": {
-        "time": "07月27日19:30"
-      },
-      "nodes": [
-        {
-          "pID": "966384652",
-          "name": "陶哲铭"
-        },
-        {
-          "pID": "966197907",
-          "name": "2号桌"
         }
       ]
     },
