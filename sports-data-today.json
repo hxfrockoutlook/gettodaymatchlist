@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-29 18:01:33",
+  "updateTime": "2026-07-29 18:31:42",
   "data": [
     {
       "mgdbId": "120000585467",
@@ -240,8 +240,8 @@
     },
     {
       "mgdbId": "120000583064",
-      "pID": "966384704",
-      "title": "斯诺克上海大师赛第二轮：约翰·希金斯VS杰克·利索夫斯基",
+      "pID": "966198223",
+      "title": "斯诺克上海大师赛第二轮：约翰·希金斯6-5杰克·利索夫斯基",
       "keyword": "07月29日14:00",
       "sportItemId": "8",
       "matchStatus": "1",
@@ -249,13 +249,17 @@
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/29/77IBKTRCR0JA.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "约翰·希金斯VS杰克·利索夫斯基",
-      "modifyTitle": "斯诺克上海大师赛第二轮：约翰·希金斯VS杰克·利索夫斯基",
+      "pkInfoTitle": "约翰·希金斯6-5杰克·利索夫斯基",
+      "modifyTitle": "斯诺克上海大师赛第二轮：约翰·希金斯6-5杰克·利索夫斯基",
       "presenters": "孙嘉星",
       "matchInfo": {
         "time": "07月29日14:00"
       },
       "nodes": [
+        {
+          "pID": "966198223",
+          "name": "肖恩·墨菲VS周跃龙"
+        },
         {
           "pID": "966384704",
           "name": "孙嘉星"
@@ -263,10 +267,6 @@
         {
           "pID": "966198261",
           "name": "希金斯VS利索夫斯基"
-        },
-        {
-          "pID": "966198223",
-          "name": "肖恩·墨菲VS周跃龙"
         }
       ]
     },
@@ -523,6 +523,30 @@
       ]
     },
     {
+      "mgdbId": "120000571954",
+      "pID": "966440142",
+      "title": "中乙联赛",
+      "keyword": "07月29日19:00",
+      "sportItemId": "1",
+      "matchStatus": "2",
+      "matchField": "",
+      "competitionName": "中乙",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000571954/202603120921_521375_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/7/7/1000000011571060f297.png",
+      "pkInfoTitle": "北京理工 vs 海门珂缔缘",
+      "modifyTitle": "中乙联赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "07月29日19:00"
+      },
+      "nodes": [
+        {
+          "pID": "966440142",
+          "name": "解说"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000585361",
       "pID": "966422399",
       "title": "上城VS钱塘",
@@ -543,6 +567,54 @@
         {
           "pID": "966422399",
           "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000571944",
+      "pID": "966440171",
+      "title": "中乙联赛",
+      "keyword": "07月29日19:30",
+      "sportItemId": "1",
+      "matchStatus": "2",
+      "matchField": "汉口文体中心体育场",
+      "competitionName": "中乙",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000571944/202607130400_252159_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/7/7/1000000011571060f297.png",
+      "pkInfoTitle": "武汉三镇B队 vs 厦门飞鹭",
+      "modifyTitle": "中乙联赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "07月29日19:30"
+      },
+      "nodes": [
+        {
+          "pID": "966440171",
+          "name": "解说"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000571952",
+      "pID": "966440149",
+      "title": "中乙联赛",
+      "keyword": "07月29日19:30",
+      "sportItemId": "1",
+      "matchStatus": "2",
+      "matchField": "兰州奥体中心玫瑰场",
+      "competitionName": "中乙",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000571952/202607081136_428334_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/7/7/1000000011571060f297.png",
+      "pkInfoTitle": "兰州陇原竞技 vs 泰安天贶",
+      "modifyTitle": "中乙联赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "07月29日19:30"
+      },
+      "nodes": [
+        {
+          "pID": "966440149",
+          "name": "解说"
         }
       ]
     },
