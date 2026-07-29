@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-29 09:01:22",
+  "updateTime": "2026-07-29 09:31:18",
   "data": [
     {
       "mgdbId": "120000585467",
@@ -511,8 +511,8 @@
     },
     {
       "mgdbId": "120000583065",
-      "pID": "966198283",
-      "title": "斯诺克上海大师赛第二轮",
+      "pID": "966422785",
+      "title": "斯诺克上海大师赛第二轮：吴宜泽VS斯佳辉",
       "keyword": "07月29日19:30",
       "sportItemId": "8",
       "matchStatus": "0",
@@ -521,26 +521,30 @@
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "吴宜泽VS斯佳辉",
-      "modifyTitle": "斯诺克上海大师赛第二轮",
-      "presenters": "朱峰立 蔡剑忠",
+      "modifyTitle": "斯诺克上海大师赛第二轮：吴宜泽VS斯佳辉",
+      "presenters": "蔡剑忠",
       "matchInfo": {
         "time": "07月29日19:30"
       },
       "nodes": [
         {
+          "pID": "966422785",
+          "name": "蔡剑忠"
+        },
+        {
           "pID": "966198283",
           "name": "1号桌"
         },
         {
-          "pID": "966422785",
-          "name": "蔡剑忠"
+          "pID": "966198318",
+          "name": "赵心童VS丁俊晖"
         }
       ]
     },
     {
       "mgdbId": "120000583066",
-      "pID": "966198318",
-      "title": "斯诺克上海大师赛第二轮",
+      "pID": "966402204",
+      "title": "斯诺克上海大师赛第二轮：赵心童VS丁俊晖",
       "keyword": "07月29日19:30",
       "sportItemId": "8",
       "matchStatus": "0",
@@ -549,19 +553,23 @@
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "赵心童VS丁俊晖",
-      "modifyTitle": "斯诺克上海大师赛第二轮",
-      "presenters": "朱峰立 秦正 庞卫国",
+      "modifyTitle": "斯诺克上海大师赛第二轮：赵心童VS丁俊晖",
+      "presenters": "秦正 庞卫国",
       "matchInfo": {
         "time": "07月29日19:30"
       },
       "nodes": [
         {
+          "pID": "966402204",
+          "name": "秦正 庞卫国"
+        },
+        {
           "pID": "966198318",
           "name": "2号桌"
         },
         {
-          "pID": "966402204",
-          "name": "秦正 庞卫国"
+          "pID": "966198283",
+          "name": "吴宜泽VS斯佳辉"
         }
       ]
     },
