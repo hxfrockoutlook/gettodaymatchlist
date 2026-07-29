@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-29 19:31:40",
+  "updateTime": "2026-07-29 20:01:35",
   "data": [
     {
       "mgdbId": "120000585467",
@@ -100,7 +100,7 @@
     },
     {
       "mgdbId": "120000585370",
-      "pID": "966424109",
+      "pID": "966449777",
       "title": "周天成领衔出战 李梓嘉晋级次轮",
       "keyword": "07月29日09:00",
       "sportItemId": "6",
@@ -111,11 +111,15 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "周天成领衔出战 李梓嘉晋级次轮",
       "modifyTitle": "中国台北羽毛球公开赛第二日：周天成领衔出战 李梓嘉晋级次轮",
-      "presenters": "",
+      "presenters": "张婕",
       "matchInfo": {
         "time": "07月29日09:00"
       },
       "nodes": [
+        {
+          "pID": "966449777",
+          "name": "陈子亦/贾士贤VS阿里格拉/戈布鲁"
+        },
         {
           "pID": "966424109",
           "name": "1号场地"
@@ -251,6 +255,10 @@
         {
           "pID": "966458199",
           "name": "26/27赛季斯诺克上海大师赛第2轮回放：约翰·希金斯6-5杰克·利索夫斯基（孙嘉星）"
+        },
+        {
+          "pID": "966459338",
+          "name": "26/27赛季斯诺克上海大师赛第2轮回放：约翰·希金斯6-5杰克·利索夫斯基（赛场原声）"
         }
       ]
     },
@@ -404,10 +412,10 @@
       "title": "足球热身赛",
       "keyword": "07月29日17:45",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "足球热身赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000585058/506061_H169_sc.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/29/77IBMO6R85AH.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2022/7/12/1000000008461068fbfd.png",
       "pkInfoTitle": "托特纳姆热刺vs悉尼FC",
       "modifyTitle": "足球热身赛",
@@ -417,12 +425,12 @@
       },
       "nodes": [
         {
-          "pID": "966364880",
-          "name": "孙雨轩 王宇"
+          "pID": "966459203",
+          "name": "全场集锦"
         },
         {
-          "pID": "966364870",
-          "name": "赛场原声"
+          "pID": "966459402",
+          "name": "全场回放（孙雨轩、王宇）"
         }
       ]
     },
@@ -452,8 +460,8 @@
     },
     {
       "mgdbId": "120000585437",
-      "pID": "966427954",
-      "title": "王楚钦领衔魏桥男队出战 魏桥女团8-0华东理工",
+      "pID": "966427944",
+      "title": "王楚钦率魏桥男队夺开门红 魏桥女团8-0华东理工",
       "keyword": "07月29日18:00",
       "sportItemId": "7",
       "matchStatus": "1",
@@ -461,16 +469,16 @@
       "competitionName": "乒超",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/28/77IAQ7P7KH1J.png",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/21/77I4DCD6FR90.png",
-      "pkInfoTitle": "王楚钦领衔魏桥男队出战 魏桥女团8-0华东理工",
+      "pkInfoTitle": "王楚钦率魏桥男队夺开门红 魏桥女团8-0华东理工",
       "modifyTitle": "乒超联赛雄安站Day1晚间场",
-      "presenters": "周冠达 程靖淇 朱子恒",
+      "presenters": "朱子恒 周冠达 程靖淇",
       "matchInfo": {
         "time": "07月29日18:00"
       },
       "nodes": [
         {
-          "pID": "966427954",
-          "name": "周冠达 程靖淇"
+          "pID": "966459106",
+          "name": "【集锦】王楚钦2-1宁贤坤"
         },
         {
           "pID": "966427944",
@@ -489,16 +497,20 @@
           "name": "6号桌"
         },
         {
-          "pID": "966427841",
-          "name": "2号桌"
-        },
-        {
           "pID": "966435725",
           "name": "3号桌"
         },
         {
           "pID": "966427790",
           "name": "1号桌"
+        },
+        {
+          "pID": "966427841",
+          "name": "2号桌"
+        },
+        {
+          "pID": "966427954",
+          "name": "周冠达 程靖淇"
         }
       ]
     },
