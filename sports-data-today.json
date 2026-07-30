@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-30 15:31:17",
+  "updateTime": "2026-07-30 16:01:20",
   "data": [
     {
       "mgdbId": "120000583778",
@@ -124,7 +124,7 @@
     },
     {
       "mgdbId": "120000585371",
-      "pID": "966424276",
+      "pID": "966466983",
       "title": "周天成冲八强 李梓嘉PK林俊易",
       "keyword": "07月30日12:00",
       "sportItemId": "6",
@@ -135,11 +135,15 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "周天成冲八强 李梓嘉PK林俊易",
       "modifyTitle": "中国台北羽毛球公开赛第三日：周天成冲八强 李梓嘉PK林俊易",
-      "presenters": "",
+      "presenters": "朱胤丞",
       "matchInfo": {
         "time": "07月30日12:00"
       },
       "nodes": [
+        {
+          "pID": "966466983",
+          "name": "李佳豪VS王渝凯"
+        },
         {
           "pID": "966424276",
           "name": "1号场地"
@@ -224,11 +228,11 @@
     },
     {
       "mgdbId": "120000585380",
-      "pID": "966426145",
+      "pID": "966471176",
       "title": "国青男篮热身赛",
       "keyword": "07月30日14:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "国青男篮热身赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/29/77IBNBOGRJ5L.png",
@@ -240,6 +244,10 @@
         "time": "07月30日14:00"
       },
       "nodes": [
+        {
+          "pID": "966471176",
+          "name": "关键时刻不手软！石洺豪压哨三分空心入网反超比分"
+        },
         {
           "pID": "966426145",
           "name": "石楷文"
@@ -328,7 +336,7 @@
       "title": "国青男篮热身赛",
       "keyword": "07月30日16:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "国青男篮热身赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/29/77IBNCBB1H5C.png",
@@ -421,28 +429,28 @@
           "name": "徐儒叶"
         },
         {
-          "pID": "966428133",
-          "name": "1号桌"
-        },
-        {
           "pID": "966428149",
           "name": "2号桌"
-        },
-        {
-          "pID": "966428167",
-          "name": "3号桌"
         },
         {
           "pID": "966428216",
           "name": "4号桌"
         },
         {
-          "pID": "966428232",
-          "name": "5号桌"
-        },
-        {
           "pID": "966428243",
           "name": "6号桌"
+        },
+        {
+          "pID": "966428133",
+          "name": "1号桌"
+        },
+        {
+          "pID": "966428167",
+          "name": "3号桌"
+        },
+        {
+          "pID": "966428232",
+          "name": "5号桌"
         }
       ]
     },
