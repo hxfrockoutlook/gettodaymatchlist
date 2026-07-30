@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-30 09:31:13",
+  "updateTime": "2026-07-30 10:01:13",
   "data": [
     {
       "mgdbId": "120000583778",
@@ -52,7 +52,7 @@
       "title": "赣州章贡赣星vs黑龙江队",
       "keyword": "07月30日10:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "全国女子篮球锦标赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/29/77IBL1L2867K.jpg",
@@ -137,16 +137,16 @@
       },
       "nodes": [
         {
+          "pID": "966424311",
+          "name": "3号场地"
+        },
+        {
           "pID": "966424276",
           "name": "1号场地"
         },
         {
           "pID": "966424304",
           "name": "2号场地"
-        },
-        {
-          "pID": "966424311",
-          "name": "3号场地"
         },
         {
           "pID": "966424350",
@@ -156,46 +156,14 @@
     },
     {
       "mgdbId": "120000583067",
-      "pID": "966198333",
-      "title": "斯诺克上海大师赛1/4决赛：赵心童VS尼尔·罗伯逊",
-      "keyword": "07月30日14:00",
-      "sportItemId": "8",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "斯诺克",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/29/77IBNLBJSJV3.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "赵心童VS尼尔·罗伯逊",
-      "modifyTitle": "斯诺克上海大师赛1/4决赛：赵心童VS尼尔·罗伯逊",
-      "presenters": "朱峰立",
-      "matchInfo": {
-        "time": "07月30日14:00"
-      },
-      "nodes": [
-        {
-          "pID": "966384724",
-          "name": "朱峰立"
-        },
-        {
-          "pID": "966198338",
-          "name": "2号桌"
-        },
-        {
-          "pID": "966198333",
-          "name": "1号桌"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000583068",
-      "pID": "966198338",
+      "pID": "966384714",
       "title": "斯诺克上海大师赛1/4决赛：凯伦·威尔逊VS马克·威廉姆斯",
       "keyword": "07月30日14:00",
       "sportItemId": "8",
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "斯诺克",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/29/77IBNQMDMQUU.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/30/77ICKFLNOERA.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "凯伦·威尔逊VS马克·威廉姆斯",
       "modifyTitle": "斯诺克上海大师赛1/4决赛：凯伦·威尔逊VS马克·威廉姆斯",
@@ -210,11 +178,43 @@
         },
         {
           "pID": "966198333",
-          "name": "1号桌"
+          "name": "凯伦·威尔逊vs威廉姆斯"
         },
         {
           "pID": "966198338",
-          "name": "2号桌"
+          "name": "赵心童vs罗伯逊"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000583068",
+      "pID": "966198338",
+      "title": "斯诺克上海大师赛1/4决赛：赵心童VS尼尔·罗伯逊",
+      "keyword": "07月30日14:00",
+      "sportItemId": "8",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "斯诺克",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/30/77ICKFNQBFKQ.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
+      "pkInfoTitle": "赵心童VS尼尔·罗伯逊",
+      "modifyTitle": "斯诺克上海大师赛1/4决赛：赵心童VS尼尔·罗伯逊",
+      "presenters": "朱峰立",
+      "matchInfo": {
+        "time": "07月30日14:00"
+      },
+      "nodes": [
+        {
+          "pID": "966384724",
+          "name": "朱峰立"
+        },
+        {
+          "pID": "966198333",
+          "name": "凯伦·威尔逊vs威廉姆斯"
+        },
+        {
+          "pID": "966198338",
+          "name": "赵心童vs罗伯逊"
         }
       ]
     },
