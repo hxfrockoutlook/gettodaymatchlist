@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-07-31 10:31:15",
+  "updateTime": "2026-07-31 11:01:20",
   "data": [
     {
       "mgdbId": "120000585392",
@@ -53,7 +53,7 @@
     {
       "mgdbId": "120000583779",
       "pID": "966341035",
-      "title": "佩古拉逆转晋级 斯维托丽娜压场出战",
+      "title": "佩古拉逆转晋级 斯维托丽娜2-0速胜",
       "keyword": "07月31日01:00",
       "sportItemId": "9",
       "matchStatus": "1",
@@ -61,8 +61,8 @@
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/31/77IDH86BHT4B.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "佩古拉逆转晋级 斯维托丽娜压场出战",
-      "modifyTitle": "WTA500华盛顿站女单第二轮：佩古拉逆转晋级 斯维托丽娜压场出战",
+      "pkInfoTitle": "佩古拉逆转晋级 斯维托丽娜2-0速胜",
+      "modifyTitle": "WTA500华盛顿站女单第二轮：佩古拉逆转晋级 斯维托丽娜2-0速胜",
       "presenters": "",
       "matchInfo": {
         "time": "07月31日01:00"
@@ -164,7 +164,7 @@
       "title": "王楚钦领衔魏桥迎战安徽 林诗栋率上海男团登场",
       "keyword": "07月31日11:00",
       "sportItemId": "7",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "乒超",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/07/31/77IDIDHE3CGT.png",
@@ -177,20 +177,20 @@
       },
       "nodes": [
         {
-          "pID": "966427863",
-          "name": "朱子恒"
-        },
-        {
           "pID": "966427560",
           "name": "1号桌"
         },
         {
-          "pID": "966427804",
-          "name": "3号桌"
+          "pID": "966427863",
+          "name": "朱子恒"
         },
         {
           "pID": "966427843",
           "name": "6号桌"
+        },
+        {
+          "pID": "966427804",
+          "name": "3号桌"
         },
         {
           "pID": "966427828",
@@ -243,14 +243,14 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "贾德·特鲁姆普VS吴宜泽 第一阶段",
       "modifyTitle": "斯诺克上海大师赛半决赛第一阶段：贾德·特鲁姆普VS吴宜泽",
-      "presenters": "秦正",
+      "presenters": "蔡剑忠",
       "matchInfo": {
         "time": "07月31日14:00"
       },
       "nodes": [
         {
           "pID": "966384772",
-          "name": "秦正"
+          "name": "蔡剑忠"
         },
         {
           "pID": "966198439",
@@ -295,7 +295,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "周天成、林俊易齐冲半决赛",
       "modifyTitle": "中国台北羽毛球公开赛第四日：周天成、林俊易齐冲半决赛",
-      "presenters": "朱胤丞 金子嘉 张婕 余昌瑞 轩子博 杨妮娜",
+      "presenters": "",
       "matchInfo": {
         "time": "07月31日16:00"
       },
@@ -315,58 +315,6 @@
         {
           "pID": "966424483",
           "name": "4号场地"
-        },
-        {
-          "pID": "966482402",
-          "name": "朱胤丞"
-        },
-        {
-          "pID": "966482407",
-          "name": "朱胤丞"
-        },
-        {
-          "pID": "966482414",
-          "name": "金子嘉"
-        },
-        {
-          "pID": "966482421",
-          "name": "金子嘉"
-        },
-        {
-          "pID": "966482423",
-          "name": "张婕"
-        },
-        {
-          "pID": "966482430",
-          "name": "张婕"
-        },
-        {
-          "pID": "966482457",
-          "name": "余昌瑞"
-        },
-        {
-          "pID": "966482470",
-          "name": "余昌瑞"
-        },
-        {
-          "pID": "966482482",
-          "name": "轩子博"
-        },
-        {
-          "pID": "966482494",
-          "name": "轩子博"
-        },
-        {
-          "pID": "966482504",
-          "name": "杨妮娜"
-        },
-        {
-          "pID": "966482516",
-          "name": "杨妮娜"
-        },
-        {
-          "pID": "966482533",
-          "name": "杨妮娜"
         }
       ]
     },
@@ -448,6 +396,7 @@
     },
     {
       "mgdbId": "300000002227",
+      "pID": "966482467",
       "title": "篮球公园丨淬炼青春",
       "sportItemId": "2",
       "matchStatus": "0",
@@ -459,7 +408,12 @@
       "modifyTitle": "篮球公园丨淬炼青春",
       "presenters": "",
       "matchInfo": {},
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "966482467",
+          "name": "CCTV5"
+        }
+      ]
     },
     {
       "mgdbId": "120000585396",
