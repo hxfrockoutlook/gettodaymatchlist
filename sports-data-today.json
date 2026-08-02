@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-02 22:02:03",
+  "updateTime": "2026-08-02 22:32:08",
   "data": [
     {
       "mgdbId": "120000583781",
@@ -561,12 +561,8 @@
       },
       "nodes": [
         {
-          "pID": "966438609",
-          "name": "解说"
-        },
-        {
-          "pID": "966438621",
-          "name": "赛场原声"
+          "pID": "966532583",
+          "name": "全场回放"
         }
       ]
     },
@@ -589,12 +585,8 @@
       },
       "nodes": [
         {
-          "pID": "966438641",
-          "name": "解说"
-        },
-        {
-          "pID": "966438627",
-          "name": "赛场原声"
+          "pID": "966531987",
+          "name": "全场回放"
         }
       ]
     },
@@ -619,6 +611,10 @@
         {
           "pID": "966531959",
           "name": "全场回放（官方解说）"
+        },
+        {
+          "pID": "966532322",
+          "name": "全场回放"
         }
       ]
     },
@@ -665,8 +661,8 @@
       },
       "nodes": [
         {
-          "pID": "966491334",
-          "name": "解说"
+          "pID": "966532580",
+          "name": "全场回放"
         }
       ]
     },
@@ -863,7 +859,7 @@
       "matchStatus": "2",
       "matchField": "珂缔缘赛事中心体育场",
       "competitionName": "中乙",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000571910/202603120910_760616_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000571910/202608022200_820900_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/7/7/1000000011571060f297.png",
       "pkInfoTitle": "海门珂缔缘 vs 泰安天贶",
       "modifyTitle": "中乙联赛",
@@ -959,6 +955,10 @@
         {
           "pID": "966531004",
           "name": "全场回放（张泽欣）"
+        },
+        {
+          "pID": "966532206",
+          "name": "全场回放"
         }
       ]
     },
@@ -1061,7 +1061,7 @@
     {
       "mgdbId": "120000586416",
       "pID": "966520179",
-      "title": "美国队 vs 波兰队",
+      "title": "美国队 2-3 波兰队",
       "keyword": "08月02日19:30",
       "sportItemId": "3",
       "matchStatus": "2",
@@ -1069,8 +1069,8 @@
       "competitionName": "世界男排联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/02/77KE3VDN9RQO.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2022/7/6/1000000008011065e8e5.png",
-      "pkInfoTitle": "美国队 vs 波兰队",
-      "modifyTitle": "世界男排联赛总决赛-决赛：美国队 vs 波兰队",
+      "pkInfoTitle": "美国队 2-3 波兰队",
+      "modifyTitle": "世界男排联赛总决赛-决赛：美国队 2-3 波兰队",
       "presenters": "",
       "matchInfo": {
         "time": "08月02日19:30"
@@ -1101,16 +1101,16 @@
       },
       "nodes": [
         {
-          "pID": "966455038",
-          "name": "娄一晨 刘越 邵凌霄"
+          "pID": "966531984",
+          "name": "超长版集锦"
         },
         {
-          "pID": "966455055",
-          "name": "赛场原声"
+          "pID": "966532148",
+          "name": "全场集锦"
         },
         {
-          "pID": "966485169",
-          "name": "智能解说"
+          "pID": "966532259",
+          "name": "全场回放（娄一晨、刘越、邵凌霄）"
         }
       ]
     },
@@ -1123,7 +1123,7 @@
       "matchStatus": "2",
       "matchField": "双流体育中心",
       "competitionName": "中乙",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000571908/202608022029_265336_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000571908/202608022205_379840_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/7/7/1000000011571060f297.png",
       "pkInfoTitle": "成都蓉城B队 vs 厦门飞鹭",
       "modifyTitle": "中乙联赛",
@@ -1216,10 +1216,10 @@
       "title": "中超联赛",
       "keyword": "08月02日20:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "深圳市体育场",
       "competitionName": "中超",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000569652/876164_H169_sc.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000569652/884754_H169_sc.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png",
       "pkInfoTitle": "深圳新鹏城 vs 重庆铜梁龙",
       "modifyTitle": "中超联赛",
@@ -1229,16 +1229,12 @@
       },
       "nodes": [
         {
-          "pID": "966455090",
-          "name": "孙雨轩 张辛昕"
+          "pID": "966532455",
+          "name": "全场集锦"
         },
         {
-          "pID": "966455102",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "966485140",
-          "name": "智能解说"
+          "pID": "966532325",
+          "name": "全场回放（孙雨轩、张辛昕）"
         }
       ]
     },
