@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-02 10:01:45",
+  "updateTime": "2026-08-02 10:31:54",
   "data": [
     {
       "mgdbId": "120000583781",
@@ -49,7 +49,7 @@
     {
       "mgdbId": "120000585394",
       "pID": "966425846",
-      "title": "WTA250孟菲斯站女单半决赛：16岁小将柳托娃晋级决赛",
+      "title": "16岁小将柳托娃晋级决赛",
       "keyword": "08月02日02:00",
       "sportItemId": "9",
       "matchStatus": "2",
@@ -165,7 +165,7 @@
     {
       "mgdbId": "120000585374",
       "pID": "966520388",
-      "title": "��本优大对决俞泰彬 陈康乐/蒂娜冲冠",
+      "title": "冲本优大对决俞泰彬 陈康乐/蒂娜冲冠",
       "keyword": "08月02日12:00",
       "sportItemId": "6",
       "matchStatus": "0",
@@ -220,7 +220,7 @@
     },
     {
       "mgdbId": "120000583075",
-      "pID": "966384794",
+      "pID": "966520687",
       "title": "斯诺克上海大师赛决赛第一阶段：凯伦·威尔逊VS贾德·特鲁姆普",
       "keyword": "08月02日14:00",
       "sportItemId": "8",
@@ -231,11 +231,15 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "凯伦·威尔逊VS贾德·特鲁姆普 第一阶段",
       "modifyTitle": "斯诺克上海大师赛决赛第一阶段：凯伦·威尔逊VS贾德·特鲁姆普",
-      "presenters": "朱峰立",
+      "presenters": "蔡剑忠 朱峰立",
       "matchInfo": {
         "time": "08月02日14:00"
       },
       "nodes": [
+        {
+          "pID": "966520687",
+          "name": "蔡剑忠"
+        },
         {
           "pID": "966384794",
           "name": "朱峰立"
@@ -327,6 +331,30 @@
         {
           "pID": "966238493",
           "name": "七月站"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000586415",
+      "pID": "966520174",
+      "title": "斯洛文尼亚队 vs 日本队",
+      "keyword": "08月02日15:35",
+      "sportItemId": "3",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "世界男排联赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/02/77KE3UMCID3E.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2022/7/6/1000000008011065e8e5.png",
+      "pkInfoTitle": "斯洛文尼亚队 vs 日本队",
+      "modifyTitle": "世界男排联赛总决赛-三、四名决赛：斯洛文尼亚队 vs 日本队",
+      "presenters": "",
+      "matchInfo": {
+        "time": "08月02日15:35"
+      },
+      "nodes": [
+        {
+          "pID": "966520174",
+          "name": "CCTV5"
         }
       ]
     },
@@ -837,6 +865,10 @@
           "name": "秦正 庞卫国"
         },
         {
+          "pID": "966520722",
+          "name": "庞卫国"
+        },
+        {
           "pID": "966198626",
           "name": "第二阶段"
         }
@@ -987,6 +1019,30 @@
         {
           "pID": "966449020",
           "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000586416",
+      "pID": "966520179",
+      "title": "美国队 vs 波兰队",
+      "keyword": "08月02日19:30",
+      "sportItemId": "3",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "世界男排联赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/02/77KE3VDN9RQO.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2022/7/6/1000000008011065e8e5.png",
+      "pkInfoTitle": "美国队 vs 波兰队",
+      "modifyTitle": "世界男排联赛总决赛-决赛：美国队 vs 波兰队",
+      "presenters": "",
+      "matchInfo": {
+        "time": "08月02日19:30"
+      },
+      "nodes": [
+        {
+          "pID": "966520179",
+          "name": "CCTV5"
         }
       ]
     },
