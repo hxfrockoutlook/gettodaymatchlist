@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-03 13:31:13",
+  "updateTime": "2026-08-03 14:01:34",
   "data": [
     {
       "mgdbId": "120000585425",
@@ -120,7 +120,7 @@
       "title": "亚洲大学生篮球联赛",
       "keyword": "08月03日11:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "亚洲大学生篮球联赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000585473/202607281016_860635_H169_1080.webp",
@@ -152,7 +152,7 @@
       "title": "亚洲大学生篮球联赛",
       "keyword": "08月03日14:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "亚洲大学生篮球联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/02/77KE2DPE54EE.jpg",
@@ -184,7 +184,7 @@
       "title": "总决赛倒计时暨“体荟魔都”乒乓主题文化活动",
       "keyword": "08月03日14:00",
       "sportItemId": "7",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "乒乓球嘉年华",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/02/77KE4NOHPPLH.jpg",
@@ -208,7 +208,7 @@
       "title": "广东宏远vs吉林东北虎",
       "keyword": "08月03日14:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "全国青年篮球联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/02/77KE3RN0MPS4.png",
@@ -232,7 +232,7 @@
       "title": "上海久事vs浙江稠州银行",
       "keyword": "08月03日14:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "全国青年篮球联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/02/77KE3RV9UT1C.png",
@@ -480,7 +480,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "国青男篮热身赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/02/77KE30LUCMQ0.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/03/77KEUNGGUVTM.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/7/7/1000000014331068d4eb.png",
       "pkInfoTitle": "中国U18男篮vs韩国东国大学",
       "modifyTitle": "国青男篮热身赛",
@@ -528,6 +528,54 @@
         {
           "pID": "966437790",
           "name": "英文解说"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000586511",
+      "pID": "966535783",
+      "title": "江山VS开化",
+      "keyword": "08月03日19:30",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "浙BA",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/7/16/1000000012931063812e.png",
+      "pkInfoTitle": "江山VS开化",
+      "modifyTitle": "江山VS开化",
+      "presenters": "",
+      "matchInfo": {
+        "time": "08月03日19:30"
+      },
+      "nodes": [
+        {
+          "pID": "966535783",
+          "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000586512",
+      "pID": "966535788",
+      "title": "衢江VS柯城",
+      "keyword": "08月03日19:30",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "浙BA",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/7/16/1000000012931063812e.png",
+      "pkInfoTitle": "衢江VS柯城",
+      "modifyTitle": "衢江VS柯城",
+      "presenters": "",
+      "matchInfo": {
+        "time": "08月03日19:30"
+      },
+      "nodes": [
+        {
+          "pID": "966535788",
+          "name": "赛场原声"
         }
       ]
     },
