@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-04 20:01:45",
+  "updateTime": "2026-08-04 20:31:37",
   "data": [
     {
       "mgdbId": "120000583782",
@@ -158,15 +158,19 @@
         },
         {
           "pID": "966568981",
-          "name": "2026BWF韩国羽毛球大师赛Day1一号场地全场回放（赛场原声）（一）"
+          "name": "【全场回放】一号场地（赛场原声）（一）"
         },
         {
           "pID": "966569246",
-          "name": "2026BWF韩国羽毛球大师赛Day1一号场地全场回放（赛场原声）（二）"
+          "name": "【全场回放】一号场地（赛场原声）（二）"
         },
         {
           "pID": "966569427",
-          "name": "2026BWF韩国羽毛球大师赛Day1四号场地全场回放（赛场原声）（二）"
+          "name": "【全场回放】四号场地（赛场原声）（二）"
+        },
+        {
+          "pID": "966569559",
+          "name": "【全场回放】三号场地（赛场原声）（二）"
         }
       ]
     },
@@ -252,7 +256,7 @@
       "title": "中国攀岩联赛（贵州贵阳站）Day1",
       "keyword": "08月04日09:30",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "攀岩系列赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/03/77KF0KG7F83M.jpg",
@@ -265,8 +269,8 @@
       },
       "nodes": [
         {
-          "pID": "966536400",
-          "name": "贵州贵阳站"
+          "pID": "966569647",
+          "name": "2026中国攀岩联赛贵州贵阳站Day1全场回放（官方解说）（一）"
         }
       ]
     },
@@ -438,7 +442,7 @@
       "nodes": [
         {
           "pID": "966568957",
-          "name": "全场回放"
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
@@ -500,10 +504,10 @@
       "title": "小布首秀横扫 周启豪1-3松岛辉空",
       "keyword": "08月04日16:30",
       "sportItemId": "7",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/04/77KFTI1ARLMH.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/04/77KFTPSCVGV5.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "小布首秀横扫 周启豪1-3松岛辉空",
       "modifyTitle": "WTT横滨冠军赛男女单打1/16决赛",
@@ -545,20 +549,12 @@
       },
       "nodes": [
         {
-          "pID": "966444706",
-          "name": "AUBL亚洲大学生篮球联赛火热来袭！12支球队谁能杀出重围？"
+          "pID": "966569580",
+          "name": "全场回放"
         },
         {
-          "pID": "966438012",
-          "name": "解说"
-        },
-        {
-          "pID": "966438022",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "966438040",
-          "name": "英文解说"
+          "pID": "966569641",
+          "name": "全场回放"
         }
       ]
     },
@@ -588,22 +584,26 @@
     },
     {
       "mgdbId": "120000586245",
-      "pID": "966483772",
-      "title": "深圳新世纪vs北京首钢",
+      "pID": "966493367",
+      "title": "深圳新世纪83-72北京首钢",
       "keyword": "08月04日18:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "全国青年篮球联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/03/77KF0NIJ542O.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/12/24/10000000139310695eb8.png",
-      "pkInfoTitle": "深圳新世纪vs北京首钢",
+      "pkInfoTitle": "深圳新世纪83-72北京首钢",
       "modifyTitle": "全国青年篮球联赛",
       "presenters": "",
       "matchInfo": {
         "time": "08月04日18:30"
       },
       "nodes": [
+        {
+          "pID": "966493367",
+          "name": "【篮球公园】淬炼青春！聆听U17女篮世界杯之旅心声"
+        },
         {
           "pID": "966483772",
           "name": "清流播出"
@@ -613,15 +613,15 @@
     {
       "mgdbId": "120000586246",
       "pID": "966483775",
-      "title": "山东山高vs龙狮青年",
+      "title": "山东山高83-70龙狮青年",
       "keyword": "08月04日18:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "全国青年篮球联赛",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/12/24/10000000139310695eb8.png",
-      "pkInfoTitle": "山东山高vs龙狮青年",
+      "pkInfoTitle": "山东山高83-70龙狮青年",
       "modifyTitle": "全国青年篮球联赛",
       "presenters": "",
       "matchInfo": {
@@ -702,30 +702,6 @@
       "nodes": [
         {
           "pID": "966535857",
-          "name": "赛场原声"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000585389",
-      "pID": "966543955",
-      "title": "大同赛区暨广灵县第六届篮球联赛冠亚军决赛",
-      "keyword": "08月04日19:20",
-      "sportItemId": "2",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "晋超联赛",
-      "padImg": "",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/6/17/100000001493106c8171.png",
-      "pkInfoTitle": "大同赛区暨广灵县第六届篮球联赛冠亚军决赛",
-      "modifyTitle": "大同赛区暨广灵县第六届篮球联赛冠亚军决赛",
-      "presenters": "",
-      "matchInfo": {
-        "time": "08月04日19:20"
-      },
-      "nodes": [
-        {
-          "pID": "966543955",
           "name": "赛场原声"
         }
       ]
@@ -844,7 +820,7 @@
       "title": "山西汾酒vs广东宏远",
       "keyword": "08月04日20:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "全国青年篮球联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/03/77KEVPUVJ0TP.png",
@@ -868,7 +844,7 @@
       "title": "福建浔兴vs上海久事",
       "keyword": "08月04日20:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "全国青年篮球联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/03/77KEVQ1T31RK.png",
