@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-04 13:31:35",
+  "updateTime": "2026-08-04 14:01:41",
   "data": [
     {
       "mgdbId": "120000583782",
@@ -105,6 +105,10 @@
       },
       "nodes": [
         {
+          "pID": "966541975",
+          "name": "3号场地"
+        },
+        {
           "pID": "966542052",
           "name": "4号场地"
         },
@@ -115,10 +119,6 @@
         {
           "pID": "966541804",
           "name": "1号场地"
-        },
-        {
-          "pID": "966541975",
-          "name": "3号场地"
         }
       ]
     },
@@ -232,11 +232,11 @@
     },
     {
       "mgdbId": "120000585477",
-      "pID": "966437911",
+      "pID": "966444706",
       "title": "亚洲大学生篮球联赛",
       "keyword": "08月04日11:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "亚洲大学生篮球联赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000585477/202607281020_647374_H169_1080.webp",
@@ -248,6 +248,10 @@
         "time": "08月04日11:30"
       },
       "nodes": [
+        {
+          "pID": "966444706",
+          "name": "AUBL亚洲大学生篮球联赛火热来袭！12支球队谁能杀出重围？"
+        },
         {
           "pID": "966437911",
           "name": "李天宇 孔德昕"
@@ -268,7 +272,7 @@
       "title": "亚洲大学生篮球联赛",
       "keyword": "08月04日14:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "亚洲大学生篮球联赛",
       "padImg": "",
@@ -300,7 +304,7 @@
       "title": "四川锦城vs青岛国信海天",
       "keyword": "08月04日14:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "全国青年篮球联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/03/77KF06KAKOUK.png",
@@ -324,7 +328,7 @@
       "title": "辽宁沈阳三生vs浙江广厦",
       "keyword": "08月04日14:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "全国青年篮球联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/03/77KF0MO58MHG.png",
