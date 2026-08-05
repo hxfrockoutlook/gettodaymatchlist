@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-05 09:31:24",
+  "updateTime": "2026-08-05 10:01:26",
   "data": [
     {
       "mgdbId": "120000585898",
@@ -96,7 +96,7 @@
       "title": "蒯曼、陈熠冲首胜 美和PK削球手桥本",
       "keyword": "08月05日10:00",
       "sportItemId": "7",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/03/77KEV7B73KG7.jpg",
@@ -128,7 +128,7 @@
       "title": "中国攀岩联赛（贵州贵阳站）Day2",
       "keyword": "08月05日10:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "攀岩系列赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/04/77KFTHSFLQ7R.jpg",
@@ -299,30 +299,6 @@
       ]
     },
     {
-      "mgdbId": "120000586691",
-      "pID": "966554944",
-      "title": "太原赛区2026年晋源区“晋阳杯”第三届群众篮球联赛暨“村BA”总决赛",
-      "keyword": "08月05日16:50",
-      "sportItemId": "2",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "晋超联赛",
-      "padImg": "",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/6/17/100000001493106c8171.png",
-      "pkInfoTitle": "太原赛区2026年晋源区“晋阳杯”第三届群众篮球联赛暨“村BA”总决赛",
-      "modifyTitle": "太原赛区2026年晋源区“晋阳杯”第三届群众篮球联赛暨“村BA”总决赛",
-      "presenters": "",
-      "matchInfo": {
-        "time": "08月05日16:50"
-      },
-      "nodes": [
-        {
-          "pID": "966554944",
-          "name": "赛场原声"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000571948",
       "pID": "966088585",
       "title": "中乙联赛",
@@ -343,6 +319,30 @@
         {
           "pID": "966536151",
           "name": "解说"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000586691",
+      "pID": "966554944",
+      "title": "太原赛区2026年晋源区“晋阳杯”第三届群众篮球联赛暨“村BA”总决赛",
+      "keyword": "08月05日17:20",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "晋超联赛",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/6/17/100000001493106c8171.png",
+      "pkInfoTitle": "太原赛区2026年晋源区“晋阳杯”第三届群众篮球联赛暨“村BA”总决赛",
+      "modifyTitle": "太原赛区2026年晋源区“晋阳杯”第三届群众篮球联赛暨“村BA”总决赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "08月05日17:20"
+      },
+      "nodes": [
+        {
+          "pID": "966554944",
+          "name": "赛场原声"
         }
       ]
     },
