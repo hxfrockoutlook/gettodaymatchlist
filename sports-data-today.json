@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-06 17:31:18",
+  "updateTime": "2026-08-06 18:01:22",
   "data": [
     {
       "mgdbId": "120000585899",
@@ -108,7 +108,7 @@
     },
     {
       "mgdbId": "120000586651",
-      "pID": "966541832",
+      "pID": "966589193",
       "title": "胡哲安晋级八强 鲍骊婧/曹梓涵压阵",
       "keyword": "08月06日10:00",
       "sportItemId": "6",
@@ -119,11 +119,15 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "胡哲安晋级八强 鲍骊婧/曹梓涵压阵",
       "modifyTitle": "韩国羽毛球大师赛第三日：胡哲安晋级八强 鲍骊婧/曹梓涵压阵",
-      "presenters": "",
+      "presenters": "刘炳阳",
       "matchInfo": {
         "time": "08月06日10:00"
       },
       "nodes": [
+        {
+          "pID": "966589193",
+          "name": "李胜熙/朴敏智VS平本梨梨菜/石川心菜"
+        },
         {
           "pID": "966541832",
           "name": "1号场地"
@@ -249,31 +253,35 @@
       },
       "nodes": [
         {
-          "pID": "966604835",
-          "name": "全场回放"
+          "pID": "966603826",
+          "name": "全场集锦"
         },
         {
           "pID": "966604871",
           "name": "全场回放（李天宇、盛哲）"
         },
         {
-          "pID": "966603826",
-          "name": "全场集锦"
+          "pID": "966604928",
+          "name": "全场回放（英文解说）"
+        },
+        {
+          "pID": "966604835",
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
     {
       "mgdbId": "120000586262",
       "pID": "966485409",
-      "title": "深圳新世纪vs山西汾酒",
+      "title": "深圳新世纪87-76山西汾酒",
       "keyword": "08月06日15:55",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "全国青年篮球联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/05/77KGQBN4G3IF.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/12/24/10000000139310695eb8.png",
-      "pkInfoTitle": "深圳新世纪vs山西汾酒",
+      "pkInfoTitle": "深圳新世纪87-76山西汾酒",
       "modifyTitle": "全国青年篮球联赛",
       "presenters": "",
       "matchInfo": {
@@ -289,15 +297,15 @@
     {
       "mgdbId": "120000586263",
       "pID": "966485417",
-      "title": "山东山高vs福建浔兴",
+      "title": "山东山高87-62福建浔兴",
       "keyword": "08月06日16:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "全国青年篮球联赛",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/12/24/10000000139310695eb8.png",
-      "pkInfoTitle": "山东山高vs福建浔兴",
+      "pkInfoTitle": "山东山高87-62福建浔兴",
       "modifyTitle": "全国青年篮球联赛",
       "presenters": "",
       "matchInfo": {
@@ -380,7 +388,7 @@
       "title": "NBA精彩重播：湖人vs太阳",
       "keyword": "08月06日18:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA经典赛事",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/06/77KHMARUTVF5.png",
