@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-07 08:01:35",
+  "updateTime": "2026-08-07 08:31:23",
   "data": [
     {
       "mgdbId": "120000585900",
@@ -26,11 +26,15 @@
         },
         {
           "pID": "966473910",
-          "name": "赛场原声"
+          "name": "赛���原声"
         },
         {
           "pID": "966473924",
           "name": "英文原声"
+        },
+        {
+          "pID": "966473910",
+          "name": "赛场原声"
         }
       ]
     },
@@ -87,36 +91,12 @@
       ]
     },
     {
-      "mgdbId": "120000586932",
-      "pID": "966580276",
-      "title": "单打第一、二阶段",
-      "keyword": "08月07日08:30",
-      "sportItemId": "7",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "中国乒协会员联赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/06/77KHMQAM7URC.png",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/3/18/1000000014191068af2d.png",
-      "pkInfoTitle": "单打第一、二阶段",
-      "modifyTitle": "“李宁·红双喜杯”中国乒协会员联赛吉林长春站单打第一、二阶段",
-      "presenters": "",
-      "matchInfo": {
-        "time": "08月07日08:30"
-      },
-      "nodes": [
-        {
-          "pID": "966580276",
-          "name": "赛场原声"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000587115",
       "pID": "966602768",
       "title": "艺术体操比赛",
       "keyword": "08月07日08:30",
       "sportItemId": "4",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "贵州省运会",
       "padImg": "",
@@ -215,6 +195,30 @@
         {
           "pID": "966582489",
           "name": "清流播出"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000586932",
+      "pID": "966580276",
+      "title": "单打第一、二阶段",
+      "keyword": "08月07日10:00",
+      "sportItemId": "7",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "中国乒协会员联赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/06/77KHMQAM7URC.png",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/3/18/1000000014191068af2d.png",
+      "pkInfoTitle": "单打第一、二阶段",
+      "modifyTitle": "“李宁·红双喜杯”中国乒协会员联赛吉林长春站单打第一、二阶段",
+      "presenters": "",
+      "matchInfo": {
+        "time": "08月07日10:00"
+      },
+      "nodes": [
+        {
+          "pID": "966580276",
+          "name": "赛场原声"
         }
       ]
     },
