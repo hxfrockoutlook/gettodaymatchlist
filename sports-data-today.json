@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-08 16:03:16",
+  "updateTime": "2026-08-08 16:33:19",
   "data": [
     {
       "mgdbId": "120000583019",
@@ -322,11 +322,11 @@
         },
         {
           "pID": "966640654",
-          "name": "2026WTT横滨冠军赛Day5上午场全场回放（赛场原声）"
+          "name": "全场回放"
         },
         {
           "pID": "966640764",
-          "name": "2026WTT横滨冠军赛Day5上午场全场回放（英文解说）"
+          "name": "全场回放（英文解说）"
         }
       ]
     },
@@ -393,36 +393,24 @@
     {
       "mgdbId": "120000583653",
       "pID": "966573704",
-      "title": "上海乒乓球嘉年华混合团体冠军联赛半决赛：虹口邮储银行vs上善青浦队",
+      "title": "上海乒乓球嘉年华混合团体冠军联赛半决赛：虹口邮储银行5-8上善青浦队",
       "keyword": "08月08日14:00",
       "sportItemId": "7",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "乒乓球嘉年华",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/08/77KJG5SFE65P.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/08/77KJGVS093LS.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/9/100000001435106852ee.png",
-      "pkInfoTitle": "虹口邮储银行VS上善青浦队",
-      "modifyTitle": "上海乒乓球嘉年华混合团体冠军联赛半决赛：虹口邮储银行vs上善青浦队",
+      "pkInfoTitle": "虹口邮储银行5-8上善青浦队",
+      "modifyTitle": "上海乒乓球嘉年华混合团体冠军联赛半决赛：虹口邮储银行5-8上善青浦队",
       "presenters": "徐晨皓",
       "matchInfo": {
         "time": "08月08日14:00"
       },
       "nodes": [
         {
-          "pID": "966573704",
-          "name": "虹口邮储银行vs上善青浦队"
-        },
-        {
-          "pID": "966573686",
-          "name": "虹口邮储银行VS上善青浦队"
-        },
-        {
-          "pID": "966573707",
-          "name": "虹口教练席"
-        },
-        {
-          "pID": "966573716",
-          "name": "青浦教练席"
+          "pID": "966641313",
+          "name": "上海乒乓球嘉年华混合团体冠军联赛半决赛回放：虹口邮储银行5-8上善青浦队（徐晨皓）"
         }
       ]
     },
@@ -432,7 +420,7 @@
       "title": "上海乒乓球嘉年华混合团体冠军联赛半决赛：闵行沿浦vs黄浦南房",
       "keyword": "08月08日14:00",
       "sportItemId": "7",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "乒乓球嘉年华",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/06/77KHMPCNMNBK.png",
@@ -445,20 +433,8 @@
       },
       "nodes": [
         {
-          "pID": "966573736",
-          "name": "闵行沿浦vs黄浦南房"
-        },
-        {
-          "pID": "966573730",
-          "name": "闵行沿浦VS黄浦南房"
-        },
-        {
-          "pID": "966573752",
-          "name": "闵行教练席"
-        },
-        {
-          "pID": "966573763",
-          "name": "黄浦教练席"
+          "pID": "966641025",
+          "name": "全场回放（张靖松）"
         }
       ]
     },
@@ -488,7 +464,7 @@
     },
     {
       "mgdbId": "120000586361",
-      "pID": "966484457",
+      "pID": "966640820",
       "title": "龙狮青年61-76浙江广厦",
       "keyword": "08月08日14:00",
       "sportItemId": "2",
@@ -505,6 +481,10 @@
       },
       "nodes": [
         {
+          "pID": "966640820",
+          "name": "2026全国U19青年篮球联赛第6轮全场集锦：龙狮青年vs浙江广厦"
+        },
+        {
           "pID": "966484457",
           "name": "清流播出"
         }
@@ -512,7 +492,7 @@
     },
     {
       "mgdbId": "120000586546",
-      "pID": "966582583",
+      "pID": "966538866",
       "title": "斯诺克中国公开赛第一轮：丁俊晖VS大卫·吉尔伯特",
       "keyword": "08月08日14:00",
       "sportItemId": "8",
@@ -672,7 +652,7 @@
     },
     {
       "mgdbId": "120000583101",
-      "pID": "966538262",
+      "pID": "966198634",
       "title": "倪夏莲迎首秀 黄愉倢、彭郁涵争胜",
       "keyword": "08月08日15:00",
       "sportItemId": "7",
@@ -689,12 +669,12 @@
       },
       "nodes": [
         {
-          "pID": "966538262",
-          "name": "徐儒叶 周泽昊"
-        },
-        {
           "pID": "966198634",
           "name": "2号桌"
+        },
+        {
+          "pID": "966538262",
+          "name": "徐儒叶 周泽昊"
         },
         {
           "pID": "966198646",
@@ -892,7 +872,7 @@
       "title": "中乙联赛",
       "keyword": "08月08日16:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "乐动力临港足球综合运动中心",
       "competitionName": "中乙",
       "padImg": "",
@@ -919,7 +899,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/07/77KIL3QV05FO.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/08/77KJH1TUOEBI.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "蒯曼对战早田冲四强 小布迎战篠塚大登",
       "modifyTitle": "WTT横滨冠军赛男女单打1/4决赛",
@@ -948,7 +928,7 @@
       "title": "ONE武士系列赛2：野杁正明VS刘梦阳",
       "keyword": "08月08日16:30",
       "sportItemId": "5",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "ONE冠军赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/06/77KHM1OIJH7D.png",
@@ -980,7 +960,7 @@
       "title": "广东队vs诺丁汉森林",
       "keyword": "08月08日16:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "希望杯国际青少年俱乐部邀请赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000586784/202608041600_845206_H169_1080.webp",
@@ -1004,7 +984,7 @@
       "title": "武里南联vs梅州客家",
       "keyword": "08月08日16:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "希望杯国际青少年俱乐部邀请赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000586785/202608041555_192816_H169_1080.webp",
@@ -1049,15 +1029,15 @@
     {
       "mgdbId": "120000583655",
       "pID": "966573783",
-      "title": "上海乒乓球嘉年华混团冠军联赛决赛",
+      "title": "上海乒乓球嘉年华混合团体冠军联赛决赛",
       "keyword": "08月08日17:30",
       "sportItemId": "7",
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "乒乓球嘉年华",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/08/77KJH0JIN9GJ.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/9/100000001435106852ee.png",
-      "pkInfoTitle": "上海乒乓球嘉年华混团冠军联赛决赛",
+      "pkInfoTitle": "上善青浦队VS闵行沿浦",
       "modifyTitle": "上海乒乓球嘉年华混合团体冠军联赛决赛",
       "presenters": "邓亚萍 李晓霞 侯英超 阎森",
       "matchInfo": {
@@ -1249,7 +1229,7 @@
       "competitionName": "中乙",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/7/7/1000000011571060f297.png",
-      "pkInfoTitle": "泰安天贶 vs 大连英博B队",
+      "pkInfoTitle": "泰安天贶 vs 大连��博B队",
       "modifyTitle": "中乙联赛",
       "presenters": "",
       "matchInfo": {
@@ -2628,7 +2608,7 @@
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000586765/202608041052_335189_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/5/11/100000001464106a56b8.png",
       "pkInfoTitle": "吐鲁番VS阿勒泰",
-      "modifyTitle": "疆超��军赛",
+      "modifyTitle": "疆超季军赛",
       "presenters": "",
       "matchInfo": {
         "time": "08月08日21:00"
