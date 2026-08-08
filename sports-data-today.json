@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-08 09:32:41",
+  "updateTime": "2026-08-08 10:16:23",
   "data": [
     {
       "mgdbId": "120000583019",
@@ -220,7 +220,7 @@
       "title": "争四强！王艺迪对阵朱雨玲 陈幸同PK大藤",
       "keyword": "08月08日10:00",
       "sportItemId": "7",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/07/77KIJD5MMOIC.png",
@@ -252,7 +252,7 @@
       "title": "朱轩辰、韩千禧领衔冲决赛",
       "keyword": "08月08日10:00",
       "sportItemId": "6",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "BWF",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/07/77KIKGQRUMLN.png",
@@ -288,7 +288,7 @@
       "title": "甘肃省足球超级联赛",
       "keyword": "08月08日10:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "陇超",
       "padImg": "",
@@ -395,12 +395,7 @@
       "matchInfo": {
         "time": "08月08日14:00"
       },
-      "nodes": [
-        {
-          "pID": "966484426",
-          "name": "清流播出"
-        }
-      ]
+      "nodes": []
     },
     {
       "mgdbId": "120000586361",
@@ -556,6 +551,7 @@
     },
     {
       "mgdbId": "120000587234",
+      "pID": "966633929",
       "title": "村超球场day1",
       "keyword": "08月08日14:30",
       "sportItemId": "1",
@@ -570,7 +566,12 @@
       "matchInfo": {
         "time": "08月08日14:30"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "966633929",
+          "name": "赛场原声"
+        }
+      ]
     },
     {
       "mgdbId": "120000583101",
