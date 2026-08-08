@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-08 14:04:13",
+  "updateTime": "2026-08-08 14:33:11",
   "data": [
     {
       "mgdbId": "120000583019",
@@ -62,7 +62,7 @@
         },
         {
           "pID": "966634683",
-          "name": "副赛��场回放 （英文原声 ）"
+          "name": "副赛全场回放 （英文原声 ）"
         },
         {
           "pID": "966633862",
@@ -87,6 +87,14 @@
         {
           "pID": "966633146",
           "name": "爱德华多-内韦斯VS马克斯韦尔-詹图-纳纳"
+        },
+        {
+          "pID": "966639429",
+          "name": "PFL夏洛特站主赛全场回放（赛场原声）"
+        },
+        {
+          "pID": "966639524",
+          "name": "PFL夏洛特站主赛全场回放 （英文原声 ）"
         }
       ]
     },
@@ -108,6 +116,10 @@
         "time": "08月08日07:00"
       },
       "nodes": [
+        {
+          "pID": "966639246",
+          "name": "2026WTA1000多伦多站女单第3轮全场回放（英文原声）（二）"
+        },
         {
           "pID": "966638798",
           "name": "2026WTA1000多伦多站女单第3轮全场回放（赛场原声）（二）"
@@ -290,7 +302,7 @@
         },
         {
           "pID": "966638331",
-          "name": "【回���】安东尼·麦克吉尔6-0武圣光（赛场原声）"
+          "name": "【回��】安东尼·麦克吉尔6-0武圣光（赛场原声）"
         }
       ]
     },
@@ -315,6 +327,10 @@
         {
           "pID": "966637586",
           "name": "【女单1/4决赛】大藤沙月0-4陈幸同"
+        },
+        {
+          "pID": "966639554",
+          "name": "2026WTT横滨冠军赛Day5上午场全场回放（王睿涓）"
         }
       ]
     },
@@ -331,7 +347,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "韩千禧出战 朱轩辰晋级决赛",
       "modifyTitle": "韩国羽毛球大师赛第五日：韩千禧出战 朱轩辰晋级决赛",
-      "presenters": "朱胤丞 刘炳阳 张婕",
+      "presenters": "朱胤丞 刘炳阳",
       "matchInfo": {
         "time": "08月08日10:00"
       },
@@ -349,12 +365,12 @@
           "name": "1号场地"
         },
         {
-          "pID": "966541741",
-          "name": "1号场地英文视角"
-        },
-        {
           "pID": "966541936",
           "name": "2号场地"
+        },
+        {
+          "pID": "966541741",
+          "name": "1号场地英文视角"
         },
         {
           "pID": "966565346",
@@ -406,11 +422,11 @@
       "nodes": [
         {
           "pID": "966573704",
-          "name": "徐晨皓"
+          "name": "虹口邮储银行vs上善青浦队"
         },
         {
           "pID": "966573686",
-          "name": "赛场原声"
+          "name": "虹口邮储银行VS上善青浦队"
         },
         {
           "pID": "966573707",
@@ -442,11 +458,11 @@
       "nodes": [
         {
           "pID": "966573736",
-          "name": "张靖松"
+          "name": "闵行沿浦vs黄浦南房"
         },
         {
           "pID": "966573730",
-          "name": "赛场原声"
+          "name": "闵行沿浦VS黄浦南房"
         },
         {
           "pID": "966573752",
@@ -624,7 +640,7 @@
       "title": "当湖十局杯围棋快棋赛半决赛",
       "keyword": "08月08日14:30",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "中国围棋协会系列赛事",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/07/77KILKBR6RRP.png",
@@ -648,7 +664,7 @@
       "title": "村超球场day1",
       "keyword": "08月08日14:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "贵州村超全国赛",
       "padImg": "",
@@ -757,24 +773,28 @@
           "name": "何鹏 郝俊"
         },
         {
-          "pID": "966602842",
-          "name": "英文解说副赛"
+          "pID": "966624746",
+          "name": "官方副赛"
         },
         {
           "pID": "966602968",
-          "name": "第二直播间副赛"
+          "name": "第二直播间"
+        },
+        {
+          "pID": "966602842",
+          "name": "英文副赛"
         },
         {
           "pID": "966624708",
           "name": "何鹏 郝俊"
         },
         {
-          "pID": "966624746",
-          "name": "官方解说副赛"
+          "pID": "966624771",
+          "name": "官方主赛"
         },
         {
-          "pID": "966624771",
-          "name": "官方解说主赛"
+          "pID": "966603181",
+          "name": "英文主赛"
         }
       ]
     },
@@ -943,7 +963,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/7/16/1000000015101065ca9b.png",
       "pkInfoTitle": "ONE武士系列赛2：野杁正明VS刘梦阳",
       "modifyTitle": "ONE武士系列赛2：野杁正明VS刘梦阳",
-      "presenters": "李威蓄 马嘉文 任中贤",
+      "presenters": "李威蓄 马嘉文 任中贤 赵凡尘",
       "matchInfo": {
         "time": "08月08日16:30"
       },
@@ -954,7 +974,7 @@
         },
         {
           "pID": "966599790",
-          "name": "解说"
+          "name": "赵凡尘"
         },
         {
           "pID": "966599868",
@@ -1075,7 +1095,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "NBA经典赛事",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/08/77KJGD8PNHHN.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png",
       "pkInfoTitle": "NBA精彩重播：火箭vs掘金",
       "modifyTitle": "NBA经典赛事",
@@ -1084,6 +1104,10 @@
         "time": "08月08日18:00"
       },
       "nodes": [
+        {
+          "pID": "961212202",
+          "name": "25/26赛季NBA常规赛全场回放：火箭125:128掘金（连睿、周鹏、裴优）（50帧原画）（20251216）"
+        },
         {
           "pID": "966323942",
           "name": "连睿 周鹏 裴优"
