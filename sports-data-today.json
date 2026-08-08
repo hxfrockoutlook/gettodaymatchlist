@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-09 07:02:16",
+  "updateTime": "2026-08-09 07:32:18",
   "data": [
     {
       "mgdbId": "120000586417",
@@ -20,6 +20,14 @@
         "time": "08月09日00:00"
       },
       "nodes": [
+        {
+          "pID": "966655917",
+          "name": "全场回放（王琰博）"
+        },
+        {
+          "pID": "966655896",
+          "name": "麦肯纳VS奥利哈"
+        },
         {
           "pID": "966655712",
           "name": "沃尔什VS丹尼"
@@ -47,10 +55,6 @@
         {
           "pID": "966654339",
           "name": "奥康纳VS梅尔坎"
-        },
-        {
-          "pID": "966655896",
-          "name": "Zuffa拳击第10期中量级世界冠军战回放：亚伦-麦肯纳VS埃蒂诺萨-奥利哈"
         }
       ]
     },
@@ -124,7 +128,7 @@
       "title": "2026“阿尔1198”阿尔山马拉松",
       "keyword": "08月09日07:30",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "马拉松系列赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/05/77KGPPR5NBFG.jpg",
@@ -219,7 +223,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "中国乒协会员联赛",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/09/77KKEUJ57Q9V.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/3/18/1000000014191068af2d.png",
       "pkInfoTitle": "团体第一、二阶段、半决赛决赛、附加赛",
       "modifyTitle": "“李宁·红双喜杯”中国乒协会员联赛吉林长春站团体第一、二阶段、半决赛决赛、附加赛",
@@ -308,8 +312,8 @@
     },
     {
       "mgdbId": "120000586654",
-      "pID": "966541747",
-      "title": "韩千禧PK查莉哈 朱轩辰VS俞泰彬",
+      "pID": "966653079",
+      "title": "韩国羽毛球大师赛第六日",
       "keyword": "08月09日10:00",
       "sportItemId": "6",
       "matchStatus": "0",
@@ -317,13 +321,17 @@
       "competitionName": "BWF",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/08/77KJHJTOAUT1.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
-      "pkInfoTitle": "韩千禧PK查莉哈 朱轩辰VS俞泰彬",
+      "pkInfoTitle": "韩国羽毛球大师赛第六日",
       "modifyTitle": "韩国羽毛球大师赛第六日：韩千禧PK查莉哈 朱轩辰VS俞泰彬",
-      "presenters": "余博洋 孙宁智",
+      "presenters": "余博洋",
       "matchInfo": {
         "time": "08月09日10:00"
       },
       "nodes": [
+        {
+          "pID": "966653079",
+          "name": "查莉哈VS韩千禧"
+        },
         {
           "pID": "966541747",
           "name": "1号场地"
@@ -331,26 +339,6 @@
         {
           "pID": "966541759",
           "name": "1号场地英文视角"
-        },
-        {
-          "pID": "966653079",
-          "name": "查莉哈VS韩千禧"
-        },
-        {
-          "pID": "966653092",
-          "name": "渡边勇大/田口真彩VS金在贤/张荷贞"
-        },
-        {
-          "pID": "966653103",
-          "name": "俞泰彬VS朱轩辰"
-        },
-        {
-          "pID": "966653114",
-          "name": "万炜聪/苏伟译VS郑凯文/叶睿庆"
-        },
-        {
-          "pID": "966653119",
-          "name": "罗意/王汀戈VS本雅帕/伦塔卡恩"
         }
       ]
     },
