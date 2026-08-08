@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-08 07:32:58",
+  "updateTime": "2026-08-08 08:02:51",
   "data": [
     {
       "mgdbId": "120000583019",
@@ -83,11 +83,35 @@
       ]
     },
     {
+      "mgdbId": "120000586907",
+      "pID": "966576349",
+      "title": "中国自行车运动骑游大会·草系列",
+      "keyword": "08月08日08:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "中国自行车运动协会系列赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/07/77KIL5PIDTK4.png",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/6/25/100000001499106b6db1.png",
+      "pkInfoTitle": "中国自行车运动骑游大会·草系列",
+      "modifyTitle": "中国自行车运动骑游大会鄂尔多斯站第一日",
+      "presenters": "",
+      "matchInfo": {
+        "time": "08月08日08:00"
+      },
+      "nodes": [
+        {
+          "pID": "966576349",
+          "name": "解说"
+        }
+      ]
+    },
+    {
       "mgdbId": "300000002234",
       "pID": "966489865",
       "title": "咪咕体育日报 第143期",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "咪咕体育日报",
       "padImg": "",
@@ -123,30 +147,6 @@
         {
           "pID": "966580246",
           "name": "赛场原声"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000586907",
-      "pID": "966576349",
-      "title": "中国自行车运动骑游大会鄂尔多斯站第一日",
-      "keyword": "08月08日08:40",
-      "sportItemId": "8",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "中国自行车运动协会系列赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/07/77KIL5PIDTK4.png",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/6/25/100000001499106b6db1.png",
-      "pkInfoTitle": "中国自行车运动骑游大会鄂尔多斯站第一日",
-      "modifyTitle": "中国自行车运动骑游大会鄂尔多斯站第一日",
-      "presenters": "",
-      "matchInfo": {
-        "time": "08月08日08:40"
-      },
-      "nodes": [
-        {
-          "pID": "966576349",
-          "name": "解说"
         }
       ]
     },
@@ -240,7 +240,7 @@
     },
     {
       "mgdbId": "120000586653",
-      "pID": "966541724",
+      "pID": "966631400",
       "title": "韩国羽毛球大师赛第五日",
       "keyword": "08月08日10:00",
       "sportItemId": "6",
@@ -251,11 +251,15 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "韩国羽毛球大师赛第五日",
       "modifyTitle": "韩国羽毛球大师赛第五日：朱轩辰PK詹俊为 韩千禧迎战金佳蓝",
-      "presenters": "杨妮娜 张婕 朱胤丞 王乐之 刘炳阳",
+      "presenters": "杨妮娜",
       "matchInfo": {
         "time": "08月08日10:00"
       },
       "nodes": [
+        {
+          "pID": "966631400",
+          "name": "川边悠阳/石川心菜VS金在贤/张荷贞"
+        },
         {
           "pID": "966541724",
           "name": "1号场地"
@@ -267,46 +271,6 @@
         {
           "pID": "966565346",
           "name": "智能字幕"
-        },
-        {
-          "pID": "966631400",
-          "name": "川边悠阳/石川心菜VS金在贤/张荷贞"
-        },
-        {
-          "pID": "966631407",
-          "name": "朱轩辰VS詹俊为"
-        },
-        {
-          "pID": "966631426",
-          "name": "渡边勇大/田口真彩VS高家炫/吴梦莹"
-        },
-        {
-          "pID": "966631431",
-          "name": "冲本优大VS俞泰彬"
-        },
-        {
-          "pID": "966631449",
-          "name": "韩千禧VS金佳蓝"
-        },
-        {
-          "pID": "966631458",
-          "name": "金裕贞/李幽琳VS罗意/王汀戈"
-        },
-        {
-          "pID": "966631463",
-          "name": "川边悠阳/松川健大VS万炜聪/苏伟译"
-        },
-        {
-          "pID": "966631470",
-          "name": "本雅帕/伦塔卡恩VS李胜熙/朴敏智"
-        },
-        {
-          "pID": "966631486",
-          "name": "查莉哈VS拉克希塔"
-        },
-        {
-          "pID": "966631500",
-          "name": "泽田修志/谷冈大后VS郑凯文/叶睿庆"
         }
       ]
     },
