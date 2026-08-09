@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-09 16:02:28",
+  "updateTime": "2026-08-09 16:32:21",
   "data": [
     {
       "mgdbId": "120000586417",
@@ -89,10 +89,6 @@
           "name": "【主赛全场】（陈瑞阳、郑文祺）"
         },
         {
-          "pID": "966657436",
-          "name": "【副赛全场】英文解说"
-        },
-        {
           "pID": "966658743",
           "name": "【主赛全场】（英文原声）"
         },
@@ -117,6 +113,22 @@
           "name": "米勒VS戈夫"
         },
         {
+          "pID": "966657436",
+          "name": "【副赛全场】英文解说"
+        },
+        {
+          "pID": "966662339",
+          "name": "阿斯普朗德VS帕特"
+        },
+        {
+          "pID": "966660686",
+          "name": "努尔戈扎伊VS洛佩斯"
+        },
+        {
+          "pID": "966660901",
+          "name": "萨瑟兰VS席尔瓦"
+        },
+        {
           "pID": "966659221",
           "name": "索萨 VS米兰达"
         },
@@ -125,24 +137,12 @@
           "name": "约翰斯VS罗萨斯"
         },
         {
-          "pID": "966659549",
-          "name": "UFC格斗之夜284期副赛回放：吉吉-卡努托VS卡罗尔-福罗"
-        },
-        {
           "pID": "966660567",
-          "name": "UFC格斗之夜284期副赛回放：朱莉安娜-米勒VS拉文娜-奥利维拉"
+          "name": "米勒VS奥利维拉"
         },
         {
-          "pID": "966660686",
-          "name": "UFC格斗之夜284期副赛回放：迪亚尔-努尔戈扎伊VS布鲁诺-洛佩斯"
-        },
-        {
-          "pID": "966660901",
-          "name": "UFC格斗之夜284期副赛回放：路易-萨瑟兰VS何塞-蒙塔尼亚-达-席尔瓦"
-        },
-        {
-          "pID": "966662339",
-          "name": "UFC格斗之夜284期副赛回放：史蒂文-阿斯普朗德VS吉列尔梅-帕特"
+          "pID": "966659549",
+          "name": "卡努托VS福罗"
         }
       ]
     },
@@ -186,7 +186,7 @@
         },
         {
           "pID": "966655422",
-          "name": "【回放】科斯秋克1-2斯瓦泰克（赛场原���）"
+          "name": "【回放】科斯秋克1-2斯瓦泰克（赛场原声）"
         },
         {
           "pID": "966659239",
@@ -665,16 +665,16 @@
           "name": "李柯鑫 徐儒叶"
         },
         {
-          "pID": "966198746",
-          "name": "2号桌"
-        },
-        {
           "pID": "966198777",
           "name": "4号桌"
         },
         {
           "pID": "966198761",
           "name": "3号桌"
+        },
+        {
+          "pID": "966198746",
+          "name": "2号桌"
         }
       ]
     },
@@ -828,7 +828,7 @@
       "title": "职中球场day1",
       "keyword": "08月09日16:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "贵州村超全国赛",
       "padImg": "",
@@ -924,7 +924,7 @@
       "title": "冲冠！陈幸同PK张本美和 张本智和战吴晙诚",
       "keyword": "08月09日17:30",
       "sportItemId": "7",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/09/77KKDPD4F969.png",
@@ -939,6 +939,10 @@
         {
           "pID": "966483901",
           "name": "周冠达 程靖淇 马特"
+        },
+        {
+          "pID": "966537875",
+          "name": "同看瑞满"
         },
         {
           "pID": "966197565",
@@ -957,7 +961,7 @@
       "keyword": "08月09日18:00",
       "sportItemId": "1",
       "matchStatus": "0",
-      "matchField": "延吉市全民健身���育中心体育场",
+      "matchField": "延吉市全民健身体育中心体育场",
       "competitionName": "中甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000570606/643932_H169_sc.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/10106c2211.png",
@@ -1211,30 +1215,6 @@
         {
           "pID": "966555886",
           "name": "赛场原声"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000571897",
-      "pID": "966605237",
-      "title": "中乙联赛",
-      "keyword": "08月09日19:30",
-      "sportItemId": "1",
-      "matchStatus": "0",
-      "matchField": "珂缔缘赛事中心体育场",
-      "competitionName": "中乙",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000571897/202603120906_274182_H169_1080.webp",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/7/7/1000000011571060f297.png",
-      "pkInfoTitle": "海门珂缔缘 vs 青岛红狮",
-      "modifyTitle": "中乙联赛",
-      "presenters": "",
-      "matchInfo": {
-        "time": "08月09日19:30"
-      },
-      "nodes": [
-        {
-          "pID": "966605237",
-          "name": "解说"
         }
       ]
     },
