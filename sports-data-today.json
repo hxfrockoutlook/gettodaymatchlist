@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-09 22:02:31",
+  "updateTime": "2026-08-09 22:32:28",
   "data": [
     {
       "mgdbId": "120000586417",
@@ -328,7 +328,7 @@
       "title": "三中球场day1",
       "keyword": "08月09日09:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "贵州村超全国赛",
       "padImg": "",
@@ -657,7 +657,7 @@
     {
       "mgdbId": "120000583103",
       "pID": "966537875",
-      "title": "倪夏莲直落三局 陈颢桦迎战洪敬恺",
+      "title": "倪夏莲直落三局 陈颢桦止步资格赛",
       "keyword": "08月09日16:00",
       "sportItemId": "7",
       "matchStatus": "1",
@@ -665,7 +665,7 @@
       "competitionName": "WTT",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/09/77KKFLL4J6RV.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "倪夏莲直落三局 陈颢桦迎战洪敬恺",
+      "pkInfoTitle": "倪夏莲直落三局 陈颢桦止步资格赛",
       "modifyTitle": "WTT欧洲大满贯瑞典站男女单打资格赛第二轮",
       "presenters": "李柯鑫 徐儒叶",
       "matchInfo": {
@@ -844,7 +844,7 @@
       "title": "职中球场day1",
       "keyword": "08月09日16:30",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "贵州村超全国赛",
       "padImg": "",
@@ -882,7 +882,7 @@
       "nodes": [
         {
           "pID": "966668623",
-          "name": "全场回放"
+          "name": "全场回放（官方解说）"
         }
       ]
     },
@@ -930,7 +930,7 @@
       "nodes": [
         {
           "pID": "966670501",
-          "name": "全场回放"
+          "name": "全场回放（官方解说）"
         }
       ]
     },
@@ -1028,7 +1028,7 @@
     },
     {
       "mgdbId": "120000586372",
-      "pID": "966484403",
+      "pID": "966671744",
       "title": "四川锦城95-65天津荣钢",
       "keyword": "08月09日18:30",
       "sportItemId": "2",
@@ -1046,13 +1046,13 @@
       "nodes": [
         {
           "pID": "966671744",
-          "name": "2026全国U19青年篮球联赛第7轮全场回放：四川锦城vs天津荣钢（赛场原声）"
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
     {
       "mgdbId": "120000586373",
-      "pID": "966484428",
+      "pID": "966671358",
       "title": "辽宁沈阳三生73-60新疆广汇",
       "keyword": "08月09日18:30",
       "sportItemId": "2",
@@ -1070,7 +1070,7 @@
       "nodes": [
         {
           "pID": "966671358",
-          "name": "2026全国U19青年篮球联赛第7轮全场回放：辽宁沈阳三生vs新疆广汇（赛场原声）"
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
@@ -1092,6 +1092,22 @@
         "time": "08月09日19:00"
       },
       "nodes": [
+        {
+          "pID": "966672192",
+          "name": "全场回放（袁甲、王伟）"
+        },
+        {
+          "pID": "966672224",
+          "name": "全场回放"
+        },
+        {
+          "pID": "966672356",
+          "name": "全场回放"
+        },
+        {
+          "pID": "966672303",
+          "name": "全场回放"
+        },
         {
           "pID": "966672661",
           "name": "全场集锦"
@@ -1141,6 +1157,10 @@
       },
       "nodes": [
         {
+          "pID": "966673778",
+          "name": "全场回放（娄一晨、李彦、邵凌霄）"
+        },
+        {
           "pID": "966673782",
           "name": "全场集锦"
         }
@@ -1152,7 +1172,7 @@
       "title": "陇超决赛",
       "keyword": "08月09日19:00",
       "sportItemId": "1",
-      "matchStatus": "2",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "陇超",
       "padImg": "",
@@ -1203,7 +1223,7 @@
       "matchStatus": "2",
       "matchField": "越秀山体育场",
       "competitionName": "中甲",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000570604/147629_H169_sc.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000570604/931736_H169_sc.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/10106c2211.png",
       "pkInfoTitle": "广东广州豹 vs 广西恒宸",
       "modifyTitle": "中甲联赛",
@@ -1214,7 +1234,7 @@
       "nodes": [
         {
           "pID": "966672710",
-          "name": "全场集锦"
+          "name": "超长版集锦"
         }
       ]
     },
@@ -1224,10 +1244,10 @@
       "title": "中乙联赛",
       "keyword": "08月09日19:30",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "广东省人民体育场",
       "competitionName": "中乙",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000571898/202603120906_860640_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000571898/202608092200_142984_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/7/7/1000000011571060f297.png",
       "pkInfoTitle": "广东铭途 vs 温州",
       "modifyTitle": "中乙联赛",
@@ -1512,7 +1532,7 @@
       "title": "中超联赛",
       "keyword": "08月09日19:35",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "重庆龙兴足球场",
       "competitionName": "中超",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000569643/894508_H169_sc.jpg",
@@ -1525,28 +1545,8 @@
       },
       "nodes": [
         {
-          "pID": "966585698",
-          "name": "刘腾 孙雷 程思钦"
-        },
-        {
-          "pID": "966585690",
-          "name": "石庆圣"
-        },
-        {
-          "pID": "966585685",
-          "name": "重庆铜梁龙球星视角"
-        },
-        {
-          "pID": "966585679",
-          "name": "上海海港球星视角"
-        },
-        {
-          "pID": "966585666",
-          "name": "数智战术视角"
-        },
-        {
-          "pID": "966585656",
-          "name": "4K赛场原声"
+          "pID": "966674470",
+          "name": "超长版集锦"
         }
       ]
     },
@@ -1604,10 +1604,10 @@
       "title": "中超联赛",
       "keyword": "08月09日20:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "济南奥体中心体育场",
       "competitionName": "中超",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000569642/606015_H169_sc.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000569642/652484_H169_sc.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png",
       "pkInfoTitle": "山东泰山 vs 天津津门虎",
       "modifyTitle": "中超联赛",
@@ -1656,10 +1656,10 @@
       "title": "足球热身赛",
       "keyword": "08月09日20:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "足球热身赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000586953/759374_H169_sc.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/09/77KKFRQOIMIH.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2022/7/12/1000000008461068fbfd.png",
       "pkInfoTitle": "切尔西vs柔佛新山",
       "modifyTitle": "足球热身赛",
@@ -1705,15 +1705,15 @@
     {
       "mgdbId": "120000586375",
       "pID": "966484443",
-      "title": "上海久事vs浙江广厦",
+      "title": "上海久事59-67浙江广厦",
       "keyword": "08月09日20:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "全国青年篮球联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/08/77KJINLI278F.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/12/24/10000000139310695eb8.png",
-      "pkInfoTitle": "上海久事vs浙江广厦",
+      "pkInfoTitle": "上海久事59-67浙江广厦",
       "modifyTitle": "全国青年篮球联赛",
       "presenters": "",
       "matchInfo": {
@@ -1757,7 +1757,7 @@
     {
       "mgdbId": "120000583104",
       "pID": "966537888",
-      "title": "男女单打资格赛最终轮",
+      "title": "倪夏莲迎战彭郁涵 郭勇PK格林",
       "keyword": "08月09日23:00",
       "sportItemId": "7",
       "matchStatus": "0",
@@ -1765,7 +1765,7 @@
       "competitionName": "WTT",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/09/77KKFH768F34.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "男女单打资格赛最终轮",
+      "pkInfoTitle": "倪夏莲迎战彭郁涵 郭勇PK格林",
       "modifyTitle": "WTT欧洲大满贯瑞典站男女单打资格赛最终轮",
       "presenters": "周泽昊",
       "matchInfo": {
