@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-10 02:31:13",
+  "updateTime": "2026-08-10 03:01:21",
   "data": [
     {
       "mgdbId": "120000585903",
@@ -44,7 +44,7 @@
     },
     {
       "mgdbId": "120000586596",
-      "pID": "966682053",
+      "pID": "966682461",
       "title": "BIG3",
       "keyword": "08月10日01:00",
       "sportItemId": "2",
@@ -63,16 +63,20 @@
         {
           "pID": "966682461",
           "name": "全场回放（蔡凯臣）"
+        },
+        {
+          "pID": "966682591",
+          "name": "全场回放（英文原声）"
         }
       ]
     },
     {
       "mgdbId": "120000586597",
-      "pID": "966540921",
+      "pID": "966682622",
       "title": "BIG3",
       "keyword": "08月10日02:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "BIG3",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/09/77KKFV5U2FDI.png",
@@ -84,6 +88,10 @@
         "time": "08月10日02:00"
       },
       "nodes": [
+        {
+          "pID": "966682622",
+          "name": "一波流！布鲁尔弧顶三分抬手就有打停波士顿"
+        },
         {
           "pID": "966540921",
           "name": "蔡凯臣"
