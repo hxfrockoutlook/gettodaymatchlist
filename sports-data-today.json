@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-09 09:02:15",
+  "updateTime": "2026-08-09 09:32:07",
   "data": [
     {
       "mgdbId": "120000586417",
@@ -55,6 +55,10 @@
         {
           "pID": "966654339",
           "name": "奥康纳VS梅尔坎"
+        },
+        {
+          "pID": "966656672",
+          "name": "Zuffa拳击第10期全场回放（英文原声）"
         }
       ]
     },
@@ -292,7 +296,7 @@
       "title": "当湖十局杯围棋快棋赛决赛",
       "keyword": "08月09日09:30",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "中国围棋协会系列赛事",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/09/77KKGE8VCBPM.png",
@@ -363,6 +367,30 @@
         {
           "pID": "966582614",
           "name": "清流播出"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000587385",
+      "pID": "966656521",
+      "title": "陇超季军赛",
+      "keyword": "08月09日10:00",
+      "sportItemId": "1",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "陇超",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000587385/202608090901_573002_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/6/18/100000001496106fa154.png",
+      "pkInfoTitle": "嘉峪关VS陇南",
+      "modifyTitle": "陇超季军赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "08月09日10:00"
+      },
+      "nodes": [
+        {
+          "pID": "966656521",
+          "name": "赛场原声"
         }
       ]
     },
@@ -494,7 +522,11 @@
         },
         {
           "pID": "966539113",
-          "name": "1号桌"
+          "name": "特鲁姆普vs桑卡姆"
+        },
+        {
+          "pID": "966539123",
+          "name": "肖国栋vs麦克吉尔"
         }
       ]
     },
@@ -522,7 +554,11 @@
         },
         {
           "pID": "966539123",
-          "name": "2号桌"
+          "name": "肖国栋vs麦克吉尔"
+        },
+        {
+          "pID": "966539113",
+          "name": "特鲁姆普vs桑卡姆"
         }
       ]
     },
@@ -538,7 +574,7 @@
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/09/77KKE634EIUJ.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "倪夏莲冲连胜 陈颢桦迎战洪敬恺",
-      "modifyTitle": "WTT欧洲大满贯瑞典站男女单打资格赛第二轮",
+      "modifyTitle": "WTT欧洲大��贯瑞典站男女单打资格赛第二轮",
       "presenters": "李柯鑫 徐儒叶",
       "matchInfo": {
         "time": "08月09日16:00"
@@ -1047,6 +1083,30 @@
       ]
     },
     {
+      "mgdbId": "120000587386",
+      "pID": "966656532",
+      "title": "陇超决赛",
+      "keyword": "08月09日19:00",
+      "sportItemId": "1",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "陇超",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/6/18/100000001496106fa154.png",
+      "pkInfoTitle": "兰州VS甘南",
+      "modifyTitle": "陇超决赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "08月09日19:00"
+      },
+      "nodes": [
+        {
+          "pID": "966656532",
+          "name": "赛场原声"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000574269",
       "pID": "964851652",
       "title": "东北地区城市足球联赛",
@@ -1172,7 +1232,7 @@
     },
     {
       "mgdbId": "120000586552",
-      "pID": "966539139",
+      "pID": "966582243",
       "title": "斯诺克中国公开赛第一轮：罗尼·奥沙利文 VS 杰克逊·佩奇",
       "keyword": "08月09日19:30",
       "sportItemId": "8",
@@ -1189,18 +1249,22 @@
       },
       "nodes": [
         {
-          "pID": "966539139",
-          "name": "1号桌"
-        },
-        {
           "pID": "966582243",
           "name": "乔迁"
+        },
+        {
+          "pID": "966539139",
+          "name": "奥沙利文vs佩奇"
+        },
+        {
+          "pID": "966539160",
+          "name": "墨菲vs塞尔特"
         }
       ]
     },
     {
       "mgdbId": "120000586553",
-      "pID": "966539160",
+      "pID": "966582206",
       "title": "斯诺克中国公开赛第一轮：肖恩·墨菲 VS 马修·塞尔特",
       "keyword": "08月09日19:30",
       "sportItemId": "8",
@@ -1217,12 +1281,16 @@
       },
       "nodes": [
         {
-          "pID": "966539160",
-          "name": "2号桌"
-        },
-        {
           "pID": "966582206",
           "name": "涂子轩"
+        },
+        {
+          "pID": "966539160",
+          "name": "墨菲vs塞尔特"
+        },
+        {
+          "pID": "966539139",
+          "name": "奥沙利文vs佩奇"
         }
       ]
     },
