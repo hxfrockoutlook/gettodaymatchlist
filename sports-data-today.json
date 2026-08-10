@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-10 09:01:18",
+  "updateTime": "2026-08-10 09:31:13",
   "data": [
     {
       "mgdbId": "120000586596",
@@ -232,7 +232,7 @@
     },
     {
       "mgdbId": "120000586554",
-      "pID": "966539172",
+      "pID": "966582112",
       "title": "斯诺克中国公开赛第一轮：尼尔·罗伯逊 VS 常冰玉",
       "keyword": "08月10日14:00",
       "sportItemId": "8",
@@ -249,18 +249,22 @@
       },
       "nodes": [
         {
-          "pID": "966539172",
-          "name": "1号桌"
-        },
-        {
           "pID": "966582112",
           "name": "秦正"
+        },
+        {
+          "pID": "966539172",
+          "name": "罗伯逊vs常冰玉"
+        },
+        {
+          "pID": "966539185",
+          "name": "斯佳辉vs江俊"
         }
       ]
     },
     {
       "mgdbId": "120000586555",
-      "pID": "966539185",
+      "pID": "966582072",
       "title": "斯诺克中国公开赛第一轮：斯佳辉 VS 江俊",
       "keyword": "08月10日14:00",
       "sportItemId": "8",
@@ -277,12 +281,16 @@
       },
       "nodes": [
         {
-          "pID": "966539185",
-          "name": "2号桌"
-        },
-        {
           "pID": "966582072",
           "name": "乔迁"
+        },
+        {
+          "pID": "966539185",
+          "name": "斯佳辉vs江俊"
+        },
+        {
+          "pID": "966539172",
+          "name": "罗伯逊vs常冰玉"
         }
       ]
     },
@@ -295,7 +303,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "全国青少年体操U系列锦标赛",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/10/77KLCLCDFDF3.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/7/18/1000000012941069da17.png",
       "pkInfoTitle": "全国青年体操U系列锦标赛Day4",
       "modifyTitle": "全国青年体操U系列锦标赛Day4",
@@ -456,7 +464,7 @@
     },
     {
       "mgdbId": "120000586556",
-      "pID": "966539197",
+      "pID": "966582034",
       "title": "斯诺克中国公开赛第一轮：凯伦·威尔逊 VS 亚伦·希尔",
       "keyword": "08月10日19:30",
       "sportItemId": "8",
@@ -467,24 +475,28 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "凯伦·威尔逊 VS 亚伦·希尔",
       "modifyTitle": "斯诺克中国公开赛第一轮：凯伦·威尔逊 VS 亚伦·希尔",
-      "presenters": "朱峰立",
+      "presenters": "杨江浩",
       "matchInfo": {
         "time": "08月10日19:30"
       },
       "nodes": [
         {
-          "pID": "966539197",
-          "name": "1号桌"
+          "pID": "966582034",
+          "name": "杨江浩"
         },
         {
-          "pID": "966582034",
-          "name": "朱峰立"
+          "pID": "966539197",
+          "name": "威尔逊vs希尔"
+        },
+        {
+          "pID": "966539205",
+          "name": "塞尔比vs庞俊旭"
         }
       ]
     },
     {
       "mgdbId": "120000586557",
-      "pID": "966539205",
+      "pID": "966582006",
       "title": "斯诺克中国公开赛第一轮：马克·塞尔比 VS 庞俊旭",
       "keyword": "08月10日19:30",
       "sportItemId": "8",
@@ -501,12 +513,16 @@
       },
       "nodes": [
         {
-          "pID": "966539205",
-          "name": "2号桌"
-        },
-        {
           "pID": "966582006",
           "name": "陶哲铭"
+        },
+        {
+          "pID": "966539205",
+          "name": "塞尔比vs庞俊旭"
+        },
+        {
+          "pID": "966539197",
+          "name": "威尔逊vs希尔"
         }
       ]
     },
