@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-10 13:31:22",
+  "updateTime": "2026-08-10 14:01:33",
   "data": [
     {
       "mgdbId": "120000586596",
@@ -220,7 +220,7 @@
       "title": "斯诺克中国公开赛第一轮：尼尔·罗伯逊 VS 常冰玉",
       "keyword": "08月10日14:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/09/77KKFKKUEGV1.jpg",
@@ -234,7 +234,7 @@
       "nodes": [
         {
           "pID": "966582112",
-          "name": "秦正"
+          "name": "解说：秦正"
         },
         {
           "pID": "966539172",
@@ -252,7 +252,7 @@
       "title": "斯诺克中国公开赛第一轮：斯佳辉 VS 江俊",
       "keyword": "08月10日14:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/09/77KKFRH3TG3H.jpg",
@@ -471,25 +471,6 @@
       ]
     },
     {
-      "mgdbId": "120000587122",
-      "pID": "966613486",
-      "title": "上海明日之星篮球争冠赛",
-      "keyword": "08月10日19:00",
-      "sportItemId": "2",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "上海明日之星篮球争冠赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/09/77KKDU558QJ9.png",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/6/4/100000001086106ec13f.png",
-      "pkInfoTitle": "上海李宁之队vs意大利瓦雷泽篮球俱乐部",
-      "modifyTitle": "上海明日之星篮球争冠赛",
-      "presenters": "",
-      "matchInfo": {
-        "time": "08月10日19:00"
-      },
-      "nodes": []
-    },
-    {
       "mgdbId": "120000586556",
       "pID": "966582034",
       "title": "斯诺克中国公开赛第一轮：凯伦·威尔逊 VS 亚伦·希尔",
@@ -576,6 +557,25 @@
           "name": "清流播出"
         }
       ]
+    },
+    {
+      "mgdbId": "120000587122",
+      "pID": "120000587122",
+      "title": "上海李宁之队vs意大利瓦雷泽篮球俱乐部",
+      "keyword": "08月10日18:50",
+      "sportItemId": "",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "上海明日之星篮球争冠赛",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/07/10/11005/998b79f8eb354e9db21274f5d0ed2875/998b79f8eb354e9db21274f5d0ed2875_H169_P1080_WEBP.webp",
+      "competitionLogo": "",
+      "pkInfoTitle": "上海李宁之队vs意大利瓦雷泽篮球俱乐部",
+      "modifyTitle": "上海李宁之队vs意大利瓦雷泽篮球俱乐部",
+      "presenters": "",
+      "matchInfo": {
+        "time": "08月10日18:50"
+      },
+      "nodes": []
     }
   ]
 }
