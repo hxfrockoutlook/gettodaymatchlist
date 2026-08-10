@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-10 17:01:18",
+  "updateTime": "2026-08-10 17:31:15",
   "data": [
     {
       "mgdbId": "120000586596",
@@ -256,7 +256,7 @@
       "title": "斯诺克中国公开赛第一轮：斯佳辉 6-0 江俊",
       "keyword": "08月10日14:00",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/09/77KKFRH3TG3H.jpg",
@@ -269,16 +269,12 @@
       },
       "nodes": [
         {
-          "pID": "966539172",
-          "name": "罗伯逊vs常冰玉"
+          "pID": "966690587",
+          "name": "26/27斯诺克中国公开赛第1轮回放：斯佳辉6-0江俊（乔迁）"
         },
         {
-          "pID": "966582072",
-          "name": "解说"
-        },
-        {
-          "pID": "966539185",
-          "name": "斯佳辉vs江俊"
+          "pID": "966691080",
+          "name": "26/27斯诺克中国公开赛第1轮回放：斯佳辉6-0江俊（赛场原声）"
         }
       ]
     },
@@ -471,6 +467,30 @@
         {
           "pID": "966613471",
           "name": "清流播出"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000587536",
+      "pID": "966690558",
+      "title": "中国公路自行车联赛颁奖仪式",
+      "keyword": "08月10日19:00",
+      "sportItemId": "8",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "中国自行车运动协会系列赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/10/77KLBFNI3Q7E.png",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/6/25/100000001499106b6db1.png",
+      "pkInfoTitle": "中国公路自行车联赛颁奖仪式",
+      "modifyTitle": "中国公路自行车联赛颁奖仪式",
+      "presenters": "",
+      "matchInfo": {
+        "time": "08月10日19:00"
+      },
+      "nodes": [
+        {
+          "pID": "966690558",
+          "name": "解说"
         }
       ]
     },
