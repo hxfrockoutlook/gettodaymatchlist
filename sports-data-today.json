@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-10 16:01:20",
+  "updateTime": "2026-08-10 16:31:15",
   "data": [
     {
       "mgdbId": "120000586596",
@@ -252,8 +252,8 @@
     },
     {
       "mgdbId": "120000586555",
-      "pID": "966582072",
-      "title": "斯诺克中国公开赛第一轮：斯佳辉 VS 江俊",
+      "pID": "966539172",
+      "title": "斯诺克中国公开赛第一轮：斯佳辉 6-0 江俊",
       "keyword": "08月10日14:00",
       "sportItemId": "8",
       "matchStatus": "1",
@@ -261,13 +261,17 @@
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/09/77KKFRH3TG3H.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "斯佳辉 VS 江俊",
-      "modifyTitle": "斯诺克中国公开赛第一轮：斯佳辉 VS 江俊",
+      "pkInfoTitle": "斯佳辉 6-0 江俊",
+      "modifyTitle": "斯诺克中国公开赛第一轮：斯佳辉 6-0 江俊",
       "presenters": "乔迁",
       "matchInfo": {
         "time": "08月10日14:00"
       },
       "nodes": [
+        {
+          "pID": "966539172",
+          "name": "罗伯逊vs常冰玉"
+        },
         {
           "pID": "966582072",
           "name": "解说"
@@ -275,10 +279,6 @@
         {
           "pID": "966539185",
           "name": "斯佳辉vs江俊"
-        },
-        {
-          "pID": "966539172",
-          "name": "罗伯逊vs常冰玉"
         }
       ]
     },
@@ -360,7 +360,7 @@
       "title": "职中球场day2",
       "keyword": "08月10日16:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "贵州村超全国赛",
       "padImg": "",
