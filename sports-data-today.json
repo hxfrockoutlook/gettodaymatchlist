@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-11 08:31:25",
+  "updateTime": "2026-08-11 09:01:32",
   "data": [
     {
       "mgdbId": "120000583106",
@@ -103,7 +103,7 @@
       "pID": "966489918",
       "title": "咪咕体育日报 第146期",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "咪咕体育日报",
       "padImg": "",
@@ -148,7 +148,7 @@
       "title": "三中球场day3",
       "keyword": "08月11日09:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "贵州村超全国赛",
       "padImg": "",
@@ -172,7 +172,7 @@
       "title": "职中球场day3",
       "keyword": "08月11日09:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "贵州村超全国赛",
       "padImg": "",
@@ -340,7 +340,7 @@
     },
     {
       "mgdbId": "120000586558",
-      "pID": "966539226",
+      "pID": "966581978",
       "title": "斯诺克中国公开赛第一轮：约翰·希金斯 VS 斯图尔特·宾汉姆",
       "keyword": "08月11日14:00",
       "sportItemId": "8",
@@ -592,7 +592,7 @@
     },
     {
       "mgdbId": "120000586560",
-      "pID": "966539237",
+      "pID": "966582899",
       "title": "斯诺克中国公开赛第一轮：赵心童 VS 张安达",
       "keyword": "08月11日19:30",
       "sportItemId": "8",
@@ -609,18 +609,22 @@
       },
       "nodes": [
         {
-          "pID": "966539237",
-          "name": "1号桌"
-        },
-        {
           "pID": "966582899",
           "name": "乔迁"
+        },
+        {
+          "pID": "966539237",
+          "name": "赵心童vs张安达"
+        },
+        {
+          "pID": "966539249",
+          "name": "韦克林vs福德"
         }
       ]
     },
     {
       "mgdbId": "120000586561",
-      "pID": "966539249",
+      "pID": "966582889",
       "title": "斯诺克中国公开赛第一轮：克里斯·韦克林 VS 汤姆·福德",
       "keyword": "08月11日19:30",
       "sportItemId": "8",
@@ -637,12 +641,16 @@
       },
       "nodes": [
         {
-          "pID": "966539249",
-          "name": "2号桌"
-        },
-        {
           "pID": "966582889",
           "name": "孙嘉星"
+        },
+        {
+          "pID": "966539249",
+          "name": "韦克林vs福德"
+        },
+        {
+          "pID": "966539237",
+          "name": "赵心童vs张安达"
         }
       ]
     },
