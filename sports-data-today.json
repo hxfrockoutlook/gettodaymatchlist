@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-11 22:31:54",
+  "updateTime": "2026-08-11 23:02:14",
   "data": [
     {
       "mgdbId": "120000583106",
@@ -66,7 +66,7 @@
         },
         {
           "pID": "966701336",
-          "name": "【回放】亚历山德洛娃1-2斯维托丽娜（胡力涛）"
+          "name": "【回放】亚历山德洛娃1-2斯维托丽娜（��力涛）"
         },
         {
           "pID": "966701949",
@@ -570,7 +570,7 @@
       "sportItemId": "4",
       "matchStatus": "2",
       "matchField": "",
-      "competitionName": "贵州省��会",
+      "competitionName": "��州省运会",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/06/77KHOI58DKOR.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/7/21/100000001513106de8b3.jpg",
       "pkInfoTitle": "足球男甲 半决赛 黔南1-0遵义",
@@ -703,12 +703,7 @@
       "matchInfo": {
         "time": "08月11日18:00"
       },
-      "nodes": [
-        {
-          "pID": "966712037",
-          "name": "2026WTT欧洲大满贯瑞典站男单1/32决赛回放：丹尼·科祖尔1-3达科·约奇克（赛场原声）"
-        }
-      ]
+      "nodes": []
     },
     {
       "mgdbId": "120000583545",
@@ -816,8 +811,8 @@
     },
     {
       "mgdbId": "120000586561",
-      "pID": "966582889",
-      "title": "斯诺克中国公开赛第一轮：克里斯·韦克林 VS 汤姆·福德",
+      "pID": "966539237",
+      "title": "斯诺克中国公开赛第一轮：克里斯·韦克林 6-4 汤姆·福德",
       "keyword": "08月11日19:30",
       "sportItemId": "8",
       "matchStatus": "1",
@@ -825,13 +820,17 @@
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/11/77KMAAG62KOO.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "克里斯·韦克林 VS 汤姆·福德",
-      "modifyTitle": "斯诺克中国公开赛第一轮：克里斯·韦克林 VS 汤姆·福德",
+      "pkInfoTitle": "克里斯·韦克林 6-4 汤姆·福德",
+      "modifyTitle": "斯诺克中国公开赛第一轮：克里斯·韦克林 6-4 汤姆·福德",
       "presenters": "孙嘉星",
       "matchInfo": {
         "time": "08月11日19:30"
       },
       "nodes": [
+        {
+          "pID": "966539237",
+          "name": "赵心童vs张安达"
+        },
         {
           "pID": "966582889",
           "name": "孙嘉星"
@@ -839,10 +838,6 @@
         {
           "pID": "966539249",
           "name": "韦克林vs福德"
-        },
-        {
-          "pID": "966539237",
-          "name": "赵心童vs张安达"
         }
       ]
     },
@@ -996,11 +991,11 @@
     },
     {
       "mgdbId": "120000587578",
-      "pID": "966693472",
+      "pID": "966712302",
       "title": "亚洲大学生篮球联赛",
       "keyword": "08月11日19:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "亚洲大学生篮球联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/11/77KM9PHHA78P.jpg",
@@ -1013,16 +1008,8 @@
       },
       "nodes": [
         {
-          "pID": "966693472",
-          "name": "王兆丰 杨鸣 殳海"
-        },
-        {
-          "pID": "966693475",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "966693494",
-          "name": "英文解说"
+          "pID": "966712302",
+          "name": "全场集锦"
         }
       ]
     }
