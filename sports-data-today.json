@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-13 06:31:19",
+  "updateTime": "2026-08-13 07:01:24",
   "data": [
     {
       "mgdbId": "120000583112",
@@ -21,12 +21,20 @@
       },
       "nodes": [
         {
+          "pID": "966732721",
+          "name": "全场回放（二号桌）"
+        },
+        {
           "pID": "966732536",
           "name": "全场回放（三号桌）"
         },
         {
           "pID": "966730890",
           "name": "全场回放（四号桌）"
+        },
+        {
+          "pID": "966732660",
+          "name": "全场回放（英文解说智能字幕）"
         }
       ]
     },
@@ -36,7 +44,7 @@
       "title": "WTA多伦多站女单半决赛：斯维托丽娜 vs 斯瓦泰克",
       "keyword": "08月13日07:00",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/12/77KN76GG9VKH.jpg",
