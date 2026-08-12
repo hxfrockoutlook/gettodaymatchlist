@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-12 22:31:39",
+  "updateTime": "2026-08-12 23:01:45",
   "data": [
     {
       "mgdbId": "120000583108",
@@ -14,7 +14,7 @@
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/12/77KN56FFETC0.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "奥恰零封小莫 A·勒布伦/大藤险胜",
-      "modifyTitle": "WTT欧洲大满贯瑞典站男女单打1/32决赛、双打1/16决赛",
+      "modifyTitle": "WTT欧洲大满贯瑞典站���女单打1/32决赛、双打1/16决赛",
       "presenters": "周泽昊",
       "matchInfo": {
         "time": "08月12日00:00"
@@ -593,8 +593,12 @@
       },
       "nodes": [
         {
+          "pID": "966729343",
+          "name": "全场集锦"
+        },
+        {
           "pID": "966726927",
-          "name": "【全场回放】"
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
@@ -617,8 +621,12 @@
       },
       "nodes": [
         {
+          "pID": "966729421",
+          "name": "全场集锦"
+        },
+        {
           "pID": "966726784",
-          "name": "【全场回放】"
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
@@ -693,8 +701,16 @@
           "name": "全场回放（赵曦）"
         },
         {
+          "pID": "966729622",
+          "name": "全场回放（三号桌）"
+        },
+        {
           "pID": "966728507",
           "name": "全场回放（四号桌）"
+        },
+        {
+          "pID": "966729476",
+          "name": "2026WTT欧洲大满贯瑞典站Day5晚间场全场回放（智能字幕）"
         }
       ]
     },
@@ -765,12 +781,12 @@
       },
       "nodes": [
         {
-          "pID": "966728908",
-          "name": "2026上海明日之星篮球争冠赛A组小组赛全场回放：上海李宁之队61:68加拿大布兰普顿蜜獾队（官方解说）"
-        },
-        {
           "pID": "966727904",
           "name": "全场集锦"
+        },
+        {
+          "pID": "966728908",
+          "name": "全场回放（官方解说）"
         }
       ]
     },
@@ -824,22 +840,26 @@
     },
     {
       "mgdbId": "120000586564",
-      "pID": "966582817",
-      "title": "斯诺克中国公开赛第二轮：诺鹏·桑卡姆 VS 罗尼·奥沙利文",
+      "pID": "966538811",
+      "title": "斯诺克中国公开赛第二轮：诺鹏·桑卡姆 6-4 罗尼·奥沙利文",
       "keyword": "08月12日19:30",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/12/77KN76JF1JRK.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "诺鹏·桑卡姆 VS 罗尼·奥沙利文",
-      "modifyTitle": "斯诺克中国公开赛第二轮：诺鹏·桑卡姆 VS 罗尼·奥沙利文",
+      "pkInfoTitle": "诺鹏·桑卡姆 6-4 罗尼·奥沙利文",
+      "modifyTitle": "斯诺克中国公开赛第二轮：诺鹏·桑卡姆 6-4 罗尼·奥沙利文",
       "presenters": "乔迁",
       "matchInfo": {
         "time": "08月12日19:30"
       },
       "nodes": [
+        {
+          "pID": "966538811",
+          "name": "肖国栋vs墨菲"
+        },
         {
           "pID": "966582817",
           "name": "乔迁"
@@ -847,26 +867,22 @@
         {
           "pID": "966538800",
           "name": "桑卡姆vs奥沙利文"
-        },
-        {
-          "pID": "966538811",
-          "name": "肖国栋vs墨菲"
         }
       ]
     },
     {
       "mgdbId": "120000586565",
       "pID": "966582794",
-      "title": "斯诺克中国公开赛第二轮：肖国栋 VS 肖恩·墨菲",
+      "title": "斯诺克中国公开赛第二轮：肖国栋 2-6 肖恩·墨菲",
       "keyword": "08月12日19:30",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/12/77KN76VH5Q6G.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "肖国栋 VS 肖恩·墨菲",
-      "modifyTitle": "斯诺克中国公开赛第二轮：肖国栋 VS 肖恩·墨菲",
+      "pkInfoTitle": "肖国栋 2-6 肖恩·墨菲",
+      "modifyTitle": "斯诺克中国公开赛第二轮：肖国栋 2-6 肖恩·墨菲",
       "presenters": "朱峰立",
       "matchInfo": {
         "time": "08月12日19:30"
@@ -879,10 +895,6 @@
         {
           "pID": "966538811",
           "name": "肖国栋vs墨菲"
-        },
-        {
-          "pID": "966538800",
-          "name": "桑卡姆vs奥沙利文"
         }
       ]
     },
@@ -913,6 +925,10 @@
           "name": "全场回放（吕程、赵爽）"
         },
         {
+          "pID": "966729395",
+          "name": "全场回放（赛场原声）"
+        },
+        {
           "pID": "966727358",
           "name": "第一节"
         },
@@ -927,10 +943,6 @@
         {
           "pID": "966728178",
           "name": "第四节"
-        },
-        {
-          "pID": "966729395",
-          "name": "全场回放"
         }
       ]
     },
@@ -977,8 +989,8 @@
       },
       "nodes": [
         {
-          "pID": "966686929",
-          "name": "赛场原声"
+          "pID": "966729704",
+          "name": "2026浙江省城市篮球联赛全场回放：武义vs东阳（赛场原声）"
         }
       ]
     },
@@ -1001,8 +1013,12 @@
       },
       "nodes": [
         {
-          "pID": "966715906",
-          "name": "清流播出"
+          "pID": "966729381",
+          "name": "全场集锦"
+        },
+        {
+          "pID": "966729543",
+          "name": "全场回放：（赛场原声）"
         }
       ]
     },
@@ -1025,8 +1041,12 @@
       },
       "nodes": [
         {
+          "pID": "966729199",
+          "name": "全场集锦"
+        },
+        {
           "pID": "966729353",
-          "name": "2026国际青少年俱乐部邀请赛交叉赛全场回放：诺丁汉森林0:1武里南联（赛场原声）"
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
