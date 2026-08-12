@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-12 14:01:38",
+  "updateTime": "2026-08-12 14:31:40",
   "data": [
     {
       "mgdbId": "120000583108",
@@ -14,7 +14,7 @@
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/12/77KN56FFETC0.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "奥恰零封小莫 A·勒布伦/大藤险胜",
-      "modifyTitle": "WTT欧洲大满贯瑞���站男女单打1/32决赛、双打1/16决赛",
+      "modifyTitle": "WTT欧洲大满贯瑞典��男女单打1/32决赛、双打1/16决赛",
       "presenters": "周泽昊",
       "matchInfo": {
         "time": "08月12日00:00"
@@ -34,7 +34,7 @@
         },
         {
           "pID": "966714898",
-          "name": "全场回放（三号桌）"
+          "name": "全场回放��三号桌）"
         },
         {
           "pID": "966714827",
@@ -204,7 +204,7 @@
     },
     {
       "mgdbId": "120000587127",
-      "pID": "966719272",
+      "pID": "966718739",
       "title": "上海明日之星篮球争冠赛",
       "keyword": "08月12日10:00",
       "sportItemId": "2",
@@ -220,6 +220,10 @@
         "time": "08月12日10:00"
       },
       "nodes": [
+        {
+          "pID": "966718739",
+          "name": "全场集锦"
+        },
         {
           "pID": "966719272",
           "name": "全场回放（官方解说）"
@@ -294,7 +298,7 @@
       "nodes": [
         {
           "pID": "966720001",
-          "name": "2026大连友城杯青少年足球邀请赛小组赛第3轮全场回放：诺丁汉森林足球俱乐部0:0大连第二十一中代表队（赛场原声）"
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
@@ -435,6 +439,30 @@
       ]
     },
     {
+      "mgdbId": "120000587758",
+      "pID": "966713662",
+      "title": "大连市足球协会（B队）vs自由城足球俱乐部",
+      "keyword": "08月12日14:30",
+      "sportItemId": "1",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "大连友城杯青少年足球邀请赛",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/8/10/100000001519106c7a89.jpg",
+      "pkInfoTitle": "大连市足球协会（B队）vs自由城足球俱乐部",
+      "modifyTitle": "大连友城杯青少年足球邀请赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "08月12日14:30"
+      },
+      "nodes": [
+        {
+          "pID": "966713662",
+          "name": "B队"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000586905",
       "pID": "966582766",
       "title": "全国青年体操U系列锦标赛Day6",
@@ -455,6 +483,30 @@
         {
           "pID": "966582766",
           "name": "清流播出"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000587759",
+      "pID": "966713664",
+      "title": "香港東區足球會俱乐部vs龙卷风足球俱乐部（红队）",
+      "keyword": "08月12日15:45",
+      "sportItemId": "1",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "大连友城杯青少年足球邀请赛",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/8/10/100000001519106c7a89.jpg",
+      "pkInfoTitle": "香港東區足球會俱乐部vs龙卷风足球俱乐部（红队）",
+      "modifyTitle": "大连友城杯青少年足球邀请赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "08月12日15:45"
+      },
+      "nodes": [
+        {
+          "pID": "966713664",
+          "name": "红队"
         }
       ]
     },
@@ -599,6 +651,30 @@
         {
           "pID": "966634133",
           "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000587760",
+      "pID": "966713655",
+      "title": "川崎前锋足球俱乐部vs诺丁汉森林足球俱乐部",
+      "keyword": "08月12日17:00",
+      "sportItemId": "1",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "大连友城杯青少年足球邀请赛",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/8/10/100000001519106c7a89.jpg",
+      "pkInfoTitle": "川崎前锋足球俱乐部vs诺丁汉森林足球俱乐部",
+      "modifyTitle": "大连友城杯青少年足球邀请赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "08月12日17:00"
+      },
+      "nodes": [
+        {
+          "pID": "966713655",
+          "name": "清流播出"
         }
       ]
     },
