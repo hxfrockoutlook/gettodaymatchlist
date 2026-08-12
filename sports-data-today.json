@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-12 13:31:35",
+  "updateTime": "2026-08-12 14:01:38",
   "data": [
     {
       "mgdbId": "120000583108",
@@ -14,7 +14,7 @@
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/12/77KN56FFETC0.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "奥恰零封小莫 A·勒布伦/大藤险胜",
-      "modifyTitle": "WTT欧洲大满贯瑞典��男女单打1/32决赛、双打1/16决赛",
+      "modifyTitle": "WTT欧洲大满贯瑞���站男女单打1/32决赛、双打1/16决赛",
       "presenters": "周泽昊",
       "matchInfo": {
         "time": "08月12日00:00"
@@ -198,13 +198,13 @@
       "nodes": [
         {
           "pID": "966717680",
-          "name": "2026大连友城杯青少年足球邀请赛小组赛第3轮全场回放：香港東區足球會俱乐部2:0大连远见足球俱乐部（赛场原声）"
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
     {
       "mgdbId": "120000587127",
-      "pID": "966607192",
+      "pID": "966719272",
       "title": "上海明日之星篮球争冠赛",
       "keyword": "08月12日10:00",
       "sportItemId": "2",
@@ -222,7 +222,7 @@
       "nodes": [
         {
           "pID": "966719272",
-          "name": "2026上海明日之星篮球争冠赛A组小组赛回放：意大利瓦雷泽篮球俱乐部82:90澳大利亚U18选拔队（官方解说）"
+          "name": "全场回放（官方解说）"
         }
       ]
     },
@@ -293,8 +293,8 @@
       },
       "nodes": [
         {
-          "pID": "966713644",
-          "name": "清流播出"
+          "pID": "966720001",
+          "name": "2026大连友城杯青少年足球邀请赛小组赛第3轮全场回放：诺丁汉森林足球俱乐部0:0大连第二十一中代表队（赛场原声）"
         }
       ]
     },
@@ -376,7 +376,7 @@
       "title": "斯诺克中国公开赛第二轮：大卫·吉尔伯特 VS 吴宜泽",
       "keyword": "08月12日14:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/11/77KM9H6VKG6T.jpg",
@@ -408,7 +408,7 @@
       "title": "斯诺克中国公开赛第二轮：周跃龙 VS 刘宏宇",
       "keyword": "08月12日14:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/11/77KM9IO8R15S.jpg",
@@ -719,6 +719,30 @@
         {
           "pID": "966686904",
           "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000587831",
+      "pID": "966719747",
+      "title": "惠安村唱大舞台",
+      "keyword": "08月12日19:00",
+      "sportItemId": "8",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "惠安洄岸季户外系列赛事",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/7/27/10000000150210613f0f.png",
+      "pkInfoTitle": "惠安村唱大舞台",
+      "modifyTitle": "惠安村唱大舞台",
+      "presenters": "",
+      "matchInfo": {
+        "time": "08月12日19:00"
+      },
+      "nodes": [
+        {
+          "pID": "966719747",
+          "name": "解说"
         }
       ]
     },
