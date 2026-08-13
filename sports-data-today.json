@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-13 09:31:32",
+  "updateTime": "2026-08-13 10:01:29",
   "data": [
     {
       "mgdbId": "120000583112",
@@ -21,6 +21,10 @@
       },
       "nodes": [
         {
+          "pID": "966733597",
+          "name": "全场回放（周泽昊）"
+        },
+        {
           "pID": "966732778",
           "name": "全场回放（一号桌）"
         },
@@ -35,6 +39,10 @@
         {
           "pID": "966730890",
           "name": "全场回放（四号桌）"
+        },
+        {
+          "pID": "966732753",
+          "name": "全场回放（英文解说）"
         },
         {
           "pID": "966732660",
@@ -71,38 +79,6 @@
         {
           "pID": "966473863",
           "name": "英文原声"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000587833",
-      "pID": "966720503",
-      "title": "世界腰旗橄榄球锦标赛 Day 1",
-      "keyword": "08月13日08:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "腰旗橄榄球世锦赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/12/77KN704G3TL0.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/8/12/10000000152110683c04.png",
-      "pkInfoTitle": "世界腰旗橄榄球锦标赛 Day 1",
-      "modifyTitle": "世界腰旗橄榄球锦标赛 Day 1",
-      "presenters": "",
-      "matchInfo": {
-        "time": "08月13日08:00"
-      },
-      "nodes": [
-        {
-          "pID": "966720503",
-          "name": "一号场地"
-        },
-        {
-          "pID": "966720509",
-          "name": "二号场地"
-        },
-        {
-          "pID": "966720515",
-          "name": "三号场地"
         }
       ]
     },
@@ -152,11 +128,11 @@
     },
     {
       "mgdbId": "120000587639",
-      "pID": "966701296",
+      "pID": "966706178",
       "title": "跃界星途国际青少年篮球邀请赛Day1",
       "keyword": "08月13日09:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "跃界星途国际青少年篮球邀请赛",
       "padImg": "",
@@ -168,6 +144,10 @@
         "time": "08月13日09:00"
       },
       "nodes": [
+        {
+          "pID": "966706178",
+          "name": "王哲林杨舒予叫你来看球！跃界星途国际青少年篮球邀请赛火热开打"
+        },
         {
           "pID": "966701296",
           "name": "赛场原声"
@@ -415,30 +395,6 @@
       ]
     },
     {
-      "mgdbId": "120000587837",
-      "pID": "966721048",
-      "title": "T1 vs T2（第6轮）",
-      "keyword": "08月13日14:30",
-      "sportItemId": "1",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "大连友城杯青少年足球邀请赛",
-      "padImg": "",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/8/10/100000001519106c7a89.jpg",
-      "pkInfoTitle": "T1 vs T2（第6轮）",
-      "modifyTitle": "大连友城杯青少年足球邀请赛",
-      "presenters": "",
-      "matchInfo": {
-        "time": "08月13日14:30"
-      },
-      "nodes": [
-        {
-          "pID": "966721048",
-          "name": "第6轮"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000587897",
       "pID": "966733731",
       "title": "篮球男乙决赛 遵义市VS贵阳市",
@@ -459,30 +415,6 @@
         {
           "pID": "966733731",
           "name": "赛场原声"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000587839",
-      "pID": "966721071",
-      "title": "T3 vs T4（第6轮）",
-      "keyword": "08月13日15:45",
-      "sportItemId": "1",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "大连友城杯青少年足球邀请赛",
-      "padImg": "",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/8/10/100000001519106c7a89.jpg",
-      "pkInfoTitle": "T3 vs T4（第6轮）",
-      "modifyTitle": "大连友城杯青少年足球邀请赛",
-      "presenters": "",
-      "matchInfo": {
-        "time": "08月13日15:45"
-      },
-      "nodes": [
-        {
-          "pID": "966721071",
-          "name": "第6轮"
         }
       ]
     },
@@ -555,30 +487,6 @@
         {
           "pID": "966634169",
           "name": "赛场原声"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000587840",
-      "pID": "966721099",
-      "title": "T5 vs T6（第6轮）",
-      "keyword": "08月13日17:00",
-      "sportItemId": "1",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "大连友城杯青少年足球邀请赛",
-      "padImg": "",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/8/10/100000001519106c7a89.jpg",
-      "pkInfoTitle": "T5 vs T6（第6轮）",
-      "modifyTitle": "大连友城杯青少年足球邀请赛",
-      "presenters": "",
-      "matchInfo": {
-        "time": "08月13日17:00"
-      },
-      "nodes": [
-        {
-          "pID": "966721099",
-          "name": "第6轮"
         }
       ]
     },
@@ -881,6 +789,25 @@
           "name": "清流播出"
         }
       ]
+    },
+    {
+      "mgdbId": "120000587833",
+      "pID": "120000587833",
+      "title": "世界腰旗橄榄球锦标赛 Day 1",
+      "keyword": "08月13日08:00",
+      "sportItemId": "",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "腰旗橄榄球世锦赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/12/77KN704G3TL0.jpg",
+      "competitionLogo": "",
+      "pkInfoTitle": "世界腰旗橄榄球锦标赛 Day 1",
+      "modifyTitle": "世界腰旗橄榄球锦标赛 Day 1",
+      "presenters": "",
+      "matchInfo": {
+        "time": "08月13日08:00"
+      },
+      "nodes": []
     }
   ]
 }
