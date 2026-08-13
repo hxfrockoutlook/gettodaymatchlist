@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-13 12:31:29",
+  "updateTime": "2026-08-13 13:01:36",
   "data": [
     {
       "mgdbId": "120000583112",
@@ -175,30 +175,6 @@
       ]
     },
     {
-      "mgdbId": "120000587671",
-      "pID": "966702197",
-      "title": "2026年世界攀联亚洲青年杯（中国全南）",
-      "keyword": "08月13日09:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "世界攀联亚洲青年杯",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/13/77KO4SNNK6LR.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/8/10/1000000015181067b0e5.png",
-      "pkInfoTitle": "2026年世界攀联亚洲青年杯（中国全南）",
-      "modifyTitle": "2026年世界攀联亚洲青年杯（中国全南）",
-      "presenters": "",
-      "matchInfo": {
-        "time": "08月13日09:00"
-      },
-      "nodes": [
-        {
-          "pID": "966702197",
-          "name": "中国全南"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000587834",
       "pID": "966720953",
       "title": "大连远见足球俱乐部vs大连足球青训基地代表队",
@@ -284,7 +260,7 @@
       "title": "川崎前锋足球俱乐部vs诺维奇城足球俱乐部",
       "keyword": "08月13日11:30",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "大连友城杯青少年足球邀请赛",
       "padImg": "",
@@ -563,6 +539,30 @@
         {
           "pID": "966634169",
           "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000587671",
+      "pID": "966702197",
+      "title": "2026年世界攀联亚洲青年杯（中国全南）",
+      "keyword": "08月13日16:30",
+      "sportItemId": "8",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "世界攀联亚洲青年杯",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/13/77KO4SNNK6LR.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/8/10/1000000015181067b0e5.png",
+      "pkInfoTitle": "2026年世界攀联亚洲青年杯（中国全南）",
+      "modifyTitle": "2026年世界攀联亚洲青年杯（中国全南）",
+      "presenters": "",
+      "matchInfo": {
+        "time": "08月13日16:30"
+      },
+      "nodes": [
+        {
+          "pID": "966702197",
+          "name": "中国全南"
         }
       ]
     },
