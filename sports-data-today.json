@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-13 21:31:32",
+  "updateTime": "2026-08-13 22:01:42",
   "data": [
     {
       "mgdbId": "120000583112",
@@ -152,11 +152,11 @@
     },
     {
       "mgdbId": "120000587639",
-      "pID": "966701296",
+      "pID": "966739844",
       "title": "跃界星途国际青少年篮球邀请赛Day1",
       "keyword": "08月13日09:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "跃界星途国际青少年篮球邀请赛",
       "padImg": "",
@@ -169,8 +169,12 @@
       },
       "nodes": [
         {
-          "pID": "966701296",
-          "name": "赛场原声"
+          "pID": "966739844",
+          "name": "全场回放（赛场原声）（一）"
+        },
+        {
+          "pID": "966743495",
+          "name": "全场回放（赛场原声）（二）"
         }
       ]
     },
@@ -343,6 +347,10 @@
         {
           "pID": "966743818",
           "name": "26/27赛季斯诺克中国公开赛第2轮回放：斯图尔特·宾汉姆6-0侯赛因·瓦菲（陶哲铭）"
+        },
+        {
+          "pID": "966746068",
+          "name": "26/27赛季斯诺克中国公开赛第2轮回放：斯图尔特·宾汉姆6-0侯赛因·瓦菲（赛场原声）"
         }
       ]
     },
@@ -645,15 +653,15 @@
     {
       "mgdbId": "120000583114",
       "pID": "966538429",
-      "title": "王曼昱横扫 林诗栋/温瑞博PK勒布伦兄弟",
+      "title": "王曼昱横扫 林诗栋/温瑞博不敌勒布伦兄弟",
       "keyword": "08月13日18:00",
       "sportItemId": "7",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/13/77KO3Q70BJH6.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/13/77KO43V2EJCR.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "王曼昱横扫 林诗栋/温瑞博PK勒布伦兄弟",
+      "pkInfoTitle": "王曼昱横扫 林诗栋/温瑞博不敌勒布伦兄弟",
       "modifyTitle": "WTT欧洲大满贯瑞典站男女单打1/16决赛、双打1/4决赛",
       "presenters": "周冠达 刘国正 徐晨皓 赵曦",
       "matchInfo": {
@@ -665,28 +673,28 @@
           "name": "周冠达 刘国正 徐晨皓"
         },
         {
-          "pID": "966538180",
-          "name": "赵曦"
-        },
-        {
           "pID": "966199238",
           "name": "1号桌"
-        },
-        {
-          "pID": "966199332",
-          "name": "2号桌"
         },
         {
           "pID": "966199409",
           "name": "3号桌"
         },
         {
-          "pID": "966199526",
-          "name": "4号桌"
-        },
-        {
           "pID": "966565362",
           "name": "智能字幕"
+        },
+        {
+          "pID": "966538180",
+          "name": "赵曦"
+        },
+        {
+          "pID": "966199332",
+          "name": "2号桌"
+        },
+        {
+          "pID": "966199526",
+          "name": "4号桌"
         }
       ]
     },
@@ -720,7 +728,7 @@
       "title": "惠安村唱大舞台",
       "keyword": "08月13日19:00",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "惠安洄岸季户外系列赛事",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/13/77KO37L57KU9.png",
@@ -804,14 +812,14 @@
     },
     {
       "mgdbId": "120000586779",
-      "pID": "966563460",
+      "pID": "966746143",
       "title": "中国男篮系列热身赛",
       "keyword": "08月13日19:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "中国男篮系列热身赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/13/77KO296T0AGO.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/13/77KO41UCP3M4.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/7/7/1000000012031062f680.jpg",
       "pkInfoTitle": "中国男篮vs乌拉圭男篮",
       "modifyTitle": "中国男篮系列热身赛",
@@ -821,28 +829,40 @@
       },
       "nodes": [
         {
-          "pID": "966563460",
-          "name": "邵化谦 季孟年 曾令旭"
+          "pID": "966746143",
+          "name": "全场集锦"
         },
         {
-          "pID": "966563470",
-          "name": "现场原声"
+          "pID": "966744502",
+          "name": "第一节"
+        },
+        {
+          "pID": "966744836",
+          "name": "第二节"
+        },
+        {
+          "pID": "966745679",
+          "name": "第三节"
+        },
+        {
+          "pID": "966746167",
+          "name": "第四节"
         }
       ]
     },
     {
       "mgdbId": "120000587498",
       "pID": "966686937",
-      "title": "越城VS诸暨",
+      "title": "越城65-72诸暨",
       "keyword": "08月13日19:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "浙BA",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/7/16/1000000012931063812e.png",
-      "pkInfoTitle": "越城VS诸暨",
-      "modifyTitle": "越城VS诸暨",
+      "pkInfoTitle": "越城65-72诸暨",
+      "modifyTitle": "越城65-72诸暨",
       "presenters": "",
       "matchInfo": {
         "time": "08月13日19:30"
@@ -857,16 +877,16 @@
     {
       "mgdbId": "120000587499",
       "pID": "966686942",
-      "title": "柯城VS江山",
+      "title": "柯城69-55江山",
       "keyword": "08月13日19:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "浙BA",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/7/16/1000000012931063812e.png",
-      "pkInfoTitle": "柯城VS江山",
-      "modifyTitle": "柯城VS江山",
+      "pkInfoTitle": "柯城69-55江山",
+      "modifyTitle": "柯城69-55江山",
       "presenters": "",
       "matchInfo": {
         "time": "08月13日19:30"
@@ -880,7 +900,7 @@
     },
     {
       "mgdbId": "120000587512",
-      "pID": "966689204",
+      "pID": "966744259",
       "title": "国青女篮热身赛",
       "keyword": "08月13日19:30",
       "sportItemId": "2",
@@ -896,6 +916,10 @@
         "time": "08月13日19:30"
       },
       "nodes": [
+        {
+          "pID": "966744259",
+          "name": "重磅嘉宾来袭！中国女篮名宿郑海霞为比赛开球"
+        },
         {
           "pID": "966689204",
           "name": "清流播出"
