@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-14 15:01:43",
+  "updateTime": "2026-08-14 15:31:41",
   "data": [
     {
       "mgdbId": "120000583117",
@@ -280,7 +280,7 @@
       "title": "经典重映-中国 3-0 丹麦",
       "keyword": "08月14日12:00",
       "sportItemId": "6",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "BWF",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/10/77KLAJSN8QQN.png",
@@ -300,11 +300,11 @@
     },
     {
       "mgdbId": "120000587855",
-      "pID": "966721337",
+      "pID": "966759581",
       "title": "超三联赛 靖江大区赛 B档小组赛下午场",
       "keyword": "08月14日13:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "超三联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/13/77KO3Q79K91L.png",
@@ -317,18 +317,26 @@
       },
       "nodes": [
         {
-          "pID": "966721337",
-          "name": "清流播出"
+          "pID": "966759581",
+          "name": "【回放】广东生涯21:20湖北江鲟"
+        },
+        {
+          "pID": "966760338",
+          "name": "【回放】广东光正教育22:16福州奇迹"
+        },
+        {
+          "pID": "966760618",
+          "name": "2026超三联赛靖江大区赛B档小组赛回放：成都和众21:8广东生涯"
         }
       ]
     },
     {
       "mgdbId": "120000589628",
-      "pID": "966754085",
+      "pID": "966607192",
       "title": "上海明日之星篮球争冠赛",
       "keyword": "08月14日13:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "上海明日之星篮球争冠赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/14/77KP1GH8CRIE.jpg",
@@ -340,6 +348,10 @@
         "time": "08月14日13:00"
       },
       "nodes": [
+        {
+          "pID": "966607192",
+          "name": "老友再聚 少年登场！姚明、斯科拉亲临助阵明日之星"
+        },
         {
           "pID": "966754085",
           "name": "清流播出"
@@ -762,7 +774,7 @@
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/14/77KP1CVEDPAG.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "尼尔·罗伯逊VS马克·塞尔比",
-      "modifyTitle": "斯诺克中国公开赛1/4决赛：马克·塞尔比VS尼尔·罗伯逊",
+      "modifyTitle": "斯诺克中国公开赛1/4决赛：马克·��尔比VS尼尔·罗伯逊",
       "presenters": "柏林",
       "matchInfo": {
         "time": "08月14日19:30"
@@ -1040,7 +1052,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
       "pkInfoTitle": "普利斯科娃率先出战 大威登场",
       "modifyTitle": "WTA1000辛辛那提站女单第一轮：普利斯科娃率先出战 大威登场",
-      "presenters": "",
+      "presenters": "王乐之",
       "matchInfo": {
         "time": "08月14日23:00"
       },
@@ -1052,6 +1064,14 @@
         {
           "pID": "966701870",
           "name": "英文原声"
+        },
+        {
+          "pID": "966760486",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "966760529",
+          "name": "王乐之"
         }
       ]
     }
