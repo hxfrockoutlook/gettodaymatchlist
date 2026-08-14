@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-14 10:31:36",
+  "updateTime": "2026-08-14 11:01:51",
   "data": [
     {
       "mgdbId": "120000583117",
@@ -31,6 +31,10 @@
         {
           "pID": "966753100",
           "name": "全场回放（二号桌）"
+        },
+        {
+          "pID": "966755493",
+          "name": "全场回放（三号桌）"
         },
         {
           "pID": "966752990",
@@ -161,8 +165,8 @@
       },
       "nodes": [
         {
-          "pID": "966721114",
-          "name": "A队"
+          "pID": "966755612",
+          "name": "2026大连友城杯青少年足球邀请赛小组赛第7轮回放：川崎前锋足球俱乐部3:4大连市足球协会（A队）（赛场原声）"
         }
       ]
     },
@@ -307,6 +311,30 @@
         {
           "pID": "966686518",
           "name": "经典重映"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000589628",
+      "pID": "966754085",
+      "title": "上海明日之星篮球争冠赛",
+      "keyword": "08月14日13:00",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "上海明日之星篮球争冠赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/14/77KP1GH8CRIE.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/6/4/100000001086106ec13f.png",
+      "pkInfoTitle": "上海李宁之队vs意大利瓦雷泽篮球俱乐部",
+      "modifyTitle": "上海明日之星篮球争冠赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "08月14日13:00"
+      },
+      "nodes": [
+        {
+          "pID": "966754085",
+          "name": "清流播出"
         }
       ]
     },
