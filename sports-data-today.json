@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-14 22:31:41",
+  "updateTime": "2026-08-14 23:02:15",
   "data": [
     {
       "mgdbId": "120000583117",
@@ -468,7 +468,7 @@
       "title": "黔东南州“村BA”day2",
       "keyword": "08月14日15:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "贵州“村BA”联赛",
       "padImg": "",
@@ -481,8 +481,8 @@
       },
       "nodes": [
         {
-          "pID": "966735349",
-          "name": "赛场原声"
+          "pID": "966773318",
+          "name": "2026黔东南州“村BA”Day2全场回放（赛场原声）（一）"
         }
       ]
     },
@@ -544,7 +544,7 @@
       "title": "三中球场day6",
       "keyword": "08月14日16:30",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "贵州村超全国赛",
       "padImg": "",
@@ -568,7 +568,7 @@
       "title": "职中球场day6",
       "keyword": "08月14日16:30",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "贵州村超全国赛",
       "padImg": "",
@@ -581,8 +581,8 @@
       },
       "nodes": [
         {
-          "pID": "966634204",
-          "name": "赛场原声"
+          "pID": "966773167",
+          "name": "2026贵州村超全国赛职中球场day6全场回放（赛场原声）（一）"
         }
       ]
     },
@@ -599,11 +599,16 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "动漫横扫晋级决赛 林诗栋2-3憾负大布",
       "modifyTitle": "WTT欧洲大满贯瑞典站女双半决赛、混双半决赛、男女单打1/8决赛",
-      "presenters": "",
+      "presenters": "周冠达 徐晨皓 程靖淇",
       "matchInfo": {
         "time": "08月14日18:00"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "966773477",
+          "name": "全场回放（李柯鑫）"
+        }
+      ]
     },
     {
       "mgdbId": "120000583548",
@@ -722,6 +727,10 @@
         {
           "pID": "966757701",
           "name": "2026年世界攀联亚洲青年杯Day2（中国全南）全场回放（官方解说）（一）"
+        },
+        {
+          "pID": "966773327",
+          "name": "2026世界攀联亚洲青年杯Day2（中国全南）全场回放（官方解说）（二）"
         }
       ]
     },
@@ -818,10 +827,6 @@
         {
           "pID": "966772918",
           "name": "全场回放"
-        },
-        {
-          "pID": "966773106",
-          "name": "全场回放"
         }
       ]
     },
@@ -859,7 +864,7 @@
       "title": "贝尔格莱德游击队vs武里南联",
       "keyword": "08月14日19:30",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "希望杯国际青少年俱乐部邀请赛",
       "padImg": "",
@@ -895,6 +900,10 @@
         "time": "08月14日19:35"
       },
       "nodes": [
+        {
+          "pID": "966773141",
+          "name": "超长版集锦"
+        },
         {
           "pID": "966772686",
           "name": "全场集锦"
@@ -1120,7 +1129,7 @@
       "title": "普利斯科娃率先出战 大威登场",
       "keyword": "08月14日23:00",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/14/77KP152QR1SE.jpg",
@@ -1133,16 +1142,16 @@
       },
       "nodes": [
         {
-          "pID": "966760529",
-          "name": "王乐之"
-        },
-        {
           "pID": "966701849",
           "name": "赛场原声"
         },
         {
           "pID": "966701870",
           "name": "英文原声"
+        },
+        {
+          "pID": "966760529",
+          "name": "王乐之"
         }
       ]
     }
