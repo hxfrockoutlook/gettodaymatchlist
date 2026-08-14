@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-14 11:31:40",
+  "updateTime": "2026-08-14 12:01:39",
   "data": [
     {
       "mgdbId": "120000583117",
@@ -171,36 +171,12 @@
       ]
     },
     {
-      "mgdbId": "120000587672",
-      "pID": "966702191",
-      "title": "2026年世界攀联亚洲青年杯（中国全南）",
-      "keyword": "08月14日10:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "世界攀联亚洲青年杯",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/13/77KO4L4IAKFM.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/8/10/1000000015181067b0e5.png",
-      "pkInfoTitle": "2026年世界攀联亚洲青年杯（中国全南）",
-      "modifyTitle": "2026年世界攀联亚洲青年杯（中国全南）",
-      "presenters": "",
-      "matchInfo": {
-        "time": "08月14日10:00"
-      },
-      "nodes": [
-        {
-          "pID": "966702191",
-          "name": "中国全南"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000587822",
       "pID": "966715930",
       "title": "欧塞尔vs梅州客家",
       "keyword": "08月14日10:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "希望杯国际青少年俱乐部邀请赛",
       "padImg": "",
@@ -224,7 +200,7 @@
       "title": "广东队vs诺丁汉森林",
       "keyword": "08月14日10:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "希望杯国际青少年俱乐部邀请赛",
       "padImg": "",
@@ -296,7 +272,7 @@
       "title": "经典重映-中国 vs 丹麦",
       "keyword": "08月14日12:00",
       "sportItemId": "6",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "BWF",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/10/77KLAJSN8QQN.png",
@@ -711,6 +687,30 @@
         {
           "pID": "966496971",
           "name": "解说"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000587672",
+      "pID": "966702191",
+      "title": "2026年世界攀联亚洲青年杯（中国全南）",
+      "keyword": "08月14日19:00",
+      "sportItemId": "8",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "世界攀联亚洲青年杯",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/13/77KO4L4IAKFM.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/8/10/1000000015181067b0e5.png",
+      "pkInfoTitle": "2026年世界攀联亚洲青年杯（中国全南）",
+      "modifyTitle": "2026年世界攀联亚洲青年杯（中国全南）",
+      "presenters": "",
+      "matchInfo": {
+        "time": "08月14日19:00"
+      },
+      "nodes": [
+        {
+          "pID": "966702191",
+          "name": "中国全南"
         }
       ]
     },
