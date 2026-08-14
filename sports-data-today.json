@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-14 15:31:41",
+  "updateTime": "2026-08-14 16:01:41",
   "data": [
     {
       "mgdbId": "120000583117",
@@ -326,13 +326,17 @@
         },
         {
           "pID": "966760618",
-          "name": "2026超三联赛靖江大区赛B档小组赛回放：成都和众21:8广东生涯"
+          "name": "【回放】成都和众21:8广东生涯"
+        },
+        {
+          "pID": "966761001",
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
     {
       "mgdbId": "120000589628",
-      "pID": "966607192",
+      "pID": "966760747",
       "title": "上海明日之星篮球争冠赛",
       "keyword": "08月14日13:00",
       "sportItemId": "2",
@@ -349,12 +353,8 @@
       },
       "nodes": [
         {
-          "pID": "966607192",
-          "name": "老友再聚 少年登场！姚明、斯科拉亲临助阵明日之星"
-        },
-        {
-          "pID": "966754085",
-          "name": "清流播出"
+          "pID": "966760747",
+          "name": "全场集锦"
         }
       ]
     },
@@ -484,7 +484,7 @@
       "title": "拳击比赛",
       "keyword": "08月14日15:52",
       "sportItemId": "4",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "贵州省运会",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/13/77KO2S473382.png",
@@ -508,7 +508,7 @@
       "title": "国青女篮热身赛",
       "keyword": "08月14日16:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "国青女篮热身赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000587513/202608101440_284320_H169_1080.webp",
@@ -639,6 +639,30 @@
       ]
     },
     {
+      "mgdbId": "120000587846",
+      "pID": "966721197",
+      "title": "龙卷风足球俱乐部（红队）vs格致中学代表队（A队）",
+      "keyword": "08月14日18:00",
+      "sportItemId": "1",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "大连友城杯青少年足球邀请赛",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/8/10/100000001519106c7a89.jpg",
+      "pkInfoTitle": "龙卷风足球俱乐部（红队）vs格致中学代表队（A队）",
+      "modifyTitle": "大连友城杯青少年足球邀请赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "08月14日18:00"
+      },
+      "nodes": [
+        {
+          "pID": "966721197",
+          "name": "A队"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000588230",
       "pID": "966742522",
       "title": "田径比赛决赛",
@@ -735,6 +759,30 @@
       ]
     },
     {
+      "mgdbId": "120000587847",
+      "pID": "966721209",
+      "title": "川崎前锋足球俱乐部vs韩国足协庆州花郎选拔队",
+      "keyword": "08月14日19:15",
+      "sportItemId": "1",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "大连友城杯青少年足球邀请赛",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/8/10/100000001519106c7a89.jpg",
+      "pkInfoTitle": "川崎前锋足球俱乐部vs韩国足协庆州花郎选拔队",
+      "modifyTitle": "大连友城杯青少年足球邀请赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "08月14日19:15"
+      },
+      "nodes": [
+        {
+          "pID": "966721209",
+          "name": "清流播出"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000570601",
       "pID": "966718388",
       "title": "中甲联赛",
@@ -774,7 +822,7 @@
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/14/77KP1CVEDPAG.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "尼尔·罗伯逊VS马克·塞尔比",
-      "modifyTitle": "斯诺克中国公开赛1/4决赛：马克·��尔比VS尼尔·罗伯逊",
+      "modifyTitle": "斯诺克中国公开赛1/4决赛：马克·塞尔比VS尼尔·罗伯逊",
       "presenters": "柏林",
       "matchInfo": {
         "time": "08月14日19:30"
@@ -987,6 +1035,30 @@
         {
           "pID": "966758409",
           "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000587848",
+      "pID": "966721250",
+      "title": "斯旺西城足球俱乐部vs诺丁汉森林足球俱乐部",
+      "keyword": "08月14日20:30",
+      "sportItemId": "1",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "大连友城杯青少年足球邀请赛",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/8/10/100000001519106c7a89.jpg",
+      "pkInfoTitle": "斯旺西城足球俱乐部vs诺丁汉森林足球俱乐部",
+      "modifyTitle": "大连友城杯青少年足球邀请赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "08月14日20:30"
+      },
+      "nodes": [
+        {
+          "pID": "966721250",
+          "name": "清流播出"
         }
       ]
     },
