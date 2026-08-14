@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-15 02:32:22",
+  "updateTime": "2026-08-15 03:02:48",
   "data": [
     {
       "mgdbId": "120000583116",
@@ -11,7 +11,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/15/77KPRSDP4D1R.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/15/77KPS8D6JD3O.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "林诗栋/蒯曼冲冠 王曼昱晋级女单8强",
       "modifyTitle": "WTT欧洲大满贯瑞典站混双决赛、男双半决赛、男女单打1/8决赛",
@@ -29,12 +29,12 @@
           "name": "1号桌"
         },
         {
-          "pID": "966200100",
-          "name": "2号桌"
-        },
-        {
           "pID": "966565553",
           "name": "智能字幕"
+        },
+        {
+          "pID": "966200100",
+          "name": "2号桌"
         },
         {
           "pID": "966200153",
@@ -61,6 +61,10 @@
       },
       "nodes": [
         {
+          "pID": "966776020",
+          "name": "全场集锦"
+        },
+        {
           "pID": "966775898",
           "name": "全场回放（张昊泽）"
         }
@@ -72,7 +76,7 @@
       "title": "意大利杯第一轮",
       "keyword": "08月15日00:30",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "撒丁岛竞技场",
       "competitionName": "意大利杯",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000587666/202608111029_325269_H169_1080.webp",
@@ -128,7 +132,7 @@
       "title": "意大利杯第一轮",
       "keyword": "08月15日03:15",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "弗朗基球场",
       "competitionName": "意大利杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/13/77KO2JRA2A1I.jpg",
@@ -147,6 +151,34 @@
         {
           "pID": "966725293",
           "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000587613",
+      "pID": "966701849",
+      "title": "斯蒂文斯PK克劳斯 大威止步首轮",
+      "keyword": "08月15日07:00",
+      "sportItemId": "9",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "WTA",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/15/77KPS8RTSJ3J.png",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
+      "pkInfoTitle": "斯蒂文斯PK克劳斯 大威止步首轮",
+      "modifyTitle": "WTA1000辛辛那提站女单第一轮：斯蒂文斯PK克劳斯 大威止步首轮",
+      "presenters": "",
+      "matchInfo": {
+        "time": "08月15日07:00"
+      },
+      "nodes": [
+        {
+          "pID": "966701849",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "966701870",
+          "name": "英文原声"
         }
       ]
     },
@@ -271,6 +303,30 @@
       ]
     },
     {
+      "mgdbId": "120000587849",
+      "pID": "966721266",
+      "title": "东北路小学代表队vs格致中学代表队（A队）",
+      "keyword": "08月15日09:00",
+      "sportItemId": "1",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "大连友城杯青少年足球邀请赛",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/8/10/100000001519106c7a89.jpg",
+      "pkInfoTitle": "东北路小学代表队vs格致中学代表队（A队）",
+      "modifyTitle": "大连友城杯青少年足球邀请赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "08月15日09:00"
+      },
+      "nodes": [
+        {
+          "pID": "966721266",
+          "name": "A队"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000587131",
       "pID": "966613654",
       "title": "A组第4vsB组第4",
@@ -291,6 +347,54 @@
         {
           "pID": "966613654",
           "name": "清流播出"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000587850",
+      "pID": "966721287",
+      "title": "川崎前锋足球俱乐部vs韩国足协庆州武烈选拔队",
+      "keyword": "08月15日10:15",
+      "sportItemId": "1",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "大连友城杯青少年足球邀请赛",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/8/10/100000001519106c7a89.jpg",
+      "pkInfoTitle": "川崎前锋足球俱乐部vs韩国足协庆州武烈选拔队",
+      "modifyTitle": "大连友城杯青少年足球邀请赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "08月15日10:15"
+      },
+      "nodes": [
+        {
+          "pID": "966721287",
+          "name": "清流播出"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000587851",
+      "pID": "966721314",
+      "title": "大连市足球协会（A队）vs诺丁汉森林足球俱乐部",
+      "keyword": "08月15日11:30",
+      "sportItemId": "1",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "大连友城杯青少年足球邀请赛",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/8/10/100000001519106c7a89.jpg",
+      "pkInfoTitle": "大连市足球协会（A队）vs诺丁汉森林足球俱乐部",
+      "modifyTitle": "大连友城杯青少年足球邀请赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "08月15日11:30"
+      },
+      "nodes": [
+        {
+          "pID": "966721314",
+          "name": "A队"
         }
       ]
     },
@@ -558,7 +662,7 @@
       "sportItemId": "2",
       "matchStatus": "0",
       "matchField": "",
-      "competitionName": "国青女篮热身��",
+      "competitionName": "国青女篮热身赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000587515/202608101445_207414_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/7/7/10000000148610647c6d.png",
       "pkInfoTitle": "世新大学女篮vs蒙古女篮",
