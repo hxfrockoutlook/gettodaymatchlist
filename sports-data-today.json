@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-14 21:01:52",
+  "updateTime": "2026-08-14 21:31:55",
   "data": [
     {
       "mgdbId": "120000583117",
@@ -419,6 +419,10 @@
         {
           "pID": "966765080",
           "name": "26/27赛季斯诺克中国公开赛1/4决赛下午场回放：周跃龙6-5大卫·吉尔伯特（朱峰立）"
+        },
+        {
+          "pID": "966769182",
+          "name": "26/27赛季斯诺克中国公开赛1/4决赛下午场回放：周跃龙6-5大卫·吉尔伯特（赛场原声）"
         }
       ]
     },
@@ -521,12 +525,12 @@
       },
       "nodes": [
         {
-          "pID": "966764025",
-          "name": "全场回放"
-        },
-        {
           "pID": "966763246",
           "name": "全场集锦"
+        },
+        {
+          "pID": "966764025",
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
@@ -672,7 +676,7 @@
       "title": "田径比赛决赛",
       "keyword": "08月14日18:20",
       "sportItemId": "4",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "贵州省运会",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/13/77KO2SB4OSEK.png",
@@ -744,7 +748,7 @@
       "title": "超三联赛 靖江大区赛 B档小组赛晚间场",
       "keyword": "08月14日19:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "超三联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/13/77KO3Q9N0934.png",
@@ -757,8 +761,16 @@
       },
       "nodes": [
         {
-          "pID": "966721456",
-          "name": "清流播出"
+          "pID": "966765087",
+          "name": "【回放】广东光正教育21:19江苏香江猛虎"
+        },
+        {
+          "pID": "966766564",
+          "name": "【回放】成都和众21:11湖北江鲟"
+        },
+        {
+          "pID": "966768895",
+          "name": "【回放】福州奇迹22:17湖北江鲟"
         }
       ]
     },
@@ -792,10 +804,10 @@
       "title": "中甲联赛",
       "keyword": "08月14日19:30",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "西安国际足球中心",
       "competitionName": "中甲",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000570601/754177_H169_sc.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000570601/771004_H169_sc.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/10106c2211.png",
       "pkInfoTitle": "陕西联合 vs 长春亚泰",
       "modifyTitle": "中甲联赛",
@@ -929,7 +941,7 @@
     {
       "mgdbId": "120000586572",
       "pID": "966582640",
-      "title": "斯诺克中国公开赛1/4决赛：马克·塞尔比VS尼尔·罗伯逊",
+      "title": "斯诺克中国公开赛1/4决赛：马克·塞尔比 VS 尼尔·罗伯逊",
       "keyword": "08月14日19:45",
       "sportItemId": "8",
       "matchStatus": "1",
@@ -937,8 +949,8 @@
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/14/77KP1CVEDPAG.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "尼尔·罗伯逊VS马克·塞尔比",
-      "modifyTitle": "斯诺克中国公开赛1/4决赛：马克·塞尔比VS尼尔·罗伯逊",
+      "pkInfoTitle": "尼尔·罗伯逊 VS 马克·塞尔比",
+      "modifyTitle": "斯诺克中国公开赛1/4决赛：马克·塞尔比 VS 尼尔·罗伯逊",
       "presenters": "柏林",
       "matchInfo": {
         "time": "08月14日19:45"
@@ -961,7 +973,7 @@
     {
       "mgdbId": "120000586573",
       "pID": "966581969",
-      "title": "斯诺克中国公开赛1/4决赛：张安达VS斯图尔特·宾汉姆",
+      "title": "斯诺克中国公开赛1/4决赛：张安达 VS 斯图尔特·宾汉姆",
       "keyword": "08月14日19:45",
       "sportItemId": "8",
       "matchStatus": "1",
@@ -969,8 +981,8 @@
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/14/77KP1BB30LMO.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "斯图尔特·宾汉姆VS张安达",
-      "modifyTitle": "斯诺克中国公开赛1/4决赛：张安达VS斯图尔特·宾汉姆",
+      "pkInfoTitle": "斯图尔特·宾汉姆 VS 张安达",
+      "modifyTitle": "斯诺克中国公开赛1/4决赛：张安达 VS 斯图尔特·宾汉姆",
       "presenters": "乔迁",
       "matchInfo": {
         "time": "08月14日19:45"
@@ -1076,7 +1088,7 @@
       "title": "ONE周五格斗夜166：坤蓬VS攀帕杰",
       "keyword": "08月14日21:30",
       "sportItemId": "5",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "ONE冠军赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/13/77KO21RVP3N1.jpg",
