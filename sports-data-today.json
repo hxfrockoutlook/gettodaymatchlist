@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-14 09:31:32",
+  "updateTime": "2026-08-14 10:01:46",
   "data": [
     {
       "mgdbId": "120000583117",
@@ -23,6 +23,14 @@
         {
           "pID": "966752901",
           "name": "全场回放（张靖松）"
+        },
+        {
+          "pID": "966753166",
+          "name": "全场回放（一号桌）"
+        },
+        {
+          "pID": "966753100",
+          "name": "全场回放（二号桌）"
         },
         {
           "pID": "966752990",
@@ -164,7 +172,7 @@
       "title": "2026年世界攀联亚洲青年杯（中国全南）",
       "keyword": "08月14日10:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "世界攀联亚洲青年杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/13/77KO4L4IAKFM.jpg",
@@ -188,7 +196,7 @@
       "title": "欧塞尔vs梅州客家",
       "keyword": "08月14日10:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "希望杯国际青少年俱乐部邀请赛",
       "padImg": "",
@@ -212,7 +220,7 @@
       "title": "广东队vs诺丁汉森林",
       "keyword": "08月14日10:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "希望杯国际青少年俱乐部邀请赛",
       "padImg": "",
@@ -731,6 +739,70 @@
       ]
     },
     {
+      "mgdbId": "120000586572",
+      "pID": "966582640",
+      "title": "斯诺克中国公开赛1/4决赛：马克·塞尔比VS尼尔·罗伯逊",
+      "keyword": "08月14日19:30",
+      "sportItemId": "8",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "斯诺克",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
+      "pkInfoTitle": "尼尔·罗伯逊VS马克·塞尔比",
+      "modifyTitle": "斯诺克中国公开赛1/4决赛：马克·塞尔比VS尼尔·罗伯逊",
+      "presenters": "柏林",
+      "matchInfo": {
+        "time": "08月14日19:30"
+      },
+      "nodes": [
+        {
+          "pID": "966582640",
+          "name": "柏林"
+        },
+        {
+          "pID": "966538930",
+          "name": "塞尔比vs罗伯逊"
+        },
+        {
+          "pID": "966538945",
+          "name": "张安达vs宾汉姆"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000586573",
+      "pID": "966581969",
+      "title": "斯诺克中国公开赛1/4决赛：张安达VS斯图尔特·宾汉姆",
+      "keyword": "08月14日19:30",
+      "sportItemId": "8",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "斯诺克",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
+      "pkInfoTitle": "斯图尔特·宾汉姆VS张安达",
+      "modifyTitle": "斯诺克中国公开赛1/4决赛：张安达VS斯图尔特·宾汉姆",
+      "presenters": "乔迁",
+      "matchInfo": {
+        "time": "08月14日19:30"
+      },
+      "nodes": [
+        {
+          "pID": "966581969",
+          "name": "乔迁"
+        },
+        {
+          "pID": "966538945",
+          "name": "张安达vs宾汉姆"
+        },
+        {
+          "pID": "966538930",
+          "name": "塞尔比vs罗伯逊"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000587514",
       "pID": "966689287",
       "title": "国青女篮热身赛",
@@ -922,7 +994,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "WTA",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/14/77KP152QR1SE.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
       "pkInfoTitle": "普利斯科娃率先出战 大威登场",
       "modifyTitle": "WTA1000辛辛那提站女单第一轮：普利斯科娃率先出战 大威登场",
