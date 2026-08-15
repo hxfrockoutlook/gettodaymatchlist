@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-15 17:33:01",
+  "updateTime": "2026-08-15 18:02:49",
   "data": [
     {
       "mgdbId": "120000583116",
@@ -507,6 +507,10 @@
         {
           "pID": "966781702",
           "name": "全场集锦"
+        },
+        {
+          "pID": "966782467",
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
@@ -690,7 +694,7 @@
       "nodes": [
         {
           "pID": "966783614",
-          "name": "2026大连友城杯青少年足球邀请赛小组赛第10轮全场回放：东北路小学代表队1:10斯旺西城足球俱乐部（赛场原声）"
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
@@ -700,7 +704,7 @@
       "title": "中乙联赛",
       "keyword": "08月15日16:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "东华大学体育场",
       "competitionName": "中乙",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000571891/202603120839_491482_H169_1080.webp",
@@ -748,7 +752,7 @@
       "title": "中乙联赛",
       "keyword": "08月15日16:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "大连足球青训基地体育场",
       "competitionName": "中乙",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000571893/202608151630_574531_H169_1080.webp",
@@ -772,7 +776,7 @@
       "title": "上海明日之星篮球争冠赛",
       "keyword": "08月15日16:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "上海明日之星篮球争冠赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000587133/202608150915_364709_H169_1080.webp",
@@ -796,7 +800,7 @@
       "title": "国青女篮热身赛",
       "keyword": "08月15日16:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "国青女篮热身赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000587515/202608101445_207414_H169_1080.webp",
@@ -841,16 +845,16 @@
     {
       "mgdbId": "120000589652",
       "pID": "966760551",
-      "title": "津南VS北辰",
+      "title": "津南3-1北辰",
       "keyword": "08月15日16:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "海河超儿",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/8/14/10000000152310677fd0.png",
-      "pkInfoTitle": "津南VS北辰",
-      "modifyTitle": "津南VS北辰",
+      "pkInfoTitle": "津南3-1北辰",
+      "modifyTitle": "津南3-1北辰",
       "presenters": "",
       "matchInfo": {
         "time": "08月15日16:00"
@@ -865,16 +869,16 @@
     {
       "mgdbId": "120000589654",
       "pID": "966760574",
-      "title": "东丽VS蓟州",
+      "title": "东丽5-1蓟州",
       "keyword": "08月15日16:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "海河超儿",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/8/14/10000000152310677fd0.png",
-      "pkInfoTitle": "东丽VS蓟州",
-      "modifyTitle": "东丽VS蓟州",
+      "pkInfoTitle": "东丽5-1蓟州",
+      "modifyTitle": "东丽5-1蓟州",
       "presenters": "",
       "matchInfo": {
         "time": "08月15日16:00"
@@ -940,7 +944,7 @@
       "title": "中甲联赛",
       "keyword": "08月15日18:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "延吉市全民健身体育中心体育场",
       "competitionName": "中甲",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000570603/202603010051_500377_H169_1080.webp",
@@ -1000,7 +1004,7 @@
       "title": "NBA精彩重播：雄鹿vs勇士",
       "keyword": "08月15日18:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA经典赛事",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/15/77KPU9D6RQ4F.jpg",
@@ -1024,7 +1028,7 @@
       "title": "聚焦八角笼：马哈切夫VS伊恩-加里战力解析",
       "keyword": "08月15日18:00",
       "sportItemId": "5",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "UFC前瞻与回顾",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/15/77KPV1C2PMJ3.jpg",
@@ -1048,7 +1052,7 @@
       "title": "红桥VS南开",
       "keyword": "08月15日18:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "海河超儿",
       "padImg": "",
@@ -1072,7 +1076,7 @@
       "title": "滨海VS河东",
       "keyword": "08月15日18:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "海河超儿",
       "padImg": "",
@@ -1276,7 +1280,7 @@
       "title": "闽超",
       "keyword": "08月15日19:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "闽超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000586768/202608041053_136556_H169_1080.webp",
