@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-16 01:02:56",
+  "updateTime": "2026-08-16 01:32:10",
   "data": [
     {
       "mgdbId": "120000583113",
@@ -71,7 +71,7 @@
       "matchStatus": "2",
       "matchField": "",
       "competitionName": "BIG3",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/15/77KPSHBK469D.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/16/77KQOUB9QIBM.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/6/20/1000000014971069d7b4.jpeg",
       "pkInfoTitle": "Panini队VSiHeart队",
       "modifyTitle": "BIG3",
@@ -160,7 +160,7 @@
       "title": "西甲联赛",
       "keyword": "08月16日01:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "门迪佐洛萨球场",
       "competitionName": "西甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000586227/766233_H169_sc.jpg",
@@ -227,7 +227,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2022/4/19/10000000076810647c0c.png",
       "pkInfoTitle": "威尼斯 vs 摩德纳",
       "modifyTitle": "意大利杯第一轮",
-      "presenters": "张天翼",
+      "presenters": "张天��",
       "matchInfo": {
         "time": "08月16日02:45"
       },
@@ -527,6 +527,30 @@
       ]
     },
     {
+      "mgdbId": "120000589743",
+      "pID": "966781380",
+      "title": "川崎前锋足球俱乐部vs龙卷风足球俱乐部（红队）",
+      "keyword": "08月16日09:00",
+      "sportItemId": "1",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "大连友城杯青少年足球邀请赛",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/8/10/100000001519106c7a89.jpg",
+      "pkInfoTitle": "川崎前锋足球俱乐部vs龙卷风足球俱乐部（红队）",
+      "modifyTitle": "大连友城杯青少年足球邀请赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "08月16日09:00"
+      },
+      "nodes": [
+        {
+          "pID": "966781380",
+          "name": "红队"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000589733",
       "pID": "966778091",
       "title": "NBA精彩重播：07季后赛 太阳vs马刺G1",
@@ -571,6 +595,30 @@
         {
           "pID": "966761608",
           "name": "新疆沙雅站"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000589744",
+      "pID": "966781389",
+      "title": "布隆德比足球俱乐部vs诺维奇城足球俱乐部",
+      "keyword": "08月16日10:15",
+      "sportItemId": "1",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "大连友城杯青少年足球邀请赛",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/8/10/100000001519106c7a89.jpg",
+      "pkInfoTitle": "布隆德比足球俱乐部vs诺维奇城足球俱乐部",
+      "modifyTitle": "大连友城杯青少年足球邀请赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "08月16日10:15"
+      },
+      "nodes": [
+        {
+          "pID": "966781389",
+          "name": "清流播出"
         }
       ]
     },
