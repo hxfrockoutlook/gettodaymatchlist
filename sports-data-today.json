@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-15 07:32:32",
+  "updateTime": "2026-08-15 08:02:53",
   "data": [
     {
       "mgdbId": "120000583116",
@@ -126,7 +126,7 @@
         },
         {
           "pID": "966776771",
-          "name": "全场回放（刘腾）"
+          "name": "全场回放（刘腾��"
         }
       ]
     },
@@ -192,7 +192,7 @@
       "title": "跃界星途国际青少年篮球邀请赛Day3",
       "keyword": "08月15日08:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "跃界星途国际青少年篮球邀请赛",
       "padImg": "",
@@ -215,7 +215,7 @@
       "pID": "966489971",
       "title": "咪咕体育日报 第150期",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "咪咕体育日报",
       "padImg": "",
@@ -477,7 +477,7 @@
     {
       "mgdbId": "120000586574",
       "pID": "966581945",
-      "title": "诺鹏·桑卡姆 VS 周跃龙",
+      "title": "斯诺克中国公开赛半决赛：诺鹏·桑卡姆 VS 周跃龙",
       "keyword": "08月15日14:00",
       "sportItemId": "8",
       "matchStatus": "0",
@@ -1815,34 +1815,6 @@
       ]
     },
     {
-      "mgdbId": "120000586575",
-      "pID": "966538955",
-      "title": "中国公开赛半决赛晚场",
-      "keyword": "08月15日19:30",
-      "sportItemId": "8",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "斯诺克",
-      "padImg": "",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "中国公开赛半决赛晚场",
-      "modifyTitle": "斯诺克中国公开赛半决赛",
-      "presenters": "柏林",
-      "matchInfo": {
-        "time": "08月15日19:30"
-      },
-      "nodes": [
-        {
-          "pID": "966538955",
-          "name": "1号桌"
-        },
-        {
-          "pID": "966581937",
-          "name": "柏林"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000586780",
       "pID": "966739405",
       "title": "中国男篮系列热身赛",
@@ -2361,7 +2333,7 @@
     {
       "mgdbId": "120000587614",
       "pID": "966701890",
-      "title": "女单第二轮",
+      "title": "阿尼西莫娃、佩古拉领衔出战",
       "keyword": "08月15日23:00",
       "sportItemId": "9",
       "matchStatus": "0",
@@ -2369,8 +2341,8 @@
       "competitionName": "WTA",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "女单第二轮",
-      "modifyTitle": "WTA1000辛辛那提站女单第二轮",
+      "pkInfoTitle": "阿尼西莫娃、佩古拉领衔出战",
+      "modifyTitle": "WTA1000辛辛那提站女单第二轮：阿尼西莫娃、佩古拉领衔出战",
       "presenters": "",
       "matchInfo": {
         "time": "08月15日23:00"
@@ -2411,6 +2383,34 @@
         {
           "pID": "966758586",
           "name": "英文原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000586575",
+      "pID": "120000586575",
+      "title": "中国公开赛半决赛晚场",
+      "keyword": "08月15日19:30",
+      "sportItemId": "",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "斯诺克",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/06/17/11005/5594d228484b40e98c13e66587c91b77/5594d228484b40e98c13e66587c91b77_H169_P1080_WEBP.webp",
+      "competitionLogo": "",
+      "pkInfoTitle": "中国公开赛半决赛晚场",
+      "modifyTitle": "中国公开赛半决赛晚场",
+      "presenters": "",
+      "matchInfo": {
+        "time": "08月15日19:30"
+      },
+      "nodes": [
+        {
+          "pID": "966538955",
+          "name": "1号桌"
+        },
+        {
+          "pID": "966581937",
+          "name": "柏林"
         }
       ]
     }
