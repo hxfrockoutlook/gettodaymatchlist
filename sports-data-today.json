@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-15 10:02:37",
+  "updateTime": "2026-08-15 10:33:13",
   "data": [
     {
       "mgdbId": "120000583116",
@@ -126,7 +126,7 @@
         },
         {
           "pID": "966776771",
-          "name": "全场回放（刘腾）"
+          "name": "全场回放（刘腾��"
         }
       ]
     },
@@ -177,24 +177,20 @@
       },
       "nodes": [
         {
-          "pID": "966778247",
-          "name": "2026WTA1000辛辛那提站女单第1轮回放：斯蒂文斯2-0克劳斯（赛场原声）\t"
-        },
-        {
-          "pID": "966778198",
-          "name": "2026WTA1000辛辛那提站女单第1轮回放：斯蒂文斯2-0克劳斯（英文原声）"
-        },
-        {
           "pID": "966776227",
           "name": "【回放】阿朗戈2-0大威廉姆斯（王乐之）"
         },
         {
-          "pID": "966776505",
-          "name": "【回放】阿朗戈2-0大威廉姆斯（赛场原声）"
-        },
-        {
           "pID": "966775248",
           "name": "【回放】贝莱克2-0普利斯科娃（赛场原声）"
+        },
+        {
+          "pID": "966778247",
+          "name": "【回放】斯蒂文斯2-0克劳斯（赛场原声）"
+        },
+        {
+          "pID": "966776505",
+          "name": "【回放】阿朗戈2-0大威廉姆斯（赛场原声）"
         },
         {
           "pID": "966776511",
@@ -203,6 +199,10 @@
         {
           "pID": "966775088",
           "name": "【回放】贝莱克2-0普利斯科娃（英文原声）"
+        },
+        {
+          "pID": "966778198",
+          "name": "【回放】斯蒂文斯2-0克劳斯（英文原声）"
         }
       ]
     },
@@ -332,7 +332,7 @@
       "title": "东北路小学代表队vs格致中学代表队（A队）",
       "keyword": "08月15日09:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "大连友城杯青少年足球邀请赛",
       "padImg": "",
@@ -380,7 +380,7 @@
       "title": "韩国足球庆州花郎选拔队vs自由城足球俱乐部",
       "keyword": "08月15日10:15",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "大连友城杯青少年足球邀请赛",
       "padImg": "",
@@ -455,7 +455,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "上海明日之星篮球争冠赛",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000587132/202608150915_433149_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/15/77KPUG1138QE.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/6/4/100000001086106ec13f.png",
       "pkInfoTitle": "意大利瓦雷泽篮球俱乐部vs中国国家U18男篮B队",
       "modifyTitle": "上海明日之星篮球争冠赛",
@@ -1668,14 +1668,14 @@
     },
     {
       "mgdbId": "120000586575",
-      "pID": "966538955",
+      "pID": "966581937",
       "title": "斯诺克中国公开赛半决赛：马克·塞尔比 VS 斯图尔特·宾汉姆",
       "keyword": "08月15日19:30",
       "sportItemId": "8",
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "斯诺克",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/15/77KPUEE10VAE.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "马克·塞尔比 VS 斯图尔特·宾汉姆",
       "modifyTitle": "斯诺克中国公开赛半决赛：马克·塞尔比 VS 斯图尔特·宾汉姆",
@@ -1685,12 +1685,12 @@
       },
       "nodes": [
         {
-          "pID": "966538955",
-          "name": "1号桌"
-        },
-        {
           "pID": "966581937",
           "name": "柏林"
+        },
+        {
+          "pID": "966538955",
+          "name": "1号桌"
         }
       ]
     },
