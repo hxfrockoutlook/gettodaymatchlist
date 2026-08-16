@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-16 15:02:11",
+  "updateTime": "2026-08-16 15:32:18",
   "data": [
     {
       "mgdbId": "120000583113",
@@ -632,7 +632,7 @@
       "title": "盛装舞步音乐自由演绎",
       "keyword": "08月16日10:30",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "国际马联世锦赛",
       "padImg": "",
@@ -832,7 +832,7 @@
       "title": "马背体操双人决赛",
       "keyword": "08月16日15:15",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "国际马联世锦赛",
       "padImg": "",
@@ -1059,7 +1059,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "NBA经典赛事",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/16/77KQPJ2TL0OJ.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png",
       "pkInfoTitle": "NBA精彩重播：火箭vs开拓者",
       "modifyTitle": "NBA经典赛事",
@@ -1383,7 +1383,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "超三联赛",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/16/77KQPIQUKK8T.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg",
       "pkInfoTitle": "超三联赛 靖江大区赛 A档半决赛及决赛",
       "modifyTitle": "超三联赛",
@@ -1773,20 +1773,16 @@
       },
       "nodes": [
         {
+          "pID": "966805564",
+          "name": "郭丰庆"
+        },
+        {
           "pID": "966701925",
           "name": "赛场原声"
         },
         {
           "pID": "966701958",
           "name": "英文原声"
-        },
-        {
-          "pID": "966805552",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "966805564",
-          "name": "郭丰庆"
         }
       ]
     },
