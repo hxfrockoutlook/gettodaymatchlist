@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-16 09:32:05",
+  "updateTime": "2026-08-16 10:02:06",
   "data": [
     {
       "mgdbId": "120000583113",
@@ -332,11 +332,11 @@
     },
     {
       "mgdbId": "120000587918",
-      "pID": "966738063",
+      "pID": "966802575",
       "title": "2026奈史密斯篮球名人堂 入堂仪式",
       "keyword": "08月16日07:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/15/77KPSRAKOLQJ.jpg",
@@ -348,6 +348,10 @@
         "time": "08月16日07:00"
       },
       "nodes": [
+        {
+          "pID": "966802575",
+          "name": "小霸王来袭！阿玛雷-斯塔德迈尔入选名人堂"
+        },
         {
           "pID": "966738063",
           "name": "连睿 周鹏"
@@ -451,30 +455,6 @@
       ]
     },
     {
-      "mgdbId": "120000587674",
-      "pID": "966702149",
-      "title": "世界攀联亚洲青年杯（中国全南）",
-      "keyword": "08月16日08:30",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "世界攀联亚洲青年杯",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/15/77KPURO5U2OS.png",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/8/10/1000000015181067b0e5.png",
-      "pkInfoTitle": "世界攀联亚洲青年杯（中国全南）",
-      "modifyTitle": "2026年世界攀联亚洲青年杯（中国全南）",
-      "presenters": "",
-      "matchInfo": {
-        "time": "08月16日08:30"
-      },
-      "nodes": [
-        {
-          "pID": "966702149",
-          "name": "中国全南"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000589650",
       "pID": "966758560",
       "title": "自行车巡回赛鄂托克旗站Day2",
@@ -552,7 +532,7 @@
       "title": "自行车系列赛新疆沙雅站",
       "keyword": "08月16日10:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "中国自行车运动协会系列赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/15/77KPUS6UAGK3.png",
@@ -576,7 +556,7 @@
       "title": "布隆德比足球俱乐部vs诺维奇城足球俱乐部",
       "keyword": "08月16日10:15",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "大连友城杯青少年足球邀请赛",
       "padImg": "",
@@ -858,7 +838,7 @@
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/8/14/10000000152310677fd0.png",
       "pkInfoTitle": "西青VS静海",
-      "modifyTitle": "西青VS��海",
+      "modifyTitle": "西青VS静海",
       "presenters": "",
       "matchInfo": {
         "time": "08月16日16:00"
@@ -915,6 +895,30 @@
         {
           "pID": "966701832",
           "name": "清流播出"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000587674",
+      "pID": "966702149",
+      "title": "世界攀联亚洲青年杯（中国全南）",
+      "keyword": "08月16日16:30",
+      "sportItemId": "8",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "世界攀联亚洲青年杯",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/15/77KPURO5U2OS.png",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/8/10/1000000015181067b0e5.png",
+      "pkInfoTitle": "世界攀联亚洲青年杯（中国全南）",
+      "modifyTitle": "2026年世界攀联亚洲青年杯（中国全南）",
+      "presenters": "",
+      "matchInfo": {
+        "time": "08月16日16:30"
+      },
+      "nodes": [
+        {
+          "pID": "966702149",
+          "name": "中国全南"
         }
       ]
     },
