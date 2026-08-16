@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-16 22:02:27",
+  "updateTime": "2026-08-16 22:32:18",
   "data": [
     {
       "mgdbId": "120000583113",
@@ -779,10 +779,6 @@
         {
           "pID": "966720601",
           "name": "一号场地"
-        },
-        {
-          "pID": "966720731",
-          "name": "三号场地"
         }
       ]
     },
@@ -1098,7 +1094,7 @@
         },
         {
           "pID": "966812520",
-          "name": "2026WTT欧洲大满贯瑞典站Day9晚间场全场回放（智能字幕）"
+          "name": "全场回放（英文解说智能字幕）"
         }
       ]
     },
@@ -1223,6 +1219,10 @@
         {
           "pID": "966812289",
           "name": "全场回放（官方解说）"
+        },
+        {
+          "pID": "966812603",
+          "name": "全场回放"
         }
       ]
     },
@@ -1245,12 +1245,8 @@
       },
       "nodes": [
         {
-          "pID": "966718493",
-          "name": "解说"
-        },
-        {
-          "pID": "966718511",
-          "name": "赛场原声"
+          "pID": "966812668",
+          "name": "全场回放（官方解说）"
         }
       ]
     },
@@ -1417,8 +1413,8 @@
       },
       "nodes": [
         {
-          "pID": "966704802",
-          "name": "赛场原声"
+          "pID": "966812623",
+          "name": "全场回放"
         }
       ]
     },
@@ -1459,6 +1455,10 @@
         {
           "pID": "966811679",
           "name": "【决赛回放】南昌凯锆商贸10:21宁波海曙捷英"
+        },
+        {
+          "pID": "966812635",
+          "name": "2026超三联赛靖江大区赛A档半决赛及决赛全场回放（赛场原声）"
         }
       ]
     },
@@ -1471,7 +1471,7 @@
       "matchStatus": "2",
       "matchField": "江苏五台山体育中心体育场",
       "competitionName": "中甲",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000570596/202608162150_439819_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000570596/202608162201_195598_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/10106c2211.png",
       "pkInfoTitle": "南京城市 vs 定南赣联",
       "modifyTitle": "中甲联赛",
@@ -1575,7 +1575,7 @@
       "matchStatus": "2",
       "matchField": "贵阳奥体中心体育场",
       "competitionName": "中乙",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000571886/202603120837_803606_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000571886/202608162206_903854_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/7/7/1000000011571060f297.png",
       "pkInfoTitle": "贵州贵阳竞技 vs 成都蓉城B队",
       "modifyTitle": "中乙联赛",
@@ -1647,7 +1647,7 @@
       "matchStatus": "2",
       "matchField": "广东省人民体育场",
       "competitionName": "中乙",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000571889/202603120838_660988_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000571889/202608162200_351820_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/7/7/1000000011571060f297.png",
       "pkInfoTitle": "广东铭途 vs 武汉三镇B队",
       "modifyTitle": "中乙联赛",
@@ -1754,7 +1754,7 @@
       "sportItemId": "1",
       "matchStatus": "1",
       "matchField": "Principality Stadium",
-      "competitionName": "社区盾杯",
+      "competitionName": "社区盾",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000587574/202608101810_502357_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/7/7/1000000013031067d9de.png",
       "pkInfoTitle": "阿森纳 vs 曼城",
