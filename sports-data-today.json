@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-16 14:02:21",
+  "updateTime": "2026-08-16 14:32:07",
   "data": [
     {
       "mgdbId": "120000583113",
@@ -584,7 +584,7 @@
       "title": "自行车系列赛新疆沙雅站",
       "keyword": "08月16日10:00",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "中国自行车运动协会系列赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/15/77KPUS6UAGK3.png",
@@ -728,7 +728,7 @@
     },
     {
       "mgdbId": "120000587844",
-      "pID": "966720601",
+      "pID": "966720693",
       "title": "世界腰旗橄榄球锦标赛 Day 4",
       "keyword": "08月16日14:00",
       "sportItemId": "8",
@@ -744,10 +744,6 @@
         "time": "08月16日14:00"
       },
       "nodes": [
-        {
-          "pID": "966720601",
-          "name": "一号场地"
-        },
         {
           "pID": "966720693",
           "name": "二号场地"
@@ -995,6 +991,30 @@
         {
           "pID": "966702149",
           "name": "中国全南"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000589767",
+      "pID": "966805389",
+      "title": "大连市足球协会（A队）vs韩国足协庆州花郎选拔队",
+      "keyword": "08月16日17:15",
+      "sportItemId": "1",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "大连友城杯青少年足球邀请赛",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/8/10/100000001519106c7a89.jpg",
+      "pkInfoTitle": "大连市足球协会（A队）vs韩国足协庆州花郎选拔队",
+      "modifyTitle": "大连友城杯青少年足球邀请赛1/4决赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "08月16日17:15"
+      },
+      "nodes": [
+        {
+          "pID": "966805389",
+          "name": "A队"
         }
       ]
     },
@@ -1747,7 +1767,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
       "pkInfoTitle": "莱巴金娜、斯瓦泰克轮番出战",
       "modifyTitle": "WTA1000辛辛那提站女单第二轮：莱巴金娜、斯瓦泰克轮番出战",
-      "presenters": "",
+      "presenters": "郭丰庆",
       "matchInfo": {
         "time": "08月16日23:00"
       },
@@ -1759,6 +1779,14 @@
         {
           "pID": "966701958",
           "name": "英文原声"
+        },
+        {
+          "pID": "966805552",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "966805564",
+          "name": "郭丰庆"
         }
       ]
     },
