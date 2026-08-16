@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-16 13:32:45",
+  "updateTime": "2026-08-16 14:02:21",
   "data": [
     {
       "mgdbId": "120000583113",
@@ -608,7 +608,7 @@
       "title": "布隆德比足球俱乐部vs诺维奇城足球俱乐部",
       "keyword": "08月16日10:15",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "大连友城杯青少年足球邀请赛",
       "padImg": "",
@@ -621,8 +621,8 @@
       },
       "nodes": [
         {
-          "pID": "966781389",
-          "name": "清流播出"
+          "pID": "966804174",
+          "name": "全场回放"
         }
       ]
     },
@@ -732,7 +732,7 @@
       "title": "世界腰旗橄榄球锦标赛 Day 4",
       "keyword": "08月16日14:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "腰旗橄榄球世锦赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/15/77KPS7I4HTPN.jpg",
@@ -764,7 +764,7 @@
       "title": "超三联赛 靖江大区赛 A档四分之一决赛",
       "keyword": "08月16日14:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "超三联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/16/77KQRUSFB1U6.jpg",
@@ -923,6 +923,30 @@
         {
           "pID": "966760620",
           "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000589745",
+      "pID": "966781410",
+      "title": "川崎前锋足球俱乐部vs大连第二十一中代表队",
+      "keyword": "08月16日16:00",
+      "sportItemId": "1",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "大连友城杯青少年足球邀请赛",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/8/10/100000001519106c7a89.jpg",
+      "pkInfoTitle": "川崎前锋足球俱乐部vs大连第二十一中代表队",
+      "modifyTitle": "大连友城杯青少年足球邀请赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "08月16日16:00"
+      },
+      "nodes": [
+        {
+          "pID": "966781410",
+          "name": "清流播出"
         }
       ]
     },
