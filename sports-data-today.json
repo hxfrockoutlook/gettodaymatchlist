@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-19 14:31:13",
+  "updateTime": "2026-08-19 15:01:12",
   "data": [
     {
       "mgdbId": "120000585888",
@@ -184,26 +184,22 @@
     },
     {
       "mgdbId": "120000589738",
-      "pID": "966848273",
+      "pID": "966779402",
       "title": "冲16强！陈雨菲、梁王组合领衔登场",
       "keyword": "08月19日11:30",
       "sportItemId": "6",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "BWF",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/19/77KTG8UQNF7D.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/19/77KTGMFF41HI.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "冲16强！陈雨菲、梁王组合领衔登场",
       "modifyTitle": "2026羽毛球世锦赛第三日：冲16强！陈雨菲、梁王组合领衔登场",
-      "presenters": "鸿昆",
+      "presenters": "",
       "matchInfo": {
         "time": "08月19日11:30"
       },
       "nodes": [
-        {
-          "pID": "966848273",
-          "name": "冯彦哲/黄东萍VS赖炳瓒/黎洁仪"
-        },
         {
           "pID": "966779402",
           "name": "1号场地"
@@ -264,7 +260,7 @@
       "title": "村超球场day12",
       "keyword": "08月19日15:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "贵州村超全国赛",
       "padImg": "",
@@ -595,11 +591,15 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
       "pkInfoTitle": "高芙、萨巴伦卡领衔出战",
       "modifyTitle": "WTA1000辛辛那提站女单1/8决赛：高芙、萨巴伦卡领衔出战",
-      "presenters": "",
+      "presenters": "邱超 宋光振",
       "matchInfo": {
         "time": "08月19日23:00"
       },
       "nodes": [
+        {
+          "pID": "966853397",
+          "name": "斯瓦泰克 vs 帕里(邱超)"
+        },
         {
           "pID": "966702059",
           "name": "赛场原声"
@@ -607,6 +607,10 @@
         {
           "pID": "966702096",
           "name": "英文原声"
+        },
+        {
+          "pID": "966853415",
+          "name": "凯斯 vs 王曦雨(宋光振)"
         }
       ]
     }
