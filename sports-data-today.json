@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-21 13:01:13",
+  "updateTime": "2026-08-21 13:31:17",
   "data": [
     {
       "mgdbId": "120000587619",
@@ -227,30 +227,6 @@
       ]
     },
     {
-      "mgdbId": "120000589992",
-      "pID": "966821209",
-      "title": "中国贵阳亚洲青年攀岩锦标赛DAY1",
-      "keyword": "08月21日10:00",
-      "sportItemId": "8",
-      "matchStatus": "2",
-      "matchField": "",
-      "competitionName": "攀岩系列赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/21/77KVDMFRMB5M.png",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/10/22/10000000136010611504.jpg",
-      "pkInfoTitle": "中国贵阳亚洲青年攀岩锦标赛DAY1",
-      "modifyTitle": "中国贵阳亚洲青年攀岩锦标赛DAY1",
-      "presenters": "",
-      "matchInfo": {
-        "time": "08月21日10:00"
-      },
-      "nodes": [
-        {
-          "pID": "966821209",
-          "name": "解说"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000589740",
       "pID": "966778855",
       "title": "国羽德比！凤凰大战星驰组合",
@@ -273,12 +249,12 @@
           "name": "冯彦哲/黄东萍VS程星/张驰"
         },
         {
-          "pID": "966778855",
-          "name": "1号场地"
-        },
-        {
           "pID": "966778860",
           "name": "2号场地"
+        },
+        {
+          "pID": "966778855",
+          "name": "1号场地"
         },
         {
           "pID": "966778881",
@@ -363,6 +339,30 @@
         {
           "pID": "966634364",
           "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000589992",
+      "pID": "966821209",
+      "title": "中国贵阳亚洲青年攀岩锦标赛DAY1",
+      "keyword": "08月21日17:00",
+      "sportItemId": "8",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "攀岩系列赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/21/77KVDMFRMB5M.png",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/10/22/10000000136010611504.jpg",
+      "pkInfoTitle": "中国贵阳亚洲青年攀岩锦标赛DAY1",
+      "modifyTitle": "中国贵阳亚洲青年攀岩锦标赛DAY1",
+      "presenters": "",
+      "matchInfo": {
+        "time": "08月21日17:00"
+      },
+      "nodes": [
+        {
+          "pID": "966821209",
+          "name": "解说"
         }
       ]
     },
