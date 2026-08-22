@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-23 07:02:19",
+  "updateTime": "2026-08-23 07:32:00",
   "data": [
     {
       "mgdbId": "120000584277",
@@ -203,10 +203,6 @@
         {
           "pID": "966938673",
           "name": "全场回放（胡小凡、张力、秦游夏）"
-        },
-        {
-          "pID": "966938725",
-          "name": "全场回放"
         }
       ]
     },
@@ -397,20 +393,8 @@
       },
       "nodes": [
         {
-          "pID": "966915412",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "966915424",
-          "name": "鸿昆"
-        },
-        {
-          "pID": "966702185",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "966702202",
-          "name": "英文原声"
+          "pID": "966939399",
+          "name": "全场回放（鸿昆）"
         }
       ]
     },
@@ -504,7 +488,7 @@
       "title": "2026多彩贵州半程马拉松超级联赛（第三站）暨一道长通新能源威宁半程马拉松",
       "keyword": "08月23日07:30",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "马拉松系列赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/20/77KUDOLQAS4V.jpg",
@@ -524,11 +508,11 @@
     },
     {
       "mgdbId": "120000590848",
-      "pID": "966702202",
+      "pID": "966915441",
       "title": "WTA1000辛辛那提站女单半决赛：贝莱克 vs 高芙",
       "keyword": "08月23日07:30",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/22/77L07IQ9E9G8.jpg",
@@ -541,16 +525,16 @@
       },
       "nodes": [
         {
-          "pID": "966702202",
-          "name": "英文原声"
+          "pID": "966915445",
+          "name": "李宁"
         },
         {
           "pID": "966915441",
           "name": "赛场原声"
         },
         {
-          "pID": "966915445",
-          "name": "李宁"
+          "pID": "966702202",
+          "name": "英文原声"
         }
       ]
     },
