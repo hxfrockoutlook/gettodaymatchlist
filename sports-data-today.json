@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-22 15:02:52",
+  "updateTime": "2026-08-22 15:32:59",
   "data": [
     {
       "mgdbId": "120000587620",
@@ -360,7 +360,7 @@
       "title": "跃马少年时·马术新星赛八月站Day2",
       "keyword": "08月22日15:30",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "马术新星赛",
       "padImg": "",
@@ -1230,7 +1230,7 @@
       "nodes": [
         {
           "pID": "966853279",
-          "name": "官方解说"
+          "name": "官方解���"
         },
         {
           "pID": "966853300",
@@ -1239,6 +1239,10 @@
         {
           "pID": "966853325",
           "name": "清流不播出"
+        },
+        {
+          "pID": "966853279",
+          "name": "官方解说"
         }
       ]
     },
