@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-22 15:32:59",
+  "updateTime": "2026-08-22 16:03:04",
   "data": [
     {
       "mgdbId": "120000587620",
@@ -284,11 +284,11 @@
     },
     {
       "mgdbId": "120000587068",
-      "pID": "966832619",
+      "pID": "963730569",
       "title": "全国女子篮球锦标赛小组赛阶段",
       "keyword": "08月22日14:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "全国女子篮球锦标赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/22/77L0APQB9CCE.jpg",
@@ -300,6 +300,10 @@
         "time": "08月22日14:00"
       },
       "nodes": [
+        {
+          "pID": "963730569",
+          "name": "【篮球公园】无畏向前！回顾中国女篮世界杯资格赛征程"
+        },
         {
           "pID": "966832619",
           "name": "清流播出"
@@ -384,7 +388,7 @@
       "title": "中乙联赛",
       "keyword": "08月22日16:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "珂缔缘赛事中心体育场",
       "competitionName": "中乙",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000571878/202603120836_922655_H169_1080.webp",
@@ -408,7 +412,7 @@
       "title": "中乙联赛",
       "keyword": "08月22日16:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "普湾体育场",
       "competitionName": "中乙",
       "padImg": "",
@@ -432,7 +436,7 @@
       "title": "中乙联赛",
       "keyword": "08月22日16:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "亚泰训练基地主体育场",
       "competitionName": "中乙",
       "padImg": "",
@@ -456,7 +460,7 @@
       "title": "中乙联赛",
       "keyword": "08月22日16:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "汶河体育公园足球场",
       "competitionName": "中乙",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000571881/202603120836_627927_H169_1080.webp",
@@ -480,7 +484,7 @@
       "title": "中乙联赛",
       "keyword": "08月22日16:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "山西省体育场",
       "competitionName": "中乙",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000571882/202608051843_260594_H169_1080.webp",
@@ -504,7 +508,7 @@
       "title": "中乙联赛",
       "keyword": "08月22日16:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "乐动力临港足球综合运动中心",
       "competitionName": "中乙",
       "padImg": "",
@@ -528,7 +532,7 @@
       "title": "全国女子篮球锦标赛小组赛阶段",
       "keyword": "08月22日16:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "全国女子篮球锦标赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/22/77L0AQ04IASG.jpg",
@@ -552,7 +556,7 @@
       "title": "北辰VS红桥",
       "keyword": "08月22日16:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "海河超儿",
       "padImg": "",
@@ -576,7 +580,7 @@
       "title": "蓟州VS滨海",
       "keyword": "08月22日16:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "海河超儿",
       "padImg": "",
@@ -600,7 +604,7 @@
       "title": "徽青赛乙组第二轮",
       "keyword": "08月22日16:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "徽青赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000590568/202608190955_277183_H169_1080.webp",
@@ -1230,19 +1234,11 @@
       "nodes": [
         {
           "pID": "966853279",
-          "name": "官方解���"
+          "name": "官方解说"
         },
         {
           "pID": "966853300",
           "name": "英文解说"
-        },
-        {
-          "pID": "966853325",
-          "name": "清流不播出"
-        },
-        {
-          "pID": "966853279",
-          "name": "官方解说"
         }
       ]
     },
