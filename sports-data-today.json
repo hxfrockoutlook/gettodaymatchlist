@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-23 06:32:07",
+  "updateTime": "2026-08-23 07:02:19",
   "data": [
     {
       "mgdbId": "120000584277",
@@ -343,6 +343,10 @@
         {
           "pID": "966938815",
           "name": "全场集锦"
+        },
+        {
+          "pID": "966939163",
+          "name": "全场回放（张昊泽）"
         }
       ]
     },
@@ -376,11 +380,11 @@
     },
     {
       "mgdbId": "120000587621",
-      "pID": "966702185",
+      "pID": "966915412",
       "title": "WTA1000辛辛那提站女单半决赛：佩古拉 vs 斯瓦泰克",
       "keyword": "08月23日03:00",
       "sportItemId": "9",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/22/77L07IN4VLF4.jpg",
@@ -392,6 +396,10 @@
         "time": "08月23日03:00"
       },
       "nodes": [
+        {
+          "pID": "966915412",
+          "name": "赛场原声"
+        },
         {
           "pID": "966915424",
           "name": "鸿昆"
@@ -424,10 +432,6 @@
         "time": "08月23日03:30"
       },
       "nodes": [
-        {
-          "pID": "966939029",
-          "name": "全场集锦"
-        },
         {
           "pID": "966939012",
           "name": "全场回放（林梦鸽、孙雷）"
