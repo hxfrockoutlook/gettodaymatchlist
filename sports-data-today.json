@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-23 05:32:18",
+  "updateTime": "2026-08-23 06:02:06",
   "data": [
     {
       "mgdbId": "120000584277",
@@ -219,6 +219,10 @@
         {
           "pID": "966938673",
           "name": "全场回放（胡小凡、张力、秦游夏）"
+        },
+        {
+          "pID": "966938725",
+          "name": "全场回放"
         }
       ]
     },
@@ -269,6 +273,10 @@
       },
       "nodes": [
         {
+          "pID": "966938763",
+          "name": "全场集锦"
+        },
+        {
           "pID": "966938830",
           "name": "全场回放（李永熙）"
         }
@@ -293,12 +301,8 @@
       },
       "nodes": [
         {
-          "pID": "966869057",
-          "name": "梁祥宇"
-        },
-        {
-          "pID": "966869052",
-          "name": "赛场原声"
+          "pID": "966938917",
+          "name": "全场回放（梁祥宇）"
         }
       ]
     },
@@ -377,12 +381,12 @@
       },
       "nodes": [
         {
-          "pID": "966869375",
-          "name": "张天翼"
+          "pID": "966938944",
+          "name": "全场集锦"
         },
         {
-          "pID": "966869358",
-          "name": "赛场原声"
+          "pID": "966938975",
+          "name": "全场回放（张天翼）"
         }
       ]
     },
@@ -424,7 +428,7 @@
       "title": "西甲联赛",
       "keyword": "08月23日03:30",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "科内利亚球场",
       "competitionName": "西甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000586217/834413_H169_sc.jpg",
@@ -437,12 +441,12 @@
       },
       "nodes": [
         {
-          "pID": "966868905",
-          "name": "林梦鸽 孙雷"
+          "pID": "966939029",
+          "name": "全场集锦"
         },
         {
-          "pID": "966868880",
-          "name": "赛场原声"
+          "pID": "966939012",
+          "name": "全场回放（林梦鸽、孙雷）"
         }
       ]
     },
@@ -773,7 +777,7 @@
       "competitionName": "国际马联世锦赛",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2022/8/5/100000000894106480e5.png",
-      "pkInfoTitle": "马车���障碍赛",
+      "pkInfoTitle": "马车赛障碍���",
       "modifyTitle": "国际马联世锦赛",
       "presenters": "",
       "matchInfo": {
@@ -1953,7 +1957,7 @@
     {
       "mgdbId": "120000587633",
       "pID": "966703090",
-      "title": "闭幕式",
+      "title": "��幕式",
       "keyword": "08月23日23:45",
       "sportItemId": "8",
       "matchStatus": "0",
@@ -1970,11 +1974,15 @@
       "nodes": [
         {
           "pID": "966703090",
-          "name": "尹少坤"
+          "name": "���少坤"
         },
         {
           "pID": "966708722",
           "name": "英文原声"
+        },
+        {
+          "pID": "966703090",
+          "name": "尹少坤"
         }
       ]
     }
