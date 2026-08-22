@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-22 08:02:36",
+  "updateTime": "2026-08-22 08:32:42",
   "data": [
     {
       "mgdbId": "120000587620",
@@ -81,16 +81,12 @@
       },
       "nodes": [
         {
-          "pID": "966911163",
-          "name": "全场回放（苏东、徐阳、林梦鸽）"
-        },
-        {
-          "pID": "966911301",
-          "name": "全场回放"
-        },
-        {
           "pID": "966911081",
           "name": "全场集锦"
+        },
+        {
+          "pID": "966911163",
+          "name": "全场回放（苏东、徐阳、林梦鸽）"
         }
       ]
     },
@@ -148,7 +144,7 @@
       "title": "单打半决赛、决赛、团体赛第一阶段",
       "keyword": "08月22日08:30",
       "sportItemId": "7",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "中国乒协会员联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/21/77KVBC2EQ4RD.jpg",
@@ -163,38 +159,6 @@
         {
           "pID": "966870416",
           "name": "赛场原声"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000590762",
-      "pID": "966895551",
-      "title": "WTA1000辛辛那提站女单1/4决赛：高芙 vs 科斯秋克",
-      "keyword": "08月22日08:30",
-      "sportItemId": "9",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "WTA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/21/77KVDDS1SDTG.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "高芙 vs 科斯秋克",
-      "modifyTitle": "WTA1000辛辛那提站女单1/4决赛：高芙 vs 科斯秋克",
-      "presenters": "乔迁",
-      "matchInfo": {
-        "time": "08月22日08:30"
-      },
-      "nodes": [
-        {
-          "pID": "966895559",
-          "name": "乔迁"
-        },
-        {
-          "pID": "966895551",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "966702158",
-          "name": "英文原声"
         }
       ]
     },
@@ -223,6 +187,38 @@
       ]
     },
     {
+      "mgdbId": "120000590762",
+      "pID": "966895551",
+      "title": "WTA1000辛辛那提站女单1/4决赛：高芙 vs 科斯秋克",
+      "keyword": "08月22日09:00",
+      "sportItemId": "9",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "WTA",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/21/77KVDDS1SDTG.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
+      "pkInfoTitle": "高芙 vs 科斯秋克",
+      "modifyTitle": "WTA1000辛辛那提站女单1/4决赛：高芙 vs 科斯秋克",
+      "presenters": "乔迁",
+      "matchInfo": {
+        "time": "08月22日09:00"
+      },
+      "nodes": [
+        {
+          "pID": "966895559",
+          "name": "乔迁"
+        },
+        {
+          "pID": "966895551",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "966702158",
+          "name": "英文原声"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000589993",
       "pID": "966821232",
       "title": "中国贵阳亚洲青年攀岩锦标赛DAY2",
@@ -243,6 +239,34 @@
         {
           "pID": "966821232",
           "name": "解说"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000590676",
+      "pID": "966872252",
+      "title": "全国少年体操U系列冠军赛Day1",
+      "keyword": "08月22日10:00",
+      "sportItemId": "8",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "全国青少年体操U系列锦标赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/22/77L09J5L6AFD.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/7/18/1000000012941069da17.png",
+      "pkInfoTitle": "全国少年体操U系列冠军赛Day1",
+      "modifyTitle": "全国少年体操U系列冠军赛Day1",
+      "presenters": "",
+      "matchInfo": {
+        "time": "08月22日10:00"
+      },
+      "nodes": [
+        {
+          "pID": "966872252",
+          "name": "上午场"
+        },
+        {
+          "pID": "966872266",
+          "name": "下午场"
         }
       ]
     },
@@ -1557,7 +1581,7 @@
       "competitionName": "蒙超联赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000589846/202608171045_986386_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/5/11/100000001463106bf9dd.png",
-      "pkInfoTitle": "鄂尔多斯队vs锡林郭勒队",
+      "pkInfoTitle": "鄂���多斯队vs锡林郭勒队",
       "modifyTitle": "蒙超联赛四分之一决赛 第二回合",
       "presenters": "",
       "matchInfo": {
