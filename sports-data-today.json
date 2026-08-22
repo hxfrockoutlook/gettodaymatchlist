@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-22 22:33:05",
+  "updateTime": "2026-08-22 23:03:14",
   "data": [
     {
       "mgdbId": "120000587620",
@@ -965,12 +965,8 @@
       },
       "nodes": [
         {
-          "pID": "966853842",
-          "name": "解说"
-        },
-        {
-          "pID": "966853848",
-          "name": "赛场原声"
+          "pID": "966928132",
+          "name": "全场回放"
         }
       ]
     },
@@ -1333,12 +1329,8 @@
       },
       "nodes": [
         {
-          "pID": "966853873",
-          "name": "解说"
-        },
-        {
-          "pID": "966853910",
-          "name": "赛场原声"
+          "pID": "966928445",
+          "name": "全场回放（官方解说）"
         }
       ]
     },
@@ -1419,6 +1411,10 @@
         {
           "pID": "966925230",
           "name": "全场集锦"
+        },
+        {
+          "pID": "966928434",
+          "name": "全场回放"
         }
       ]
     },
@@ -1793,16 +1789,8 @@
       },
       "nodes": [
         {
-          "pID": "966869599",
-          "name": "袁甲 冯潇霆"
-        },
-        {
-          "pID": "966869605",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "966915641",
-          "name": "智能解说"
+          "pID": "966928389",
+          "name": "全场集锦"
         }
       ]
     },
@@ -1826,7 +1814,7 @@
       "nodes": [
         {
           "pID": "966926619",
-          "name": "全场集锦"
+          "name": "超长版集锦"
         },
         {
           "pID": "966926595",
@@ -1896,7 +1884,7 @@
       "title": "苏超常规赛第18周",
       "keyword": "08月22日19:40",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "苏超",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/22/77L09VTHD3MU.jpg",
@@ -1909,8 +1897,8 @@
       },
       "nodes": [
         {
-          "pID": "966706640",
-          "name": "官方解说"
+          "pID": "966926130",
+          "name": "全场集锦"
         }
       ]
     },
@@ -1932,6 +1920,10 @@
         "time": "08月22日20:00"
       },
       "nodes": [
+        {
+          "pID": "966928553",
+          "name": "超长版集锦"
+        },
         {
           "pID": "966927608",
           "name": "全场集锦"
@@ -1957,12 +1949,12 @@
       },
       "nodes": [
         {
-          "pID": "966869630",
-          "name": "孙雷 李欣 程思钦"
+          "pID": "966928955",
+          "name": "全场集锦"
         },
         {
-          "pID": "966869643",
-          "name": "赛场原声"
+          "pID": "966928237",
+          "name": "全场回放（孙雷、李欣、程思钦）"
         }
       ]
     },
@@ -2316,7 +2308,7 @@
       "title": "西甲联赛",
       "keyword": "08月22日23:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "圣马梅斯球场",
       "competitionName": "西甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000586219/423099_H169_sc.jpg",
@@ -2344,7 +2336,7 @@
       "title": "法甲联赛",
       "keyword": "08月22日23:15",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "波莱蒂德勒利斯体育场",
       "competitionName": "法甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/22/77L07MCHGCCI.png",
