@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-23 19:02:34",
+  "updateTime": "2026-08-23 19:32:21",
   "data": [
     {
       "mgdbId": "120000584277",
@@ -767,6 +767,10 @@
         {
           "pID": "966945927",
           "name": "26/27赛季斯诺克武汉公开赛第一/二轮回放：肖国栋5-0王信伯（乔迁）"
+        },
+        {
+          "pID": "966946796",
+          "name": "26/27赛季斯诺克武汉公开赛第一/二轮回放：肖国栋5-0王信伯（赛场原声）"
         }
       ]
     },
@@ -1077,8 +1081,8 @@
       },
       "nodes": [
         {
-          "pID": "966849489",
-          "name": "赛场原声"
+          "pID": "966946986",
+          "name": "全场回放"
         }
       ]
     },
@@ -1125,8 +1129,8 @@
       },
       "nodes": [
         {
-          "pID": "966849501",
-          "name": "赛场原声"
+          "pID": "966946906",
+          "name": "全场回放"
         }
       ]
     },
@@ -1136,7 +1140,7 @@
       "title": "蒙超联赛四分之一决赛 第二回合",
       "keyword": "08月23日17:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "蒙超联赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000589848/202608171106_943269_H169_1080.webp",
@@ -1204,11 +1208,11 @@
     },
     {
       "mgdbId": "120000590058",
-      "pID": "966832730",
+      "pID": "963730569",
       "title": "全国女子篮球锦标赛小组赛阶段",
       "keyword": "08月23日17:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "全国女子篮球锦标赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/22/77L091VAJVFC.jpg",
@@ -1220,6 +1224,10 @@
         "time": "08月23日17:30"
       },
       "nodes": [
+        {
+          "pID": "963730569",
+          "name": "【篮球公园】无畏向前！回顾中国女篮世界杯资格赛征程"
+        },
         {
           "pID": "966832730",
           "name": "清流播出"
@@ -1536,7 +1544,7 @@
       "title": "中乙联赛",
       "keyword": "08月23日19:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "深圳青少年足球训练基地中心场",
       "competitionName": "中乙",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000571872/202603120835_738430_H169_1080.webp",
@@ -1560,7 +1568,7 @@
       "title": "中乙联赛",
       "keyword": "08月23日19:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "汉口文体中心体育场",
       "competitionName": "中乙",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000571873/202603120835_495630_H169_1080.webp",
@@ -1584,7 +1592,7 @@
       "title": "中乙联赛",
       "keyword": "08月23日19:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "临平体育中心体育场",
       "competitionName": "中乙",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000571874/202603120835_759991_H169_1080.webp",
@@ -1608,7 +1616,7 @@
       "title": "中乙联赛",
       "keyword": "08月23日19:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "双流体育中心",
       "competitionName": "中乙",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000571875/202603120835_104489_H169_1080.webp",
@@ -1632,7 +1640,7 @@
       "title": "中乙联赛",
       "keyword": "08月23日19:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "花都体育中心",
       "competitionName": "中乙",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000571876/202603120835_379903_H169_1080.webp",
@@ -1656,7 +1664,7 @@
       "title": "中乙联赛",
       "keyword": "08月23日19:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "海沧体育中心",
       "competitionName": "中乙",
       "padImg": "",
@@ -1680,7 +1688,7 @@
       "title": "粤超八强附加赛第一回合",
       "keyword": "08月23日19:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "粤超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000586799/202608041705_995102_H169_1080.webp",
@@ -1708,7 +1716,7 @@
       "title": "丁俊晖、特鲁姆普出战",
       "keyword": "08月23日19:30",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/19/77KTILOT7BBG.png",
@@ -1740,7 +1748,7 @@
       "title": "全国女子篮球锦标赛小组赛阶段",
       "keyword": "08月23日19:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "全国女子篮球锦标赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/22/77L07LAP5O81.jpg",
@@ -1764,7 +1772,7 @@
       "title": "山东省齐鲁足球超级联赛",
       "keyword": "08月23日19:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "齐鲁超赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000590220/202608181725_812909_H169_1080.webp",
@@ -1788,7 +1796,7 @@
       "title": "中超联赛",
       "keyword": "08月23日19:35",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "上汽浦东足球场",
       "competitionName": "中超",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000569627/777374_H169_sc.jpg",
@@ -1820,7 +1828,7 @@
       "title": "中超联赛",
       "keyword": "08月23日20:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "重庆龙兴足球场",
       "competitionName": "中超",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000569626/230284_H169_sc.jpg",
@@ -2146,15 +2154,11 @@
       "nodes": [
         {
           "pID": "966703090",
-          "name": "���少坤"
+          "name": "尹少坤"
         },
         {
           "pID": "966708722",
           "name": "英文原声"
-        },
-        {
-          "pID": "966703090",
-          "name": "尹少坤"
         }
       ]
     }
