@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-23 07:32:00",
+  "updateTime": "2026-08-23 08:02:18",
   "data": [
     {
       "mgdbId": "120000584277",
@@ -394,7 +394,7 @@
       "nodes": [
         {
           "pID": "966939399",
-          "name": "全场回放（鸿昆）"
+          "name": "【回放】全场回放（鸿昆）"
         }
       ]
     },
@@ -416,6 +416,10 @@
         "time": "08月23日03:30"
       },
       "nodes": [
+        {
+          "pID": "966939029",
+          "name": "全场集锦"
+        },
         {
           "pID": "966939012",
           "name": "全场回放（林梦鸽、孙雷）"
@@ -507,43 +511,11 @@
       ]
     },
     {
-      "mgdbId": "120000590848",
-      "pID": "966915441",
-      "title": "WTA1000辛辛那提站女单半决赛：贝莱克 vs 高芙",
-      "keyword": "08月23日07:30",
-      "sportItemId": "9",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "WTA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/22/77L07IQ9E9G8.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "贝莱克 vs 高芙",
-      "modifyTitle": "WTA1000辛辛那提站女单半决赛：贝莱克 vs 高芙",
-      "presenters": "李宁",
-      "matchInfo": {
-        "time": "08月23日07:30"
-      },
-      "nodes": [
-        {
-          "pID": "966915445",
-          "name": "李宁"
-        },
-        {
-          "pID": "966915441",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "966702202",
-          "name": "英文原声"
-        }
-      ]
-    },
-    {
       "mgdbId": "300000002251",
       "pID": "966490177",
       "title": "咪咕体育日报 第158期",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "咪咕体育日报",
       "padImg": "",
@@ -603,6 +575,38 @@
         {
           "pID": "966870420",
           "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000590848",
+      "pID": "966915441",
+      "title": "WTA1000辛辛那提站女单半决赛：贝莱克 vs 高芙",
+      "keyword": "08月23日08:30",
+      "sportItemId": "9",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "WTA",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/22/77L07IQ9E9G8.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
+      "pkInfoTitle": "贝莱克 vs 高芙",
+      "modifyTitle": "WTA1000辛辛那提站女单半决赛：贝莱克 vs 高芙",
+      "presenters": "李宁",
+      "matchInfo": {
+        "time": "08月23日08:30"
+      },
+      "nodes": [
+        {
+          "pID": "966915445",
+          "name": "李宁"
+        },
+        {
+          "pID": "966915441",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "966702202",
+          "name": "英文原声"
         }
       ]
     },
@@ -775,7 +779,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "羽毛球世锦赛决赛",
       "modifyTitle": "2026羽毛球世锦赛决赛",
-      "presenters": "",
+      "presenters": "鸿昆 黄雅琼 刘雨辰",
       "matchInfo": {
         "time": "08月23日15:00"
       },
@@ -794,7 +798,7 @@
         },
         {
           "pID": "966891823",
-          "name": "解说"
+          "name": "鸿昆"
         },
         {
           "pID": "966891852",
