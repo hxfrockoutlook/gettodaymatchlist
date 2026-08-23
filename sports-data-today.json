@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-23 12:02:25",
+  "updateTime": "2026-08-23 12:32:12",
   "data": [
     {
       "mgdbId": "120000584277",
@@ -457,6 +457,10 @@
           "name": "【主赛】（王琰博、郝俊）"
         },
         {
+          "pID": "966942876",
+          "name": "【主赛】（英文原声）"
+        },
+        {
           "pID": "966941990",
           "name": "赫尔南德兹VS罗德里格斯"
         },
@@ -537,6 +541,10 @@
       },
       "nodes": [
         {
+          "pID": "966942539",
+          "name": "主赛全场回放（汪乐）"
+        },
+        {
           "pID": "966942490",
           "name": "克里斯-赛博格VS凯特琳-维埃拉"
         },
@@ -589,8 +597,8 @@
           "name": "谢里丹VS瓦克"
         },
         {
-          "pID": "966942539",
-          "name": "PFL坦帕站主赛全场回放（汪乐）"
+          "pID": "966943062",
+          "name": "PFL坦帕站主赛全场回放（英文原声）"
         }
       ]
     },
@@ -644,7 +652,7 @@
       "title": "中国贵阳亚洲青年攀岩锦标赛DAY3",
       "keyword": "08月23日08:30",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "攀岩系列赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/22/77L09VBIGEST.png",
@@ -659,30 +667,6 @@
         {
           "pID": "966821248",
           "name": "解说"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000590670",
-      "pID": "966870420",
-      "title": "团体第一、二阶段、半决赛、决赛及附加赛",
-      "keyword": "08月23日08:30",
-      "sportItemId": "7",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "中国乒协会员联赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/22/77L088KIDRHB.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/3/18/1000000014191068af2d.png",
-      "pkInfoTitle": "团体第一、二阶段、半决赛、决赛及附加赛",
-      "modifyTitle": "“李宁·红双喜杯”中国乒协会员联赛甘肃白银站团体第一、二阶段、半决赛、决赛及附加赛",
-      "presenters": "",
-      "matchInfo": {
-        "time": "08月23日08:30"
-      },
-      "nodes": [
-        {
-          "pID": "966870420",
-          "name": "赛场原声"
         }
       ]
     },
@@ -710,7 +694,7 @@
         },
         {
           "pID": "966942347",
-          "name": "全场回放"
+          "name": "【回放】贝莱克0-2高芙（赛场原声）"
         }
       ]
     },
@@ -779,30 +763,6 @@
       ]
     },
     {
-      "mgdbId": "120000590677",
-      "pID": "966872273",
-      "title": "全国少年体操U系列冠军赛Day2",
-      "keyword": "08月23日10:00",
-      "sportItemId": "8",
-      "matchStatus": "2",
-      "matchField": "",
-      "competitionName": "全国青少年体操U系列锦标赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/22/77L091TKFS8A.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/7/18/1000000012941069da17.png",
-      "pkInfoTitle": "全国少年体操U系列冠军赛Day2",
-      "modifyTitle": "全国少年体操U系列冠军赛Day2",
-      "presenters": "",
-      "matchInfo": {
-        "time": "08月23日10:00"
-      },
-      "nodes": [
-        {
-          "pID": "966872287",
-          "name": "清流播出"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000589962",
       "pID": "966851301",
       "title": "肖国栋vs王信伯 韦克林出战",
@@ -839,6 +799,30 @@
         {
           "pID": "966819876",
           "name": "4号桌"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000590670",
+      "pID": "966870420",
+      "title": "团体第一、二阶段、半决赛、决赛及附加赛",
+      "keyword": "08月23日14:00",
+      "sportItemId": "7",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "中国乒协会员联赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/22/77L088KIDRHB.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/3/18/1000000014191068af2d.png",
+      "pkInfoTitle": "团体第一、二阶段、半决赛、决赛及附加赛",
+      "modifyTitle": "“李宁·红双喜杯”中国乒协会员联赛甘肃白银站团体第一、二阶段、半决赛、决赛及附加赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "08月23日14:00"
+      },
+      "nodes": [
+        {
+          "pID": "966870420",
+          "name": "赛场原声"
         }
       ]
     },
@@ -903,6 +887,30 @@
         {
           "pID": "966804441",
           "name": "智能字幕"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000590677",
+      "pID": "966872287",
+      "title": "全国少年体操U系列冠军赛Day2",
+      "keyword": "08月23日15:00",
+      "sportItemId": "8",
+      "matchStatus": "2",
+      "matchField": "",
+      "competitionName": "全国青少年体操U系列锦标赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/22/77L091TKFS8A.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/7/18/1000000012941069da17.png",
+      "pkInfoTitle": "全国少年体操U系列冠军赛Day2",
+      "modifyTitle": "全国少年体操U系列冠军赛Day2",
+      "presenters": "",
+      "matchInfo": {
+        "time": "08月23日15:00"
+      },
+      "nodes": [
+        {
+          "pID": "966872287",
+          "name": "清流播出"
         }
       ]
     },
