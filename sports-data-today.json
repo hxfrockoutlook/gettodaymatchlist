@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-24 05:31:06",
+  "updateTime": "2026-08-24 06:01:13",
   "data": [
     {
       "mgdbId": "120000584892",
@@ -131,6 +131,14 @@
         {
           "pID": "966960225",
           "name": "全场集锦"
+        },
+        {
+          "pID": "966960270",
+          "name": "全场回放（智能解说）"
+        },
+        {
+          "pID": "966960240",
+          "name": "全场回放（AI观赛）"
         }
       ]
     },
@@ -140,7 +148,7 @@
       "title": "意甲联赛",
       "keyword": "08月24日02:45",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "蓝色意大利竞技场",
       "competitionName": "意甲",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000584901/202607231722_233315_H169_1080.webp",
@@ -153,12 +161,8 @@
       },
       "nodes": [
         {
-          "pID": "966868986",
-          "name": "乔迁"
-        },
-        {
-          "pID": "966868977",
-          "name": "赛场原声"
+          "pID": "966960243",
+          "name": "全场集锦"
         }
       ]
     },
@@ -168,7 +172,7 @@
       "title": "西甲联赛",
       "keyword": "08月24日03:30",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "曼努埃尔·马丁内斯·巴莱罗市政体育场",
       "competitionName": "西甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000586215/465663_H169_sc.jpg",
