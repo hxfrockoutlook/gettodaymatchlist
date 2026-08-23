@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-23 16:32:25",
+  "updateTime": "2026-08-23 17:02:17",
   "data": [
     {
       "mgdbId": "120000584277",
@@ -825,8 +825,8 @@
       },
       "nodes": [
         {
-          "pID": "966943157",
-          "name": "清流播出"
+          "pID": "966945361",
+          "name": "全场回放"
         }
       ]
     },
@@ -1016,7 +1016,7 @@
     },
     {
       "mgdbId": "120000587535",
-      "pID": "966702130",
+      "pID": "966940880",
       "title": "上海虎鲸VS长沙旺旺",
       "keyword": "08月23日16:30",
       "sportItemId": "8",
@@ -1033,18 +1033,18 @@
       },
       "nodes": [
         {
-          "pID": "966702130",
-          "name": "清流播出"
-        },
-        {
           "pID": "966940880",
           "name": "云审片播出"
+        },
+        {
+          "pID": "966702130",
+          "name": "清流播出"
         }
       ]
     },
     {
       "mgdbId": "120000587537",
-      "pID": "966701952",
+      "pID": "966940896",
       "title": "深圳蓝袜VS福州海侠",
       "keyword": "08月23日16:30",
       "sportItemId": "8",
@@ -1061,12 +1061,60 @@
       },
       "nodes": [
         {
-          "pID": "966701952",
-          "name": "清流播出"
-        },
-        {
           "pID": "966940896",
           "name": "云审片播出"
+        },
+        {
+          "pID": "966701952",
+          "name": "清流播出"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000590570",
+      "pID": "966849489",
+      "title": "徽青赛甲组第二轮",
+      "keyword": "08月23日16:30",
+      "sportItemId": "1",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "徽青赛",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000590570/202608191000_219612_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/3/20/100000001422106a762b.png",
+      "pkInfoTitle": "池州vs滁州",
+      "modifyTitle": "徽青赛甲组第二轮",
+      "presenters": "",
+      "matchInfo": {
+        "time": "08月23日16:30"
+      },
+      "nodes": [
+        {
+          "pID": "966849489",
+          "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000590571",
+      "pID": "966849497",
+      "title": "徽青赛乙组第二轮",
+      "keyword": "08月23日16:30",
+      "sportItemId": "1",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "徽青赛",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000590571/202608191000_912300_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/3/20/100000001422106a762b.png",
+      "pkInfoTitle": "亳州vs六安",
+      "modifyTitle": "徽青赛乙组第二轮",
+      "presenters": "",
+      "matchInfo": {
+        "time": "08月23日16:30"
+      },
+      "nodes": [
+        {
+          "pID": "966849497",
+          "name": "赛场原声"
         }
       ]
     },
@@ -1100,7 +1148,7 @@
       "title": "蒙超联赛四分之一决赛 第二回合",
       "keyword": "08月23日17:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "蒙超联赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000589848/202608171106_943269_H169_1080.webp",
@@ -1124,7 +1172,7 @@
       "title": "中国贵阳亚洲青年攀岩锦标赛DAY3",
       "keyword": "08月23日17:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "攀岩系列赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/22/77L09VBIGEST.png",
@@ -1148,7 +1196,7 @@
       "title": "徽青赛甲组第二轮",
       "keyword": "08月23日17:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "徽青赛",
       "padImg": "",
@@ -1162,54 +1210,6 @@
       "nodes": [
         {
           "pID": "966849468",
-          "name": "赛场原声"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000590570",
-      "pID": "966849489",
-      "title": "徽青赛甲组第二轮",
-      "keyword": "08月23日17:00",
-      "sportItemId": "1",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "徽���赛",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000590570/202608191000_219612_H169_1080.webp",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/3/20/100000001422106a762b.png",
-      "pkInfoTitle": "池州vs滁州",
-      "modifyTitle": "徽青赛甲组第二轮",
-      "presenters": "",
-      "matchInfo": {
-        "time": "08月23日17:00"
-      },
-      "nodes": [
-        {
-          "pID": "966849489",
-          "name": "赛场原声"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000590571",
-      "pID": "966849497",
-      "title": "徽青赛乙组第二轮",
-      "keyword": "08月23日17:00",
-      "sportItemId": "1",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "徽青赛",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000590571/202608191000_912300_H169_1080.webp",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/3/20/100000001422106a762b.png",
-      "pkInfoTitle": "亳州vs六安",
-      "modifyTitle": "徽青赛乙组第二轮",
-      "presenters": "",
-      "matchInfo": {
-        "time": "08月23日17:00"
-      },
-      "nodes": [
-        {
-          "pID": "966849497",
           "name": "赛场原声"
         }
       ]
@@ -1247,7 +1247,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "NBA经典赛事",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/23/77L15KUPO2VK.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png",
       "pkInfoTitle": "NBA精彩重播：马刺vs火箭",
       "modifyTitle": "NBA经典赛事",
