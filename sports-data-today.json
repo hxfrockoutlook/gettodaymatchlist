@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-25 03:31:16",
+  "updateTime": "2026-08-25 04:01:16",
   "data": [
     {
       "mgdbId": "120000584900",
@@ -23,6 +23,10 @@
         {
           "pID": "966976084",
           "name": "全场集锦"
+        },
+        {
+          "pID": "966976291",
+          "name": "全场回放（涂远）"
         }
       ]
     },
@@ -45,12 +49,8 @@
       },
       "nodes": [
         {
-          "pID": "966869059",
-          "name": "梁祥宇"
-        },
-        {
-          "pID": "966869046",
-          "name": "赛场原声"
+          "pID": "966976323",
+          "name": "全场回放（梁祥宇）"
         }
       ]
     },
@@ -150,9 +150,9 @@
       "mgdbId": "120000591073",
       "pID": "966970465",
       "title": "美国网球公开赛女单资格赛第一轮：波鲁达 vs 朱琳",
-      "keyword": "08月25日03:40",
+      "keyword": "08月25日03:44",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "美国网球公开赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/24/77L24R37JV8G.jpg",
@@ -161,7 +161,7 @@
       "modifyTitle": "美国网球公开赛女单资格赛第一轮：波鲁达 vs 朱琳",
       "presenters": "蔡凯臣",
       "matchInfo": {
-        "time": "08月25日03:40"
+        "time": "08月25日03:44"
       },
       "nodes": [
         {
