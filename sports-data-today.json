@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-25 01:01:23",
+  "updateTime": "2026-08-25 01:31:10",
   "data": [
     {
       "mgdbId": "120000584900",
@@ -36,7 +36,7 @@
       "title": "西甲联赛",
       "keyword": "08月25日01:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "纳瓦拉王国球场",
       "competitionName": "西甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000586214/637785_H169_sc.jpg",
@@ -54,34 +54,6 @@
         },
         {
           "pID": "966869046",
-          "name": "赛场原声"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000591073",
-      "pID": "966970465",
-      "title": "美国网球公开赛女单资格赛第一轮：波鲁达 vs 朱琳",
-      "keyword": "08月25日02:00",
-      "sportItemId": "9",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "美国网球公开赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/24/77L24R37JV8G.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg",
-      "pkInfoTitle": "波鲁达 vs 朱琳",
-      "modifyTitle": "美国网球公开赛女单资格赛第一轮：波鲁达 vs 朱琳",
-      "presenters": "蔡凯臣",
-      "matchInfo": {
-        "time": "08月25日02:00"
-      },
-      "nodes": [
-        {
-          "pID": "966966635",
-          "name": "蔡凯臣"
-        },
-        {
-          "pID": "966970465",
           "name": "赛场原声"
         }
       ]
@@ -147,6 +119,34 @@
         {
           "pID": "966915604",
           "name": "智能解说"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000591073",
+      "pID": "966970465",
+      "title": "美国网球公开赛女单资格赛第一轮：波鲁达 vs 朱琳",
+      "keyword": "08月25日03:10",
+      "sportItemId": "9",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "美国网球公开赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/24/77L24R37JV8G.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg",
+      "pkInfoTitle": "波鲁达 vs 朱琳",
+      "modifyTitle": "美国网球公开赛女单资格赛第一轮：波鲁达 vs 朱琳",
+      "presenters": "蔡凯臣",
+      "matchInfo": {
+        "time": "08月25日03:10"
+      },
+      "nodes": [
+        {
+          "pID": "966966635",
+          "name": "蔡凯臣"
+        },
+        {
+          "pID": "966970465",
+          "name": "赛场原声"
         }
       ]
     },
@@ -605,7 +605,7 @@
     {
       "mgdbId": "120000590061",
       "pID": "966832812",
-      "title": "全国女子篮球锦标赛小组赛阶段",
+      "title": "全国女子篮球锦���赛小组赛阶段",
       "keyword": "08月25日19:30",
       "sportItemId": "2",
       "matchStatus": "0",
@@ -737,25 +737,6 @@
           "name": "国际信号"
         }
       ]
-    },
-    {
-      "mgdbId": "120000591075",
-      "pID": "120000591075",
-      "title": "坂本怜 vs 张之臻",
-      "keyword": "08月25日05:00",
-      "sportItemId": "",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "美国网球公开赛",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/12/05/11005/7c2e7b1705544ef19bb047605669347c/7c2e7b1705544ef19bb047605669347c_H169_P1080_WEBP.webp",
-      "competitionLogo": "",
-      "pkInfoTitle": "坂本怜 vs 张之臻",
-      "modifyTitle": "坂本怜 vs 张之臻",
-      "presenters": "",
-      "matchInfo": {
-        "time": "08月25日05:00"
-      },
-      "nodes": []
     }
   ]
 }
