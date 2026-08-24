@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-25 00:31:15",
+  "updateTime": "2026-08-25 01:01:23",
   "data": [
     {
       "mgdbId": "120000584900",
@@ -231,34 +231,6 @@
         {
           "pID": "966892699",
           "name": "英文原声"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000591075",
-      "pID": "966970531",
-      "title": "美国网球公开赛男单资格赛第一轮：坂本怜 vs 张之臻",
-      "keyword": "08月25日05:00",
-      "sportItemId": "9",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "美国网球公开赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/24/77L24VIA1RN7.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg",
-      "pkInfoTitle": "坂本怜 vs 张之臻",
-      "modifyTitle": "美国网球公开赛男单资格赛第一轮：坂本怜 vs 张之臻",
-      "presenters": "刘钟鸣",
-      "matchInfo": {
-        "time": "08月25日05:00"
-      },
-      "nodes": [
-        {
-          "pID": "966966601",
-          "name": "刘钟鸣"
-        },
-        {
-          "pID": "966970531",
-          "name": "赛场原声"
         }
       ]
     },
@@ -765,6 +737,25 @@
           "name": "国际信号"
         }
       ]
+    },
+    {
+      "mgdbId": "120000591075",
+      "pID": "120000591075",
+      "title": "坂本怜 vs 张之臻",
+      "keyword": "08月25日05:00",
+      "sportItemId": "",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "美国网球公开赛",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/12/05/11005/7c2e7b1705544ef19bb047605669347c/7c2e7b1705544ef19bb047605669347c_H169_P1080_WEBP.webp",
+      "competitionLogo": "",
+      "pkInfoTitle": "坂本怜 vs 张之臻",
+      "modifyTitle": "坂本怜 vs 张之臻",
+      "presenters": "",
+      "matchInfo": {
+        "time": "08月25日05:00"
+      },
+      "nodes": []
     }
   ]
 }
