@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-24 15:31:28",
+  "updateTime": "2026-08-24 16:01:31",
   "data": [
     {
       "mgdbId": "120000584892",
@@ -365,7 +365,7 @@
     {
       "mgdbId": "120000589965",
       "pID": "966852136",
-      "title": "吴宜泽、墨菲、塞尔比出战 赵心童5-0晋级",
+      "title": "吴宜泽、塞尔比出战 赵心童墨菲5-0晋级",
       "keyword": "08月24日14:00",
       "sportItemId": "8",
       "matchStatus": "1",
@@ -373,8 +373,8 @@
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/24/77L24EPPFLO6.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "吴宜泽、墨菲、塞尔比出战 赵心童5-0晋级",
-      "modifyTitle": "斯诺克武汉公开赛64进32轮次下午场：吴宜泽、墨菲、塞尔比出战 赵心童5-0晋级",
+      "pkInfoTitle": "吴宜泽、塞尔比出战 赵心童墨菲5-0晋级",
+      "modifyTitle": "斯诺克武汉公开赛64进32轮次下午场：吴宜泽、塞尔比出战 赵心童墨菲5-0晋级",
       "presenters": "朱峰立 秦正",
       "matchInfo": {
         "time": "08月24日14:00"
@@ -389,10 +389,6 @@
           "name": "1号桌"
         },
         {
-          "pID": "966819832",
-          "name": "3号桌"
-        },
-        {
           "pID": "966819836",
           "name": "4号桌"
         },
@@ -403,6 +399,10 @@
         {
           "pID": "966819824",
           "name": "2号桌"
+        },
+        {
+          "pID": "966819832",
+          "name": "3号桌"
         }
       ]
     },
@@ -412,10 +412,10 @@
       "title": "全国女子篮球锦标赛",
       "keyword": "08月24日14:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "全国女子篮球锦标赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/24/77L24EA685JS.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/24/77L22FSLD7M8.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/7/13/10000000109310670724.png",
       "pkInfoTitle": "东莞新世纪 VS 陕西榆林天泽",
       "modifyTitle": "全国女子篮球锦标赛",
@@ -484,7 +484,7 @@
       "title": "全国女子篮球锦标赛",
       "keyword": "08月24日16:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "全国女子篮球锦标赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000591068/202608240630_566344_H169_1080.webp",
@@ -755,11 +755,19 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg",
       "pkInfoTitle": "瓦舍罗出战混双 郑钦文领衔资格赛首轮",
       "modifyTitle": "美国网球公开赛资格赛及混双Day1：瓦舍罗出战混双 郑钦文领衔资格赛首轮",
-      "presenters": "",
+      "presenters": "李宁 鸿昆 蔡凯臣 宋光振 刘钟鸣",
       "matchInfo": {
         "time": "08月24日23:00"
       },
       "nodes": [
+        {
+          "pID": "966966652",
+          "name": "郑钦文VS尤晓迪(李宁)"
+        },
+        {
+          "pID": "966966641",
+          "name": "比雷尔VS马烨欣(鸿昆)"
+        },
         {
           "pID": "966834678",
           "name": "大看台球场"
@@ -823,6 +831,18 @@
         {
           "pID": "966868910",
           "name": "国际信号"
+        },
+        {
+          "pID": "966966635",
+          "name": "波鲁达VS朱琳(蔡凯臣)"
+        },
+        {
+          "pID": "966966619",
+          "name": "默勒VS黄泽林(宋光振)"
+        },
+        {
+          "pID": "966966601",
+          "name": "坂本怜VS张之臻(刘钟鸣)"
         }
       ]
     },
@@ -845,12 +865,12 @@
       },
       "nodes": [
         {
-          "pID": "966966678",
-          "name": "赛场原声"
-        },
-        {
           "pID": "966966652",
           "name": "李宁"
+        },
+        {
+          "pID": "966966678",
+          "name": "赛场原声"
         }
       ]
     },
@@ -873,12 +893,12 @@
       },
       "nodes": [
         {
-          "pID": "966966702",
-          "name": "赛场原声"
-        },
-        {
           "pID": "966966641",
           "name": "鸿昆"
+        },
+        {
+          "pID": "966966702",
+          "name": "赛场原声"
         }
       ]
     }
