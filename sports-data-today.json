@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-25 04:31:10",
+  "updateTime": "2026-08-25 05:01:18",
   "data": [
     {
       "mgdbId": "120000584900",
@@ -64,10 +64,10 @@
       "title": "意甲联赛",
       "keyword": "08月25日02:45",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "奥林匹克球场",
       "competitionName": "意甲",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/19/77KTHNMC2M2G.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/25/77L2VS9H11T9.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png",
       "pkInfoTitle": "罗马 vs 佛罗伦萨",
       "modifyTitle": "意甲联赛",
@@ -92,10 +92,10 @@
       "title": "英超联赛",
       "keyword": "08月25日03:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "克拉文农场",
       "competitionName": "英超",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000584273/180152_H169_sc.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000584273/903244_H169_sc.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png",
       "pkInfoTitle": "富勒姆 vs 切尔西",
       "modifyTitle": "英超联赛",
@@ -179,40 +179,12 @@
       ]
     },
     {
-      "mgdbId": "120000591074",
-      "pID": "966970474",
-      "title": "美国网球公开赛男单资格赛第一轮：黄泽林 vs 默勒",
-      "keyword": "08月25日04:50",
-      "sportItemId": "9",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "美国网球公开赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/24/77L24R5KUS75.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg",
-      "pkInfoTitle": "黄泽林 vs 默勒",
-      "modifyTitle": "美国网球公开赛男单资格赛第一轮：黄泽林 vs 默勒",
-      "presenters": "宋光振",
-      "matchInfo": {
-        "time": "08月25日04:50"
-      },
-      "nodes": [
-        {
-          "pID": "966966619",
-          "name": "宋光振"
-        },
-        {
-          "pID": "966970474",
-          "name": "赛场原声"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000590763",
       "pID": "966892566",
       "title": "李吉妮、曾丽美领衔出战",
       "keyword": "08月25日05:00",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/24/77L21T17THP5.jpg",
@@ -231,6 +203,34 @@
         {
           "pID": "966892699",
           "name": "英文原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000591074",
+      "pID": "966970474",
+      "title": "美国网球公开赛男单资格赛第一轮：黄泽林 vs 默勒",
+      "keyword": "08月25日05:30",
+      "sportItemId": "9",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "美国网球公开赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/24/77L24R5KUS75.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg",
+      "pkInfoTitle": "黄泽林 vs 默勒",
+      "modifyTitle": "美国网球公开赛男单资格赛第一轮：黄泽林 vs 默勒",
+      "presenters": "宋光振",
+      "matchInfo": {
+        "time": "08月25日05:30"
+      },
+      "nodes": [
+        {
+          "pID": "966966619",
+          "name": "宋光振"
+        },
+        {
+          "pID": "966970474",
+          "name": "赛场原声"
         }
       ]
     },
@@ -261,7 +261,7 @@
     {
       "mgdbId": "300000002255",
       "pID": "966490201",
-      "title": "咪咕体育日�� 第160期",
+      "title": "咪咕体育日报 第160期",
       "sportItemId": "8",
       "matchStatus": "0",
       "matchField": "",
