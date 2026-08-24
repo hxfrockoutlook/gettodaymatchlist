@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-24 09:31:07",
+  "updateTime": "2026-08-24 10:01:22",
   "data": [
     {
       "mgdbId": "120000584892",
@@ -111,6 +111,10 @@
         {
           "pID": "966960278",
           "name": "全场回放（鹿中原、王宇）"
+        },
+        {
+          "pID": "966960551",
+          "name": "全场回放（AI观赛）"
         }
       ]
     },
@@ -139,6 +143,14 @@
         {
           "pID": "966960547",
           "name": "全场回放（石庆圣、李彦）"
+        },
+        {
+          "pID": "966960270",
+          "name": "全场回放（智能解说）"
+        },
+        {
+          "pID": "966960240",
+          "name": "全场回放（AI观赛）"
         }
       ]
     },
@@ -223,6 +235,14 @@
         {
           "pID": "966961557",
           "name": "【回放】高芙2-0佩古拉（刘钟鸣）"
+        },
+        {
+          "pID": "966961987",
+          "name": "全场回放"
+        },
+        {
+          "pID": "966961998",
+          "name": "全场回放"
         }
       ]
     },
@@ -272,7 +292,7 @@
     },
     {
       "mgdbId": "120000589964",
-      "pID": "966819919",
+      "pID": "966852110",
       "title": "奥沙利文登场 斯佳辉VS江俊",
       "keyword": "08月24日09:30",
       "sportItemId": "8",
@@ -348,9 +368,9 @@
       "title": "全国少年体操U系列冠军赛Day3",
       "keyword": "08月24日10:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
-      "competitionName": "���国青少年体操U系列锦标赛",
+      "competitionName": "全国青少年体操U系列锦标赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/23/77L15RI32600.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/7/18/1000000012941069da17.png",
       "pkInfoTitle": "全国少年体操U系列冠军赛Day3",
@@ -439,6 +459,30 @@
       ]
     },
     {
+      "mgdbId": "120000591070",
+      "pID": "966961730",
+      "title": "全国女子篮球锦标赛",
+      "keyword": "08月24日14:00",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "全国女子篮球锦标赛",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000591070/202608240630_723436_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/7/13/10000000109310670724.png",
+      "pkInfoTitle": "东莞新世纪 VS 陕西榆林天泽",
+      "modifyTitle": "全国女子篮球锦标赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "08月24日14:00"
+      },
+      "nodes": [
+        {
+          "pID": "966961730",
+          "name": "清流播出"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000587078",
       "pID": "966832615",
       "title": "全国女子篮球锦标赛小组赛阶段",
@@ -458,6 +502,30 @@
       "nodes": [
         {
           "pID": "966832615",
+          "name": "清流播出"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000591068",
+      "pID": "966961734",
+      "title": "全国女子篮球锦标赛",
+      "keyword": "08月24日16:00",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "全国女子篮球锦标赛",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000591068/202608240630_566344_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/7/13/10000000109310670724.png",
+      "pkInfoTitle": "武汉盛帆黄鹤 VS 大连文体旅",
+      "modifyTitle": "全国女子篮球锦标赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "08月24日16:00"
+      },
+      "nodes": [
+        {
+          "pID": "966961734",
           "name": "清流播出"
         }
       ]
@@ -530,6 +598,30 @@
       "nodes": [
         {
           "pID": "966832694",
+          "name": "清流播出"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000591067",
+      "pID": "966961747",
+      "title": "全国女子篮球锦标赛",
+      "keyword": "08月24日18:00",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "全国女子篮球锦标赛",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000591067/202608240646_505647_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/7/13/10000000109310670724.png",
+      "pkInfoTitle": "厦门银行 VS 山西竹叶青酒",
+      "modifyTitle": "全国女子篮球锦标赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "08月24日18:00"
+      },
+      "nodes": [
+        {
+          "pID": "966961747",
           "name": "清流播出"
         }
       ]
@@ -627,6 +719,30 @@
       ]
     },
     {
+      "mgdbId": "120000591069",
+      "pID": "966961753",
+      "title": "全国女子篮球锦标赛",
+      "keyword": "08月24日20:00",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "全国女子篮球锦标赛",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000591069/202608240630_109125_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/7/13/10000000109310670724.png",
+      "pkInfoTitle": "河南豫光金铅 VS 上海交通大学",
+      "modifyTitle": "全国女子篮球锦标赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "08月24日20:00"
+      },
+      "nodes": [
+        {
+          "pID": "966961753",
+          "name": "清流播出"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000590088",
       "pID": "966834678",
       "title": "郑钦文PK尤晓迪！马烨欣、朱琳出战",
@@ -718,7 +834,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "美国网球公开赛",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/24/77L2471GULPR.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg",
       "pkInfoTitle": "郑钦文 vs 尤晓迪",
       "modifyTitle": "美国网球公开赛女单资格赛第一轮：郑钦文 vs 尤晓迪",
