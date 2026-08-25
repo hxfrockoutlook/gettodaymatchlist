@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-25 09:31:17",
+  "updateTime": "2026-08-25 10:01:20",
   "data": [
     {
       "mgdbId": "120000584900",
@@ -161,12 +161,12 @@
       },
       "nodes": [
         {
-          "pID": "966978384",
-          "name": "全场回放"
+          "pID": "966978393",
+          "name": "【回放】波鲁达2-0朱琳（蔡凯臣）"
         },
         {
-          "pID": "966978393",
-          "name": "全场回放（蔡凯臣）"
+          "pID": "966978384",
+          "name": "【回放】波鲁达2-0朱琳（赛场原声）"
         }
       ]
     },
@@ -217,12 +217,8 @@
       },
       "nodes": [
         {
-          "pID": "966966619",
-          "name": "宋光振"
-        },
-        {
-          "pID": "966970474",
-          "name": "赛场原声"
+          "pID": "966979802",
+          "name": "【回放】黄泽林2-1默勒（宋光振）"
         }
       ]
     },
@@ -427,6 +423,30 @@
       ]
     },
     {
+      "mgdbId": "120000591115",
+      "pID": "966979826",
+      "title": "全国女子篮球锦标赛",
+      "keyword": "08月25日16:00",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "全国女子篮球锦标赛",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000591115/202608250234_107046_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/7/13/10000000109310670724.png",
+      "pkInfoTitle": "陕西榆林天泽 VS 武汉盛帆黄鹤",
+      "modifyTitle": "全国女子篮球锦标赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "08月25日16:00"
+      },
+      "nodes": [
+        {
+          "pID": "966979826",
+          "name": "清流播出"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000590057",
       "pID": "966832786",
       "title": "全国女子篮球锦标赛小组赛阶段",
@@ -533,7 +553,7 @@
       "competitionName": "CPB中国棒球城市联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/24/77L21Q9US764.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/8/10/100000001517106f3b81.png",
-      "pkInfoTitle": "福州海侠VS深圳蓝袜",
+      "pkInfoTitle": "福州���侠VS深圳蓝袜",
       "modifyTitle": "CPB中国棒球城市联赛：福州海侠VS深圳蓝袜",
       "presenters": "",
       "matchInfo": {
@@ -610,6 +630,30 @@
       "nodes": [
         {
           "pID": "966832812",
+          "name": "清流播出"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000591114",
+      "pID": "966979836",
+      "title": "全国女子篮球锦标赛",
+      "keyword": "08月25日19:30",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "全国女子篮球锦标赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/25/77L31AL21LOL.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/7/13/10000000109310670724.png",
+      "pkInfoTitle": "东莞新世纪 VS 大连文体旅",
+      "modifyTitle": "全国女子篮球锦标赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "08月25日19:30"
+      },
+      "nodes": [
+        {
+          "pID": "966979836",
           "name": "清流播出"
         }
       ]
