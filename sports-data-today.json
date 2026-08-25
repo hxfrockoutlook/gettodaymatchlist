@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-25 14:31:15",
+  "updateTime": "2026-08-25 15:01:19",
   "data": [
     {
       "mgdbId": "120000584900",
@@ -376,7 +376,7 @@
       "title": "全国少年体操U系列冠军赛Day4",
       "keyword": "08月25日15:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "全国青少年体操U系列锦标赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/24/77L253LBV5HL.jpg",
@@ -704,7 +704,7 @@
     },
     {
       "mgdbId": "120000590089",
-      "pID": "966982332",
+      "pID": "966835280",
       "title": "德约/萨巴、阿卡/小威领衔混双！",
       "keyword": "08月25日22:00",
       "sportItemId": "9",
@@ -720,10 +720,6 @@
         "time": "08月25日22:00"
       },
       "nodes": [
-        {
-          "pID": "966982332",
-          "name": "清流"
-        },
         {
           "pID": "966835280",
           "name": "阿姆斯特朗球场"
@@ -787,6 +783,10 @@
         {
           "pID": "966868957",
           "name": "国际信号"
+        },
+        {
+          "pID": "966982980",
+          "name": "清流"
         }
       ]
     }
