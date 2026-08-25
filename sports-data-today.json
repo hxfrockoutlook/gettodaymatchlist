@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-25 18:01:20",
+  "updateTime": "2026-08-25 18:31:17",
   "data": [
     {
       "mgdbId": "120000584900",
@@ -332,7 +332,7 @@
       "title": "奥沙利文5-1姚朋成 斯佳辉晋级",
       "keyword": "08月25日14:00",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/24/77L24NSU7BGO.png",
@@ -345,28 +345,16 @@
       },
       "nodes": [
         {
-          "pID": "966821284",
-          "name": "1号桌"
+          "pID": "966983733",
+          "name": "26/27赛季斯诺克武汉公开赛第三轮回放：姚朋成1-5罗尼·奥沙利文（朱峰立）"
         },
         {
-          "pID": "966821228",
-          "name": "3号桌"
+          "pID": "966984830",
+          "name": "26/27赛季斯诺克武汉公开赛第三轮回放：姚朋成1-5罗尼·奥沙利文（赛场原声）"
         },
         {
-          "pID": "966913232",
-          "name": "乔迁"
-        },
-        {
-          "pID": "966852221",
-          "name": "朱峰立"
-        },
-        {
-          "pID": "966821277",
-          "name": "2号桌"
-        },
-        {
-          "pID": "966821202",
-          "name": "4号桌"
+          "pID": "966984922",
+          "name": "26/27赛季斯诺克武汉公开赛第三轮回放：斯佳辉5-1迪伦·埃默里（乔迁）"
         }
       ]
     },
@@ -544,7 +532,7 @@
       "title": "福州海侠VS深圳蓝袜",
       "keyword": "08月25日18:30",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "CPB中国棒球城市联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/24/77L21Q9US764.jpg",
@@ -559,30 +547,6 @@
         {
           "pID": "966940915",
           "name": "清流播出"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000589996",
-      "pID": "966821316",
-      "title": "中国贵阳亚洲青年攀岩锦标赛DAY5",
-      "keyword": "08月25日18:30",
-      "sportItemId": "8",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "攀岩系列赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/24/77L231OPMITP.png",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/10/22/10000000136010611504.jpg",
-      "pkInfoTitle": "中国贵阳亚洲青年攀岩锦标赛DAY5",
-      "modifyTitle": "中国贵阳���洲青年攀岩锦标赛DAY5",
-      "presenters": "",
-      "matchInfo": {
-        "time": "08月25日18:30"
-      },
-      "nodes": [
-        {
-          "pID": "966821316",
-          "name": "解说"
         }
       ]
     },
@@ -627,6 +591,30 @@
         {
           "pID": "966821337",
           "name": "4号桌"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000589996",
+      "pID": "966821316",
+      "title": "中国贵阳亚洲青年攀岩锦标赛DAY5",
+      "keyword": "08月25日19:30",
+      "sportItemId": "8",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "攀岩系列赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/24/77L231OPMITP.png",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/10/22/10000000136010611504.jpg",
+      "pkInfoTitle": "中国贵阳亚洲青年攀岩锦标赛DAY5",
+      "modifyTitle": "中国贵阳亚洲青年攀岩锦标赛DAY5",
+      "presenters": "",
+      "matchInfo": {
+        "time": "08月25日19:30"
+      },
+      "nodes": [
+        {
+          "pID": "966821316",
+          "name": "解说"
         }
       ]
     },
