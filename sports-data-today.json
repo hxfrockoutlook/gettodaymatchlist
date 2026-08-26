@@ -1,14 +1,14 @@
 {
   "success": true,
-  "updateTime": "2026-08-27 00:22:20",
+  "updateTime": "2026-08-27 00:50:06",
   "data": [
     {
       "mgdbId": "120000591309",
       "pID": "966996503",
       "title": "美国网球公开赛男单资格赛第二轮：黄泽林 vs 诺伊迈尔",
-      "keyword": "08月27日00:50",
+      "keyword": "08月27日00:40",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "美国网球公开赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/26/77L3S9MI9SGN.jpg",
@@ -17,16 +17,16 @@
       "modifyTitle": "美国网球公开赛男单资格赛第二轮：黄泽林 vs 诺伊迈尔",
       "presenters": "单文强",
       "matchInfo": {
-        "time": "08月27日00:50"
+        "time": "08月27日00:40"
       },
       "nodes": [
         {
-          "pID": "966996503",
-          "name": "赛场原声"
-        },
-        {
           "pID": "966996831",
           "name": "单文强"
+        },
+        {
+          "pID": "966996503",
+          "name": "赛场原声"
         }
       ]
     },
@@ -195,7 +195,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "斯诺克",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/27/77L4SBHTTBO7.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "贾德·特鲁姆普 vs 常冰玉",
       "modifyTitle": "斯诺克武汉公开赛1/4决赛下午场：贾德·特鲁姆普 vs 常冰玉",
@@ -220,7 +220,7 @@
     },
     {
       "mgdbId": "120000591320",
-      "pID": "966820075",
+      "pID": "966852551",
       "title": "斯诺克武汉公开赛1/4决赛下午场：罗尼·奥沙利文 vs 马克·塞尔比",
       "keyword": "08月27日14:00",
       "sportItemId": "8",
@@ -237,12 +237,16 @@
       },
       "nodes": [
         {
+          "pID": "966852551",
+          "name": "朱峰立"
+        },
+        {
           "pID": "966820075",
           "name": "2号桌"
         },
         {
-          "pID": "966852551",
-          "name": "朱峰立"
+          "pID": "966820064",
+          "name": "1号桌"
         }
       ]
     },
