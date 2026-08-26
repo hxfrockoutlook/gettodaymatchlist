@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-26 11:31:09",
+  "updateTime": "2026-08-26 12:01:23",
   "data": [
     {
       "mgdbId": "120000586212",
@@ -39,7 +39,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/26/77L3U53TM5J8.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/26/77L3UVOLUAML.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
       "pkInfoTitle": "波塔波娃压场出战 布克沙零封晋级",
       "modifyTitle": "WTA500蒙特雷站女单第1/2轮：波塔波娃压场出战 布克沙零封晋级",
@@ -162,11 +162,15 @@
         },
         {
           "pID": "966991529",
-          "name": "亚历克西斯-米兰达VS罗纳德-汉弗莱"
+          "name": "亚历克西斯-米兰达VS罗纳德-汉弗��"
         },
         {
           "pID": "966993931",
           "name": "白大拿挑战者系列赛第10季3周全场回放（英文原声）"
+        },
+        {
+          "pID": "966994040",
+          "name": "白大拿挑战者系列赛第10季3周全场回放（赛场原声）"
         }
       ]
     },
@@ -188,6 +192,10 @@
         "time": "08月26日08:00"
       },
       "nodes": [
+        {
+          "pID": "966994117",
+          "name": "2026美国网球公开赛资格赛Day2费德勒表演赛全场回放（赛场原声）"
+        },
         {
           "pID": "966993467",
           "name": "【费德勒表演赛】费德勒/麦肯罗1-0罗迪克/阿加西（赛场原声）"
@@ -215,36 +223,12 @@
       ]
     },
     {
-      "mgdbId": "120000591091",
-      "pID": "966985073",
-      "title": "格斗周启动仪式：宋亚东、闫晓楠出席",
-      "keyword": "08月26日10:20",
-      "sportItemId": "5",
-      "matchStatus": "2",
-      "matchField": "",
-      "competitionName": "UFC格斗之夜",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/25/77L322VBHPPS.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/3/31/1000000002391064d391.png",
-      "pkInfoTitle": "格斗周启动仪式：宋亚东、闫晓楠出席",
-      "modifyTitle": "咪咕×UFC 联合办赛新闻发布会",
-      "presenters": "",
-      "matchInfo": {
-        "time": "08月26日10:20"
-      },
-      "nodes": [
-        {
-          "pID": "966985073",
-          "name": "现场原声"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000591092",
       "pID": "966985084",
       "title": "媒体日：宋亚东、闫晓楠、石铭、乌尔伯格等选手出席",
       "keyword": "08月26日13:00",
       "sportItemId": "5",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "UFC格斗之夜",
       "padImg": "",
@@ -741,6 +725,25 @@
       "presenters": "",
       "matchInfo": {
         "time": "08月26日23:00"
+      },
+      "nodes": []
+    },
+    {
+      "mgdbId": "120000591091",
+      "pID": "120000591091",
+      "title": "格斗周启动仪式：宋亚东、闫晓楠出席",
+      "keyword": "08月26日10:20",
+      "sportItemId": "",
+      "matchStatus": "2",
+      "matchField": "",
+      "competitionName": "UFC格斗之夜",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/07/08/11005/392899ba0e5d4bd9943e8a570a293b74/392899ba0e5d4bd9943e8a570a293b74_H169_P1080_WEBP.webp",
+      "competitionLogo": "",
+      "pkInfoTitle": "格斗周启动仪式：宋亚东、闫晓楠出席",
+      "modifyTitle": "咪咕×UFC 联合办赛新闻发布会",
+      "presenters": "",
+      "matchInfo": {
+        "time": "08月26日10:20"
       },
       "nodes": []
     }
