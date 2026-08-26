@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-26 13:31:17",
+  "updateTime": "2026-08-26 14:01:19",
   "data": [
     {
       "mgdbId": "120000586212",
@@ -33,16 +33,16 @@
     {
       "mgdbId": "120000590764",
       "pID": "966892597",
-      "title": "波塔波娃压场出战 布克沙零封晋级",
+      "title": "巴图科娃压场出战 布克沙零封晋级",
       "keyword": "08月26日05:00",
       "sportItemId": "9",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/26/77L3UVOLUAML.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/26/77L3S35EJIU3.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "波塔波娃压场出战 布克沙零封晋级",
-      "modifyTitle": "WTA500蒙特雷站女单第1/2轮：波塔波娃压场出战 布克沙零封晋级",
+      "pkInfoTitle": "巴图科娃压场出战 布克沙零封晋级",
+      "modifyTitle": "WTA500蒙特雷站女单第1/2轮：巴图科娃压场出战 布克沙零封晋级",
       "presenters": "",
       "matchInfo": {
         "time": "08月26日05:00"
@@ -300,7 +300,7 @@
       "title": "特鲁姆普VS斯佳辉 奥沙利文常冰玉出战",
       "keyword": "08月26日14:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/25/77L31PBU84TH.png",
@@ -671,11 +671,15 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg",
       "pkInfoTitle": "资格赛及混双Day3",
       "modifyTitle": "美国网球公开赛资格赛及混双Day3",
-      "presenters": "",
+      "presenters": "胡力涛 李宁",
       "matchInfo": {
         "time": "08月26日23:00"
       },
       "nodes": [
+        {
+          "pID": "966996490",
+          "name": "郑钦文 vs 布蕾尔(李宁)"
+        },
         {
           "pID": "966834755",
           "name": "阿瑟・阿什球场"
@@ -739,11 +743,16 @@
         {
           "pID": "966868972",
           "name": "国际信号"
+        },
+        {
+          "pID": "966996871",
+          "name": "胡力涛"
         }
       ]
     },
     {
       "mgdbId": "120000591308",
+      "pID": "966996486",
       "title": "美国网球公开赛女单资格赛第二轮：郑钦文 vs 布蕾尔",
       "keyword": "08月26日23:00",
       "sportItemId": "9",
@@ -754,11 +763,20 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg",
       "pkInfoTitle": "郑钦文 vs 布蕾尔",
       "modifyTitle": "美国网球公开赛女单资格赛第二轮：郑钦文 vs 布蕾尔",
-      "presenters": "",
+      "presenters": "李宁",
       "matchInfo": {
         "time": "08月26日23:00"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "966996486",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "966996490",
+          "name": "李宁"
+        }
+      ]
     }
   ]
 }
