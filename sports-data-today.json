@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-26 15:31:17",
+  "updateTime": "2026-08-26 16:01:19",
   "data": [
     {
       "mgdbId": "120000586212",
@@ -71,6 +71,14 @@
         {
           "pID": "966994576",
           "name": "【回放】奥利尼科娃0-2帕里（英文原声）"
+        },
+        {
+          "pID": "966999103",
+          "name": "【回放】巴图科娃2-1梁恩硕（英文原声）"
+        },
+        {
+          "pID": "966999132",
+          "name": "【回放】巴图科娃2-1梁恩硕（赛场原声）"
         }
       ]
     },
@@ -198,7 +206,7 @@
       "sportItemId": "9",
       "matchStatus": "2",
       "matchField": "",
-      "competitionName": "美国网球��开赛",
+      "competitionName": "美国网球公开赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/25/77L31U8UP68S.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg",
       "pkInfoTitle": "费德勒表演赛",
@@ -210,7 +218,7 @@
       "nodes": [
         {
           "pID": "966994117",
-          "name": "2026美国网球公开赛资格赛Day2费德勒表演赛全场回放（赛场原声）"
+          "name": "2026��国网球公开赛资格赛Day2费德勒表演赛全场回放（赛场原声）"
         },
         {
           "pID": "966993467",
@@ -305,8 +313,8 @@
       },
       "nodes": [
         {
-          "pID": "966832862",
-          "name": "清流播出"
+          "pID": "966999141",
+          "name": "全场回放"
         }
       ]
     },
@@ -396,7 +404,7 @@
       "title": "全国女子篮球锦标赛",
       "keyword": "08月26日16:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "全国女子篮球锦标赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000591117/202608250230_958045_H169_1080.webp",
@@ -497,7 +505,7 @@
       "competitionName": "CPB中国棒球城市联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/25/77L317V5588K.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/8/10/100000001517106f3b81.png",
-      "pkInfoTitle": "北京正���龙VS长沙旺旺",
+      "pkInfoTitle": "北京正大龙VS长沙旺旺",
       "modifyTitle": "CPB中国棒球城市联赛：北京正大龙VS长沙旺旺",
       "presenters": "",
       "matchInfo": {
@@ -687,11 +695,15 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg",
       "pkInfoTitle": "郑钦文领衔资格赛第二轮 清晨混双开战",
       "modifyTitle": "美国网球公开赛资格赛及混双Day3：郑钦文领衔资格赛第二轮 清晨混双开战",
-      "presenters": "李宁 单文强 房朕 邱超 胡力涛",
+      "presenters": "李宁",
       "matchInfo": {
         "time": "08月26日23:00"
       },
       "nodes": [
+        {
+          "pID": "966996490",
+          "name": "郑钦文 vs 布蕾尔(李宁)"
+        },
         {
           "pID": "966834755",
           "name": "阿瑟・阿什球场"
@@ -755,26 +767,6 @@
         {
           "pID": "966868972",
           "name": "国际信号"
-        },
-        {
-          "pID": "966996490",
-          "name": "郑钦文 vs 布蕾尔(李宁)"
-        },
-        {
-          "pID": "966996831",
-          "name": "黄泽林 vs 诺伊迈尔(单文强)"
-        },
-        {
-          "pID": "966996839",
-          "name": "袁悦 vs 阿芙蒂耶娃(房朕)"
-        },
-        {
-          "pID": "966996837",
-          "name": "布云朝克特 vs 戈约(邱超)"
-        },
-        {
-          "pID": "966996871",
-          "name": "胡力涛"
         }
       ]
     },
