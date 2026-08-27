@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-27 21:31:22",
+  "updateTime": "2026-08-27 22:01:31",
   "data": [
     {
       "mgdbId": "120000591309",
@@ -428,8 +428,8 @@
     },
     {
       "mgdbId": "120000589975",
-      "pID": "966852568",
-      "title": "斯诺克武汉公开赛1/4决赛晚场：赵心童 vs 尼尔·罗伯逊",
+      "pID": "966820101",
+      "title": "斯诺克武汉公开赛1/4决赛晚场：赵心童 5-1 尼尔·罗伯逊",
       "keyword": "08月27日19:30",
       "sportItemId": "8",
       "matchStatus": "1",
@@ -437,13 +437,17 @@
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/27/77L4P7MITE08.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "赵心童 vs 尼尔·罗伯逊",
-      "modifyTitle": "斯诺克武汉公开赛1/4决赛晚场：赵心童 vs 尼尔·罗伯逊",
+      "pkInfoTitle": "赵心童 5-1 尼尔·罗伯逊",
+      "modifyTitle": "斯诺克武汉公开赛1/4决赛晚场：赵心童 5-1 尼尔·罗伯逊",
       "presenters": "乔迁",
       "matchInfo": {
         "time": "08月27日19:30"
       },
       "nodes": [
+        {
+          "pID": "966820101",
+          "name": "同播肖国栋VS威廉姆斯"
+        },
         {
           "pID": "966852568",
           "name": "解说：乔迁"
@@ -451,10 +455,6 @@
         {
           "pID": "966820085",
           "name": "现场原声"
-        },
-        {
-          "pID": "966820101",
-          "name": "同播肖国栋VS威廉姆斯"
         }
       ]
     },
@@ -520,7 +520,7 @@
       "title": "全国女子篮球锦标赛",
       "keyword": "08月27日20:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "全国女子篮球锦标赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000591370/202608262346_670773_H169_1080.webp",
@@ -718,11 +718,15 @@
       "nodes": [
         {
           "pID": "967029419",
-          "name": "赛场原声"
+          "name": "赛��原声"
         },
         {
           "pID": "967029424",
           "name": "鸿昆"
+        },
+        {
+          "pID": "967029419",
+          "name": "赛场原声"
         }
       ]
     },
