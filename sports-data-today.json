@@ -1,11 +1,11 @@
 {
   "success": true,
-  "updateTime": "2026-08-28 06:01:41",
+  "updateTime": "2026-08-28 06:31:37",
   "data": [
     {
       "mgdbId": "120000589789",
       "pID": "967042401",
-      "title": "男篮世预赛亚洲赛区",
+      "title": "男���世预赛亚洲赛区",
       "keyword": "08月28日00:00",
       "sportItemId": "2",
       "matchStatus": "2",
@@ -249,12 +249,8 @@
       },
       "nodes": [
         {
-          "pID": "966869545",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "966869560",
-          "name": "孙雨轩"
+          "pID": "967045835",
+          "name": "全场集锦"
         }
       ]
     },
@@ -383,30 +379,6 @@
       ]
     },
     {
-      "mgdbId": "120000591428",
-      "pID": "967029338",
-      "title": "美国网球公开赛女单资格赛第三轮：袁悦vs斯托亚纳",
-      "keyword": "08月28日06:30",
-      "sportItemId": "9",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "美国网球公开赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/27/77L4P7DOEIA6.png",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg",
-      "pkInfoTitle": "袁悦vs斯托亚纳",
-      "modifyTitle": "美国网球公开赛女单资格赛第三轮：袁悦vs斯托亚纳",
-      "presenters": "",
-      "matchInfo": {
-        "time": "08月28日06:30"
-      },
-      "nodes": [
-        {
-          "pID": "967029338",
-          "name": "赛场原声"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000589796",
       "pID": "966985493",
       "title": "男篮世预赛美洲赛区",
@@ -482,34 +454,6 @@
         },
         {
           "pID": "966985525",
-          "name": "赛场原声"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000591429",
-      "pID": "967029350",
-      "title": "美国网球公开赛男单资格赛第三轮：布云朝克特vs奇纳",
-      "keyword": "08月28日07:30",
-      "sportItemId": "9",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "美国网球公开赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/27/77L4P7GIHQ7O.png",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg",
-      "pkInfoTitle": "布云朝克特vs奇纳",
-      "modifyTitle": "美国网球公开赛男单资格赛第三轮：布云朝克特vs奇纳",
-      "presenters": "邱超",
-      "matchInfo": {
-        "time": "08月28日07:30"
-      },
-      "nodes": [
-        {
-          "pID": "967029354",
-          "name": "邱超"
-        },
-        {
-          "pID": "967029350",
           "name": "赛场原声"
         }
       ]
@@ -1240,6 +1184,44 @@
           "name": "赛场原声"
         }
       ]
+    },
+    {
+      "mgdbId": "120000591429",
+      "pID": "120000591429",
+      "title": "布云朝克特vs奇纳",
+      "keyword": "08月28日07:30",
+      "sportItemId": "",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "美国网球公开赛",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/12/05/11005/7c2e7b1705544ef19bb047605669347c/7c2e7b1705544ef19bb047605669347c_H169_P1080_WEBP.webp",
+      "competitionLogo": "",
+      "pkInfoTitle": "布云朝克特vs奇纳",
+      "modifyTitle": "布云朝克特vs奇纳",
+      "presenters": "",
+      "matchInfo": {
+        "time": "08月28日07:30"
+      },
+      "nodes": []
+    },
+    {
+      "mgdbId": "120000591428",
+      "pID": "120000591428",
+      "title": "袁悦vs斯托亚纳",
+      "keyword": "08月28日06:30",
+      "sportItemId": "",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "美国网球公开赛",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/12/05/11005/7c2e7b1705544ef19bb047605669347c/7c2e7b1705544ef19bb047605669347c_H169_P1080_WEBP.webp",
+      "competitionLogo": "",
+      "pkInfoTitle": "袁悦vs斯托亚纳",
+      "modifyTitle": "袁悦vs斯托亚纳",
+      "presenters": "",
+      "matchInfo": {
+        "time": "08月28日06:30"
+      },
+      "nodes": []
     }
   ]
 }
