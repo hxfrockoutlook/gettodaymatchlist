@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-27 12:31:15",
+  "updateTime": "2026-08-27 13:01:23",
   "data": [
     {
       "mgdbId": "120000591309",
@@ -191,6 +191,10 @@
         {
           "pID": "967026254",
           "name": "【中国选手称重集锦】全员过磅！28日17时精英之路开打"
+        },
+        {
+          "pID": "967029324",
+          "name": "RTU精英之路称重仪式全场回放（陈瑞阳、张波）"
         }
       ]
     },
@@ -640,6 +644,7 @@
     },
     {
       "mgdbId": "120000591426",
+      "pID": "967029319",
       "title": "美国网球公开赛女单资格赛第三轮：郑钦文vs普里丹金娜",
       "keyword": "08月27日23:00",
       "sportItemId": "9",
@@ -650,14 +655,24 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg",
       "pkInfoTitle": "郑钦文vs普里丹金娜",
       "modifyTitle": "美国网球公开赛女单资格赛第三轮：郑钦文vs普里丹金娜",
-      "presenters": "",
+      "presenters": "刘钟鸣",
       "matchInfo": {
         "time": "08月27日23:00"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "967029319",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "967029326",
+          "name": "刘钟鸣"
+        }
+      ]
     },
     {
       "mgdbId": "120000591427",
+      "pID": "967029419",
       "title": "美国网球公开赛男单资格赛第三轮：黄泽林vs拉约维奇",
       "keyword": "08月27日23:00",
       "sportItemId": "9",
@@ -668,11 +683,20 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg",
       "pkInfoTitle": "黄泽林vs拉约维奇",
       "modifyTitle": "美国网球公开赛男单资格赛第三轮：黄泽林vs拉约维奇",
-      "presenters": "",
+      "presenters": "鸿昆",
       "matchInfo": {
         "time": "08月27日23:00"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "967029419",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "967029424",
+          "name": "鸿昆"
+        }
+      ]
     },
     {
       "mgdbId": "120000589816",
