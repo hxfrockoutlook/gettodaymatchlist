@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-28 03:31:41",
+  "updateTime": "2026-08-28 04:01:46",
   "data": [
     {
       "mgdbId": "120000589789",
@@ -29,6 +29,14 @@
           "name": "全场回放（杨健、郭艾伦、杨毅、秋童）"
         },
         {
+          "pID": "967043386",
+          "name": "全场回放（郭艾伦专属视角）"
+        },
+        {
+          "pID": "967043189",
+          "name": "全场回放（赛场原声）"
+        },
+        {
           "pID": "967041839",
           "name": "第一节"
         },
@@ -43,14 +51,6 @@
         {
           "pID": "967042361",
           "name": "第四节"
-        },
-        {
-          "pID": "967043189",
-          "name": "全场回放"
-        },
-        {
-          "pID": "967043386",
-          "name": "全场回放"
         }
       ]
     },
@@ -73,12 +73,12 @@
       },
       "nodes": [
         {
-          "pID": "967043459",
-          "name": "全场回放"
-        },
-        {
           "pID": "967042705",
           "name": "全场集锦"
+        },
+        {
+          "pID": "967043459",
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
@@ -112,11 +112,11 @@
     },
     {
       "mgdbId": "120000589790",
-      "pID": "966984377",
+      "pID": "967027362",
       "title": "男篮世预赛亚洲赛区",
       "keyword": "08月28日02:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Nouhad Nawfal Sports Complex",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/26/77L3ST8E62HB.png",
@@ -128,6 +128,10 @@
         "time": "08月28日02:00"
       },
       "nodes": [
+        {
+          "pID": "967027362",
+          "name": "《中国榜样》篮球季对话王非：留洋归来理念大转变 球员教练要走出国门学习"
+        },
         {
           "pID": "966984377",
           "name": "盛哲"
@@ -188,11 +192,11 @@
     },
     {
       "mgdbId": "120000589811",
-      "pID": "966984013",
+      "pID": "967006072",
       "title": "男篮世预赛欧洲赛区",
       "keyword": "08月28日02:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Lanxess Arena",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/26/77L3U3T96AIU.jpg",
@@ -204,6 +208,10 @@
         "time": "08月28日02:00"
       },
       "nodes": [
+        {
+          "pID": "967006072",
+          "name": "2027年男篮世预赛欧洲赛区第四窗口期宣传片：文班亚马约基奇率队出战"
+        },
         {
           "pID": "966984013",
           "name": "邵化谦"
@@ -220,7 +228,7 @@
       "title": "男篮世预赛非洲赛区",
       "keyword": "08月28日02:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Salle Multidisciplinaire de Radès",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000589828/202608171001_677186_H169_1080.webp",
