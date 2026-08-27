@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-27 22:01:31",
+  "updateTime": "2026-08-27 22:31:27",
   "data": [
     {
       "mgdbId": "120000591309",
@@ -384,7 +384,7 @@
       "title": "UFC上海站中国军团战力大解析",
       "keyword": "08月27日19:00",
       "sportItemId": "5",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "UFC前瞻与回顾",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/26/77L3TFJ3J582.png",
@@ -428,11 +428,11 @@
     },
     {
       "mgdbId": "120000589975",
-      "pID": "966820101",
+      "pID": "966852568",
       "title": "斯诺克武汉公开赛1/4决赛晚场：赵心童 5-1 尼尔·罗伯逊",
       "keyword": "08月27日19:30",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/27/77L4P7MITE08.png",
@@ -445,32 +445,32 @@
       },
       "nodes": [
         {
-          "pID": "966820101",
-          "name": "同播肖国栋VS威廉姆斯"
-        },
-        {
           "pID": "966852568",
           "name": "解说：乔迁"
         },
         {
           "pID": "966820085",
           "name": "现场原声"
+        },
+        {
+          "pID": "966820101",
+          "name": "同播肖国栋VS威廉姆斯"
         }
       ]
     },
     {
       "mgdbId": "120000591321",
       "pID": "966852583",
-      "title": "斯诺克武汉公开赛1/4决赛晚场：肖国栋 vs 马克·威廉姆斯",
+      "title": "斯诺克武汉公开赛1/4决赛晚场：肖国栋 5-3 马克·威廉姆斯",
       "keyword": "08月27日19:30",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/27/77L4PDLH451A.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "肖国栋 vs 马克·威廉姆斯",
-      "modifyTitle": "斯诺克武汉公开赛1/4决赛晚场：肖国栋 vs 马克·威廉姆斯",
+      "pkInfoTitle": "肖国栋 5-3 马克·威廉姆斯",
+      "modifyTitle": "斯诺克武汉公开赛1/4决赛晚场：肖国栋 5-3 马克·威廉姆斯",
       "presenters": "朱峰立",
       "matchInfo": {
         "time": "08月27日19:30"
@@ -496,7 +496,7 @@
       "title": "男篮世预赛非洲赛区",
       "keyword": "08月27日20:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Salle Multidisciplinaire de Radès",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000589827/202608171001_428400_H169_1080.webp",
@@ -523,7 +523,7 @@
       "matchStatus": "2",
       "matchField": "",
       "competitionName": "全国女子篮球锦标赛",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000591370/202608262346_670773_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000591370/202608272216_490495_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/7/13/10000000109310670724.png",
       "pkInfoTitle": "北京首钢 VS 上海浦发银行",
       "modifyTitle": "全国女子篮球锦标赛",
@@ -540,11 +540,11 @@
     },
     {
       "mgdbId": "120000589835",
-      "pID": "966984233",
+      "pID": "967007226",
       "title": "男篮世预赛非洲赛区",
       "keyword": "08月27日20:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Dakar Arena",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000589835/202608171002_661413_H169_1080.webp",
@@ -556,6 +556,10 @@
         "time": "08月27日20:30"
       },
       "nodes": [
+        {
+          "pID": "967007226",
+          "name": "2027年男篮世预赛非洲赛区第四窗口期宣传片：狂野大陆谁将突出重围？"
+        },
         {
           "pID": "966984233",
           "name": "赛场原声"
@@ -718,15 +722,11 @@
       "nodes": [
         {
           "pID": "967029419",
-          "name": "赛��原声"
+          "name": "赛场原声"
         },
         {
           "pID": "967029424",
           "name": "鸿昆"
-        },
-        {
-          "pID": "967029419",
-          "name": "赛场原声"
         }
       ]
     },
