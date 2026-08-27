@@ -1,14 +1,14 @@
 {
   "success": true,
-  "updateTime": "2026-08-28 02:01:51",
+  "updateTime": "2026-08-28 02:31:34",
   "data": [
     {
       "mgdbId": "120000589789",
-      "pID": "966984520",
+      "pID": "967042401",
       "title": "男篮世预赛亚洲赛区",
       "keyword": "08月28日00:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Al Janoub Stadium",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/26/77L3UTE55QMG.png",
@@ -25,16 +25,20 @@
           "name": "全场集锦"
         },
         {
-          "pID": "966984520",
-          "name": "杨健 郭艾伦 杨毅"
+          "pID": "967041839",
+          "name": "第一节"
         },
         {
-          "pID": "966984829",
-          "name": "赛场原声"
+          "pID": "967041922",
+          "name": "第二节"
         },
         {
-          "pID": "966992494",
-          "name": "郭艾伦专属视角"
+          "pID": "967042191",
+          "name": "第三节"
+        },
+        {
+          "pID": "967042361",
+          "name": "第四节"
         }
       ]
     },
@@ -228,7 +232,7 @@
       "title": "西甲联赛",
       "keyword": "08月28日02:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "巴莱多斯球场",
       "competitionName": "西甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000586224/559201_H169_sc.jpg",
@@ -253,10 +257,10 @@
     {
       "mgdbId": "120000589815",
       "pID": "966984098",
-      "title": "男���世预赛欧洲赛区",
+      "title": "男篮世预赛欧洲赛区",
       "keyword": "08月28日02:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "Paris, Bercy Arena",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/26/77L3SN6H6SHB.png",
@@ -284,7 +288,7 @@
       "title": "男篮世预赛非洲赛区",
       "keyword": "08月28日02:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "Dakar Arena",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000589837/202608171003_750929_H169_1080.webp",
@@ -334,7 +338,7 @@
       "mgdbId": "120000591428",
       "pID": "967029338",
       "title": "美国网球公开赛女单资格赛第三轮：袁悦vs斯托亚纳",
-      "keyword": "08月28日03:30",
+      "keyword": "08月28日04:40",
       "sportItemId": "9",
       "matchStatus": "0",
       "matchField": "",
@@ -345,7 +349,7 @@
       "modifyTitle": "美国网球公开赛女单资格赛第三轮：袁悦vs斯托亚纳",
       "presenters": "蔡凯臣",
       "matchInfo": {
-        "time": "08月28日03:30"
+        "time": "08月28日04:40"
       },
       "nodes": [
         {
@@ -355,34 +359,6 @@
         {
           "pID": "967029338",
           "name": "赛场原声"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000591429",
-      "pID": "967029350",
-      "title": "美国网球公开赛男单资格赛第三轮：布云朝克特vs奇纳",
-      "keyword": "08月28日04:30",
-      "sportItemId": "9",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "美国网球公开赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/27/77L4P7GIHQ7O.png",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg",
-      "pkInfoTitle": "布云朝克特vs奇纳",
-      "modifyTitle": "美国网球公开赛男单资格赛第三轮：布云朝克特vs奇纳",
-      "presenters": "邱超",
-      "matchInfo": {
-        "time": "08月28日04:30"
-      },
-      "nodes": [
-        {
-          "pID": "967029350",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "967029354",
-          "name": "邱超"
         }
       ]
     },
@@ -411,6 +387,34 @@
         {
           "pID": "966892723",
           "name": "英文原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000591429",
+      "pID": "967029350",
+      "title": "美国网球公开赛男单资格赛第三轮：布云朝克特vs奇纳",
+      "keyword": "08月28日06:00",
+      "sportItemId": "9",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "美国网球公开赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/27/77L4P7GIHQ7O.png",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg",
+      "pkInfoTitle": "布云朝克特vs奇纳",
+      "modifyTitle": "美国网球公开赛男单资格赛第三轮：布云朝克特vs奇纳",
+      "presenters": "邱超",
+      "matchInfo": {
+        "time": "08月28日06:00"
+      },
+      "nodes": [
+        {
+          "pID": "967029350",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "967029354",
+          "name": "邱超"
         }
       ]
     },
