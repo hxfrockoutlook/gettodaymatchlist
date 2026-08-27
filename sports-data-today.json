@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-28 02:31:34",
+  "updateTime": "2026-08-28 03:01:43",
   "data": [
     {
       "mgdbId": "120000589789",
@@ -23,6 +23,10 @@
         {
           "pID": "967042401",
           "name": "全场集锦"
+        },
+        {
+          "pID": "967042619",
+          "name": "全场回放（杨健、郭艾伦、杨毅、秋童）"
         },
         {
           "pID": "967041839",
@@ -72,11 +76,11 @@
     },
     {
       "mgdbId": "120000589791",
-      "pID": "966984301",
+      "pID": "967042864",
       "title": "男篮世预赛亚洲赛区",
       "keyword": "08月28日01:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "King Abdullah Sports City",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/26/77L3UTTGEQ8S.png",
@@ -89,12 +93,8 @@
       },
       "nodes": [
         {
-          "pID": "966984301",
-          "name": "殳海"
-        },
-        {
-          "pID": "966984823",
-          "name": "赛场原声"
+          "pID": "967042864",
+          "name": "全场集锦"
         }
       ]
     },
@@ -312,7 +312,7 @@
       "title": "西甲联赛",
       "keyword": "08月28日03:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "诺坎普球场",
       "competitionName": "西甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000586210/110463_H169_sc.jpg",
