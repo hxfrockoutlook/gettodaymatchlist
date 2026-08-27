@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-27 20:01:28",
+  "updateTime": "2026-08-27 20:31:15",
   "data": [
     {
       "mgdbId": "120000591309",
@@ -544,7 +544,7 @@
       "title": "男篮世预赛非洲赛区",
       "keyword": "08月27日20:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "Dakar Arena",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000589835/202608171002_661413_H169_1080.webp",
@@ -718,11 +718,15 @@
       "nodes": [
         {
           "pID": "967029419",
-          "name": "赛场原声"
+          "name": "赛��原声"
         },
         {
           "pID": "967029424",
           "name": "鸿昆"
+        },
+        {
+          "pID": "967029419",
+          "name": "赛场原声"
         }
       ]
     },
@@ -770,6 +774,62 @@
       "nodes": [
         {
           "pID": "966984251",
+          "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000589789",
+      "pID": "120000589789",
+      "title": "卡塔尔vs中国",
+      "keyword": "08月27日23:15",
+      "sportItemId": "",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "男篮世预赛",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/11/26/11005/72259572190c4f6197b87ddfe23e1498/72259572190c4f6197b87ddfe23e1498_H169_P1080_WEBP.webp",
+      "competitionLogo": "",
+      "pkInfoTitle": "卡塔尔vs中国",
+      "modifyTitle": "卡塔尔vs中国",
+      "presenters": "",
+      "matchInfo": {
+        "time": "08月27日23:15"
+      },
+      "nodes": [
+        {
+          "pID": "966984520",
+          "name": "杨健 郭艾伦 杨毅"
+        },
+        {
+          "pID": "966984829",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "966992494",
+          "name": "郭艾伦专属视角"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000589817",
+      "pID": "120000589817",
+      "title": "匈牙利vs爱沙尼亚",
+      "keyword": "08月27日23:50",
+      "sportItemId": "",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "男篮世预赛",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/11/26/11005/72259572190c4f6197b87ddfe23e1498/72259572190c4f6197b87ddfe23e1498_H169_P1080_WEBP.webp",
+      "competitionLogo": "",
+      "pkInfoTitle": "匈牙利vs爱沙尼亚",
+      "modifyTitle": "匈牙利vs爱沙尼亚",
+      "presenters": "",
+      "matchInfo": {
+        "time": "08月27日23:50"
+      },
+      "nodes": [
+        {
+          "pID": "966983959",
           "name": "赛场原声"
         }
       ]
