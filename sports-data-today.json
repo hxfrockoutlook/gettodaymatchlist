@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-28 14:31:55",
+  "updateTime": "2026-08-28 15:02:04",
   "data": [
     {
       "mgdbId": "120000589789",
@@ -401,10 +401,6 @@
       },
       "nodes": [
         {
-          "pID": "967051989",
-          "name": "2026WTA500蒙特雷站女单1/4决赛回放：陶森0-2黛安娜·帕里（英文原声）"
-        },
-        {
           "pID": "967046189",
           "name": "【回放】帕克斯0-2李吉妮（赛场原声）"
         },
@@ -413,12 +409,20 @@
           "name": "【回放】维德曼诺娃1-2巴图科娃（赛场原声）"
         },
         {
+          "pID": "967052077",
+          "name": "【回放】陶森0-2帕里（赛场原声）"
+        },
+        {
           "pID": "967046079",
           "name": "【回放】帕克斯0-2李吉妮（英文原声）"
         },
         {
           "pID": "967048896",
           "name": "【回放】维德曼诺娃1-2巴图科娃（英文原声）"
+        },
+        {
+          "pID": "967051989",
+          "name": "【回放】陶森0-2帕里（英文原声）"
         }
       ]
     },
@@ -719,10 +723,6 @@
         {
           "pID": "966820126",
           "name": "现场原声"
-        },
-        {
-          "pID": "966985284",
-          "name": "同看UFC"
         }
       ]
     },
@@ -756,7 +756,7 @@
       "title": "精彩回顾：黄泽林 vs 诺伊迈尔",
       "keyword": "08月28日15:00",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "美国网球公开赛",
       "padImg": "",
@@ -1305,7 +1305,7 @@
       "matchStatus": "0",
       "matchField": "Salle Multidisciplinaire de Radès",
       "competitionName": "男篮世预赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/27/77L4R5CI5VU0.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/28/77L5MIFAR8UB.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/11/26/10000000019110696ecb.jpg",
       "pkInfoTitle": "南苏丹vs尼日利亚",
       "modifyTitle": "男篮世预赛非洲赛区",
@@ -1468,7 +1468,7 @@
       "nodes": [
         {
           "pID": "967051313",
-          "name": "赛��原声"
+          "name": "赛���原声"
         },
         {
           "pID": "967051319",
@@ -1489,15 +1489,19 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "美国网球公开赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/28/77L5MG2SDEUI.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/28/77L5MJUTLPH3.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg",
       "pkInfoTitle": "费恩利、高巴斯和柳托娃冲击正赛",
       "modifyTitle": "美国网球公开赛资格赛Day5：费恩利、高巴斯和柳托娃冲击正赛",
-      "presenters": "",
+      "presenters": "刘钟鸣",
       "matchInfo": {
         "time": "08月28日23:00"
       },
       "nodes": [
+        {
+          "pID": "967051319",
+          "name": "郑钦文 vs 普里丹金娜(刘钟鸣)"
+        },
         {
           "pID": "967050293",
           "name": "17号球场"
