@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-28 09:01:44",
+  "updateTime": "2026-08-28 09:31:33",
   "data": [
     {
       "mgdbId": "120000589789",
@@ -325,7 +325,7 @@
     {
       "mgdbId": "120000589837",
       "pID": "967045744",
-      "title": "男篮世预赛非洲赛区",
+      "title": "男篮世��赛非洲赛区",
       "keyword": "08月28日02:30",
       "sportItemId": "2",
       "matchStatus": "2",
@@ -440,10 +440,10 @@
       "title": "男篮世预赛美洲赛区",
       "keyword": "08月28日07:10",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Centro de Deportes Colectivos",
       "competitionName": "男篮世预赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/27/77L4QST1SHLA.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/28/77L5OHDVEJ9B.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/11/26/10000000019110696ecb.jpg",
       "pkInfoTitle": "智利vs美国",
       "modifyTitle": "男篮世预赛美洲赛区",
@@ -453,12 +453,8 @@
       },
       "nodes": [
         {
-          "pID": "966985493",
-          "name": "蔡凯臣"
-        },
-        {
-          "pID": "966985506",
-          "name": "赛场原声"
+          "pID": "967047214",
+          "name": "全场回放（蔡凯臣）"
         }
       ]
     },
@@ -492,10 +488,10 @@
       "title": "男篮世预赛美洲赛区",
       "keyword": "08月28日07:10",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Antel Arena",
       "competitionName": "男篮世预赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/26/77L3UTQFEUVH.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/28/77L5OIF7RCPU.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/11/26/10000000019110696ecb.jpg",
       "pkInfoTitle": "乌拉圭vs巴哈马",
       "modifyTitle": "男篮世预赛美洲赛区",
@@ -540,7 +536,7 @@
       "title": "男篮世预赛美洲赛区",
       "keyword": "08月28日09:40",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "Arena Roberto Durán",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/26/77L3UTS9MOL0.jpg",
@@ -811,7 +807,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "CPB中国棒球城市联赛",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/28/77L5OJ213EUR.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/8/10/100000001517106f3b81.png",
       "pkInfoTitle": "深圳蓝袜VS北京正大龙",
       "modifyTitle": "CPB中国棒球城市联赛：深圳蓝袜VS北京正大龙",
@@ -1185,6 +1181,34 @@
       "nodes": [
         {
           "pID": "966984312",
+          "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000591426",
+      "pID": "967029319",
+      "title": "美国网球公开赛女单资格赛第三轮：郑钦文vs普里丹金娜",
+      "keyword": "08月28日23:00",
+      "sportItemId": "9",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "美国网球公开赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/27/77L4P734AAJ2.png",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg",
+      "pkInfoTitle": "郑钦文vs普里丹金娜",
+      "modifyTitle": "美国网球公开赛女单资格赛第三轮：郑钦文vs普里丹金娜",
+      "presenters": "刘钟鸣",
+      "matchInfo": {
+        "time": "08月28日23:00"
+      },
+      "nodes": [
+        {
+          "pID": "967029326",
+          "name": "刘钟鸣"
+        },
+        {
+          "pID": "967029319",
           "name": "赛场原声"
         }
       ]
