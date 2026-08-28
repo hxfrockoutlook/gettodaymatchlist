@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-29 03:32:28",
+  "updateTime": "2026-08-29 04:02:37",
   "data": [
     {
       "mgdbId": "120000589804",
@@ -23,6 +23,10 @@
         {
           "pID": "967070014",
           "name": "全场集锦"
+        },
+        {
+          "pID": "967071828",
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
@@ -45,12 +49,8 @@
       },
       "nodes": [
         {
-          "pID": "966998797",
-          "name": "周楚雄"
-        },
-        {
-          "pID": "966998820",
-          "name": "赛场原声"
+          "pID": "967071499",
+          "name": "全场集锦"
         }
       ]
     },
@@ -88,7 +88,7 @@
       "title": "美国网球公开赛男单资格赛第三轮：布云朝克特 vs 奇纳",
       "keyword": "08月29日01:00",
       "sportItemId": "9",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "美国网球公开赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/27/77L4P7GIHQ7O.png",
@@ -101,12 +101,12 @@
       },
       "nodes": [
         {
-          "pID": "967051336",
-          "name": "邱超"
-        },
-        {
           "pID": "967051333",
           "name": "赛场原声"
+        },
+        {
+          "pID": "967051336",
+          "name": "邱超"
         }
       ]
     },
@@ -116,10 +116,10 @@
       "title": "男篮世预赛欧洲赛区",
       "keyword": "08月29日02:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Turkcell Basketball Development Centre",
       "competitionName": "男篮世预赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/27/77L4RF8LIS10.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/29/77L6K051FAJK.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/11/26/10000000019110696ecb.jpg",
       "pkInfoTitle": "土耳其vs立陶宛",
       "modifyTitle": "男篮世预赛欧洲赛区",
@@ -196,7 +196,7 @@
       "title": "男篮世预赛非洲赛区",
       "keyword": "08月29日02:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Salle Multidisciplinaire de Radès",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000589831/202608171002_974812_H169_1080.webp",
@@ -331,14 +331,6 @@
         {
           "pID": "967033191",
           "name": "4K赛场原声"
-        },
-        {
-          "pID": "967033226",
-          "name": "水晶宫队球星视角"
-        },
-        {
-          "pID": "967033235",
-          "name": "曼城队球星视角"
         },
         {
           "pID": "967033260",
