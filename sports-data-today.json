@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-28 14:02:02",
+  "updateTime": "2026-08-28 14:31:55",
   "data": [
     {
       "mgdbId": "120000589789",
@@ -401,6 +401,10 @@
       },
       "nodes": [
         {
+          "pID": "967051989",
+          "name": "2026WTA500蒙特雷站女单1/4决赛回放：陶森0-2黛安娜·帕里（英文原声）"
+        },
+        {
           "pID": "967046189",
           "name": "【回放】帕克斯0-2李吉妮（赛场原声）"
         },
@@ -601,7 +605,7 @@
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000589798/202608190324_718422_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/11/26/10000000019110696ecb.jpg",
-      "pkInfoTitle": "���西哥vs哥伦比亚",
+      "pkInfoTitle": "墨西哥vs哥伦比亚",
       "modifyTitle": "男篮世预赛美洲赛区",
       "presenters": "",
       "matchInfo": {
@@ -797,7 +801,7 @@
     {
       "mgdbId": "120000580369",
       "pID": "966985284",
-      "title": "激战前夜RTU特辑+17时石铭解说精英之路",
+      "title": "马合沙特、扎提领衔 石铭医生解说首秀",
       "keyword": "08月28日17:00",
       "sportItemId": "5",
       "matchStatus": "1",
@@ -805,7 +809,7 @@
       "competitionName": "UFC精英之路",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/26/77L3TQLHJLJ1.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/3/31/10000000024010601c56.png",
-      "pkInfoTitle": "激战前夜RTU特辑+17时石铭解说精英之路",
+      "pkInfoTitle": "马合沙特、扎提领衔 石铭医生解说首秀",
       "modifyTitle": "第五季UFC精英之路半决赛：马合沙特领衔头条 扎提出战联合主赛",
       "presenters": "",
       "matchInfo": {
@@ -907,7 +911,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "NBA经典赛事",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/28/77L5MFPOM0LU.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png",
       "pkInfoTitle": "NBA精彩重播：灰熊vs勇士",
       "modifyTitle": "NBA经典赛事",
@@ -1446,7 +1450,7 @@
     },
     {
       "mgdbId": "120000591426",
-      "pID": "967029319",
+      "pID": "967051313",
       "title": "美国网球公开赛女单资格赛第三轮：郑钦文 vs 普里丹金娜",
       "keyword": "08月28日23:00",
       "sportItemId": "9",
@@ -1463,36 +1467,32 @@
       },
       "nodes": [
         {
-          "pID": "967029326",
-          "name": "刘钟鸣"
-        },
-        {
-          "pID": "967029319",
-          "name": "赛场原声"
-        },
-        {
           "pID": "967051313",
-          "name": "赛场原声"
+          "name": "赛��原声"
         },
         {
           "pID": "967051319",
           "name": "刘钟鸣"
+        },
+        {
+          "pID": "967051313",
+          "name": "赛场原声"
         }
       ]
     },
     {
       "mgdbId": "120000591598",
       "pID": "967050293",
-      "title": "郑钦文、布云朝克特和袁悦冲正赛",
+      "title": "费恩利、高巴斯和柳托娃冲击正赛",
       "keyword": "08月28日23:00",
       "sportItemId": "9",
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "美国网球公开赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/28/77L5MAIOPGLM.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/28/77L5MG2SDEUI.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg",
-      "pkInfoTitle": "郑钦文、布云朝克特和袁悦冲正赛",
-      "modifyTitle": "美国网球公开赛资格赛Day5：郑钦文、布云朝克特和袁悦冲正赛",
+      "pkInfoTitle": "费恩利、高巴斯和柳托娃冲击正赛",
+      "modifyTitle": "美国网球公开赛资格赛Day5：费恩利、高巴斯和柳托娃冲击正赛",
       "presenters": "",
       "matchInfo": {
         "time": "08月28日23:00"
@@ -1501,10 +1501,6 @@
         {
           "pID": "967050293",
           "name": "17号球场"
-        },
-        {
-          "pID": "967050269",
-          "name": "国际信号"
         },
         {
           "pID": "967050315",
@@ -1557,6 +1553,10 @@
         {
           "pID": "967051301",
           "name": "16号球场"
+        },
+        {
+          "pID": "967050269",
+          "name": "国际信号"
         }
       ]
     },
