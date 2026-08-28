@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-28 09:31:33",
+  "updateTime": "2026-08-28 10:01:45",
   "data": [
     {
       "mgdbId": "120000589789",
@@ -325,7 +325,7 @@
     {
       "mgdbId": "120000589837",
       "pID": "967045744",
-      "title": "男篮世��赛非洲赛区",
+      "title": "男篮世预赛非洲赛区",
       "keyword": "08月28日02:30",
       "sportItemId": "2",
       "matchStatus": "2",
@@ -373,28 +373,28 @@
           "name": "全场集锦"
         },
         {
-          "pID": "967045732",
-          "name": "全场回放"
-        },
-        {
           "pID": "967045840",
           "name": "全场回放（张昊泽、李欣）"
+        },
+        {
+          "pID": "967045732",
+          "name": "全场回放（AI智慧观赛）"
         }
       ]
     },
     {
       "mgdbId": "120000590766",
       "pID": "966892621",
-      "title": "李吉妮晋级四强 巴图科娃登场",
+      "title": "陶森出战 李吉妮晋级四强",
       "keyword": "08月28日05:00",
       "sportItemId": "9",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/28/77L5NNIQFH0B.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/28/77L5OJLK47Q3.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "李吉妮晋级四强 巴图科娃登场",
-      "modifyTitle": "WTA500蒙特雷站女单1/4决赛：李吉妮晋级四强 巴图科娃登场",
+      "pkInfoTitle": "陶森出战 李吉妮晋级四强",
+      "modifyTitle": "WTA500蒙特雷站女单1/4决赛：陶森出战 李吉妮晋级四强",
       "presenters": "",
       "matchInfo": {
         "time": "08月28日05:00"
@@ -436,7 +436,7 @@
     },
     {
       "mgdbId": "120000589796",
-      "pID": "966985493",
+      "pID": "967047214",
       "title": "男篮世预赛美洲赛区",
       "keyword": "08月28日07:10",
       "sportItemId": "2",
@@ -464,10 +464,10 @@
       "title": "男篮世预赛美洲赛区",
       "keyword": "08月28日07:10",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Ginásio Nilson Nelson",
       "competitionName": "男篮世预赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/26/77L3UBT9L2MN.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/28/77L5OJ6PE8EV.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/11/26/10000000019110696ecb.jpg",
       "pkInfoTitle": "巴西vs多米尼加",
       "modifyTitle": "男篮世预赛美洲赛区",
@@ -501,12 +501,8 @@
       },
       "nodes": [
         {
-          "pID": "966985529",
-          "name": "殷文玉"
-        },
-        {
-          "pID": "966985525",
-          "name": "赛场原声"
+          "pID": "967047880",
+          "name": "全场回放"
         }
       ]
     },
@@ -564,7 +560,7 @@
       "title": "男篮世预赛美洲赛区",
       "keyword": "08月28日10:10",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "Gimnasio Marcelino Gonzalez",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000589798/202608190324_718422_H169_1080.webp",
@@ -1145,6 +1141,7 @@
     },
     {
       "mgdbId": "120000590006",
+      "pID": "967047673",
       "title": "ONE周五格斗夜168：乌提克莱VS哈比布普尔",
       "keyword": "08月28日21:30",
       "sportItemId": "5",
@@ -1155,11 +1152,20 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/7/16/1000000015101065ca9b.png",
       "pkInfoTitle": "ONE周五格斗夜168：乌提克莱VS哈比布普尔",
       "modifyTitle": "ONE周五格斗夜168：乌提克莱VS哈比布普尔",
-      "presenters": "",
+      "presenters": "何鹏",
       "matchInfo": {
         "time": "08月28日21:30"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "967047673",
+          "name": "何鹏"
+        },
+        {
+          "pID": "967047752",
+          "name": "英文原声"
+        }
+      ]
     },
     {
       "mgdbId": "120000589830",
