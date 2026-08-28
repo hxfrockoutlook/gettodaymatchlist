@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-28 13:31:50",
+  "updateTime": "2026-08-28 14:02:02",
   "data": [
     {
       "mgdbId": "120000589789",
@@ -560,7 +560,7 @@
     },
     {
       "mgdbId": "120000589801",
-      "pID": "966985541",
+      "pID": "967050303",
       "title": "男篮世预赛美洲赛区",
       "keyword": "08月28日09:40",
       "sportItemId": "2",
@@ -592,7 +592,7 @@
     },
     {
       "mgdbId": "120000589798",
-      "pID": "966985549",
+      "pID": "967050398",
       "title": "男篮世预赛美洲赛区",
       "keyword": "08月28日10:10",
       "sportItemId": "2",
@@ -601,7 +601,7 @@
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000589798/202608190324_718422_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/11/26/10000000019110696ecb.jpg",
-      "pkInfoTitle": "墨西哥vs哥伦比亚",
+      "pkInfoTitle": "���西哥vs哥伦比亚",
       "modifyTitle": "男篮世预赛美洲赛区",
       "presenters": "",
       "matchInfo": {
@@ -609,8 +609,12 @@
       },
       "nodes": [
         {
+          "pID": "967050398",
+          "name": "全场集锦"
+        },
+        {
           "pID": "967050612",
-          "name": "全场回放"
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
@@ -668,7 +672,7 @@
       "title": "男篮世预赛亚洲赛区",
       "keyword": "08月28日14:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "Mall of Asia Arena",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/27/77L4QD4TVN60.jpg",
@@ -692,7 +696,7 @@
       "title": "斯诺克武汉公开赛半决赛下午场：罗尼·奥沙利文 vs 常冰玉",
       "keyword": "08月28日14:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/28/77L5M8K3P4CH.png",
@@ -724,7 +728,7 @@
       "title": "超三联赛 怀仁大区赛 B档小组赛下午场",
       "keyword": "08月28日14:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "超三联赛",
       "padImg": "",
@@ -949,7 +953,7 @@
     {
       "mgdbId": "120000591594",
       "pID": "967048927",
-      "title": "全国女子��球锦标赛",
+      "title": "全国女子篮球锦标赛",
       "keyword": "08月28日18:00",
       "sportItemId": "2",
       "matchStatus": "0",
@@ -1465,6 +1469,94 @@
         {
           "pID": "967029319",
           "name": "赛场原声"
+        },
+        {
+          "pID": "967051313",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "967051319",
+          "name": "刘钟鸣"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000591598",
+      "pID": "967050293",
+      "title": "郑钦文、布云朝克特和袁悦冲正赛",
+      "keyword": "08月28日23:00",
+      "sportItemId": "9",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "美国网球公开赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/28/77L5MAIOPGLM.png",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg",
+      "pkInfoTitle": "郑钦文、布云朝克特和袁悦冲正赛",
+      "modifyTitle": "美国网球公开赛资格赛Day5：郑钦文、布云朝克特和袁悦冲正赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "08月28日23:00"
+      },
+      "nodes": [
+        {
+          "pID": "967050293",
+          "name": "17号球场"
+        },
+        {
+          "pID": "967050269",
+          "name": "国际信号"
+        },
+        {
+          "pID": "967050315",
+          "name": "4号球场"
+        },
+        {
+          "pID": "967050324",
+          "name": "5号球场"
+        },
+        {
+          "pID": "967051220",
+          "name": "6号球场"
+        },
+        {
+          "pID": "967051223",
+          "name": "7号球场"
+        },
+        {
+          "pID": "967051228",
+          "name": "8号球场"
+        },
+        {
+          "pID": "967051241",
+          "name": "9号球场"
+        },
+        {
+          "pID": "967051250",
+          "name": "10号球场"
+        },
+        {
+          "pID": "967051254",
+          "name": "11号球场"
+        },
+        {
+          "pID": "967051266",
+          "name": "12号球场"
+        },
+        {
+          "pID": "967051271",
+          "name": "13号球场"
+        },
+        {
+          "pID": "967051285",
+          "name": "14号球场"
+        },
+        {
+          "pID": "967051291",
+          "name": "15号球场"
+        },
+        {
+          "pID": "967051301",
+          "name": "16号球场"
         }
       ]
     },
