@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-28 18:04:17",
+  "updateTime": "2026-08-28 18:31:57",
   "data": [
     {
       "mgdbId": "120000589789",
@@ -617,7 +617,7 @@
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000589798/202608190324_718422_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/11/26/10000000019110696ecb.jpg",
-      "pkInfoTitle": "墨西哥vs哥伦比亚",
+      "pkInfoTitle": "墨西��vs哥伦比亚",
       "modifyTitle": "男篮世预赛美洲赛区",
       "presenters": "",
       "matchInfo": {
@@ -701,12 +701,12 @@
       },
       "nodes": [
         {
-          "pID": "967055377",
-          "name": "全场回放"
-        },
-        {
           "pID": "967054618",
           "name": "全场集锦"
+        },
+        {
+          "pID": "967055377",
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
@@ -731,6 +731,10 @@
         {
           "pID": "967055744",
           "name": "26/27赛季斯诺克武汉公开赛半决赛回放：罗尼·奥沙利文3-6常冰玉（朱峰立）"
+        },
+        {
+          "pID": "967056811",
+          "name": "26/27赛季斯诺克武汉公开赛半决赛回放：罗尼·奥沙利文3-6常冰玉（赛场原声）"
         }
       ]
     },
@@ -763,6 +767,10 @@
         {
           "pID": "967056287",
           "name": "【回放】广东光正教育19:15福州奇迹"
+        },
+        {
+          "pID": "967056579",
+          "name": "2026超三联赛仁怀大区赛B档小组赛下午场回放：成都和众21:11广东生涯（赛场原声）"
         }
       ]
     },
@@ -809,12 +817,8 @@
       },
       "nodes": [
         {
-          "pID": "963730569",
-          "name": "【篮球公园】无畏向前！回顾中国女篮世界杯资格赛征程"
-        },
-        {
-          "pID": "967048919",
-          "name": "清流播出"
+          "pID": "967056684",
+          "name": "全场回放"
         }
       ]
     },
@@ -1004,7 +1008,7 @@
       "title": "深圳蓝袜VS北京正大龙",
       "keyword": "08月28日18:30",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "CPB中国棒球城市联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/28/77L5OJ213EUR.jpg",
