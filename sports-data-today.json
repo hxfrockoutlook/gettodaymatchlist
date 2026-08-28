@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-28 19:02:00",
+  "updateTime": "2026-08-28 19:32:00",
   "data": [
     {
       "mgdbId": "120000589789",
@@ -757,6 +757,10 @@
       },
       "nodes": [
         {
+          "pID": "967056941",
+          "name": "全场回放（赛场原声）"
+        },
+        {
           "pID": "967054729",
           "name": "【回放】广东光正教育21:14江苏香江猛虎"
         },
@@ -770,11 +774,7 @@
         },
         {
           "pID": "967056579",
-          "name": "2026超三联赛仁怀大区赛B档小组赛下午场回放：成都和众21:11广东生涯（赛场原声）"
-        },
-        {
-          "pID": "967056941",
-          "name": "2026超三联赛仁怀大区赛B档小组赛下午场全场回放（赛场原声）"
+          "name": "【回放】成都和众21:11广东生涯"
         }
       ]
     },
@@ -851,6 +851,14 @@
         {
           "pID": "967028341",
           "name": "3D视角"
+        },
+        {
+          "pID": "966998169",
+          "name": "同看中超"
+        },
+        {
+          "pID": "966820147",
+          "name": "同看斯诺克"
         },
         {
           "pID": "966985416",
@@ -1035,7 +1043,7 @@
       "pID": "967048426",
       "title": "篮球公园丨中国女篮 柏林之路",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "CBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/28/77L5ORSH16RP.png",
@@ -1060,7 +1068,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "超三联赛",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/28/77L5NVD3OIMA.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg",
       "pkInfoTitle": "超三联赛 仁怀大区赛 B档小组赛晚间场",
       "modifyTitle": "超三联赛",
@@ -1126,7 +1134,7 @@
       "title": "斯诺克武汉公开赛半决赛晚场：赵心童 vs 肖国栋",
       "keyword": "08月28日19:30",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/28/77L5M7VNVTB9.png",
@@ -1158,7 +1166,7 @@
       "title": "山东省齐鲁足球超级联赛",
       "keyword": "08月28日19:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "齐鲁超赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000590221/202608181725_178675_H169_1080.webp",
@@ -1298,7 +1306,7 @@
       "title": "中超联赛",
       "keyword": "08月28日20:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "深圳市体育场",
       "competitionName": "中超",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000569624/609348_H169_sc.jpg",
