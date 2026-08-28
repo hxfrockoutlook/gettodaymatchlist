@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-28 10:01:45",
+  "updateTime": "2026-08-28 10:31:37",
   "data": [
     {
       "mgdbId": "120000589789",
@@ -436,7 +436,7 @@
     },
     {
       "mgdbId": "120000589796",
-      "pID": "967047214",
+      "pID": "967047810",
       "title": "男篮世预赛美洲赛区",
       "keyword": "08月28日07:10",
       "sportItemId": "2",
@@ -453,6 +453,10 @@
       },
       "nodes": [
         {
+          "pID": "967047810",
+          "name": "全场集锦"
+        },
+        {
           "pID": "967047214",
           "name": "全场回放（蔡凯臣）"
         }
@@ -460,7 +464,7 @@
     },
     {
       "mgdbId": "120000589797",
-      "pID": "966985518",
+      "pID": "967047939",
       "title": "男篮世预赛美洲赛区",
       "keyword": "08月28日07:10",
       "sportItemId": "2",
@@ -477,14 +481,14 @@
       },
       "nodes": [
         {
-          "pID": "966985518",
-          "name": "赛场原声"
+          "pID": "967047939",
+          "name": "全场集锦"
         }
       ]
     },
     {
       "mgdbId": "120000589800",
-      "pID": "966985529",
+      "pID": "967047733",
       "title": "男篮世预赛美洲赛区",
       "keyword": "08月28日07:10",
       "sportItemId": "2",
@@ -501,8 +505,12 @@
       },
       "nodes": [
         {
+          "pID": "967047733",
+          "name": "全场集锦"
+        },
+        {
           "pID": "967047880",
-          "name": "全场回放"
+          "name": "全场回放（殷文玉）"
         }
       ]
     },
@@ -819,6 +827,27 @@
         {
           "pID": "967034386",
           "name": "云审片播出"
+        }
+      ]
+    },
+    {
+      "mgdbId": "300000002280",
+      "pID": "967048426",
+      "title": "篮球公园丨中国女篮 柏林之路",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "CBA",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/28/77L5ORSH16RP.png",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png",
+      "pkInfoTitle": "篮球公园丨中国女篮 柏林之路",
+      "modifyTitle": "篮球公园丨中国女篮 柏林之路",
+      "presenters": "",
+      "matchInfo": {},
+      "nodes": [
+        {
+          "pID": "967048426",
+          "name": "篮球公园"
         }
       ]
     },
