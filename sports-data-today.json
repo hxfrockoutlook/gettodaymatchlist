@@ -1,10 +1,10 @@
 {
   "success": true,
-  "updateTime": "2026-08-29 03:02:43",
+  "updateTime": "2026-08-29 03:32:28",
   "data": [
     {
       "mgdbId": "120000589804",
-      "pID": "966984124",
+      "pID": "967070014",
       "title": "男篮世预赛欧洲赛区",
       "keyword": "08月29日00:00",
       "sportItemId": "2",
@@ -21,8 +21,8 @@
       },
       "nodes": [
         {
-          "pID": "966984124",
-          "name": "赛场原声"
+          "pID": "967070014",
+          "name": "全场集锦"
         }
       ]
     },
@@ -299,10 +299,6 @@
         {
           "pID": "967027121",
           "name": "赛场原声"
-        },
-        {
-          "pID": "967055090",
-          "name": "智能解说"
         }
       ]
     },
@@ -337,8 +333,16 @@
           "name": "4K赛场原声"
         },
         {
+          "pID": "967033226",
+          "name": "水晶宫队球星视角"
+        },
+        {
+          "pID": "967033235",
+          "name": "曼城队球星视角"
+        },
+        {
           "pID": "967033260",
-          "name": "���顶的风好大"
+          "name": "山顶的风好大"
         }
       ]
     },
@@ -376,7 +380,7 @@
       "title": "西甲联赛",
       "keyword": "08月29日03:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "门迪佐洛萨球场",
       "competitionName": "西甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000586209/921095_H169_sc.jpg",
