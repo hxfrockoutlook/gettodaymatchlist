@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-29 09:32:29",
+  "updateTime": "2026-08-29 10:02:34",
   "data": [
     {
       "mgdbId": "120000589804",
@@ -142,13 +142,13 @@
         },
         {
           "pID": "967075510",
-          "name": "全场回放"
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
     {
       "mgdbId": "120000589807",
-      "pID": "967027362",
+      "pID": "967075278",
       "title": "男篮世预赛欧洲赛区",
       "keyword": "08月29日02:00",
       "sportItemId": "2",
@@ -165,12 +165,16 @@
       },
       "nodes": [
         {
+          "pID": "967075278",
+          "name": "全场集锦"
+        },
+        {
           "pID": "967075139",
           "name": "全场回放（孔德昕）"
         },
         {
           "pID": "967075662",
-          "name": "全场回放"
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
@@ -221,12 +225,12 @@
       },
       "nodes": [
         {
-          "pID": "967075207",
-          "name": "全场回放"
-        },
-        {
           "pID": "967072174",
           "name": "全场集锦"
+        },
+        {
+          "pID": "967075207",
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
@@ -378,7 +382,7 @@
         },
         {
           "pID": "967075187",
-          "name": "全场回放"
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
@@ -551,6 +555,30 @@
         {
           "pID": "967032253",
           "name": "湖南长沙站"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000591655",
+      "pID": "967067146",
+      "title": "精彩回顾：郑钦文 vs 尤晓迪",
+      "keyword": "08月29日10:00",
+      "sportItemId": "9",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "美国网球公开赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/29/77L6LN9NIHLT.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg",
+      "pkInfoTitle": "精彩回顾：郑钦文 vs 尤晓迪",
+      "modifyTitle": "2026美网资格赛精彩回顾：郑钦文 vs 尤晓迪",
+      "presenters": "",
+      "matchInfo": {
+        "time": "08月29日10:00"
+      },
+      "nodes": [
+        {
+          "pID": "967067146",
+          "name": "李宁"
         }
       ]
     },
