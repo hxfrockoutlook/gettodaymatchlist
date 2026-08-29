@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-29 19:32:39",
+  "updateTime": "2026-08-29 20:02:39",
   "data": [
     {
       "mgdbId": "120000589804",
@@ -765,7 +765,7 @@
     {
       "mgdbId": "120000580370",
       "pID": "966985539",
-      "title": "宋亚东领衔UFC上海站 张伟丽李景亮解说",
+      "title": "宋亚东VS乌马尔 张伟丽李景亮解说",
       "keyword": "08月29日15:00",
       "sportItemId": "5",
       "matchStatus": "1",
@@ -773,7 +773,7 @@
       "competitionName": "UFC格斗之夜",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/29/77L6L2B7G4IN.gif",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/3/31/1000000002391064d391.png",
-      "pkInfoTitle": "宋亚东领衔UFC上海站 张伟丽李景亮解说",
+      "pkInfoTitle": "宋亚东VS乌马尔 张伟丽李景亮解说",
       "modifyTitle": "UFC上海站：宋亚东VS乌马尔 冲击挑战权",
       "presenters": "王琰博 李景亮 张伟丽",
       "matchInfo": {
@@ -893,16 +893,16 @@
     {
       "mgdbId": "120000587545",
       "pID": "967034423",
-      "title": "福州海侠VS上海虎鲸",
+      "title": "福州海侠1-7上海虎鲸",
       "keyword": "08月29日16:30",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "CPB中国棒球城市联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/29/77L6K7JKIACR.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/8/10/100000001517106f3b81.png",
-      "pkInfoTitle": "福州海侠VS上海虎鲸",
-      "modifyTitle": "CPB中国棒球城市联赛：福州海侠VS上海虎鲸",
+      "pkInfoTitle": "福州海侠1-7上海虎鲸",
+      "modifyTitle": "CPB中国棒球城市联赛：福州海侠1-7上海虎鲸",
       "presenters": "",
       "matchInfo": {
         "time": "08月29日16:30"
@@ -917,16 +917,16 @@
     {
       "mgdbId": "120000587546",
       "pID": "967034428",
-      "title": "北京正大龙VS深圳蓝袜",
+      "title": "北京正大龙3-8深圳蓝袜",
       "keyword": "08月29日16:30",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "CPB中国棒球城市联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/29/77L6K7LT18JV.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/8/10/100000001517106f3b81.png",
-      "pkInfoTitle": "北京正大龙VS深圳蓝袜",
-      "modifyTitle": "CPB中国棒球城市联赛：北京正大龙VS深圳蓝袜",
+      "pkInfoTitle": "北京正大龙3-8深圳蓝袜",
+      "modifyTitle": "CPB中国棒球城市联赛：北京正大龙3-8深圳蓝袜",
       "presenters": "",
       "matchInfo": {
         "time": "08月29日16:30"
@@ -981,16 +981,20 @@
       },
       "nodes": [
         {
+          "pID": "967086966",
+          "name": "全场集锦"
+        },
+        {
+          "pID": "967087975",
+          "name": "全场回放（石庆圣、李彦、姚安妮）"
+        },
+        {
           "pID": "967086337",
           "name": "全场回放（AI智慧观赛）"
         },
         {
           "pID": "967086518",
-          "name": "全场回放（智能解说）"
-        },
-        {
-          "pID": "967086587",
-          "name": "全场回放（赛场原声）"
+          "name": "全场回放（AI智能解说）"
         }
       ]
     },
@@ -1069,16 +1073,16 @@
     {
       "mgdbId": "120000591473",
       "pID": "967035199",
-      "title": "静海VS南开",
+      "title": "静海0-2南开",
       "keyword": "08月29日18:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "海河超儿",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/8/14/10000000152310677fd0.png",
-      "pkInfoTitle": "静海VS南开",
-      "modifyTitle": "静海VS南开",
+      "pkInfoTitle": "静海0-2南开",
+      "modifyTitle": "静海0-2南开",
       "presenters": "",
       "matchInfo": {
         "time": "08月29日18:00"
@@ -1115,10 +1119,6 @@
         {
           "pID": "966820165",
           "name": "赵心童vs常冰玉"
-        },
-        {
-          "pID": "966985539",
-          "name": "同播UFC"
         }
       ]
     },
@@ -1618,7 +1618,7 @@
       "nodes": [
         {
           "pID": "966839305",
-          "name": "赛场原声"
+          "name": "2026赛季山东省齐鲁足球超级联赛第十三轮: 威海文旅集团队VS济宁港航"
         }
       ]
     },
@@ -1864,7 +1864,7 @@
       "title": "湘超",
       "keyword": "08月29日19:38",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "湘超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000587746/202608111545_304761_H169_1080.webp",
@@ -1888,7 +1888,7 @@
       "title": "湘超",
       "keyword": "08月29日19:38",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "湘超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000587747/202608111545_594700_H169_1080.webp",
@@ -1912,7 +1912,7 @@
       "title": "湘超",
       "keyword": "08月29日19:38",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "湘超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000587748/202608111545_456611_H169_1080.webp",
@@ -2008,7 +2008,7 @@
       "title": "中超联赛",
       "keyword": "08月29日20:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "郑州航海体育场",
       "competitionName": "中超",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000569618/495088_H169_sc.jpg",
@@ -2036,7 +2036,7 @@
       "title": "中甲联赛",
       "keyword": "08月29日20:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "定南足球青少年训练中心体育场",
       "competitionName": "中甲",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000570583/202603010046_629606_H169_1080.webp",
@@ -2064,7 +2064,7 @@
       "title": "江西省城市足球超级联赛",
       "keyword": "08月29日20:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "赣超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000591153/202608250930_399951_H169_1080.webp",
@@ -2088,7 +2088,7 @@
       "title": "江西省城市足球超级联赛",
       "keyword": "08月29日20:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "赣超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000591154/202608250935_833149_H169_1080.webp",
@@ -2110,9 +2110,9 @@
       "mgdbId": "120000591155",
       "pID": "966979620",
       "title": "江西省城市足球超级联赛",
-      "keyword": "08���29日20:00",
+      "keyword": "08月29日20:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "赣超",
       "padImg": "",
@@ -2121,7 +2121,7 @@
       "modifyTitle": "江西省城市足球超级联赛",
       "presenters": "",
       "matchInfo": {
-        "time": "08���29日20:00"
+        "time": "08月29日20:00"
       },
       "nodes": [
         {
@@ -2136,7 +2136,7 @@
       "title": "江西省城市足球超级联赛",
       "keyword": "08月29日20:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "赣超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000591156/202608250935_232701_H169_1080.webp",
@@ -2160,7 +2160,7 @@
       "title": "粤超八强附加赛（第二回合）",
       "keyword": "08月29日20:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "粤超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000591159/202608250940_963191_H169_1080.webp",
