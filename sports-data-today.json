@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-29 17:32:38",
+  "updateTime": "2026-08-29 18:02:53",
   "data": [
     {
       "mgdbId": "120000589804",
@@ -689,12 +689,8 @@
       },
       "nodes": [
         {
-          "pID": "967067170",
-          "name": "刘钟鸣"
-        },
-        {
-          "pID": "967070040",
-          "name": "郑钦文赛后声音"
+          "pID": "967083959",
+          "name": "精彩回顾：2026美国网球公开赛资格赛回放：郑钦文vs普里丹金娜"
         }
       ]
     },
@@ -721,8 +717,8 @@
           "name": "中国赛"
         },
         {
-          "pID": "967028335",
-          "name": "3D视角"
+          "pID": "967049296",
+          "name": "3D视角主赛"
         },
         {
           "pID": "966985633",
@@ -760,7 +756,7 @@
       "title": "安徽省青少年足球联赛",
       "keyword": "08月29日16:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "徽青赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000591173/202608251025_799339_H169_1080.webp",
@@ -781,16 +777,16 @@
     {
       "mgdbId": "120000591472",
       "pID": "967035186",
-      "title": "红桥VS河西",
+      "title": "红桥6-0河西",
       "keyword": "08月29日16:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "海河超儿",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/8/14/10000000152310677fd0.png",
-      "pkInfoTitle": "红桥VS河西",
-      "modifyTitle": "红桥VS河西",
+      "pkInfoTitle": "红桥6-0河西",
+      "modifyTitle": "红桥6-0河西",
       "presenters": "",
       "matchInfo": {
         "time": "08月29日16:00"
@@ -960,7 +956,7 @@
       "title": "NBA精彩重播：骑士vs掘金",
       "keyword": "08月29日18:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA经典赛事",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/29/77L6M8P2SJRV.png",
@@ -984,7 +980,7 @@
       "title": "安徽省青少年足球联赛",
       "keyword": "08月29日18:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "徽青赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000591172/202608251019_349370_H169_1080.webp",
@@ -1008,7 +1004,7 @@
       "title": "静海VS南开",
       "keyword": "08月29日18:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "海河超儿",
       "padImg": "",
@@ -1023,6 +1019,58 @@
         {
           "pID": "967035199",
           "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000589979",
+      "pID": "967032171",
+      "title": "斯诺克武汉公开赛决赛第二阶段：赵心童 vs 常冰玉",
+      "keyword": "08月29日18:30",
+      "sportItemId": "8",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "斯诺克",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/28/77L5P35BCDPL.png",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
+      "pkInfoTitle": "赵心童 vs 常冰玉",
+      "modifyTitle": "斯诺克武汉公开赛决赛第二阶段：赵心童 vs 常冰玉",
+      "presenters": "秦正 庞卫国",
+      "matchInfo": {
+        "time": "08月29日18:30"
+      },
+      "nodes": [
+        {
+          "pID": "967077205",
+          "name": "武汉之巅迎中国德比！"
+        },
+        {
+          "pID": "967068173",
+          "name": "武汉公开赛第六日五佳球"
+        },
+        {
+          "pID": "967055323",
+          "name": "常冰玉感谢咪咕球迷"
+        },
+        {
+          "pID": "967068171",
+          "name": "赵心童展望决赛"
+        },
+        {
+          "pID": "967057080",
+          "name": "常冰玉展望决赛"
+        },
+        {
+          "pID": "967032171",
+          "name": "秦正 庞卫国"
+        },
+        {
+          "pID": "966820165",
+          "name": "赵心童vs常冰玉"
+        },
+        {
+          "pID": "966985539",
+          "name": "同播UFC"
         }
       ]
     },
@@ -1475,38 +1523,6 @@
         {
           "pID": "967033314",
           "name": "4K赛场原声"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000589979",
-      "pID": "967032171",
-      "title": "斯诺克武汉公开赛决赛第二阶段：赵心童 vs 常冰玉",
-      "keyword": "08月29日19:30",
-      "sportItemId": "8",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "斯诺克",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/28/77L5P35BCDPL.png",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "赵心童 vs 常冰玉",
-      "modifyTitle": "斯诺克武汉公开赛决赛第二阶段：赵心童 vs 常冰玉",
-      "presenters": "秦正 庞卫国",
-      "matchInfo": {
-        "time": "08月29日19:30"
-      },
-      "nodes": [
-        {
-          "pID": "967032171",
-          "name": "秦正 庞卫国"
-        },
-        {
-          "pID": "966820165",
-          "name": "赵心童vs常冰玉"
-        },
-        {
-          "pID": "966985539",
-          "name": "同播UFC"
         }
       ]
     },
