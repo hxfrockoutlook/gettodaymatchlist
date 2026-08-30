@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-30 13:32:07",
+  "updateTime": "2026-08-30 14:02:13",
   "data": [
     {
       "mgdbId": "120000584263",
@@ -10,7 +10,7 @@
       "sportItemId": "1",
       "matchStatus": "2",
       "matchField": "托特纳姆热刺球场",
-      "competitionName": "英��",
+      "competitionName": "英超",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000584263/363739_H169_sc.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png",
       "pkInfoTitle": "托特纳姆热刺 vs 纽卡斯尔联",
@@ -376,7 +376,7 @@
       "title": "“她铁”粉色铁人三项挑战赛",
       "keyword": "08月30日06:00",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "铁人三项系列赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/29/77L6K5IBA3NE.png",
@@ -556,7 +556,7 @@
       "title": "中国速度攀岩系列赛（湖南长沙站）Day2",
       "keyword": "08月30日12:00",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "攀岩系列赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/29/77L6M7S3IHMA.png",
@@ -604,7 +604,7 @@
       "title": "男篮世预赛亚洲赛区",
       "keyword": "08月30日14:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "Mall of Asia Arena",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/28/77L5MTCA4PDQ.jpg",
@@ -1639,7 +1639,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg",
       "pkInfoTitle": "佩古拉、德约、大威接连出战",
       "modifyTitle": "美国网球公开赛正赛男女单打第一轮：佩古拉、德约、大威接连出战",
-      "presenters": "",
+      "presenters": "刘钟鸣 单文强 李宁 张启旸",
       "matchInfo": {
         "time": "08月30日23:00"
       },
@@ -1695,11 +1695,36 @@
         {
           "pID": "967048117",
           "name": "英文解说"
+        },
+        {
+          "pID": "967125613",
+          "name": "刘钟鸣"
+        },
+        {
+          "pID": "967125679",
+          "name": "单文强"
+        },
+        {
+          "pID": "967125721",
+          "name": "李宁"
+        },
+        {
+          "pID": "967125723",
+          "name": "张启旸"
+        },
+        {
+          "pID": "967125756",
+          "name": "李宁"
+        },
+        {
+          "pID": "967125788",
+          "name": "单文强"
         }
       ]
     },
     {
       "mgdbId": "120000591703",
+      "pID": "967125637",
       "title": "美网男单第一轮：吴易昺 vs 沃尔顿",
       "keyword": "08月30日23:00",
       "sportItemId": "9",
@@ -1710,11 +1735,20 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg",
       "pkInfoTitle": "吴易昺 vs 沃尔顿",
       "modifyTitle": "美网男单第一轮：吴易昺 vs 沃尔顿",
-      "presenters": "",
+      "presenters": "邱超",
       "matchInfo": {
         "time": "08月30日23:00"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "967125637",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "967125694",
+          "name": "邱超"
+        }
+      ]
     },
     {
       "mgdbId": "120000585131",
