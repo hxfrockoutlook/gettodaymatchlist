@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-31 00:01:21",
+  "updateTime": "2026-08-31 00:31:15",
   "data": [
     {
       "mgdbId": "120000589813",
@@ -56,7 +56,7 @@
       "title": "意甲联赛",
       "keyword": "08月31日00:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "圣保罗球场",
       "competitionName": "意甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/27/77L4QRS1AO5I.png",
@@ -82,7 +82,7 @@
       "mgdbId": "120000591700",
       "pID": "967125605",
       "title": "美网男单第一轮：黄泽林 vs 保罗",
-      "keyword": "08月31日00:30",
+      "keyword": "08月31日01:00",
       "sportItemId": "9",
       "matchStatus": "0",
       "matchField": "",
@@ -93,7 +93,7 @@
       "modifyTitle": "美网男单第一轮：黄泽林 vs 保罗",
       "presenters": "刘钟鸣",
       "matchInfo": {
-        "time": "08月31日00:30"
+        "time": "08月31日01:00"
       },
       "nodes": [
         {
@@ -102,62 +102,6 @@
         },
         {
           "pID": "967125605",
-          "name": "赛场原声"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000591701",
-      "pID": "967125727",
-      "title": "美网女单第一轮：张帅 vs 费尔南德斯",
-      "keyword": "08月31日00:30",
-      "sportItemId": "9",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "美国网球公开赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/29/77L6LCO4CK56.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg",
-      "pkInfoTitle": "张帅 vs 费尔南德斯",
-      "modifyTitle": "美网女单第一轮：张帅 vs 费尔南德斯",
-      "presenters": "胡力涛",
-      "matchInfo": {
-        "time": "08月31日00:30"
-      },
-      "nodes": [
-        {
-          "pID": "967125738",
-          "name": "胡力涛"
-        },
-        {
-          "pID": "967125727",
-          "name": "赛场原声"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000591702",
-      "pID": "967125764",
-      "title": "美网女单第一轮：阿朗戈 vs 王欣瑜",
-      "keyword": "08月31日00:30",
-      "sportItemId": "9",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "美国网球公开赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/29/77L6LD24JEML.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg",
-      "pkInfoTitle": "阿朗戈 vs 王欣瑜",
-      "modifyTitle": "美网女单第一轮：阿朗戈 vs 王欣瑜",
-      "presenters": "宋光振",
-      "matchInfo": {
-        "time": "08月31日00:30"
-      },
-      "nodes": [
-        {
-          "pID": "967125769",
-          "name": "宋光振"
-        },
-        {
-          "pID": "967125764",
           "name": "赛场原声"
         }
       ]
@@ -186,6 +130,62 @@
         },
         {
           "pID": "966999027",
+          "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000591701",
+      "pID": "967125727",
+      "title": "美网女单第一轮：张帅 vs 费尔南德斯",
+      "keyword": "08月31日01:30",
+      "sportItemId": "9",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "美国网球公开赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/29/77L6LCO4CK56.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg",
+      "pkInfoTitle": "张帅 vs 费尔南德斯",
+      "modifyTitle": "美网女单第一轮：张帅 vs 费尔南德斯",
+      "presenters": "胡力涛",
+      "matchInfo": {
+        "time": "08月31日01:30"
+      },
+      "nodes": [
+        {
+          "pID": "967125738",
+          "name": "胡力涛"
+        },
+        {
+          "pID": "967125727",
+          "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000591702",
+      "pID": "967125764",
+      "title": "美网女单第一轮：阿朗戈 vs 王欣瑜",
+      "keyword": "08月31日01:30",
+      "sportItemId": "9",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "美国网球公开赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/29/77L6LD24JEML.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg",
+      "pkInfoTitle": "阿朗戈 vs 王欣瑜",
+      "modifyTitle": "美网女单第一轮：阿朗戈 vs 王欣瑜",
+      "presenters": "宋光振",
+      "matchInfo": {
+        "time": "08月31日01:30"
+      },
+      "nodes": [
+        {
+          "pID": "967125769",
+          "name": "宋光振"
+        },
+        {
+          "pID": "967125764",
           "name": "赛场原声"
         }
       ]
@@ -406,7 +406,7 @@
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/30/77L7JBBO9U60.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/10/22/10000000136010611504.jpg",
       "pkInfoTitle": "中国速度攀岩系列赛（湖南长沙站）Day3",
-      "modifyTitle": "中国速度攀岩系列赛（湖南长���站）Day3",
+      "modifyTitle": "中国速度攀岩系列赛（湖南长沙站）Day3",
       "presenters": "",
       "matchInfo": {
         "time": "08月31日17:30"
