@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-31 00:31:15",
+  "updateTime": "2026-08-31 01:01:17",
   "data": [
     {
       "mgdbId": "120000589813",
@@ -84,7 +84,7 @@
       "title": "美网男单第一轮：黄泽林 vs 保罗",
       "keyword": "08月31日01:00",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "美国网球公开赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/29/77L6LCGH66SI.jpg",
@@ -102,6 +102,34 @@
         },
         {
           "pID": "967125605",
+          "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000591701",
+      "pID": "967125727",
+      "title": "美网女单第一轮：张帅 vs 费尔南德斯",
+      "keyword": "08月31日01:00",
+      "sportItemId": "9",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "美国网球公开赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/29/77L6LCO4CK56.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg",
+      "pkInfoTitle": "张帅 vs 费尔南德斯",
+      "modifyTitle": "美网女单第一轮：张帅 vs 费尔南德斯",
+      "presenters": "胡力涛",
+      "matchInfo": {
+        "time": "08月31日01:00"
+      },
+      "nodes": [
+        {
+          "pID": "967125738",
+          "name": "胡力涛"
+        },
+        {
+          "pID": "967125727",
           "name": "赛场原声"
         }
       ]
@@ -130,34 +158,6 @@
         },
         {
           "pID": "966999027",
-          "name": "赛场原声"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000591701",
-      "pID": "967125727",
-      "title": "美网女单第一轮：张帅 vs 费尔南德斯",
-      "keyword": "08月31日01:30",
-      "sportItemId": "9",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "美国网球公开赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/29/77L6LCO4CK56.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg",
-      "pkInfoTitle": "张帅 vs 费尔南德斯",
-      "modifyTitle": "美网女单第一轮：张帅 vs 费尔南德斯",
-      "presenters": "胡力涛",
-      "matchInfo": {
-        "time": "08月31日01:30"
-      },
-      "nodes": [
-        {
-          "pID": "967125738",
-          "name": "胡力涛"
-        },
-        {
-          "pID": "967125727",
           "name": "赛场原声"
         }
       ]
