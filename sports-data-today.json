@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-30 17:02:15",
+  "updateTime": "2026-08-30 17:32:09",
   "data": [
     {
       "mgdbId": "120000584263",
@@ -592,11 +592,11 @@
     },
     {
       "mgdbId": "120000591441",
-      "pID": "967028368",
+      "pID": "967127571",
       "title": "超三联赛 仁怀大区赛 A档12进8及四分之一决赛",
       "keyword": "08月30日13:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "超三联赛",
       "padImg": "",
@@ -609,8 +609,32 @@
       },
       "nodes": [
         {
-          "pID": "967028368",
-          "name": "王冠证 吴博文"
+          "pID": "967127571",
+          "name": "【1/4决赛回放】上海久事22:14南昌凯锆商贸"
+        },
+        {
+          "pID": "967127353",
+          "name": "【1/4决赛回放】贵州贵阳丝恋19:21北京控股"
+        },
+        {
+          "pID": "967127120",
+          "name": "【1/4决赛回放】上海横沙誉民21:13深圳龙华启航"
+        },
+        {
+          "pID": "967125909",
+          "name": "【12进8回放】深圳龙华启航22:16山东"
+        },
+        {
+          "pID": "967125949",
+          "name": "【12进8回放】北京控股22:11无锡文旅惠汕"
+        },
+        {
+          "pID": "967125982",
+          "name": "【12进8回放】南昌凯锆商贸21:17重庆瀚动"
+        },
+        {
+          "pID": "967126196",
+          "name": "【12进8回放】浙江普徕20:13广东悦跑豹猫"
         }
       ]
     },
@@ -635,6 +659,10 @@
         {
           "pID": "967127233",
           "name": "全场集锦"
+        },
+        {
+          "pID": "967127720",
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
@@ -778,30 +806,6 @@
       "nodes": [
         {
           "pID": "967034455",
-          "name": "清流播出"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000587548",
-      "pID": "967034473",
-      "title": "深圳蓝袜VS北京正大龙",
-      "keyword": "08月30日16:30",
-      "sportItemId": "8",
-      "matchStatus": "2",
-      "matchField": "",
-      "competitionName": "CPB中国棒球城市联赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/29/77L6K7PVTELQ.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/8/10/100000001517106f3b81.png",
-      "pkInfoTitle": "深圳蓝袜VS北京正大龙",
-      "modifyTitle": "CPB中国棒球城市联赛：深圳蓝袜VS北京正大龙",
-      "presenters": "",
-      "matchInfo": {
-        "time": "08月30日16:30"
-      },
-      "nodes": [
-        {
-          "pID": "967034473",
           "name": "清流播出"
         }
       ]
@@ -1947,6 +1951,30 @@
         {
           "pID": "966984299",
           "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000587548",
+      "pID": "120000587548",
+      "title": "深圳蓝袜VS北京正大龙",
+      "keyword": "08月30日16:30",
+      "sportItemId": "",
+      "matchStatus": "2",
+      "matchField": "",
+      "competitionName": "CPB中国棒球城市联赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/29/77L6K7PVTELQ.jpg",
+      "competitionLogo": "",
+      "pkInfoTitle": "深圳蓝袜VS北京正大龙",
+      "modifyTitle": "深圳蓝袜VS北京正大龙",
+      "presenters": "",
+      "matchInfo": {
+        "time": "08月30日16:30"
+      },
+      "nodes": [
+        {
+          "pID": "967034473",
+          "name": "清流播出"
         }
       ]
     }
