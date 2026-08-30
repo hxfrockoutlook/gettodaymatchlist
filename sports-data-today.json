@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-31 01:31:08",
+  "updateTime": "2026-08-31 02:01:17",
   "data": [
     {
       "mgdbId": "120000589813",
@@ -168,7 +168,7 @@
       "title": "男篮世预赛欧洲赛区",
       "keyword": "08月31日02:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "Tivoli Arena",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/29/77L6MK35J30P.jpg",
@@ -192,7 +192,7 @@
       "title": "男篮世预赛非洲赛区",
       "keyword": "08月31日02:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "Salle Multidisciplinaire de Radès",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/29/77L6JJLF0M92.jpg",
@@ -206,34 +206,6 @@
       "nodes": [
         {
           "pID": "966984476",
-          "name": "赛场原声"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000591702",
-      "pID": "967125764",
-      "title": "美网女单第一轮：阿朗戈 vs 王欣瑜",
-      "keyword": "08月31日02:15",
-      "sportItemId": "9",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "美国网球公开赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/29/77L6LD24JEML.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg",
-      "pkInfoTitle": "阿朗戈 vs 王欣瑜",
-      "modifyTitle": "美网女单第一轮：阿朗戈 vs 王欣瑜",
-      "presenters": "宋光振",
-      "matchInfo": {
-        "time": "08月31日02:15"
-      },
-      "nodes": [
-        {
-          "pID": "967125769",
-          "name": "宋光振"
-        },
-        {
-          "pID": "967125764",
           "name": "赛场原声"
         }
       ]
@@ -258,6 +230,34 @@
       "nodes": [
         {
           "pID": "966984490",
+          "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000591702",
+      "pID": "967125764",
+      "title": "美网女单第一轮：阿朗戈 vs 王欣瑜",
+      "keyword": "08月31日02:30",
+      "sportItemId": "9",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "美国网球公开赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/29/77L6LD24JEML.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg",
+      "pkInfoTitle": "阿朗戈 vs 王欣瑜",
+      "modifyTitle": "美网女单第一轮：阿朗戈 vs 王欣瑜",
+      "presenters": "宋光振",
+      "matchInfo": {
+        "time": "08月31日02:30"
+      },
+      "nodes": [
+        {
+          "pID": "967125769",
+          "name": "宋光振"
+        },
+        {
+          "pID": "967125764",
           "name": "赛场原声"
         }
       ]
