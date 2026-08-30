@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-30 20:32:10",
+  "updateTime": "2026-08-30 21:02:16",
   "data": [
     {
       "mgdbId": "120000584263",
@@ -828,7 +828,7 @@
     },
     {
       "mgdbId": "120000589786",
-      "pID": "966984517",
+      "pID": "967128903",
       "title": "男篮世预赛亚洲赛区",
       "keyword": "08月30日17:00",
       "sportItemId": "2",
@@ -845,8 +845,12 @@
       },
       "nodes": [
         {
+          "pID": "967128903",
+          "name": "全场集锦"
+        },
+        {
           "pID": "967129412",
-          "name": "全场回放"
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
@@ -917,8 +921,8 @@
       },
       "nodes": [
         {
-          "pID": "967035213",
-          "name": "赛场原声"
+          "pID": "967129532",
+          "name": "天津市海河足球超级联赛第4轮全场回放：河北3:2河东（赛场原声）"
         }
       ]
     },
@@ -952,7 +956,7 @@
       "title": "中甲联赛",
       "keyword": "08月30日19:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "慈溪体育中心体育场",
       "competitionName": "中甲",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000570581/202608031105_571538_H169_1080.webp",
@@ -980,10 +984,10 @@
       "title": "中甲联赛",
       "keyword": "08月30日19:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "金州体育场",
       "competitionName": "中甲",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000570582/773634_H169_sc.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000570582/568007_H169_sc.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/10106c2211.png",
       "pkInfoTitle": "大连鲲城 vs 南通支云",
       "modifyTitle": "中甲联赛",
@@ -1424,7 +1428,7 @@
       "title": "男篮世预赛欧洲赛区",
       "keyword": "08月30日20:45",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "ERGO Arena",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/28/77L5MH9JRT9R.jpg",
@@ -1452,7 +1456,7 @@
       "title": "英超联赛",
       "keyword": "08月30日21:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "光明球场",
       "competitionName": "英超",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000584264/176522_H169_sc.jpg",
@@ -1488,7 +1492,7 @@
       "title": "英超联赛",
       "keyword": "08月30日21:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "艾兰路球场",
       "competitionName": "英超",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000584267/710210_H169_sc.jpg",
@@ -1560,7 +1564,7 @@
       "title": "法甲联赛",
       "keyword": "08月30日21:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "让·布安体育场",
       "competitionName": "法甲",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000584510/202607231609_422068_H169_1080.webp",
@@ -1781,12 +1785,12 @@
       },
       "nodes": [
         {
-          "pID": "967125637",
-          "name": "赛场原声"
-        },
-        {
           "pID": "967125694",
           "name": "邱超"
+        },
+        {
+          "pID": "967125637",
+          "name": "赛场原声"
         }
       ]
     },
