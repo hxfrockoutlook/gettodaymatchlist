@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-31 03:31:11",
+  "updateTime": "2026-08-31 04:01:21",
   "data": [
     {
       "mgdbId": "120000589813",
@@ -32,7 +32,7 @@
     },
     {
       "mgdbId": "120000589819",
-      "pID": "967006072",
+      "pID": "967143754",
       "title": "男篮世预赛欧洲赛区",
       "keyword": "08月31日00:00",
       "sportItemId": "2",
@@ -49,12 +49,8 @@
       },
       "nodes": [
         {
-          "pID": "967006072",
-          "name": "2027年男篮世预赛欧洲赛区第四窗口期宣传片：文班亚马约基奇率队出战"
-        },
-        {
-          "pID": "966984299",
-          "name": "赛场原声"
+          "pID": "967143754",
+          "name": "全场集锦"
         }
       ]
     },
@@ -133,12 +129,12 @@
       },
       "nodes": [
         {
-          "pID": "967125738",
-          "name": "胡力涛"
+          "pID": "967144842",
+          "name": "全场回放（胡力涛）"
         },
         {
-          "pID": "967125727",
-          "name": "赛场原声"
+          "pID": "967145008",
+          "name": "全场回放"
         }
       ]
     },
@@ -148,10 +144,10 @@
       "title": "西甲联赛",
       "keyword": "08月31日01:30",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Estadio Abanca-Riazor",
       "competitionName": "西甲",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000586204/756337_H169_sc.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/31/77L8E51DH8SG.jpg",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/21/779JJMOFB20H.png",
       "pkInfoTitle": "拉科鲁尼亚 vs 瓦伦西亚",
       "modifyTitle": "西甲联赛",
@@ -196,11 +192,11 @@
     },
     {
       "mgdbId": "120000589832",
-      "pID": "966984476",
+      "pID": "967007226",
       "title": "男篮世预赛非洲赛区",
       "keyword": "08月31日02:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Salle Multidisciplinaire de Radès",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/29/77L6JJLF0M92.jpg",
@@ -212,6 +208,10 @@
         "time": "08月31日02:00"
       },
       "nodes": [
+        {
+          "pID": "967007226",
+          "name": "2027年男篮世预赛非洲赛区第四窗口期宣���片：狂野大陆谁将突出重围？"
+        },
         {
           "pID": "966984476",
           "name": "赛场原声"
