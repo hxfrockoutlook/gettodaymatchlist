@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-31 01:01:17",
+  "updateTime": "2026-08-31 01:31:08",
   "data": [
     {
       "mgdbId": "120000589813",
@@ -140,7 +140,7 @@
       "title": "西甲联赛",
       "keyword": "08月31日01:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "Estadio Abanca-Riazor",
       "competitionName": "西甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000586204/756337_H169_sc.jpg",
@@ -158,34 +158,6 @@
         },
         {
           "pID": "966999027",
-          "name": "赛场原声"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000591702",
-      "pID": "967125764",
-      "title": "美网女单第一轮：阿朗戈 vs 王欣瑜",
-      "keyword": "08月31日01:30",
-      "sportItemId": "9",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "美国网球公开赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/29/77L6LD24JEML.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg",
-      "pkInfoTitle": "阿朗戈 vs 王欣瑜",
-      "modifyTitle": "美网女单第一轮：阿朗戈 vs 王欣瑜",
-      "presenters": "宋光振",
-      "matchInfo": {
-        "time": "08月31日01:30"
-      },
-      "nodes": [
-        {
-          "pID": "967125769",
-          "name": "宋光振"
-        },
-        {
-          "pID": "967125764",
           "name": "赛场原声"
         }
       ]
@@ -234,6 +206,34 @@
       "nodes": [
         {
           "pID": "966984476",
+          "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000591702",
+      "pID": "967125764",
+      "title": "美网女单第一轮：阿朗戈 vs 王欣瑜",
+      "keyword": "08月31日02:15",
+      "sportItemId": "9",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "美国网球公开赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/29/77L6LD24JEML.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg",
+      "pkInfoTitle": "阿朗戈 vs 王欣瑜",
+      "modifyTitle": "美网女单第一轮：阿朗戈 vs 王欣瑜",
+      "presenters": "宋光振",
+      "matchInfo": {
+        "time": "08月31日02:15"
+      },
+      "nodes": [
+        {
+          "pID": "967125769",
+          "name": "宋光振"
+        },
+        {
+          "pID": "967125764",
           "name": "赛场原声"
         }
       ]
