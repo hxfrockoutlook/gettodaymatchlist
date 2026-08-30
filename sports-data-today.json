@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-31 05:01:23",
+  "updateTime": "2026-08-31 05:31:15",
   "data": [
     {
       "mgdbId": "120000589813",
@@ -49,12 +49,12 @@
       },
       "nodes": [
         {
-          "pID": "967147059",
-          "name": "全场回放"
-        },
-        {
           "pID": "967143754",
           "name": "全场集锦"
+        },
+        {
+          "pID": "967147059",
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
@@ -104,6 +104,10 @@
         "time": "08月31日01:00"
       },
       "nodes": [
+        {
+          "pID": "967148756",
+          "name": "全场回放（刘钟鸣）"
+        },
         {
           "pID": "967148082",
           "name": "全场回放"
@@ -325,12 +329,12 @@
       },
       "nodes": [
         {
-          "pID": "967027611",
-          "name": "吴奕博"
+          "pID": "967148640",
+          "name": "全场集锦"
         },
         {
-          "pID": "967027602",
-          "name": "赛场原声"
+          "pID": "967148684",
+          "name": "全场回放（吴奕博）"
         }
       ]
     },
@@ -371,7 +375,7 @@
       "matchStatus": "1",
       "matchField": "巴莱多斯球场",
       "competitionName": "西甲",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000586203/667219_H169_sc.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000586203/416955_H169_sc.jpg",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/21/779JJMOFB20H.png",
       "pkInfoTitle": "塞尔塔 vs 毕尔巴鄂竞技",
       "modifyTitle": "西甲联赛",
