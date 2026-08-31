@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-01 01:31:22",
+  "updateTime": "2026-09-01 02:01:27",
   "data": [
     {
       "mgdbId": "120000589820",
@@ -120,7 +120,7 @@
       "title": "男篮世预赛欧洲赛区",
       "keyword": "09月01日02:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "Centro de Desportos e Congressos de Matosinhos",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/30/77L7JNHN7K9F.jpg",
@@ -144,14 +144,14 @@
     },
     {
       "mgdbId": "120000591727",
-      "pID": "967153615",
+      "pID": "967153651",
       "title": "肖国栋VS江俊 希金斯塞尔比出战",
       "keyword": "09月01日02:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "斯诺克",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/01/77N82RMISF7J.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "肖国栋VS江俊 希金斯塞尔比出战",
       "modifyTitle": "斯诺克英国公开赛：肖国栋VS江俊 希金斯塞尔比出战",
@@ -160,6 +160,10 @@
         "time": "09月01日02:00"
       },
       "nodes": [
+        {
+          "pID": "967153651",
+          "name": "朱峰立"
+        },
         {
           "pID": "967153615",
           "name": "1号桌"
@@ -175,10 +179,6 @@
         {
           "pID": "967153646",
           "name": "4号桌"
-        },
-        {
-          "pID": "967153651",
-          "name": "朱峰立"
         }
       ]
     },
