@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-31 07:31:08",
+  "updateTime": "2026-08-31 08:01:18",
   "data": [
     {
       "mgdbId": "120000589813",
@@ -145,8 +145,8 @@
     {
       "mgdbId": "120000586204",
       "pID": "966999007",
-      "title": "西甲联��",
-      "keyword": "08月31日01:30",
+      "title": "西甲联赛",
+      "keyword": "08���31日01:30",
       "sportItemId": "1",
       "matchStatus": "2",
       "matchField": "Estadio Abanca-Riazor",
@@ -157,7 +157,7 @@
       "modifyTitle": "西甲联赛",
       "presenters": "孙雨轩",
       "matchInfo": {
-        "time": "08月31日01:30"
+        "time": "08���31日01:30"
       },
       "nodes": [
         {
@@ -217,6 +217,10 @@
       },
       "nodes": [
         {
+          "pID": "967151291",
+          "name": "全场回放"
+        },
+        {
           "pID": "967149572",
           "name": "全场集锦"
         }
@@ -240,6 +244,10 @@
         "time": "08月31日02:30"
       },
       "nodes": [
+        {
+          "pID": "967151332",
+          "name": "全场回放"
+        },
         {
           "pID": "967149769",
           "name": "全场集锦"
@@ -391,7 +399,7 @@
       "pID": "966490346",
       "title": "咪咕体育日报 第166期",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "咪咕体育日报",
       "padImg": "",
