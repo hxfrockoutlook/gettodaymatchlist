@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-08-31 21:31:19",
+  "updateTime": "2026-08-31 22:01:25",
   "data": [
     {
       "mgdbId": "120000589813",
@@ -420,7 +420,7 @@
       "title": "中国速度攀岩系列赛（湖南长沙站）Day3",
       "keyword": "08月31日17:30",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "攀岩系列赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/30/77L7JBBO9U60.png",
@@ -464,7 +464,7 @@
     },
     {
       "mgdbId": "120000589794",
-      "pID": "966984550",
+      "pID": "967163577",
       "title": "男篮世预赛亚洲赛区",
       "keyword": "08月31日18:00",
       "sportItemId": "2",
@@ -480,6 +480,10 @@
         "time": "08月31日18:00"
       },
       "nodes": [
+        {
+          "pID": "967163577",
+          "name": "全场集锦"
+        },
         {
           "pID": "967163241",
           "name": "全场回放（盛哲）"
@@ -540,14 +544,14 @@
     },
     {
       "mgdbId": "120000589793",
-      "pID": "966984677",
+      "pID": "967164019",
       "title": "男篮世预赛亚洲赛区",
       "keyword": "08月31日19:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Xishi Basketball Center",
       "competitionName": "男篮世预赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/29/77L6JVCOHCHN.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/31/77L8FV9VMB6T.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/11/26/10000000019110696ecb.jpg",
       "pkInfoTitle": "中国vs黎巴嫩",
       "modifyTitle": "男篮世预赛亚洲赛区",
@@ -557,16 +561,24 @@
       },
       "nodes": [
         {
-          "pID": "966984677",
-          "name": "庄宁宇 杨鸣 陈正昊"
+          "pID": "967164019",
+          "name": "全场集锦"
         },
         {
-          "pID": "966984691",
-          "name": "连睿 周琦 周鹏"
+          "pID": "967163038",
+          "name": "第一节"
         },
         {
-          "pID": "966984699",
-          "name": "赛场原声"
+          "pID": "967163231",
+          "name": "第二节"
+        },
+        {
+          "pID": "967163587",
+          "name": "第三节"
+        },
+        {
+          "pID": "967164156",
+          "name": "第四节"
         }
       ]
     },
@@ -576,7 +588,7 @@
       "title": "湘超",
       "keyword": "08月31日19:38",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "湘超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000587747/202608111545_594700_H169_1080.webp",
@@ -617,6 +629,10 @@
           "name": "解说：乔迁"
         },
         {
+          "pID": "967153573",
+          "name": "柏林"
+        },
+        {
           "pID": "967153419",
           "name": "1号桌"
         },
@@ -631,10 +647,6 @@
         {
           "pID": "967153537",
           "name": "4号桌"
-        },
-        {
-          "pID": "967153573",
-          "name": "柏林"
         }
       ]
     },
@@ -643,7 +655,7 @@
       "pID": "967051975",
       "title": "早安美网第一期",
       "sportItemId": "9",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "美国网球公开赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/31/77L8EETBJ27V.jpg",
@@ -661,7 +673,7 @@
     },
     {
       "mgdbId": "120000591461",
-      "pID": "967048491",
+      "pID": "967049001",
       "title": "萨巴伦卡、阿尔卡拉斯接连出战！",
       "keyword": "08月31日23:00",
       "sportItemId": "9",
@@ -672,11 +684,15 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg",
       "pkInfoTitle": "萨巴伦卡、阿尔卡拉斯接连出战！",
       "modifyTitle": "美国网球公开赛正赛男女单打第一轮：萨巴伦卡、阿尔卡拉斯接连出战！",
-      "presenters": "李宁 刘钟鸣 单文强 鸿昆 宋光振 乔迁 胡力涛 郭丰庆",
+      "presenters": "李宁 刘钟鸣 单文强 鸿昆 乔迁 宋光振 胡力涛 郭丰庆",
       "matchInfo": {
         "time": "08月31日23:00"
       },
       "nodes": [
+        {
+          "pID": "967049001",
+          "name": "阿瑟・阿什球场"
+        },
         {
           "pID": "967157064",
           "name": "李宁 刘钟鸣"
@@ -688,10 +704,6 @@
         {
           "pID": "967157134",
           "name": "鸿昆"
-        },
-        {
-          "pID": "967049001",
-          "name": "阿瑟・阿什球场"
         },
         {
           "pID": "967048545",
@@ -751,7 +763,7 @@
         },
         {
           "pID": "967157788",
-          "name": "���迁"
+          "name": "乔迁"
         },
         {
           "pID": "967157895",
@@ -782,7 +794,7 @@
     {
       "mgdbId": "120000591713",
       "pID": "967157064",
-      "title": "2026美国网球公开赛女单第一轮：郑钦文vs��托娃",
+      "title": "2026美国网球公开赛女单第一轮：郑钦文vs柳托娃",
       "keyword": "08月31日23:00",
       "sportItemId": "9",
       "matchStatus": "0",
