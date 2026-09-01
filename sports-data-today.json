@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-01 10:01:26",
+  "updateTime": "2026-09-01 10:58:22",
   "data": [
     {
       "mgdbId": "120000589820",
@@ -376,7 +376,7 @@
       "title": "2026美国网球公开赛男单第一轮：商竣程 vs 特兰杰里迪",
       "keyword": "09月01日05:25",
       "sportItemId": "9",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "美国网球公开赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/31/77L8EF61FVTF.png",
@@ -389,12 +389,8 @@
       },
       "nodes": [
         {
-          "pID": "967157733",
-          "name": "郭丰庆"
-        },
-        {
-          "pID": "967157710",
-          "name": "赛场原声"
+          "pID": "967180082",
+          "name": "全场回放（郭丰庆）"
         }
       ]
     },
@@ -426,7 +422,7 @@
         },
         {
           "pID": "967179211",
-          "name": "全场回放"
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
@@ -460,7 +456,7 @@
     },
     {
       "mgdbId": "120000590578",
-      "pID": "966985585",
+      "pID": "967179301",
       "title": "男篮世预赛美洲赛区",
       "keyword": "09月01日07:10",
       "sportItemId": "2",
@@ -477,14 +473,18 @@
       },
       "nodes": [
         {
-          "pID": "966985585",
-          "name": "赛场原声"
+          "pID": "967179301",
+          "name": "全场集锦"
+        },
+        {
+          "pID": "967179861",
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
     {
       "mgdbId": "120000590584",
-      "pID": "966985576",
+      "pID": "967179214",
       "title": "男篮世预赛美洲赛区",
       "keyword": "09月01日07:10",
       "sportItemId": "2",
@@ -500,6 +500,10 @@
         "time": "09月01日07:10"
       },
       "nodes": [
+        {
+          "pID": "967179214",
+          "name": "全场集锦"
+        },
         {
           "pID": "967179400",
           "name": "全场回放（邢晨）"
@@ -532,10 +536,10 @@
       "title": "男篮世预赛美洲赛区",
       "keyword": "09月01日08:10",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Sir Kendal Isaacs Gymnasium",
       "competitionName": "男篮世预赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/30/77L7GNQ4OBGA.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/01/77N858CORD6V.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/11/26/10000000019110696ecb.jpg",
       "pkInfoTitle": "巴哈马vs巴拿马",
       "modifyTitle": "男篮世预赛美洲赛区",
@@ -545,12 +549,12 @@
       },
       "nodes": [
         {
-          "pID": "966985601",
-          "name": "殷文玉"
+          "pID": "967179893",
+          "name": "全场集锦"
         },
         {
-          "pID": "966985598",
-          "name": "赛场原声"
+          "pID": "967179657",
+          "name": "全场回放（殷文玉）"
         }
       ]
     },
@@ -560,7 +564,7 @@
       "title": "男篮世预赛美洲赛区",
       "keyword": "09月01日08:10",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Palacio de los Deportes",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000590582/202608191426_434069_H169_1080.webp",
@@ -603,6 +607,30 @@
       ]
     },
     {
+      "mgdbId": "120000591868",
+      "pID": "967179825",
+      "title": "JCK战觉城王者系列016：赛前新闻发布会",
+      "keyword": "09月01日16:00",
+      "sportItemId": "5",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "JCK",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/3/31/10000000103110616c76.png",
+      "pkInfoTitle": "JCK战觉城王者系列016：赛前新闻发布会",
+      "modifyTitle": "JCK战觉城王者系列016：赛前新闻发布会",
+      "presenters": "",
+      "matchInfo": {
+        "time": "09月01日16:00"
+      },
+      "nodes": [
+        {
+          "pID": "967179825",
+          "name": "清流播出"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000591754",
       "pID": "967154651",
       "title": "中国篮协“未来杯”国际篮球挑战赛单循环赛",
@@ -619,16 +647,7 @@
       "matchInfo": {
         "time": "09月01日16:30"
       },
-      "nodes": [
-        {
-          "pID": "967154651",
-          "name": "清流播出"
-        },
-        {
-          "pID": "967154658",
-          "name": "赛场原声"
-        }
-      ]
+      "nodes": []
     },
     {
       "mgdbId": "120000591728",
@@ -755,28 +774,7 @@
       "matchInfo": {
         "time": "09月01日19:00"
       },
-      "nodes": [
-        {
-          "pID": "966866250",
-          "name": "赵曦 刘馨蕊"
-        },
-        {
-          "pID": "966866175",
-          "name": "1号桌"
-        },
-        {
-          "pID": "966866198",
-          "name": "2号桌"
-        },
-        {
-          "pID": "966866221",
-          "name": "3号桌"
-        },
-        {
-          "pID": "966866240",
-          "name": "4号桌"
-        }
-      ]
+      "nodes": []
     },
     {
       "mgdbId": "120000591757",
@@ -823,20 +821,7 @@
       "matchInfo": {
         "time": "09月01日19:35"
       },
-      "nodes": [
-        {
-          "pID": "966999283",
-          "name": "石庆圣 刘越 邵凌霄"
-        },
-        {
-          "pID": "966998832",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "967054706",
-          "name": "智能解说"
-        }
-      ]
+      "nodes": []
     },
     {
       "mgdbId": "120000583608",
@@ -937,7 +922,7 @@
     {
       "mgdbId": "120000591464",
       "pID": "967048136",
-      "title": "男女单打第一轮",
+      "title": "高芙、莱巴金娜领衔出战",
       "keyword": "09月01日23:00",
       "sportItemId": "9",
       "matchStatus": "0",
@@ -945,8 +930,8 @@
       "competitionName": "美国网球公开赛",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg",
-      "pkInfoTitle": "男女单打第一轮",
-      "modifyTitle": "美国网球公开赛正赛Day3：男女单打第一轮",
+      "pkInfoTitle": "高芙、莱巴金娜领衔出战",
+      "modifyTitle": "美国网球公开赛正赛Day3男女单打第一轮：高芙、莱巴金娜领衔出战",
       "presenters": "",
       "matchInfo": {
         "time": "09月01日23:00"
