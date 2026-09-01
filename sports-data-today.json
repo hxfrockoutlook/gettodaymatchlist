@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-01 14:31:21",
+  "updateTime": "2026-09-01 15:01:30",
   "data": [
     {
       "mgdbId": "120000589820",
@@ -1003,8 +1003,29 @@
       ]
     },
     {
+      "mgdbId": "300000002285",
+      "pID": "967051994",
+      "title": "《早安美网》第二期",
+      "sportItemId": "9",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "美国网球公开赛",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg",
+      "pkInfoTitle": "《早安美网》第二期",
+      "modifyTitle": "美国网球公开赛特别节目：《早安美网》第二期",
+      "presenters": "",
+      "matchInfo": {},
+      "nodes": [
+        {
+          "pID": "967051994",
+          "name": "早安美网"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000591464",
-      "pID": "967048136",
+      "pID": "967048324",
       "title": "凯斯、小米拉出战 高芙清晨登场",
       "keyword": "09月01日23:00",
       "sportItemId": "9",
@@ -1015,11 +1036,15 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg",
       "pkInfoTitle": "凯斯、小米拉出战 高芙清晨登场",
       "modifyTitle": "美国网球公开赛正赛男女单打第一轮：凯斯、小米拉出战 高芙清晨登场",
-      "presenters": "郭丰庆 宋光振 蔡凯臣 李宁 邱超 单文强 王乐之",
+      "presenters": "李宁",
       "matchInfo": {
         "time": "09月01日23:00"
       },
       "nodes": [
+        {
+          "pID": "967182967",
+          "name": "李宁"
+        },
         {
           "pID": "967048324",
           "name": "阿瑟・阿什球场"
@@ -1071,38 +1096,6 @@
         {
           "pID": "967048151",
           "name": "英文解说"
-        },
-        {
-          "pID": "967182896",
-          "name": "郭丰庆"
-        },
-        {
-          "pID": "967182919",
-          "name": "宋光振"
-        },
-        {
-          "pID": "967182935",
-          "name": "蔡凯臣"
-        },
-        {
-          "pID": "967182967",
-          "name": "李宁"
-        },
-        {
-          "pID": "967183158",
-          "name": "邱超"
-        },
-        {
-          "pID": "967183178",
-          "name": "单文强"
-        },
-        {
-          "pID": "967183197",
-          "name": "单文强"
-        },
-        {
-          "pID": "967183235",
-          "name": "王乐之"
         }
       ]
     },
