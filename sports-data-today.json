@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-01 18:01:29",
+  "updateTime": "2026-09-01 18:31:26",
   "data": [
     {
       "mgdbId": "120000589820",
@@ -660,7 +660,7 @@
       "title": "中国篮协“未来杯”国际篮球挑战赛单循环赛",
       "keyword": "09月01日16:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "中国篮协“未来杯”国际篮球挑战赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/01/77N83G6951SO.jpg",
@@ -672,6 +672,10 @@
         "time": "09月01日16:30"
       },
       "nodes": [
+        {
+          "pID": "967027362",
+          "name": "《中国榜样》篮球季对话王非：留洋归来理念大转变 球员教练要走出国门学习"
+        },
         {
           "pID": "967154658",
           "name": "赛场原声"
@@ -709,12 +713,12 @@
           "name": "1号桌"
         },
         {
-          "pID": "967153690",
-          "name": "2号桌"
-        },
-        {
           "pID": "967153718",
           "name": "4号桌"
+        },
+        {
+          "pID": "967153690",
+          "name": "2号桌"
         }
       ]
     },
@@ -772,7 +776,7 @@
       "title": "北京正大龙VS厦门海豚",
       "keyword": "09月01日18:30",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "CPB中国棒球城市联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/01/77N8324NVMFC.jpg",
@@ -832,7 +836,7 @@
     },
     {
       "mgdbId": "120000591757",
-      "pID": "967154692",
+      "pID": "967154710",
       "title": "中国篮协“未来杯”国际篮球挑战赛单循环赛",
       "keyword": "09月01日19:30",
       "sportItemId": "2",
@@ -849,12 +853,12 @@
       },
       "nodes": [
         {
-          "pID": "967154692",
-          "name": "清流播出"
-        },
-        {
           "pID": "967154710",
           "name": "赛场原声"
+        },
+        {
+          "pID": "967154692",
+          "name": "清流播出"
         }
       ]
     },
