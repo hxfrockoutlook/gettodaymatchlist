@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-01 13:03:02",
+  "updateTime": "2026-09-01 14:01:28",
   "data": [
     {
       "mgdbId": "120000589820",
@@ -286,7 +286,7 @@
       "nodes": [
         {
           "pID": "967177321",
-          "name": "纯享版集锦"
+          "name": "超长版集锦"
         },
         {
           "pID": "967177325",
@@ -600,7 +600,7 @@
     },
     {
       "mgdbId": "120000590580",
-      "pID": "966985610",
+      "pID": "967181955",
       "title": "男篮世预赛美洲赛区",
       "keyword": "09月01日10:10",
       "sportItemId": "2",
@@ -617,8 +617,12 @@
       },
       "nodes": [
         {
-          "pID": "966985610",
-          "name": "赛场原声"
+          "pID": "967181955",
+          "name": "全场集锦"
+        },
+        {
+          "pID": "967182654",
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
@@ -951,7 +955,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "斯诺克",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/01/77N82OKCNBI1.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "赵心童常冰玉登场！吴宜泽VS囧哥",
       "modifyTitle": "斯诺克英国公开赛：赵心童常冰玉登场！吴宜泽VS囧哥",
@@ -991,7 +995,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg",
       "pkInfoTitle": "高芙、莱巴金娜领衔出战",
       "modifyTitle": "美国网球公开赛正赛男女单打第一轮：高芙、莱巴金娜领衔出战",
-      "presenters": "",
+      "presenters": "郭丰庆 宋光振 蔡凯臣 李宁",
       "matchInfo": {
         "time": "09月01日23:00"
       },
@@ -1041,16 +1045,28 @@
           "name": "13号球场"
         },
         {
-          "pID": "967048309",
-          "name": "15号球场"
-        },
-        {
           "pID": "967048136",
           "name": "国际信号"
         },
         {
           "pID": "967048151",
           "name": "英文解说"
+        },
+        {
+          "pID": "967182896",
+          "name": "郭丰庆"
+        },
+        {
+          "pID": "967182919",
+          "name": "宋光振"
+        },
+        {
+          "pID": "967182935",
+          "name": "蔡凯臣"
+        },
+        {
+          "pID": "967182967",
+          "name": "李宁"
         }
       ]
     }
