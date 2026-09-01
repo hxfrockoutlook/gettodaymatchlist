@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-01 16:01:33",
+  "updateTime": "2026-09-01 16:31:24",
   "data": [
     {
       "mgdbId": "120000589820",
@@ -652,11 +652,11 @@
     },
     {
       "mgdbId": "120000591754",
-      "pID": "967154651",
+      "pID": "967154658",
       "title": "中国篮协“未来杯”国际篮球挑战赛单循环赛",
       "keyword": "09月01日16:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "中国篮协“未来杯”国际篮球挑战赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/01/77N83G6951SO.jpg",
@@ -669,12 +669,12 @@
       },
       "nodes": [
         {
-          "pID": "967154651",
-          "name": "清流播出"
-        },
-        {
           "pID": "967154658",
           "name": "赛场原声"
+        },
+        {
+          "pID": "967154651",
+          "name": "清流播出"
         }
       ]
     },
