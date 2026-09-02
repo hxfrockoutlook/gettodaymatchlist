@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-02 23:01:32",
+  "updateTime": "2026-09-02 23:31:25",
   "data": [
     {
       "mgdbId": "120000590062",
@@ -617,10 +617,10 @@
       "title": "意大利杯第二轮",
       "keyword": "09月02日21:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "三色旗市政球场",
       "competitionName": "意大利杯",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000590050/971253_H169_sc.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/02/77N92PS9A3QC.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2022/4/19/10000000076810647c0c.png",
       "pkInfoTitle": "萨索洛 vs 佛罗西诺内",
       "modifyTitle": "意大利杯第二轮",
@@ -630,12 +630,8 @@
       },
       "nodes": [
         {
-          "pID": "967027397",
-          "name": "涂远"
-        },
-        {
-          "pID": "967027385",
-          "name": "赛场原声"
+          "pID": "967208835",
+          "name": "全场集锦"
         }
       ]
     },
@@ -657,6 +653,10 @@
         "time": "09月02日23:00"
       },
       "nodes": [
+        {
+          "pID": "967200581",
+          "name": "于筱睿"
+        },
         {
           "pID": "967200872",
           "name": "宋光振"
@@ -698,14 +698,6 @@
           "name": "12号球场"
         },
         {
-          "pID": "967048600",
-          "name": "13号球场"
-        },
-        {
-          "pID": "967200994",
-          "name": "15号球场"
-        },
-        {
           "pID": "967048350",
           "name": "国际信号"
         },
@@ -714,12 +706,16 @@
           "name": "英文解说"
         },
         {
-          "pID": "967200581",
-          "name": "于筱睿"
-        },
-        {
           "pID": "967048421",
           "name": "阿瑟・阿什球场"
+        },
+        {
+          "pID": "967048600",
+          "name": "13号球场"
+        },
+        {
+          "pID": "967200994",
+          "name": "15号球场"
         }
       ]
     }
