@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-02 14:31:14",
+  "updateTime": "2026-09-02 15:01:20",
   "data": [
     {
       "mgdbId": "120000590062",
@@ -209,28 +209,24 @@
       },
       "nodes": [
         {
-          "pID": "967182943",
-          "name": "鸿昆"
-        },
-        {
-          "pID": "967182938",
-          "name": "赛场原声"
+          "pID": "967199701",
+          "name": "全场回放（鸿昆）"
         }
       ]
     },
     {
       "mgdbId": "120000591922",
       "pID": "967188684",
-      "title": "李诗沣出战！娃卉组合晋级16强",
+      "title": "娃卉组合晋级16强！李诗沣止步首轮",
       "keyword": "09月02日12:55",
       "sportItemId": "6",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "BWF",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/02/77N8VVEI4H8R.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/02/77N908LJITJC.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
-      "pkInfoTitle": "李诗沣出战！娃卉组合晋级16强",
-      "modifyTitle": "2026中国羽毛球大师赛第一轮：李诗沣出战！娃卉组合晋级16强",
+      "pkInfoTitle": "娃卉组合晋级16强！李诗沣止步首轮",
+      "modifyTitle": "2026中国羽毛球大师赛第一轮：娃卉组合晋级16强！李诗沣止步首轮",
       "presenters": "",
       "matchInfo": {
         "time": "09月02日12:55"
@@ -312,7 +308,7 @@
     },
     {
       "mgdbId": "120000591731",
-      "pID": "967153469",
+      "pID": "967199404",
       "title": "四场中英对决！雷佩凡PK塞尔比",
       "keyword": "09月02日17:00",
       "sportItemId": "8",
@@ -329,6 +325,10 @@
       },
       "nodes": [
         {
+          "pID": "967199404",
+          "name": "解说"
+        },
+        {
           "pID": "967153469",
           "name": "1号桌"
         },
@@ -343,10 +343,6 @@
         {
           "pID": "967153552",
           "name": "4号桌"
-        },
-        {
-          "pID": "967199404",
-          "name": "陶哲铭"
         }
       ]
     },
@@ -359,7 +355,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "NBA经典赛事",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/02/77N909UTF4V2.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png",
       "pkInfoTitle": "NBA精彩重播：魔术vs湖人",
       "modifyTitle": "NBA经典赛事",
@@ -431,7 +427,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/01/77N85N2U10KK.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/02/77N90A9RMEVO.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "倪夏莲冲开门红、方博男双迎首秀",
       "modifyTitle": "WTT阿拉木图常规挑战赛男女单打资格赛第二轮、男双资格赛第一轮",
@@ -548,7 +544,7 @@
     },
     {
       "mgdbId": "120000591732",
-      "pID": "967153586",
+      "pID": "967199398",
       "title": "白雨露王信伯墨菲出战 赵心童接台",
       "keyword": "09月02日20:00",
       "sportItemId": "8",
@@ -559,11 +555,15 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "白雨露王信伯墨菲出战 赵心童接台",
       "modifyTitle": "斯诺克英国公开赛：白雨露王信伯墨菲出战 赵心童接台",
-      "presenters": "秦正 乔迁",
+      "presenters": "乔迁 秦正",
       "matchInfo": {
         "time": "09月02日20:00"
       },
       "nodes": [
+        {
+          "pID": "967199398",
+          "name": "解说"
+        },
         {
           "pID": "967153586",
           "name": "1号桌"
@@ -583,10 +583,6 @@
         {
           "pID": "967199389",
           "name": "秦正"
-        },
-        {
-          "pID": "967199398",
-          "name": "乔迁"
         }
       ]
     },
@@ -704,6 +700,10 @@
         {
           "pID": "967048395",
           "name": "英文解说"
+        },
+        {
+          "pID": "967200059",
+          "name": "6号球场"
         }
       ]
     }
