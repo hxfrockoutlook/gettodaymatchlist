@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-02 21:31:14",
+  "updateTime": "2026-09-02 22:01:26",
   "data": [
     {
       "mgdbId": "120000590062",
@@ -58,7 +58,7 @@
         },
         {
           "pID": "967194281",
-          "name": "【回放】米歇尔·曼恩3-4杰克·利索夫斯基（��场原声）"
+          "name": "【回放】米歇尔·曼恩3-4杰克·利索夫斯基（赛场原声）"
         },
         {
           "pID": "967194135",
@@ -377,16 +377,16 @@
     {
       "mgdbId": "120000587551",
       "pID": "967034486",
-      "title": "福州海侠VS长沙旺旺",
+      "title": "福州海侠5-4长沙旺旺",
       "keyword": "09月02日18:00",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "CPB中国棒球城市联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/01/77N83408NFKU.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/8/10/100000001517106f3b81.png",
-      "pkInfoTitle": "福州海侠VS长沙旺旺",
-      "modifyTitle": "CPB中国棒球城市联赛：福州海侠VS长沙旺旺",
+      "pkInfoTitle": "福州海侠5-4长沙旺旺",
+      "modifyTitle": "CPB中国棒球城市联赛：福州海侠5-4长沙旺旺",
       "presenters": "",
       "matchInfo": {
         "time": "09月02日18:00"
@@ -401,16 +401,16 @@
     {
       "mgdbId": "120000587552",
       "pID": "967034511",
-      "title": "北京正大龙VS厦门海豚",
+      "title": "北京正大龙3-1厦门海豚",
       "keyword": "09月02日18:30",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "CPB中国棒球城市联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/01/77N833CN6IGN.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/8/10/100000001517106f3b81.png",
-      "pkInfoTitle": "北京正大龙VS厦门海豚",
-      "modifyTitle": "CPB中国棒球城市联赛：北京正大龙VS厦门海豚",
+      "pkInfoTitle": "北京正大龙3-1厦门海豚",
+      "modifyTitle": "CPB中国棒球城市联赛：北京正大龙3-1厦门海豚",
       "presenters": "",
       "matchInfo": {
         "time": "09月02日18:30"
@@ -424,7 +424,7 @@
     },
     {
       "mgdbId": "120000590653",
-      "pID": "966866425",
+      "pID": "966866379",
       "title": "倪夏莲五局险胜、方博男双首秀迎横扫",
       "keyword": "09月02日19:00",
       "sportItemId": "7",
@@ -441,12 +441,16 @@
       },
       "nodes": [
         {
-          "pID": "966866425",
-          "name": "徐铭辰"
-        },
-        {
           "pID": "966866379",
           "name": "1号桌"
+        },
+        {
+          "pID": "966866417",
+          "name": "4号桌"
+        },
+        {
+          "pID": "966866425",
+          "name": "徐铭辰"
         },
         {
           "pID": "966866399",
@@ -455,10 +459,6 @@
         {
           "pID": "966866405",
           "name": "3号桌"
-        },
-        {
-          "pID": "966866417",
-          "name": "4号桌"
         }
       ]
     },
@@ -524,10 +524,10 @@
       "title": "足协杯1/4决赛",
       "keyword": "09月02日20:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "玉溪高原体育运动中心体育场",
       "competitionName": "足协杯",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000583607/391392_H169_sc.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/02/77N92B4JBUSN.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/210621e32.png",
       "pkInfoTitle": "云南玉昆 vs 重庆铜梁龙",
       "modifyTitle": "足协杯1/4决赛",
@@ -569,6 +569,10 @@
       },
       "nodes": [
         {
+          "pID": "967199389",
+          "name": "秦正"
+        },
+        {
           "pID": "967199398",
           "name": "解说"
         },
@@ -587,10 +591,6 @@
         {
           "pID": "967153666",
           "name": "4号桌"
-        },
-        {
-          "pID": "967199389",
-          "name": "秦正"
         }
       ]
     },
@@ -656,22 +656,14 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg",
       "pkInfoTitle": "萨巴伦卡出战！阿卡压场亮相",
       "modifyTitle": "美国网球公开赛正赛男女单打第一轮：萨巴伦卡出战！阿卡压场亮相",
-      "presenters": "于筱睿 鸿昆 刘钟鸣 郭丰庆 胡力涛 单文强 李宁 宋光振 蔡凯臣",
+      "presenters": "于筱睿 宋光振",
       "matchInfo": {
         "time": "09月02日23:00"
       },
       "nodes": [
         {
-          "pID": "967200488",
-          "name": "郭丰庆"
-        },
-        {
-          "pID": "967200518",
-          "name": "单文强"
-        },
-        {
-          "pID": "967200541",
-          "name": "李宁"
+          "pID": "967200872",
+          "name": "宋光振"
         },
         {
           "pID": "967048421",
@@ -692,6 +684,10 @@
         {
           "pID": "967048498",
           "name": "5号球场"
+        },
+        {
+          "pID": "967200059",
+          "name": "6号球场"
         },
         {
           "pID": "967048515",
@@ -726,40 +722,8 @@
           "name": "英文解说"
         },
         {
-          "pID": "967200059",
-          "name": "6号球场"
-        },
-        {
           "pID": "967200581",
           "name": "于筱睿"
-        },
-        {
-          "pID": "967200636",
-          "name": "鸿昆"
-        },
-        {
-          "pID": "967200784",
-          "name": "刘钟鸣"
-        },
-        {
-          "pID": "967200817",
-          "name": "胡力涛"
-        },
-        {
-          "pID": "967200872",
-          "name": "宋光振"
-        },
-        {
-          "pID": "967200922",
-          "name": "宋光振"
-        },
-        {
-          "pID": "967200946",
-          "name": "蔡凯臣"
-        },
-        {
-          "pID": "967200970",
-          "name": "蔡凯臣"
         }
       ]
     }
