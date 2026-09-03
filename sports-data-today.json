@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-04 02:01:37",
+  "updateTime": "2026-09-04 02:31:27",
   "data": [
     {
       "mgdbId": "120000590063",
@@ -8,7 +8,7 @@
       "title": "意大利杯第二轮",
       "keyword": "09月04日00:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "巴尔贝拉球场",
       "competitionName": "意大利杯",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000590063/202608180531_587547_H169_1080.webp",
@@ -32,7 +32,7 @@
     },
     {
       "mgdbId": "120000591735",
-      "pID": "967153809",
+      "pID": "967153844",
       "title": "吕昊天对阵小司机 赵心童接台出战",
       "keyword": "09月04日02:00",
       "sportItemId": "8",
@@ -67,40 +67,12 @@
       ]
     },
     {
-      "mgdbId": "120000592320",
-      "pID": "967220805",
-      "title": "2026美国网球公开赛女单第二轮：郑钦文 vs 普丁塞娃",
-      "keyword": "09月04日02:30",
-      "sportItemId": "9",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "美国网球公开赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/03/77N9TS06AKMT.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg",
-      "pkInfoTitle": "郑钦文 vs 普丁塞娃",
-      "modifyTitle": "2026美国网球公开赛女单第二轮：郑钦文 vs 普丁塞娃",
-      "presenters": "刘钟鸣 蔡凯臣",
-      "matchInfo": {
-        "time": "09月04日02:30"
-      },
-      "nodes": [
-        {
-          "pID": "967220805",
-          "name": "刘钟鸣 蔡凯臣"
-        },
-        {
-          "pID": "967222618",
-          "name": "赛场原声"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000584501",
       "pID": "967213721",
       "title": "法甲联赛",
       "keyword": "09月04日02:45",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "Stadium de Toulouse",
       "competitionName": "法甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000584501/265057_H169_sc.jpg",
@@ -170,6 +142,34 @@
         },
         {
           "pID": "967027287",
+          "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000592320",
+      "pID": "967220805",
+      "title": "2026美国网球公开赛女单第二轮：郑钦文 vs 普丁塞娃",
+      "keyword": "09月04日03:00",
+      "sportItemId": "9",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "美国网球公开赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/03/77N9TS06AKMT.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg",
+      "pkInfoTitle": "郑钦文 vs 普丁塞娃",
+      "modifyTitle": "2026美国网球公开赛女单第二轮：郑钦文 vs 普丁塞娃",
+      "presenters": "刘钟鸣 蔡凯臣",
+      "matchInfo": {
+        "time": "09月04日03:00"
+      },
+      "nodes": [
+        {
+          "pID": "967220805",
+          "name": "刘钟鸣 蔡凯臣"
+        },
+        {
+          "pID": "967222618",
           "name": "赛场原声"
         }
       ]
