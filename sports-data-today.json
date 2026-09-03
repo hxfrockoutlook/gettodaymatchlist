@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-03 10:01:07",
+  "updateTime": "2026-09-03 10:31:03",
   "data": [
     {
       "mgdbId": "120000589761",
@@ -107,6 +107,10 @@
         {
           "pID": "967212173",
           "name": "26/27赛季斯诺克英国公开赛第3轮回放：凯伦·威尔逊1-4利亚姆·海菲尔德（赛场原声）"
+        },
+        {
+          "pID": "967213303",
+          "name": "26/27赛季斯诺克英国公开赛第3轮回放：庞俊旭0-4马克·乔伊斯（赛场原声）"
         }
       ]
     },
@@ -195,7 +199,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "BWF",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/02/77N92189C9G9.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/03/77N9VBV5VEOA.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "中国羽毛球大师赛第二轮",
       "modifyTitle": "中国羽毛球大师赛第二轮：韩千禧、凤凰组合和翁泓阳轮番登场",
@@ -230,30 +234,6 @@
       "nodes": [
         {
           "pID": "967181044",
-          "name": "解说"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000591325",
-      "pID": "966998686",
-      "title": "障碍跑世界锦标赛Day1",
-      "keyword": "09月03日10:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "UIPM障碍跑世界锦标赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/02/77N92PU79OLB.png",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/8/26/10000000153010618024.png",
-      "pkInfoTitle": "障碍跑世界锦标赛Day1",
-      "modifyTitle": "障碍跑世界锦标赛Day1",
-      "presenters": "",
-      "matchInfo": {
-        "time": "09月03日10:00"
-      },
-      "nodes": [
-        {
-          "pID": "966998686",
           "name": "解说"
         }
       ]
@@ -463,6 +443,30 @@
         {
           "pID": "967155027",
           "name": "清流播出"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000591325",
+      "pID": "966998686",
+      "title": "障碍跑世界锦标赛Day1",
+      "keyword": "09月03日20:00",
+      "sportItemId": "8",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "UIPM障碍跑世界锦标赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/02/77N92PU79OLB.png",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/8/26/10000000153010618024.png",
+      "pkInfoTitle": "障碍跑世界锦标赛Day1",
+      "modifyTitle": "障碍跑世界锦标赛Day1",
+      "presenters": "",
+      "matchInfo": {
+        "time": "09月03日20:00"
+      },
+      "nodes": [
+        {
+          "pID": "966998686",
+          "name": "解说"
         }
       ]
     },
