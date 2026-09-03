@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-03 17:31:19",
+  "updateTime": "2026-09-03 18:01:13",
   "data": [
     {
       "mgdbId": "120000589761",
@@ -253,7 +253,7 @@
     {
       "mgdbId": "120000590654",
       "pID": "966866157",
-      "title": "方博3-1挺进16强 户上/早田横扫晋级",
+      "title": "方博单打挺进16强 户上/早田横扫晋级",
       "keyword": "09月03日13:00",
       "sportItemId": "7",
       "matchStatus": "1",
@@ -261,7 +261,7 @@
       "competitionName": "WTT",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/03/77N9TLRO6A70.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "方博3-1挺进16强 户上/早田横扫晋级",
+      "pkInfoTitle": "方博单打挺进16强 户上/早田横扫晋级",
       "modifyTitle": "WTT阿拉木图常规挑战赛男女单打1/16决赛、双打1/8决赛",
       "presenters": "凌维康 刘馨蕊",
       "matchInfo": {
@@ -273,12 +273,12 @@
           "name": "凌维康 刘馨蕊"
         },
         {
-          "pID": "966866127",
-          "name": "4号桌"
-        },
-        {
           "pID": "966866076",
           "name": "1号桌"
+        },
+        {
+          "pID": "966866127",
+          "name": "4号桌"
         },
         {
           "pID": "966866096",
@@ -296,7 +296,7 @@
       "title": "围甲联赛第13轮",
       "keyword": "09月03日14:00",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "中国围棋甲级联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/02/77N92REPBPJG.png",
@@ -376,7 +376,7 @@
       "title": "NBA精彩重播：湖人vs太阳",
       "keyword": "09月03日18:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA经典赛事",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/03/77N9TJ6TBEVD.png",
@@ -529,6 +529,14 @@
       },
       "nodes": [
         {
+          "pID": "967214389",
+          "name": "解说"
+        },
+        {
+          "pID": "967153769",
+          "name": "3号桌"
+        },
+        {
           "pID": "967153737",
           "name": "1号桌"
         },
@@ -537,16 +545,8 @@
           "name": "2号桌"
         },
         {
-          "pID": "967153769",
-          "name": "3号桌"
-        },
-        {
           "pID": "967153784",
           "name": "4号桌"
-        },
-        {
-          "pID": "967214389",
-          "name": "陶哲铭"
         },
         {
           "pID": "967214403",
@@ -704,6 +704,38 @@
         {
           "pID": "967220713",
           "name": "李宁"
+        },
+        {
+          "pID": "967230908",
+          "name": "1号体育馆球场"
+        },
+        {
+          "pID": "967230913",
+          "name": "2号体育馆球场"
+        },
+        {
+          "pID": "967230920",
+          "name": "1号比赛球场"
+        },
+        {
+          "pID": "967230936",
+          "name": "3号比赛球场"
+        },
+        {
+          "pID": "967230942",
+          "name": "5号比赛球场"
+        },
+        {
+          "pID": "967230949",
+          "name": "6号比赛球场"
+        },
+        {
+          "pID": "967230951",
+          "name": "8号比赛球场"
+        },
+        {
+          "pID": "967230960",
+          "name": "10号比赛球场"
         }
       ]
     }
