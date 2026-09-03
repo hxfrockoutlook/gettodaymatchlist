@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-03 21:01:16",
+  "updateTime": "2026-09-03 21:31:10",
   "data": [
     {
       "mgdbId": "120000589761",
@@ -445,16 +445,16 @@
     {
       "mgdbId": "120000587911",
       "pID": "966737966",
-      "title": "太原市VS阳泉市",
+      "title": "太原市82-91阳泉市",
       "keyword": "09月03日19:20",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "晋超联赛",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/6/17/100000001493106c8171.png",
-      "pkInfoTitle": "太原市VS阳泉市",
-      "modifyTitle": "太原市VS阳泉市",
+      "pkInfoTitle": "太原市82-91阳泉市",
+      "modifyTitle": "太原市82-91阳泉市",
       "presenters": "",
       "matchInfo": {
         "time": "09月03日19:20"
@@ -468,11 +468,11 @@
     },
     {
       "mgdbId": "120000591761",
-      "pID": "967155057",
+      "pID": "967121935",
       "title": "中国篮协“未来杯”国际篮球挑战赛单循环赛",
       "keyword": "09月03日19:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "中国篮协“未来杯”国际篮球挑战赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/03/77N9TJE5DEEU.png",
@@ -484,6 +484,10 @@
         "time": "09月03日19:30"
       },
       "nodes": [
+        {
+          "pID": "967121935",
+          "name": "《中国榜样》篮球季对话孙军：03年打韩国印象最深 现在球员细节不如我们"
+        },
         {
           "pID": "967155057",
           "name": "赛场原声"
@@ -506,7 +510,7 @@
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/02/77N92PU79OLB.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/8/26/10000000153010618024.png",
       "pkInfoTitle": "障碍跑世界锦标赛Day1",
-      "modifyTitle": "障碍跑世界锦标赛Day1",
+      "modifyTitle": "障碍跑世界锦标���Day1",
       "presenters": "",
       "matchInfo": {
         "time": "09月03日20:00"
@@ -567,7 +571,7 @@
       "pID": "967052044",
       "title": "《早安美网》第四期",
       "sportItemId": "9",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "美国网球公开赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/03/77N9TJS5MU4Q.jpg",
@@ -597,7 +601,7 @@
     },
     {
       "mgdbId": "120000591466",
-      "pID": "967048184",
+      "pID": "967048149",
       "title": "斯瓦泰克、大坂直美率先出战",
       "keyword": "09月03日23:00",
       "sportItemId": "9",
@@ -608,22 +612,34 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg",
       "pkInfoTitle": "斯瓦泰克、大坂直美率先出战",
       "modifyTitle": "美国网球公开赛正赛男女单第2轮、女双第1轮：斯瓦泰克、大坂直美出战",
-      "presenters": "鸿昆 张启旸 乔迁 邱超 单文强 宋光振 胡力涛 李宁",
+      "presenters": "宋光振 鸿昆 乔迁 邱超 单文强 胡力涛 李宁",
       "matchInfo": {
         "time": "09月03日23:00"
       },
       "nodes": [
         {
-          "pID": "967048184",
-          "name": "大看台球场"
+          "pID": "967220621",
+          "name": "宋光振"
         },
         {
           "pID": "967048149",
           "name": "阿瑟・阿什球场"
         },
         {
+          "pID": "967231818",
+          "name": "同声传译"
+        },
+        {
           "pID": "967048165",
           "name": "路易斯・阿姆斯特朗球场"
+        },
+        {
+          "pID": "967232826",
+          "name": "同声传译"
+        },
+        {
+          "pID": "967048184",
+          "name": "大看台球场"
         },
         {
           "pID": "967048195",
@@ -674,10 +690,6 @@
           "name": "鸿昆"
         },
         {
-          "pID": "967220553",
-          "name": "张启旸"
-        },
-        {
           "pID": "967220566",
           "name": "乔迁"
         },
@@ -692,66 +704,6 @@
         {
           "pID": "967220612",
           "name": "单文强"
-        },
-        {
-          "pID": "967220621",
-          "name": "宋光振"
-        },
-        {
-          "pID": "967220638",
-          "name": "胡力涛"
-        },
-        {
-          "pID": "967220674",
-          "name": "胡力涛"
-        },
-        {
-          "pID": "967220687",
-          "name": "李宁"
-        },
-        {
-          "pID": "967220713",
-          "name": "李宁"
-        },
-        {
-          "pID": "967230908",
-          "name": "1号体育馆球场"
-        },
-        {
-          "pID": "967230913",
-          "name": "2号体育馆球场"
-        },
-        {
-          "pID": "967230920",
-          "name": "1号比赛球场"
-        },
-        {
-          "pID": "967230936",
-          "name": "3号比赛球场"
-        },
-        {
-          "pID": "967230942",
-          "name": "5号比赛球场"
-        },
-        {
-          "pID": "967230949",
-          "name": "6号比赛球场"
-        },
-        {
-          "pID": "967230951",
-          "name": "8号比赛球场"
-        },
-        {
-          "pID": "967230960",
-          "name": "10号比赛球场"
-        },
-        {
-          "pID": "967231818",
-          "name": "AI同声传译"
-        },
-        {
-          "pID": "967232826",
-          "name": "AI同声传译"
         }
       ]
     }
