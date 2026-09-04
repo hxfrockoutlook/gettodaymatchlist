@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-05 01:33:06",
+  "updateTime": "2026-09-05 02:03:01",
   "data": [
     {
       "mgdbId": "120000584504",
@@ -32,7 +32,7 @@
       "title": "斯诺克英国公开赛：赵心童PK特鲁姆普 琼斯VS希尔",
       "keyword": "09月05日02:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/04/77NAR1N5K7EB.png",
@@ -64,7 +64,7 @@
       "title": "英女超联赛",
       "keyword": "09月05日02:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "H2T集团体育场",
       "competitionName": "英女超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000592181/202609021011_234735_H169_1080.webp",
@@ -88,7 +88,7 @@
       "title": "2026美国网球公开赛男单第三轮：吴易昺 vs 阿尔卡拉斯",
       "keyword": "09月05日02:00",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "美国网球公开赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/04/77NAQQ8VBD6Q.jpg",
@@ -2571,6 +2571,38 @@
         {
           "pID": "967213834",
           "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000587905",
+      "pID": "120000587905",
+      "title": "UFC格斗之夜巴黎站：霍克VS帕纳斯",
+      "keyword": "09月05日23:55",
+      "sportItemId": "",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "UFC格斗之夜",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/07/08/11005/392899ba0e5d4bd9943e8a570a293b74/392899ba0e5d4bd9943e8a570a293b74_H169_P1080_WEBP.webp",
+      "competitionLogo": "",
+      "pkInfoTitle": "UFC格斗之夜巴黎站：霍克VS帕纳斯",
+      "modifyTitle": "UFC格斗之夜巴黎站：霍克VS帕纳斯",
+      "presenters": "",
+      "matchInfo": {
+        "time": "09月05日23:55"
+      },
+      "nodes": [
+        {
+          "pID": "967199844",
+          "name": "郑文祺 张波"
+        },
+        {
+          "pID": "967199824",
+          "name": "英文原声"
+        },
+        {
+          "pID": "967212051",
+          "name": "智能字幕"
         }
       ]
     },
