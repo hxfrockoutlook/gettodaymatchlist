@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-05 04:03:04",
+  "updateTime": "2026-09-05 04:32:44",
   "data": [
     {
       "mgdbId": "120000584504",
@@ -28,8 +28,8 @@
     },
     {
       "mgdbId": "120000591737",
-      "pID": "967257131",
-      "title": "斯诺克英国公开赛：赵心童PK特鲁姆普 琼斯VS希尔",
+      "pID": "967153922",
+      "title": "斯诺克英国公开赛：赵心童1-5特鲁姆普 琼斯VS希尔",
       "keyword": "09月05日02:00",
       "sportItemId": "8",
       "matchStatus": "1",
@@ -37,13 +37,17 @@
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/04/77NAR1N5K7EB.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "赵心童PK特鲁姆普 琼斯VS希尔",
-      "modifyTitle": "斯诺克英国公开赛：赵心童PK特鲁姆普 琼斯VS希尔",
+      "pkInfoTitle": "赵心童1-5特鲁姆普 琼斯VS希尔",
+      "modifyTitle": "斯诺克英国公开赛：赵心童1-5特鲁姆普 琼斯VS希尔",
       "presenters": "朱峰立",
       "matchInfo": {
         "time": "09月05日02:00"
       },
       "nodes": [
+        {
+          "pID": "967153922",
+          "name": "希尔VS琼斯"
+        },
         {
           "pID": "967257131",
           "name": "解说"
@@ -51,10 +55,6 @@
         {
           "pID": "967153910",
           "name": "现场原声"
-        },
-        {
-          "pID": "967153922",
-          "name": "希尔VS琼斯"
         }
       ]
     },
@@ -112,7 +112,7 @@
     },
     {
       "mgdbId": "120000591209",
-      "pID": "967283049",
+      "pID": "967286416",
       "title": "女篮世界杯小组赛",
       "keyword": "09月05日02:15",
       "sportItemId": "2",
@@ -129,20 +129,8 @@
       },
       "nodes": [
         {
-          "pID": "967283049",
-          "name": "反超比分！库巴伊妙传塞西莉亚快攻轻取两分"
-        },
-        {
-          "pID": "967221432",
-          "name": "石楷文"
-        },
-        {
-          "pID": "967199278",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "967221676",
-          "name": "英文解说"
+          "pID": "967286416",
+          "name": "全场集锦"
         }
       ]
     },
@@ -152,10 +140,10 @@
       "title": "德甲联赛",
       "keyword": "09月05日02:30",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "斯图加特体育场",
       "competitionName": "德甲",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000588219/390877_H169_sc.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000588219/493377_H169_sc.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png",
       "pkInfoTitle": "斯图加特 vs 科隆",
       "modifyTitle": "德甲联赛",
@@ -229,12 +217,12 @@
           "name": "江忠德"
         },
         {
-          "pID": "967214121",
-          "name": "英文原声"
-        },
-        {
           "pID": "967231356",
           "name": "4K赛场原声"
+        },
+        {
+          "pID": "967214121",
+          "name": "英文原声"
         }
       ]
     },
