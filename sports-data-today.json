@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-04 17:01:44",
+  "updateTime": "2026-09-04 17:31:40",
   "data": [
     {
       "mgdbId": "120000590063",
@@ -396,7 +396,7 @@
       "title": "障碍跑世界锦标赛Day2",
       "keyword": "09月04日15:00",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "UIPM障碍跑世界锦标赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/03/77N9VSP2O7F5.png",
@@ -432,6 +432,10 @@
         "time": "09月04日16:00"
       },
       "nodes": [
+        {
+          "pID": "967271911",
+          "name": "JCK战觉城王者系列016期全场回放：赛前称重仪式（赛场原声）"
+        },
         {
           "pID": "963269978",
           "name": "JCK2025年回顾：一年热血 百期征程"
@@ -496,7 +500,7 @@
       "title": "女篮世界杯小组赛",
       "keyword": "09月04日17:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "Berlin Arena",
       "competitionName": "女篮世界杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/03/77N9TUDS6JF3.jpg",
@@ -528,12 +532,12 @@
       "title": "女篮世界杯小组赛",
       "keyword": "09月04日17:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "Max-Schmeling-Halle",
       "competitionName": "女篮世界杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/03/77N9TV2RBC21.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/9/4/100000001527106ab529.png",
-      "pkInfoTitle": "澳大利亚女篮vs波多黎各女篮",
+      "pkInfoTitle": "澳大利亚vs波多黎各",
       "modifyTitle": "女篮世界杯小组赛",
       "presenters": "连睿",
       "matchInfo": {
@@ -979,7 +983,7 @@
     },
     {
       "mgdbId": "120000591467",
-      "pID": "967048495",
+      "pID": "967048547",
       "title": "佩古拉出战 纳瓦罗迎战穆霍娃",
       "keyword": "09月04日23:00",
       "sportItemId": "9",
@@ -996,16 +1000,20 @@
       },
       "nodes": [
         {
+          "pID": "967048547",
+          "name": "大看台球场"
+        },
+        {
+          "pID": "967265926",
+          "name": "萨巴伦卡 VS 拉希莫娃(郭丰庆)"
+        },
+        {
           "pID": "967048495",
           "name": "阿瑟・阿什球场"
         },
         {
           "pID": "967048521",
           "name": "阿姆斯特朗球场"
-        },
-        {
-          "pID": "967048547",
-          "name": "大看台球场"
         },
         {
           "pID": "967048592",
@@ -1052,10 +1060,6 @@
           "name": "英文解说"
         },
         {
-          "pID": "967265926",
-          "name": "萨巴伦卡 VS 拉希莫娃(郭丰庆)"
-        },
-        {
           "pID": "967264177",
           "name": "吴易昺 VS 阿尔卡拉斯(李宁,邱超)"
         }
@@ -1073,7 +1077,7 @@
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/04/77NAQPSV91KE.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg",
       "pkInfoTitle": "萨巴伦卡 vs 拉克西莫娃",
-      "modifyTitle": "2026美国网球公开赛女单第三轮：萨巴伦卡 vs 拉克西莫娃",
+      "modifyTitle": "2026���国网球公开赛女单第三轮：萨巴伦卡 vs 拉克西莫娃",
       "presenters": "郭丰庆",
       "matchInfo": {
         "time": "09月04日23:00"
