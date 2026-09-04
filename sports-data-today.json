@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-04 19:01:40",
+  "updateTime": "2026-09-04 19:31:39",
   "data": [
     {
       "mgdbId": "120000590063",
@@ -341,8 +341,20 @@
           "name": "全场回放（刘馨蕊）"
         },
         {
+          "pID": "967273118",
+          "name": "全场回放（一号桌）"
+        },
+        {
+          "pID": "967273384",
+          "name": "全场回放（二号桌）"
+        },
+        {
           "pID": "967272439",
           "name": "全场回放（三号桌）"
+        },
+        {
+          "pID": "967273084",
+          "name": "全场回放（四号桌）"
         }
       ]
     },
@@ -413,8 +425,8 @@
       },
       "nodes": [
         {
-          "pID": "966998634",
-          "name": "解说"
+          "pID": "967274018",
+          "name": "2026障碍跑世界锦标赛Day2全场回放（官方解说）"
         }
       ]
     },
@@ -465,12 +477,12 @@
       },
       "nodes": [
         {
-          "pID": "967154878",
-          "name": "清流播出"
+          "pID": "967274007",
+          "name": "全场回放"
         },
         {
-          "pID": "967154898",
-          "name": "赛场原声"
+          "pID": "967274052",
+          "name": "全场回放"
         }
       ]
     },
@@ -500,11 +512,11 @@
     },
     {
       "mgdbId": "120000591190",
-      "pID": "967220596",
+      "pID": "967248639",
       "title": "女篮世界杯小组赛",
       "keyword": "09月04日17:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Berlin Arena",
       "competitionName": "女篮世界杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/03/77N9TUDS6JF3.jpg",
@@ -516,6 +528,10 @@
         "time": "09月04日17:30"
       },
       "nodes": [
+        {
+          "pID": "967248639",
+          "name": "《中国榜样》篮球季对话宋晓波：女篮要有责任和担当 笑侃乔丹是其徒弟"
+        },
         {
           "pID": "967220596",
           "name": "季孟年"
@@ -536,7 +552,7 @@
       "title": "女篮世界杯小组赛",
       "keyword": "09月04日17:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Max-Schmeling-Halle",
       "competitionName": "女篮世界杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/03/77N9TV2RBC21.jpg",
@@ -639,7 +655,7 @@
       "pID": "967257931",
       "title": "篮球公园 | 中国女篮 柏林之路",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "CBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/04/77NAQ6PFP3V0.jpg",
@@ -678,12 +694,12 @@
           "name": "徐儒叶"
         },
         {
-          "pID": "966866423",
-          "name": "1号桌"
-        },
-        {
           "pID": "966866433",
           "name": "2号桌"
+        },
+        {
+          "pID": "966866423",
+          "name": "1号桌"
         }
       ]
     },
@@ -738,7 +754,7 @@
       "title": "无疆队 vs 雄狮队",
       "keyword": "09月04日19:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "中国篮协“未来杯”国际篮球挑战赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/03/77N9VDEB5M7S.jpg",
@@ -895,7 +911,7 @@
       "title": "女篮世界杯小组赛",
       "keyword": "09月04日20:15",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "Max-Schmeling-Halle",
       "competitionName": "女篮世界杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/04/77NARIUJ4H51.png",
