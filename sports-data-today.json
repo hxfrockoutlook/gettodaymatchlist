@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-04 16:01:36",
+  "updateTime": "2026-09-04 16:31:34",
   "data": [
     {
       "mgdbId": "120000590063",
@@ -320,7 +320,7 @@
     },
     {
       "mgdbId": "120000590656",
-      "pID": "966866403",
+      "pID": "966866371",
       "title": "方博晋级8强 户上隼辅/早田希娜止步",
       "keyword": "09月04日13:00",
       "sportItemId": "7",
@@ -337,12 +337,12 @@
       },
       "nodes": [
         {
-          "pID": "966866403",
-          "name": "刘馨蕊"
-        },
-        {
           "pID": "966866371",
           "name": "2号桌"
+        },
+        {
+          "pID": "966866403",
+          "name": "刘馨蕊"
         },
         {
           "pID": "966866376",
@@ -384,7 +384,7 @@
     },
     {
       "mgdbId": "120000592335",
-      "pID": "967262671",
+      "pID": "967268835",
       "title": "东北100跑山赛",
       "keyword": "09月04日14:00",
       "sportItemId": "8",
@@ -401,7 +401,7 @@
       },
       "nodes": [
         {
-          "pID": "967262671",
+          "pID": "967268835",
           "name": "解说"
         }
       ]
@@ -460,7 +460,7 @@
       "title": "真理队 vs 凤凰队",
       "keyword": "09月04日16:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "中国篮协“未来杯”国际篮球挑战赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/03/77N9VDMTARI9.jpg",
@@ -488,7 +488,7 @@
       "title": "国际攀岩挑战赛暨中国攀岩联赛上海站",
       "keyword": "09月04日16:30",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "攀岩系列赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/03/77N9VSSFMERO.png",
@@ -517,7 +517,7 @@
       "competitionName": "女篮世界杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/03/77N9TUDS6JF3.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/9/4/100000001527106ab529.png",
-      "pkInfoTitle": "日本女篮vs马里女篮",
+      "pkInfoTitle": "日本vs马里",
       "modifyTitle": "女篮世界杯小组赛",
       "presenters": "季孟年",
       "matchInfo": {
@@ -944,7 +944,7 @@
       "competitionName": "女篮世界杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/03/77N9UG310IIG.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/9/4/100000001527106ab529.png",
-      "pkInfoTitle": "韩国女篮vs尼日利亚女篮",
+      "pkInfoTitle": "韩国vs尼日利亚",
       "modifyTitle": "女篮世界杯小组赛",
       "presenters": "刘圳展",
       "matchInfo": {
@@ -1006,7 +1006,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg",
       "pkInfoTitle": "佩古拉出战 纳瓦罗迎战穆霍娃",
       "modifyTitle": "2026美国网球公开赛正赛：佩古拉出战 纳瓦罗迎战穆霍娃",
-      "presenters": "刘钟鸣",
+      "presenters": "郭丰庆 李宁 邱超",
       "matchInfo": {
         "time": "09月04日23:00"
       },
@@ -1068,16 +1068,12 @@
           "name": "英文解说"
         },
         {
-          "pID": "967265988",
-          "name": "刘钟鸣"
+          "pID": "967265926",
+          "name": "萨巴伦卡 VS 拉希莫娃(郭丰庆)"
         },
         {
-          "pID": "967266030",
-          "name": "刘钟鸣"
-        },
-        {
-          "pID": "967266066",
-          "name": "鸿昆"
+          "pID": "967264177",
+          "name": "吴易昺 VS 阿尔卡拉斯(李宁,邱超)"
         }
       ]
     },
@@ -1152,7 +1148,7 @@
       "competitionName": "女篮世界杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/03/77N9TKHUKG86.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/9/4/100000001527106ab529.png",
-      "pkInfoTitle": "西班牙女篮vs德国女篮",
+      "pkInfoTitle": "西班牙vs德国",
       "modifyTitle": "女篮世界杯小组赛",
       "presenters": "孔德昕",
       "matchInfo": {
