@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-04 14:31:43",
+  "updateTime": "2026-09-04 15:01:48",
   "data": [
     {
       "mgdbId": "120000590063",
@@ -214,11 +214,11 @@
       "nodes": [
         {
           "pID": "967248668",
-          "name": "全场回放"
+          "name": "【男单第2轮】布云朝克特1-3郑瑞（赛场原声）"
         },
         {
           "pID": "967248675",
-          "name": "全场回放（郭丰庆）"
+          "name": "【男单第2轮】布云朝克特1-3郑瑞（郭丰庆）"
         }
       ]
     },
@@ -341,7 +341,7 @@
     {
       "mgdbId": "120000590656",
       "pID": "966866403",
-      "title": "方博争八强 户上隼辅/早田希娜止步",
+      "title": "方博争8强 户上隼辅/早田希娜止步",
       "keyword": "09月04日13:00",
       "sportItemId": "7",
       "matchStatus": "1",
@@ -349,7 +349,7 @@
       "competitionName": "WTT",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/04/77NAQCDO0SOH.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "方博争八强 户上隼辅/早田希娜止步",
+      "pkInfoTitle": "方博争8强 户上隼辅/早田希娜止步",
       "modifyTitle": "WTT阿拉木图常规挑战赛男女单打1/8决赛、双打1/4决赛",
       "presenters": "刘馨蕊",
       "matchInfo": {
@@ -369,12 +369,12 @@
           "name": "2号桌"
         },
         {
-          "pID": "966866394",
-          "name": "4号桌"
-        },
-        {
           "pID": "966866376",
           "name": "3号桌"
+        },
+        {
+          "pID": "966866394",
+          "name": "4号桌"
         }
       ]
     },
@@ -404,13 +404,13 @@
     },
     {
       "mgdbId": "120000592335",
-      "pID": "967221657",
+      "pID": "967262671",
       "title": "东北100跑山赛",
       "keyword": "09月04日14:00",
       "sportItemId": "8",
       "matchStatus": "1",
       "matchField": "",
-      "competitionName": "凯乐石松花湖东北100跑山赛",
+      "competitionName": "凯乐石松花湖东北100跑山���",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/03/77N9VTT9MCI4.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/9/3/10000000153510667a2e.png",
       "pkInfoTitle": "东北100跑山赛",
@@ -421,7 +421,7 @@
       },
       "nodes": [
         {
-          "pID": "967221657",
+          "pID": "967262671",
           "name": "解说"
         }
       ]
@@ -432,7 +432,7 @@
       "title": "障碍跑世界锦标赛Day2",
       "keyword": "09月04日15:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "UIPM障碍跑世界锦标赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/03/77N9VSP2O7F5.png",
@@ -640,6 +640,7 @@
     },
     {
       "mgdbId": "300000002321",
+      "pID": "967257931",
       "title": "篮球公园 | 中国女篮 柏林之路",
       "sportItemId": "2",
       "matchStatus": "0",
@@ -651,7 +652,12 @@
       "modifyTitle": "篮球公园 | 中国女篮 柏林之路",
       "presenters": "",
       "matchInfo": {},
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "967257931",
+          "name": "篮球公园"
+        }
+      ]
     },
     {
       "mgdbId": "120000590657",
@@ -1066,7 +1072,7 @@
       "sportItemId": "9",
       "matchStatus": "0",
       "matchField": "",
-      "competitionName": "美国网球公开赛",
+      "competitionName": "美国网��公开赛",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg",
       "pkInfoTitle": "萨巴伦卡 vs 拉克西莫娃",
