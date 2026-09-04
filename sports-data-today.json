@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-04 11:31:27",
+  "updateTime": "2026-09-04 12:01:30",
   "data": [
     {
       "mgdbId": "120000590063",
@@ -315,36 +315,12 @@
       ]
     },
     {
-      "mgdbId": "120000592359",
-      "pID": "967230643",
-      "title": "小波波夫PK奈良冈功大",
-      "keyword": "09月04日10:00",
-      "sportItemId": "6",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "BWF",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/04/77NASQB7SL72.png",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
-      "pkInfoTitle": "小波波夫PK奈良冈功大",
-      "modifyTitle": "中国羽毛球大师赛1/4决赛：王祉怡PK奥原希望 罗意/王汀戈出战",
-      "presenters": "",
-      "matchInfo": {
-        "time": "09月04日10:00"
-      },
-      "nodes": [
-        {
-          "pID": "967230643",
-          "name": "CCTV5+"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000592331",
       "pID": "967217780",
       "title": "伊朗队vs新西兰队",
       "keyword": "09月04日11:30",
       "sportItemId": "3",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "亚洲男排锦标赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/03/77N9TD2V9N12.jpg",
@@ -359,6 +335,30 @@
         {
           "pID": "967217780",
           "name": "CCTV5+"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000592359",
+      "pID": "967230707",
+      "title": "中国羽毛球大师赛1/4决赛",
+      "keyword": "09月04日12:55",
+      "sportItemId": "6",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "BWF",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/04/77NAT3016SUO.png",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
+      "pkInfoTitle": "中国羽毛球大师赛1/4决赛",
+      "modifyTitle": "中国羽毛球大师赛1/4决赛：王祉怡PK奥原希望 罗意/王汀戈出战",
+      "presenters": "",
+      "matchInfo": {
+        "time": "09月04日12:55"
+      },
+      "nodes": [
+        {
+          "pID": "967230707",
+          "name": "CCTV5"
         }
       ]
     },
