@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-05 02:03:01",
+  "updateTime": "2026-09-05 02:32:47",
   "data": [
     {
       "mgdbId": "120000584504",
@@ -112,11 +112,11 @@
     },
     {
       "mgdbId": "120000591209",
-      "pID": "967199278",
+      "pID": "967221432",
       "title": "女篮世界杯小组赛",
       "keyword": "09月05日02:15",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "Max-Schmeling-Halle",
       "competitionName": "女篮世界杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/03/77N9TKNLPFE1.png",
@@ -129,12 +129,12 @@
       },
       "nodes": [
         {
-          "pID": "967199278",
-          "name": "赛场原声"
-        },
-        {
           "pID": "967221432",
           "name": "石楷文"
+        },
+        {
+          "pID": "967199278",
+          "name": "赛场原声"
         },
         {
           "pID": "967221676",
@@ -148,7 +148,7 @@
       "title": "德甲联赛",
       "keyword": "09月05日02:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "斯图加特体育场",
       "competitionName": "德甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000588219/390877_H169_sc.jpg",
@@ -172,7 +172,7 @@
       "title": "意甲联赛",
       "keyword": "09月05日02:45",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "费拉里斯球场",
       "competitionName": "意甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/03/77N9VDNNFLED.png",
@@ -192,11 +192,11 @@
     },
     {
       "mgdbId": "120000584256",
-      "pID": "967214083",
+      "pID": "967231384",
       "title": "英超联赛",
       "keyword": "09月05日03:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "波特曼球场",
       "competitionName": "英超",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000584256/316589_H169_sc.jpg",
@@ -208,6 +208,10 @@
         "time": "09月05日03:00"
       },
       "nodes": [
+        {
+          "pID": "967231384",
+          "name": "涂远 鲁靖明 邵凌霄"
+        },
         {
           "pID": "967214102",
           "name": "江忠德"
@@ -223,10 +227,6 @@
         {
           "pID": "967231356",
           "name": "4K赛场原声"
-        },
-        {
-          "pID": "967231384",
-          "name": "涂远 鲁靖明 邵凌霄"
         }
       ]
     },
@@ -256,7 +256,7 @@
     },
     {
       "mgdbId": "120000591197",
-      "pID": "967199293",
+      "pID": "967222277",
       "title": "女篮世界杯小组赛",
       "keyword": "09月05日03:00",
       "sportItemId": "2",
@@ -273,16 +273,16 @@
       },
       "nodes": [
         {
+          "pID": "967222277",
+          "name": "姜帆"
+        },
+        {
           "pID": "967199293",
           "name": "赛场原声"
         },
         {
           "pID": "967221705",
           "name": "英文解说"
-        },
-        {
-          "pID": "967222277",
-          "name": "姜帆"
         }
       ]
     },
@@ -1861,7 +1861,7 @@
     {
       "mgdbId": "120000569614",
       "pID": "967214483",
-      "title": "中超联赛",
+      "title": "���超联赛",
       "keyword": "09月05日20:00",
       "sportItemId": "1",
       "matchStatus": "0",
