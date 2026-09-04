@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-04 20:31:42",
+  "updateTime": "2026-09-04 21:01:58",
   "data": [
     {
       "mgdbId": "120000590063",
@@ -388,7 +388,7 @@
       "title": "东北100跑山赛",
       "keyword": "09月04日14:00",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "凯乐石松花湖东北100跑山赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/03/77N9VTT9MCI4.png",
@@ -537,12 +537,12 @@
           "name": "全场回放（季孟年）"
         },
         {
-          "pID": "967275001",
-          "name": "全场回放"
+          "pID": "967275066",
+          "name": "全场回放（赛场原声）"
         },
         {
-          "pID": "967275066",
-          "name": "全场回放"
+          "pID": "967275001",
+          "name": "全场回放（英文解说）"
         }
       ]
     },
@@ -565,12 +565,20 @@
       },
       "nodes": [
         {
+          "pID": "967274219",
+          "name": "全场集锦"
+        },
+        {
           "pID": "967274276",
           "name": "全场回放（连睿）"
         },
         {
+          "pID": "967275222",
+          "name": "全场回放（英文解说）"
+        },
+        {
           "pID": "967275008",
-          "name": "全场回放"
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
@@ -670,15 +678,15 @@
     {
       "mgdbId": "120000590657",
       "pID": "966866442",
-      "title": "早田冲击八强 户上、平野轮番出战",
+      "title": "户上、早田横扫挺进八强 平野3-1晋级",
       "keyword": "09月04日19:00",
       "sportItemId": "7",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/04/77NAS4FMVMVJ.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/04/77NAS8BVIK5Q.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "早田冲击八强 户上、平野轮番出战",
+      "pkInfoTitle": "户上、早田横扫挺进八强 平野3-1晋级",
       "modifyTitle": "WTT阿拉木图常规挑战赛男女单打1/8决赛及混双半决赛",
       "presenters": "徐儒叶",
       "matchInfo": {
@@ -728,7 +736,7 @@
       "pID": "966891406",
       "title": "透视豪门转会 洞悉金元背后的取舍之道",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "绿茵狂想：联赛季",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/03/77N9TSO6EBCE.jpg",
@@ -739,8 +747,8 @@
       "matchInfo": {},
       "nodes": [
         {
-          "pID": "966891406",
-          "name": "苏东 徐阳 孙雷 杨茗茗"
+          "pID": "967275322",
+          "name": "《绿茵狂想：联赛季》第3期：BIG6转会锐评！热刺花最多的钱挨最多的打"
         }
       ]
     },
@@ -1074,6 +1082,14 @@
         {
           "pID": "967048468",
           "name": "英文解说"
+        },
+        {
+          "pID": "967275281",
+          "name": "阿瑟・阿什球场"
+        },
+        {
+          "pID": "967275354",
+          "name": "路易斯・阿姆斯特朗球场"
         },
         {
           "pID": "967264177",
