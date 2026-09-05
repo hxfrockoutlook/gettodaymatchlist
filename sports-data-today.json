@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-06 07:02:43",
+  "updateTime": "2026-09-06 07:32:15",
   "data": [
     {
       "mgdbId": "120000584876",
@@ -468,7 +468,7 @@
       "title": "“青海银行”大美青海高原马拉松",
       "keyword": "09月06日07:30",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "马拉松系列赛",
       "padImg": "",
@@ -492,7 +492,7 @@
       "title": "铁岭莲花湿地半程马拉松",
       "keyword": "09月06日07:30",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "马拉松系列赛",
       "padImg": "",
@@ -516,7 +516,7 @@
       "title": "天定山·山里院子长春莲花山半程马拉松",
       "keyword": "09月06日07:30",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "马拉松系列赛",
       "padImg": "",
@@ -531,34 +531,6 @@
         {
           "pID": "967255547",
           "name": "清流播出"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000592600",
-      "pID": "967313589",
-      "title": "2026美国网球公开赛女单第三轮：斯塔罗杜布采娃 vs 莱巴金娜",
-      "keyword": "09月06日07:30",
-      "sportItemId": "9",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "美国网球公开赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/05/77NBNH6ND2AJ.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg",
-      "pkInfoTitle": "斯塔罗杜布采娃 vs 莱巴金娜",
-      "modifyTitle": "2026美国网球公开赛女单第三轮：斯塔罗杜布采娃 vs 莱巴金娜",
-      "presenters": "单文强",
-      "matchInfo": {
-        "time": "09月06日07:30"
-      },
-      "nodes": [
-        {
-          "pID": "967313589",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "967313623",
-          "name": "单文强"
         }
       ]
     },
@@ -607,6 +579,34 @@
         {
           "pID": "967268730",
           "name": "解说"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000592600",
+      "pID": "967313589",
+      "title": "2026美国网球公开赛女单第三轮：斯塔罗杜布采娃 vs 莱巴金娜",
+      "keyword": "09月06日08:00",
+      "sportItemId": "9",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "美国网球公开赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/05/77NBNH6ND2AJ.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg",
+      "pkInfoTitle": "斯塔罗杜布采娃 vs 莱巴金娜",
+      "modifyTitle": "2026美国网球公开赛女单第三轮：斯塔罗杜布采娃 vs 莱巴金娜",
+      "presenters": "单文强",
+      "matchInfo": {
+        "time": "09月06日08:00"
+      },
+      "nodes": [
+        {
+          "pID": "967313623",
+          "name": "单文强"
+        },
+        {
+          "pID": "967313589",
+          "name": "赛场原声"
         }
       ]
     },
@@ -1709,12 +1709,12 @@
       },
       "nodes": [
         {
-          "pID": "967153995",
-          "name": "1号桌"
-        },
-        {
           "pID": "967305358",
           "name": "柏林"
+        },
+        {
+          "pID": "967153995",
+          "name": "1号桌"
         },
         {
           "pID": "967320826",
