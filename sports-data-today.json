@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-06 05:02:26",
+  "updateTime": "2026-09-06 05:32:25",
   "data": [
     {
       "mgdbId": "120000584876",
@@ -167,6 +167,10 @@
         {
           "pID": "967329572",
           "name": "全场集锦"
+        },
+        {
+          "pID": "967335068",
+          "name": "全场回放（胡小凡、张力）"
         }
       ]
     },
@@ -241,12 +245,12 @@
       },
       "nodes": [
         {
-          "pID": "967213984",
-          "name": "涂远 鲁靖明"
+          "pID": "967334541",
+          "name": "全场集锦"
         },
         {
-          "pID": "967213964",
-          "name": "赛场原声"
+          "pID": "967334870",
+          "name": "全场回放（涂远、鲁靖明）"
         }
       ]
     },
@@ -269,18 +273,14 @@
       },
       "nodes": [
         {
-          "pID": "967213919",
-          "name": "盛斌"
-        },
-        {
-          "pID": "967213908",
-          "name": "赛场原声"
+          "pID": "967334566",
+          "name": "全场集锦"
         }
       ]
     },
     {
       "mgdbId": "120000591199",
-      "pID": "967332183",
+      "pID": "967334796",
       "title": "女篮世界杯小组赛",
       "keyword": "09月06日02:45",
       "sportItemId": "2",
@@ -297,20 +297,8 @@
       },
       "nodes": [
         {
-          "pID": "967332183",
-          "name": "内外兼修！加比快下四十五度接球三分手起刀落"
-        },
-        {
-          "pID": "967222948",
-          "name": "姜帆"
-        },
-        {
-          "pID": "967199358",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "967221786",
-          "name": "英文解说"
+          "pID": "967334796",
+          "name": "全场集锦"
         }
       ]
     },
@@ -320,7 +308,7 @@
       "title": "西甲联赛",
       "keyword": "09月06日03:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "情歌球场",
       "competitionName": "西甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000586192/154999_H169_sc.jpg",
@@ -339,34 +327,6 @@
         {
           "pID": "967213906",
           "name": "赛场原声"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000592600",
-      "pID": "967313589",
-      "title": "2026美国网球公开赛女单第三轮：斯塔罗杜布采娃 vs 莱巴金娜",
-      "keyword": "09月06日06:00",
-      "sportItemId": "9",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "美国网球公开赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/05/77NBNH6ND2AJ.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg",
-      "pkInfoTitle": "斯塔罗杜布采娃 vs 莱巴金娜",
-      "modifyTitle": "2026美国网球公开赛女单第三轮：斯塔罗杜布采娃 vs 莱巴金娜",
-      "presenters": "单文强",
-      "matchInfo": {
-        "time": "09月06日06:00"
-      },
-      "nodes": [
-        {
-          "pID": "967313589",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "967313623",
-          "name": "单文强"
         }
       ]
     },
@@ -487,6 +447,34 @@
         {
           "pID": "967255547",
           "name": "清流播出"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000592600",
+      "pID": "967313589",
+      "title": "2026美国网球公开赛女单第三轮：斯塔罗杜布采娃 vs 莱巴金娜",
+      "keyword": "09月06日07:30",
+      "sportItemId": "9",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "美国网球公开赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/05/77NBNH6ND2AJ.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg",
+      "pkInfoTitle": "斯塔罗杜布采娃 vs 莱巴金娜",
+      "modifyTitle": "2026美国网球公开赛女单第三轮：斯塔罗杜布采娃 vs 莱巴金娜",
+      "presenters": "单文强",
+      "matchInfo": {
+        "time": "09月06日07:30"
+      },
+      "nodes": [
+        {
+          "pID": "967313589",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "967313623",
+          "name": "单文强"
         }
       ]
     },
@@ -1654,7 +1642,7 @@
       "mgdbId": "120000591743",
       "pID": "967153436",
       "title": "赣超",
-      "keyword": "09月06日20:00",
+      "keyword": "09��06日20:00",
       "sportItemId": "1",
       "matchStatus": "0",
       "matchField": "",
@@ -1665,7 +1653,7 @@
       "modifyTitle": "赣超",
       "presenters": "",
       "matchInfo": {
-        "time": "09月06日20:00"
+        "time": "09��06日20:00"
       },
       "nodes": [
         {
