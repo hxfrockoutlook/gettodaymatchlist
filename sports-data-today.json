@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-05 18:32:46",
+  "updateTime": "2026-09-05 19:02:50",
   "data": [
     {
       "mgdbId": "120000584504",
@@ -344,7 +344,7 @@
       "title": "东北100跑山赛",
       "keyword": "09月05日06:00",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "凯乐石松花湖东北100跑山赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/04/77NAT231OE8N.png",
@@ -357,8 +357,12 @@
       },
       "nodes": [
         {
-          "pID": "967268763",
-          "name": "解说"
+          "pID": "967299996",
+          "name": "2026凯乐石松花湖东北100跑山赛Day2全场回放（官方解说）（一）"
+        },
+        {
+          "pID": "967306705",
+          "name": "2026凯乐石松花湖东北100跑山赛Day2全场回放（官方解说）（二）"
         }
       ]
     },
@@ -426,7 +430,7 @@
       "nodes": [
         {
           "pID": "967303933",
-          "name": "2026年“李宁·红双喜杯”中国乒协会员联赛辽宁大连站Day2全场回放（赛场原声）（一）"
+          "name": "全场回放（一）"
         }
       ]
     },
@@ -669,10 +673,6 @@
       },
       "nodes": [
         {
-          "pID": "967199808",
-          "name": "王琰博 郝俊"
-        },
-        {
           "pID": "967199826",
           "name": "王琰博 郝俊"
         },
@@ -691,6 +691,10 @@
         {
           "pID": "967296506",
           "name": "采访区视角"
+        },
+        {
+          "pID": "967199808",
+          "name": "王琰博 郝俊"
         }
       ]
     },
@@ -785,12 +789,12 @@
       },
       "nodes": [
         {
-          "pID": "967154975",
-          "name": "清流播出"
+          "pID": "967308140",
+          "name": "全场回放"
         },
         {
-          "pID": "967154981",
-          "name": "赛场原声"
+          "pID": "967308312",
+          "name": "全场回放"
         }
       ]
     },
@@ -821,16 +825,16 @@
     {
       "mgdbId": "120000592184",
       "pID": "967196359",
-      "title": "红桥VS南开",
+      "title": "红桥0-3南开",
       "keyword": "09月05日17:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "海河超儿",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/8/14/10000000152310677fd0.png",
-      "pkInfoTitle": "红桥VS南开",
-      "modifyTitle": "红桥VS南开",
+      "pkInfoTitle": "红桥0-3南开",
+      "modifyTitle": "红桥0-3南开",
       "presenters": "",
       "matchInfo": {
         "time": "09月05日17:00"
@@ -947,12 +951,36 @@
       ]
     },
     {
+      "mgdbId": "120000592432",
+      "pID": "967245497",
+      "title": "第十四届世界体育舞蹈大赛Day1",
+      "keyword": "09月05日18:30",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "中国体育舞蹈联合会系列赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/04/77NAT2R400A8.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/7/14/1000000014681066d65b.png",
+      "pkInfoTitle": "第十四届世界体育舞蹈大赛Day1",
+      "modifyTitle": "第十四届世界体育舞蹈大赛Day1",
+      "presenters": "",
+      "matchInfo": {
+        "time": "09月05日18:30"
+      },
+      "nodes": [
+        {
+          "pID": "967245497",
+          "name": "解说"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000569617",
       "pID": "967214362",
       "title": "中超联赛",
       "keyword": "09月05日19:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "武汉体育中心体育场",
       "competitionName": "中超",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000569617/109816_H169_sc.jpg",
@@ -984,7 +1012,7 @@
       "title": "中甲联赛",
       "keyword": "09月05日19:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "长春奥林匹克公园体育场",
       "competitionName": "中甲",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000570578/202608031112_273758_H169_1080.webp",
@@ -1012,7 +1040,7 @@
       "title": "中甲联赛",
       "keyword": "09月05日19:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "宜兴市体育中心体育场",
       "competitionName": "中甲",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000570579/202603010046_162952_H169_1080.webp",
@@ -1040,7 +1068,7 @@
       "title": "闽超",
       "keyword": "09月05日19:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "闽超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000590084/202608181050_294702_H169_1080.webp",
@@ -1064,7 +1092,7 @@
       "title": "闽超",
       "keyword": "09月05日19:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "闽超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000590085/202608181050_933402_H169_1080.webp",
@@ -1088,7 +1116,7 @@
       "title": "闽超",
       "keyword": "09月05日19:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "闽超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000590086/202608181050_980381_H169_1080.webp",
@@ -1112,7 +1140,7 @@
       "title": "争决赛权！早田vs迪亚兹 平野迎内战",
       "keyword": "09月05日19:00",
       "sportItemId": "7",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/05/77NBO2JHV44Q.jpg",
@@ -1140,7 +1168,7 @@
       "title": "蒙超联赛半决赛第二回合",
       "keyword": "09月05日19:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "蒙超联赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000591742/202608311027_782382_H169_1080.webp",
@@ -1164,7 +1192,7 @@
       "title": "徽BA",
       "keyword": "09月05日19:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "徽BA",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000591872/202609011047_938006_H169_1080.webp",
@@ -1188,7 +1216,7 @@
       "title": "徽BA",
       "keyword": "09月05日19:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "徽BA",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000591874/202609011047_644892_H169_1080.webp",
@@ -1212,7 +1240,7 @@
       "title": "安徽省青少年足球联赛",
       "keyword": "09月05日19:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "徽青赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000591875/202609011049_929614_H169_1080.webp",
@@ -1236,7 +1264,7 @@
       "title": "徽BA",
       "keyword": "09月05日19:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "徽BA",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000591876/202609011050_642079_H169_1080.webp",
@@ -1260,7 +1288,7 @@
       "title": "徽BA",
       "keyword": "09月05日19:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "徽BA",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000591878/202609011050_788826_H169_1080.webp",
@@ -1275,30 +1303,6 @@
         {
           "pID": "967180345",
           "name": "赛场原声"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000592432",
-      "pID": "967245497",
-      "title": "第十四届世界体育舞蹈大赛Day1",
-      "keyword": "09月05日19:00",
-      "sportItemId": "8",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "中国体育舞蹈联合会系列赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/04/77NAT2R400A8.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/7/14/1000000014681066d65b.png",
-      "pkInfoTitle": "第十四届世界体育舞蹈大赛Day1",
-      "modifyTitle": "第十四届世界体育舞蹈大赛Day1",
-      "presenters": "",
-      "matchInfo": {
-        "time": "09月05日19:00"
-      },
-      "nodes": [
-        {
-          "pID": "967245497",
-          "name": "解说"
         }
       ]
     },
@@ -1736,7 +1740,7 @@
       "title": "中超联赛",
       "keyword": "09月05日19:35",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "上汽浦东足球场",
       "competitionName": "中超",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000569616/607273_H169_sc.jpg",
@@ -2674,10 +2678,6 @@
           "name": "13号球场"
         },
         {
-          "pID": "967048935",
-          "name": "15号球场"
-        },
-        {
           "pID": "967048429",
           "name": "国际信号"
         },
@@ -2692,10 +2692,6 @@
         {
           "pID": "967296636",
           "name": "路易斯・阿姆斯特朗球场"
-        },
-        {
-          "pID": "967048534",
-          "name": "���瑟・阿什球场"
         }
       ]
     },
