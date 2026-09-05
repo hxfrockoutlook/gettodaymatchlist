@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-05 12:02:53",
+  "updateTime": "2026-09-05 12:32:51",
   "data": [
     {
       "mgdbId": "120000584504",
@@ -459,30 +459,6 @@
       ]
     },
     {
-      "mgdbId": "120000592195",
-      "pID": "967198188",
-      "title": "国际攀岩挑战赛暨中国攀岩联赛上海站",
-      "keyword": "09月05日09:30",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "攀岩系列赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/04/77NAT4LL1850.png",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/10/22/10000000136010611504.jpg",
-      "pkInfoTitle": "国际攀岩挑战赛暨中国攀岩联赛上海站",
-      "modifyTitle": "国际攀岩挑战赛暨中国攀岩联赛上海站",
-      "presenters": "",
-      "matchInfo": {
-        "time": "09月05日09:30"
-      },
-      "nodes": [
-        {
-          "pID": "967198188",
-          "name": "上海站"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000592454",
       "pID": "967257805",
       "title": "王祉怡迎战宫崎友花 任何组合压场出战",
@@ -512,7 +488,7 @@
       "title": "中国队vs印度队",
       "keyword": "09月05日12:30",
       "sportItemId": "3",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "亚洲男排锦标赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/04/77NASG10EQU8.png",
@@ -583,6 +559,30 @@
         {
           "pID": "967199598",
           "name": "解说"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000592195",
+      "pID": "967198188",
+      "title": "国际攀岩挑战赛暨中国攀岩联赛上海站",
+      "keyword": "09月05日15:10",
+      "sportItemId": "8",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "攀岩系列赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/04/77NAT4LL1850.png",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/10/22/10000000136010611504.jpg",
+      "pkInfoTitle": "国际攀岩挑战赛暨中国攀岩联赛上海站",
+      "modifyTitle": "国际攀岩挑战赛暨中国攀岩联赛上海站",
+      "presenters": "",
+      "matchInfo": {
+        "time": "09月05日15:10"
+      },
+      "nodes": [
+        {
+          "pID": "967198188",
+          "name": "上海站"
         }
       ]
     },
@@ -1207,6 +1207,30 @@
       ]
     },
     {
+      "mgdbId": "120000591875",
+      "pID": "967180347",
+      "title": "安徽省青少年足球联赛",
+      "keyword": "09月05日19:00",
+      "sportItemId": "1",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "徽青赛",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000591875/202609011049_929614_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/3/20/100000001422106a762b.png",
+      "pkInfoTitle": "宿州vs六安",
+      "modifyTitle": "安徽省青少年足球联赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "09月05日19:00"
+      },
+      "nodes": [
+        {
+          "pID": "967180347",
+          "name": "赛场原声"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000591876",
       "pID": "967180340",
       "title": "徽BA",
@@ -1599,33 +1623,9 @@
       ]
     },
     {
-      "mgdbId": "120000591875",
-      "pID": "967180347",
-      "title": "安徽省青少年足球联赛",
-      "keyword": "09月05日19:30",
-      "sportItemId": "1",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "徽青赛",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000591875/202609011049_929614_H169_1080.webp",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/3/20/100000001422106a762b.png",
-      "pkInfoTitle": "宿州vs六安",
-      "modifyTitle": "安徽省青少年足球联赛",
-      "presenters": "",
-      "matchInfo": {
-        "time": "09月05日19:30"
-      },
-      "nodes": [
-        {
-          "pID": "967180347",
-          "name": "赛场原声"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000592180",
       "pID": "967214496",
-      "title": "英女超联赛",
+      "title": "英女��联赛",
       "keyword": "09月05日19:30",
       "sportItemId": "1",
       "matchStatus": "0",
@@ -2121,15 +2121,15 @@
     {
       "mgdbId": "300000002323",
       "pID": "967052084",
-      "title": "早安美网第六期",
+      "title": "《早安美网》第六期",
       "sportItemId": "9",
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "美国网球公开赛",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg",
-      "pkInfoTitle": "早安美网第六期",
-      "modifyTitle": "2026美国网球公开赛特别节目：早安美网第六期",
+      "pkInfoTitle": "《早安美网》第六期",
+      "modifyTitle": "2026美国网球��开赛特别节目：《早安美网》第六期",
       "presenters": "",
       "matchInfo": {},
       "nodes": [
