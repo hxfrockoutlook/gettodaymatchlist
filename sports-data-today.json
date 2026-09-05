@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-05 11:02:40",
+  "updateTime": "2026-09-05 11:32:55",
   "data": [
     {
       "mgdbId": "120000584504",
@@ -388,7 +388,7 @@
       "title": "环上海新城自行车赛",
       "keyword": "09月05日08:15",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "中国自行车运动协会系列赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/05/77NBQC361S1U.png",
@@ -479,30 +479,6 @@
         {
           "pID": "967198188",
           "name": "上海站"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000592432",
-      "pID": "967245497",
-      "title": "第十四届世界体育舞蹈大赛Day1",
-      "keyword": "09月05日09:30",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "中国体育舞蹈联合会系列赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/04/77NAT2R400A8.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/7/14/1000000014681066d65b.png",
-      "pkInfoTitle": "第十四届世界体育舞蹈大赛Day1",
-      "modifyTitle": "第十四届世界体育舞蹈大赛Day1",
-      "presenters": "",
-      "matchInfo": {
-        "time": "09月05日09:30"
-      },
-      "nodes": [
-        {
-          "pID": "967245497",
-          "name": "解说"
         }
       ]
     },
@@ -2509,7 +2485,7 @@
     {
       "mgdbId": "120000591468",
       "pID": "967048429",
-      "title": "男女单打第三轮",
+      "title": "阿曼达vs波塔波娃 高芙冲女单16强",
       "keyword": "09月05日23:00",
       "sportItemId": "9",
       "matchStatus": "0",
@@ -2517,8 +2493,8 @@
       "competitionName": "美国网球公开赛",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg",
-      "pkInfoTitle": "男女单打第三轮",
-      "modifyTitle": "美国网球公开赛正赛Day7：男女单打第三轮",
+      "pkInfoTitle": "阿曼达vs波塔波娃 高芙冲女单16强",
+      "modifyTitle": "美国网球公开赛正赛男女单第三轮、男双第一轮、女双第二轮：阿曼达vs波塔波娃 高芙冲女单16强",
       "presenters": "",
       "matchInfo": {
         "time": "09月05日23:00"
@@ -2542,7 +2518,7 @@
         },
         {
           "pID": "967048747",
-          "name": "5号球��"
+          "name": "5号球场"
         },
         {
           "pID": "967048767",
@@ -2587,10 +2563,6 @@
         {
           "pID": "967296636",
           "name": "路易斯・阿姆斯特朗球场"
-        },
-        {
-          "pID": "967048747",
-          "name": "5号球场"
         }
       ]
     },
@@ -2709,6 +2681,25 @@
           "name": "刘腾 贺宇"
         }
       ]
+    },
+    {
+      "mgdbId": "120000592432",
+      "pID": "120000592432",
+      "title": "第十四届世界体育舞蹈大赛Day1",
+      "keyword": "09月05日09:30",
+      "sportItemId": "",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "中国体育舞蹈联合会系列赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/04/77NAT2R400A8.jpg",
+      "competitionLogo": "",
+      "pkInfoTitle": "第十四届世界体育舞蹈大赛Day1",
+      "modifyTitle": "第十四届世界体育舞蹈大赛Day1",
+      "presenters": "",
+      "matchInfo": {
+        "time": "09月05日09:30"
+      },
+      "nodes": []
     }
   ]
 }
