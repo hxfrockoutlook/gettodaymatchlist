@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-07 05:17:03",
+  "updateTime": "2026-09-07 05:31:07",
   "data": [
     {
       "mgdbId": "120000584881",
@@ -153,16 +153,8 @@
       },
       "nodes": [
         {
-          "pID": "967213779",
-          "name": "孙雨轩 刘腾"
-        },
-        {
-          "pID": "967213766",
-          "name": "石庆圣 李彦"
-        },
-        {
-          "pID": "967213745",
-          "name": "赛场原声"
+          "pID": "967373796",
+          "name": "全场集锦"
         }
       ]
     },
@@ -196,10 +188,10 @@
       "title": "西甲联赛",
       "keyword": "09月07日03:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "科内利亚球场",
       "competitionName": "西甲",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000586196/567769_H169_sc.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000586196/592598_H169_sc.jpg",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/21/779JJMOFB20H.png",
       "pkInfoTitle": "西班牙人 vs 塞维利亚",
       "modifyTitle": "西甲联赛",
@@ -311,7 +303,12 @@
       "matchInfo": {
         "time": "09月07日16:00"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "967199619",
+          "name": "解说"
+        }
+      ]
     },
     {
       "mgdbId": "120000592598",
@@ -424,7 +421,7 @@
     {
       "mgdbId": "120000583572",
       "pID": "966323867",
-      "title": "NBA精彩重播：掘金vs湖人",
+      "title": "NBA精彩重播：掘���vs湖人",
       "keyword": "09月07日18:00",
       "sportItemId": "2",
       "matchStatus": "0",
