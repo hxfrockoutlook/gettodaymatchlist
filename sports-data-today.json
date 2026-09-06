@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-06 14:02:30",
+  "updateTime": "2026-09-06 14:32:25",
   "data": [
     {
       "mgdbId": "120000584876",
@@ -581,8 +581,8 @@
       },
       "nodes": [
         {
-          "pID": "967268730",
-          "name": "解说"
+          "pID": "967344188",
+          "name": "2026凯乐石松花湖东北100跑山赛Day3全场回放（官方解说）"
         }
       ]
     },
@@ -682,7 +682,7 @@
         },
         {
           "pID": "967343990",
-          "name": "全场回放"
+          "name": "【男单第3轮】门希克2-3勒纳·钱（赛场原声）"
         }
       ]
     },
@@ -716,7 +716,7 @@
       "title": "团体第一、二阶段、半决赛及决赛",
       "keyword": "09月06日13:30",
       "sportItemId": "7",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "中国乒协会员联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/03/77N9TIV7TCTG.jpg",
@@ -1011,7 +1011,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "CPB中国棒球城市联赛",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/06/77NCKIKVSTOB.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/8/10/100000001517106f3b81.png",
       "pkInfoTitle": "北京正大龙VS上海虎鲸",
       "modifyTitle": "CPB中国棒球城市联赛：北京正大龙VS上海虎鲸",
@@ -1163,7 +1163,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "NBA经典赛事",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/06/77NCKKC6KT3T.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png",
       "pkInfoTitle": "NBA精彩重播：勇士vs火箭",
       "modifyTitle": "NBA经典赛事",
@@ -1187,7 +1187,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "CPB中国棒球城市联赛",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/06/77NCKJ1UMLUN.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/8/10/100000001517106f3b81.png",
       "pkInfoTitle": "厦门海豚VS深圳蓝袜",
       "modifyTitle": "CPB中国棒球城市联赛：厦门海豚VS深圳蓝袜",
@@ -1776,18 +1776,24 @@
     },
     {
       "mgdbId": "300000002324",
+      "pID": "967052100",
       "title": "《早安美网》第七期",
       "sportItemId": "9",
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "美国网球公开赛",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/06/77NCKJP6N62G.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg",
       "pkInfoTitle": "《早安美网》第七期",
       "modifyTitle": "2026美国网球公开赛特别节目：《早安美网》第七期",
       "presenters": "",
       "matchInfo": {},
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "967052100",
+          "name": "《早安美网》"
+        }
+      ]
     },
     {
       "mgdbId": "120000591210",
@@ -1816,12 +1822,12 @@
           "name": "吕程 郑薇 赵爽"
         },
         {
-          "pID": "967199407",
-          "name": "赛场原声"
-        },
-        {
           "pID": "967221816",
           "name": "英文解说"
+        },
+        {
+          "pID": "967199407",
+          "name": "赛场原声"
         }
       ]
     },
@@ -2091,29 +2097,41 @@
     },
     {
       "mgdbId": "120000591469",
-      "pID": "967048958",
+      "pID": "967048997",
       "title": "萨巴伦卡出战 阿尔卡拉斯接场",
       "keyword": "09月06日23:00",
       "sportItemId": "9",
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "美国网球公开赛",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/06/77NCKJUT2I81.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg",
       "pkInfoTitle": "萨巴伦卡出战 阿尔卡拉斯接场",
       "modifyTitle": "美国网球公开赛正赛Day8全场次：萨巴伦卡出战 阿尔卡拉斯接场",
-      "presenters": "刘钟鸣 鸿昆 郭丰庆 李宁 房朕 单文强",
+      "presenters": "郭丰庆",
       "matchInfo": {
         "time": "09月06日23:00"
       },
       "nodes": [
         {
+          "pID": "967343622",
+          "name": "海利厄瓦拉/帕滕 vs 阿纳尔迪/施特鲁夫"
+        },
+        {
           "pID": "967048997",
+          "name": "阿瑟・阿什球场"
+        },
+        {
+          "pID": "967295877",
           "name": "阿瑟・阿什球场"
         },
         {
           "pID": "967049028",
           "name": "阿姆斯特朗球场"
+        },
+        {
+          "pID": "967295891",
+          "name": "路易斯・阿姆斯特朗球场"
         },
         {
           "pID": "967049038",
@@ -2178,42 +2196,6 @@
         {
           "pID": "967048974",
           "name": "英文解说"
-        },
-        {
-          "pID": "967295877",
-          "name": "阿瑟・阿什球场"
-        },
-        {
-          "pID": "967295891",
-          "name": "路易斯・阿姆斯特朗球场"
-        },
-        {
-          "pID": "967343599",
-          "name": "刘钟鸣"
-        },
-        {
-          "pID": "967343615",
-          "name": "鸿昆"
-        },
-        {
-          "pID": "967343622",
-          "name": "郭丰庆"
-        },
-        {
-          "pID": "967343632",
-          "name": "李宁"
-        },
-        {
-          "pID": "967343640",
-          "name": "房朕"
-        },
-        {
-          "pID": "967343656",
-          "name": "单文强"
-        },
-        {
-          "pID": "967343659",
-          "name": "李宁"
         }
       ]
     },
