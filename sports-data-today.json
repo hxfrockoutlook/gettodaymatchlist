@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-07 01:31:41",
+  "updateTime": "2026-09-07 02:01:14",
   "data": [
     {
       "mgdbId": "120000584881",
@@ -8,10 +8,10 @@
       "title": "意甲联赛",
       "keyword": "09月07日00:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "达尔阿拉球场",
       "competitionName": "意甲",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000584881/202609070115_449251_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000584881/202609070154_181686_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png",
       "pkInfoTitle": "博洛尼亚 vs 萨索洛",
       "modifyTitle": "意甲联赛",
@@ -92,7 +92,7 @@
       "title": "斯诺克英国公开赛决赛第二阶段：马克·塞尔比 vs 杰克·琼斯",
       "keyword": "09月07日02:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/06/77NCMDQSIHMR.jpg",
@@ -103,7 +103,16 @@
       "matchInfo": {
         "time": "09月07日02:00"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "967320774",
+          "name": "朱峰立"
+        },
+        {
+          "pID": "967154016",
+          "name": "1号桌"
+        }
+      ]
     },
     {
       "mgdbId": "120000584503",
@@ -437,7 +446,7 @@
       "mgdbId": "120000583572",
       "pID": "966323867",
       "title": "NBA精彩重播：掘金vs湖人",
-      "keyword": "09月07日18:00",
+      "keyword": "09��07日18:00",
       "sportItemId": "2",
       "matchStatus": "0",
       "matchField": "",
@@ -448,7 +457,7 @@
       "modifyTitle": "NBA经典赛事",
       "presenters": "杨健 曾令旭 马健",
       "matchInfo": {
-        "time": "09月07日18:00"
+        "time": "09��07日18:00"
       },
       "nodes": [
         {
