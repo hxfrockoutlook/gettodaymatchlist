@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-06 07:32:15",
+  "updateTime": "2026-09-06 08:02:15",
   "data": [
     {
       "mgdbId": "120000584876",
@@ -119,6 +119,14 @@
         {
           "pID": "967324243",
           "name": "贝努艾奇VS蒙特尼戈"
+        },
+        {
+          "pID": "967337535",
+          "name": "UFC格斗之夜第287期主赛全场回放（现场原声）（50帧原画）"
+        },
+        {
+          "pID": "967337635",
+          "name": "UFC格斗之夜第287期主赛全场回放（英文原声）"
         }
       ]
     },
@@ -540,7 +548,7 @@
       "title": "环上海新城自行车赛",
       "keyword": "09月06日07:45",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "中国自行车运动协会系列赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/05/77NBPGMT67JV.png",
@@ -564,7 +572,7 @@
       "title": "东北100跑山赛",
       "keyword": "09月06日08:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "凯乐石松花湖东北100跑山赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/05/77NBPG862QUQ.png",
@@ -583,39 +591,11 @@
       ]
     },
     {
-      "mgdbId": "120000592600",
-      "pID": "967313589",
-      "title": "2026美国网球公开赛女单第三轮：斯塔罗杜布采娃 vs 莱巴金娜",
-      "keyword": "09月06日08:00",
-      "sportItemId": "9",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "美国网球公开赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/05/77NBNH6ND2AJ.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg",
-      "pkInfoTitle": "斯塔罗杜布采娃 vs 莱巴金娜",
-      "modifyTitle": "2026美国网球公开赛女单第三轮：斯塔罗杜布采娃 vs 莱巴金娜",
-      "presenters": "单文强",
-      "matchInfo": {
-        "time": "09月06日08:00"
-      },
-      "nodes": [
-        {
-          "pID": "967313623",
-          "name": "单文强"
-        },
-        {
-          "pID": "967313589",
-          "name": "赛场原声"
-        }
-      ]
-    },
-    {
       "mgdbId": "300000002294",
       "pID": "967158056",
       "title": "咪咕体育日报 第172期",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "咪咕体育日报",
       "padImg": "",
@@ -650,6 +630,34 @@
       "nodes": [
         {
           "pID": "967218502",
+          "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000592600",
+      "pID": "967313589",
+      "title": "2026美国网球公开赛女单第三轮：斯塔罗杜布采娃 vs 莱巴金娜",
+      "keyword": "09月06日08:30",
+      "sportItemId": "9",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "美国网球公开赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/05/77NBNH6ND2AJ.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg",
+      "pkInfoTitle": "斯塔罗杜布采娃 vs 莱巴金娜",
+      "modifyTitle": "2026美国网球公开赛女单第三轮：斯塔罗杜布采娃 vs 莱巴金娜",
+      "presenters": "单文强",
+      "matchInfo": {
+        "time": "09月06日08:30"
+      },
+      "nodes": [
+        {
+          "pID": "967313623",
+          "name": "单文强"
+        },
+        {
+          "pID": "967313589",
           "name": "赛场原声"
         }
       ]
@@ -1692,7 +1700,7 @@
     },
     {
       "mgdbId": "120000591740",
-      "pID": "967153995",
+      "pID": "967305358",
       "title": "斯诺克英国公开赛决赛第一阶段：马克·塞尔比 vs 杰克·琼斯",
       "keyword": "09月06日20:00",
       "sportItemId": "8",
@@ -1713,12 +1721,12 @@
           "name": "柏林"
         },
         {
-          "pID": "967153995",
-          "name": "1号桌"
-        },
-        {
           "pID": "967320826",
           "name": "麦特威"
+        },
+        {
+          "pID": "967153995",
+          "name": "1号桌"
         }
       ]
     },
