@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-07 00:01:18",
+  "updateTime": "2026-09-07 00:31:07",
   "data": [
     {
       "mgdbId": "120000584881",
@@ -36,7 +36,7 @@
       "title": "西甲联赛",
       "keyword": "09月07日00:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "玫瑰园球场",
       "competitionName": "西甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000586194/186877_H169_sc.jpg",
@@ -64,7 +64,7 @@
       "title": "西甲联赛",
       "keyword": "09月07日00:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "门迪佐洛萨球场",
       "competitionName": "西甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000586200/243831_H169_sc.jpg",
@@ -384,7 +384,7 @@
     },
     {
       "mgdbId": "120000591206",
-      "pID": "967199574",
+      "pID": "967223267",
       "title": "女篮世界杯小组赛",
       "keyword": "09月07日17:30",
       "sportItemId": "2",
@@ -401,16 +401,16 @@
       },
       "nodes": [
         {
+          "pID": "967223267",
+          "name": "连睿 周鹏"
+        },
+        {
           "pID": "967199574",
           "name": "赛场原声"
         },
         {
           "pID": "967221848",
           "name": "英文解说"
-        },
-        {
-          "pID": "967223267",
-          "name": "连睿 周鹏"
         }
       ]
     },
@@ -454,7 +454,7 @@
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png",
       "pkInfoTitle": "NBA精彩重播：掘金vs湖人",
-      "modifyTitle": "NBA经典赛事",
+      "modifyTitle": "NBA经典赛���",
       "presenters": "杨健 曾令旭 马健",
       "matchInfo": {
         "time": "09月07日18:00"
@@ -528,7 +528,7 @@
     },
     {
       "mgdbId": "120000591200",
-      "pID": "967199592",
+      "pID": "967223371",
       "title": "女篮世界杯小组赛",
       "keyword": "09月07日20:30",
       "sportItemId": "2",
@@ -545,22 +545,22 @@
       },
       "nodes": [
         {
+          "pID": "967223371",
+          "name": "刘圳展"
+        },
+        {
           "pID": "967199592",
           "name": "赛场原声"
         },
         {
           "pID": "967221865",
           "name": "英文解说"
-        },
-        {
-          "pID": "967223371",
-          "name": "刘圳展"
         }
       ]
     },
     {
       "mgdbId": "120000591201",
-      "pID": "967199597",
+      "pID": "967223503",
       "title": "女篮世界杯小组赛",
       "keyword": "09月07日20:30",
       "sportItemId": "2",
@@ -577,16 +577,16 @@
       },
       "nodes": [
         {
+          "pID": "967223503",
+          "name": "蔡凯臣"
+        },
+        {
           "pID": "967199597",
           "name": "赛场原声"
         },
         {
           "pID": "967221871",
           "name": "英文解说"
-        },
-        {
-          "pID": "967223503",
-          "name": "蔡凯臣"
         }
       ]
     },
@@ -684,7 +684,7 @@
     },
     {
       "mgdbId": "120000591194",
-      "pID": "967199603",
+      "pID": "967223618",
       "title": "女篮世界杯小组赛",
       "keyword": "09月07日23:50",
       "sportItemId": "2",
@@ -701,16 +701,16 @@
       },
       "nodes": [
         {
+          "pID": "967223618",
+          "name": "邵化谦 季孟年"
+        },
+        {
           "pID": "967199603",
           "name": "赛场原声"
         },
         {
           "pID": "967221876",
           "name": "英文解说"
-        },
-        {
-          "pID": "967223618",
-          "name": "邵化谦 季孟年"
         }
       ]
     },
