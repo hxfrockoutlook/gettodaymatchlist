@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-06 18:32:19",
+  "updateTime": "2026-09-06 19:02:28",
   "data": [
     {
       "mgdbId": "120000584876",
@@ -749,6 +749,10 @@
           "name": "2026WTT阿拉木图常规挑战赛Day6下午场全场回放（马特）"
         },
         {
+          "pID": "967347725",
+          "name": "2026WTT阿拉木图常规挑战赛Day6下午场全场回放（赛场原声）"
+        },
+        {
           "pID": "967316175",
           "name": "【混双决赛】叶夫根尼/潘菲洛娃3-0吉山和希/小盐悠菜"
         }
@@ -845,8 +849,8 @@
       },
       "nodes": [
         {
-          "pID": "967180367",
-          "name": "赛场原声"
+          "pID": "967347831",
+          "name": "全场回放"
         }
       ]
     },
@@ -976,7 +980,7 @@
       "title": "桂超联赛四分之一决赛首回合",
       "keyword": "09月06日16:20",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "桂超联赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000592189/202609021055_613047_H169_1080.webp",
@@ -1072,7 +1076,7 @@
       "title": "桂超联赛四分之一决赛首回合",
       "keyword": "09月06日16:50",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "桂超联赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000592188/202609021055_223951_H169_1080.webp",
@@ -1093,40 +1097,48 @@
     {
       "mgdbId": "120000592628",
       "pID": "967305571",
-      "title": "任何组合冲冠！凤凰组合摘金",
+      "title": "凤凰组合摘金 任何组合获亚军",
       "keyword": "09月06日16:58",
       "sportItemId": "6",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "BWF",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/06/77NCL6Q4OJEL.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/06/77NCLS90P36P.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
-      "pkInfoTitle": "任何组合冲冠！凤凰组合摘金",
-      "modifyTitle": "中国羽毛球大师赛决赛：任何组合压场冲冠！凤凰组合摘金 鲍曹组合获亚军",
+      "pkInfoTitle": "凤凰组合摘金 任何组合获亚军",
+      "modifyTitle": "中国羽毛球大师赛决赛：凤凰组合摘金 鲍曹、任何组合获亚军",
       "presenters": "",
       "matchInfo": {
         "time": "09月06日16:58"
       },
       "nodes": [
         {
-          "pID": "967305571",
-          "name": "CCTV5"
+          "pID": "967346360",
+          "name": "【集锦】冯彦哲/黄东萍2-0许邦荣/赖沛君"
+        },
+        {
+          "pID": "967346999",
+          "name": "【集锦】鲍骊婧/曹梓涵0-2中出堇/高桥美优"
+        },
+        {
+          "pID": "967346490",
+          "name": "【集锦】安洗莹2-0宫崎友花"
         }
       ]
     },
     {
       "mgdbId": "120000592185",
       "pID": "967196367",
-      "title": "东丽VS河北",
+      "title": "东丽0-1河北",
       "keyword": "09月06日17:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "海河超儿",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/8/14/10000000152310677fd0.png",
-      "pkInfoTitle": "东丽VS河北",
-      "modifyTitle": "东丽VS河北",
+      "pkInfoTitle": "东丽0-1河北",
+      "modifyTitle": "东丽0-1河北",
       "presenters": "",
       "matchInfo": {
         "time": "09月06日17:00"
@@ -1256,7 +1268,7 @@
       "title": "中甲联赛",
       "keyword": "09月06日19:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "苏州市体育中心体育场",
       "competitionName": "中甲",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000570573/202603010046_559929_H169_1080.webp",
@@ -1284,7 +1296,7 @@
       "title": "中甲联赛",
       "keyword": "09月06日19:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "深圳青少年足球训练基地中心场",
       "competitionName": "中甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000570574/627378_H169_sc.jpg",
@@ -1312,7 +1324,7 @@
       "title": "徽BA",
       "keyword": "09月06日19:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "徽BA",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000591880/202609011050_292534_H169_1080.webp",
@@ -1336,7 +1348,7 @@
       "title": "安徽省青少年足球联赛",
       "keyword": "09月06日19:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "徽青赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000591882/202609011048_672228_H169_1080.webp",
@@ -1360,7 +1372,7 @@
       "title": "徽BA",
       "keyword": "09月06日19:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "徽BA",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000591883/202609011048_224565_H169_1080.webp",
@@ -1384,7 +1396,7 @@
       "title": "徽BA",
       "keyword": "09月06日19:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "徽BA",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000591885/202609011051_279954_H169_1080.webp",
@@ -1408,7 +1420,7 @@
       "title": "徽BA",
       "keyword": "09月06日19:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "徽BA",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000591887/202609011051_637675_H169_1080.webp",
@@ -1432,7 +1444,7 @@
       "title": "英女超联赛",
       "keyword": "09月06日19:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "布雷耶集团球场",
       "competitionName": "英女超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000592178/202609021010_240312_H169_1080.webp",
@@ -1460,7 +1472,7 @@
       "title": "英女超联赛",
       "keyword": "09月06日19:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "养老金球场",
       "competitionName": "英女超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000592179/202609021011_480884_H169_1080.webp",
