@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-06 11:02:26",
+  "updateTime": "2026-09-06 11:32:19",
   "data": [
     {
       "mgdbId": "120000584876",
@@ -437,8 +437,8 @@
       },
       "nodes": [
         {
-          "pID": "967160212",
-          "name": "2026盛京银行沈阳马拉松"
+          "pID": "967342041",
+          "name": "2026盛京银行沈阳马拉松全场回放（赛场原声）"
         }
       ]
     },
@@ -544,7 +544,7 @@
       "title": "环上海新城自行车赛",
       "keyword": "09月06日07:45",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "中国自行车运动协会系列赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/05/77NBPGMT67JV.png",
@@ -636,7 +636,7 @@
       "title": "2026美国网球公开赛女单第三轮：斯塔罗杜布采娃 vs 莱巴金娜",
       "keyword": "09月06日08:50",
       "sportItemId": "9",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "美国网球公开赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/05/77NBNH6ND2AJ.jpg",
@@ -649,12 +649,12 @@
       },
       "nodes": [
         {
-          "pID": "967313623",
-          "name": "单文强"
+          "pID": "967342263",
+          "name": "全场回放（单文强）"
         },
         {
-          "pID": "967313589",
-          "name": "赛场原声"
+          "pID": "967342324",
+          "name": "全场回放"
         }
       ]
     },
@@ -707,30 +707,6 @@
         {
           "pID": "967312558",
           "name": "胡力涛"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000592196",
-      "pID": "967198205",
-      "title": "国际攀岩挑战赛暨中国攀岩联赛上海站",
-      "keyword": "09月06日10:30",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "攀岩系列赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/05/77NBPH9UC9VE.png",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/10/22/10000000136010611504.jpg",
-      "pkInfoTitle": "国际攀岩挑战赛暨中国攀岩联赛上海站",
-      "modifyTitle": "国际攀岩挑战赛暨中国攀岩联赛上海站",
-      "presenters": "",
-      "matchInfo": {
-        "time": "09月06日10:30"
-      },
-      "nodes": [
-        {
-          "pID": "967198205",
-          "name": "上海站"
         }
       ]
     },
@@ -1095,6 +1071,30 @@
         {
           "pID": "966839339",
           "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000592196",
+      "pID": "967198205",
+      "title": "国际攀岩挑战赛暨中国攀岩联赛上海站",
+      "keyword": "09月06日16:30",
+      "sportItemId": "8",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "攀岩系列赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/05/77NBPH9UC9VE.png",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/10/22/10000000136010611504.jpg",
+      "pkInfoTitle": "国际攀岩挑战赛暨中国攀岩联赛上海站",
+      "modifyTitle": "国际攀岩挑战赛暨中国攀岩联赛上海站",
+      "presenters": "",
+      "matchInfo": {
+        "time": "09月06日16:30"
+      },
+      "nodes": [
+        {
+          "pID": "967198205",
+          "name": "上海站"
         }
       ]
     },
