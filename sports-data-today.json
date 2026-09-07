@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-07 13:31:15",
+  "updateTime": "2026-09-07 14:01:17",
   "data": [
     {
       "mgdbId": "120000584881",
@@ -49,12 +49,12 @@
       },
       "nodes": [
         {
-          "pID": "967369714",
-          "name": "全场回放（周楚雄）"
-        },
-        {
           "pID": "967368833",
           "name": "全场集锦"
+        },
+        {
+          "pID": "967369714",
+          "name": "全场回放（周楚雄）"
         }
       ]
     },
@@ -153,7 +153,7 @@
       "competitionName": "意甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000584875/946039_H169_sc.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png",
-      "pkInfoTitle": "尤文图斯 vs AC米��",
+      "pkInfoTitle": "尤文图斯 vs AC米兰",
       "modifyTitle": "意甲联赛",
       "presenters": "孙雨轩 刘腾 石庆圣 李彦",
       "matchInfo": {
@@ -321,16 +321,16 @@
     {
       "mgdbId": "120000592728",
       "pID": "967385619",
-      "title": "新西兰队vs中国队",
+      "title": "新西兰队0-3中国队",
       "keyword": "09月07日12:30",
       "sportItemId": "3",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "亚洲男排锦标赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/07/77NDKDVK8MH1.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/9/3/1000000015341066cc3b.png",
-      "pkInfoTitle": "新西兰队vs中国队",
-      "modifyTitle": "亚洲男排锦标赛-小组赛：新西兰队vs中国队",
+      "pkInfoTitle": "新西兰队0-3中国队",
+      "modifyTitle": "亚洲男排锦标赛-小组赛：新西兰队0-3中国队",
       "presenters": "",
       "matchInfo": {
         "time": "09月07日12:30"
@@ -368,7 +368,7 @@
     },
     {
       "mgdbId": "120000592598",
-      "pID": "967297665",
+      "pID": "967387843",
       "title": "斯诺克英格兰公开赛第一轮：丁俊晖VS迈克尔·霍尔特",
       "keyword": "09月07日17:00",
       "sportItemId": "8",
@@ -385,18 +385,18 @@
       },
       "nodes": [
         {
-          "pID": "967297665",
-          "name": "赛场原声"
-        },
-        {
           "pID": "967387843",
           "name": "秦正"
+        },
+        {
+          "pID": "967297665",
+          "name": "赛场原声"
         }
       ]
     },
     {
       "mgdbId": "120000592602",
-      "pID": "967297673",
+      "pID": "967387926",
       "title": "斯诺克英格兰公开赛第一轮：斯佳辉VS罗比·威廉姆斯",
       "keyword": "09月07日17:00",
       "sportItemId": "8",
@@ -413,12 +413,12 @@
       },
       "nodes": [
         {
-          "pID": "967297673",
-          "name": "斯佳辉VS罗比·威廉姆斯"
-        },
-        {
           "pID": "967387926",
           "name": "乔迁"
+        },
+        {
+          "pID": "967297673",
+          "name": "斯佳辉VS罗比·威廉姆斯"
         }
       ]
     },
@@ -501,6 +501,10 @@
       },
       "nodes": [
         {
+          "pID": "963632295",
+          "name": "25/26赛季NBA常规赛全场回放：掘金125:127湖人（杨健、曾令旭、马健、佳依）（20260315）"
+        },
+        {
           "pID": "966323867",
           "name": "杨健 曾令旭 马健"
         }
@@ -532,7 +536,7 @@
     },
     {
       "mgdbId": "120000592603",
-      "pID": "967297716",
+      "pID": "967387933",
       "title": "常冰玉、张安达、袁思俊出战",
       "keyword": "09月07日20:00",
       "sportItemId": "8",
@@ -549,6 +553,14 @@
       },
       "nodes": [
         {
+          "pID": "967387933",
+          "name": "陶哲铭"
+        },
+        {
+          "pID": "967388473",
+          "name": "涂子轩"
+        },
+        {
           "pID": "967297716",
           "name": "1号桌"
         },
@@ -563,14 +575,6 @@
         {
           "pID": "967297775",
           "name": "4号桌"
-        },
-        {
-          "pID": "967387933",
-          "name": "陶哲铭"
-        },
-        {
-          "pID": "967388473",
-          "name": "涂子轩"
         }
       ]
     },
@@ -582,7 +586,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "美国网球公开赛",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/07/77NDHH52D6RC.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg",
       "pkInfoTitle": "《早安美网》第八期",
       "modifyTitle": "2026美国网球公开赛特别节目：《早安美网》第八期",
@@ -771,7 +775,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "美国网球公开赛",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/07/77NDHGGUCQH1.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg",
       "pkInfoTitle": "斯瓦泰克 vs 郑钦文",
       "modifyTitle": "2026美国网球公开赛女单1/8决赛：斯瓦泰克 vs 郑钦文",
