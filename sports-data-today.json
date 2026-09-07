@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-07 21:01:18",
+  "updateTime": "2026-09-07 21:31:14",
   "data": [
     {
       "mgdbId": "120000584881",
@@ -520,11 +520,11 @@
     },
     {
       "mgdbId": "120000583572",
-      "pID": "966323867",
+      "pID": "963632295",
       "title": "NBA精彩重播：掘金vs湖人",
       "keyword": "09月07日18:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA经典赛事",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/07/77NDHLK69ALE.jpg",
@@ -538,11 +538,7 @@
       "nodes": [
         {
           "pID": "963632295",
-          "name": "25/26赛季NBA常规赛全场回放：掘金125:127湖人（杨健、曾令旭、马健、佳依）（20260315）"
-        },
-        {
-          "pID": "966323867",
-          "name": "杨健 曾令旭 马健"
+          "name": "全场回放（杨健、曾令旭、马健、佳依）"
         }
       ]
     },
@@ -590,7 +586,7 @@
       "nodes": [
         {
           "pID": "967387933",
-          "name": "陶哲��"
+          "name": "陶哲铭"
         },
         {
           "pID": "967297716",
@@ -607,10 +603,6 @@
         {
           "pID": "967297775",
           "name": "4号桌"
-        },
-        {
-          "pID": "967387933",
-          "name": "陶哲铭"
         }
       ]
     },
@@ -619,7 +611,7 @@
       "pID": "967052149",
       "title": "《早安美网》第八期",
       "sportItemId": "9",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "美国网球公开赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/07/77NDHH52D6RC.jpg",
@@ -724,18 +716,34 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg",
       "pkInfoTitle": "米拉冲八强 高芙、约维奇上演美国德比",
       "modifyTitle": "美国网球公开赛正赛Day9全场次：米拉冲八强 高芙、约维奇上演美国德比",
-      "presenters": "宋光振 李宁 郭丰庆 房朕",
+      "presenters": "詹俊 胡力涛 邱超",
       "matchInfo": {
         "time": "09月07日23:00"
       },
       "nodes": [
         {
+          "pID": "967398566",
+          "name": "斯瓦泰克 VS 郑钦文"
+        },
+        {
+          "pID": "967398712",
+          "name": "安德列娃 vs 波塔波娃"
+        },
+        {
           "pID": "967048202",
+          "name": "阿瑟・阿什球场"
+        },
+        {
+          "pID": "967398456",
           "name": "阿瑟・阿什球场"
         },
         {
           "pID": "967048232",
           "name": "阿姆斯特朗球场"
+        },
+        {
+          "pID": "967398482",
+          "name": "路易斯・阿姆斯特朗球场"
         },
         {
           "pID": "967048251",
@@ -800,34 +808,6 @@
         {
           "pID": "967048178",
           "name": "英文解说"
-        },
-        {
-          "pID": "967398456",
-          "name": "阿瑟・阿什球场"
-        },
-        {
-          "pID": "967398482",
-          "name": "路易斯・阿姆斯特朗球场"
-        },
-        {
-          "pID": "967398682",
-          "name": "宋光振"
-        },
-        {
-          "pID": "967398703",
-          "name": "李宁"
-        },
-        {
-          "pID": "967398707",
-          "name": "李宁"
-        },
-        {
-          "pID": "967398698",
-          "name": "郭丰庆"
-        },
-        {
-          "pID": "967398722",
-          "name": "房朕"
         }
       ]
     },
