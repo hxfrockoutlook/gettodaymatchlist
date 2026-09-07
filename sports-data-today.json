@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-07 19:01:22",
+  "updateTime": "2026-09-07 19:31:19",
   "data": [
     {
       "mgdbId": "120000584881",
@@ -447,16 +447,20 @@
         {
           "pID": "967401338",
           "name": "2026斯诺克英格兰公开赛第一轮Day1下午场回放：斯佳辉1-4罗比·威廉姆斯（乔迁）"
+        },
+        {
+          "pID": "967401794",
+          "name": "26/27赛季斯诺克英格兰公开赛第一轮Day1下午场回放：斯佳辉1-4罗比·威廉姆斯（赛场原声）"
         }
       ]
     },
     {
       "mgdbId": "120000591206",
-      "pID": "967223267",
+      "pID": "967401563",
       "title": "女篮世界杯小组赛",
       "keyword": "09月07日17:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Berlin Arena",
       "competitionName": "女篮世界杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/06/77NCKJEB6VTI.png",
@@ -469,29 +473,25 @@
       },
       "nodes": [
         {
-          "pID": "967223267",
-          "name": "连睿 周鹏"
+          "pID": "967401563",
+          "name": "全场集锦"
         },
         {
-          "pID": "967199574",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "967221848",
-          "name": "英文解说"
+          "pID": "967401709",
+          "name": "全场回放（连睿、周鹏）"
         }
       ]
     },
     {
       "mgdbId": "120000591207",
-      "pID": "967221856",
+      "pID": "967400271",
       "title": "女篮世界杯小组赛",
       "keyword": "09月07日17:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Max-Schmeling-Halle",
       "competitionName": "女篮世界杯",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/06/77NCKJS4KTQG.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/07/77NDJ5V2JL9C.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/9/4/100000001527106ab529.png",
       "pkInfoTitle": "波多黎各vs土耳其",
       "modifyTitle": "女篮世界杯小组赛",
@@ -500,6 +500,10 @@
         "time": "09月07日17:30"
       },
       "nodes": [
+        {
+          "pID": "967400271",
+          "name": "面具女侠！罗萨多直面防守底角三分洞穿篮网"
+        },
         {
           "pID": "967221856",
           "name": "英文解说"
