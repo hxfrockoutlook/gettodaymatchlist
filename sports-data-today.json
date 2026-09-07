@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-08 02:01:14",
+  "updateTime": "2026-09-08 02:31:11",
   "data": [
     {
       "mgdbId": "120000584880",
@@ -11,7 +11,7 @@
       "matchStatus": "1",
       "matchField": "撒丁岛竞技场",
       "competitionName": "意甲",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000584880/202609080146_277447_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000584880/720487_H169_sc.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png",
       "pkInfoTitle": "卡利亚里 vs 莱切",
       "modifyTitle": "意甲联赛",
@@ -103,40 +103,12 @@
       ]
     },
     {
-      "mgdbId": "120000592701",
-      "pID": "967398714",
-      "title": "2026美国网球公开赛女单1/8决赛：大坂直美 vs 莱巴金娜",
-      "keyword": "09月08日02:30",
-      "sportItemId": "9",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "美国网球公开赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/07/77NDHN0RTQ8U.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg",
-      "pkInfoTitle": "大坂直美 vs 莱巴金娜",
-      "modifyTitle": "2026美国网球公开赛女单1/8决赛：大坂直美 vs 莱巴金娜",
-      "presenters": "单文强",
-      "matchInfo": {
-        "time": "09月08日02:30"
-      },
-      "nodes": [
-        {
-          "pID": "967398791",
-          "name": "单文强"
-        },
-        {
-          "pID": "967398714",
-          "name": "赛场原声"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000584872",
       "pID": "967213646",
       "title": "意甲联赛",
       "keyword": "09月08日02:45",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "弗留利球场",
       "competitionName": "意甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000584872/257778_H169_sc.jpg",
@@ -250,6 +222,34 @@
         },
         {
           "pID": "967213604",
+          "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000592701",
+      "pID": "967398714",
+      "title": "2026美国网球公开赛女单1/8决赛：大坂直美 vs 莱巴金娜",
+      "keyword": "09月08日03:30",
+      "sportItemId": "9",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "美国网球公开赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/07/77NDHN0RTQ8U.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg",
+      "pkInfoTitle": "大坂直美 vs 莱巴金娜",
+      "modifyTitle": "2026美国网球公开赛女单1/8决赛：大坂直美 vs 莱巴金娜",
+      "presenters": "单文强",
+      "matchInfo": {
+        "time": "09月08日03:30"
+      },
+      "nodes": [
+        {
+          "pID": "967398791",
+          "name": "单文强"
+        },
+        {
+          "pID": "967398714",
           "name": "赛场原声"
         }
       ]
