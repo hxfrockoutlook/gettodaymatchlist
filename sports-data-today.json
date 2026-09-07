@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-08 04:31:09",
+  "updateTime": "2026-09-08 05:01:17",
   "data": [
     {
       "mgdbId": "120000584880",
@@ -67,7 +67,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "斯诺克",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/07/77NDK3UBQRDC.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/08/77NEFGQ60K3I.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "周跃龙PK穆迪 赵心童遭淘汰",
       "modifyTitle": "斯诺克英格兰公开赛第一轮：周跃龙PK穆迪 赵心童遭淘汰",
@@ -93,12 +93,12 @@
           "name": "3号桌"
         },
         {
-          "pID": "967297880",
-          "name": "4号桌"
-        },
-        {
           "pID": "967388701",
           "name": "朱峰立"
+        },
+        {
+          "pID": "967297880",
+          "name": "4号桌"
         }
       ]
     },
@@ -108,10 +108,10 @@
       "title": "意甲联赛",
       "keyword": "09月08日02:45",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "弗留利球场",
       "competitionName": "意甲",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000584872/257778_H169_sc.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000584872/776442_H169_sc.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png",
       "pkInfoTitle": "乌迪内斯 vs 拉齐奥",
       "modifyTitle": "意甲联赛",
@@ -132,11 +132,11 @@
     },
     {
       "mgdbId": "120000591212",
-      "pID": "967223876",
+      "pID": "967415070",
       "title": "女篮世界杯小组赛",
       "keyword": "09月08日02:45",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Berlin Arena",
       "competitionName": "女篮世界杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/06/77NCL783G6BE.png",
@@ -148,6 +148,10 @@
         "time": "09月08日02:45"
       },
       "nodes": [
+        {
+          "pID": "967415070",
+          "name": "2026FIBA女篮世界杯小组赛D组全场集锦：美国vs捷克"
+        },
         {
           "pID": "967223876",
           "name": "石楷文 殳海"
@@ -164,11 +168,11 @@
     },
     {
       "mgdbId": "120000591213",
-      "pID": "967211846",
+      "pID": "967412325",
       "title": "女篮世界杯小组赛",
       "keyword": "09月08日02:45",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Max-Schmeling-Halle",
       "competitionName": "女篮世界杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/08/77NEF796PEVL.png",
@@ -181,20 +185,24 @@
       },
       "nodes": [
         {
-          "pID": "967211846",
-          "name": "杨健 隋菲菲"
+          "pID": "967412325",
+          "name": "全场集锦"
         },
         {
-          "pID": "967199644",
-          "name": "吕程 郑薇 赵爽"
+          "pID": "967411740",
+          "name": "第一节"
         },
         {
-          "pID": "967199653",
-          "name": "赛场原声"
+          "pID": "967412370",
+          "name": "第二节"
         },
         {
-          "pID": "967222051",
-          "name": "英文解说"
+          "pID": "967413364",
+          "name": "第三节"
+        },
+        {
+          "pID": "967414398",
+          "name": "第四节"
         }
       ]
     },
