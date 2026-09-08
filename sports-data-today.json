@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-08 08:31:09",
+  "updateTime": "2026-09-08 09:01:14",
   "data": [
     {
       "mgdbId": "120000584880",
@@ -90,11 +90,15 @@
         },
         {
           "pID": "967417949",
-          "name": "26/27赛季斯诺克英格兰公开赛第一轮Day1凌晨场回放：周跃龙4-3斯坦·穆迪（赛场原声）"
+          "name": "【回放】周跃龙4-3斯坦·穆迪（赛场原声）"
         },
         {
           "pID": "967418066",
-          "name": "26/27赛季斯诺克英格兰公开赛第一轮Day1凌晨场回放：乔·奥康纳4-0弗洛里安·努斯勒（赛场原声）"
+          "name": "【回放】乔·奥康纳4-0弗洛里安·努斯勒（赛场原声）"
+        },
+        {
+          "pID": "967418437",
+          "name": "26/27赛季斯诺克英格兰公开赛第一轮Day1凌晨场回放：埃利奥特·斯莱塞3-4阿什利·休吉尔（赛场原声）"
         }
       ]
     },
@@ -144,6 +148,10 @@
         "time": "09月08日02:45"
       },
       "nodes": [
+        {
+          "pID": "967415070",
+          "name": "全场集锦"
+        },
         {
           "pID": "967416504",
           "name": "全场回放（石楷文、殳海）"
@@ -275,7 +283,7 @@
       "pID": "967158024",
       "title": "咪咕体育日报 第174期",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "咪咕体育日报",
       "padImg": "",
@@ -287,6 +295,30 @@
         {
           "pID": "967158024",
           "name": "咪咕体育日报 第174期"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000592750",
+      "pID": "967400632",
+      "title": "印度队vs新西兰队",
+      "keyword": "09月08日09:00",
+      "sportItemId": "3",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "亚洲男排锦标赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/08/77NEGKSV4BKD.png",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/9/3/1000000015341066cc3b.png",
+      "pkInfoTitle": "印度队vs新西兰队",
+      "modifyTitle": "亚洲男排锦标赛-小组赛：印度队vs新西兰队",
+      "presenters": "",
+      "matchInfo": {
+        "time": "09月08日09:00"
+      },
+      "nodes": [
+        {
+          "pID": "967400632",
+          "name": "CCTV5+"
         }
       ]
     },
@@ -347,6 +379,30 @@
         {
           "pID": "967155820",
           "name": "英文解说"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000592751",
+      "pID": "967400575",
+      "title": "卡塔尔队vs韩国队",
+      "keyword": "09月08日12:30",
+      "sportItemId": "3",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "亚洲男排锦标赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/08/77NEGKU000KG.png",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/9/3/1000000015341066cc3b.png",
+      "pkInfoTitle": "卡塔尔队vs韩国队",
+      "modifyTitle": "亚洲男排锦标赛-小组赛：卡塔尔队vs韩国队",
+      "presenters": "",
+      "matchInfo": {
+        "time": "09月08日12:30"
+      },
+      "nodes": [
+        {
+          "pID": "967400575",
+          "name": "CCTV5"
         }
       ]
     },
