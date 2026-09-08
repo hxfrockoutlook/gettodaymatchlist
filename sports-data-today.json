@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-08 15:01:28",
+  "updateTime": "2026-09-08 15:31:17",
   "data": [
     {
       "mgdbId": "120000584880",
@@ -355,7 +355,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/08/77NEEQ24G25N.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/08/77NEF2E1Q00O.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "陈熠3-0横扫晋级 陈垣宇取开门红",
       "modifyTitle": "WTT澳门冠军赛男女单打1/16决赛",
@@ -369,16 +369,16 @@
           "name": "李柯鑫 张靖松"
         },
         {
-          "pID": "967161220",
-          "name": "同看WTT常挑资格赛"
-        },
-        {
           "pID": "967155868",
           "name": "热身区"
         },
         {
           "pID": "967155795",
           "name": "赛场原声"
+        },
+        {
+          "pID": "967161220",
+          "name": "同看WTT常挑资格赛"
         },
         {
           "pID": "967155820",
@@ -437,10 +437,6 @@
           "name": "同看WTT澳门冠军赛"
         },
         {
-          "pID": "967161129",
-          "name": "1号桌"
-        },
-        {
           "pID": "967161177",
           "name": "2号桌"
         },
@@ -451,6 +447,10 @@
         {
           "pID": "967161201",
           "name": "4号桌"
+        },
+        {
+          "pID": "967161129",
+          "name": "1号桌"
         }
       ]
     },
@@ -499,7 +499,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "NBA经典赛事",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/08/77NEF47T0N1A.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png",
       "pkInfoTitle": "NBA精彩重播：湖人vs火箭",
       "modifyTitle": "NBA经典赛事",
@@ -746,7 +746,7 @@
     {
       "mgdbId": "120000591481",
       "pID": "967048976",
-      "title": "萨巴、阿卡出战 张帅女双冲四强",
+      "title": "美国网球公开赛正赛Day10",
       "keyword": "09月08日23:00",
       "sportItemId": "9",
       "matchStatus": "0",
@@ -754,9 +754,9 @@
       "competitionName": "美国网球公开赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/08/77NEETS6GKMT.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg",
-      "pkInfoTitle": "萨巴、阿卡出战 张帅女双冲四强",
+      "pkInfoTitle": "美国网球公开赛正赛Day10",
       "modifyTitle": "美国网球公开赛正赛Day10全场次：萨巴、阿卡出战 张帅女双冲四强",
-      "presenters": "",
+      "presenters": "郭丰庆 鸿昆 房朕 宋光振 胡力涛",
       "matchInfo": {
         "time": "09月08日23:00"
       },
@@ -772,10 +772,6 @@
         {
           "pID": "967049043",
           "name": "大看台球场"
-        },
-        {
-          "pID": "967049077",
-          "name": "4号球场"
         },
         {
           "pID": "967049065",
@@ -832,11 +828,36 @@
         {
           "pID": "967048999",
           "name": "英文解说"
+        },
+        {
+          "pID": "967428980",
+          "name": "阿瑟・阿什球场"
+        },
+        {
+          "pID": "967429109",
+          "name": "郭丰庆"
+        },
+        {
+          "pID": "967429212",
+          "name": "鸿昆"
+        },
+        {
+          "pID": "967429322",
+          "name": "房朕"
+        },
+        {
+          "pID": "967429428",
+          "name": "宋光振"
+        },
+        {
+          "pID": "967429492",
+          "name": "胡力涛"
         }
       ]
     },
     {
       "mgdbId": "120000592929",
+      "pID": "967428821",
       "title": "2026美国网球公开赛女单1/4决赛：萨巴伦卡 vs 诺斯科娃",
       "keyword": "09月08日23:30",
       "sportItemId": "9",
@@ -847,11 +868,20 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg",
       "pkInfoTitle": "萨巴伦卡 vs 诺斯科娃",
       "modifyTitle": "2026美国网球公开赛女单1/4决赛：萨巴伦卡 vs 诺斯科娃",
-      "presenters": "",
+      "presenters": "单文强",
       "matchInfo": {
         "time": "09月08日23:30"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "967428821",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "967428845",
+          "name": "单文强"
+        }
+      ]
     },
     {
       "mgdbId": "120000592863",
