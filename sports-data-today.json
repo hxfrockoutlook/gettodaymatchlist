@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-08 21:01:30",
+  "updateTime": "2026-09-08 21:31:20",
   "data": [
     {
       "mgdbId": "120000584880",
@@ -328,7 +328,7 @@
       "title": "第一日热身区",
       "keyword": "09月08日10:00",
       "sportItemId": "7",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "WTT",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/08/77NEHOGSAKV1.jpg",
@@ -341,8 +341,12 @@
       },
       "nodes": [
         {
-          "pID": "967155868",
-          "name": "热身区"
+          "pID": "967436848",
+          "name": "全场回放（一）"
+        },
+        {
+          "pID": "967436596",
+          "name": "全场回放（二）"
         }
       ]
     },
@@ -426,7 +430,7 @@
         },
         {
           "pID": "967437518",
-          "name": "【全场回放】（一号桌）"
+          "name": "全场回放（一号桌）"
         }
       ]
     },
@@ -459,16 +463,20 @@
         {
           "pID": "967436864",
           "name": "26/27赛季斯诺克英格兰公开赛第1轮回放：塔猜亚·乌努2-4王信伯（赛场原声）"
+        },
+        {
+          "pID": "967437801",
+          "name": "26/27赛季斯诺克英格兰公开赛第1轮回放：肖国栋3-4罗斯·缪尔（赛场原声）"
         }
       ]
     },
     {
       "mgdbId": "120000583573",
-      "pID": "966323884",
+      "pID": "963707305",
       "title": "NBA精彩重播：湖人vs火箭",
       "keyword": "09月08日18:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA经典赛事",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/08/77NEF47T0N1A.png",
@@ -481,24 +489,24 @@
       },
       "nodes": [
         {
-          "pID": "966323884",
-          "name": "庄宁宇 刘炜 陈正昊"
+          "pID": "963707305",
+          "name": "全场回放（庄宁宇、刘炜、陈正昊、金佳悦）"
         }
       ]
     },
     {
       "mgdbId": "120000587559",
       "pID": "967034548",
-      "title": "福州海侠VS北京正大龙",
+      "title": "福州海侠6-9北京正大龙",
       "keyword": "09月08日18:00",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "CPB中国棒球城市联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/06/77NCKJSN9P65.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/8/10/100000001517106f3b81.png",
-      "pkInfoTitle": "福州海侠VS北京正大龙",
-      "modifyTitle": "CPB中国棒球城市联赛：福州海侠VS北京正大龙",
+      "pkInfoTitle": "福州海侠6-9北京正大龙",
+      "modifyTitle": "CPB中国棒球城市联赛：福州海侠6-9北京正大龙",
       "presenters": "",
       "matchInfo": {
         "time": "09月08日18:00"
@@ -540,10 +548,10 @@
       "title": "张本兄妹皆横扫 科顿3-2逆转晋级",
       "keyword": "09月08日18:30",
       "sportItemId": "7",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/08/77NEGL66I0P5.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/08/77NEGRK54KA3.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "张本兄妹皆横扫 科顿3-2逆转晋级",
       "modifyTitle": "WTT澳门冠军赛男女单打1/16决赛",
@@ -562,31 +570,27 @@
         },
         {
           "pID": "967155880",
-          "name": "赛��原声"
+          "name": "赛场原声"
         },
         {
           "pID": "967159051",
           "name": "智能字幕"
-        },
-        {
-          "pID": "967155880",
-          "name": "赛场原声"
         }
       ]
     },
     {
       "mgdbId": "120000591780",
       "pID": "967156341",
-      "title": "海宁VS金华",
+      "title": "海宁73-84金华",
       "keyword": "09月08日19:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "浙BA",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/02/77N92ACGBBVQ.png",
-      "pkInfoTitle": "海宁VS金华",
-      "modifyTitle": "海宁VS金华",
+      "pkInfoTitle": "海宁73-84金华",
+      "modifyTitle": "海宁73-84金华",
       "presenters": "",
       "matchInfo": {
         "time": "09月08日19:30"
@@ -651,7 +655,7 @@
       "pID": "967052166",
       "title": "《早安美网》第九期",
       "sportItemId": "9",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "美国网球公开赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/08/77NEER9F41UG.jpg",
@@ -678,15 +682,15 @@
     {
       "mgdbId": "120000591792",
       "pID": "967161339",
-      "title": "川上流星出战 万远、张旋接续登场",
+      "title": "川上流星速胜 万远、张旋接续登场",
       "keyword": "09月08日21:00",
       "sportItemId": "7",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/08/77NEGM80JCC7.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/08/77NEGS13B6UB.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "川上流星出战 万远、张旋接续登场",
+      "pkInfoTitle": "川上流星速胜 万远、张旋接续登场",
       "modifyTitle": "WTT帕纳久里什泰常规挑战赛男女单打资格赛小组赛",
       "presenters": "凌维康 刘馨蕊",
       "matchInfo": {
@@ -696,10 +700,6 @@
         {
           "pID": "967161339",
           "name": "凌维康 刘馨蕊"
-        },
-        {
-          "pID": "967155906",
-          "name": "同看WTT澳门冠军赛"
         },
         {
           "pID": "967161263",
@@ -732,46 +732,30 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg",
       "pkInfoTitle": "萨巴、阿卡出战 张帅女双冲四强",
       "modifyTitle": "美国网球公开赛正赛Day10全场次：萨巴、阿卡出战 张帅女双冲四强",
-      "presenters": "胡力涛 宋光振 房朕 鸿昆 郭丰庆",
+      "presenters": "单文强 李宁",
       "matchInfo": {
         "time": "09月08日23:00"
       },
       "nodes": [
         {
-          "pID": "967429492",
-          "name": "胡力涛"
+          "pID": "967428845",
+          "name": "单文强"
         },
         {
-          "pID": "967429428",
-          "name": "宋光振"
+          "pID": "967428924",
+          "name": "李宁"
         },
         {
-          "pID": "967429322",
-          "name": "房朕"
-        },
-        {
-          "pID": "967429212",
-          "name": "鸿昆"
-        },
-        {
-          "pID": "967429109",
-          "name": "郭丰庆"
-        },
-        {
-          "pID": "967428980",
-          "name": "阿瑟・阿什球场"
-        },
-        {
-          "pID": "967048999",
-          "name": "英文解说"
-        },
-        {
-          "pID": "967433905",
-          "name": "路易斯・阿姆斯特朗球场"
+          "pID": "967428950",
+          "name": "单文强"
         },
         {
           "pID": "967049022",
           "name": "阿瑟・阿什球场"
+        },
+        {
+          "pID": "967433905",
+          "name": "路易斯・阿姆斯特朗球场"
         },
         {
           "pID": "967049035",
@@ -832,6 +816,14 @@
         {
           "pID": "967048976",
           "name": "国际信号"
+        },
+        {
+          "pID": "967428980",
+          "name": "阿瑟・阿什球场"
+        },
+        {
+          "pID": "967048999",
+          "name": "英文解说"
         }
       ]
     },
@@ -854,12 +846,12 @@
       },
       "nodes": [
         {
-          "pID": "967428821",
-          "name": "赛场原声"
-        },
-        {
           "pID": "967428845",
           "name": "单文强"
+        },
+        {
+          "pID": "967428821",
+          "name": "赛场原声"
         }
       ]
     },
