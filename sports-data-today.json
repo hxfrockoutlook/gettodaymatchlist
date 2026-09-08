@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-09 05:31:09",
+  "updateTime": "2026-09-09 06:01:17",
   "data": [
     {
       "mgdbId": "120000592934",
@@ -8,7 +8,7 @@
       "title": "顶级赛事-围棋",
       "keyword": "09月09日01:40",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "中国围棋协会系列赛事",
       "padImg": "",
@@ -28,8 +28,8 @@
     },
     {
       "mgdbId": "120000592607",
-      "pID": "967426063",
-      "title": "墨菲、宾汉姆出战 吕昊天止步首轮",
+      "pID": "967297994",
+      "title": "宾汉姆出战 吕昊天止步首轮",
       "keyword": "09月09日02:00",
       "sportItemId": "8",
       "matchStatus": "1",
@@ -37,24 +37,20 @@
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/09/77NFC7N6QL3A.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "墨菲、宾汉姆出战 吕昊天止步首轮",
-      "modifyTitle": "斯诺克英格兰公开赛第一轮：墨菲、宾汉姆出战 吕昊天止步首轮",
-      "presenters": "杨江源 卢正浩",
+      "pkInfoTitle": "宾汉姆出战 吕昊天止步首轮",
+      "modifyTitle": "斯诺克英格兰公开赛第一轮：宾汉姆出战 吕昊天止步首轮",
+      "presenters": "卢正浩 杨江源",
       "matchInfo": {
         "time": "09月09日02:00"
       },
       "nodes": [
         {
-          "pID": "967426063",
-          "name": "杨江源"
+          "pID": "967297994",
+          "name": "2号桌"
         },
         {
           "pID": "967297986",
           "name": "1号桌"
-        },
-        {
-          "pID": "967297994",
-          "name": "2号桌"
         },
         {
           "pID": "967298008",
@@ -67,6 +63,10 @@
         {
           "pID": "967426033",
           "name": "卢正浩"
+        },
+        {
+          "pID": "967426063",
+          "name": "杨江源"
         }
       ]
     },
@@ -530,15 +530,11 @@
         },
         {
           "pID": "967156026",
-          "name": "���场原声"
+          "name": "赛场原声"
         },
         {
           "pID": "967433767",
           "name": "智能字幕"
-        },
-        {
-          "pID": "967156026",
-          "name": "赛场原声"
         }
       ]
     },
