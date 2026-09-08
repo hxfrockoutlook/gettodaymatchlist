@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-08 12:01:20",
+  "updateTime": "2026-09-08 12:31:17",
   "data": [
     {
       "mgdbId": "120000584880",
@@ -331,7 +331,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/08/77NEHDOUIF4G.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/08/77NEHOGSAKV1.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "第一日热身区",
       "modifyTitle": "WTT澳门冠军赛第一日热身区",
@@ -349,15 +349,15 @@
     {
       "mgdbId": "120000591752",
       "pID": "967155850",
-      "title": "陈熠冲开门红 陈垣宇PK阿萨尔",
+      "title": "陈垣宇PK阿萨尔 陈熠3-0横扫晋级",
       "keyword": "09月08日11:00",
       "sportItemId": "7",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/08/77NEHFUEFK00.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/08/77NEHN1363MB.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "陈熠冲开门红 陈垣宇PK阿萨尔",
+      "pkInfoTitle": "陈垣宇PK阿萨尔 陈熠3-0横扫晋级",
       "modifyTitle": "WTT澳门冠军赛男女单打1/16决赛",
       "presenters": "李柯鑫 张靖松",
       "matchInfo": {
@@ -388,7 +388,7 @@
       "title": "卡塔尔队vs韩国队",
       "keyword": "09月08日12:30",
       "sportItemId": "3",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "亚洲男排锦标赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/08/77NEGKU000KG.png",
@@ -434,7 +434,7 @@
         },
         {
           "pID": "967161129",
-          "name": "1��桌"
+          "name": "1号桌"
         },
         {
           "pID": "967161177",
@@ -447,10 +447,6 @@
         {
           "pID": "967161201",
           "name": "4号桌"
-        },
-        {
-          "pID": "967161129",
-          "name": "1号桌"
         }
       ]
     },
@@ -670,6 +666,10 @@
           "name": "《早安美网》"
         },
         {
+          "pID": "967422386",
+          "name": "美网每日之星・郑钦文从资格赛杀进八强"
+        },
+        {
           "pID": "967410340",
           "name": "郑钦文赛后声音"
         }
@@ -831,6 +831,7 @@
     },
     {
       "mgdbId": "120000592863",
+      "pID": "967422669",
       "title": "女篮世界杯四分之一资格赛",
       "keyword": "09月08日23:45",
       "sportItemId": "2",
@@ -841,11 +842,24 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/9/4/100000001527106ab529.png",
       "pkInfoTitle": "匈牙利vs日本",
       "modifyTitle": "女篮世界杯四分之一资格赛",
-      "presenters": "",
+      "presenters": "季孟年",
       "matchInfo": {
         "time": "09月08日23:45"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "967422669",
+          "name": "季孟年"
+        },
+        {
+          "pID": "967422747",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "967422686",
+          "name": "英文解说"
+        }
+      ]
     }
   ]
 }
