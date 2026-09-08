@@ -1,35 +1,7 @@
 {
   "success": true,
-  "updateTime": "2026-09-09 01:01:23",
+  "updateTime": "2026-09-09 01:31:14",
   "data": [
-    {
-      "mgdbId": "120000592930",
-      "pID": "967428891",
-      "title": "2026美国网球公开赛男单1/4决赛：蒂亚福 vs 米克尔森",
-      "keyword": "09月09日01:40",
-      "sportItemId": "9",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "美国网球公开赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/08/77NEERFBPGO3.png",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg",
-      "pkInfoTitle": "蒂亚福 vs 米克尔森",
-      "modifyTitle": "2026美国网球公开赛男单1/4决赛：蒂亚福 vs 米克尔森",
-      "presenters": "李宁",
-      "matchInfo": {
-        "time": "09月09日01:40"
-      },
-      "nodes": [
-        {
-          "pID": "967428924",
-          "name": "李宁"
-        },
-        {
-          "pID": "967428891",
-          "name": "赛场原声"
-        }
-      ]
-    },
     {
       "mgdbId": "120000592934",
       "pID": "967421765",
@@ -95,6 +67,34 @@
         {
           "pID": "967298014",
           "name": "4号桌"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000592930",
+      "pID": "967428891",
+      "title": "2026美国网球公开赛男单1/4决赛：蒂亚福 vs 米克尔森",
+      "keyword": "09月09日02:00",
+      "sportItemId": "9",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "美国网球公开赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/08/77NEERFBPGO3.png",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg",
+      "pkInfoTitle": "蒂亚福 vs 米克尔森",
+      "modifyTitle": "2026美国网球公开赛男单1/4决赛：蒂亚福 vs 米克尔森",
+      "presenters": "李宁",
+      "matchInfo": {
+        "time": "09月09日02:00"
+      },
+      "nodes": [
+        {
+          "pID": "967428924",
+          "name": "李宁"
+        },
+        {
+          "pID": "967428891",
+          "name": "赛场原声"
         }
       ]
     },
@@ -538,11 +538,15 @@
         },
         {
           "pID": "967156026",
-          "name": "赛场原声"
+          "name": "赛场��声"
         },
         {
           "pID": "967433767",
           "name": "智能字幕"
+        },
+        {
+          "pID": "967156026",
+          "name": "赛场原声"
         }
       ]
     },
