@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-09 18:31:18",
+  "updateTime": "2026-09-09 19:01:19",
   "data": [
     {
       "mgdbId": "120000592607",
@@ -340,14 +340,14 @@
     },
     {
       "mgdbId": "120000591793",
-      "pID": "967161444",
+      "pID": "967161458",
       "title": "万远双线作战 罗伯勒斯/肖瑶茜五局险胜",
       "keyword": "09月09日15:00",
       "sportItemId": "7",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/09/77NFCT1KT59I.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/09/77NFD5V280N8.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "万远双线作战 罗伯勒斯/肖瑶茜五局险胜",
       "modifyTitle": "WTT帕纳久里什泰常规挑战赛男女单打、混双资格赛",
@@ -361,16 +361,16 @@
           "name": "凌维康 刘馨蕊"
         },
         {
-          "pID": "967161444",
-          "name": "4号桌"
-        },
-        {
           "pID": "967161409",
           "name": "2号桌"
         },
         {
           "pID": "967161417",
           "name": "3号桌"
+        },
+        {
+          "pID": "967161444",
+          "name": "4号桌"
         },
         {
           "pID": "967161381",
@@ -492,7 +492,7 @@
       "title": "厦门海豚VS长沙旺旺",
       "keyword": "09月09日18:30",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "CPB中国棒球城市联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/09/77NFCTA965K4.jpg",
@@ -503,7 +503,12 @@
       "matchInfo": {
         "time": "09月09日18:30"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "967034565",
+          "name": "清流播出"
+        }
+      ]
     },
     {
       "mgdbId": "120000591756",
