@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-09 10:31:10",
+  "updateTime": "2026-09-09 11:01:19",
   "data": [
     {
       "mgdbId": "120000592607",
@@ -160,7 +160,7 @@
       "title": "2026美国网球公开赛女单1/4决赛：佩古拉 vs 纳瓦罗",
       "keyword": "09月09日07:15",
       "sportItemId": "9",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "美国网球公开赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/08/77NEERND19L1.png",
@@ -175,10 +175,6 @@
         {
           "pID": "967428950",
           "name": "单文强"
-        },
-        {
-          "pID": "967428943",
-          "name": "赛场原声"
         }
       ]
     },
@@ -208,7 +204,7 @@
       "title": "巴林队vs阿曼队",
       "keyword": "09月09日09:00",
       "sportItemId": "3",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "亚洲男排锦标赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/08/77NEHGRRDDS7.png",
@@ -259,7 +255,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/08/77NEH3E03NPV.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/09/77NFEC2OLPQC.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "第二日热身区",
       "modifyTitle": "WTT澳门冠军赛第二日热身区",
@@ -275,8 +271,36 @@
       ]
     },
     {
+      "mgdbId": "120000592932",
+      "pID": "967429018",
+      "title": "2026美国网球公开赛男单1/4决赛：谢尔顿 vs 阿尔卡拉斯",
+      "keyword": "09月09日10:50",
+      "sportItemId": "9",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "美国网球公开赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/08/77NEES0JD0CF.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg",
+      "pkInfoTitle": "谢尔顿 vs 阿尔卡拉斯",
+      "modifyTitle": "2026美国网球公开赛男单1/4决赛：谢尔顿 vs 阿尔卡拉斯",
+      "presenters": "李宁",
+      "matchInfo": {
+        "time": "09月09日10:50"
+      },
+      "nodes": [
+        {
+          "pID": "967429018",
+          "name": "李宁"
+        },
+        {
+          "pID": "967428981",
+          "name": "赛场原声"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000591755",
-      "pID": "967156002",
+      "pID": "967155967",
       "title": "王艺迪冲开门红 黄友政PK贾哈",
       "keyword": "09月09日11:00",
       "sportItemId": "7",
@@ -293,12 +317,12 @@
       },
       "nodes": [
         {
-          "pID": "967156002",
-          "name": "热身区"
-        },
-        {
           "pID": "967155967",
           "name": "张靖松 徐儒叶"
+        },
+        {
+          "pID": "967156002",
+          "name": "热身区"
         },
         {
           "pID": "967155942",
@@ -307,34 +331,6 @@
         {
           "pID": "967433773",
           "name": "智能字幕"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000592932",
-      "pID": "967429018",
-      "title": "2026美国网球公开赛男单1/4决赛：谢尔顿 vs 阿尔卡拉斯",
-      "keyword": "09月09日11:00",
-      "sportItemId": "9",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "美国网球公开赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/08/77NEES0JD0CF.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg",
-      "pkInfoTitle": "谢尔顿 vs 阿尔卡拉斯",
-      "modifyTitle": "2026美国网球公开赛男单1/4决赛：谢尔顿 vs 阿尔卡拉斯",
-      "presenters": "李宁",
-      "matchInfo": {
-        "time": "09月09日11:00"
-      },
-      "nodes": [
-        {
-          "pID": "967429018",
-          "name": "李宁"
-        },
-        {
-          "pID": "967428981",
-          "name": "赛场原声"
         }
       ]
     },
@@ -610,7 +606,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "美国网球公开赛",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/09/77NFEBG7FS3H.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg",
       "pkInfoTitle": "《早安美网》第十期",
       "modifyTitle": "2026美国网球公开赛特别节目：《早安美网》第十期",
@@ -634,7 +630,7 @@
       "competitionName": "WTT",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/09/77NFC1482SA4.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "万远一日三赛 玛利亚/卡琳��冲正赛",
+      "pkInfoTitle": "万远一日三赛 玛利亚/卡琳娜冲正赛",
       "modifyTitle": "WTT帕纳久里什泰常规挑战赛男女单打、男女双打资格赛",
       "presenters": "李柯鑫",
       "matchInfo": {
@@ -757,7 +753,7 @@
     },
     {
       "mgdbId": "120000592956",
-      "title": "2026美国网球公开赛女单1/4决赛：郑钦文 vs 莱巴金娜",
+      "title": "美网女单1/4决赛：郑钦文 vs 莱巴金娜",
       "keyword": "09月09日23:30",
       "sportItemId": "9",
       "matchStatus": "0",
@@ -766,7 +762,7 @@
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/09/77NFE7SBUU6D.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg",
       "pkInfoTitle": "郑钦文 vs 莱巴金娜",
-      "modifyTitle": "2026美国网球公开赛女单1/4决赛：郑钦文 vs 莱巴金娜",
+      "modifyTitle": "美网女单1/4决赛：郑钦文 vs 莱巴金娜",
       "presenters": "",
       "matchInfo": {
         "time": "09月09日23:30"
