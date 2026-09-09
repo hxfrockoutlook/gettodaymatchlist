@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-10 02:31:07",
+  "updateTime": "2026-09-10 03:01:18",
   "data": [
     {
       "mgdbId": "120000592610",
@@ -84,13 +84,13 @@
       "title": "女篮世界杯四分之一资格赛",
       "keyword": "09月10日02:45",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "Berlin Arena",
       "competitionName": "女篮世界杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/08/77NEGKH8K3TM.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/9/4/100000001527106ab529.png",
       "pkInfoTitle": "意大利vs澳大利亚",
-      "modifyTitle": "女篮��界杯四分之一资格赛",
+      "modifyTitle": "女篮世界杯四分之一资格赛",
       "presenters": "张泽欣",
       "matchInfo": {
         "time": "09月10日02:45"
@@ -297,19 +297,19 @@
     {
       "mgdbId": "120000591795",
       "pID": "967161260",
-      "title": "男女单打1/16决赛、双打1/8决赛",
-      "keyword": "09月10日16:00",
+      "title": "WTT帕纳久里什泰常规挑战赛Day3下午场",
+      "keyword": "09月10日15:00",
       "sportItemId": "7",
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "WTT",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "男女单打1/16决赛、双打1/8决赛",
+      "pkInfoTitle": "WTT帕纳久里什泰常规挑战赛Day3下午场",
       "modifyTitle": "WTT帕纳久里什泰常规挑战赛男女单打1/16决赛、双打1/8决赛",
       "presenters": "凌维康 徐铭辰",
       "matchInfo": {
-        "time": "09月10日16:00"
+        "time": "09月10日15:00"
       },
       "nodes": [
         {
@@ -550,46 +550,6 @@
       "nodes": []
     },
     {
-      "mgdbId": "120000591796",
-      "pID": "967161411",
-      "title": "男女单打1/16决赛、男女双打1/8决赛",
-      "keyword": "09月10日22:00",
-      "sportItemId": "7",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "WTT",
-      "padImg": "",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "男女单打1/16决赛、男女双打1/8决赛",
-      "modifyTitle": "WTT帕纳久里什泰常规挑战赛男女单打1/16决赛、男女双打1/8决赛",
-      "presenters": "刘馨蕊",
-      "matchInfo": {
-        "time": "09月10日22:00"
-      },
-      "nodes": [
-        {
-          "pID": "967161411",
-          "name": "刘馨蕊"
-        },
-        {
-          "pID": "967161314",
-          "name": "1号桌"
-        },
-        {
-          "pID": "967161348",
-          "name": "2号桌"
-        },
-        {
-          "pID": "967161383",
-          "name": "3号桌"
-        },
-        {
-          "pID": "967161394",
-          "name": "4号桌"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000591483",
       "pID": "967048715",
       "title": "女单半决赛",
@@ -662,6 +622,46 @@
         {
           "pID": "967048755",
           "name": "英文解说"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000591796",
+      "pID": "967161411",
+      "title": "WTT帕纳久里什泰常规挑战赛Day3晚间场",
+      "keyword": "09月10日23:00",
+      "sportItemId": "7",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "WTT",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
+      "pkInfoTitle": "WTT帕纳久里什泰常规挑战赛Day3晚间场",
+      "modifyTitle": "WTT帕纳久里什泰常规挑战赛男女单打1/16决赛、男女双打1/8决赛",
+      "presenters": "刘馨蕊",
+      "matchInfo": {
+        "time": "09月10日23:00"
+      },
+      "nodes": [
+        {
+          "pID": "967161411",
+          "name": "刘馨蕊"
+        },
+        {
+          "pID": "967161314",
+          "name": "1号桌"
+        },
+        {
+          "pID": "967161348",
+          "name": "2号桌"
+        },
+        {
+          "pID": "967161383",
+          "name": "3号桌"
+        },
+        {
+          "pID": "967161394",
+          "name": "4号桌"
         }
       ]
     },
