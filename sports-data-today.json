@@ -1,10 +1,10 @@
 {
   "success": true,
-  "updateTime": "2026-09-10 02:01:14",
+  "updateTime": "2026-09-10 02:31:07",
   "data": [
     {
       "mgdbId": "120000592610",
-      "pID": "967297839",
+      "pID": "967449706",
       "title": "吴宜泽VS徐思 墨菲接台出战",
       "keyword": "09月10日02:00",
       "sportItemId": "8",
@@ -21,6 +21,18 @@
       },
       "nodes": [
         {
+          "pID": "967449706",
+          "name": "朱峰立"
+        },
+        {
+          "pID": "967449721",
+          "name": "杨江浩"
+        },
+        {
+          "pID": "967449727",
+          "name": "杨江源"
+        },
+        {
           "pID": "967297839",
           "name": "1号桌"
         },
@@ -35,18 +47,6 @@
         {
           "pID": "967297935",
           "name": "4号桌"
-        },
-        {
-          "pID": "967449706",
-          "name": "朱峰立"
-        },
-        {
-          "pID": "967449721",
-          "name": "杨江浩"
-        },
-        {
-          "pID": "967449727",
-          "name": "杨江源"
         }
       ]
     },
@@ -54,9 +54,9 @@
       "mgdbId": "120000592957",
       "pID": "967451779",
       "title": "2026美国网球公开赛女单1/4决赛：安德列娃 vs 高芙",
-      "keyword": "09月10日02:15",
+      "keyword": "09月10日02:10",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "美国网球公开赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/09/77NFETUOB6PF.jpg",
@@ -65,7 +65,7 @@
       "modifyTitle": "2026美国网球公开赛女单1/4决赛：安德列娃 vs 高芙",
       "presenters": "邱超",
       "matchInfo": {
-        "time": "09月10日02:15"
+        "time": "09月10日02:10"
       },
       "nodes": [
         {
@@ -90,7 +90,7 @@
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/08/77NEGKH8K3TM.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/9/4/100000001527106ab529.png",
       "pkInfoTitle": "意大利vs澳大利亚",
-      "modifyTitle": "女篮世界杯四分之一资格赛",
+      "modifyTitle": "女篮��界杯四分之一资格赛",
       "presenters": "张泽欣",
       "matchInfo": {
         "time": "09月10日02:45"
@@ -530,6 +530,24 @@
           "name": "《早安美网》"
         }
       ]
+    },
+    {
+      "mgdbId": "120000593005",
+      "title": "女篮世界杯四分之一决赛",
+      "keyword": "09月10日20:30",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "Berlin Arena",
+      "competitionName": "女篮世界杯",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/10/77NG91BN0KIA.png",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/9/4/100000001527106ab529.png",
+      "pkInfoTitle": "中国vs法国",
+      "modifyTitle": "女篮世界杯四分之一决赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "09月10日20:30"
+      },
+      "nodes": []
     },
     {
       "mgdbId": "120000591796",
