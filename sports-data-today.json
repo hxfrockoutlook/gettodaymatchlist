@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-09 14:01:19",
+  "updateTime": "2026-09-09 14:31:13",
   "data": [
     {
       "mgdbId": "120000592607",
@@ -240,7 +240,7 @@
       "title": "九九黄河2026滨州国际公路自行车赛",
       "keyword": "09月09日09:00",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "中国自行车运动协会系列赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/08/77NEGAM4483G.png",
@@ -319,7 +319,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/09/77NFBMI4178Q.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/09/77NFBUMLGVHA.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "王艺迪1-3梅谢芙 黄友政鏖战五局惜败",
       "modifyTitle": "WTT澳门冠军赛男女单打1/16决赛",
@@ -416,14 +416,14 @@
     },
     {
       "mgdbId": "120000592608",
-      "pID": "967298044",
+      "pID": "967449588",
       "title": "丁俊晖、周跃龙冲击十六强",
       "keyword": "09月09日17:00",
       "sportItemId": "8",
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "斯诺克",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/09/77NFDKQDT88D.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/09/77NFBUAF0U8J.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "丁俊晖、周跃龙冲击十六强",
       "modifyTitle": "斯诺克英格兰公开赛32进16：丁俊晖、周跃龙冲击十六强",
@@ -433,20 +433,20 @@
       },
       "nodes": [
         {
-          "pID": "967298044",
-          "name": "1号桌"
-        },
-        {
-          "pID": "967298063",
-          "name": "2号桌"
-        },
-        {
           "pID": "967449588",
           "name": "秦正"
         },
         {
           "pID": "967449613",
           "name": "乔迁"
+        },
+        {
+          "pID": "967298044",
+          "name": "1号桌"
+        },
+        {
+          "pID": "967298063",
+          "name": "2号桌"
         }
       ]
     },
@@ -591,11 +591,11 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "斯诺克",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/09/77NFBUOE9OL3.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "张安达VS塞尔比 常冰玉VS囧哥",
       "modifyTitle": "斯诺克英格兰公开赛32进16:张安达VS塞尔比 常冰玉VS囧哥",
-      "presenters": "卢正浩",
+      "presenters": "卢正浩 熊冕 柏林 涂子轩 陶哲铭",
       "matchInfo": {
         "time": "09月09日20:00"
       },
@@ -627,6 +627,14 @@
         {
           "pID": "967449689",
           "name": "柏林"
+        },
+        {
+          "pID": "967449692",
+          "name": "涂子轩"
+        },
+        {
+          "pID": "967449697",
+          "name": "陶哲铭"
         }
       ]
     },
@@ -785,6 +793,7 @@
     },
     {
       "mgdbId": "120000592956",
+      "pID": "967438848",
       "title": "美网女单1/4决赛：郑钦文 vs 莱巴金娜",
       "keyword": "09月09日23:30",
       "sportItemId": "9",
@@ -799,7 +808,12 @@
       "matchInfo": {
         "time": "09月09日23:30"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "967438848",
+          "name": "郑钦文翻盘名场面回顾"
+        }
+      ]
     },
     {
       "mgdbId": "120000592865",
