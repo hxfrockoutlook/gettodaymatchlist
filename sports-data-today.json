@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-10 09:31:11",
+  "updateTime": "2026-09-10 10:01:13",
   "data": [
     {
       "mgdbId": "120000592610",
@@ -71,14 +71,18 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg",
       "pkInfoTitle": "安德列娃 vs 高芙",
       "modifyTitle": "2026美国网球公开赛女单1/4决赛：安德列娃 vs 高芙",
-      "presenters": "",
+      "presenters": "邱超",
       "matchInfo": {
         "time": "09月10日02:10"
       },
       "nodes": [
         {
+          "pID": "967470501",
+          "name": "【回放】米拉·安德列娃1-2高芙（邱超）"
+        },
+        {
           "pID": "967467890",
-          "name": "全场回放"
+          "name": "【回放】米拉·安德列娃1-2高芙（赛场原声）（50帧原画）"
         }
       ]
     },
@@ -138,11 +142,11 @@
       "nodes": [
         {
           "pID": "967468978",
-          "name": "全场回放（刘钟鸣）"
+          "name": "【回放】卡恰诺夫2-0布洛克斯（退赛）（刘钟鸣）"
         },
         {
           "pID": "967469468",
-          "name": "全场回放"
+          "name": "【回放】卡恰诺夫2-0布洛克斯（退赛）（赛场原声）"
         }
       ]
     },
@@ -200,7 +204,7 @@
       "title": "第三日热身区",
       "keyword": "09月10日10:00",
       "sportItemId": "7",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/10/77NG9DTRGSR0.jpg",
@@ -224,7 +228,7 @@
       "title": "陈幸同冲开门红 周启豪首秀迎战邱党",
       "keyword": "09月10日11:00",
       "sportItemId": "7",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/06/77NCMM6P8ON1.jpg",
@@ -237,12 +241,12 @@
       },
       "nodes": [
         {
-          "pID": "967156540",
-          "name": "张靖松"
-        },
-        {
           "pID": "967156576",
           "name": "热身区"
+        },
+        {
+          "pID": "967156540",
+          "name": "张靖松"
         },
         {
           "pID": "967156176",
@@ -485,7 +489,7 @@
     {
       "mgdbId": "120000592611",
       "pID": "967297949",
-      "title": "斯诺克英格兰公开赛第三轮晚场",
+      "title": "周跃龙VS袁思俊 丁俊晖吴宜泽出战",
       "keyword": "09月10日20:00",
       "sportItemId": "8",
       "matchStatus": "0",
@@ -493,8 +497,8 @@
       "competitionName": "斯诺克",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "斯诺克英格兰公开赛第三轮晚场",
-      "modifyTitle": "斯诺克英格兰公开赛第三轮晚场",
+      "pkInfoTitle": "周跃龙VS袁思俊 丁俊晖吴宜泽出战",
+      "modifyTitle": "斯诺克英格兰公开赛第三轮：塞尔比VS囧哥 周跃龙VS袁思俊",
       "presenters": "",
       "matchInfo": {
         "time": "09月10日20:00"
@@ -541,6 +545,7 @@
     },
     {
       "mgdbId": "120000593005",
+      "pID": "967470660",
       "title": "女篮世界杯四分之一决赛",
       "keyword": "09月10日20:30",
       "sportItemId": "2",
@@ -551,11 +556,28 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/9/4/100000001527106ab529.png",
       "pkInfoTitle": "中国vs法国",
       "modifyTitle": "女篮世界杯四分之一决赛",
-      "presenters": "",
+      "presenters": "杨健 隋菲菲 吕程 郑薇 赵爽",
       "matchInfo": {
         "time": "09月10日20:30"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "967470660",
+          "name": "杨健 隋菲菲"
+        },
+        {
+          "pID": "967470676",
+          "name": "吕程 郑薇 赵爽"
+        },
+        {
+          "pID": "967470713",
+          "name": "英文解说"
+        },
+        {
+          "pID": "967470737",
+          "name": "赛场原声"
+        }
+      ]
     },
     {
       "mgdbId": "120000591483",
