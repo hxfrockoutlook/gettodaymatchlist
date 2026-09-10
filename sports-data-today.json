@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-10 17:31:12",
+  "updateTime": "2026-09-10 18:01:17",
   "data": [
     {
       "mgdbId": "120000592610",
@@ -247,6 +247,10 @@
         {
           "pID": "967478197",
           "name": "全场回放（英文解说智能字幕）"
+        },
+        {
+          "pID": "967482105",
+          "name": "2026WTT澳门冠军赛Day3下午场全场回放（赛场原声）"
         }
       ]
     },
@@ -307,7 +311,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/10/77NG9S66KNVM.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/10/77NG9VVI0SCC.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "万远双线作战 长崎美柚、佐藤瞳皆横扫晋级",
       "modifyTitle": "WTT帕纳久里什泰常规挑战赛男女单打1/16决赛、双打1/8决赛",
@@ -376,7 +380,7 @@
       "title": "NBA精彩重播：热火vs火箭",
       "keyword": "09月10日18:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA经典赛事",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/10/77NG9J8DBRNG.png",
@@ -600,11 +604,15 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg",
       "pkInfoTitle": "冲决赛！萨巴伦卡、莱巴金娜出战",
       "modifyTitle": "美国网球公开赛正赛Day12全场次：冲决赛！萨巴伦卡、莱巴金娜出战",
-      "presenters": "郭丰庆 乔迁 邱超 单文强",
+      "presenters": "郭丰庆",
       "matchInfo": {
         "time": "09月10日23:00"
       },
       "nodes": [
+        {
+          "pID": "967481614",
+          "name": "上地结衣 vs 贝尔纳尔"
+        },
         {
           "pID": "967049020",
           "name": "阿瑟・阿什球场"
@@ -668,22 +676,6 @@
         {
           "pID": "967481454",
           "name": "路易斯・阿姆斯特朗球场"
-        },
-        {
-          "pID": "967481614",
-          "name": "郭丰庆"
-        },
-        {
-          "pID": "967481636",
-          "name": "乔迁"
-        },
-        {
-          "pID": "967481656",
-          "name": "邱超"
-        },
-        {
-          "pID": "967481680",
-          "name": "单文强"
         }
       ]
     },
