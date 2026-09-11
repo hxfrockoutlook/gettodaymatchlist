@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-11 21:01:31",
+  "updateTime": "2026-09-11 21:31:26",
   "data": [
     {
       "mgdbId": "120000592612",
@@ -264,7 +264,7 @@
     },
     {
       "mgdbId": "120000592986",
-      "pID": "967498512",
+      "pID": "967500910",
       "title": "超三联赛 泸州大区赛 B档小组赛下午场",
       "keyword": "09月11日14:00",
       "sportItemId": "2",
@@ -281,6 +281,10 @@
       },
       "nodes": [
         {
+          "pID": "967500910",
+          "name": "全场回放（赛场原声）"
+        },
+        {
           "pID": "967498512",
           "name": "【回放】福州奇迹20:18江苏香江猛虎"
         },
@@ -294,11 +298,7 @@
         },
         {
           "pID": "967500278",
-          "name": "2026超三联赛泸州大区赛B档小组赛回放：成都和众21:11广东生涯"
-        },
-        {
-          "pID": "967500910",
-          "name": "2026超三联赛泸州大区赛B档小组赛下午场全场回放（赛场原声）"
+          "name": "【回放】成都和众21:11广东生涯"
         }
       ]
     },
@@ -347,6 +347,10 @@
         {
           "pID": "967505844",
           "name": "全场回放（张铭哲）"
+        },
+        {
+          "pID": "967506789",
+          "name": "全场回放（一号桌）"
         },
         {
           "pID": "967506309",
@@ -412,7 +416,7 @@
       "title": "NBA精彩重播：湖人vs活塞",
       "keyword": "09月11日18:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA经典赛事",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/11/77NH5UQHUK0M.jpg",
@@ -425,24 +429,24 @@
       },
       "nodes": [
         {
-          "pID": "966323935",
-          "name": "李天宇 陈正昊 王羽希"
+          "pID": "963790280",
+          "name": "全场回放"
         }
       ]
     },
     {
       "mgdbId": "120000587563",
       "pID": "967034572",
-      "title": "福州海侠VS厦门海豚",
+      "title": "福州海侠3-8厦门海豚",
       "keyword": "09月11日18:00",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "CPB中国棒球城市联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/10/77NG8PVSJJ7G.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/8/10/100000001517106f3b81.png",
-      "pkInfoTitle": "福州海侠VS厦门海豚",
-      "modifyTitle": "CPB中国棒球城市联赛：福州海侠VS厦门海豚",
+      "pkInfoTitle": "福州海侠3-8厦门海豚",
+      "modifyTitle": "CPB中国棒球城市联赛：福州海侠3-8厦门海豚",
       "presenters": "",
       "matchInfo": {
         "time": "09月11日18:00"
@@ -457,16 +461,16 @@
     {
       "mgdbId": "120000587564",
       "pID": "967034583",
-      "title": "深圳蓝袜VS长沙旺旺",
+      "title": "深圳蓝袜2-1长沙旺旺",
       "keyword": "09月11日18:30",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "CPB中国棒球城市联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/10/77NG8Q3C5PGF.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/8/10/100000001517106f3b81.png",
-      "pkInfoTitle": "深圳蓝袜VS长沙旺旺",
-      "modifyTitle": "CPB中国棒球城市联赛：深圳蓝袜VS长沙旺旺",
+      "pkInfoTitle": "深圳蓝袜2-1长沙旺旺",
+      "modifyTitle": "CPB中国棒球城市联赛：深圳蓝袜2-1长沙旺旺",
       "presenters": "",
       "matchInfo": {
         "time": "09月11日18:30"
@@ -516,11 +520,11 @@
     },
     {
       "mgdbId": "120000592987",
-      "pID": "967448705",
+      "pID": "967505423",
       "title": "超三联赛 泸州大区赛 B档小组赛晚间场",
       "keyword": "09月11日19:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "超三联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/11/77NH6PB7CI6H.png",
@@ -533,8 +537,20 @@
       },
       "nodes": [
         {
-          "pID": "967448705",
-          "name": "清流播出"
+          "pID": "967505423",
+          "name": "【回放】广东光正教育21:15江苏香江猛虎"
+        },
+        {
+          "pID": "967505617",
+          "name": "【回放】成都和众22:10湖北江鲟"
+        },
+        {
+          "pID": "967506476",
+          "name": "【回放】福州奇迹21:16广东生涯"
+        },
+        {
+          "pID": "967506906",
+          "name": "【回放】湖北江鲟19:21江苏香江猛虎"
         }
       ]
     },
@@ -554,8 +570,8 @@
       "matchInfo": {},
       "nodes": [
         {
-          "pID": "967502572",
-          "name": "苏东 孙继海 董方卓 杨茗茗"
+          "pID": "967506704",
+          "name": "《绿茵狂想：联赛季》第4期：谁主沉浮？孙继海、董方卓曼市德比大猜想"
         }
       ]
     },
@@ -586,16 +602,16 @@
     {
       "mgdbId": "120000591783",
       "pID": "967156475",
-      "title": "温州VS诸暨",
+      "title": "温州106-91诸暨",
       "keyword": "09月11日19:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "浙BA",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/02/77N92ACGBBVQ.png",
-      "pkInfoTitle": "温州VS诸暨",
-      "modifyTitle": "温州VS诸暨",
+      "pkInfoTitle": "温州106-91诸暨",
+      "modifyTitle": "温州106-91诸暨",
       "presenters": "",
       "matchInfo": {
         "time": "09月11日19:30"
@@ -696,7 +712,7 @@
       "pID": "967052215",
       "title": "《早安美网》第十二期",
       "sportItemId": "9",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "美国网球公开赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/11/77NH680L5PJR.jpg",
@@ -734,7 +750,7 @@
       "title": "ONE周五格斗夜170：育乐佩VS庞佩",
       "keyword": "09月11日21:30",
       "sportItemId": "5",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "ONE冠军赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/11/77NH7125LOGU.png",
