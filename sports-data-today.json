@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-11 14:01:31",
+  "updateTime": "2026-09-11 14:31:20",
   "data": [
     {
       "mgdbId": "120000592612",
@@ -233,15 +233,15 @@
     {
       "mgdbId": "120000591767",
       "pID": "967155568",
-      "title": "周启豪冲8强 陈垣宇2-3止步16强",
+      "title": "周启豪、陈熠晋级 陈垣宇2-3止步16强",
       "keyword": "09月11日11:00",
       "sportItemId": "7",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/11/77NH5SQSD348.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/11/77NH65B7VS6V.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "周启豪冲8强 陈垣宇2-3止步16强",
+      "pkInfoTitle": "周启豪、陈熠晋级 陈垣宇2-3止步16强",
       "modifyTitle": "WTT澳门冠军赛男女单打1/8决赛",
       "presenters": "徐儒叶",
       "matchInfo": {
@@ -296,7 +296,7 @@
       "title": "伊朗男排vs中国台北男排",
       "keyword": "09月11日14:30",
       "sportItemId": "3",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "亚洲男排锦标赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/10/77NG9RQQTK98.jpg",
@@ -653,7 +653,7 @@
     },
     {
       "mgdbId": "120000592613",
-      "pID": "967298126",
+      "pID": "967497801",
       "title": "丁俊晖PK凯伦·威尔逊 周跃龙战卡特",
       "keyword": "09月11日20:00",
       "sportItemId": "8",
@@ -664,11 +664,19 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "丁俊晖PK凯伦·威尔逊 周跃龙战卡特",
       "modifyTitle": "斯诺克英格兰公开赛1/4决赛：丁俊晖PK凯伦·威尔逊 周跃龙战卡特",
-      "presenters": "柏林 秦正",
+      "presenters": "秦正 柏林",
       "matchInfo": {
         "time": "09月11日20:00"
       },
       "nodes": [
+        {
+          "pID": "967497801",
+          "name": "解说：秦正"
+        },
+        {
+          "pID": "967497786",
+          "name": "解说：柏林"
+        },
         {
           "pID": "967298126",
           "name": "原声一号桌"
@@ -676,14 +684,6 @@
         {
           "pID": "967298137",
           "name": "原声二号桌"
-        },
-        {
-          "pID": "967497786",
-          "name": "柏林"
-        },
-        {
-          "pID": "967497801",
-          "name": "秦正"
         }
       ]
     },
