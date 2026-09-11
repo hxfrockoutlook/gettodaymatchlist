@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-11 13:31:16",
+  "updateTime": "2026-09-11 14:01:31",
   "data": [
     {
       "mgdbId": "120000592612",
@@ -239,7 +239,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/11/77NH93S3NJL5.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/11/77NH5SQSD348.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "周启豪冲8强 陈垣宇2-3止步16强",
       "modifyTitle": "WTT澳门冠军赛男女单打1/8决赛",
@@ -272,7 +272,7 @@
       "title": "超三联赛 泸州大区赛 B档小组赛下午场",
       "keyword": "09月11日14:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "超三联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/11/77NH86H4MIUV.jpg",
@@ -379,6 +379,30 @@
       ]
     },
     {
+      "mgdbId": "120000593228",
+      "pID": "967497309",
+      "title": "2026第三届天空之镜贵阳100越野赛",
+      "keyword": "09月11日16:30",
+      "sportItemId": "8",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "天空之镜贵阳100越野赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/11/77NH5UGIMQBE.png",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/9/11/100000001540106ec4b7.png",
+      "pkInfoTitle": "2026第三届天空之镜贵阳100越野赛",
+      "modifyTitle": "2026第三届天空之镜贵阳100越野赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "09月11日16:30"
+      },
+      "nodes": [
+        {
+          "pID": "967497309",
+          "name": "解说"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000583576",
       "pID": "966323935",
       "title": "NBA精彩重播：湖人vs活塞",
@@ -387,7 +411,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "NBA经典赛事",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/11/77NH5UQHUK0M.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png",
       "pkInfoTitle": "NBA精彩重播：湖人vs活塞",
       "modifyTitle": "NBA经典赛事",
@@ -640,7 +664,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "丁俊晖PK凯伦·威尔逊 周跃龙战卡特",
       "modifyTitle": "斯诺克英格兰公开赛1/4决赛：丁俊晖PK凯伦·威尔逊 周跃龙战卡特",
-      "presenters": "",
+      "presenters": "柏林 秦正",
       "matchInfo": {
         "time": "09月11日20:00"
       },
@@ -652,6 +676,14 @@
         {
           "pID": "967298137",
           "name": "原声二号桌"
+        },
+        {
+          "pID": "967497786",
+          "name": "柏林"
+        },
+        {
+          "pID": "967497801",
+          "name": "秦正"
         }
       ]
     },
