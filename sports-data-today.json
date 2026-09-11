@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-12 04:33:11",
+  "updateTime": "2026-09-12 05:03:14",
   "data": [
     {
       "mgdbId": "120000591484",
@@ -33,14 +33,6 @@
           "name": "阿瑟・阿什球场"
         },
         {
-          "pID": "967049833",
-          "name": "7号球场"
-        },
-        {
-          "pID": "967049903",
-          "name": "10号球场"
-        },
-        {
           "pID": "967049929",
           "name": "11号球场"
         },
@@ -63,6 +55,14 @@
         {
           "pID": "967049601",
           "name": "国际信号"
+        },
+        {
+          "pID": "967049903",
+          "name": "10号球场"
+        },
+        {
+          "pID": "967049833",
+          "name": "7号球场"
         }
       ]
     },
@@ -108,10 +108,10 @@
       "title": "德甲联赛",
       "keyword": "09月12日02:30",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "老林务所畔体育场",
       "competitionName": "德甲",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000588210/473508_H169_sc.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000588210/298272_H169_sc.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png",
       "pkInfoTitle": "柏林联合 vs 沙尔克04",
       "modifyTitle": "德甲联赛",
@@ -136,10 +136,10 @@
       "title": "法甲联赛",
       "keyword": "09月12日02:45",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "卢阿宗公园球场",
       "competitionName": "法甲",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000584495/208744_H169_sc.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000584495/146227_H169_sc.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/1/9106077d9.png",
       "pkInfoTitle": "雷恩 vs 马赛",
       "modifyTitle": "法甲联赛",
@@ -149,12 +149,12 @@
       },
       "nodes": [
         {
-          "pID": "967473940",
-          "name": "乔迁"
+          "pID": "967515932",
+          "name": "全场集锦"
         },
         {
-          "pID": "967473919",
-          "name": "赛场原声"
+          "pID": "967516045",
+          "name": "全场回放（乔迁）"
         }
       ]
     },
@@ -164,10 +164,10 @@
       "title": "意甲联赛",
       "keyword": "09月12日02:45",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "皮埃路易吉·彭佐体育场",
       "competitionName": "意甲",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000584862/202609120426_472055_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000584862/202609120450_378060_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png",
       "pkInfoTitle": "威尼斯 vs 佛罗伦萨",
       "modifyTitle": "意甲联赛",
@@ -177,12 +177,12 @@
       },
       "nodes": [
         {
-          "pID": "967472854",
-          "name": "张昊泽"
+          "pID": "967516156",
+          "name": "全场集锦"
         },
         {
-          "pID": "967472824",
-          "name": "赛场原声"
+          "pID": "967516011",
+          "name": "全场回放（张昊泽）"
         }
       ]
     },
@@ -1313,7 +1313,7 @@
       "competitionName": "闽超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000592942/202609081459_630427_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/14/10000000144210690378.png",
-      "pkInfoTitle": "福州vs厦门",
+      "pkInfoTitle": "福州vs��门",
       "modifyTitle": "闽超",
       "presenters": "",
       "matchInfo": {
