@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-12 07:03:12",
+  "updateTime": "2026-09-12 07:33:02",
   "data": [
     {
       "mgdbId": "120000591484",
@@ -33,36 +33,12 @@
           "name": "阿瑟・阿什球场"
         },
         {
-          "pID": "967049929",
-          "name": "11号球场"
-        },
-        {
-          "pID": "967050005",
-          "name": "12号球场"
-        },
-        {
-          "pID": "967050156",
-          "name": "14号球场"
-        },
-        {
           "pID": "967049658",
           "name": "英文解说"
         },
         {
           "pID": "967049601",
           "name": "国际信号"
-        },
-        {
-          "pID": "967049903",
-          "name": "10号球场"
-        },
-        {
-          "pID": "967049833",
-          "name": "7号球场"
-        },
-        {
-          "pID": "967050123",
-          "name": "13号球场"
         }
       ]
     },
@@ -91,6 +67,10 @@
         {
           "pID": "967517011",
           "name": "26/27赛季斯诺克英格兰公开赛1/4决赛回放：马克·威廉姆斯6-3利亚姆·戴维斯（赛场原声）"
+        },
+        {
+          "pID": "967517135",
+          "name": "26/27赛季斯诺克英格兰公开赛1/4决赛回放：贾德·特鲁姆普5-6肖恩·墨菲（卢正浩）"
         }
       ]
     },
@@ -225,12 +205,12 @@
       },
       "nodes": [
         {
-          "pID": "967499288",
-          "name": "鸿昆 胡力涛"
+          "pID": "967517023",
+          "name": "全场回放"
         },
         {
-          "pID": "967499264",
-          "name": "赛场原声"
+          "pID": "967517046",
+          "name": "全场回放（鸿昆、胡力涛）"
         }
       ]
     },
@@ -292,7 +272,7 @@
       "title": "澜跑北京越野跑挑战赛(海淀)DAY3",
       "keyword": "09月12日07:20",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "澜跑北京越野跑挑战赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/11/77NH6VGE9N6J.png",
@@ -2589,7 +2569,7 @@
     {
       "mgdbId": "120000592615",
       "pID": "967298196",
-      "title": "半决赛",
+      "title": "丁俊晖vs阿里·卡特",
       "keyword": "09月12日20:00",
       "sportItemId": "8",
       "matchStatus": "0",
@@ -2597,8 +2577,8 @@
       "competitionName": "斯诺克",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "半决赛",
-      "modifyTitle": "斯诺克英格兰公开赛半决赛晚场",
+      "pkInfoTitle": "丁俊晖vs阿里·卡特",
+      "modifyTitle": "斯诺克英格兰公开赛半决赛：丁俊晖vs阿里·卡特",
       "presenters": "",
       "matchInfo": {
         "time": "09月12日20:00"
