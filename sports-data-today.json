@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-12 15:03:19",
+  "updateTime": "2026-09-12 15:33:40",
   "data": [
     {
       "mgdbId": "120000591484",
@@ -102,7 +102,7 @@
         },
         {
           "pID": "967512800",
-          "name": "【轮椅青少年男单决��】KNOESEN2-0RENNISON（赛场原声）"
+          "name": "【轮椅青少年男单决赛】KNOESEN2-0RENNISON（赛场原声）"
         },
         {
           "pID": "967516886",
@@ -424,7 +424,7 @@
       "title": "2026年全国海钓锦标赛（秦皇岛北戴河站）",
       "keyword": "09月12日08:00",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "全国海钓锦标赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/11/77NH72OQINIJ.webp",
@@ -664,7 +664,7 @@
       "title": "安徽省青少年足球联赛",
       "keyword": "09月12日15:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "徽青赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000592709/202609071035_239460_H169_1080.webp",
@@ -688,7 +688,7 @@
       "title": "安徽省青少年足球联赛",
       "keyword": "09月12日15:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "徽青赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000592711/202609071035_503306_H169_1080.webp",
@@ -712,7 +712,7 @@
       "title": "安徽省青少年足球联赛",
       "keyword": "09月12日15:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "徽青赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000592712/202609071035_931726_H169_1080.webp",
@@ -987,7 +987,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "NBA经典赛事",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/12/77NI3BNH6DD5.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png",
       "pkInfoTitle": "NBA精彩重播：骑士vs湖人",
       "modifyTitle": "NBA经典赛事",
@@ -2716,6 +2716,10 @@
         {
           "pID": "967052228",
           "name": "《早安美网》"
+        },
+        {
+          "pID": "967525600",
+          "name": "美网每日之星・兹维列夫关键分统治力"
         }
       ]
     },
@@ -3145,7 +3149,7 @@
     },
     {
       "mgdbId": "120000591485",
-      "pID": "967050191",
+      "pID": "967050312",
       "title": "双巴大战来袭 孙心然冲青少年冠军",
       "keyword": "09月12日23:00",
       "sportItemId": "9",
@@ -3156,34 +3160,42 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg",
       "pkInfoTitle": "双巴大战来袭 孙心然冲青少年冠军",
       "modifyTitle": "美国网球公开赛正赛Day14全场次：双巴大战来袭 孙心然冲青少年冠军",
-      "presenters": "单文强 房朕",
+      "presenters": "单文强 房朕 邱超 李宁",
       "matchInfo": {
         "time": "09月12日23:00"
       },
       "nodes": [
         {
+          "pID": "967050312",
+          "name": "7号球场"
+        },
+        {
           "pID": "967050265",
           "name": "阿瑟・阿什球场"
         },
         {
-          "pID": "967050312",
-          "name": "路易斯・阿姆斯特朗球场"
+          "pID": "967524275",
+          "name": "阿瑟・阿什球场"
         },
         {
           "pID": "967050333",
-          "name": "大看台球场"
+          "name": "10号球场"
         },
         {
           "pID": "967050342",
-          "name": "17号球场"
+          "name": "11号球场"
         },
         {
           "pID": "967050347",
-          "name": "5号球场"
+          "name": "12号球场"
         },
         {
           "pID": "967050361",
-          "name": "6号球场"
+          "name": "13号球场"
+        },
+        {
+          "pID": "967524450",
+          "name": "14号球场"
         },
         {
           "pID": "967050191",
@@ -3192,14 +3204,6 @@
         {
           "pID": "967050230",
           "name": "英文解说"
-        },
-        {
-          "pID": "967524275",
-          "name": "阿瑟・阿什球场"
-        },
-        {
-          "pID": "967524450",
-          "name": "14号球场"
         },
         {
           "pID": "967524464",
@@ -3212,6 +3216,10 @@
         {
           "pID": "967524568",
           "name": "房朕"
+        },
+        {
+          "pID": "967524526",
+          "name": "萨巴伦卡 vs 莱巴金娜(邱超,李宁)"
         }
       ]
     },
