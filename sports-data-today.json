@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-13 03:02:18",
+  "updateTime": "2026-09-13 04:40:01",
   "data": [
     {
       "mgdbId": "120000584867",
@@ -27,6 +27,10 @@
         {
           "pID": "967549185",
           "name": "全场回放（石庆圣、李彦）"
+        },
+        {
+          "pID": "967549722",
+          "name": "全场回放"
         }
       ]
     },
@@ -51,6 +55,10 @@
         {
           "pID": "967549340",
           "name": "全场集锦"
+        },
+        {
+          "pID": "967551654",
+          "name": "全场回放（陈凯冬、何辉）"
         }
       ]
     },
@@ -88,7 +96,7 @@
       "title": "德甲联赛",
       "keyword": "09月13日00:30",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "科隆球场",
       "competitionName": "德甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000588204/349813_H169_sc.jpg",
@@ -101,12 +109,12 @@
       },
       "nodes": [
         {
-          "pID": "967474293",
-          "name": "赵宇"
+          "pID": "967549777",
+          "name": "全场集锦"
         },
         {
-          "pID": "967474288",
-          "name": "赛场原声"
+          "pID": "967550494",
+          "name": "全场回放（赵宇）"
         }
       ]
     },
@@ -215,7 +223,7 @@
       "matchStatus": "1",
       "matchField": "让·布安体育场",
       "competitionName": "法甲",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000584496/202607231421_600763_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000584496/202609130315_717112_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/1/9106077d9.png",
       "pkInfoTitle": "巴黎 vs 里昂",
       "modifyTitle": "法甲联赛",
@@ -243,7 +251,7 @@
       "matchStatus": "1",
       "matchField": "莫斯托伊球场",
       "competitionName": "法甲",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000584497/202607231606_136040_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000584497/202609130315_460028_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/1/9106077d9.png",
       "pkInfoTitle": "洛里昂 vs 图卢兹",
       "modifyTitle": "法甲联赛",
@@ -271,7 +279,7 @@
       "matchStatus": "1",
       "matchField": "奥塞安体育场",
       "competitionName": "法甲",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000584498/202609130300_410807_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000584498/202609130315_280993_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/1/9106077d9.png",
       "pkInfoTitle": "勒阿弗尔 vs 昂热",
       "modifyTitle": "法甲联赛",
@@ -299,7 +307,7 @@
       "matchStatus": "1",
       "matchField": "阿贝·德尚体育场",
       "competitionName": "法甲",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000584500/202607231607_387458_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000584500/202609130315_884881_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/1/9106077d9.png",
       "pkInfoTitle": "欧塞尔 vs 尼斯",
       "modifyTitle": "法甲联赛",
@@ -327,7 +335,7 @@
       "matchStatus": "1",
       "matchField": "蓝色意大利竞技场",
       "competitionName": "意甲",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000584871/202607231446_229984_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000584871/202609130315_637493_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png",
       "pkInfoTitle": "亚特兰大 vs 卡利亚里",
       "modifyTitle": "意甲联赛",
@@ -416,7 +424,7 @@
       "title": "2026美国网球公开赛女单决赛：萨巴伦卡 vs 莱巴金娜",
       "keyword": "09月13日04:00",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "美国网球公开赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/12/77NI3J9GOS83.jpg",
@@ -699,12 +707,7 @@
       "matchInfo": {
         "time": "09月13日10:00"
       },
-      "nodes": [
-        {
-          "pID": "967155857",
-          "name": "热身区"
-        }
-      ]
+      "nodes": []
     },
     {
       "mgdbId": "120000593004",
@@ -783,12 +786,7 @@
       "matchInfo": {
         "time": "09月13日13:00"
       },
-      "nodes": [
-        {
-          "pID": "967497014",
-          "name": "解说"
-        }
-      ]
+      "nodes": []
     },
     {
       "mgdbId": "120000592990",
@@ -1061,7 +1059,7 @@
     {
       "mgdbId": "120000593290",
       "pID": "967523504",
-      "title": "傅家俊、王信伯、罗泽涛出战",
+      "title": "傅家俊、王信伯、罗��涛出战",
       "keyword": "09月13日17:00",
       "sportItemId": "8",
       "matchStatus": "0",
@@ -1223,16 +1221,7 @@
       "matchInfo": {
         "time": "09月13日19:00"
       },
-      "nodes": [
-        {
-          "pID": "967473773",
-          "name": "胡小凡"
-        },
-        {
-          "pID": "967473781",
-          "name": "赛场原声"
-        }
-      ]
+      "nodes": []
     },
     {
       "mgdbId": "120000592459",
@@ -1375,12 +1364,7 @@
       "matchInfo": {
         "time": "09月13日19:00"
       },
-      "nodes": [
-        {
-          "pID": "967384428",
-          "name": "赛场原声"
-        }
-      ]
+      "nodes": []
     },
     {
       "mgdbId": "120000592727",
@@ -1527,12 +1511,7 @@
       "matchInfo": {
         "time": "09月13日19:30"
       },
-      "nodes": [
-        {
-          "pID": "967156524",
-          "name": "赛场原声"
-        }
-      ]
+      "nodes": []
     },
     {
       "mgdbId": "120000592564",
@@ -1979,16 +1958,7 @@
       "matchInfo": {
         "time": "09月13日22:15"
       },
-      "nodes": [
-        {
-          "pID": "967474958",
-          "name": "张昊泽 李欣"
-        },
-        {
-          "pID": "967474952",
-          "name": "赛场原声"
-        }
-      ]
+      "nodes": []
     },
     {
       "mgdbId": "120000591486",
