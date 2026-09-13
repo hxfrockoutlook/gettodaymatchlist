@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-13 11:02:31",
+  "updateTime": "2026-09-13 11:32:21",
   "data": [
     {
       "mgdbId": "120000584867",
@@ -530,7 +530,7 @@
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/12/77NI3RISHU3N.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/3/31/10000000139810626c9f.png",
       "pkInfoTitle": "Zuffa拳击特别赛：加西亚VS康纳-本",
-      "modifyTitle": "Zuffa拳击特别赛：加���亚VS康纳-本",
+      "modifyTitle": "Zuffa拳击特别赛：加西亚VS康纳-本",
       "presenters": "陈瑞阳 吕凯",
       "matchInfo": {
         "time": "09月13日05:00"
@@ -576,7 +576,7 @@
       "title": "2026年全国露营大会暨“大洪山杯”第三届中国公路自行车公开赛",
       "keyword": "09月13日07:30",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "中国自行车运动协会系列赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/12/77NI3U0EH6BT.webp",
@@ -600,7 +600,7 @@
       "title": "2026乌鲁木齐马拉松",
       "keyword": "09月13日07:30",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "逐马计划",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/11/77NH8ITB17GP.jpg",
@@ -808,7 +808,7 @@
     },
     {
       "mgdbId": "120000591772",
-      "pID": "967155857",
+      "pID": "967155834",
       "title": "争决赛权！陈熠vs早田 陈幸同PK张本美和",
       "keyword": "09月13日11:00",
       "sportItemId": "7",
@@ -2072,6 +2072,7 @@
     },
     {
       "mgdbId": "120000593308",
+      "pID": "967565664",
       "title": "女篮世界杯季军赛",
       "keyword": "09月13日22:30",
       "sportItemId": "2",
@@ -2082,11 +2083,24 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/9/4/100000001527106ab529.png",
       "pkInfoTitle": "西班牙vs德国",
       "modifyTitle": "女篮世界杯季军赛",
-      "presenters": "",
+      "presenters": "连睿",
       "matchInfo": {
         "time": "09月13日22:30"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "967565664",
+          "name": "连睿"
+        },
+        {
+          "pID": "967565690",
+          "name": "英文解说"
+        },
+        {
+          "pID": "967565695",
+          "name": "赛场原声"
+        }
+      ]
     },
     {
       "mgdbId": "120000585127",
@@ -2197,42 +2211,6 @@
         {
           "pID": "967520138",
           "name": "智能解说"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000591486",
-      "pID": "120000591486",
-      "title": "男单决赛",
-      "keyword": "09月13日23:00",
-      "sportItemId": "",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "美国网球公开赛",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/12/05/11005/7c2e7b1705544ef19bb047605669347c/7c2e7b1705544ef19bb047605669347c_H169_P1080_WEBP.webp",
-      "competitionLogo": "",
-      "pkInfoTitle": "男单决赛",
-      "modifyTitle": "男单决赛",
-      "presenters": "",
-      "matchInfo": {
-        "time": "09月13日23:00"
-      },
-      "nodes": [
-        {
-          "pID": "967050396",
-          "name": "阿瑟・阿什球场"
-        },
-        {
-          "pID": "967050404",
-          "name": "路易斯・阿姆斯特朗球场"
-        },
-        {
-          "pID": "967050380",
-          "name": "国际信号"
-        },
-        {
-          "pID": "967050383",
-          "name": "英文解说"
         }
       ]
     }
