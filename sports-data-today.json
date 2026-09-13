@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-13 18:32:31",
+  "updateTime": "2026-09-13 19:02:37",
   "data": [
     {
       "mgdbId": "120000584867",
@@ -158,7 +158,7 @@
         },
         {
           "pID": "967560318",
-          "name": "席尔瓦VS��尔加多"
+          "name": "席尔瓦VS德尔加多"
         },
         {
           "pID": "967559453",
@@ -969,8 +969,8 @@
       },
       "nodes": [
         {
-          "pID": "967382778",
-          "name": "赛场原声"
+          "pID": "967572337",
+          "name": "全场回放"
         }
       ]
     },
@@ -1017,8 +1017,8 @@
       },
       "nodes": [
         {
-          "pID": "967382789",
-          "name": "赛场原声"
+          "pID": "967572268",
+          "name": "全场回放"
         }
       ]
     },
@@ -1079,7 +1079,7 @@
       "matchStatus": "2",
       "matchField": "花都体育中心",
       "competitionName": "中乙",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000592568/202609050346_148895_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000592568/202609131846_292947_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/7/7/1000000011571060f297.png",
       "pkInfoTitle": "广州蒲公英 vs 兰州陇原竞技",
       "modifyTitle": "中乙保级赛",
@@ -1089,8 +1089,8 @@
       },
       "nodes": [
         {
-          "pID": "967471651",
-          "name": "解说"
+          "pID": "967572285",
+          "name": "全场回放"
         }
       ]
     },
@@ -1179,11 +1179,11 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "斯诺克",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/13/77NJ2K7KUI3H.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/13/77NJ1ISV09V6.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "傅家俊、王信伯、罗泽涛出战",
       "modifyTitle": "斯诺克北爱尔兰公开赛资格赛第一轮：傅家俊、王信伯、罗泽涛出战",
-      "presenters": "涂子轩 陶哲铭 杨江源 杨江浩",
+      "presenters": "涂子轩 杨江源 杨江浩 陶哲铭",
       "matchInfo": {
         "time": "09月13日17:00"
       },
@@ -1193,20 +1193,8 @@
           "name": "涂子轩"
         },
         {
-          "pID": "967568661",
-          "name": "陶哲铭"
-        },
-        {
           "pID": "967523504",
           "name": "1号桌"
-        },
-        {
-          "pID": "967523543",
-          "name": "2号桌"
-        },
-        {
-          "pID": "967523600",
-          "name": "4号桌"
         },
         {
           "pID": "967568689",
@@ -1217,8 +1205,20 @@
           "name": "杨江浩"
         },
         {
+          "pID": "967523543",
+          "name": "2号桌"
+        },
+        {
           "pID": "967523584",
           "name": "3号桌"
+        },
+        {
+          "pID": "967523600",
+          "name": "4号桌"
+        },
+        {
+          "pID": "967568661",
+          "name": "陶哲铭"
         }
       ]
     },
@@ -1316,7 +1316,7 @@
       "title": "中甲联赛",
       "keyword": "09月13日19:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "宜兴市体育中心体育场",
       "competitionName": "中甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000570566/518009_H169_sc.jpg",
@@ -1344,7 +1344,7 @@
       "title": "英女超联赛",
       "keyword": "09月13日19:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "Progress with Unity Stadium",
       "competitionName": "英女超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000592173/202609020938_389298_H169_1080.webp",
@@ -1372,7 +1372,7 @@
       "title": "粤港澳篮球邀请赛Day2",
       "keyword": "09月13日19:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "粤BA",
       "padImg": "",
@@ -1400,7 +1400,7 @@
       "title": "中乙升级赛组",
       "keyword": "09月13日19:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "临沂大学体育场",
       "competitionName": "中乙",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000592566/202609050346_733862_H169_1080.webp",
@@ -1424,7 +1424,7 @@
       "title": "中乙保级赛",
       "keyword": "09月13日19:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "Conson Sports Center Outer Field",
       "competitionName": "中乙",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000592567/202609050346_896261_H169_1080.webp",
@@ -1448,7 +1448,7 @@
       "title": "徽BA",
       "keyword": "09月13日19:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "徽BA",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000592724/202609071115_247667_H169_1080.webp",
@@ -1472,7 +1472,7 @@
       "title": "徽BA",
       "keyword": "09月13日19:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "徽BA",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000592725/202609071115_510189_H169_1080.webp",
@@ -1496,7 +1496,7 @@
       "title": "徽BA",
       "keyword": "09月13日19:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "徽BA",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000592726/202609071115_696853_H169_1080.webp",
@@ -1520,7 +1520,7 @@
       "title": "徽BA",
       "keyword": "09月13日19:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "徽BA",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000592727/202609071114_735648_H169_1080.webp",
@@ -1544,7 +1544,7 @@
       "title": "超三联赛 泸州大区赛 A档半决赛及决赛",
       "keyword": "09月13日19:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "超三联赛",
       "padImg": "",
