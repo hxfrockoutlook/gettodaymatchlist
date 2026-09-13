@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-14 02:31:49",
+  "updateTime": "2026-09-14 03:01:13",
   "data": [
     {
       "mgdbId": "120000584865",
@@ -21,8 +21,12 @@
       },
       "nodes": [
         {
+          "pID": "967588699",
+          "name": "全场集锦"
+        },
+        {
           "pID": "967588484",
-          "name": "全场回放"
+          "name": "全场回放（涂远）"
         }
       ]
     },
@@ -32,10 +36,10 @@
       "title": "西甲联赛",
       "keyword": "09月14日00:30",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "阿方索·佩雷斯球场",
       "competitionName": "西甲",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000586189/913279_H169_sc.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/14/77NJTFLODQ3M.jpg",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/21/779JJMOFB20H.png",
       "pkInfoTitle": "赫塔费 vs 拉科鲁尼亚",
       "modifyTitle": "西甲联赛",
@@ -45,12 +49,12 @@
       },
       "nodes": [
         {
-          "pID": "967474925",
-          "name": "梁祥宇"
+          "pID": "967589243",
+          "name": "全场集锦"
         },
         {
-          "pID": "967474912",
-          "name": "赛场原声"
+          "pID": "967589211",
+          "name": "全场回放（梁祥宇）"
         }
       ]
     },
@@ -125,7 +129,7 @@
     {
       "mgdbId": "120000592618",
       "pID": "967518961",
-      "title": "斯诺克英格兰公开赛决赛第二阶段：阿里·卡特 vs 马克·威廉姆斯",
+      "title": "斯诺克英格兰公开赛决赛第二阶段：阿��·卡特 vs 马克·威廉姆斯",
       "keyword": "09月14日02:00",
       "sportItemId": "8",
       "matchStatus": "1",
@@ -199,7 +203,16 @@
       "matchInfo": {
         "time": "09月14日02:45"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "967474540",
+          "name": "鹿中原 王宇"
+        },
+        {
+          "pID": "967474537",
+          "name": "赛场原声"
+        }
+      ]
     },
     {
       "mgdbId": "120000584864",
@@ -239,7 +252,7 @@
       "title": "西甲联赛",
       "keyword": "09月14日03:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "阿诺埃塔球场",
       "competitionName": "西甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000586185/554009_H169_sc.jpg",
@@ -267,7 +280,7 @@
       "title": "斯特恩斯 vs 阿朗戈",
       "keyword": "09月14日03:00",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/13/77NJ09IOQG2T.jpg",
