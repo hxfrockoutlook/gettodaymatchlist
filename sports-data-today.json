@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-14 01:01:12",
+  "updateTime": "2026-09-14 01:32:10",
   "data": [
     {
       "mgdbId": "120000584865",
@@ -64,7 +64,7 @@
       "title": "英女超联赛",
       "keyword": "09月14日01:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "维拉公园球场",
       "competitionName": "英女超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000592168/202609021007_924179_H169_1080.webp",
@@ -88,11 +88,11 @@
     },
     {
       "mgdbId": "120000591486",
-      "pID": "967050396",
+      "pID": "967567976",
       "title": "2026美国网球公开赛男单决赛：兹维列夫 vs 谢尔顿",
       "keyword": "09月14日02:00",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "美国网球公开赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/13/77NJ10C57C7D.jpg",
@@ -103,33 +103,12 @@
       "matchInfo": {
         "time": "09月14日02:00"
       },
-      "nodes": [
-        {
-          "pID": "967567976",
-          "name": "演播室"
-        },
-        {
-          "pID": "967050396",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "967571443",
-          "name": "同声传译"
-        },
-        {
-          "pID": "967050383",
-          "name": "英文解说"
-        },
-        {
-          "pID": "967050380",
-          "name": "国际信号"
-        }
-      ]
+      "nodes": []
     },
     {
       "mgdbId": "120000592618",
       "pID": "967518961",
-      "title": "斯诺克英格兰公开赛决赛第二阶段：阿里·卡特 vs 马克·威���姆斯",
+      "title": "斯诺克英格兰公开赛决赛第二阶段���阿里·卡特 vs 马克·威廉姆斯",
       "keyword": "09月14日02:00",
       "sportItemId": "8",
       "matchStatus": "0",
