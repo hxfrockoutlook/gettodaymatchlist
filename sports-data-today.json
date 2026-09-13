@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-13 22:02:52",
+  "updateTime": "2026-09-13 22:32:49",
   "data": [
     {
       "mgdbId": "120000584867",
@@ -957,7 +957,7 @@
     {
       "mgdbId": "120000592715",
       "pID": "967382783",
-      "title": "安徽省青少年���球联赛",
+      "title": "安徽省青少年足球联赛",
       "keyword": "09月13日15:30",
       "sportItemId": "1",
       "matchStatus": "2",
@@ -1162,7 +1162,7 @@
         },
         {
           "pID": "967575853",
-          "name": "2026WTT帕纳久里什泰常规挑战赛Day6下午场全场回放（刘馨蕊）"
+          "name": "全场回放（刘馨蕊）"
         }
       ]
     },
@@ -1197,16 +1197,16 @@
           "name": "2号桌"
         },
         {
-          "pID": "967523584",
-          "name": "3号桌"
-        },
-        {
           "pID": "967568689",
           "name": "杨江源"
         },
         {
           "pID": "967568708",
           "name": "杨江浩"
+        },
+        {
+          "pID": "967523584",
+          "name": "3号桌"
         },
         {
           "pID": "967523600",
@@ -1429,8 +1429,8 @@
       },
       "nodes": [
         {
-          "pID": "967471705",
-          "name": "解说"
+          "pID": "967577929",
+          "name": "全场回放（官方解说）"
         }
       ]
     },
@@ -1481,8 +1481,8 @@
       },
       "nodes": [
         {
-          "pID": "967384413",
-          "name": "赛场原声"
+          "pID": "967577633",
+          "name": "全场回放"
         }
       ]
     },
@@ -1571,6 +1571,10 @@
         {
           "pID": "967574780",
           "name": "2026超三联赛泸州大区赛A档半决赛及决赛全场回放（王冠证）"
+        },
+        {
+          "pID": "967577154",
+          "name": "2026超三联赛泸州大区赛A档半决赛及决赛全场回放（赛场原声）"
         }
       ]
     },
@@ -1645,12 +1649,8 @@
       },
       "nodes": [
         {
-          "pID": "967444775",
-          "name": "解说"
-        },
-        {
-          "pID": "967444778",
-          "name": "赛场原声"
+          "pID": "967578111",
+          "name": "全场回放"
         }
       ]
     },
@@ -1756,7 +1756,7 @@
       "title": "赣超半决赛",
       "keyword": "09月13日19:30",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "赣超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000592749/202609071600_320706_H169_1080.webp",
@@ -1831,7 +1831,7 @@
       "matchStatus": "2",
       "matchField": "巴莱多斯球场",
       "competitionName": "西甲",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000586190/658560_H169_sc.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000586190/316926_H169_sc.jpg",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/21/779JJMOFB20H.png",
       "pkInfoTitle": "塞尔塔 vs 马拉加",
       "modifyTitle": "西甲联赛",
@@ -1841,12 +1841,12 @@
       },
       "nodes": [
         {
-          "pID": "967474974",
-          "name": "孙雨轩"
+          "pID": "967577130",
+          "name": "全场集锦"
         },
         {
-          "pID": "967474968",
-          "name": "赛场原声"
+          "pID": "967577223",
+          "name": "全场回放（孙雨轩）"
         }
       ]
     },
@@ -1952,7 +1952,7 @@
       "matchStatus": "1",
       "matchField": "维亚德马雷市政体育场",
       "competitionName": "意甲",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000584866/202609132150_811878_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000584866/202609132223_210095_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png",
       "pkInfoTitle": "莱切 vs 蒙扎",
       "modifyTitle": "意甲联赛",
@@ -2173,7 +2173,7 @@
       "title": "女篮世界杯季军赛",
       "keyword": "09月13日22:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "Berlin Arena",
       "competitionName": "女篮世界杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/13/77NJ1T4S06AL.png",
@@ -2233,7 +2233,7 @@
       "title": "英超联赛",
       "keyword": "09月13日23:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "老特拉福德球场",
       "competitionName": "英超",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000584245/475594_H169_sc.jpg",
@@ -2250,16 +2250,16 @@
           "name": "詹俊 张路 李子琪"
         },
         {
+          "pID": "967482526",
+          "name": "特别节目：球迷请发言"
+        },
+        {
           "pID": "967474163",
           "name": "石庆圣 李彦"
         },
         {
           "pID": "967474148",
           "name": "粤语：陈凯冬 何辉 陆毅隽"
-        },
-        {
-          "pID": "967482526",
-          "name": "特别节目：球迷请发言"
         },
         {
           "pID": "967474131",
