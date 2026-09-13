@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-13 19:02:37",
+  "updateTime": "2026-09-13 19:32:21",
   "data": [
     {
       "mgdbId": "120000584867",
@@ -1041,8 +1041,8 @@
       },
       "nodes": [
         {
-          "pID": "967454958",
-          "name": "赛场原声"
+          "pID": "967572692",
+          "name": "全场回放"
         }
       ]
     },
@@ -1090,7 +1090,7 @@
       "nodes": [
         {
           "pID": "967572285",
-          "name": "全场回放"
+          "name": "全场回放（官方解说）"
         }
       ]
     },
@@ -1172,7 +1172,7 @@
     },
     {
       "mgdbId": "120000593290",
-      "pID": "967568643",
+      "pID": "967568676",
       "title": "傅家俊、王信伯、罗泽涛出战",
       "keyword": "09月13日17:00",
       "sportItemId": "8",
@@ -1183,26 +1183,18 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "傅家俊、王信伯、罗泽涛出战",
       "modifyTitle": "斯诺克北爱尔兰公开赛资格赛第一轮：傅家俊、王信伯、罗泽涛出战",
-      "presenters": "涂子轩 杨江源 杨江浩 陶哲铭",
+      "presenters": "陶哲铭 杨江源 杨江浩 涂子轩",
       "matchInfo": {
         "time": "09月13日17:00"
       },
       "nodes": [
         {
-          "pID": "967568643",
-          "name": "涂子轩"
+          "pID": "967568676",
+          "name": "陶哲铭"
         },
         {
           "pID": "967523504",
           "name": "1号桌"
-        },
-        {
-          "pID": "967568689",
-          "name": "杨江源"
-        },
-        {
-          "pID": "967568708",
-          "name": "杨江浩"
         },
         {
           "pID": "967523543",
@@ -1217,8 +1209,20 @@
           "name": "4号桌"
         },
         {
+          "pID": "967568689",
+          "name": "杨江源"
+        },
+        {
+          "pID": "967568708",
+          "name": "杨江浩"
+        },
+        {
           "pID": "967568661",
           "name": "陶哲铭"
+        },
+        {
+          "pID": "967568643",
+          "name": "涂子轩"
         }
       ]
     },
@@ -1547,7 +1551,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "超三联赛",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/13/77NJ1OPD5AT0.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg",
       "pkInfoTitle": "超三联赛 泸州大区赛 A档半决赛及决赛",
       "modifyTitle": "超三联赛",
@@ -1568,7 +1572,7 @@
       "title": "湖北省城市足球联赛",
       "keyword": "09月13日19:25",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "楚超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000577712/202605201205_493975_H169_1080.webp",
@@ -1592,7 +1596,7 @@
       "title": "中甲联赛",
       "keyword": "09月13日19:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "裕彤国际体育中心",
       "competitionName": "中甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000570564/595998_H169_sc.jpg",
@@ -1620,7 +1624,7 @@
       "title": "中甲联赛",
       "keyword": "09月13日19:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "五华奥体中心惠堂体育场",
       "competitionName": "中甲",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000570565/202603010041_345912_H169_1080.webp",
@@ -1648,7 +1652,7 @@
       "title": "富阳VS苍南",
       "keyword": "09月13日19:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "浙BA",
       "padImg": "",
@@ -1672,7 +1676,7 @@
       "title": "中乙升级赛组",
       "keyword": "09月13日19:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "深圳青少年足球训练基地中心场",
       "competitionName": "中乙",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000592564/202609050346_822203_H169_1080.webp",
@@ -1696,7 +1700,7 @@
       "title": "中乙保级赛",
       "keyword": "09月13日19:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "温州体育中心体育场",
       "competitionName": "中乙",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000592565/202609050346_353492_H169_1080.webp",
@@ -1720,7 +1724,7 @@
       "title": "安徽省青少年足球联赛",
       "keyword": "09月13日19:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "徽青赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000592713/202609071035_407047_H169_1080.webp",
@@ -1744,7 +1748,7 @@
       "title": "赣超半决赛",
       "keyword": "09月13日19:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "赣超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000592749/202609071600_320706_H169_1080.webp",
@@ -1844,7 +1848,7 @@
       "title": "斯诺克英格兰公开赛决赛第一阶段：阿里·卡特 vs 马克·威廉姆斯",
       "keyword": "09月13日20:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/13/77NJ243QA1J5.jpg",
