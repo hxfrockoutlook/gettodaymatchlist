@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-13 13:32:29",
+  "updateTime": "2026-09-13 14:02:37",
   "data": [
     {
       "mgdbId": "120000584867",
@@ -705,8 +705,8 @@
       },
       "nodes": [
         {
-          "pID": "967498181",
-          "name": "解说"
+          "pID": "967568603",
+          "name": "2026北京昌平铁人三项赛全场回放（官方解说）"
         }
       ]
     },
@@ -892,10 +892,10 @@
       "title": "超三联赛 泸州大区赛 A档四分之一决赛",
       "keyword": "09月13日14:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "超三联赛",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/13/77NJ04KS04PG.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg",
       "pkInfoTitle": "超三联赛 泸州大区赛 A档四分之一决赛",
       "modifyTitle": "超三联赛",
@@ -2038,7 +2038,7 @@
       "competitionName": "德甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000588203/985583_H169_sc.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png",
-      "pkInfoTitle": "RB莱比锡 vs 汉堡",
+      "pkInfoTitle": "RB莱比锡 vs ���堡",
       "modifyTitle": "德甲联赛",
       "presenters": "鲁靖明",
       "matchInfo": {
@@ -2252,46 +2252,6 @@
         {
           "pID": "967520138",
           "name": "智能解说"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000591486",
-      "pID": "120000591486",
-      "title": "兹维列夫 vs 谢尔顿",
-      "keyword": "09月13日23:00",
-      "sportItemId": "",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "美国网球公开赛",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/12/05/11005/7c2e7b1705544ef19bb047605669347c/7c2e7b1705544ef19bb047605669347c_H169_P1080_WEBP.webp",
-      "competitionLogo": "",
-      "pkInfoTitle": "兹维列夫 vs 谢尔顿",
-      "modifyTitle": "男单决赛",
-      "presenters": "",
-      "matchInfo": {
-        "time": "09月13日23:00"
-      },
-      "nodes": [
-        {
-          "pID": "967050396",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "967050383",
-          "name": "英文解说"
-        },
-        {
-          "pID": "967050380",
-          "name": "国际信号"
-        },
-        {
-          "pID": "967567976",
-          "name": "刘钟鸣 李宁"
-        },
-        {
-          "pID": "967568011",
-          "name": "赛场原声"
         }
       ]
     }
