@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-13 11:32:21",
+  "updateTime": "2026-09-13 12:02:26",
   "data": [
     {
       "mgdbId": "120000584867",
@@ -211,10 +211,6 @@
         {
           "pID": "967549554",
           "name": "奥德里奇VS塔林"
-        },
-        {
-          "pID": "967564317",
-          "name": "UFC格斗之夜288期主赛全场回放（赛场原声）"
         }
       ]
     },
@@ -521,15 +517,15 @@
     {
       "mgdbId": "120000592940",
       "pID": "967446280",
-      "title": "Zuffa拳击特别赛：加西亚VS康纳-本",
+      "title": "加西亚第二回合TKO康纳-本",
       "keyword": "09月13日05:00",
       "sportItemId": "5",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "Zuffa拳击",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/12/77NI3RISHU3N.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/13/77NJ32PMT6BM.gif",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/3/31/10000000139810626c9f.png",
-      "pkInfoTitle": "Zuffa拳击特别赛：加西亚VS康纳-本",
+      "pkInfoTitle": "加西亚第二回合TKO康纳-本",
       "modifyTitle": "Zuffa拳击特别赛：加西亚VS康纳-本",
       "presenters": "陈瑞阳 吕凯",
       "matchInfo": {
@@ -537,19 +533,55 @@
       },
       "nodes": [
         {
-          "pID": "967446280",
-          "name": "解说"
+          "pID": "967566712",
+          "name": "加西亚VS本"
         },
         {
-          "pID": "967446462",
-          "name": "英文原声"
+          "pID": "967565103",
+          "name": "奥佩泰亚VS米凯利安"
+        },
+        {
+          "pID": "967563026",
+          "name": "范豪特VS阿克佩乔里"
+        },
+        {
+          "pID": "967562145",
+          "name": "马格萨约VS科尔特斯"
+        },
+        {
+          "pID": "967560017",
+          "name": "副赛（陈瑞阳、吕凯）"
+        },
+        {
+          "pID": "967562832",
+          "name": "副赛（英文原声）"
+        },
+        {
+          "pID": "967559543",
+          "name": "莫利纳VS鲁比奥"
+        },
+        {
+          "pID": "967558959",
+          "name": "冈萨雷斯VS萨洛蒙"
+        },
+        {
+          "pID": "967558177",
+          "name": "帕宁VS林格"
+        },
+        {
+          "pID": "967557703",
+          "name": "拉米雷斯VS罗查"
+        },
+        {
+          "pID": "967556890",
+          "name": "肖恩-加西亚VS莫拉莱斯"
         }
       ]
     },
     {
       "mgdbId": "120000592938",
       "pID": "967423514",
-      "title": "迪桑特IRONMAN70.3云南大理站",
+      "title": "迪���特IRONMAN70.3云南大理站",
       "keyword": "09月13日07:30",
       "sportItemId": "8",
       "matchStatus": "1",
@@ -624,7 +656,7 @@
       "title": "2026哈尔滨银行哈尔滨马拉松",
       "keyword": "09月13日07:30",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "马拉松系列赛",
       "padImg": "",
@@ -1807,6 +1839,27 @@
         {
           "pID": "967298230",
           "name": "1号桌"
+        }
+      ]
+    },
+    {
+      "mgdbId": "300000002349",
+      "pID": "967052243",
+      "title": "《早安美网》第十四期",
+      "sportItemId": "9",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "美国网球公开赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/13/77NJ32IOJTE3.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/3/100000000364106ba927.jpg",
+      "pkInfoTitle": "《早安美网》第十四期",
+      "modifyTitle": "2026美国网球公开赛特别节目：《早安美网》第十四期",
+      "presenters": "",
+      "matchInfo": {},
+      "nodes": [
+        {
+          "pID": "967052243",
+          "name": "早安美网"
         }
       ]
     },
