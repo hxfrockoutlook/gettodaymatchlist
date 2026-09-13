@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-13 22:32:49",
+  "updateTime": "2026-09-13 23:02:41",
   "data": [
     {
       "mgdbId": "120000584867",
@@ -803,6 +803,10 @@
         {
           "pID": "967573168",
           "name": "全场回放（二）"
+        },
+        {
+          "pID": "967579790",
+          "name": "2026WTT澳门冠军赛Day6热身区全场回放（三）"
         }
       ]
     },
@@ -1189,6 +1193,10 @@
           "name": "陶哲铭"
         },
         {
+          "pID": "967568689",
+          "name": "杨江源"
+        },
+        {
           "pID": "967523504",
           "name": "1号桌"
         },
@@ -1197,20 +1205,16 @@
           "name": "2号桌"
         },
         {
-          "pID": "967568689",
-          "name": "杨江源"
-        },
-        {
-          "pID": "967568708",
-          "name": "杨江浩"
-        },
-        {
           "pID": "967523584",
           "name": "3号桌"
         },
         {
           "pID": "967523600",
           "name": "4号桌"
+        },
+        {
+          "pID": "967568708",
+          "name": "杨江浩"
         },
         {
           "pID": "967568661",
@@ -1278,7 +1282,7 @@
         },
         {
           "pID": "967575728",
-          "name": "全场回放（英文解说）"
+          "name": "全场回放（英文解说智能字幕）"
         }
       ]
     },
@@ -1325,12 +1329,8 @@
       },
       "nodes": [
         {
-          "pID": "967444687",
-          "name": "解说"
-        },
-        {
-          "pID": "967444693",
-          "name": "赛场原声"
+          "pID": "967579338",
+          "name": "全场回放（官方解说）"
         }
       ]
     },
@@ -1673,8 +1673,8 @@
       },
       "nodes": [
         {
-          "pID": "967156524",
-          "name": "赛场原声"
+          "pID": "967578935",
+          "name": "2026浙江省城市篮球联赛全场回放：富阳VS苍南（赛场原声）"
         }
       ]
     },
@@ -1697,8 +1697,8 @@
       },
       "nodes": [
         {
-          "pID": "967471752",
-          "name": "解说"
+          "pID": "967579565",
+          "name": "全场回放"
         }
       ]
     },
@@ -1745,8 +1745,8 @@
       },
       "nodes": [
         {
-          "pID": "967382767",
-          "name": "赛场原声"
+          "pID": "967579337",
+          "name": "全场回放"
         }
       ]
     },
@@ -1913,10 +1913,10 @@
       "title": "英超联赛",
       "keyword": "09月13日21:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "理光竞技场",
       "competitionName": "英超",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000584249/490303_H169_sc.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/13/77NJ2PIA8189.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png",
       "pkInfoTitle": "考文垂 vs 布赖顿",
       "modifyTitle": "英超联赛",
@@ -1926,20 +1926,8 @@
       },
       "nodes": [
         {
-          "pID": "967472862",
-          "name": "黄航"
-        },
-        {
-          "pID": "967472833",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "967472857",
-          "name": "英文原声"
-        },
-        {
-          "pID": "967520111",
-          "name": "智能解说"
+          "pID": "967579839",
+          "name": "全场集锦"
         }
       ]
     },
@@ -1952,7 +1940,7 @@
       "matchStatus": "1",
       "matchField": "维亚德马雷市政体育场",
       "competitionName": "意甲",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000584866/202609132223_210095_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000584866/202609132256_341051_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png",
       "pkInfoTitle": "莱切 vs 蒙扎",
       "modifyTitle": "意甲联赛",
@@ -1977,10 +1965,10 @@
       "title": "法甲联赛",
       "keyword": "09月13日21:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "莫鲁瓦球场",
       "competitionName": "法甲",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000585126/692147_H169_sc.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000585126/649997_H169_sc.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/1/9106077d9.png",
       "pkInfoTitle": "里尔 vs 特鲁瓦",
       "modifyTitle": "法甲联赛",
@@ -2205,7 +2193,7 @@
       "title": "法甲联赛",
       "keyword": "09月13日23:15",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "勒芒保险公司竞技场",
       "competitionName": "法甲",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000585127/202607241226_966703_H169_1080.webp",
@@ -2285,7 +2273,7 @@
       "title": "德甲联赛",
       "keyword": "09月13日23:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "帝王椴林畔乌尔萨法尔姆竞技场",
       "competitionName": "德甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000588202/859164_H169_sc.jpg",
