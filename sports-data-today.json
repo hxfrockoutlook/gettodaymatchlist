@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-15 19:01:25",
+  "updateTime": "2026-09-15 19:31:21",
   "data": [
     {
       "mgdbId": "120000590469",
@@ -420,8 +420,8 @@
     },
     {
       "mgdbId": "120000593292",
-      "pID": "967568750",
-      "title": "袁思俊、刘宏宇、范争一出战",
+      "pID": "967568748",
+      "title": "刘宏宇、范争一出战 袁思俊淘汰",
       "keyword": "09月15日17:00",
       "sportItemId": "8",
       "matchStatus": "1",
@@ -429,17 +429,13 @@
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/14/77NK0DLGRQR9.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "袁思俊、刘宏宇、范争一出战",
-      "modifyTitle": "斯诺克北爱尔兰公开赛资格赛第二轮：袁思俊、刘宏宇、范争一出战",
-      "presenters": "乔迁 涂子轩 陶哲铭 卢正浩 朱峰立 熊冕",
+      "pkInfoTitle": "刘宏宇、范争一出战 袁思俊淘汰",
+      "modifyTitle": "斯诺克北爱尔兰公开赛资格赛第二轮：刘宏宇、范争一出战 袁思俊淘汰",
+      "presenters": "涂子轩 陶哲铭 卢正浩 朱峰立 熊冕 乔迁",
       "matchInfo": {
         "time": "09月15日17:00"
       },
       "nodes": [
-        {
-          "pID": "967568750",
-          "name": "乔迁"
-        },
         {
           "pID": "967568748",
           "name": "涂子轩"
@@ -447,14 +443,6 @@
         {
           "pID": "967523665",
           "name": "1号桌"
-        },
-        {
-          "pID": "967523673",
-          "name": "2号桌"
-        },
-        {
-          "pID": "967523684",
-          "name": "3号桌"
         },
         {
           "pID": "967523694",
@@ -477,8 +465,20 @@
           "name": "熊冕"
         },
         {
+          "pID": "967523673",
+          "name": "2号桌"
+        },
+        {
+          "pID": "967523684",
+          "name": "3号桌"
+        },
+        {
           "pID": "967628549",
           "name": "5号桌"
+        },
+        {
+          "pID": "967568750",
+          "name": "乔迁"
         }
       ]
     },
@@ -672,7 +672,7 @@
       "title": "安吉VS江山",
       "keyword": "09月15日19:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "浙BA",
       "padImg": "",
@@ -696,7 +696,7 @@
       "title": "绍兴VS丽水",
       "keyword": "09月15日19:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "浙BA",
       "padImg": "",
