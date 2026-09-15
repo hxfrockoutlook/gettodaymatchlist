@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-16 07:01:17",
+  "updateTime": "2026-09-16 07:31:12",
   "data": [
     {
       "mgdbId": "120000589773",
@@ -41,7 +41,7 @@
       "competitionName": "亚冠精英",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/16/77NLOAPDUV07.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/9/11/1000000012261060873b.png",
-      "pkInfoTitle": "艾因 vs 利雅得胜利",
+      "pkInfoTitle": "艾因 vs 利雅得胜��",
       "modifyTitle": "亚冠精英联赛阶段",
       "presenters": "鲁靖明",
       "matchInfo": {
@@ -173,7 +173,7 @@
     {
       "mgdbId": "120000593149",
       "pID": "967493456",
-      "title": "布克沙、贝莱克领衔登场",
+      "title": "帕里、曾丽美轮番出战",
       "keyword": "09月16日03:00",
       "sportItemId": "9",
       "matchStatus": "1",
@@ -181,8 +181,8 @@
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/16/77NLOQ8UPURQ.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "布克沙、贝莱克领衔登场",
-      "modifyTitle": "WTA500瓜达拉哈拉站Day3：布克沙、贝莱克领衔登场",
+      "pkInfoTitle": "帕里、曾丽美轮番出战",
+      "modifyTitle": "WTA500瓜达拉哈拉站女单第二轮：帕里、曾丽美轮番出战",
       "presenters": "",
       "matchInfo": {
         "time": "09月16日03:00"
@@ -216,6 +216,10 @@
         "time": "09月16日03:30"
       },
       "nodes": [
+        {
+          "pID": "967646892",
+          "name": "全场集锦"
+        },
         {
           "pID": "967646520",
           "name": "全场回放（林梦鸽、孙雷）"
@@ -358,7 +362,7 @@
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/14/77NK00ND0MHS.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "李天阳争晋级 徐瑛彬迎战马尔金",
-      "modifyTitle": "WTT球星挑战���阿斯塔纳站男女单打资格赛第二轮、男女双打资格赛第一轮",
+      "modifyTitle": "WTT球星挑战赛阿斯塔纳站男女单打资格赛第二轮、男女双打资格赛第一轮",
       "presenters": "张靖松",
       "matchInfo": {
         "time": "09月16日14:00"
@@ -392,7 +396,7 @@
     },
     {
       "mgdbId": "120000593293",
-      "pID": "967523701",
+      "pID": "967568830",
       "title": "龙泽煌、江俊出战",
       "keyword": "09月16日17:00",
       "sportItemId": "8",
@@ -403,11 +407,19 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "龙泽煌、江俊出战",
       "modifyTitle": "斯诺克北爱尔兰公开赛资格赛第二轮：龙泽煌、江俊出战",
-      "presenters": "熊冕 涂子轩 柏林 朱峰立",
+      "presenters": "涂子轩 熊冕 柏林 朱峰立",
       "matchInfo": {
         "time": "09月16日17:00"
       },
       "nodes": [
+        {
+          "pID": "967568830",
+          "name": "涂子轩"
+        },
+        {
+          "pID": "967568823",
+          "name": "熊冕"
+        },
         {
           "pID": "967523701",
           "name": "1号桌"
@@ -425,24 +437,12 @@
           "name": "4号桌"
         },
         {
-          "pID": "967568823",
-          "name": "熊冕"
-        },
-        {
-          "pID": "967568830",
-          "name": "涂子轩"
-        },
-        {
           "pID": "967568849",
           "name": "柏林"
         },
         {
           "pID": "967568855",
           "name": "朱峰立"
-        },
-        {
-          "pID": "967628572",
-          "name": "5号桌"
         }
       ]
     },
