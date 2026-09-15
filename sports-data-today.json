@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-15 20:01:28",
+  "updateTime": "2026-09-15 20:31:28",
   "data": [
     {
       "mgdbId": "120000590469",
@@ -420,7 +420,7 @@
     },
     {
       "mgdbId": "120000593292",
-      "pID": "967523665",
+      "pID": "967568767",
       "title": "范争一出战 袁思俊刘宏宇淘汰",
       "keyword": "09月15日17:00",
       "sportItemId": "8",
@@ -437,12 +437,12 @@
       },
       "nodes": [
         {
-          "pID": "967523665",
-          "name": "1号桌"
-        },
-        {
           "pID": "967568767",
           "name": "陶哲铭"
+        },
+        {
+          "pID": "967523665",
+          "name": "1号桌"
         },
         {
           "pID": "967523673",
@@ -488,7 +488,7 @@
       "title": "NBA精彩重播：森林狼vs火箭",
       "keyword": "09月15日18:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA经典赛事",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/15/77NKQKSF3T6G.png",
@@ -501,8 +501,8 @@
       },
       "nodes": [
         {
-          "pID": "966323982",
-          "name": "孙博 周鹏"
+          "pID": "964112292",
+          "name": "全场回放（孙博、周鹏）"
         }
       ]
     },
@@ -539,7 +539,7 @@
       "matchStatus": "1",
       "matchField": "Ratchaburi Stadium",
       "competitionName": "亚冠精英",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/08/77NEFCGUDHUD.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/15/77NKS83AIQUK.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/9/11/1000000012261060873b.png",
       "pkInfoTitle": "叻武里 vs 上海海港",
       "modifyTitle": "亚冠精英联赛阶段",
@@ -605,12 +605,8 @@
       },
       "nodes": [
         {
-          "pID": "967476287",
-          "name": "鲁靖明"
-        },
-        {
-          "pID": "967478003",
-          "name": "赛场原声"
+          "pID": "967637663",
+          "name": "全场回放（鲁靖明）"
         }
       ]
     },
@@ -737,10 +733,6 @@
           "name": "李柯鑫"
         },
         {
-          "pID": "967519537",
-          "name": "1号桌"
-        },
-        {
           "pID": "967521524",
           "name": "2号桌"
         },
@@ -751,6 +743,10 @@
         {
           "pID": "967521906",
           "name": "4号桌"
+        },
+        {
+          "pID": "967519537",
+          "name": "1号桌"
         }
       ]
     },
