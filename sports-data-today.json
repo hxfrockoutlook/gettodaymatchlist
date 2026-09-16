@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-16 22:28:40",
+  "updateTime": "2026-09-16 22:31:21",
   "data": [
     {
       "mgdbId": "120000589773",
@@ -319,7 +319,12 @@
       "modifyTitle": "咪咕体育日报 第182期",
       "presenters": "",
       "matchInfo": {},
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "967157903",
+          "name": "咪咕体育日报 第182期"
+        }
+      ]
     },
     {
       "mgdbId": "120000591609",
@@ -534,7 +539,16 @@
       "matchInfo": {
         "time": "09月16日18:00"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "967660319",
+          "name": "全场集锦"
+        },
+        {
+          "pID": "967659175",
+          "name": "全场回放（涂远）"
+        }
+      ]
     },
     {
       "mgdbId": "120000591829",
@@ -570,7 +584,7 @@
       "title": "上海虎鲸8-5深圳蓝袜",
       "keyword": "09月16日18:30",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "CPB中国棒球城市联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/15/77NKQAH8LEGG.jpg",
@@ -631,24 +645,24 @@
       },
       "nodes": [
         {
-          "pID": "967444360",
-          "name": "赛场原声"
+          "pID": "967661161",
+          "name": "2026浙江省城市篮球联赛全场回放：余姚vs普陀（赛场原声）"
         }
       ]
     },
     {
       "mgdbId": "120000592982",
       "pID": "967445595",
-      "title": "南开VS河北",
+      "title": "南开2-4河北",
       "keyword": "09月16日20:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "海河超儿",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/8/14/10000000152310677fd0.png",
-      "pkInfoTitle": "南开VS河北",
-      "modifyTitle": "南开VS河北",
+      "pkInfoTitle": "南开2-4河北",
+      "modifyTitle": "南开2-4河北",
       "presenters": "",
       "matchInfo": {
         "time": "09月16日20:00"
@@ -734,7 +748,7 @@
       "title": "亚冠二级小组赛",
       "keyword": "09月16日20:15",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "行待体育场",
       "competitionName": "亚冠二级",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000590560/202608190906_140772_H169_1080.webp",
