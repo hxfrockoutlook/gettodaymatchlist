@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-17 07:01:20",
+  "updateTime": "2026-09-17 07:31:14",
   "data": [
     {
       "mgdbId": "120000590556",
@@ -225,16 +225,16 @@
     {
       "mgdbId": "120000593150",
       "pID": "967493490",
-      "title": "约维奇、科斯秋克领衔出战",
+      "title": "约维奇晋级 萨姆索诺娃压场出战",
       "keyword": "09月17日03:00",
       "sportItemId": "9",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/17/77NMLDQPLUIV.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/17/77NMM7C0FEVJ.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "约维奇、科斯秋克领衔出战",
-      "modifyTitle": "WTA500瓜达拉哈拉站女单第二轮：约维奇、科斯秋克领衔出战",
+      "pkInfoTitle": "约维奇晋级 萨姆索诺娃压场出战",
+      "modifyTitle": "WTA500瓜达拉哈拉站女单第二轮：约维奇晋级 萨姆索诺娃压场出战",
       "presenters": "",
       "matchInfo": {
         "time": "09月17日03:00"
@@ -397,7 +397,7 @@
     {
       "mgdbId": "120000593506",
       "pID": "967607101",
-      "title": "雷佩凡、张安达出战",
+      "title": "张安达出战 雷佩凡对阵博伊科",
       "keyword": "09月17日16:30",
       "sportItemId": "8",
       "matchStatus": "0",
@@ -405,13 +405,21 @@
       "competitionName": "斯诺克",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "雷佩凡、张安达出战",
-      "modifyTitle": "斯诺克国际锦标赛资格赛",
+      "pkInfoTitle": "张安达出战 雷佩凡对阵博伊科",
+      "modifyTitle": "斯诺克国际锦标赛资格赛：张安达出战 雷佩凡对阵博伊科",
       "presenters": "陶哲铭 涂子轩",
       "matchInfo": {
         "time": "09月17日16:30"
       },
       "nodes": [
+        {
+          "pID": "967649332",
+          "name": "陶哲铭"
+        },
+        {
+          "pID": "967649340",
+          "name": "涂子轩"
+        },
         {
           "pID": "967607101",
           "name": "1号桌"
@@ -439,18 +447,6 @@
         {
           "pID": "967607108",
           "name": "7号桌"
-        },
-        {
-          "pID": "967607116",
-          "name": "8号桌"
-        },
-        {
-          "pID": "967649332",
-          "name": "陶哲铭"
-        },
-        {
-          "pID": "967649340",
-          "name": "涂子轩"
         }
       ]
     },
@@ -764,7 +760,7 @@
     },
     {
       "mgdbId": "120000593623",
-      "pID": "967633053",
+      "pID": "967649322",
       "title": "凯伦·威尔逊、宾汉姆、高阳出战",
       "keyword": "09月17日21:30",
       "sportItemId": "8",
@@ -774,12 +770,16 @@
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "凯伦·威尔逊、宾汉姆、高阳出战",
-      "modifyTitle": "斯诺克国际锦标赛资格赛",
+      "modifyTitle": "斯诺克国际锦标赛资格赛：凯伦·威尔逊、宾汉姆、高阳出战",
       "presenters": "柏林",
       "matchInfo": {
         "time": "09月17日21:30"
       },
       "nodes": [
+        {
+          "pID": "967649322",
+          "name": "柏林"
+        },
         {
           "pID": "967633053",
           "name": "1号桌"
@@ -807,14 +807,6 @@
         {
           "pID": "967633294",
           "name": "7号桌"
-        },
-        {
-          "pID": "967633329",
-          "name": "8号桌"
-        },
-        {
-          "pID": "967649322",
-          "name": "柏林"
         }
       ]
     }
