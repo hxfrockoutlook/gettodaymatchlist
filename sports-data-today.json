@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-17 04:01:20",
+  "updateTime": "2026-09-17 04:31:17",
   "data": [
     {
       "mgdbId": "120000590556",
@@ -83,10 +83,6 @@
         {
           "pID": "967665178",
           "name": "全场回放（乔迁）"
-        },
-        {
-          "pID": "967666900",
-          "name": "全场回放"
         }
       ]
     },
@@ -115,10 +111,6 @@
         {
           "pID": "967665231",
           "name": "全场回放（鹿中原）"
-        },
-        {
-          "pID": "967666914",
-          "name": "全场回放"
         }
       ]
     },
@@ -184,7 +176,7 @@
       "title": "亚冠二级小组赛",
       "keyword": "09月17日02:15",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "祖拉体育场",
       "competitionName": "亚冠二级",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000590554/202608190906_283282_H169_1080.webp",
@@ -212,7 +204,7 @@
       "title": "亚冠二级小组赛",
       "keyword": "09月17日02:15",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "艾哈迈德球场",
       "competitionName": "亚冠二级",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000590555/202608190906_668673_H169_1080.webp",
@@ -263,34 +255,6 @@
         {
           "pID": "967658116",
           "name": "解说"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000586177",
-      "pID": "967473191",
-      "title": "西甲联赛",
-      "keyword": "09月17日03:30",
-      "sportItemId": "1",
-      "matchStatus": "1",
-      "matchField": "巴伦西亚城市球场",
-      "competitionName": "西甲",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000586177/495691_H169_sc.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/21/779JJMOFB20H.png",
-      "pkInfoTitle": "莱万特 vs 毕尔巴鄂竞技",
-      "modifyTitle": "西甲联赛",
-      "presenters": "鹿中原",
-      "matchInfo": {
-        "time": "09月17日03:30"
-      },
-      "nodes": [
-        {
-          "pID": "967473191",
-          "name": "鹿中原"
-        },
-        {
-          "pID": "967473204",
-          "name": "赛场原声"
         }
       ]
     },
@@ -857,6 +821,25 @@
           "name": "柏林"
         }
       ]
+    },
+    {
+      "mgdbId": "120000586177",
+      "pID": "120000586177",
+      "title": "莱万特 vs 毕尔巴鄂竞技",
+      "keyword": "09月17日03:15",
+      "sportItemId": "",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "西甲",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/07/18/11005/9ae2746baae54ad38312b08891316f2d/9ae2746baae54ad38312b08891316f2d_H169_P1080_WEBP.webp",
+      "competitionLogo": "",
+      "pkInfoTitle": "莱万特 vs 毕尔巴鄂竞技",
+      "modifyTitle": "莱万特 vs 毕尔巴鄂竞技",
+      "presenters": "",
+      "matchInfo": {
+        "time": "09月17日03:15"
+      },
+      "nodes": []
     }
   ]
 }
