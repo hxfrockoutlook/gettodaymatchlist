@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-17 04:31:17",
+  "updateTime": "2026-09-17 05:01:22",
   "data": [
     {
       "mgdbId": "120000590556",
@@ -23,10 +23,6 @@
         {
           "pID": "967666834",
           "name": "全场回放（周楚雄）"
-        },
-        {
-          "pID": "967666911",
-          "name": "全场回放"
         }
       ]
     },
@@ -55,10 +51,6 @@
         {
           "pID": "967665429",
           "name": "全场回放（吴子越）"
-        },
-        {
-          "pID": "967666893",
-          "name": "全场回放"
         }
       ]
     },
@@ -80,6 +72,10 @@
         "time": "09月17日00:00"
       },
       "nodes": [
+        {
+          "pID": "967667644",
+          "name": "全场集锦"
+        },
         {
           "pID": "967665178",
           "name": "全场回放（乔迁）"
@@ -179,7 +175,7 @@
       "matchStatus": "2",
       "matchField": "祖拉体育场",
       "competitionName": "亚冠二级",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000590554/202608190906_283282_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000590554/202609170445_891661_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/9/11/100000001227106e764f.png",
       "pkInfoTitle": "巴格达警察 vs 锡卜",
       "modifyTitle": "亚冠二级小组赛",
@@ -235,7 +231,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/16/77NLPMRDMP71.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/17/77NMLDQPLUIV.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
       "pkInfoTitle": "约维奇、科斯秋克领衔出战",
       "modifyTitle": "WTA500瓜达拉哈拉站女单第二轮：约维奇、科斯秋克领衔出战",
@@ -821,25 +817,6 @@
           "name": "柏林"
         }
       ]
-    },
-    {
-      "mgdbId": "120000586177",
-      "pID": "120000586177",
-      "title": "莱万特 vs 毕尔巴鄂竞技",
-      "keyword": "09月17日03:15",
-      "sportItemId": "",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "西甲",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/07/18/11005/9ae2746baae54ad38312b08891316f2d/9ae2746baae54ad38312b08891316f2d_H169_P1080_WEBP.webp",
-      "competitionLogo": "",
-      "pkInfoTitle": "莱万特 vs 毕尔巴鄂竞技",
-      "modifyTitle": "莱万特 vs 毕尔巴鄂竞技",
-      "presenters": "",
-      "matchInfo": {
-        "time": "09月17日03:15"
-      },
-      "nodes": []
     }
   ]
 }
