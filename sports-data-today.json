@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-16 11:01:25",
+  "updateTime": "2026-09-16 11:31:13",
   "data": [
     {
       "mgdbId": "120000589773",
@@ -41,7 +41,7 @@
       "competitionName": "亚冠精英",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/16/77NLOAPDUV07.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/9/11/1000000012261060873b.png",
-      "pkInfoTitle": "艾因 vs 利雅得���利",
+      "pkInfoTitle": "艾因 vs 利雅得胜利",
       "modifyTitle": "亚冠精英联赛阶段",
       "presenters": "鲁靖明",
       "matchInfo": {
@@ -327,30 +327,6 @@
       ]
     },
     {
-      "mgdbId": "120000593602",
-      "pID": "967628251",
-      "title": "男女单打第一、二阶段",
-      "keyword": "09月16日09:00",
-      "sportItemId": "7",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "肇东杯",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/16/77NLNMCN38AA.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/1/21/100000001400106f2320.jpg",
-      "pkInfoTitle": "男女单打第一、二阶段",
-      "modifyTitle": "肇东杯乒乓球公开赛男女单打第一、二阶段",
-      "presenters": "",
-      "matchInfo": {
-        "time": "09月16日09:00"
-      },
-      "nodes": [
-        {
-          "pID": "967628251",
-          "name": "赛场原声"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000593606",
       "pID": "967630172",
       "title": "2026年黄金健美超级联赛自然赛",
@@ -411,6 +387,30 @@
         {
           "pID": "967521927",
           "name": "4号桌"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000593602",
+      "pID": "967628251",
+      "title": "男女单打第一、二阶段",
+      "keyword": "09���16日14:00",
+      "sportItemId": "7",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "肇东杯",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/16/77NLNMCN38AA.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/1/21/100000001400106f2320.jpg",
+      "pkInfoTitle": "男女单打第一、二阶段",
+      "modifyTitle": "肇东杯乒乓球公开赛男女单打第一、二阶段",
+      "presenters": "",
+      "matchInfo": {
+        "time": "09���16日14:00"
+      },
+      "nodes": [
+        {
+          "pID": "967628251",
+          "name": "赛场原声"
         }
       ]
     },
