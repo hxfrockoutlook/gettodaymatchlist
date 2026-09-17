@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-17 20:31:22",
+  "updateTime": "2026-09-17 21:01:31",
   "data": [
     {
       "mgdbId": "120000590556",
@@ -377,8 +377,24 @@
           "name": "全场回放（二号桌）"
         },
         {
+          "pID": "967685906",
+          "name": "全场回放（三号桌）"
+        },
+        {
           "pID": "967682257",
           "name": "全场回放（四号桌）"
+        },
+        {
+          "pID": "967680113",
+          "name": "全场回放（英文解说智能字幕一）"
+        },
+        {
+          "pID": "967682074",
+          "name": "全场回放（英文解说智能字幕二）"
+        },
+        {
+          "pID": "967686062",
+          "name": "2026WTT阿斯塔纳球星挑战赛Day3下午场一号桌全场回放（赛场原声）"
         }
       ]
     },
@@ -513,12 +529,8 @@
       },
       "nodes": [
         {
-          "pID": "967477019",
-          "name": "刘洋"
-        },
-        {
-          "pID": "967477570",
-          "name": "赛场原声"
+          "pID": "967686137",
+          "name": "全场回放（刘洋）"
         }
       ]
     },
@@ -531,7 +543,7 @@
       "matchStatus": "2",
       "matchField": "欣德马什球场",
       "competitionName": "亚冠二级",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000590552/202608190906_688238_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000590552/202609172030_109075_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/9/11/100000001227106e764f.png",
       "pkInfoTitle": "阿德莱德联 vs 大埔",
       "modifyTitle": "亚冠二级小组赛",
@@ -555,7 +567,7 @@
       "matchStatus": "2",
       "matchField": "惹兰勿刹球场",
       "competitionName": "亚冠二级",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000590553/202608190906_262411_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000590553/202609172030_936795_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/9/11/100000001227106e764f.png",
       "pkInfoTitle": "狮城水手 vs 巴吞联",
       "modifyTitle": "亚冠二级小组赛",
@@ -567,22 +579,26 @@
         {
           "pID": "967685774",
           "name": "全场回放（张天翼）"
+        },
+        {
+          "pID": "967686152",
+          "name": "全场回放"
         }
       ]
     },
     {
       "mgdbId": "120000587915",
       "pID": "966737999",
-      "title": "阳泉市VS晋中市",
+      "title": "阳泉市89-118晋中市",
       "keyword": "09月17日19:20",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "晋超联赛",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/6/17/100000001493106c8171.png",
-      "pkInfoTitle": "阳泉市VS晋中市",
-      "modifyTitle": "阳泉市VS晋中市",
+      "pkInfoTitle": "阳泉市89-118晋中市",
+      "modifyTitle": "阳泉市89-118晋中市",
       "presenters": "",
       "matchInfo": {
         "time": "09月17日19:20"
@@ -651,7 +667,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/17/77NMMENCI0IJ.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/17/77NMMI8PRRE7.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "陈俊菘/王艺迪首秀 周启豪/薛飞冲8强",
       "modifyTitle": "WTT球星挑战赛阿斯塔纳站男女单打1/32决赛、双打1/8决赛",
