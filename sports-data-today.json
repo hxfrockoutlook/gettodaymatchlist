@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-17 19:01:33",
+  "updateTime": "2026-09-17 19:31:15",
   "data": [
     {
       "mgdbId": "120000590556",
@@ -332,7 +332,7 @@
       "title": "2026年第二十一届黄金健美超级联赛总决赛",
       "keyword": "09月17日10:00",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "黄金健美超级联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/16/77NLQ2LCUMJN.jpg",
@@ -345,18 +345,18 @@
       },
       "nodes": [
         {
-          "pID": "967630181",
-          "name": "解说"
+          "pID": "967680976",
+          "name": "2026黄金健美超级联赛自然赛Day2全场回放（官方解说）（一）"
         }
       ]
     },
     {
       "mgdbId": "120000593280",
-      "pID": "967521821",
+      "pID": "967523292",
       "title": "王艺迪/韩菲儿进八强 陈俊菘/陈垣宇止步",
       "keyword": "09月17日14:00",
       "sportItemId": "7",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "WTT",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/17/77NMM1H2600M.jpg",
@@ -369,12 +369,12 @@
       },
       "nodes": [
         {
-          "pID": "967521821",
-          "name": "3号桌"
+          "pID": "967682857",
+          "name": "全场回放（张靖松、凌维康）"
         },
         {
-          "pID": "967523292",
-          "name": "张靖松 凌维康"
+          "pID": "967682257",
+          "name": "全场回放（四号桌）"
         }
       ]
     },
@@ -408,7 +408,7 @@
     },
     {
       "mgdbId": "120000593506",
-      "pID": "967649340",
+      "pID": "967649332",
       "title": "张安达出战 雷佩凡对阵博伊科",
       "keyword": "09月17日16:30",
       "sportItemId": "8",
@@ -419,15 +419,11 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "张安达出战 雷佩凡对阵博伊科",
       "modifyTitle": "斯诺克国际锦标赛资格赛：张安达出战 雷佩凡对阵博伊科",
-      "presenters": "涂子轩 陶哲铭",
+      "presenters": "陶哲铭 涂子轩",
       "matchInfo": {
         "time": "09月17日16:30"
       },
       "nodes": [
-        {
-          "pID": "967649340",
-          "name": "解说"
-        },
         {
           "pID": "967649332",
           "name": "解说"
@@ -439,10 +435,6 @@
         {
           "pID": "967607002",
           "name": "3号桌"
-        },
-        {
-          "pID": "967607029",
-          "name": "4号桌"
         },
         {
           "pID": "967607060",
@@ -459,6 +451,14 @@
         {
           "pID": "967607101",
           "name": "1号桌"
+        },
+        {
+          "pID": "967607029",
+          "name": "4号桌"
+        },
+        {
+          "pID": "967649340",
+          "name": "解说"
         }
       ]
     },
@@ -580,7 +580,7 @@
       "title": "阳泉市VS晋中市",
       "keyword": "09月17日19:20",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "晋超联赛",
       "padImg": "",
@@ -604,7 +604,7 @@
       "title": "舟山VS临海",
       "keyword": "09月17日19:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "浙BA",
       "padImg": "",
@@ -628,7 +628,7 @@
       "title": "瑞安VS临安",
       "keyword": "09月17日19:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "浙BA",
       "padImg": "",
