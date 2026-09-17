@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-17 11:31:18",
+  "updateTime": "2026-09-17 12:01:24",
   "data": [
     {
       "mgdbId": "120000590556",
@@ -225,32 +225,40 @@
     {
       "mgdbId": "120000593150",
       "pID": "967493490",
-      "title": "约维奇晋级 萨姆索诺娃出战",
+      "title": "约维奇轻取 萨姆索诺娃险胜晋级",
       "keyword": "09月17日03:00",
       "sportItemId": "9",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "WTA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/17/77NMMHAL66FT.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/17/77NMNDTNESE0.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "约维奇晋级 萨姆索诺娃出战",
-      "modifyTitle": "WTA500瓜达拉哈拉站女单第二轮：约维奇晋级 萨姆索诺娃出战",
+      "pkInfoTitle": "约维奇轻取 萨姆索诺娃险胜晋级",
+      "modifyTitle": "WTA500瓜达拉哈拉站女单第二轮：约维奇轻取 萨姆索诺娃险胜晋级",
       "presenters": "",
       "matchInfo": {
         "time": "09月17日03:00"
       },
       "nodes": [
         {
-          "pID": "967493490",
-          "name": "赛场原声"
+          "pID": "967669657",
+          "name": "【回放】森梅兹0-2约维奇（赛场原声）"
         },
         {
-          "pID": "967493507",
-          "name": "英文原声"
+          "pID": "967669459",
+          "name": "【回放】森梅兹0-2约维奇（英文原声）"
         },
         {
-          "pID": "967658116",
-          "name": "解说"
+          "pID": "967668366",
+          "name": "【回放】弗莱彻2-0多勒海德（赛场原声）"
+        },
+        {
+          "pID": "967668280",
+          "name": "【回放】弗莱彻2-0多勒海德（英文原声）"
+        },
+        {
+          "pID": "967669345",
+          "name": "【全场回放】（AI同声传译）（一）"
         }
       ]
     },
@@ -299,30 +307,6 @@
         {
           "pID": "967157902",
           "name": "咪咕体育日报 第183期"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000593603",
-      "pID": "967628241",
-      "title": "混合团体第一、二阶段",
-      "keyword": "09月17日09:00",
-      "sportItemId": "7",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "肇东杯",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/17/77NML1CB07HF.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/1/21/100000001400106f2320.jpg",
-      "pkInfoTitle": "混合团体第一、二阶段",
-      "modifyTitle": "肇东杯乒乓球公开赛混合团体第一、二阶段",
-      "presenters": "",
-      "matchInfo": {
-        "time": "09月17日09:00"
-      },
-      "nodes": [
-        {
-          "pID": "967628241",
-          "name": "赛场原声"
         }
       ]
     },
@@ -391,6 +375,30 @@
         {
           "pID": "967605390",
           "name": "智能字幕"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000593603",
+      "pID": "967628241",
+      "title": "混合团体第一、二阶段",
+      "keyword": "09月17日14:00",
+      "sportItemId": "7",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "肇东杯",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/17/77NML1CB07HF.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/1/21/100000001400106f2320.jpg",
+      "pkInfoTitle": "混合团体第一、二阶段",
+      "modifyTitle": "肇东杯乒乓球公开赛混合团体第一、二阶段",
+      "presenters": "",
+      "matchInfo": {
+        "time": "09月17日14:00"
+      },
+      "nodes": [
+        {
+          "pID": "967628241",
+          "name": "赛场原声"
         }
       ]
     },
