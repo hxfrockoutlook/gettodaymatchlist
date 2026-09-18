@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-18 12:31:23",
+  "updateTime": "2026-09-18 13:01:30",
   "data": [
     {
       "mgdbId": "120000593428",
@@ -121,28 +121,48 @@
     {
       "mgdbId": "120000593151",
       "pID": "967493518",
-      "title": "斯特恩斯出战 萨姆索诺娃逆转晋级",
+      "title": "萨姆索诺娃、斯特恩斯晋级四强",
       "keyword": "09月18日03:00",
       "sportItemId": "9",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "WTA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/18/77NNK7HK47CT.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/18/77NNKRIUQOQ8.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "斯特恩斯出战 萨姆索诺娃逆转晋级",
-      "modifyTitle": "WTA500瓜达拉哈拉站女单1/4决赛：斯特恩斯出战 萨姆索诺娃逆转晋级",
+      "pkInfoTitle": "萨姆索诺娃、斯特恩斯晋级四强",
+      "modifyTitle": "WTA500瓜达拉哈拉站女单1/4决赛：萨姆索诺娃、斯特恩斯晋级四强",
       "presenters": "",
       "matchInfo": {
         "time": "09月18日03:00"
       },
       "nodes": [
         {
-          "pID": "967493518",
-          "name": "赛场原声"
+          "pID": "967695120",
+          "name": "【回放】弗莱彻0-2约维奇（赛场原声）"
         },
         {
-          "pID": "967493538",
-          "name": "英文原声"
+          "pID": "967694283",
+          "name": "【回放】布克沙2-0贝莱克（赛场原声）"
+        },
+        {
+          "pID": "967699170",
+          "name": "【回放】科斯秋克1-2萨姆索诺娃（赛场原声）"
+        },
+        {
+          "pID": "967695123",
+          "name": "【回放】弗莱彻0-2约维奇（英文原声）"
+        },
+        {
+          "pID": "967694296",
+          "name": "【回放】布克沙2-0贝莱克（英文原声）"
+        },
+        {
+          "pID": "967698991",
+          "name": "【回放】科斯秋克1-2萨姆索诺娃（英文原声）"
+        },
+        {
+          "pID": "967695395",
+          "name": "【全场回放】（AI同声传译）（一）"
         }
       ]
     },
@@ -243,30 +263,6 @@
       ]
     },
     {
-      "mgdbId": "120000593604",
-      "pID": "967628234",
-      "title": "男女单打1/4决赛、半决赛及决赛",
-      "keyword": "09月18日09:00",
-      "sportItemId": "7",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "肇东杯",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/17/77NML082CI3D.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/1/21/100000001400106f2320.jpg",
-      "pkInfoTitle": "男女单打1/4决赛、半决赛及决赛",
-      "modifyTitle": "肇东杯乒乓球公开赛男女单打1/4决赛、半决赛及决赛",
-      "presenters": "",
-      "matchInfo": {
-        "time": "09月18日09:00"
-      },
-      "nodes": [
-        {
-          "pID": "967628234",
-          "name": "赛场原声"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000594308",
       "pID": "967675925",
       "title": "单打第一、二阶段",
@@ -355,6 +351,30 @@
         {
           "pID": "967605407",
           "name": "智能字幕"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000593604",
+      "pID": "967628234",
+      "title": "男女单打1/4决赛、半决赛及决赛",
+      "keyword": "09月18日15:00",
+      "sportItemId": "7",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "肇东杯",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/17/77NML082CI3D.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/1/21/100000001400106f2320.jpg",
+      "pkInfoTitle": "男女单打1/4决赛、半决赛及决赛",
+      "modifyTitle": "肇东杯乒乓球公开赛男女单打1/4决赛、半决赛及决赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "09月18日15:00"
+      },
+      "nodes": [
+        {
+          "pID": "967628234",
+          "name": "赛场原声"
         }
       ]
     },
