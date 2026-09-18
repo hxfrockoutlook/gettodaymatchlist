@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-18 20:01:30",
+  "updateTime": "2026-09-18 20:31:21",
   "data": [
     {
       "mgdbId": "120000593428",
@@ -53,7 +53,7 @@
       "keyword": "09月18日01:00",
       "sportItemId": "1",
       "matchStatus": "2",
-      "matchField": "比利亚马林球场",
+      "matchField": "塞维利亚奥林匹克球场",
       "competitionName": "西甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000586180/236564_H169_sc.jpg",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/21/779JJMOFB20H.png",
@@ -343,6 +343,10 @@
         {
           "pID": "967708871",
           "name": "全场回放（四号桌）"
+        },
+        {
+          "pID": "967711488",
+          "name": "全场回放（英文解说智能字幕）"
         }
       ]
     },
@@ -449,10 +453,6 @@
           "name": "6号桌"
         },
         {
-          "pID": "967607071",
-          "name": "8号桌"
-        },
-        {
           "pID": "967606934",
           "name": "5号桌"
         },
@@ -479,6 +479,10 @@
         {
           "pID": "967607054",
           "name": "7号桌"
+        },
+        {
+          "pID": "967607071",
+          "name": "8号桌"
         }
       ]
     },
@@ -501,8 +505,8 @@
       },
       "nodes": [
         {
-          "pID": "967679049",
-          "name": "解说"
+          "pID": "967711215",
+          "name": "全场回放"
         }
       ]
     },
@@ -512,7 +516,7 @@
       "title": "中甲联赛",
       "keyword": "09月18日18:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "延吉市全民健身体育中心体育场",
       "competitionName": "中甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000570563/869214_H169_sc.jpg",
@@ -525,12 +529,8 @@
       },
       "nodes": [
         {
-          "pID": "967678135",
-          "name": "解说"
-        },
-        {
-          "pID": "967678150",
-          "name": "赛场原声"
+          "pID": "967711016",
+          "name": "超长版集锦"
         }
       ]
     },
@@ -584,7 +584,7 @@
     },
     {
       "mgdbId": "300000002398",
-      "pID": "967486442",
+      "pID": "967711234",
       "title": "篮球公园 | 柏林之路——勇者无惧",
       "sportItemId": "2",
       "matchStatus": "2",
@@ -598,8 +598,8 @@
       "matchInfo": {},
       "nodes": [
         {
-          "pID": "967486442",
-          "name": "恣意生长！160秒回顾中国女篮世界杯高燃时刻 止步八强继续寻找答案"
+          "pID": "967711234",
+          "name": "【篮球公园】勇者无惧！女篮姑娘复盘世界杯得失 全力备战亚运赛场"
         },
         {
           "pID": "967696410",
@@ -769,7 +769,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/18/77NNI55PAET0.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/18/77NNJI594B9N.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "王艺迪一日四赛 周启豪冲16强",
       "modifyTitle": "WTT球星挑战赛阿斯塔纳站男女单打1/16决赛、男女双打半决赛",
