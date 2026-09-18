@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-18 09:31:19",
+  "updateTime": "2026-09-18 10:01:21",
   "data": [
     {
       "mgdbId": "120000593428",
@@ -548,6 +548,7 @@
     },
     {
       "mgdbId": "300000002398",
+      "pID": "967696410",
       "title": "篮球公园 | 柏林之路——勇者无惧",
       "sportItemId": "2",
       "matchStatus": "0",
@@ -559,7 +560,12 @@
       "modifyTitle": "篮球公园 | 柏林之路——勇者无惧",
       "presenters": "",
       "matchInfo": {},
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "967696410",
+          "name": "CCTV5"
+        }
+      ]
     },
     {
       "mgdbId": "120000570562",
