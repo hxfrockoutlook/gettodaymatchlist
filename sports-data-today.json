@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-18 21:31:22",
+  "updateTime": "2026-09-18 22:01:34",
   "data": [
     {
       "mgdbId": "120000593428",
@@ -295,6 +295,10 @@
         {
           "pID": "967701367",
           "name": "2026年“李宁·红双喜杯”中国乒协会员联赛河北邢台站Day1全场回放（赛场原声）（一）"
+        },
+        {
+          "pID": "967713342",
+          "name": "2026年“李宁·红双喜杯”中国乒协会员联赛河北邢台站Day1全场回放（赛场原声）（二）"
         }
       ]
     },
@@ -341,6 +345,14 @@
       },
       "nodes": [
         {
+          "pID": "967713319",
+          "name": "全场回放（高文清、凌维康）"
+        },
+        {
+          "pID": "967713327",
+          "name": "全场回放（一号桌）"
+        },
+        {
           "pID": "967712499",
           "name": "全场回放（二号桌）"
         },
@@ -355,10 +367,6 @@
         {
           "pID": "967711488",
           "name": "全场回放（英文解说智能字幕）"
-        },
-        {
-          "pID": "967713092",
-          "name": "2026WTT阿斯塔纳球星挑战赛Day4下午场全场回放（英文解说）"
         }
       ]
     },
@@ -410,7 +418,7 @@
       "nodes": [
         {
           "pID": "967708851",
-          "name": "全场回放"
+          "name": "全场回放（官方解说）"
         }
       ]
     },
@@ -483,6 +491,10 @@
         {
           "pID": "967712989",
           "name": "26/27赛季斯诺克国际锦标赛资格赛第1轮回放：刘宏宇6-3蓝裕豪（赛场原声）"
+        },
+        {
+          "pID": "967713358",
+          "name": "26/27赛季斯诺克国际锦标赛资格赛第1轮回放：江俊6-3弗洛里安·努斯勒（赛场原声）"
         }
       ]
     },
@@ -506,7 +518,7 @@
       "nodes": [
         {
           "pID": "967711215",
-          "name": "全场回放"
+          "name": "全场回放（官方解说）"
         }
       ]
     },
@@ -533,12 +545,8 @@
           "name": "超长版集锦"
         },
         {
-          "pID": "967712405",
-          "name": "全场回放"
-        },
-        {
           "pID": "967712872",
-          "name": "全场回放"
+          "name": "全场回放（官方解说）"
         }
       ]
     },
@@ -624,7 +632,7 @@
       "matchStatus": "2",
       "matchField": "金州体育场",
       "competitionName": "中甲",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000570562/202608031101_439187_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000570562/202609182130_663460_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/10106c2211.png",
       "pkInfoTitle": "大连鲲城 vs 宁波",
       "modifyTitle": "中甲联赛",
@@ -634,12 +642,8 @@
       },
       "nodes": [
         {
-          "pID": "967678179",
-          "name": "解说"
-        },
-        {
-          "pID": "967678189",
-          "name": "赛场原声"
+          "pID": "967713462",
+          "name": "全场回放"
         }
       ]
     },
@@ -719,16 +723,16 @@
     {
       "mgdbId": "120000592973",
       "pID": "967444669",
-      "title": "金华VS温州",
+      "title": "金华75-70温州",
       "keyword": "09月18日19:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "浙BA",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/02/77N92ACGBBVQ.png",
-      "pkInfoTitle": "金华VS温州",
-      "modifyTitle": "金华VS温州",
+      "pkInfoTitle": "金华75-70温州",
+      "modifyTitle": "金华75-70温州",
       "presenters": "",
       "matchInfo": {
         "time": "09月18日19:30"
@@ -746,10 +750,10 @@
       "title": "中超联赛",
       "keyword": "09月18日19:35",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "黄龙体育中心体育场",
       "competitionName": "中超",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000569646/341260_H169_sc.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000569646/169470_H169_sc.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png",
       "pkInfoTitle": "浙江 vs 武汉三镇",
       "modifyTitle": "中超联赛",
@@ -759,12 +763,16 @@
       },
       "nodes": [
         {
-          "pID": "967472248",
-          "name": "梁祥宇 王宇"
+          "pID": "967713261",
+          "name": "全场集锦"
         },
         {
-          "pID": "967472236",
-          "name": "赛场原声"
+          "pID": "967713503",
+          "name": "全场回放（梁祥宇、王宇）"
+        },
+        {
+          "pID": "967713517",
+          "name": "全场回放"
         }
       ]
     },
@@ -777,7 +785,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/18/77NNJRBOHV39.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/18/77NNK0BVHUEE.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "王艺迪一日四赛 周启豪闯入男单16强",
       "modifyTitle": "WTT球星挑战赛阿斯塔纳站男女单打1/16决赛、男女双打半决赛",
@@ -803,12 +811,12 @@
           "name": "3号桌"
         },
         {
-          "pID": "967522121",
-          "name": "4号桌"
-        },
-        {
           "pID": "967605569",
           "name": "智能字幕"
+        },
+        {
+          "pID": "967522121",
+          "name": "4号桌"
         }
       ]
     },
