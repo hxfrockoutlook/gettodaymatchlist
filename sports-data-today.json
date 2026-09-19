@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-19 19:03:04",
+  "updateTime": "2026-09-19 19:32:50",
   "data": [
     {
       "mgdbId": "120000593429",
@@ -418,7 +418,7 @@
       "nodes": [
         {
           "pID": "967735069",
-          "name": "2026年肇东杯乒乓球公开赛Day4全场回放（赛场原声）（一）"
+          "name": "全场回放（一）"
         }
       ]
     },
@@ -597,8 +597,8 @@
       },
       "nodes": [
         {
-          "pID": "967603717",
-          "name": "赛场原声"
+          "pID": "967735274",
+          "name": "全场回放"
         }
       ]
     },
@@ -765,8 +765,8 @@
       },
       "nodes": [
         {
-          "pID": "967679081",
-          "name": "解说"
+          "pID": "967735291",
+          "name": "全场回放（官方解说）"
         }
       ]
     },
@@ -789,8 +789,8 @@
       },
       "nodes": [
         {
-          "pID": "967679107",
-          "name": "解说"
+          "pID": "967735193",
+          "name": "全场回放"
         }
       ]
     },
@@ -813,15 +813,15 @@
       },
       "nodes": [
         {
-          "pID": "967679099",
-          "name": "解说"
+          "pID": "967735105",
+          "name": "全场回放"
         }
       ]
     },
     {
       "mgdbId": "120000587573",
       "pID": "967034765",
-      "title": "深圳蓝袜VS上海虎鲸",
+      "title": "深圳蓝袜4-6上海虎鲸",
       "keyword": "09月19日16:30",
       "sportItemId": "8",
       "matchStatus": "1",
@@ -829,8 +829,8 @@
       "competitionName": "CPB中国棒球城市联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/18/77NNHKRH0I89.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/8/10/100000001517106f3b81.png",
-      "pkInfoTitle": "深圳蓝袜VS上海虎鲸",
-      "modifyTitle": "CPB中国棒球城市联赛：深圳蓝袜VS上海虎鲸",
+      "pkInfoTitle": "深圳蓝袜4-6上海虎鲸",
+      "modifyTitle": "CPB中国棒球城市联赛：深圳蓝袜4-6上海虎鲸",
       "presenters": "",
       "matchInfo": {
         "time": "09月19日16:30"
@@ -869,10 +869,6 @@
           "name": "3号桌"
         },
         {
-          "pID": "967607313",
-          "name": "4号桌"
-        },
-        {
           "pID": "967607445",
           "name": "6号桌"
         },
@@ -891,6 +887,10 @@
         {
           "pID": "967607190",
           "name": "2号桌"
+        },
+        {
+          "pID": "967607313",
+          "name": "4号桌"
         },
         {
           "pID": "967607368",
@@ -979,7 +979,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/19/77NOG5GTF931.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/19/77NOGEFA1BBA.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "王艺迪、覃予萱单打冲四强 周启豪vs奥恰",
       "modifyTitle": "WTT球星挑战赛阿斯塔纳站男女单打1/4决赛、男女双打决赛",
@@ -1021,12 +1021,12 @@
       },
       "nodes": [
         {
-          "pID": "967671688",
-          "name": "3D视角"
-        },
-        {
           "pID": "967671678",
           "name": "官方解说"
+        },
+        {
+          "pID": "967735524",
+          "name": "3D视角"
         }
       ]
     },
@@ -1130,30 +1130,6 @@
         },
         {
           "pID": "967678302",
-          "name": "赛场原声"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000583634",
-      "pID": "966336373",
-      "title": "徽BA",
-      "keyword": "09月19日19:00",
-      "sportItemId": "2",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "徽BA",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000583634/202607221125_211009_H169_1080.webp",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/10/1000000014381067a4d8.png",
-      "pkInfoTitle": "蚌埠vs淮北",
-      "modifyTitle": "徽BA",
-      "presenters": "",
-      "matchInfo": {
-        "time": "09月19日19:00"
-      },
-      "nodes": [
-        {
-          "pID": "966336373",
           "name": "赛场原声"
         }
       ]
@@ -1384,7 +1360,7 @@
       "title": "临汾市VS山西杏花村酒",
       "keyword": "09月19日19:10",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "晋超联赛",
       "padImg": "",
@@ -1408,7 +1384,7 @@
       "title": "东北超",
       "keyword": "09月19日19:20",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "东北超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000590896/202608231310_764294_H169_1080.webp",
@@ -1432,7 +1408,7 @@
       "title": "湖北省城市足球联赛",
       "keyword": "09月19日19:25",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "楚超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000577727/202605201056_360836_H169_1080.webp",
@@ -1456,7 +1432,7 @@
       "title": "中甲联赛",
       "keyword": "09月19日19:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "五华奥体中心惠堂体育场",
       "competitionName": "中甲",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000570556/202603010041_412959_H169_1080.webp",
@@ -1484,7 +1460,7 @@
       "title": "中甲联赛",
       "keyword": "09月19日19:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "定南足球青少年训练中心体育场",
       "competitionName": "中甲",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000570557/202603010041_352594_H169_1080.webp",
@@ -1512,7 +1488,7 @@
       "title": "中甲联赛",
       "keyword": "09月19日19:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "江苏五台山体育中心体育场",
       "competitionName": "中甲",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000570558/202603010041_507342_H169_1080.webp",
@@ -1567,6 +1543,10 @@
         {
           "pID": "967672738",
           "name": "英文原声"
+        },
+        {
+          "pID": "967696839",
+          "name": "球星视角"
         }
       ]
     },
@@ -1576,7 +1556,7 @@
       "title": "英女超联赛",
       "keyword": "09月19日19:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "山谷球场",
       "competitionName": "英女超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000592166/202609021006_931794_H169_1080.webp",
@@ -1604,7 +1584,7 @@
       "title": "中乙升级赛组",
       "keyword": "09月19日19:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "临平体育中心体育场",
       "competitionName": "中乙",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000592553/202609050342_818899_H169_1080.webp",
@@ -1628,7 +1608,7 @@
       "title": "中乙保级赛",
       "keyword": "09月19日19:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "海沧体育中心",
       "competitionName": "中乙",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000592554/202609050342_900347_H169_1080.webp",
@@ -1652,7 +1632,7 @@
       "title": "玉环VS宁海",
       "keyword": "09月19日19:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "浙BA",
       "padImg": "",
@@ -1676,7 +1656,7 @@
       "title": "富阳VS嘉兴",
       "keyword": "09月19日19:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "浙BA",
       "padImg": "",
@@ -1700,7 +1680,7 @@
       "title": "粤超八强赛（第二回合补赛）",
       "keyword": "09月19日19:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "粤超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000593422/202609141005_831216_H169_1080.webp",
@@ -1728,7 +1708,7 @@
       "title": "山东省齐鲁足球超级联赛",
       "keyword": "09月19日19:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "齐鲁超赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000593459/202609141450_353016_H169_1080.webp",
@@ -1752,7 +1732,7 @@
       "title": "山东省齐鲁足球超级联赛",
       "keyword": "09月19日19:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "齐鲁超赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000593460/202609141450_377785_H169_1080.webp",
@@ -1776,7 +1756,7 @@
       "title": "山东省齐鲁足球超级联赛",
       "keyword": "09月19日19:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "齐鲁超赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000593461/202609141450_291389_H169_1080.webp",
@@ -1800,7 +1780,7 @@
       "title": "山东省齐鲁足球超级联赛",
       "keyword": "09月19日19:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "齐鲁超赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000593462/202609141455_986767_H169_1080.webp",
@@ -1824,7 +1804,7 @@
       "title": "安徽省青少年足球联赛",
       "keyword": "09月19日19:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "徽青赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000593463/202609141516_675822_H169_1080.webp",
@@ -1848,7 +1828,7 @@
       "title": "安徽省青少年足球联赛",
       "keyword": "09月19日19:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "徽青赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000593468/202609141505_361195_H169_1080.webp",
@@ -1872,7 +1852,7 @@
       "title": "赣超决赛",
       "keyword": "09月19日19:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "赣超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000593735/202609161325_932670_H169_1080.webp",
@@ -1896,7 +1876,7 @@
       "title": "中乙保级赛",
       "keyword": "09月19日19:35",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "双流体育中心",
       "competitionName": "中乙",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000592552/202609050342_219236_H169_1080.webp",
@@ -2016,7 +1996,7 @@
       "title": "苏超常规赛第22周",
       "keyword": "09月19日19:40",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "苏超",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000587738/739042_H169_sc.jpg",
@@ -2060,7 +2040,7 @@
       "title": "苏超常规赛第22周",
       "keyword": "09月19日19:40",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "苏超",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000587739/767765_H169_sc.jpg",
@@ -2104,7 +2084,7 @@
       "title": "苏超常规赛第22周",
       "keyword": "09月19日19:40",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "苏超",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000587740/308253_H169_sc.jpg",
@@ -2148,7 +2128,7 @@
       "title": "苏超常规赛第22周",
       "keyword": "09月19日19:40",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "苏超",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000587741/342794_H169_sc.jpg",
@@ -2192,7 +2172,7 @@
       "title": "苏超常规赛第22周",
       "keyword": "09月19日19:40",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "苏超",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000587742/692377_H169_sc.jpg",
@@ -2236,7 +2216,7 @@
       "title": "苏超常规赛第22周",
       "keyword": "09月19日19:40",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "苏超",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000587743/636622_H169_sc.jpg",
@@ -2280,7 +2260,7 @@
       "title": "英女超联赛",
       "keyword": "09月19日19:45",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "斯坦福桥球场",
       "competitionName": "英女超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000592165/202609021006_599800_H169_1080.webp",
