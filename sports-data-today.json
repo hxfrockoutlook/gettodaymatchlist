@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-19 10:02:51",
+  "updateTime": "2026-09-19 10:32:55",
   "data": [
     {
       "mgdbId": "120000593429",
@@ -1340,6 +1340,7 @@
     },
     {
       "mgdbId": "120000593443",
+      "pID": "967726713",
       "title": "觉城之夜N123：夏明权vs曲比古千",
       "keyword": "09月19日19:00",
       "sportItemId": "5",
@@ -1354,7 +1355,20 @@
       "matchInfo": {
         "time": "09月19日19:00"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "967726713",
+          "name": "官方解说"
+        },
+        {
+          "pID": "967726727",
+          "name": "英文解说"
+        },
+        {
+          "pID": "967726801",
+          "name": "清流不播出"
+        }
+      ]
     },
     {
       "mgdbId": "120000587916",
@@ -1415,7 +1429,7 @@
       "competitionName": "楚超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000577727/202605201056_360836_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/14/100000001434106e5143.png",
-      "pkInfoTitle": "随州炎炎vs潜���龙虾",
+      "pkInfoTitle": "随州炎炎vs潜江龙虾",
       "modifyTitle": "湖北省城市足球联赛",
       "presenters": "",
       "matchInfo": {
@@ -1703,7 +1717,7 @@
     {
       "mgdbId": "120000593459",
       "pID": "967603569",
-      "title": "山东省齐鲁足球超级联赛",
+      "title": "山东省���鲁足球超级联赛",
       "keyword": "09月19日19:30",
       "sportItemId": "1",
       "matchStatus": "0",
@@ -2358,6 +2372,7 @@
     },
     {
       "mgdbId": "120000593835",
+      "pID": "967726639",
       "title": "Naiza85：雅克西古卢雷VS萨迪戈夫",
       "keyword": "09月19日20:00",
       "sportItemId": "5",
@@ -2376,6 +2391,10 @@
         {
           "pID": "967726639",
           "name": "官方解说"
+        },
+        {
+          "pID": "967726646",
+          "name": "清流"
         }
       ]
     },
