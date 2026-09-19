@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-19 12:33:01",
+  "updateTime": "2026-09-19 13:02:54",
   "data": [
     {
       "mgdbId": "120000593429",
@@ -371,30 +371,6 @@
       ]
     },
     {
-      "mgdbId": "120000592994",
-      "pID": "967452841",
-      "title": "水池大奖赛",
-      "keyword": "09月19日08:45",
-      "sportItemId": "8",
-      "matchStatus": "2",
-      "matchField": "",
-      "competitionName": "国际雪联自由式滑雪空中技巧水池大奖赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/18/77NNINIKBSJT.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/2/10/100000001015106800e9.jpg",
-      "pkInfoTitle": "水池大奖赛",
-      "modifyTitle": "国际雪联自由式滑雪 空中技巧水池大奖赛",
-      "presenters": "",
-      "matchInfo": {
-        "time": "09月19日08:45"
-      },
-      "nodes": [
-        {
-          "pID": "967452841",
-          "name": "解说"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000594547",
       "pID": "967701959",
       "title": "斯特恩斯零封萨姆索诺娃晋级决赛",
@@ -465,12 +441,12 @@
       },
       "nodes": [
         {
-          "pID": "967700788",
-          "name": "C场"
-        },
-        {
           "pID": "967700772",
           "name": "布拉德球场"
+        },
+        {
+          "pID": "967700788",
+          "name": "C场"
         }
       ]
     },
@@ -480,10 +456,10 @@
       "title": "陈俊菘/王艺迪冲决赛 周启豪vs杜达",
       "keyword": "09月19日13:00",
       "sportItemId": "7",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/19/77NOF0IB81K2.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/19/77NOHVR5K1J8.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "陈俊菘/王艺迪冲决赛 周启豪vs杜达",
       "modifyTitle": "WTT球星挑战赛阿斯塔纳站男女单打1/8决赛、混双半决赛",
@@ -538,6 +514,30 @@
       "nodes": [
         {
           "pID": "967671141",
+          "name": "解说"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000592994",
+      "pID": "967452841",
+      "title": "国际雪联自由式滑雪 空中技巧水池大奖赛",
+      "keyword": "09月19日14:00",
+      "sportItemId": "8",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "国际雪联自由式滑雪空中技巧水池大奖赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/18/77NNINIKBSJT.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/2/10/100000001015106800e9.jpg",
+      "pkInfoTitle": "国际雪联自由式滑雪 空中技巧水池大奖赛",
+      "modifyTitle": "国际雪联自由式滑雪 空中技巧水池大奖赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "09月19日14:00"
+      },
+      "nodes": [
+        {
+          "pID": "967452841",
           "name": "解说"
         }
       ]
@@ -1713,7 +1713,7 @@
     {
       "mgdbId": "120000593459",
       "pID": "967603569",
-      "title": "山东省齐鲁足球超级联��",
+      "title": "山东省齐鲁足球超级联赛",
       "keyword": "09月19日19:30",
       "sportItemId": "1",
       "matchStatus": "0",
