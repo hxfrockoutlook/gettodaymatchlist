@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-19 08:02:47",
+  "updateTime": "2026-09-19 08:32:53",
   "data": [
     {
       "mgdbId": "120000593429",
@@ -324,7 +324,7 @@
       "title": "单打半决赛决赛、团体赛第一、二阶段",
       "keyword": "09月19日08:30",
       "sportItemId": "7",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "中国乒协会员联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/17/77NMNCVCHDPL.jpg",
@@ -339,42 +339,6 @@
         {
           "pID": "967675944",
           "name": "赛场原声"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000594547",
-      "pID": "967701944",
-      "title": "WTA500瓜达拉哈拉站女单半决赛：萨姆索诺娃 vs 斯特恩斯",
-      "keyword": "09月19日08:30",
-      "sportItemId": "9",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "WTA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/18/77NNHI982TA3.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "萨姆索诺娃 vs 斯特恩斯",
-      "modifyTitle": "WTA500瓜达拉哈拉站女单半决赛：萨姆索诺娃 vs 斯特恩斯",
-      "presenters": "单文强",
-      "matchInfo": {
-        "time": "09月19日08:30"
-      },
-      "nodes": [
-        {
-          "pID": "967701959",
-          "name": "单文强"
-        },
-        {
-          "pID": "967701944",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "967493581",
-          "name": "英文原声"
-        },
-        {
-          "pID": "967701885",
-          "name": "解说"
         }
       ]
     },
@@ -398,6 +362,42 @@
       "nodes": [
         {
           "pID": "967452841",
+          "name": "解说"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000594547",
+      "pID": "967701944",
+      "title": "萨姆索诺娃 vs 斯特恩斯",
+      "keyword": "09月19日08:50",
+      "sportItemId": "9",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "WTA",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/18/77NNHI982TA3.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
+      "pkInfoTitle": "萨姆索诺娃 vs 斯特恩斯",
+      "modifyTitle": "WTA500瓜达拉哈拉站女单半决赛：萨姆索诺娃 vs 斯特恩斯",
+      "presenters": "单文强",
+      "matchInfo": {
+        "time": "09月19日08:50"
+      },
+      "nodes": [
+        {
+          "pID": "967701959",
+          "name": "单文强"
+        },
+        {
+          "pID": "967701944",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "967493581",
+          "name": "英文原声"
+        },
+        {
+          "pID": "967701885",
           "name": "解说"
         }
       ]
