@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-19 18:03:08",
+  "updateTime": "2026-09-19 18:32:53",
   "data": [
     {
       "mgdbId": "120000593429",
@@ -489,6 +489,10 @@
           "name": "全场回放（一号桌）"
         },
         {
+          "pID": "967733982",
+          "name": "全场回放（二号桌）"
+        },
+        {
           "pID": "967733277",
           "name": "全场回放（三号桌）"
         },
@@ -617,8 +621,8 @@
       },
       "nodes": [
         {
-          "pID": "967603719",
-          "name": "赛场原声"
+          "pID": "967734612",
+          "name": "全场回放"
         }
       ]
     },
@@ -665,8 +669,8 @@
       },
       "nodes": [
         {
-          "pID": "967603746",
-          "name": "赛场原声"
+          "pID": "967734558",
+          "name": "全场回放"
         }
       ]
     },
@@ -724,7 +728,7 @@
       "title": "桂超联赛",
       "keyword": "09月19日15:50",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "桂超联赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000593724/202609161040_347339_H169_1080.webp",
@@ -748,7 +752,7 @@
       "title": "中乙升级赛组",
       "keyword": "09月19日16:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "山西省体育场",
       "competitionName": "中乙",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000592557/202609050345_387136_H169_1080.webp",
@@ -772,7 +776,7 @@
       "title": "中乙保级赛",
       "keyword": "09月19日16:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "普湾体育场",
       "competitionName": "中乙",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000592558/202609050345_230430_H169_1080.webp",
@@ -840,8 +844,8 @@
     },
     {
       "mgdbId": "120000593508",
-      "pID": "967649256",
-      "title": "墨菲PK赵翰洋 白雨露、常冰玉出战",
+      "pID": "967607106",
+      "title": "墨菲PK赵翰洋 白雨露出战、常冰玉6-0速胜",
       "keyword": "09月19日16:30",
       "sportItemId": "8",
       "matchStatus": "1",
@@ -849,24 +853,16 @@
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/19/77NOGOQAAIJ2.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "墨菲PK赵翰洋 白雨露、常冰玉出战",
-      "modifyTitle": "斯诺克国际锦标赛资格赛：墨菲PK赵翰洋 白雨露、常冰玉出战",
+      "pkInfoTitle": "墨菲PK赵翰洋 白雨露出战、常冰玉6-0速胜",
+      "modifyTitle": "斯诺克国际锦标赛资格赛：墨菲PK赵翰洋 白雨露出战、常冰玉6-0速胜",
       "presenters": "涂子轩",
       "matchInfo": {
         "time": "09月19日16:30"
       },
       "nodes": [
         {
-          "pID": "967649256",
-          "name": "涂子轩"
-        },
-        {
           "pID": "967607106",
           "name": "1号桌"
-        },
-        {
-          "pID": "967607190",
-          "name": "2号桌"
         },
         {
           "pID": "967607250",
@@ -875,10 +871,6 @@
         {
           "pID": "967607313",
           "name": "4号桌"
-        },
-        {
-          "pID": "967607368",
-          "name": "5号桌"
         },
         {
           "pID": "967607445",
@@ -891,6 +883,18 @@
         {
           "pID": "967607529",
           "name": "8号桌"
+        },
+        {
+          "pID": "967649256",
+          "name": "涂子轩"
+        },
+        {
+          "pID": "967607190",
+          "name": "2号桌"
+        },
+        {
+          "pID": "967607368",
+          "name": "5号桌"
         }
       ]
     },
@@ -972,7 +976,7 @@
       "title": "王艺迪、覃予萱单打冲四强 周启豪vs奥恰",
       "keyword": "09月19日18:30",
       "sportItemId": "7",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/19/77NOFHG1D8KR.jpg",
@@ -1004,10 +1008,10 @@
       "title": "URKL机器人格斗：金色闪光VS白色雄鹰",
       "keyword": "09月19日18:30",
       "sportItemId": "5",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "URKL",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/17/77NMKRGECLRI.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/19/77NOG52BGNKP.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/9/17/1000000015431060ddd7.png",
       "pkInfoTitle": "URKL机器人格斗：金色闪光VS白色雄鹰",
       "modifyTitle": "URKL机器人格斗：金色闪光VS白色雄鹰",
@@ -1032,7 +1036,7 @@
       "title": "聚焦八角笼：约书亚-万VS潘托加二番战胜负手解析",
       "keyword": "09月19日18:30",
       "sportItemId": "5",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "UFC前瞻与回顾",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/18/77NNK8PEG2L7.jpg",
