@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-20 10:02:02",
+  "updateTime": "2026-09-20 10:32:00",
   "data": [
     {
       "mgdbId": "120000584854",
@@ -389,7 +389,7 @@
     {
       "mgdbId": "120000593153",
       "pID": "967730293",
-      "title": "WTA500瓜达拉哈拉站女单决赛：约维奇成功卫冕 直落两盘强势夺冠",
+      "title": "WTA500瓜达拉哈拉站女单决赛：约维奇直落两盘成功卫冕",
       "keyword": "09月20日07:00",
       "sportItemId": "9",
       "matchStatus": "2",
@@ -397,8 +397,8 @@
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/19/77NOEU4S8VKU.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "约维奇成功卫冕 直落两盘强势夺冠",
-      "modifyTitle": "WTA500瓜达拉哈拉站女单决赛：约维奇成功卫冕 直落两盘强势夺冠",
+      "pkInfoTitle": "约维奇直落两盘成功卫冕",
+      "modifyTitle": "WTA500瓜达拉哈拉站女单决赛：约维奇直落两盘成功卫冕",
       "presenters": "李宁",
       "matchInfo": {
         "time": "09月20日07:00"
@@ -410,6 +410,10 @@
         },
         {
           "pID": "967767160",
+          "name": "全场回放"
+        },
+        {
+          "pID": "967769179",
           "name": "全场回放"
         }
       ]
@@ -507,27 +511,6 @@
       ]
     },
     {
-      "mgdbId": "300000002383",
-      "pID": "967679233",
-      "title": "周冠达、侯英超、程靖淇邀您看国乒",
-      "sportItemId": "7",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "决战亚洲",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/19/77NOFII9ITOT.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/9/17/100000001544106e79b7.png",
-      "pkInfoTitle": "周冠达、侯英超、程靖淇邀您看国乒",
-      "modifyTitle": "陪国乒，决战亚洲之巅Day1",
-      "presenters": "周冠达 侯英超 程靖淇",
-      "matchInfo": {},
-      "nodes": [
-        {
-          "pID": "967679233",
-          "name": "周冠达 侯英超 程靖淇"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000592995",
       "pID": "967452892",
       "title": "水池大奖赛",
@@ -620,6 +603,27 @@
         {
           "pID": "967700797",
           "name": "布拉德球场"
+        }
+      ]
+    },
+    {
+      "mgdbId": "300000002383",
+      "pID": "967769497",
+      "title": "周冠达、侯英超、程靖淇邀您看国乒",
+      "sportItemId": "7",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "决战亚洲",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/19/77NOFII9ITOT.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/9/17/100000001544106e79b7.png",
+      "pkInfoTitle": "周冠达、侯英超、程靖淇邀您看国乒",
+      "modifyTitle": "陪国乒，决战亚洲之巅Day1",
+      "presenters": "周冠达 侯英超 程靖淇",
+      "matchInfo": {},
+      "nodes": [
+        {
+          "pID": "967769497",
+          "name": "周冠达 侯英超 程靖淇"
         }
       ]
     },
