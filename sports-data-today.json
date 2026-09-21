@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-21 07:35:30",
+  "updateTime": "2026-09-21 08:01:13",
   "data": [
     {
       "mgdbId": "120000584858",
@@ -207,48 +207,12 @@
       ]
     },
     {
-      "mgdbId": "120000593431",
-      "pID": "967770313",
-      "title": "WTA250圣保罗站女单决赛：克韦多 vs 波多罗斯卡",
-      "keyword": "09月21日08:00",
-      "sportItemId": "9",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "WTA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/20/77NPC1R7R97C.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "克韦多 vs 波多罗斯卡",
-      "modifyTitle": "WTA250圣保罗站女单决赛：克韦多 vs 波多罗斯卡",
-      "presenters": "张文悦",
-      "matchInfo": {
-        "time": "09月21日08:00"
-      },
-      "nodes": [
-        {
-          "pID": "967770351",
-          "name": "张文悦"
-        },
-        {
-          "pID": "967770313",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "967599300",
-          "name": "英文原声"
-        },
-        {
-          "pID": "967770371",
-          "name": "解说"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000594663",
       "pID": "967732502",
       "title": "2026第十四届环鄱阳湖国际自行车大赛",
       "keyword": "09月21日08:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "中国自行车运动协会系列赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/20/77NPDJ4E6AA4.webp",
@@ -271,7 +235,7 @@
       "pID": "967157856",
       "title": "咪咕体育日报 第187期",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "咪咕体育日报",
       "padImg": "",
@@ -283,6 +247,42 @@
         {
           "pID": "967157856",
           "name": "咪咕体育日报 第187期"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000593431",
+      "pID": "967770313",
+      "title": "WTA250圣保罗站女单决赛：克韦多 vs 波多罗斯卡",
+      "keyword": "09月21日08:30",
+      "sportItemId": "9",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "WTA",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/20/77NPC1R7R97C.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
+      "pkInfoTitle": "克韦多 vs 波多罗斯卡",
+      "modifyTitle": "WTA250圣保罗站女单决赛：克韦多 vs 波多罗斯卡",
+      "presenters": "张文悦",
+      "matchInfo": {
+        "time": "09月21日08:30"
+      },
+      "nodes": [
+        {
+          "pID": "967770351",
+          "name": "张文悦"
+        },
+        {
+          "pID": "967770313",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "967599300",
+          "name": "英文原声"
+        },
+        {
+          "pID": "967770371",
+          "name": "解说"
         }
       ]
     },
@@ -313,7 +313,7 @@
     {
       "mgdbId": "120000594608",
       "pID": "967726648",
-      "title": "傅家俊、蓝裕豪、王信伯出战",
+      "title": "傅家俊PK吴安仪 王信伯迎战罗泽涛",
       "keyword": "09月21日17:00",
       "sportItemId": "8",
       "matchStatus": "0",
@@ -321,8 +321,8 @@
       "competitionName": "斯诺克",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "傅家俊、蓝裕豪、王信伯出战",
-      "modifyTitle": "斯诺克苏格兰公开赛资格赛96进64轮次：傅家俊、蓝裕豪、王信伯出战",
+      "pkInfoTitle": "傅家俊PK吴安仪 王信伯迎战罗泽涛",
+      "modifyTitle": "斯诺克苏格兰公开赛资格赛96进64轮次：傅家俊PK吴安仪 王信伯迎战罗泽涛",
       "presenters": "朱峰立 陶哲铭 卢正浩",
       "matchInfo": {
         "time": "09月21日17:00"
@@ -444,7 +444,12 @@
       "modifyTitle": "乒乓观察室Day2",
       "presenters": "周雨 程靖淇 徐晨皓",
       "matchInfo": {},
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "967773556",
+          "name": "周雨 程靖淇 徐晨皓 徐铭辰 常新宇"
+        }
+      ]
     }
   ]
 }
