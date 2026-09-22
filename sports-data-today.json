@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-22 17:01:16",
+  "updateTime": "2026-09-22 17:31:19",
   "data": [
     {
       "mgdbId": "120000594664",
@@ -49,7 +49,7 @@
     {
       "mgdbId": "120000594033",
       "pID": "967674046",
-      "title": "深圳蓝袜 7-5 北京正大龙",
+      "title": "深圳蓝袜7-5北京正大龙",
       "keyword": "09月22日10:30",
       "sportItemId": "8",
       "matchStatus": "2",
@@ -57,8 +57,8 @@
       "competitionName": "CPB中国棒球城市联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/22/77NR7PKOS59D.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/8/10/100000001517106f3b81.png",
-      "pkInfoTitle": "深圳蓝袜 7-5 北京正大龙",
-      "modifyTitle": "CPB中国棒球城市联赛",
+      "pkInfoTitle": "深圳蓝袜7-5北京正大龙",
+      "modifyTitle": "CPB中国棒球城市联赛：深圳蓝袜7-5北京正大龙",
       "presenters": "",
       "matchInfo": {
         "time": "09月22日10:30"
@@ -66,7 +66,7 @@
       "nodes": [
         {
           "pID": "967841556",
-          "name": "2026赛季CPB中国棒球城市联赛上海赛区全场回放：深圳蓝袜7-5北京正大龙（官方解说）"
+          "name": "【全场回放】深圳蓝袜7-5北京正大龙（官方解说）"
         }
       ]
     },
@@ -115,6 +115,14 @@
         {
           "pID": "967842417",
           "name": "全场回放（蔡凯臣）"
+        },
+        {
+          "pID": "967847144",
+          "name": "【女单第1轮】维基奇0-2王欣瑜（赛场原声）"
+        },
+        {
+          "pID": "967847102",
+          "name": "【女单第1轮】维基奇0-2王欣瑜（英文原声）"
         }
       ]
     },
@@ -228,7 +236,7 @@
       "title": "上海虎鲸VS厦门海豚",
       "keyword": "09月22日17:30",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "CPB中国棒球城市联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/22/77NR5V8QJLBH.jpg",
@@ -272,7 +280,7 @@
     },
     {
       "mgdbId": "300000002402",
-      "pID": "967773236",
+      "pID": "967768743",
       "title": "周冠达、侯英超、程靖淇邀您看国乒",
       "sportItemId": "7",
       "matchStatus": "0",
@@ -284,7 +292,12 @@
       "modifyTitle": "陪国乒，决战亚洲之巅Day3",
       "presenters": "周冠达 侯英超 程靖淇",
       "matchInfo": {},
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "967768743",
+          "name": "周冠达 侯英超 程靖淇"
+        }
+      ]
     },
     {
       "mgdbId": "120000594395",
@@ -444,7 +457,7 @@
     },
     {
       "mgdbId": "300000002394",
-      "pID": "967773549",
+      "pID": "967679096",
       "title": "侯英超、程靖淇、徐晨皓为您复盘",
       "sportItemId": "7",
       "matchStatus": "0",
@@ -456,7 +469,12 @@
       "modifyTitle": "乒乓观察室Day3",
       "presenters": "侯英超 程靖淇 徐晨皓",
       "matchInfo": {},
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "967679096",
+          "name": "徐铭辰 常新宇 侯英超 程靖淇 徐晨皓"
+        }
+      ]
     }
   ]
 }
