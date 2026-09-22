@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-22 09:31:09",
+  "updateTime": "2026-09-22 10:01:37",
   "data": [
     {
       "mgdbId": "120000594664",
@@ -228,11 +228,11 @@
     },
     {
       "mgdbId": "120000594690",
-      "pID": "967776799",
+      "pID": "967818454",
       "title": "2026比利简金杯总决赛1/4决赛：捷克 vs 英国",
       "keyword": "09月22日17:00",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "比利简金杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/22/77NR8BBK5VC8.jpg",
@@ -244,6 +244,10 @@
         "time": "09月22日17:00"
       },
       "nodes": [
+        {
+          "pID": "967818454",
+          "name": "训练视角"
+        },
         {
           "pID": "967776799",
           "name": "赛场原声"
@@ -428,14 +432,14 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/15/10000000132910662d9e.png",
       "pkInfoTitle": "北京控股vs博卡青年",
       "modifyTitle": "国际篮联洲际杯B组小组赛",
-      "presenters": "邵化谦 季孟年",
+      "presenters": "",
       "matchInfo": {
         "time": "09月22日19:30"
       },
       "nodes": [
         {
           "pID": "967819099",
-          "name": "邵化谦 季孟年"
+          "name": "解说"
         },
         {
           "pID": "967819107",
