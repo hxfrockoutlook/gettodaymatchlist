@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-22 16:31:10",
+  "updateTime": "2026-09-22 17:01:16",
   "data": [
     {
       "mgdbId": "120000594664",
@@ -76,12 +76,12 @@
       "title": "福建闽港澳台“同心杯”篮球邀请赛",
       "keyword": "09月22日14:55",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "福建闽港澳台“同心杯”篮球邀请赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/21/77NQ98E16C0N.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/7/25/100000001221106f665b.jpg",
-      "pkInfoTitle": "澳门昊骏vs台湾啤酒",
+      "pkInfoTitle": "澳门昊骏78-89台湾啤酒",
       "modifyTitle": "福建闽港澳台“同心杯”篮球邀请赛",
       "presenters": "",
       "matchInfo": {
@@ -156,7 +156,7 @@
       "title": "布雷切尔、江俊、贺国强出战",
       "keyword": "09月22日17:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/22/77NR81PB98UH.jpg",
@@ -196,7 +196,7 @@
     },
     {
       "mgdbId": "120000594690",
-      "pID": "967818454",
+      "pID": "967776799",
       "title": "2026比利简金杯总决赛1/4决赛：捷克 vs 英国",
       "keyword": "09月22日17:00",
       "sportItemId": "9",
@@ -213,12 +213,12 @@
       },
       "nodes": [
         {
-          "pID": "967818454",
-          "name": "训练场"
-        },
-        {
           "pID": "967776799",
           "name": "赛场原声"
+        },
+        {
+          "pID": "967818454",
+          "name": "训练场"
         }
       ]
     },
@@ -284,12 +284,7 @@
       "modifyTitle": "陪国乒，决战亚洲之巅Day3",
       "presenters": "周冠达 侯英超 程靖淇",
       "matchInfo": {},
-      "nodes": [
-        {
-          "pID": "967773236",
-          "name": "周冠达 侯英超 程靖淇"
-        }
-      ]
+      "nodes": []
     },
     {
       "mgdbId": "120000594395",
@@ -461,12 +456,7 @@
       "modifyTitle": "乒乓观察室Day3",
       "presenters": "侯英超 程靖淇 徐晨皓",
       "matchInfo": {},
-      "nodes": [
-        {
-          "pID": "967773549",
-          "name": "侯英超 程靖淇 徐晨皓 徐铭辰 常新宇"
-        }
-      ]
+      "nodes": []
     }
   ]
 }
