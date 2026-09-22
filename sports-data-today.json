@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-22 21:01:20",
+  "updateTime": "2026-09-22 21:31:10",
   "data": [
     {
       "mgdbId": "120000594664",
@@ -192,7 +192,7 @@
     },
     {
       "mgdbId": "120000594609",
-      "pID": "967729457",
+      "pID": "967729486",
       "title": "布雷切尔、江俊、贺国强出战",
       "keyword": "09月22日17:00",
       "sportItemId": "8",
@@ -203,19 +203,11 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "布雷切尔、江俊、贺国强出战",
       "modifyTitle": "斯诺克苏格兰公开赛资格赛96进64轮次：布雷切尔、江俊、贺国强出战",
-      "presenters": "柏林 卢正浩",
+      "presenters": "卢正浩 柏林",
       "matchInfo": {
         "time": "09月22日17:00"
       },
       "nodes": [
-        {
-          "pID": "967729457",
-          "name": "柏林"
-        },
-        {
-          "pID": "967726725",
-          "name": "1号桌"
-        },
         {
           "pID": "967726736",
           "name": "2号桌"
@@ -231,6 +223,14 @@
         {
           "pID": "967729486",
           "name": "卢正浩"
+        },
+        {
+          "pID": "967726725",
+          "name": "1号桌"
+        },
+        {
+          "pID": "967729457",
+          "name": "柏林"
         }
       ]
     },
@@ -246,7 +246,7 @@
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/22/77NR8BBK5VC8.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/7/7/1000000013271065c3d3.png",
       "pkInfoTitle": "捷克 VS 英国",
-      "modifyTitle": "2026比利��金杯总决赛1/4决赛：捷克 vs 英国",
+      "modifyTitle": "2026比利简金���总决赛1/4决赛：捷克 vs 英国",
       "presenters": "",
       "matchInfo": {
         "time": "09月22日17:00"
@@ -281,18 +281,18 @@
       },
       "nodes": [
         {
-          "pID": "967674052",
-          "name": "清流播出"
+          "pID": "967851914",
+          "name": "2026赛季CPB中国棒球城市联赛上海赛区全场回放：上海虎鲸1-3厦门海豚（官方解说）"
         }
       ]
     },
     {
       "mgdbId": "120000594556",
-      "pID": "967701992",
+      "pID": "964587800",
       "title": "NBA季后赛精彩重播：森林狼vs马刺 G1",
       "keyword": "09月22日18:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA经典赛事",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/22/77NR6CRARBJ2.png",
@@ -305,8 +305,8 @@
       },
       "nodes": [
         {
-          "pID": "967701992",
-          "name": "姜帆 闫宇峰 季孟年"
+          "pID": "964587800",
+          "name": "全场回放（姜帆、闫宇峰、季孟年、秋童）"
         }
       ]
     },
@@ -326,8 +326,8 @@
       "matchInfo": {},
       "nodes": [
         {
-          "pID": "967768743",
-          "name": "周冠达 侯英超 程靖淇"
+          "pID": "967851522",
+          "name": "全场回放（周冠达、侯英超、程靖淇）"
         }
       ]
     },
@@ -434,16 +434,16 @@
     {
       "mgdbId": "120000594406",
       "pID": "967697130",
-      "title": "丽水VS舟山",
+      "title": "丽水100-64舟山",
       "keyword": "09月22日19:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "浙BA",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/02/77N92ACGBBVQ.png",
-      "pkInfoTitle": "丽水VS舟山",
-      "modifyTitle": "丽水VS舟山",
+      "pkInfoTitle": "丽水100-64舟山",
+      "modifyTitle": "丽水100-64舟山",
       "presenters": "",
       "matchInfo": {
         "time": "09月22日19:30"
@@ -502,10 +502,6 @@
       "presenters": "侯英超 程靖淇 徐晨皓",
       "matchInfo": {},
       "nodes": [
-        {
-          "pID": "967679096",
-          "name": "徐铭辰 常新宇 侯英超 程靖淇 徐��皓"
-        },
         {
           "pID": "967679096",
           "name": "徐铭辰 常新宇 侯英超 程靖淇 徐晨皓"
