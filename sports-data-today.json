@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-22 08:01:15",
+  "updateTime": "2026-09-22 08:31:02",
   "data": [
     {
       "mgdbId": "120000594664",
@@ -100,6 +100,7 @@
     },
     {
       "mgdbId": "120000594750",
+      "pID": "967832118",
       "title": "WTA500新加坡站女单第一轮：维基奇 vs 王欣瑜",
       "keyword": "09月22日14:00",
       "sportItemId": "9",
@@ -114,7 +115,16 @@
       "matchInfo": {
         "time": "09月22日14:00"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "967832118",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "967832128",
+          "name": "解说"
+        }
+      ]
     },
     {
       "mgdbId": "120000594334",
@@ -181,7 +191,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "斯诺克",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/22/77NR81PB98UH.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "布雷切尔、江俊、贺国强出战",
       "modifyTitle": "斯诺克苏格兰公开赛资格赛96进64轮次：布雷切尔、江俊、贺国强出战",
