@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-23 12:01:09",
+  "updateTime": "2026-09-23 12:31:14",
   "data": [
     {
       "mgdbId": "120000585893",
@@ -34,7 +34,7 @@
         },
         {
           "pID": "967859395",
-          "name": "达苏耶夫VS奥尔特加"
+          "name": "达苏耶夫VS奥尔���加"
         },
         {
           "pID": "967859090",
@@ -171,39 +171,11 @@
       ]
     },
     {
-      "mgdbId": "120000594577",
-      "pID": "967705290",
-      "title": "博尔特出战 孙发京PK托米奇",
-      "keyword": "09月23日12:00",
-      "sportItemId": "9",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "ATP",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/22/77NR7RG5CA0U.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/16/1000000003671066e6c8.jpg",
-      "pkInfoTitle": "博尔特出战 孙发京PK托米奇",
-      "modifyTitle": "杭州网球公开赛 Day1：博尔特出战 孙发京PK托米奇",
-      "presenters": "",
-      "matchInfo": {
-        "time": "09月23日12:00"
-      },
-      "nodes": [
-        {
-          "pID": "967705290",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "967705305",
-          "name": "中文解说"
-        }
-      ]
-    },
-    {
       "mgdbId": "300000002380",
       "pID": "967679336",
       "title": "周冠达、侯英超、程靖淇邀您看国乒",
       "sportItemId": "7",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "决战亚洲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/23/77NS5HCJJE99.jpg",
@@ -304,6 +276,34 @@
         {
           "pID": "967819303",
           "name": "英文解说"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000594577",
+      "pID": "967705290",
+      "title": "武基奇出战 鲁瓦耶vs沃尔顿",
+      "keyword": "09月23日16:00",
+      "sportItemId": "9",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "ATP",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/23/77NS6A4TB2P2.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/16/1000000003671066e6c8.jpg",
+      "pkInfoTitle": "武基奇出战 鲁瓦耶vs沃尔顿",
+      "modifyTitle": "杭州网球公开赛 Day1：武基奇出战 鲁瓦耶vs沃尔顿",
+      "presenters": "",
+      "matchInfo": {
+        "time": "09月23日16:00"
+      },
+      "nodes": [
+        {
+          "pID": "967705290",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "967705305",
+          "name": "中文解说"
         }
       ]
     },
