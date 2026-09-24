@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-24 09:31:12",
+  "updateTime": "2026-09-24 10:01:20",
   "data": [
     {
       "mgdbId": "120000594666",
@@ -51,10 +51,10 @@
       "pID": "967679344",
       "title": "周冠达、侯英超、程靖淇邀您看国乒",
       "sportItemId": "7",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "决战亚洲",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/23/77NS63624LKN.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/24/77NT2J0II9PA.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/9/17/100000001544106e79b7.png",
       "pkInfoTitle": "周冠达、侯英超、程靖淇邀您看国乒",
       "modifyTitle": "陪国乒，决战亚洲之巅Day5上午场",
@@ -73,7 +73,7 @@
       "title": "2026比利简金杯总决赛1/4决赛：乌克兰 VS 比利时",
       "keyword": "09月24日09:55",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "比利简金杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/23/77NS5M14FRV9.jpg",
@@ -97,7 +97,7 @@
       "title": "训练场Day3",
       "keyword": "09月24日10:00",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "比利简金杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/23/77NS4T28BT1C.jpg",
@@ -188,11 +188,15 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
       "pkInfoTitle": "王欣瑜、伊埃拉冲击八强席位",
       "modifyTitle": "WTA500新加坡站女单第二轮：王欣瑜、伊埃拉冲击八强席位",
-      "presenters": "",
+      "presenters": "单文强",
       "matchInfo": {
         "time": "09月24日13:00"
       },
       "nodes": [
+        {
+          "pID": "967902040",
+          "name": "单文强"
+        },
         {
           "pID": "967696831",
           "name": "赛场原声"
@@ -327,7 +331,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "决战亚洲",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/23/77NS6391RFLG.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/24/77NT2IURVL4I.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/9/17/100000001544106e79b7.png",
       "pkInfoTitle": "周冠达、侯英超、程靖淇邀您看国乒",
       "modifyTitle": "陪国乒，决战亚洲之巅Day5下午场",
@@ -413,6 +417,27 @@
         {
           "pID": "967702024",
           "name": "杨健 曾令旭 苏群"
+        }
+      ]
+    },
+    {
+      "mgdbId": "300000002405",
+      "pID": "967903079",
+      "title": "中网嘉年华抢鲜看·吃喝玩乐一站搞懂",
+      "sportItemId": "9",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "中国网球公开赛",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/9/25/10000000111010617861.jpg",
+      "pkInfoTitle": "中网嘉年华抢鲜看·吃喝玩乐一站搞懂",
+      "modifyTitle": "2026中国网球公开赛嘉年华",
+      "presenters": "",
+      "matchInfo": {},
+      "nodes": [
+        {
+          "pID": "967903079",
+          "name": "2026中网嘉年华抢鲜看"
         }
       ]
     },
