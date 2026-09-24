@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-24 15:01:32",
+  "updateTime": "2026-09-24 15:31:24",
   "data": [
     {
       "mgdbId": "120000594666",
@@ -135,7 +135,7 @@
       "nodes": [
         {
           "pID": "967927609",
-          "name": "2026CPB中国棒球城市联赛全场回放：深圳蓝袜2-4北京正大龙（官方解说）"
+          "name": "【全场回放】深圳蓝袜2-4北京正大龙（官方解说）"
         }
       ]
     },
@@ -184,7 +184,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/23/77NS55PUNRG3.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/24/77NT0Q4J4CPS.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
       "pkInfoTitle": "王欣瑜、伊埃拉冲击八强席位",
       "modifyTitle": "WTA500新加坡站女单第二轮：王欣瑜、伊埃拉冲击八强席位",
@@ -193,6 +193,10 @@
         "time": "09月24日13:00"
       },
       "nodes": [
+        {
+          "pID": "967902040",
+          "name": "单文强"
+        },
         {
           "pID": "967696831",
           "name": "赛场原声"
@@ -265,7 +269,7 @@
       "title": "国际篮联洲际杯A组小组赛",
       "keyword": "09月24日15:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "国际篮联洲际杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/23/77NS41V8TCT8.jpg",
@@ -297,7 +301,7 @@
       "title": "WTA500新加坡站女单第二轮：王欣瑜 vs 葛蓝乔安娜",
       "keyword": "09月24日15:30",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/23/77NS57Q0V5MQ.png",
@@ -593,6 +597,34 @@
         },
         {
           "pID": "967838832",
+          "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000594867",
+      "pID": "967838805",
+      "title": "CFA中国之队·重庆国际足球邀请赛",
+      "keyword": "09月24日19:35",
+      "sportItemId": "1",
+      "matchStatus": "0",
+      "matchField": "重庆龙兴足球场",
+      "competitionName": "中国之队·国际足球邀请赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/24/77NT0ES02PNJ.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/6/3/100000001478106571d7.png",
+      "pkInfoTitle": "中国 vs 马尔代夫",
+      "modifyTitle": "CFA中国之队·重庆国际足球邀请赛",
+      "presenters": "孙雨轩 徐云龙 李子琪",
+      "matchInfo": {
+        "time": "09月24日19:35"
+      },
+      "nodes": [
+        {
+          "pID": "967838805",
+          "name": "孙雨轩 徐云龙 李子琪"
+        },
+        {
+          "pID": "967838811",
           "name": "赛场原声"
         }
       ]
