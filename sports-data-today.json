@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-25 08:01:28",
+  "updateTime": "2026-09-25 08:32:46",
   "data": [
     {
       "mgdbId": "120000594667",
@@ -144,30 +144,6 @@
         {
           "pID": "967775487",
           "name": "解说"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000594841",
-      "pID": "967818815",
-      "title": "训练场Day4",
-      "keyword": "09月25日10:00",
-      "sportItemId": "9",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "比利简金杯",
-      "padImg": "",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/7/7/1000000013271065c3d3.png",
-      "pkInfoTitle": "训练场Day4",
-      "modifyTitle": "比利简金杯球员训练场Day4",
-      "presenters": "",
-      "matchInfo": {
-        "time": "09月25日10:00"
-      },
-      "nodes": [
-        {
-          "pID": "967818815",
-          "name": "训练场"
         }
       ]
     },
@@ -770,6 +746,25 @@
           "name": "徐铭辰 常新宇 小马哥 程靖淇 陈玘"
         }
       ]
+    },
+    {
+      "mgdbId": "120000594841",
+      "pID": "120000594841",
+      "title": "训练场Day4",
+      "keyword": "09月25日10:00",
+      "sportItemId": "",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "比利简金杯",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/22/77NR8UH7JOC4.jpg",
+      "competitionLogo": "",
+      "pkInfoTitle": "训练场Day4",
+      "modifyTitle": "训练场Day4",
+      "presenters": "",
+      "matchInfo": {
+        "time": "09月25日10:00"
+      },
+      "nodes": []
     }
   ]
 }
