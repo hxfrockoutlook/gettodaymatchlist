@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-25 11:02:19",
+  "updateTime": "2026-09-25 11:32:14",
   "data": [
     {
       "mgdbId": "120000594667",
@@ -32,7 +32,7 @@
       "title": "UFC巴西柔术大赛第11期：米切尔跨界挑战王者穆斯梅西",
       "keyword": "09月25日08:00",
       "sportItemId": "5",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "UFC BJJ",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/21/77NQB7FIB07E.png",
@@ -45,12 +45,36 @@
       },
       "nodes": [
         {
-          "pID": "967837010",
-          "name": "郝俊"
+          "pID": "967951770",
+          "name": "福勒VS罗德里格兹"
         },
         {
-          "pID": "967837027",
-          "name": "英文原声"
+          "pID": "967951436",
+          "name": "勒韦恩VS威林克"
+        },
+        {
+          "pID": "967951123",
+          "name": "罗德里格兹VS比尔林"
+        },
+        {
+          "pID": "967950865",
+          "name": "诺拉特VS马查多"
+        },
+        {
+          "pID": "967950565",
+          "name": "埃尔加里科VS霍利"
+        },
+        {
+          "pID": "967950311",
+          "name": "斯特里策尔VS萨苏埃塔"
+        },
+        {
+          "pID": "967950166",
+          "name": "冈萨雷斯VS迪德尔"
+        },
+        {
+          "pID": "967952314",
+          "name": "UFC巴西柔术大赛第11期回放：米基-穆斯梅西VS布莱斯-米切尔"
         }
       ]
     },
@@ -183,35 +207,11 @@
       ]
     },
     {
-      "mgdbId": "120000594572",
-      "pID": "967704992",
-      "title": "沙波瓦洛夫出战 塔比洛PK马纳里诺",
-      "keyword": "09月25日11:00",
-      "sportItemId": "9",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "ATP",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/24/77NT33ALB3TG.png",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/16/1000000003671066e6c8.jpg",
-      "pkInfoTitle": "沙波瓦洛夫出战 塔比洛PK马纳里诺",
-      "modifyTitle": "成都网球公开赛 Day3：沙波瓦洛夫出战 塔比洛PK马纳里诺",
-      "presenters": "",
-      "matchInfo": {
-        "time": "09月25日11:00"
-      },
-      "nodes": [
-        {
-          "pID": "967704992",
-          "name": "赛场原声"
-        }
-      ]
-    },
-    {
       "mgdbId": "300000002381",
       "pID": "967679352",
       "title": "周冠达、侯英超、程靖淇邀您看国乒",
       "sportItemId": "7",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "决战亚洲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/25/77NTVMI35VRJ.png",
@@ -260,6 +260,30 @@
         {
           "pID": "967950424",
           "name": "王欣瑜 vs 普罗佐洛娃"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000594572",
+      "pID": "967704992",
+      "title": "沙波瓦洛夫出战 塔比洛PK马纳里诺",
+      "keyword": "09月25日13:00",
+      "sportItemId": "9",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "ATP",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/24/77NT33ALB3TG.png",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/16/1000000003671066e6c8.jpg",
+      "pkInfoTitle": "沙波瓦洛夫出战 塔比洛PK马纳里诺",
+      "modifyTitle": "成都网球公开赛 Day3：沙波瓦洛夫出战 塔比洛PK马纳里诺",
+      "presenters": "",
+      "matchInfo": {
+        "time": "09月25日13:00"
+      },
+      "nodes": [
+        {
+          "pID": "967704992",
+          "name": "赛场原声"
         }
       ]
     },
@@ -436,12 +460,7 @@
       "matchInfo": {
         "time": "09月25日18:00"
       },
-      "nodes": [
-        {
-          "pID": "967702038",
-          "name": "杨健 曾令旭 李根"
-        }
-      ]
+      "nodes": []
     },
     {
       "mgdbId": "120000592980",
