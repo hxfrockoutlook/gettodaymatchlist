@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-25 09:01:28",
+  "updateTime": "2026-09-25 09:31:21",
   "data": [
     {
       "mgdbId": "120000594667",
@@ -309,6 +309,7 @@
     },
     {
       "mgdbId": "120000595079",
+      "pID": "967950419",
       "title": "WTA500新加坡站1/4决赛：王欣瑜 vs 普罗佐洛娃",
       "keyword": "09月25日14:30",
       "sportItemId": "9",
@@ -319,11 +320,20 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
       "pkInfoTitle": "王欣瑜 vs 普罗佐洛娃",
       "modifyTitle": "WTA500新加坡站1/4决赛：王欣瑜 vs 普罗佐洛娃",
-      "presenters": "",
+      "presenters": "李宁",
       "matchInfo": {
         "time": "09月25日14:30"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "967950424",
+          "name": "王欣瑜vs普罗佐洛娃"
+        },
+        {
+          "pID": "967950419",
+          "name": "赛场原声"
+        }
+      ]
     },
     {
       "mgdbId": "120000594694",
@@ -718,25 +728,6 @@
           "name": "徐铭辰 常新宇 小马哥 程靖淇 陈玘"
         }
       ]
-    },
-    {
-      "mgdbId": "120000595041",
-      "pID": "120000595041",
-      "title": "训练场Day1",
-      "keyword": "09月25日08:00",
-      "sportItemId": "",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "中国网球公开赛",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/12/05/11005/3233e3d4066f4822b250a1d838ac39f1/3233e3d4066f4822b250a1d838ac39f1_H169_P1080_WEBP.webp",
-      "competitionLogo": "",
-      "pkInfoTitle": "训练场Day1",
-      "modifyTitle": "训练场Day1",
-      "presenters": "",
-      "matchInfo": {
-        "time": "09月25日08:00"
-      },
-      "nodes": []
     }
   ]
 }
