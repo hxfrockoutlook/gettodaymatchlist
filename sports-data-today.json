@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-26 14:01:55",
+  "updateTime": "2026-09-26 14:31:53",
   "data": [
     {
       "mgdbId": "120000594877",
@@ -195,42 +195,6 @@
       ]
     },
     {
-      "mgdbId": "120000594403",
-      "pID": "967961119",
-      "title": "科尔涅娃出战 比勒尔、乔恩特晋级",
-      "keyword": "09月26日10:00",
-      "sportItemId": "9",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "WTA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/26/77NUTLBHKVVT.png",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "科尔涅娃出战 比勒尔、乔恩特晋级",
-      "modifyTitle": "WTA250首尔站1/4决赛、半决赛：科尔涅娃出战 比勒尔、乔恩特晋级",
-      "presenters": "",
-      "matchInfo": {
-        "time": "09月26日10:00"
-      },
-      "nodes": [
-        {
-          "pID": "967934510",
-          "name": "中网公开赛训练场1"
-        },
-        {
-          "pID": "967934580",
-          "name": "中网公开赛训练场2"
-        },
-        {
-          "pID": "967961119",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "967961126",
-          "name": "英文原声"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000594417",
       "pID": "967698439",
       "title": "逐马计划太原站大咖分享会",
@@ -256,7 +220,7 @@
     },
     {
       "mgdbId": "120000594712",
-      "pID": "967965819",
+      "pID": "967966737",
       "title": "国际篮联洲际杯五、六名排位赛",
       "keyword": "09月26日12:00",
       "sportItemId": "2",
@@ -272,6 +236,10 @@
         "time": "09月26日12:00"
       },
       "nodes": [
+        {
+          "pID": "967966737",
+          "name": "全场集锦"
+        },
         {
           "pID": "967966761",
           "name": "全场回放（李天宇、周鹏）"
@@ -375,7 +343,7 @@
       "pID": "967679390",
       "title": "周冠达、侯英超、程靖淇邀您看国乒",
       "sportItemId": "7",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "决战亚洲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/26/77NUTI00H93E.jpg",
@@ -397,7 +365,7 @@
       "title": "徐一璠/汤千慧冲女双决赛",
       "keyword": "09月26日14:30",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/26/77NUTK0S4UJ7.png",
@@ -419,6 +387,42 @@
         },
         {
           "pID": "967696898",
+          "name": "英文原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000594403",
+      "pID": "967961119",
+      "title": "一日双赛！科尔涅娃、比勒尔冲决赛",
+      "keyword": "09月26日14:45",
+      "sportItemId": "9",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "WTA",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/26/77NUTLBHKVVT.png",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
+      "pkInfoTitle": "一日双赛！科尔涅娃、比勒尔冲决赛",
+      "modifyTitle": "WTA250首尔站1/4决赛、半决赛：一日双赛！科尔涅娃、比勒尔冲决赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "09月26日14:45"
+      },
+      "nodes": [
+        {
+          "pID": "967934510",
+          "name": "中网公开赛训练场1"
+        },
+        {
+          "pID": "967934580",
+          "name": "中网公开赛训练场2"
+        },
+        {
+          "pID": "967961119",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "967961126",
           "name": "英文原声"
         }
       ]
