@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-26 11:31:42",
+  "updateTime": "2026-09-26 12:01:54",
   "data": [
     {
       "mgdbId": "120000594877",
@@ -147,27 +147,6 @@
       ]
     },
     {
-      "mgdbId": "300000002387",
-      "pID": "967679390",
-      "title": "周冠达、侯英超、程靖淇邀您看国乒",
-      "sportItemId": "7",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "决战亚洲",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/26/77NUTI00H93E.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/9/17/100000001544106e79b7.png",
-      "pkInfoTitle": "周冠达、侯英超、程靖淇邀您看国乒",
-      "modifyTitle": "陪国乒，决战亚洲之巅Day7",
-      "presenters": "周冠达 侯英超 程靖淇",
-      "matchInfo": {},
-      "nodes": [
-        {
-          "pID": "967679390",
-          "name": "周冠达 侯英超 程靖淇"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000594879",
       "pID": "967838756",
       "title": "环北京门头沟国际公路自行车赛",
@@ -218,7 +197,7 @@
     {
       "mgdbId": "120000594403",
       "pID": "967696663",
-      "title": "比勒尔暂1-1 邦达尔PK鲁塞",
+      "title": "邦达尔PK鲁塞 比勒尔晋级半决赛",
       "keyword": "09月26日10:00",
       "sportItemId": "9",
       "matchStatus": "1",
@@ -226,8 +205,8 @@
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/25/77NTUE6LBQ0S.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "比勒尔暂1-1 邦达尔PK鲁塞",
-      "modifyTitle": "WTA250首尔站1/4决赛、半决赛：比勒尔暂1-1 邦达尔PK鲁塞",
+      "pkInfoTitle": "邦达尔PK鲁塞 比勒尔晋级半决赛",
+      "modifyTitle": "WTA250首尔站1/4决赛、半决赛：邦达尔PK鲁塞 比勒尔晋级半决赛",
       "presenters": "",
       "matchInfo": {
         "time": "09月26日10:00"
@@ -235,11 +214,11 @@
       "nodes": [
         {
           "pID": "967934510",
-          "name": "2026中国网球公开赛训练 Day2（训练场1）"
+          "name": "中网公开赛训练场1"
         },
         {
           "pID": "967934580",
-          "name": "2026中国网球公开赛训练 Day2（训练场2）"
+          "name": "中网公开赛训练场2"
         },
         {
           "pID": "967696663",
@@ -293,7 +272,7 @@
       "title": "国际篮联洲际杯五、六名排位赛",
       "keyword": "09月26日12:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "国际篮联洲际杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/25/77NU092GSC1C.jpg",
@@ -340,6 +319,14 @@
         {
           "pID": "967705081",
           "name": "赛场原声"
+        },
+        {
+          "pID": "967934510",
+          "name": "中网训练场1"
+        },
+        {
+          "pID": "967934580",
+          "name": "中网训练场2"
         }
       ]
     },
@@ -392,6 +379,35 @@
         {
           "pID": "967705413",
           "name": "中文解说"
+        },
+        {
+          "pID": "967934510",
+          "name": "中网训练场1"
+        },
+        {
+          "pID": "967934580",
+          "name": "中网训练场2"
+        }
+      ]
+    },
+    {
+      "mgdbId": "300000002387",
+      "pID": "967679390",
+      "title": "周冠达、侯英超、程靖淇邀您看国乒",
+      "sportItemId": "7",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "决战亚洲",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/26/77NUTI00H93E.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/9/17/100000001544106e79b7.png",
+      "pkInfoTitle": "周冠达、侯英超、程靖淇邀您看国乒",
+      "modifyTitle": "陪国乒，决战亚洲之巅Day7",
+      "presenters": "周冠达 侯英超 程靖淇",
+      "matchInfo": {},
+      "nodes": [
+        {
+          "pID": "967679390",
+          "name": "周冠达 侯英超 程靖淇"
         }
       ]
     },
