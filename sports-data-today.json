@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-27 07:01:57",
+  "updateTime": "2026-09-27 07:31:48",
   "data": [
     {
       "mgdbId": "120000592159",
@@ -144,7 +144,7 @@
       "title": "2026「九牛牧业」太原马拉松",
       "keyword": "09月27日07:30",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "逐马计划",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/21/77NQ9DF46NGL.jpg",
@@ -168,7 +168,7 @@
       "title": "中国公路自行车公开赛邢台站",
       "keyword": "09月27日07:30",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "中国自行车运动协会系列赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/26/77NUT97K385I.png",
@@ -192,7 +192,7 @@
       "title": "2026延安红色半程马拉松",
       "keyword": "09月27日07:30",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "马拉松系列赛",
       "padImg": "",
@@ -216,7 +216,7 @@
       "title": "2026年宁夏石嘴山环星海湖半程马拉松",
       "keyword": "09月27日07:30",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "马拉松系列赛",
       "padImg": "",
@@ -259,6 +259,30 @@
       ]
     },
     {
+      "mgdbId": "120000594875",
+      "pID": "967838546",
+      "title": "湖北省龙舟公开赛沙洋站Day2",
+      "keyword": "09月27日08:00",
+      "sportItemId": "8",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "全国龙舟大联动",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/26/77NUTB8A3RA9.png",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/9/22/1000000015501060c826.png",
+      "pkInfoTitle": "湖北省龙舟公开赛沙洋站Day2",
+      "modifyTitle": "湖北省龙舟公开赛沙洋站Day2",
+      "presenters": "",
+      "matchInfo": {
+        "time": "09月27日08:00"
+      },
+      "nodes": [
+        {
+          "pID": "967838546",
+          "name": "沙洋站"
+        }
+      ]
+    },
+    {
       "mgdbId": "300000002337",
       "pID": "967157775",
       "title": "咪咕体育日报 第193期",
@@ -279,32 +303,8 @@
       ]
     },
     {
-      "mgdbId": "120000594875",
-      "pID": "967838546",
-      "title": "湖北省龙舟公开赛沙洋站Day2",
-      "keyword": "09月27日08:30",
-      "sportItemId": "8",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "全国龙舟大联动",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/26/77NUTB8A3RA9.png",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/9/22/1000000015501060c826.png",
-      "pkInfoTitle": "湖北省龙舟公开赛沙洋站Day2",
-      "modifyTitle": "湖北省龙舟公开赛沙洋站Day2",
-      "presenters": "",
-      "matchInfo": {
-        "time": "09月27日08:30"
-      },
-      "nodes": [
-        {
-          "pID": "967838546",
-          "name": "沙洋站"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000595043",
-      "pID": "967934729",
+      "pID": "967934851",
       "title": "中国网球公开赛训练 Day3",
       "keyword": "09月27日08:30",
       "sportItemId": "9",
@@ -321,12 +321,12 @@
       },
       "nodes": [
         {
-          "pID": "967934729",
-          "name": "训练场1"
-        },
-        {
           "pID": "967934851",
           "name": "训练场2"
+        },
+        {
+          "pID": "967934729",
+          "name": "训练场1"
         }
       ]
     },
@@ -434,7 +434,7 @@
       "competitionName": "ATP",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/26/77NUTDPB5HJU.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/16/1000000003671066e6c8.jpg",
-      "pkInfoTitle": "卢布列夫、布���朝克特轮番出战",
+      "pkInfoTitle": "卢布列夫、布云朝克特轮番出战",
       "modifyTitle": "杭州网球公开赛 1/4决赛：卢布列夫、布云朝克特轮番出战",
       "presenters": "",
       "matchInfo": {
