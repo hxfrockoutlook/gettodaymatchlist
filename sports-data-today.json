@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-27 21:02:13",
+  "updateTime": "2026-09-27 21:32:10",
   "data": [
     {
       "mgdbId": "120000592159",
@@ -1088,12 +1088,16 @@
         {
           "pID": "967987435",
           "name": "全场回放（鲁靖明）"
+        },
+        {
+          "pID": "967988275",
+          "name": "全场回放"
         }
       ]
     },
     {
       "mgdbId": "120000594716",
-      "pID": "967818493",
+      "pID": "967987996",
       "title": "国际篮联洲际杯决赛",
       "keyword": "09月27日18:30",
       "sportItemId": "2",
@@ -1110,16 +1114,12 @@
       },
       "nodes": [
         {
-          "pID": "967818493",
-          "name": "邵化谦 刘家成 季孟年"
+          "pID": "967987996",
+          "name": "全场集锦"
         },
         {
-          "pID": "967818502",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "967818520",
-          "name": "英文解说"
+          "pID": "967987914",
+          "name": "全场回放（邵化谦、刘家成、季孟年）"
         }
       ]
     },
@@ -1166,12 +1166,12 @@
       },
       "nodes": [
         {
-          "pID": "967848258",
-          "name": "解说"
+          "pID": "967987960",
+          "name": "超长版集锦"
         },
         {
-          "pID": "967848274",
-          "name": "赛场原声"
+          "pID": "967988302",
+          "name": "全场回放"
         }
       ]
     },
@@ -1205,7 +1205,7 @@
       "title": "山东省齐鲁足球超级联赛",
       "keyword": "09月27日19:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "齐鲁超赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000594731/202609211355_953135_H169_1080.webp",
@@ -1229,7 +1229,7 @@
       "title": "徽BA季后赛第一轮",
       "keyword": "09月27日19:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "徽BA",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000594789/202609221010_106941_H169_1080.webp",
@@ -1249,11 +1249,11 @@
     },
     {
       "mgdbId": "120000594952",
-      "pID": "967885670",
+      "pID": "967986661",
       "title": "超三联赛 无锡大区赛 A档半决赛及决赛",
       "keyword": "09月27日19:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "超三联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/27/77NVOO4K8T5G.jpg",
@@ -1266,24 +1266,32 @@
       },
       "nodes": [
         {
-          "pID": "967885670",
-          "name": "李嘉伟"
+          "pID": "967986661",
+          "name": "【回放】上海横沙誉民21:18南昌凯锆商贸"
+        },
+        {
+          "pID": "967987128",
+          "name": "【回放】上海久事20:14北京控股"
+        },
+        {
+          "pID": "967987722",
+          "name": "【回放】南昌凯锆商贸13:21北京控股"
         }
       ]
     },
     {
       "mgdbId": "120000594415",
       "pID": "967697249",
-      "title": "衢州VS温州",
+      "title": "衢州55-81温州",
       "keyword": "09月27日19:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "浙BA",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/02/77N92ACGBBVQ.png",
-      "pkInfoTitle": "衢州VS温州",
-      "modifyTitle": "衢州VS温州",
+      "pkInfoTitle": "衢州55-81温州",
+      "modifyTitle": "衢州55-81温州",
       "presenters": "",
       "matchInfo": {
         "time": "09月27日19:30"
@@ -1325,7 +1333,7 @@
       "title": "西海岸新区vs莱西市",
       "keyword": "09月27日19:30",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "青岛城市足球争霸赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000595005/202609240945_114228_H169_1080.webp",
@@ -1352,7 +1360,7 @@
       "matchStatus": "1",
       "matchField": "重庆龙兴足球场",
       "competitionName": "2026CFA中国之队·重庆国际足球邀请赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/25/77NU007F6UCG.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/27/77NVPRUUT6FN.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/6/3/100000001478106571d7.png",
       "pkInfoTitle": "中国 vs 新西兰",
       "modifyTitle": "重庆国际足球邀请赛",
@@ -1540,7 +1548,7 @@
       "pID": "967679231",
       "title": "周冠达、侯英超领衔复盘男双&女单决赛",
       "sportItemId": "7",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "决战亚洲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/27/77NVOP0V6JCG.jpg",
