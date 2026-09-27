@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-27 08:31:47",
+  "updateTime": "2026-09-27 09:03:12",
   "data": [
     {
       "mgdbId": "120000592159",
@@ -291,7 +291,7 @@
       "pID": "967157775",
       "title": "咪咕体育日报 第193期",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "咪咕体育日报",
       "padImg": "",
@@ -307,36 +307,12 @@
       ]
     },
     {
-      "mgdbId": "120000595043",
-      "pID": "967934851",
-      "title": "中网赛前备战 朱琳、卡恰诺夫等球员亮相",
-      "keyword": "09月27日08:30",
-      "sportItemId": "9",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "中国网球公开赛",
-      "padImg": "",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/9/25/10000000111010617861.jpg",
-      "pkInfoTitle": "中网赛前备战 朱琳、卡恰诺夫等球员亮相",
-      "modifyTitle": "中国网球公开赛训练 Day3：中网赛前备战 朱琳、卡恰诺夫等球员亮相",
-      "presenters": "",
-      "matchInfo": {
-        "time": "09月27日08:30"
-      },
-      "nodes": [
-        {
-          "pID": "967934851",
-          "name": "训练场2"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000594880",
       "pID": "967838770",
       "title": "环北京门头沟国际公路自行车赛",
       "keyword": "09月27日09:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "中国自行车运动协会系列赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/26/77NUTBC5GILG.png",
@@ -522,6 +498,10 @@
       },
       "nodes": [
         {
+          "pID": "967976266",
+          "name": "鸿昆"
+        },
+        {
           "pID": "967696712",
           "name": "赛场原声"
         },
@@ -534,20 +514,16 @@
           "name": "英文原声"
         },
         {
+          "pID": "967976292",
+          "name": "赛场原声"
+        },
+        {
           "pID": "967934729",
           "name": "训练场1"
         },
         {
           "pID": "967934851",
           "name": "训练场2"
-        },
-        {
-          "pID": "967976266",
-          "name": "鸿昆"
-        },
-        {
-          "pID": "967976292",
-          "name": "赛场原声"
         }
       ]
     },
@@ -966,6 +942,10 @@
       },
       "nodes": [
         {
+          "pID": "967976315",
+          "name": "郭丰庆"
+        },
+        {
           "pID": "967696913",
           "name": "赛场原声"
         },
@@ -978,20 +958,16 @@
           "name": "英文原声"
         },
         {
+          "pID": "967976322",
+          "name": "赛场原声"
+        },
+        {
           "pID": "967934729",
           "name": "训练场1"
         },
         {
           "pID": "967934851",
           "name": "训练场2"
-        },
-        {
-          "pID": "967976315",
-          "name": "郭丰庆"
-        },
-        {
-          "pID": "967976322",
-          "name": "赛场原声"
         }
       ]
     },
@@ -1539,6 +1515,25 @@
           "name": "赛场原声"
         }
       ]
+    },
+    {
+      "mgdbId": "120000595043",
+      "pID": "120000595043",
+      "title": "中网赛前备战 朱琳、卡恰诺夫等球员亮相",
+      "keyword": "09月27日08:30",
+      "sportItemId": "",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "中国网球公开赛",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/12/05/11005/3233e3d4066f4822b250a1d838ac39f1/3233e3d4066f4822b250a1d838ac39f1_H169_P1080_WEBP.webp",
+      "competitionLogo": "",
+      "pkInfoTitle": "中网赛前备战 朱琳、卡恰诺夫等球员亮相",
+      "modifyTitle": "中国网球公开赛训练 Day3",
+      "presenters": "",
+      "matchInfo": {
+        "time": "09月27日08:30"
+      },
+      "nodes": []
     }
   ]
 }
