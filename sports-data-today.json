@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-28 00:31:11",
+  "updateTime": "2026-09-28 01:01:16",
   "data": [
     {
       "mgdbId": "120000594670",
@@ -23,34 +23,6 @@
         {
           "pID": "967732419",
           "name": "解说"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000595044",
-      "pID": "967935935",
-      "title": "中国网球公开赛训练 Day4",
-      "keyword": "09月28日08:00",
-      "sportItemId": "9",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "中国网球公开赛",
-      "padImg": "",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/9/25/10000000111010617861.jpg",
-      "pkInfoTitle": "中国网球公开赛训练 Day4",
-      "modifyTitle": "中国网球公开赛训练 Day4",
-      "presenters": "",
-      "matchInfo": {
-        "time": "09月28日08:00"
-      },
-      "nodes": [
-        {
-          "pID": "967935935",
-          "name": "训练场1"
-        },
-        {
-          "pID": "967935969",
-          "name": "训练场2"
         }
       ]
     },
@@ -111,7 +83,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/9/25/10000000111010617861.jpg",
       "pkInfoTitle": "金花内战上演 崔杰迎战强敌",
       "modifyTitle": "中国网球公开赛资格赛第一轮：金花内战上演 崔杰迎战强敌",
-      "presenters": "鸿昆 宋光振",
+      "presenters": "宋光振 张文悦 鸿昆",
       "matchInfo": {
         "time": "09月28日09:30"
       },
@@ -123,6 +95,14 @@
         {
           "pID": "967988639",
           "name": "混采"
+        },
+        {
+          "pID": "967990929",
+          "name": "宋光振"
+        },
+        {
+          "pID": "967990927",
+          "name": "张文悦"
         },
         {
           "pID": "967705458",
@@ -151,6 +131,14 @@
         {
           "pID": "967705579",
           "name": "7号球场"
+        },
+        {
+          "pID": "967935935",
+          "name": "训练场1"
+        },
+        {
+          "pID": "967935969",
+          "name": "训练场2"
         },
         {
           "pID": "967990909",
@@ -207,6 +195,34 @@
       ]
     },
     {
+      "mgdbId": "120000595044",
+      "pID": "967935935",
+      "title": "中网赛前备战",
+      "keyword": "09月28日10:20",
+      "sportItemId": "9",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "中国网球公开赛",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/9/25/10000000111010617861.jpg",
+      "pkInfoTitle": "中网赛前备战",
+      "modifyTitle": "中国网球公开赛训练 Day4：中网赛前备战",
+      "presenters": "",
+      "matchInfo": {
+        "time": "09月28日10:20"
+      },
+      "nodes": [
+        {
+          "pID": "967935935",
+          "name": "训练场1"
+        },
+        {
+          "pID": "967935969",
+          "name": "训练场2"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000595238",
       "pID": "967990907",
       "title": "中国网球公开赛资格赛女单第一轮：任钰菲 vs 马烨欣",
@@ -225,12 +241,12 @@
       },
       "nodes": [
         {
-          "pID": "967990907",
-          "name": "赛场原声"
-        },
-        {
           "pID": "967990929",
           "name": "宋光振"
+        },
+        {
+          "pID": "967990907",
+          "name": "赛场原声"
         }
       ]
     },
@@ -274,12 +290,12 @@
       },
       "nodes": [
         {
-          "pID": "967990905",
-          "name": "赛场原声"
-        },
-        {
           "pID": "967990927",
           "name": "张文悦"
+        },
+        {
+          "pID": "967990905",
+          "name": "赛场原声"
         }
       ]
     },
