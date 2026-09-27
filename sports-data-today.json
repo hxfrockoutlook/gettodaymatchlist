@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-27 09:31:57",
+  "updateTime": "2026-09-27 10:02:06",
   "data": [
     {
       "mgdbId": "120000592159",
@@ -128,7 +128,7 @@
       "title": "2026长宁蜀南竹海半程马拉松",
       "keyword": "09月27日06:45",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "马拉松系列赛",
       "padImg": "",
@@ -200,7 +200,7 @@
       "title": "2026延安红色半程马拉松",
       "keyword": "09月27日07:30",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "马拉松系列赛",
       "padImg": "",
@@ -224,7 +224,7 @@
       "title": "2026年宁夏石嘴山环星海湖半程马拉松",
       "keyword": "09月27日07:30",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "马拉松系列赛",
       "padImg": "",
@@ -331,6 +331,10 @@
         {
           "pID": "967934851",
           "name": "训练场2"
+        },
+        {
+          "pID": "967934729",
+          "name": "训练场1"
         }
       ]
     },
@@ -492,7 +496,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "超三联赛",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/27/77NVPT563V4C.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg",
       "pkInfoTitle": "超三联赛 无锡大区赛 A档四分之一决赛",
       "modifyTitle": "超三联赛",
@@ -552,10 +556,6 @@
         {
           "pID": "967934851",
           "name": "训练场2"
-        },
-        {
-          "pID": "967696730",
-          "name": "英文��声"
         }
       ]
     },
