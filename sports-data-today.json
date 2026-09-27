@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-27 12:31:55",
+  "updateTime": "2026-09-27 13:02:01",
   "data": [
     {
       "mgdbId": "120000592159",
@@ -232,7 +232,7 @@
       "title": "中国公路自行车公开赛邢台站",
       "keyword": "09月27日07:30",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "中国自行车运动协会系列赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/26/77NUT97K385I.png",
@@ -372,7 +372,7 @@
       "title": "中网赛前备战 朱琳稍晚亮相",
       "keyword": "09月27日08:30",
       "sportItemId": "9",
-      "matchStatus": "2",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "中国网球公开赛",
       "padImg": "",
@@ -469,7 +469,7 @@
       "title": "弗基纳出战 哈里斯PK胡尔卡奇",
       "keyword": "09月27日13:00",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "ATP",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/26/77NUTD4I3KLA.png",
@@ -481,6 +481,14 @@
         "time": "09月27日13:00"
       },
       "nodes": [
+        {
+          "pID": "967934851",
+          "name": "中国网球公开赛训练场2"
+        },
+        {
+          "pID": "967934729",
+          "name": "中国网球公开赛训练场1"
+        },
         {
           "pID": "967705142",
           "name": "赛场原声"
@@ -512,6 +520,14 @@
         {
           "pID": "967705461",
           "name": "中文解说"
+        },
+        {
+          "pID": "967934851",
+          "name": "中网训练场2"
+        },
+        {
+          "pID": "967934729",
+          "name": "中网训练场1"
         }
       ]
     },
@@ -612,10 +628,6 @@
         {
           "pID": "967934851",
           "name": "训练场2"
-        },
-        {
-          "pID": "967696730",
-          "name": "英���原声"
         }
       ]
     },
