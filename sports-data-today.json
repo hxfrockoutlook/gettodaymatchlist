@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-27 19:06:21",
+  "updateTime": "2026-09-27 19:33:10",
   "data": [
     {
       "mgdbId": "120000592159",
@@ -372,7 +372,7 @@
       "title": "中网赛前备战",
       "keyword": "09月27日08:30",
       "sportItemId": "9",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "中国网球公开赛",
       "padImg": "",
@@ -385,12 +385,12 @@
       },
       "nodes": [
         {
-          "pID": "967934851",
-          "name": "训练场2"
+          "pID": "967986563",
+          "name": "2026中国网球公开赛训练Day3二号训练场全场回放（赛场原声）（一）"
         },
         {
-          "pID": "967934729",
-          "name": "训练场1"
+          "pID": "967985093",
+          "name": "2026中国网球公开赛训练Day3一号训练场全场回放（赛场原声）（一）"
         }
       ]
     },
@@ -449,16 +449,16 @@
     {
       "mgdbId": "120000594574",
       "pID": "967705142",
-      "title": "沙波瓦洛夫出战 哈里斯PK胡尔卡奇",
+      "title": "哈里斯PK胡尔卡奇",
       "keyword": "09月27日13:00",
       "sportItemId": "9",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "ATP",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/27/77NVOD42KCQ6.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/27/77NVP7V7F6A9.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/16/1000000003671066e6c8.jpg",
-      "pkInfoTitle": "沙波瓦洛夫出战 哈里斯PK胡尔卡奇",
-      "modifyTitle": "成都网球公开赛 1/4决赛：沙波瓦洛夫出战 哈里斯PK胡尔卡奇",
+      "pkInfoTitle": "哈里斯PK胡尔卡奇",
+      "modifyTitle": "成都网球公开赛 1/4决赛：哈里斯PK胡尔卡奇",
       "presenters": "",
       "matchInfo": {
         "time": "09月27日13:00"
@@ -469,12 +469,12 @@
           "name": "赛场原声"
         },
         {
-          "pID": "967934851",
-          "name": "中国网球公开赛训练场2"
-        },
-        {
           "pID": "967934729",
           "name": "中国网球公开赛训练场1"
+        },
+        {
+          "pID": "967934851",
+          "name": "中国网球公开赛训练场2"
         }
       ]
     },
@@ -505,28 +505,28 @@
           "name": "中文解说"
         },
         {
-          "pID": "967934851",
-          "name": "中网训练场2"
-        },
-        {
           "pID": "967934729",
           "name": "中网训练场1"
+        },
+        {
+          "pID": "967934851",
+          "name": "中网训练场2"
         }
       ]
     },
     {
       "mgdbId": "120000594682",
       "pID": "967838866",
-      "title": "沈阳国际青年足球锦标赛友谊赛",
+      "title": "CFA中国之队·“和平杯”沈阳国际青年足球锦标赛",
       "keyword": "09月27日14:00",
       "sportItemId": "1",
       "matchStatus": "2",
       "matchField": "Shenhe Cultural and Sports Centre Stadium",
-      "competitionName": "沈阳国际青年足球锦标赛",
+      "competitionName": "2026CFA中国之队·“和平杯”沈阳国际青年足球锦标赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/27/77NVO65DBPO7.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/24/77NT0HUIHJSI.png",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/9/27/100000001545106c100b.png",
       "pkInfoTitle": "中国U16 vs 越南U16",
-      "modifyTitle": "沈阳国际青年足球锦标赛友谊赛",
+      "modifyTitle": "CFA中国之队·“和平杯”沈阳国际青年足球锦标赛",
       "presenters": "张昊泽 王宇",
       "matchInfo": {
         "time": "09月27日14:00"
@@ -753,8 +753,8 @@
       },
       "nodes": [
         {
-          "pID": "964887910",
-          "name": "2026湖北省城市足球联赛第十七轮: 仙桃黄鳝vs潜江龙虾"
+          "pID": "967986705",
+          "name": "全场回放"
         }
       ]
     },
@@ -777,8 +777,8 @@
       },
       "nodes": [
         {
-          "pID": "964887916",
-          "name": "2026湖北省城市足球联赛第十七轮: 鄂州临空vs襄阳东风风神"
+          "pID": "967986540",
+          "name": "全场回放"
         }
       ]
     },
@@ -801,8 +801,8 @@
       },
       "nodes": [
         {
-          "pID": "964887920",
-          "name": "2026湖北省城市足球联赛第十七轮: 随州炎炎vs天门衣尚"
+          "pID": "967986678",
+          "name": "全场回放"
         }
       ]
     },
@@ -871,7 +871,12 @@
       "matchInfo": {
         "time": "09月27日15:50"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "964887939",
+          "name": "2026湖北省城市足球联赛第十七轮: 荆门金龙泉vs十堰武当"
+        }
+      ]
     },
     {
       "mgdbId": "120000577726",
@@ -892,8 +897,8 @@
       },
       "nodes": [
         {
-          "pID": "964887944",
-          "name": "2026湖北省城市足球联赛第十七轮: 荆州恒隆vs恩施小土豆"
+          "pID": "967986623",
+          "name": "全场回放"
         }
       ]
     },
@@ -916,8 +921,8 @@
       },
       "nodes": [
         {
-          "pID": "967880404",
-          "name": "赛场原声"
+          "pID": "967986357",
+          "name": "全场回放"
         }
       ]
     },
@@ -968,12 +973,12 @@
           "name": "赛场原声"
         },
         {
-          "pID": "967934851",
-          "name": "训练场2"
-        },
-        {
           "pID": "967934729",
           "name": "训练场1"
+        },
+        {
+          "pID": "967934851",
+          "name": "训练场2"
         }
       ]
     },
@@ -983,7 +988,7 @@
       "title": "WTA500新加坡站女单决赛：费尔南德斯  vs 吉布森",
       "keyword": "09月27日17:00",
       "sportItemId": "9",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/26/77NUT8L3DD55.png",
@@ -996,28 +1001,8 @@
       },
       "nodes": [
         {
-          "pID": "967976315",
-          "name": "郭丰庆"
-        },
-        {
-          "pID": "967696913",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "967838079",
-          "name": "解说"
-        },
-        {
-          "pID": "967696935",
-          "name": "英文原声"
-        },
-        {
-          "pID": "967934729",
-          "name": "训练场1"
-        },
-        {
-          "pID": "967934851",
-          "name": "训练场2"
+          "pID": "967986574",
+          "name": "全场回放（郭丰庆）"
         }
       ]
     },
@@ -1280,7 +1265,7 @@
       "title": "衢州VS温州",
       "keyword": "09月27日19:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "浙BA",
       "padImg": "",
@@ -1304,7 +1289,7 @@
       "title": "诸暨VS金华",
       "keyword": "09月27日19:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "浙BA",
       "padImg": "",
@@ -1354,7 +1339,7 @@
       "sportItemId": "1",
       "matchStatus": "1",
       "matchField": "重庆龙兴足球场",
-      "competitionName": "中国之队·国际足球邀请赛",
+      "competitionName": "2026CFA中国之队·重庆国际足球邀请赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/25/77NU007F6UCG.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/6/3/100000001478106571d7.png",
       "pkInfoTitle": "中国 vs 新西兰",
