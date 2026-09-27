@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-27 18:02:03",
+  "updateTime": "2026-09-27 18:31:56",
   "data": [
     {
       "mgdbId": "120000592159",
@@ -385,12 +385,12 @@
       },
       "nodes": [
         {
-          "pID": "967934729",
-          "name": "训练场1"
-        },
-        {
           "pID": "967934851",
           "name": "训练场2"
+        },
+        {
+          "pID": "967934729",
+          "name": "训练场1"
         }
       ]
     },
@@ -437,8 +437,12 @@
       },
       "nodes": [
         {
-          "pID": "967775500",
-          "name": "解说"
+          "pID": "967985368",
+          "name": "2026年全国飞盘锦标赛Day3全场回放（官方解说）（一）"
+        },
+        {
+          "pID": "967985643",
+          "name": "2026年全国飞盘锦标赛Day3全场回放（官方解说）（二）"
         }
       ]
     },
@@ -461,16 +465,16 @@
       },
       "nodes": [
         {
+          "pID": "967705142",
+          "name": "赛场原声"
+        },
+        {
           "pID": "967934851",
           "name": "中国网球公开赛训练场2"
         },
         {
           "pID": "967934729",
           "name": "中国网球公开赛训练场1"
-        },
-        {
-          "pID": "967705142",
-          "name": "赛场原声"
         }
       ]
     },
@@ -697,8 +701,8 @@
       },
       "nodes": [
         {
-          "pID": "967906807",
-          "name": "官方解说"
+          "pID": "967985327",
+          "name": "2026青岛城市足球争霸赛A组第1轮全场回放：市南区2:0崂山区（赛场原声）"
         }
       ]
     },
@@ -721,8 +725,8 @@
       },
       "nodes": [
         {
-          "pID": "967907362",
-          "name": "官方解说"
+          "pID": "967985290",
+          "name": "2026青岛城市足球争霸赛B组第1轮全场回放：平度市1:0市北区（赛场原声）"
         }
       ]
     },
@@ -780,7 +784,7 @@
       "title": "湖北省城市足球联赛",
       "keyword": "09月27日15:50",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "楚超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000577720/202605201210_728021_H169_1080.webp",
@@ -900,7 +904,7 @@
       "title": "桂超联赛半决赛次回合",
       "keyword": "09月27日15:50",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "桂超联赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000594944/202609231535_372631_H169_1080.webp",
@@ -963,6 +967,14 @@
         {
           "pID": "967776819",
           "name": "赛场原声"
+        },
+        {
+          "pID": "967934851",
+          "name": "训练场2"
+        },
+        {
+          "pID": "967934729",
+          "name": "训练场1"
         }
       ]
     },
@@ -1010,7 +1022,7 @@
         },
         {
           "pID": "967696935",
-          "name": "英文��声"
+          "name": "英���原声"
         }
       ]
     },
@@ -1093,7 +1105,7 @@
       "title": "国际篮联洲际杯决赛",
       "keyword": "09月27日18:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "国际篮联洲际杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/26/77NUT0KOT3K1.jpg",
@@ -1321,7 +1333,7 @@
       "title": "西海岸新区vs莱西市",
       "keyword": "09月27日19:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "青岛城市足球争霸赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000595005/202609240945_114228_H169_1080.webp",
@@ -1345,7 +1357,7 @@
       "title": "重庆国际足球邀请赛",
       "keyword": "09月27日19:35",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "重庆龙兴足球场",
       "competitionName": "中国之队·国际足球邀请赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/25/77NU007F6UCG.jpg",
