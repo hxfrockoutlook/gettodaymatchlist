@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-28 10:01:14",
+  "updateTime": "2026-09-28 10:31:08",
   "data": [
     {
       "mgdbId": "120000594670",
@@ -112,7 +112,7 @@
       "title": "中网赛前备战",
       "keyword": "09月28日10:20",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "中国网球公开赛",
       "padImg": "",
@@ -136,11 +136,11 @@
     },
     {
       "mgdbId": "120000594584",
-      "pID": "967988650",
+      "pID": "967705458",
       "title": "金花内战上演 崔杰迎战强敌",
       "keyword": "09月28日11:00",
       "sportItemId": "9",
-      "matchStatus": "1",
+      "matchStatus": "0",
       "matchField": "",
       "competitionName": "中国网球公开赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/27/77NVQC20IHA4.png",
@@ -153,8 +153,8 @@
       },
       "nodes": [
         {
-          "pID": "967988650",
-          "name": "新闻发布会"
+          "pID": "967705458",
+          "name": "映月球场"
         },
         {
           "pID": "967990929",
@@ -163,10 +163,6 @@
         {
           "pID": "967990927",
           "name": "党一鸣🇨🇳 vs 尤晓迪🇨🇳"
-        },
-        {
-          "pID": "967705458",
-          "name": "映月球场"
         },
         {
           "pID": "967705486",
@@ -360,34 +356,6 @@
       ]
     },
     {
-      "mgdbId": "120000594582",
-      "pID": "967705490",
-      "title": "雅凯PK卢布列夫 梅总冲决赛",
-      "keyword": "09月28日15:30",
-      "sportItemId": "9",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "ATP",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/27/77NVQERC902S.png",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/16/1000000003671066e6c8.jpg",
-      "pkInfoTitle": "雅凯PK卢布列夫 梅总冲决赛",
-      "modifyTitle": "杭州网球公开赛 半决赛：雅凯PK卢布列夫 梅总冲决赛",
-      "presenters": "",
-      "matchInfo": {
-        "time": "09月28日15:30"
-      },
-      "nodes": [
-        {
-          "pID": "967705490",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "967705507",
-          "name": "中文解说"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000594932",
       "pID": "967878269",
       "title": "东盟杯第一级别",
@@ -436,6 +404,34 @@
         {
           "pID": "967674286",
           "name": "清流播出"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000594582",
+      "pID": "967705490",
+      "title": "雅凯PK卢布列夫 梅总冲决赛",
+      "keyword": "09月28日17:30",
+      "sportItemId": "9",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "ATP",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/27/77NVQERC902S.png",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/9/16/1000000003671066e6c8.jpg",
+      "pkInfoTitle": "雅凯PK卢布列夫 梅总冲决赛",
+      "modifyTitle": "杭州网球公开赛 半决赛：雅凯PK卢布列夫 梅总冲决赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "09月28日17:30"
+      },
+      "nodes": [
+        {
+          "pID": "967705490",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "967705507",
+          "name": "中文解说"
         }
       ]
     },
