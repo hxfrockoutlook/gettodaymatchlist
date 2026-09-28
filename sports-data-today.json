@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-28 22:01:20",
+  "updateTime": "2026-09-28 22:31:09",
   "data": [
     {
       "mgdbId": "120000594670",
@@ -155,6 +155,10 @@
         {
           "pID": "968016142",
           "name": "【男单资格赛第1轮】周意0-2布斯塔（赛场原声）"
+        },
+        {
+          "pID": "968017652",
+          "name": "【男单资格赛第1轮】凯茨曼诺维奇1-2马纳里诺（赛场原声）"
         },
         {
           "pID": "968008017",
@@ -396,7 +400,7 @@
       "title": "胡尔卡奇、弗基纳晋级决赛",
       "keyword": "09月28日17:00",
       "sportItemId": "9",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "ATP",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/28/77O0MB03LEB0.png",
@@ -409,8 +413,8 @@
       },
       "nodes": [
         {
-          "pID": "967705166",
-          "name": "赛场原声"
+          "pID": "968016101",
+          "name": "【男单半决赛】巴斯拉什维利1-2弗基纳（赛场原声）"
         }
       ]
     },
@@ -541,8 +545,8 @@
     },
     {
       "mgdbId": "120000594846",
-      "pID": "967848024",
-      "title": "奥沙利文VS江俊 赵心童出战",
+      "pID": "967848040",
+      "title": "奥沙利文2-5江俊 赵心童出战",
       "keyword": "09月28日19:30",
       "sportItemId": "8",
       "matchStatus": "1",
@@ -550,17 +554,13 @@
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/27/77NVOPH4JUIR.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "奥沙利文VS江俊 赵心童出战",
-      "modifyTitle": "斯诺克深圳公开赛64进32轮次：奥沙利文VS江俊 赵心童出战",
-      "presenters": "乔迁 柏林",
+      "pkInfoTitle": "奥沙利文2-5江俊 赵心童出战",
+      "modifyTitle": "斯诺克深圳公开赛64进32轮次：奥沙利文2-5江俊 赵心童出战",
+      "presenters": "柏林 乔迁",
       "matchInfo": {
         "time": "09月28日19:30"
       },
       "nodes": [
-        {
-          "pID": "967848024",
-          "name": "解说：乔迁"
-        },
         {
           "pID": "967848040",
           "name": "解说：柏林"
@@ -568,6 +568,10 @@
         {
           "pID": "967834719",
           "name": "1号桌"
+        },
+        {
+          "pID": "967848024",
+          "name": "解说：乔迁"
         },
         {
           "pID": "967834806",
