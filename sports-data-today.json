@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-28 16:02:08",
+  "updateTime": "2026-09-28 16:31:31",
   "data": [
     {
       "mgdbId": "120000594670",
@@ -119,7 +119,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "中国网球公开赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/28/77O0NSQ5Q24D.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/28/77O0LG658ABF.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/9/25/10000000111010617861.jpg",
       "pkInfoTitle": "马烨欣、尤晓迪拿下德比 崔杰迎战强敌",
       "modifyTitle": "中国网球公开赛资格赛第一轮：马烨欣、尤晓迪拿下德比 崔杰迎战强敌",
@@ -128,6 +128,10 @@
         "time": "09月28日11:00"
       },
       "nodes": [
+        {
+          "pID": "967990923",
+          "name": "米哈利科娃 vs 施晗🇨🇳"
+        },
         {
           "pID": "967705458",
           "name": "映月球场"
@@ -163,10 +167,6 @@
         {
           "pID": "967935969",
           "name": "训练场2"
-        },
-        {
-          "pID": "967990923",
-          "name": "米哈利科娃 vs 施晗🇨🇳"
         },
         {
           "pID": "967990909",
@@ -240,7 +240,7 @@
       "title": "上海马术大师赛Day1",
       "keyword": "09月28日13:00",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "上海马术大师赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/28/77O0MBI7VHI4.jpg",
@@ -253,8 +253,8 @@
       },
       "nodes": [
         {
-          "pID": "967987451",
-          "name": "清流播出"
+          "pID": "968003107",
+          "name": "【全场回放】2026上海马术大师赛Day1（一）（赛场原声）"
         }
       ]
     },
@@ -281,14 +281,6 @@
           "name": "涂子轩"
         },
         {
-          "pID": "967848001",
-          "name": "陶哲铭"
-        },
-        {
-          "pID": "967834695",
-          "name": "1号桌"
-        },
-        {
           "pID": "967834768",
           "name": "2号桌"
         },
@@ -299,6 +291,14 @@
         {
           "pID": "967834794",
           "name": "4号桌"
+        },
+        {
+          "pID": "967848001",
+          "name": "陶哲铭"
+        },
+        {
+          "pID": "967834695",
+          "name": "1号桌"
         }
       ]
     },
