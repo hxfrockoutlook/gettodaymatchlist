@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-28 16:31:31",
+  "updateTime": "2026-09-28 17:01:16",
   "data": [
     {
       "mgdbId": "120000594670",
@@ -255,13 +255,17 @@
         {
           "pID": "968003107",
           "name": "【全场回放】2026上海马术大师赛Day1（一）（赛场原声）"
+        },
+        {
+          "pID": "968012347",
+          "name": "2026上海马术大师赛Day1全场回放（二）（赛场原声）"
         }
       ]
     },
     {
       "mgdbId": "120000594845",
-      "pID": "967847991",
-      "title": "刘宏宇VS罗伯逊 傅家俊特鲁姆普出战",
+      "pID": "967834784",
+      "title": "刘宏宇不敌罗伯逊 特鲁姆普晋级",
       "keyword": "09月28日14:00",
       "sportItemId": "8",
       "matchStatus": "1",
@@ -269,21 +273,13 @@
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/27/77NVOTMLKLDE.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "刘宏宇VS罗伯逊 傅家俊特鲁姆普出战",
+      "pkInfoTitle": "刘宏宇不敌罗伯逊 特鲁姆普晋级",
       "modifyTitle": "斯诺克深圳公开赛延期资格赛：刘宏宇VS罗伯逊 傅家俊特鲁姆普出战",
       "presenters": "涂子轩 陶哲铭",
       "matchInfo": {
         "time": "09月28日14:00"
       },
       "nodes": [
-        {
-          "pID": "967847991",
-          "name": "涂子轩"
-        },
-        {
-          "pID": "967834768",
-          "name": "2号桌"
-        },
         {
           "pID": "967834784",
           "name": "3号桌"
@@ -293,12 +289,20 @@
           "name": "4号桌"
         },
         {
+          "pID": "967847991",
+          "name": "涂子轩"
+        },
+        {
           "pID": "967848001",
           "name": "陶哲铭"
         },
         {
           "pID": "967834695",
           "name": "1号桌"
+        },
+        {
+          "pID": "967834768",
+          "name": "2号桌"
         }
       ]
     },
@@ -308,7 +312,7 @@
       "title": "弗基纳出战 胡尔卡奇PK沙波瓦洛夫",
       "keyword": "09月28日17:00",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "ATP",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/27/77NVQEK2P2PT.png",
@@ -340,7 +344,7 @@
       "title": "东盟杯第一级别",
       "keyword": "09月28日17:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "东盟杯",
       "padImg": "",
@@ -547,7 +551,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "决战亚洲",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/28/77O0LILU30JO.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/9/17/100000001544106e79b7.png",
       "pkInfoTitle": "邓亚萍、侯英超、程靖淇收官复盘",
       "modifyTitle": "乒乓观察室Day9",
