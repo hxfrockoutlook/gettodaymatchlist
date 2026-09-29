@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-29 15:01:23",
+  "updateTime": "2026-09-29 15:31:15",
   "data": [
     {
       "mgdbId": "300000002339",
@@ -41,14 +41,14 @@
       },
       "nodes": [
         {
-          "pID": "967732406",
-          "name": "解说"
+          "pID": "968034018",
+          "name": "2026第十四届环鄱阳湖国际自行车大赛Day10全场回放（官方解说）"
         }
       ]
     },
     {
       "mgdbId": "120000595045",
-      "pID": "967936030",
+      "pID": "967988711",
       "title": "全力备战！训练场迎来熟悉的身影",
       "keyword": "09月29日08:45",
       "sportItemId": "9",
@@ -64,6 +64,10 @@
         "time": "09月29日08:45"
       },
       "nodes": [
+        {
+          "pID": "967988711",
+          "name": "新闻发布会"
+        },
         {
           "pID": "967936030",
           "name": "训练场2"
@@ -107,12 +111,16 @@
         {
           "pID": "968033249",
           "name": "26/27赛季斯诺克深圳公开赛资格赛第2轮回放：巴里·霍金斯5-3利亚姆·海菲尔德（赛场原声）"
+        },
+        {
+          "pID": "968033777",
+          "name": "26/27赛季斯诺克深圳公开赛资格赛第2轮回放：约翰·希金斯4-5大卫·格雷斯（赛场原声）"
         }
       ]
     },
     {
       "mgdbId": "120000594585",
-      "pID": "967705611",
+      "pID": "967988711",
       "title": "崔杰一日双赛！马烨欣止步资格赛",
       "keyword": "09月29日11:00",
       "sportItemId": "9",
@@ -129,16 +137,20 @@
       },
       "nodes": [
         {
+          "pID": "967988711",
+          "name": "新闻发布会"
+        },
+        {
           "pID": "968016836",
           "name": "崔杰/特日格乐 vs 冈萨雷斯/莫尔泰尼"
         },
         {
-          "pID": "967705611",
-          "name": "布拉德球场"
-        },
-        {
           "pID": "967705655",
           "name": "5号球场"
+        },
+        {
+          "pID": "967705611",
+          "name": "布拉德球场"
         },
         {
           "pID": "967705600",
@@ -155,10 +167,6 @@
         {
           "pID": "967705669",
           "name": "6号球场"
-        },
-        {
-          "pID": "967988711",
-          "name": "新闻发布会"
         },
         {
           "pID": "967936030",
@@ -231,30 +239,6 @@
       ]
     },
     {
-      "mgdbId": "120000595228",
-      "pID": "967987456",
-      "title": "上海马术大师赛Day2",
-      "keyword": "09月29日13:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "上海马术大师赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/28/77O0LQRCAI9O.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/9/27/100000001553106e80ae.jpeg",
-      "pkInfoTitle": "上海马术大师赛Day2",
-      "modifyTitle": "上海马术大师赛Day2",
-      "presenters": "",
-      "matchInfo": {
-        "time": "09月29日13:00"
-      },
-      "nodes": [
-        {
-          "pID": "967987456",
-          "name": "清流播出"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000594848",
       "pID": "967834700",
       "title": "丁俊晖、吴宜泽、肖国栋、塞尔比出战",
@@ -311,10 +295,10 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "上海马术大师赛",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/29/77O1I8VSJKLC.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/9/27/100000001553106e80ae.jpeg",
       "pkInfoTitle": "国际马产业伙伴交流大会",
-      "modifyTitle": "上海马术大师赛",
+      "modifyTitle": "国际马产业伙伴交流大会",
       "presenters": "",
       "matchInfo": {
         "time": "09月29日15:00"
@@ -423,6 +407,30 @@
         {
           "pID": "968008041",
           "name": "审片间播出"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000595228",
+      "pID": "967987456",
+      "title": "上海马术大师赛Day2",
+      "keyword": "09月29日18:30",
+      "sportItemId": "8",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "上海马术大师赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/28/77O0LQRCAI9O.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/9/27/100000001553106e80ae.jpeg",
+      "pkInfoTitle": "上海马术大师赛Day2",
+      "modifyTitle": "上海马术大师赛Day2",
+      "presenters": "",
+      "matchInfo": {
+        "time": "09月29日18:30"
+      },
+      "nodes": [
+        {
+          "pID": "967987456",
+          "name": "清流播出"
         }
       ]
     },
