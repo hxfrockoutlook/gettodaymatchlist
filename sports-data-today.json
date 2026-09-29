@@ -1,13 +1,13 @@
 {
   "success": true,
-  "updateTime": "2026-09-29 07:31:13",
+  "updateTime": "2026-09-29 08:01:17",
   "data": [
     {
       "mgdbId": "300000002339",
       "pID": "967157744",
       "title": "咪咕体育日报 第195期",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "咪咕体育日报",
       "padImg": "",
@@ -559,11 +559,19 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "雷佩凡对战尼尔·罗伯逊 江俊、庞俊旭出战",
       "modifyTitle": "斯诺克深圳公开赛：雷佩凡对战尼尔·罗伯逊 江俊、庞俊旭出战",
-      "presenters": "秦正",
+      "presenters": "秦正 柏林",
       "matchInfo": {
         "time": "09月29日19:30"
       },
       "nodes": [
+        {
+          "pID": "968021628",
+          "name": "秦正"
+        },
+        {
+          "pID": "968021638",
+          "name": "柏林"
+        },
         {
           "pID": "967835729",
           "name": "1号桌"
@@ -579,14 +587,6 @@
         {
           "pID": "967835745",
           "name": "4号桌"
-        },
-        {
-          "pID": "968021628",
-          "name": "秦正"
-        },
-        {
-          "pID": "968021638",
-          "name": "柏林"
         }
       ]
     },
