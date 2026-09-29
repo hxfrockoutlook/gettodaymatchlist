@@ -1,13 +1,13 @@
 {
   "success": true,
-  "updateTime": "2026-09-29 08:31:04",
+  "updateTime": "2026-09-29 09:01:18",
   "data": [
     {
       "mgdbId": "300000002339",
       "pID": "967157744",
       "title": "咪咕体育日报 第195期",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "咪咕体育日报",
       "padImg": "",
@@ -47,36 +47,12 @@
       ]
     },
     {
-      "mgdbId": "120000595228",
-      "pID": "967987456",
-      "title": "上海马术大师赛Day2",
-      "keyword": "09月29日08:40",
-      "sportItemId": "8",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "上海马术大师赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/28/77O0LQRCAI9O.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/9/27/100000001553106e80ae.jpeg",
-      "pkInfoTitle": "上海马术大师赛Day2",
-      "modifyTitle": "上海马术大师赛Day2",
-      "presenters": "",
-      "matchInfo": {
-        "time": "09月29日08:40"
-      },
-      "nodes": [
-        {
-          "pID": "967987456",
-          "name": "清流播出"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000595045",
-      "pID": "967936005",
+      "pID": "967936030",
       "title": "全力备战！训练场迎来熟悉的身影",
-      "keyword": "09月29日08:55",
+      "keyword": "09月29日08:45",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "中国网球公开赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/28/77O0N9889ISC.jpg",
@@ -85,16 +61,40 @@
       "modifyTitle": "中国网球公开赛训练 Day5",
       "presenters": "",
       "matchInfo": {
-        "time": "09月29日08:55"
+        "time": "09月29日08:45"
       },
       "nodes": [
         {
-          "pID": "967936005",
-          "name": "训练场1"
-        },
-        {
           "pID": "967936030",
           "name": "训练场2"
+        },
+        {
+          "pID": "967936005",
+          "name": "训练场1"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000595228",
+      "pID": "967987456",
+      "title": "上海马术大师赛Day2",
+      "keyword": "09月29日09:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "上海马术大师赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/28/77O0LQRCAI9O.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/9/27/100000001553106e80ae.jpeg",
+      "pkInfoTitle": "上海马术大师赛Day2",
+      "modifyTitle": "上海马术大师赛Day2",
+      "presenters": "",
+      "matchInfo": {
+        "time": "09月29日09:00"
+      },
+      "nodes": [
+        {
+          "pID": "967987456",
+          "name": "清流播出"
         }
       ]
     },
