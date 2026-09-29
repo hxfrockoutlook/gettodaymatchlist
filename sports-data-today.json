@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-29 15:31:15",
+  "updateTime": "2026-09-29 16:01:24",
   "data": [
     {
       "mgdbId": "300000002339",
@@ -48,7 +48,7 @@
     },
     {
       "mgdbId": "120000595045",
-      "pID": "967988711",
+      "pID": "967936005",
       "title": "全力备战！训练场迎来熟悉的身影",
       "keyword": "09月29日08:45",
       "sportItemId": "9",
@@ -64,14 +64,6 @@
         "time": "09月29日08:45"
       },
       "nodes": [
-        {
-          "pID": "967988711",
-          "name": "新闻发布会"
-        },
-        {
-          "pID": "967936030",
-          "name": "训练场2"
-        },
         {
           "pID": "967936005",
           "name": "训练场1"
@@ -120,7 +112,7 @@
     },
     {
       "mgdbId": "120000594585",
-      "pID": "967988711",
+      "pID": "967705600",
       "title": "崔杰一日双赛！马烨欣止步资格赛",
       "keyword": "09月29日11:00",
       "sportItemId": "9",
@@ -137,24 +129,20 @@
       },
       "nodes": [
         {
-          "pID": "967988711",
-          "name": "新闻发布会"
-        },
-        {
           "pID": "968016836",
           "name": "崔杰/特日格乐 vs 冈萨雷斯/莫尔泰尼"
         },
         {
-          "pID": "967705655",
-          "name": "5号球场"
+          "pID": "967705600",
+          "name": "映月球场"
         },
         {
           "pID": "967705611",
           "name": "布拉德球场"
         },
         {
-          "pID": "967705600",
-          "name": "映月球场"
+          "pID": "967705655",
+          "name": "5号球场"
         },
         {
           "pID": "967705619",
@@ -165,12 +153,8 @@
           "name": "4号球场"
         },
         {
-          "pID": "967705669",
-          "name": "6号球场"
-        },
-        {
-          "pID": "967936030",
-          "name": "训练场2"
+          "pID": "967936005",
+          "name": "训练场1"
         }
       ]
     },
@@ -221,20 +205,12 @@
       },
       "nodes": [
         {
-          "pID": "968016800",
-          "name": "赛场原声"
+          "pID": "968034687",
+          "name": "全场回放（张文悦）"
         },
         {
-          "pID": "968016804",
-          "name": "张文悦"
-        },
-        {
-          "pID": "967936005",
-          "name": "训练场1"
-        },
-        {
-          "pID": "967936030",
-          "name": "训练场2"
+          "pID": "968034855",
+          "name": "全场回放"
         }
       ]
     },
@@ -279,10 +255,6 @@
         {
           "pID": "967834780",
           "name": "4号桌"
-        },
-        {
-          "pID": "967848091",
-          "name": "杨江浩"
         }
       ]
     },
@@ -371,7 +343,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "NBA经典赛事",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/29/77O1IB3FI9KP.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png",
       "pkInfoTitle": "NBA季后赛精彩重播：尼克斯vs马刺 G1",
       "modifyTitle": "NBA经典赛事",
@@ -406,7 +378,7 @@
       "nodes": [
         {
           "pID": "968008041",
-          "name": "审片间播出"
+          "name": "现场原声"
         }
       ]
     },
@@ -468,7 +440,7 @@
       "title": "冠军争夺战！胡尔卡奇PK弗基纳",
       "keyword": "09月29日19:00",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "ATP",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/28/77O0N8GB546M.png",
