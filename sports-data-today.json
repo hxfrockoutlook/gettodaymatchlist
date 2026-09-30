@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-30 11:31:09",
+  "updateTime": "2026-09-30 12:01:13",
   "data": [
     {
       "mgdbId": "120000585894",
@@ -129,7 +129,7 @@
     {
       "mgdbId": "120000594850",
       "pID": "968040416",
-      "title": "凯伦·威尔逊、马奎尔出战 墨菲PK瓦菲",
+      "title": "凯伦·威尔逊出战 马奎尔晋级 墨菲5-1瓦菲",
       "keyword": "09月30日09:30",
       "sportItemId": "8",
       "matchStatus": "1",
@@ -137,8 +137,8 @@
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/29/77O1J5QGM4CD.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "凯伦·威尔逊、马奎尔出战 墨菲PK瓦菲",
-      "modifyTitle": "斯诺克深圳公开赛：凯伦·威尔逊、马奎尔出战 墨菲PK瓦菲",
+      "pkInfoTitle": "凯伦·威尔逊出战 马奎尔晋级 墨菲5-1瓦菲",
+      "modifyTitle": "斯诺克深圳公开赛：凯伦·威尔逊出战 马奎尔晋级 墨菲5-1瓦菲",
       "presenters": "秦正",
       "matchInfo": {
         "time": "09月30日09:30"
@@ -159,30 +159,6 @@
         {
           "pID": "967835763",
           "name": "3号桌"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000595397",
-      "pID": "968027797",
-      "title": "国际盛装舞步公益赛",
-      "keyword": "09月30日09:30",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "国际盛装舞步公益赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/29/77O1HV6RF9UG.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/9/29/100000001500106ef705.png",
-      "pkInfoTitle": "国际盛装舞步公益赛",
-      "modifyTitle": "国际盛装舞步公益赛",
-      "presenters": "",
-      "matchInfo": {
-        "time": "09月30日09:30"
-      },
-      "nodes": [
-        {
-          "pID": "968027797",
-          "name": "清流播出"
         }
       ]
     },
@@ -237,6 +213,10 @@
           "name": "训练场1"
         },
         {
+          "pID": "967934447",
+          "name": "训练场2"
+        },
+        {
           "pID": "968042311",
           "name": "马烨欣vs库德梅托娃"
         },
@@ -272,7 +252,7 @@
       "title": "马烨欣 vs 波琳娜·库德梅托娃",
       "keyword": "09月30日12:00",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "中国网球公开赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/30/77O2HNKF8VKJ.jpg",
@@ -291,6 +271,30 @@
         {
           "pID": "968042311",
           "name": "马烨欣vs波琳娜·库德梅托娃"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000595397",
+      "pID": "968027797",
+      "title": "国际盛装舞步公益赛",
+      "keyword": "09月30日13:30",
+      "sportItemId": "8",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "国际盛装舞步公益赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/29/77O1HV6RF9UG.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/9/29/100000001500106ef705.png",
+      "pkInfoTitle": "国际盛装舞步公益赛",
+      "modifyTitle": "国际盛装舞步公益赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "09月30日13:30"
+      },
+      "nodes": [
+        {
+          "pID": "968027797",
+          "name": "清流播出"
         }
       ]
     },
