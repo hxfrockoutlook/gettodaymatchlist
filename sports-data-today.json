@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-30 07:31:03",
+  "updateTime": "2026-09-30 08:01:18",
   "data": [
     {
       "mgdbId": "120000585894",
@@ -39,7 +39,7 @@
       "pID": "967157721",
       "title": "咪咕体育日报 第196期",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "咪咕体育日报",
       "padImg": "",
@@ -80,8 +80,8 @@
     },
     {
       "mgdbId": "120000594850",
-      "pID": "967835751",
-      "title": "凯伦·威尔逊出战 肖恩·墨菲 PK瓦菲",
+      "pID": "968040416",
+      "title": "凯伦·威尔逊、马奎尔出战 墨菲PK瓦菲",
       "keyword": "09月30日09:30",
       "sportItemId": "8",
       "matchStatus": "0",
@@ -89,13 +89,17 @@
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/29/77O1J5QGM4CD.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "凯伦·威尔逊出战 肖恩·墨菲 PK瓦菲",
-      "modifyTitle": "斯诺克深圳公开赛：凯伦·威尔逊出战 肖恩·墨菲 PK瓦菲",
+      "pkInfoTitle": "凯伦·威尔逊、马奎尔出战 墨菲PK瓦菲",
+      "modifyTitle": "斯诺克深圳公开赛：凯伦·威尔逊、马奎尔出战 墨菲PK瓦菲",
       "presenters": "秦正",
       "matchInfo": {
         "time": "09月30日09:30"
       },
       "nodes": [
+        {
+          "pID": "968040416",
+          "name": "秦正"
+        },
         {
           "pID": "967835751",
           "name": "1号桌"
@@ -107,14 +111,6 @@
         {
           "pID": "967835763",
           "name": "3号桌"
-        },
-        {
-          "pID": "967835770",
-          "name": "4号桌"
-        },
-        {
-          "pID": "968040416",
-          "name": "秦正"
         }
       ]
     },
@@ -264,8 +260,8 @@
     },
     {
       "mgdbId": "120000594851",
-      "pID": "967835796",
-      "title": "斯佳辉出战 塞尔比PK佩奇",
+      "pID": "968040434",
+      "title": "斯佳辉、宾汉姆出战 塞尔比PK佩奇",
       "keyword": "09月30日14:00",
       "sportItemId": "8",
       "matchStatus": "0",
@@ -273,13 +269,17 @@
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/29/77O1KDT89E92.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "斯佳辉出战 塞尔比PK佩奇",
-      "modifyTitle": "斯诺克深圳公开赛：斯佳辉出战 塞尔比PK佩奇",
+      "pkInfoTitle": "斯佳辉、宾汉姆出战 塞尔比PK佩奇",
+      "modifyTitle": "斯诺克深圳公开赛：斯佳辉、宾汉姆出战 塞尔比PK佩奇",
       "presenters": "卢正浩",
       "matchInfo": {
         "time": "09月30日14:00"
       },
       "nodes": [
+        {
+          "pID": "968040434",
+          "name": "卢正浩"
+        },
         {
           "pID": "967835796",
           "name": "1号桌"
@@ -295,10 +295,6 @@
         {
           "pID": "967835839",
           "name": "4号桌"
-        },
-        {
-          "pID": "968040434",
-          "name": "卢正浩"
         }
       ]
     },
@@ -520,7 +516,7 @@
     },
     {
       "mgdbId": "120000594852",
-      "pID": "967835859",
+      "pID": "968040477",
       "title": "吴宜泽PK徐思 范争一迎战袁思俊",
       "keyword": "09月30日19:30",
       "sportItemId": "8",
@@ -537,6 +533,10 @@
       },
       "nodes": [
         {
+          "pID": "968040477",
+          "name": "柏林"
+        },
+        {
           "pID": "967835859",
           "name": "1号桌"
         },
@@ -551,10 +551,6 @@
         {
           "pID": "967835299",
           "name": "4号桌"
-        },
-        {
-          "pID": "968040477",
-          "name": "柏林"
         }
       ]
     },
