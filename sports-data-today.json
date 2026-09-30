@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-09-30 13:31:09",
+  "updateTime": "2026-09-30 14:01:21",
   "data": [
     {
       "mgdbId": "120000585894",
@@ -158,7 +158,7 @@
         },
         {
           "pID": "968052421",
-          "name": "26/27赛季斯诺克深圳公开赛第3轮回放：大卫·吉尔伯特2-5凯伦·威尔逊（赛场原声）"
+          "name": "【回放】大卫·吉尔伯特2-5凯伦·威尔逊（赛场原声）"
         }
       ]
     },
@@ -185,8 +185,16 @@
           "name": "马烨欣vs库德梅托娃"
         },
         {
+          "pID": "968052512",
+          "name": "莲花球场4K"
+        },
+        {
           "pID": "967705696",
           "name": "莲花球场"
+        },
+        {
+          "pID": "968052493",
+          "name": "钻石球场4K"
         },
         {
           "pID": "967705683",
@@ -215,14 +223,6 @@
         {
           "pID": "967934447",
           "name": "训练场2"
-        },
-        {
-          "pID": "968052493",
-          "name": "钻石球场4K"
-        },
-        {
-          "pID": "968052512",
-          "name": "莲花球场4K"
         },
         {
           "pID": "968042485",
@@ -273,6 +273,10 @@
           "name": "马烨欣vs波琳娜·库德梅托娃"
         },
         {
+          "pID": "968052493",
+          "name": "钻石球场4K"
+        },
+        {
           "pID": "968042294",
           "name": "赛场原声"
         },
@@ -316,7 +320,7 @@
       "title": "斯佳辉VS加里·威尔逊 塞尔比出战",
       "keyword": "09月30日14:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/29/77O1KDT89E92.jpg",
@@ -351,40 +355,12 @@
       ]
     },
     {
-      "mgdbId": "120000595422",
-      "pID": "968042366",
-      "title": "J·塞伦多洛 vs 布云朝克特",
-      "keyword": "09月30日14:00",
-      "sportItemId": "9",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "中国网球公开赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/29/77O1JI26MDBT.png",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/9/25/10000000111010617861.jpg",
-      "pkInfoTitle": "J·塞伦多洛 vs 布云朝克特",
-      "modifyTitle": "J·塞伦多洛 vs 布云朝克特",
-      "presenters": "蔡凯臣",
-      "matchInfo": {
-        "time": "09月30日14:00"
-      },
-      "nodes": [
-        {
-          "pID": "968042366",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "968042381",
-          "name": "蔡凯臣"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000595437",
       "pID": "968042341",
       "title": "奥利尼科娃 vs 袁悦",
       "keyword": "09月30日14:00",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "中国网球公开赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/29/77O1JHNUVC9U.png",
@@ -397,40 +373,16 @@
       },
       "nodes": [
         {
-          "pID": "968042341",
-          "name": "赛场原声"
-        },
-        {
           "pID": "968042350",
           "name": "乔迁"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000595438",
-      "pID": "968042396",
-      "title": "白卓璇 vs 弗鲁维尔托娃",
-      "keyword": "09月30日14:00",
-      "sportItemId": "9",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "中国网球公开赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/29/77O1JHV6069B.png",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/9/25/10000000111010617861.jpg",
-      "pkInfoTitle": "白卓璇 vs 弗鲁维尔托娃",
-      "modifyTitle": "白卓璇 vs 弗鲁维尔托娃",
-      "presenters": "宋光振",
-      "matchInfo": {
-        "time": "09月30日14:00"
-      },
-      "nodes": [
-        {
-          "pID": "968042396",
-          "name": "赛场原声"
         },
         {
-          "pID": "968042406",
-          "name": "宋光振"
+          "pID": "968052493",
+          "name": "钻石球场4K"
+        },
+        {
+          "pID": "968042341",
+          "name": "赛场原声"
         }
       ]
     },
@@ -455,6 +407,66 @@
         {
           "pID": "968025731",
           "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000595438",
+      "pID": "968042396",
+      "title": "白卓璇 vs 弗鲁维尔托娃",
+      "keyword": "09月30日14:30",
+      "sportItemId": "9",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "中国网球公开赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/29/77O1JHV6069B.png",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/9/25/10000000111010617861.jpg",
+      "pkInfoTitle": "白卓璇 vs 弗鲁维尔托娃",
+      "modifyTitle": "白卓璇 vs 弗鲁维尔托娃",
+      "presenters": "宋光振",
+      "matchInfo": {
+        "time": "09月30日14:30"
+      },
+      "nodes": [
+        {
+          "pID": "968042396",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "968042406",
+          "name": "宋光振"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000595422",
+      "pID": "968042366",
+      "title": "J·塞伦多洛 vs 布云朝克特",
+      "keyword": "09月30日15:00",
+      "sportItemId": "9",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "中国网球公开赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/29/77O1JI26MDBT.png",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/9/25/10000000111010617861.jpg",
+      "pkInfoTitle": "J·塞伦多洛 vs 布云朝克特",
+      "modifyTitle": "J·塞伦多洛 vs 布云朝克特",
+      "presenters": "蔡凯臣",
+      "matchInfo": {
+        "time": "09月30日15:00"
+      },
+      "nodes": [
+        {
+          "pID": "968042381",
+          "name": "蔡凯臣"
+        },
+        {
+          "pID": "968042366",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "968052512",
+          "name": "莲花球场4K"
         }
       ]
     },
@@ -505,12 +517,16 @@
       },
       "nodes": [
         {
+          "pID": "968042430",
+          "name": "张文悦"
+        },
+        {
           "pID": "968042423",
           "name": "赛场原声"
         },
         {
-          "pID": "968042430",
-          "name": "张文悦"
+          "pID": "968052512",
+          "name": "莲花球场4K"
         }
       ]
     },
@@ -557,12 +573,16 @@
       },
       "nodes": [
         {
-          "pID": "968042451",
-          "name": "赛场原声"
-        },
-        {
           "pID": "968042464",
           "name": "鸿昆 刘钟鸣"
+        },
+        {
+          "pID": "968052493",
+          "name": "钻石球场4K"
+        },
+        {
+          "pID": "968042451",
+          "name": "赛场原声"
         }
       ]
     },
