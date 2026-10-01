@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-01 09:31:13",
+  "updateTime": "2026-10-01 10:01:26",
   "data": [
     {
       "mgdbId": "300000002419",
@@ -80,7 +80,7 @@
       "title": "第一日热身区",
       "keyword": "10月01日10:00",
       "sportItemId": "7",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/01/77Q34D9DRKFK.png",
@@ -260,7 +260,7 @@
       "title": "韩菲儿PK杨屹韵 国乒众将冲正赛",
       "keyword": "10月01日11:00",
       "sportItemId": "7",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/30/77O2GJ3O99P8.png",
@@ -304,7 +304,7 @@
       "title": "2026中国网球公开赛女单第一轮：郑钦文 vs 施晗",
       "keyword": "10月01日11:00",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "中国网球公开赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/30/77O2HDHKNL7S.png",
@@ -339,11 +339,15 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "凯伦·威尔逊PK霍尔特 塞尔比、罗伯逊出战",
       "modifyTitle": "斯诺克深圳公开赛：凯伦·威尔逊PK霍尔特 塞尔比、罗伯逊出战",
-      "presenters": "",
+      "presenters": "陶哲铭",
       "matchInfo": {
         "time": "10月01日14:00"
       },
       "nodes": [
+        {
+          "pID": "968069767",
+          "name": "陶哲铭"
+        },
         {
           "pID": "967835305",
           "name": "1号桌"
@@ -619,14 +623,6 @@
         {
           "pID": "968064165",
           "name": "赛场原声"
-        },
-        {
-          "pID": "967936118",
-          "name": "训练场1"
-        },
-        {
-          "pID": "967936153",
-          "name": "训练场2"
         }
       ]
     },
@@ -674,7 +670,7 @@
     },
     {
       "mgdbId": "120000594854",
-      "pID": "967835384",
+      "pID": "968069776",
       "title": "吴宜泽PK里奇·沃顿 斯佳辉、袁思俊出战",
       "keyword": "10月01日19:30",
       "sportItemId": "8",
@@ -685,11 +681,19 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "吴宜泽PK里奇·沃顿 斯佳辉、袁思俊出战",
       "modifyTitle": "斯诺克深圳公开赛：吴宜泽PK里奇·沃顿 斯佳辉、袁思俊出战",
-      "presenters": "",
+      "presenters": "秦正 涂子轩",
       "matchInfo": {
         "time": "10月01日19:30"
       },
       "nodes": [
+        {
+          "pID": "968069776",
+          "name": "秦正"
+        },
+        {
+          "pID": "968069773",
+          "name": "涂子轩"
+        },
         {
           "pID": "967835384",
           "name": "1号桌"
