@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-01 21:31:38",
+  "updateTime": "2026-10-01 22:01:31",
   "data": [
     {
       "mgdbId": "300000002419",
@@ -84,7 +84,7 @@
       "title": "第一日热身区",
       "keyword": "10月01日10:00",
       "sportItemId": "7",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "WTT",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/01/77Q33GVUMJHI.png",
@@ -97,8 +97,12 @@
       },
       "nodes": [
         {
-          "pID": "968059973",
-          "name": "热身区"
+          "pID": "968078021",
+          "name": "全场回放（一）"
+        },
+        {
+          "pID": "968079242",
+          "name": "全场回放（二）"
         }
       ]
     },
@@ -136,7 +140,7 @@
     },
     {
       "mgdbId": "120000594587",
-      "pID": "968064143",
+      "pID": "968064428",
       "title": "张之臻/周意逆转晋级 德米纳尔挺进次轮",
       "keyword": "10月01日11:00",
       "sportItemId": "9",
@@ -147,7 +151,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/9/25/10000000111010617861.jpg",
       "pkInfoTitle": "张之臻/周意逆转晋级 德米纳尔挺进次轮",
       "modifyTitle": "中国网球公开赛男女单打第一轮：张之臻/周意逆转晋级 德米纳尔挺进次轮",
-      "presenters": "刘钟鸣 单文强 郭丰庆 乔迁 宋光振 于筱睿 蔡凯臣 鸿昆",
+      "presenters": "单文强 郭丰庆 刘钟鸣 乔迁 宋光振 于筱睿 蔡凯臣 鸿昆",
       "matchInfo": {
         "time": "10月01日11:00"
       },
@@ -155,10 +159,6 @@
         {
           "pID": "968060157",
           "name": "《中国榜样》中网2026郑钦文"
-        },
-        {
-          "pID": "968064143",
-          "name": "高馨妤 vs 乌德瓦尔迪"
         },
         {
           "pID": "968064428",
@@ -177,10 +177,6 @@
           "name": "布拉德球场"
         },
         {
-          "pID": "967705983",
-          "name": "3号球场"
-        },
-        {
           "pID": "968052851",
           "name": "莲花球场4K"
         },
@@ -191,6 +187,10 @@
         {
           "pID": "967705922",
           "name": "映月球场"
+        },
+        {
+          "pID": "967705983",
+          "name": "3号球场"
         },
         {
           "pID": "967706042",
@@ -235,6 +235,10 @@
         {
           "pID": "968064170",
           "name": "孙心然 vs 利斯"
+        },
+        {
+          "pID": "968064143",
+          "name": "高馨妤 vs 乌德瓦尔迪"
         }
       ]
     },
@@ -441,7 +445,7 @@
       "competitionName": "中国网球公开赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/30/77O2GINDID00.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/9/25/10000000111010617861.jpg",
-      "pkInfoTitle": "帕克斯 vs ���琳",
+      "pkInfoTitle": "帕克斯 vs 朱琳",
       "modifyTitle": "2026中国网球公开赛女单第一轮：帕克斯 vs 朱琳",
       "presenters": "鸿昆",
       "matchInfo": {
@@ -509,20 +513,20 @@
           "name": "赵曦 高文清"
         },
         {
-          "pID": "968059973",
-          "name": "热身区"
-        },
-        {
           "pID": "968036515",
           "name": "2号桌"
         },
         {
-          "pID": "968036589",
-          "name": "3号桌"
-        },
-        {
           "pID": "968036602",
           "name": "4号桌"
+        },
+        {
+          "pID": "968059973",
+          "name": "热身区"
+        },
+        {
+          "pID": "968036589",
+          "name": "3号桌"
         },
         {
           "pID": "968024479",
@@ -574,7 +578,7 @@
       "nodes": [
         {
           "pID": "968079496",
-          "name": "全场回放（张文悦）"
+          "name": "全场回放（宋光振）"
         },
         {
           "pID": "968079980",
@@ -598,8 +602,8 @@
       "matchInfo": {},
       "nodes": [
         {
-          "pID": "968024415",
-          "name": "侯英超 程靖淇 周冠达"
+          "pID": "968081096",
+          "name": "全场回放（徐铭辰、侯英超、程靖淇、周冠达）"
         }
       ]
     },
@@ -659,28 +663,28 @@
           "name": "2号桌"
         },
         {
-          "pID": "967835422",
-          "name": "3号桌"
-        },
-        {
           "pID": "967835436",
           "name": "4号桌"
+        },
+        {
+          "pID": "967835422",
+          "name": "3号桌"
         }
       ]
     },
     {
       "mgdbId": "120000595243",
       "pID": "967998573",
-      "title": "余姚VS台州",
+      "title": "余姚76-73台州",
       "keyword": "10月01日19:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "浙BA",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/02/77N92ACGBBVQ.png",
-      "pkInfoTitle": "余姚VS台州",
-      "modifyTitle": "余姚VS台州",
+      "pkInfoTitle": "余姚76-73台州",
+      "modifyTitle": "余姚76-73台州",
       "presenters": "",
       "matchInfo": {
         "time": "10月01日19:30"
@@ -719,16 +723,16 @@
     {
       "mgdbId": "120000595245",
       "pID": "968000344",
-      "title": "江山VS普陀",
+      "title": "江山63-70普陀",
       "keyword": "10月01日19:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "浙BA",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/02/77N92ACGBBVQ.png",
-      "pkInfoTitle": "江山VS普陀",
-      "modifyTitle": "江山VS普陀",
+      "pkInfoTitle": "江山63-70普陀",
+      "modifyTitle": "江山63-70普陀",
       "presenters": "",
       "matchInfo": {
         "time": "10月01日19:30"
@@ -743,16 +747,16 @@
     {
       "mgdbId": "120000595246",
       "pID": "968000625",
-      "title": "舟山VS永康",
+      "title": "舟山79-98永康",
       "keyword": "10月01日19:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "浙BA",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/02/77N92ACGBBVQ.png",
-      "pkInfoTitle": "舟山VS永康",
-      "modifyTitle": "舟山VS永康",
+      "pkInfoTitle": "舟山79-98永康",
+      "modifyTitle": "舟山79-98永康",
       "presenters": "",
       "matchInfo": {
         "time": "10月01日19:30"
@@ -770,7 +774,7 @@
       "title": "2026中国网球公开赛女单第一轮：高馨妤 vs 乌德瓦尔迪",
       "keyword": "10月01日20:00",
       "sportItemId": "9",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "中国网球公开赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/30/77O2H495FF36.png",
