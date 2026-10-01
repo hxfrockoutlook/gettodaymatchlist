@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-01 15:31:30",
+  "updateTime": "2026-10-01 16:01:42",
   "data": [
     {
       "mgdbId": "300000002419",
@@ -65,16 +65,20 @@
       },
       "nodes": [
         {
+          "pID": "967951683",
+          "name": "新闻发布会"
+        },
+        {
           "pID": "967936118",
           "name": "训练场1"
         },
         {
-          "pID": "967936153",
-          "name": "训练场2"
-        },
-        {
           "pID": "968060157",
           "name": "《中国榜样》郑钦文"
+        },
+        {
+          "pID": "967936153",
+          "name": "训练场2"
         }
       ]
     },
@@ -160,18 +164,18 @@
     },
     {
       "mgdbId": "120000594587",
-      "pID": "968063801",
+      "pID": "968063885",
       "title": "张之臻/周意出战男双！德米纳尔横扫晋级",
       "keyword": "10月01日11:00",
       "sportItemId": "9",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "中国网球公开赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/01/77Q31G32DQMV.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/01/77Q31RPKJECC.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/9/25/10000000111010617861.jpg",
       "pkInfoTitle": "张之臻/周意出战男双！德米纳尔横扫晋级",
       "modifyTitle": "中国网球公开赛男女单打第一轮：张之臻/周意出战男双！德米纳尔横扫晋级",
-      "presenters": "宋光振 于筱睿 蔡凯臣 乔迁 单文强 鸿昆 刘钟鸣 张文悦 郭丰庆",
+      "presenters": "于筱睿 宋光振 蔡凯臣 乔迁 单文强 鸿昆 刘钟鸣 张文悦 郭丰庆",
       "matchInfo": {
         "time": "10月01日11:00"
       },
@@ -181,12 +185,20 @@
           "name": "《中国榜样》中网2026郑钦文"
         },
         {
-          "pID": "968063801",
-          "name": "萨菲乌林 vs 科博利"
+          "pID": "967951683",
+          "name": "新闻发布会"
         },
         {
           "pID": "968063885",
           "name": "林禹君 vs 亨特"
+        },
+        {
+          "pID": "968064027",
+          "name": "兹维列夫 vs 诺里"
+        },
+        {
+          "pID": "968063867",
+          "name": "商竣程 vs 巴埃斯"
         },
         {
           "pID": "968052833",
@@ -221,24 +233,16 @@
           "name": "5号球场"
         },
         {
-          "pID": "967705999",
-          "name": "4号球场"
-        },
-        {
           "pID": "967936118",
           "name": "训练场1"
         },
         {
-          "pID": "967936153",
-          "name": "训练场2"
-        },
-        {
-          "pID": "968063867",
-          "name": "商竣程 vs 巴埃斯"
-        },
-        {
           "pID": "968063838",
           "name": "邵羽杉 vs 扎哈洛娃"
+        },
+        {
+          "pID": "967705999",
+          "name": "4号球场"
         },
         {
           "pID": "968064051",
@@ -247,10 +251,6 @@
         {
           "pID": "968064428",
           "name": "布勃利克 vs 门希克"
-        },
-        {
-          "pID": "968064027",
-          "name": "兹维列夫 vs 诺里"
         },
         {
           "pID": "968064103",
@@ -267,46 +267,38 @@
         {
           "pID": "968063762",
           "name": "郑钦文 vs 施晗"
+        },
+        {
+          "pID": "968063801",
+          "name": "萨菲乌林 vs 科博利"
         }
       ]
     },
     {
       "mgdbId": "120000595131",
-      "pID": "968036383",
-      "title": "韩菲儿3-1杨屹韵 王晓彤冲首胜",
+      "pID": "968036332",
+      "title": "韩菲儿3-1杨屹韵 王晓彤、范姝涵皆横扫",
       "keyword": "10月01日11:00",
       "sportItemId": "7",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/01/77Q31EJH75R1.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/01/77Q31S0I65A9.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "韩菲儿3-1杨屹韵 王晓彤冲首胜",
+      "pkInfoTitle": "韩菲儿3-1杨屹韵 王晓彤、范姝涵皆横扫",
       "modifyTitle": "WTT中国大满贯男女单打资格赛第一轮",
-      "presenters": "徐晨皓",
+      "presenters": "",
       "matchInfo": {
         "time": "10月01日11:00"
       },
       "nodes": [
         {
-          "pID": "968036383",
-          "name": "徐晨皓"
-        },
-        {
-          "pID": "968059973",
-          "name": "热身区"
-        },
-        {
           "pID": "968036332",
           "name": "3号桌"
         },
         {
-          "pID": "968036272",
-          "name": "2号桌"
-        },
-        {
-          "pID": "968036364",
-          "name": "4号桌"
+          "pID": "968059973",
+          "name": "热身区"
         },
         {
           "pID": "968024403",
@@ -339,6 +331,10 @@
         {
           "pID": "968075127",
           "name": "【女单第一轮】郑钦文2-1施晗（赛场原声）"
+        },
+        {
+          "pID": "968074517",
+          "name": "【女单第1轮】郑钦文2-1施晗（赛场原声）（4K）"
         }
       ]
     },
@@ -384,11 +380,11 @@
     },
     {
       "mgdbId": "120000595554",
-      "pID": "968063855",
+      "pID": "968063867",
       "title": "2026中国网球公开赛男单第一轮：商竣程 vs 巴埃斯",
       "keyword": "10月01日15:40",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "中国网球公开赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/30/77O2H384MSPD.png",
@@ -405,22 +401,30 @@
           "name": "《中国榜样》中网2026郑钦文"
         },
         {
+          "pID": "967951683",
+          "name": "新闻发布会"
+        },
+        {
           "pID": "968063867",
           "name": "蔡凯臣"
         },
         {
           "pID": "968063855",
           "name": "赛场原声"
+        },
+        {
+          "pID": "967936118",
+          "name": "训练场1"
         }
       ]
     },
     {
       "mgdbId": "120000595555",
-      "pID": "968064016",
+      "pID": "968064027",
       "title": "2026中国网球公开赛女单第一轮：兹维列夫 vs 诺里",
-      "keyword": "10月01日16:00",
+      "keyword": "10月01日15:45",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "中国网球公开赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/30/77O2H3MO6QGJ.png",
@@ -429,30 +433,30 @@
       "modifyTitle": "2026中国网球公开赛女单第一轮：兹维列夫 vs 诺里",
       "presenters": "宋光振",
       "matchInfo": {
-        "time": "10月01日16:00"
+        "time": "10月01日15:45"
       },
       "nodes": [
         {
-          "pID": "968060157",
-          "name": "《中国榜样》中网2026郑钦文"
-        },
-        {
           "pID": "968064027",
           "name": "宋光振"
+        },
+        {
+          "pID": "968052833",
+          "name": "钻石球场4K"
         },
         {
           "pID": "968064016",
           "name": "赛场原声"
         },
         {
-          "pID": "968052833",
-          "name": "钻石球场4K"
+          "pID": "968060157",
+          "name": "《中国榜样》中网2026郑钦文"
         }
       ]
     },
     {
       "mgdbId": "120000595522",
-      "pID": "968063824",
+      "pID": "968063838",
       "title": "2026中国网球公开赛女单第一轮：邵羽杉 vs 扎哈洛娃",
       "keyword": "10月01日16:10",
       "sportItemId": "9",
@@ -659,7 +663,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/9/25/10000000111010617861.jpg",
       "pkInfoTitle": "利斯 vs 孙心然",
       "modifyTitle": "2026中国网球公开赛女单第一轮：利斯 vs 孙心然",
-      "presenters": "胡力涛",
+      "presenters": "张文悦",
       "matchInfo": {
         "time": "10月01日19:00"
       },
@@ -670,7 +674,7 @@
         },
         {
           "pID": "968064170",
-          "name": "胡力涛"
+          "name": "孙心然出战"
         },
         {
           "pID": "968064165",
