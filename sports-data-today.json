@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-02 10:31:44",
+  "updateTime": "2026-10-02 11:01:51",
   "data": [
     {
       "mgdbId": "120000594699",
@@ -121,8 +121,12 @@
       },
       "nodes": [
         {
-          "pID": "968074123",
-          "name": "陈瑞阳"
+          "pID": "968086507",
+          "name": "UFC332新闻发布会全场回放（陈瑞阳）"
+        },
+        {
+          "pID": "968086568",
+          "name": "UFC332新闻发布会全场回放（赛场原声）"
         }
       ]
     },
@@ -152,7 +156,7 @@
     },
     {
       "mgdbId": "120000595048",
-      "pID": "967936170",
+      "pID": "967936182",
       "title": "全力备战！训练场迎来熟悉的身影",
       "keyword": "10月02日10:00",
       "sportItemId": "9",
@@ -169,12 +173,12 @@
       },
       "nodes": [
         {
-          "pID": "967936170",
-          "name": "训练场1"
-        },
-        {
           "pID": "967936182",
           "name": "训练场2"
+        },
+        {
+          "pID": "967936170",
+          "name": "训练场1"
         },
         {
           "pID": "968082289",
@@ -236,7 +240,7 @@
       "title": "萨姆索诺娃出战 商竣程冲男双四强",
       "keyword": "10月02日11:00",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "中国网球公开赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/02/77Q41EP2676B.png",
@@ -251,18 +255,6 @@
         {
           "pID": "968084212",
           "name": "袁悦 vs 米拉·安德列娃"
-        },
-        {
-          "pID": "967951726",
-          "name": "新闻发布会"
-        },
-        {
-          "pID": "967951698",
-          "name": "单边采访"
-        },
-        {
-          "pID": "967951716",
-          "name": "混采"
         },
         {
           "pID": "968052861",
@@ -324,14 +316,14 @@
     },
     {
       "mgdbId": "120000595133",
-      "pID": "968060009",
+      "pID": "968036718",
       "title": "李天阳PK阿鲁纳 袁励岑冲开门红",
       "keyword": "10月02日11:00",
       "sportItemId": "7",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/30/77O2G9PP741O.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/02/77Q4118RL9PR.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "李天阳PK阿鲁纳 袁励岑冲开门红",
       "modifyTitle": "WTT中国大满贯男女单打资格赛第一轮",
@@ -341,24 +333,24 @@
       },
       "nodes": [
         {
-          "pID": "968060009",
-          "name": "热身区"
+          "pID": "968036652",
+          "name": "3号桌"
         },
         {
           "pID": "968036718",
           "name": "徐晨皓"
         },
         {
-          "pID": "968036640",
-          "name": "2号桌"
-        },
-        {
-          "pID": "968036652",
-          "name": "3号桌"
+          "pID": "968060009",
+          "name": "热身区"
         },
         {
           "pID": "968036698",
           "name": "4号桌"
+        },
+        {
+          "pID": "968036640",
+          "name": "2号桌"
         },
         {
           "pID": "968024539",
@@ -372,7 +364,7 @@
       "title": "“萨马兰奇杯”国际青少年足球邀请赛U9小组赛第1轮",
       "keyword": "10月02日11:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "“萨马兰奇杯”国际青少年足球邀请赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000595399/202609291425_309482_H169_1080.webp",
@@ -396,7 +388,7 @@
       "title": "2026中国网球公开赛女单第二轮：袁悦 vs 米拉·安德列娃",
       "keyword": "10月02日11:00",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "中国网球公开赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/01/77Q33ST2U5QK.jpg",
@@ -808,6 +800,10 @@
         {
           "pID": "968024428",
           "name": "侯英超 程靖淇 周冠达"
+        },
+        {
+          "pID": "968036930",
+          "name": "同看资格赛"
         }
       ]
     },
