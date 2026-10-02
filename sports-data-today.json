@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-02 16:01:52",
+  "updateTime": "2026-10-02 16:33:00",
   "data": [
     {
       "mgdbId": "120000594699",
@@ -504,7 +504,7 @@
       "title": "斯诺克深圳公开赛：贾德·特鲁姆普 vs 马克·塞尔比",
       "keyword": "10月02日14:00",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/01/77Q343HIAU16.jpg",
@@ -517,16 +517,8 @@
       },
       "nodes": [
         {
-          "pID": "968085920",
-          "name": "陶哲铭"
-        },
-        {
-          "pID": "967835446",
-          "name": "小特vs塞尔比"
-        },
-        {
-          "pID": "967835462",
-          "name": "吉米·罗伯逊vs韦克林"
+          "pID": "968091356",
+          "name": "2026斯诺克深圳公开赛1/4决赛回放：贾德·特鲁姆普5-0马克·塞尔比（陶哲铭）"
         }
       ]
     },
@@ -542,7 +534,7 @@
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/01/77Q345S1I79K.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "吉米·罗伯逊 vs 克里斯·韦克林",
-      "modifyTitle": "斯诺克���圳公开赛：吉米·罗伯逊 vs 克里斯·韦克林",
+      "modifyTitle": "斯诺克深圳公开赛：吉米·罗伯逊 vs 克里斯·韦克林",
       "presenters": "杨江源",
       "matchInfo": {
         "time": "10月02日14:00"
@@ -592,7 +584,7 @@
       "title": "“萨马兰奇杯”国际青少年足球邀请赛U9小组赛第2轮",
       "keyword": "10月02日15:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "“萨马兰奇杯”国际青少年足球邀请赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000595403/202609291430_380588_H169_1080.webp",
@@ -655,50 +647,6 @@
         {
           "pID": "968033400",
           "name": "官方解说"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000595644",
-      "pID": "968084256",
-      "title": "2026中国网球公开赛女单第二轮：蒂莫菲娃 vs 大坂直美",
-      "keyword": "10月02日16:30",
-      "sportItemId": "9",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "中国网球公开赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/01/77Q33T3260TE.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/9/25/10000000111010617861.jpg",
-      "pkInfoTitle": "蒂莫菲娃 vs 大坂直美",
-      "modifyTitle": "2026中国网球公开赛女单第二轮：蒂莫菲娃 vs 大坂直美",
-      "presenters": "宋光振",
-      "matchInfo": {
-        "time": "10月02日16:30"
-      },
-      "nodes": [
-        {
-          "pID": "968084256",
-          "name": "宋光振"
-        },
-        {
-          "pID": "968052869",
-          "name": "莲花球场4K"
-        },
-        {
-          "pID": "968084274",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "968082289",
-          "name": "《中国榜样》中网2026商竣程"
-        },
-        {
-          "pID": "967936170",
-          "name": "训练场1"
-        },
-        {
-          "pID": "967936182",
-          "name": "训练场2"
         }
       ]
     },
@@ -779,6 +727,50 @@
         {
           "pID": "968033429",
           "name": "官方解说"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000595644",
+      "pID": "968084256",
+      "title": "2026中国网球公开赛女单第二轮：蒂莫菲娃 vs 大坂直美",
+      "keyword": "10月02日17:00",
+      "sportItemId": "9",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "中国网球公开赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/01/77Q33T3260TE.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/9/25/10000000111010617861.jpg",
+      "pkInfoTitle": "蒂莫菲娃 vs 大坂直美",
+      "modifyTitle": "2026中国网球公开赛女单第二轮：蒂莫菲娃 vs 大坂直美",
+      "presenters": "宋光振",
+      "matchInfo": {
+        "time": "10月02日17:00"
+      },
+      "nodes": [
+        {
+          "pID": "968084256",
+          "name": "宋光振"
+        },
+        {
+          "pID": "968052869",
+          "name": "莲花球场4K"
+        },
+        {
+          "pID": "968084274",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "968082289",
+          "name": "《中国榜样》中网2026商竣程"
+        },
+        {
+          "pID": "967936170",
+          "name": "训练场1"
+        },
+        {
+          "pID": "967936182",
+          "name": "训练场2"
         }
       ]
     },
