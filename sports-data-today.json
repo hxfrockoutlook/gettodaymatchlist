@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-02 12:31:37",
+  "updateTime": "2026-10-02 13:01:53",
   "data": [
     {
       "mgdbId": "120000594699",
@@ -131,30 +131,6 @@
       ]
     },
     {
-      "mgdbId": "120000595471",
-      "pID": "968056124",
-      "title": "跃马少年时马术新星赛总决赛Day2",
-      "keyword": "10月02日09:30",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "马术新星赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/01/77Q33F5EQUDJ.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/5/26/10000000147010600839.png",
-      "pkInfoTitle": "跃马少年时马术新星赛总决赛Day2",
-      "modifyTitle": "跃马少年时马术新星赛总决赛Day2",
-      "presenters": "",
-      "matchInfo": {
-        "time": "10月02日09:30"
-      },
-      "nodes": [
-        {
-          "pID": "968056124",
-          "name": "清流播出"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000595048",
       "pID": "967936182",
       "title": "全力备战！训练场迎来熟悉的身影",
@@ -247,7 +223,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/9/25/10000000111010617861.jpg",
       "pkInfoTitle": "萨姆索诺娃出战 商竣程冲男双四强",
       "modifyTitle": "中国网球公开赛男女单打第一、二轮：萨姆索诺娃出战 商竣程冲男双四强",
-      "presenters": "李宁 郭丰庆 刘钟鸣 宋光振 胡力涛 鸿昆 张文悦",
+      "presenters": "郭丰庆 李宁 刘钟鸣 宋光振 胡力涛 鸿昆 张文悦",
       "matchInfo": {
         "time": "10月02日11:00"
       },
@@ -261,8 +237,12 @@
           "name": "布拉德球场"
         },
         {
-          "pID": "967706129",
-          "name": "映月球场"
+          "pID": "968052861",
+          "name": "钻石球场4K"
+        },
+        {
+          "pID": "967706070",
+          "name": "钻石球场"
         },
         {
           "pID": "968052869",
@@ -273,12 +253,8 @@
           "name": "莲花球场"
         },
         {
-          "pID": "968052861",
-          "name": "钻石球场4K"
-        },
-        {
-          "pID": "967706070",
-          "name": "钻石球场"
+          "pID": "967706129",
+          "name": "映月球场"
         },
         {
           "pID": "967706175",
@@ -423,6 +399,14 @@
         {
           "pID": "968082289",
           "name": "《中国榜样》中网2026商竣程"
+        },
+        {
+          "pID": "967936170",
+          "name": "训练场1"
+        },
+        {
+          "pID": "967936182",
+          "name": "训练场2"
         }
       ]
     },
@@ -456,7 +440,7 @@
       "title": "UCI BMX竞速世界杯门头沟站",
       "keyword": "10月02日12:55",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "中国自行车运动协会系列赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/01/77Q346GQFHJA.jpg",
@@ -480,7 +464,7 @@
       "title": "“萨马兰奇杯”国际青少年足球邀请赛U10小组赛第1轮",
       "keyword": "10月02日13:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "“萨马兰奇杯”国际青少年足球邀请赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000595401/202609291427_139868_H169_1080.webp",
@@ -504,7 +488,7 @@
       "title": "超三联赛 北京密云争霸赛 小组赛Day1下午场",
       "keyword": "10月02日13:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "超三联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/01/77Q33028BTRT.jpg",
@@ -519,6 +503,30 @@
         {
           "pID": "968052476",
           "name": "王冠证 蔡凯臣"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000595471",
+      "pID": "968056124",
+      "title": "跃马少年时马术新星赛总决赛Day2",
+      "keyword": "10月02日13:30",
+      "sportItemId": "8",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "马术新星赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/01/77Q33F5EQUDJ.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/5/26/10000000147010600839.png",
+      "pkInfoTitle": "跃马少年时马术新星赛总决赛Day2",
+      "modifyTitle": "跃马少年时马术新星赛总决赛Day2",
+      "presenters": "",
+      "matchInfo": {
+        "time": "10月02日13:30"
+      },
+      "nodes": [
+        {
+          "pID": "968056124",
+          "name": "清流播出"
         }
       ]
     },
@@ -566,7 +574,7 @@
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/01/77Q345S1I79K.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "吉米·罗伯逊 vs 克里斯·韦克林",
-      "modifyTitle": "斯诺克深圳公开赛：吉���·罗伯逊 vs 克里斯·韦克林",
+      "modifyTitle": "斯诺克深圳公开赛：吉米·罗伯逊 vs 克里斯·韦克林",
       "presenters": "杨江源",
       "matchInfo": {
         "time": "10月02日14:00"
