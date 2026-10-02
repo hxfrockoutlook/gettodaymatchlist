@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-02 09:31:37",
+  "updateTime": "2026-10-02 10:01:47",
   "data": [
     {
       "mgdbId": "120000594699",
@@ -156,10 +156,10 @@
       "title": "全力备战！训练场迎来熟悉的身影",
       "keyword": "10月02日10:00",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "中国网球公开赛",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/02/77Q40MKB4JNQ.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/9/25/10000000111010617861.jpg",
       "pkInfoTitle": "全力备战！训练场迎来熟悉的身影",
       "modifyTitle": "中国网球公开赛训练 Day8：全力备战！训练场迎来熟悉的身影",
@@ -184,7 +184,7 @@
       "title": "“萨马兰奇杯”国际青少年足球邀请赛U9小组赛第1轮",
       "keyword": "10月02日10:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "“萨马兰奇杯”国际青少年足球邀请赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000595398/202609291425_683777_H169_1080.webp",
@@ -208,7 +208,7 @@
       "title": "第二日热身区",
       "keyword": "10月02日10:00",
       "sportItemId": "7",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/30/77O2H7J26UOR.png",
@@ -244,10 +244,6 @@
         "time": "10月02日11:00"
       },
       "nodes": [
-        {
-          "pID": "968060157",
-          "name": "《中国榜样》中网2026郑钦文"
-        },
         {
           "pID": "968084212",
           "name": "袁悦 vs 米拉·安德列娃"
@@ -293,6 +289,14 @@
           "name": "3号球场"
         },
         {
+          "pID": "968060157",
+          "name": "《中国榜样》中网2026郑钦文"
+        },
+        {
+          "pID": "968082289",
+          "name": "《中国榜样》中网2026商竣程"
+        },
+        {
           "pID": "968084261",
           "name": "诺斯科娃 vs 鲁塞"
         },
@@ -316,11 +320,11 @@
     },
     {
       "mgdbId": "120000595133",
-      "pID": "968036718",
+      "pID": "968060009",
       "title": "李天阳PK阿鲁纳 袁励岑冲开门红",
       "keyword": "10月02日11:00",
       "sportItemId": "7",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/30/77O2G9PP741O.png",
@@ -333,16 +337,12 @@
       },
       "nodes": [
         {
-          "pID": "968036718",
-          "name": "徐晨皓"
-        },
-        {
           "pID": "968060009",
           "name": "热身区"
         },
         {
-          "pID": "968024539",
-          "name": "混采区"
+          "pID": "968036718",
+          "name": "徐晨皓"
         },
         {
           "pID": "968036640",
@@ -355,6 +355,10 @@
         {
           "pID": "968036698",
           "name": "4号桌"
+        },
+        {
+          "pID": "968024539",
+          "name": "混采区"
         }
       ]
     },
@@ -407,6 +411,10 @@
         {
           "pID": "968084240",
           "name": "赛场原声"
+        },
+        {
+          "pID": "968082289",
+          "name": "《中国榜样》中网2026商竣程"
         }
       ]
     },
@@ -508,7 +516,7 @@
     },
     {
       "mgdbId": "120000594855",
-      "pID": "967835446",
+      "pID": "968085920",
       "title": "斯诺克深圳公开赛：贾德·特鲁姆普 vs 马克·塞尔比",
       "keyword": "10月02日14:00",
       "sportItemId": "8",
@@ -519,11 +527,15 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "贾德·特鲁姆普 vs 马克·塞尔比",
       "modifyTitle": "斯诺克深圳公开赛：贾德·特鲁姆普 vs 马克·塞尔比",
-      "presenters": "",
+      "presenters": "陶哲铭",
       "matchInfo": {
         "time": "10月02日14:00"
       },
       "nodes": [
+        {
+          "pID": "968085920",
+          "name": "陶哲铭"
+        },
         {
           "pID": "967835446",
           "name": "小特vs塞尔比"
@@ -536,7 +548,7 @@
     },
     {
       "mgdbId": "120000594856",
-      "pID": "967835462",
+      "pID": "968085926",
       "title": "斯诺克深圳公开赛：吉米·罗伯逊 vs 克里斯·韦克林",
       "keyword": "10月02日14:00",
       "sportItemId": "8",
@@ -547,11 +559,15 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "吉米·罗伯逊 vs 克里斯·韦克林",
       "modifyTitle": "斯诺克深圳公开赛：吉米·罗伯逊 vs 克里斯·韦克林",
-      "presenters": "",
+      "presenters": "杨江源",
       "matchInfo": {
         "time": "10月02日14:00"
       },
       "nodes": [
+        {
+          "pID": "968085926",
+          "name": "杨江源"
+        },
         {
           "pID": "967835462",
           "name": "吉米·罗伯逊vs韦克林"
@@ -683,6 +699,10 @@
         {
           "pID": "968084274",
           "name": "赛场原声"
+        },
+        {
+          "pID": "968082289",
+          "name": "《中国榜样》中网2026商竣程"
         }
       ]
     },
@@ -892,11 +912,19 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "肖恩·墨菲 vs 吴宜泽",
       "modifyTitle": "斯诺克深圳公开赛：肖恩·墨菲 vs 吴宜泽",
-      "presenters": "",
+      "presenters": "宾汉姆 庞卫国 卢正浩",
       "matchInfo": {
         "time": "10月02日18:30"
       },
       "nodes": [
+        {
+          "pID": "968085963",
+          "name": "演播室"
+        },
+        {
+          "pID": "968086016",
+          "name": "明星视角"
+        },
         {
           "pID": "967835471",
           "name": "墨菲vs吴宜泽"
@@ -980,6 +1008,10 @@
         {
           "pID": "968084280",
           "name": "赛场原声"
+        },
+        {
+          "pID": "968082289",
+          "name": "《中国榜样》中网2026商竣程"
         }
       ]
     },
@@ -996,7 +1028,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "迈克尔·霍尔特 vs 袁思俊",
       "modifyTitle": "斯诺克深圳公开赛：迈克尔·霍尔特 vs 袁思俊",
-      "presenters": "",
+      "presenters": "杨江浩",
       "matchInfo": {
         "time": "10月02日19:30"
       },
@@ -1232,6 +1264,10 @@
         {
           "pID": "968084300",
           "name": "赛场原声"
+        },
+        {
+          "pID": "968082289",
+          "name": "《中国榜样》中网2026商竣程"
         }
       ]
     },
