@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-02 08:01:48",
+  "updateTime": "2026-10-02 08:31:35",
   "data": [
     {
       "mgdbId": "120000594699",
@@ -42,7 +42,7 @@
         },
         {
           "pID": "968009182",
-          "name": "长江大学视角"
+          "name": "长江商学院视角"
         },
         {
           "pID": "968009209",
@@ -79,40 +79,12 @@
       ]
     },
     {
-      "mgdbId": "120000595048",
-      "pID": "967936170",
-      "title": "全力备战！训练场迎来熟悉的身影",
-      "keyword": "10月02日08:30",
-      "sportItemId": "9",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "中国网球公开赛",
-      "padImg": "",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/9/25/10000000111010617861.jpg",
-      "pkInfoTitle": "全力备战！训练场迎来熟悉的身影",
-      "modifyTitle": "中国网球公开赛训练 Day8：全力备战！训练场迎来熟悉的身影",
-      "presenters": "",
-      "matchInfo": {
-        "time": "10月02日08:30"
-      },
-      "nodes": [
-        {
-          "pID": "967936170",
-          "name": "训练场1"
-        },
-        {
-          "pID": "967936182",
-          "name": "训练场2"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000595392",
       "pID": "968025741",
       "title": "国际足球赛day3",
       "keyword": "10月02日08:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "贵州村超全国赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/29/77O1I97TFCKP.jpg",
@@ -199,6 +171,34 @@
         {
           "pID": "968056124",
           "name": "清流播出"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000595048",
+      "pID": "967936170",
+      "title": "全力备战！训练场迎来熟悉的身影",
+      "keyword": "10月02日10:00",
+      "sportItemId": "9",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "中国网球公开赛",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/9/25/10000000111010617861.jpg",
+      "pkInfoTitle": "全力备战！训练场迎来熟悉的身影",
+      "modifyTitle": "中国网球公开赛训练 Day8：全力备战！训练场迎来熟悉的身影",
+      "presenters": "",
+      "matchInfo": {
+        "time": "10月02日10:00"
+      },
+      "nodes": [
+        {
+          "pID": "967936170",
+          "name": "训练场1"
+        },
+        {
+          "pID": "967936182",
+          "name": "训练场2"
         }
       ]
     },
@@ -526,7 +526,11 @@
       "nodes": [
         {
           "pID": "967835446",
-          "name": "1号桌"
+          "name": "小特vs塞尔比"
+        },
+        {
+          "pID": "967835462",
+          "name": "吉米·罗伯逊vs韦克林"
         }
       ]
     },
@@ -550,7 +554,11 @@
       "nodes": [
         {
           "pID": "967835462",
-          "name": "2号桌"
+          "name": "吉米·罗伯逊vs韦克林"
+        },
+        {
+          "pID": "967835446",
+          "name": "小特vs塞尔比"
         }
       ]
     },
@@ -891,7 +899,11 @@
       "nodes": [
         {
           "pID": "967835471",
-          "name": "1号桌"
+          "name": "墨菲vs吴宜泽"
+        },
+        {
+          "pID": "967835486",
+          "name": "霍尔特vs袁思俊"
         }
       ]
     },
@@ -991,7 +1003,11 @@
       "nodes": [
         {
           "pID": "967835486",
-          "name": "2号桌"
+          "name": "霍尔特vs袁思俊"
+        },
+        {
+          "pID": "967835471",
+          "name": "墨菲vs吴宜泽"
         }
       ]
     },
