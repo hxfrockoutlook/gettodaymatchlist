@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-02 22:02:05",
+  "updateTime": "2026-10-02 22:31:50",
   "data": [
     {
       "mgdbId": "120000594699",
@@ -164,7 +164,7 @@
       "title": "第二日热身区",
       "keyword": "10月02日10:00",
       "sportItemId": "7",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "WTT",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/02/77Q3UVV8UO73.jpg",
@@ -177,8 +177,12 @@
       },
       "nodes": [
         {
-          "pID": "968060009",
-          "name": "热身区"
+          "pID": "968091102",
+          "name": "全场回放（一）"
+        },
+        {
+          "pID": "968094536",
+          "name": "全场回放（二）"
         }
       ]
     },
@@ -558,7 +562,7 @@
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/01/77Q345S1I79K.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "吉米·罗伯逊 5-3 克里斯·韦克林",
-      "modifyTitle": "���诺克深圳公开赛：吉米·罗伯逊 5-3 克里斯·韦克林",
+      "modifyTitle": "斯诺克深圳公开赛：吉米·罗伯逊 5-3 克里斯·韦克林",
       "presenters": "杨江源",
       "matchInfo": {
         "time": "10月02日14:00"
@@ -566,7 +570,7 @@
       "nodes": [
         {
           "pID": "968092531",
-          "name": "2026斯诺克深圳公开赛1/4决赛回放：吉米·罗伯逊5-3克里斯·韦克林（杨江源）"
+          "name": "2026斯诺克深圳公开赛1/4决赛回放：吉米·罗伯��5-3克里斯·韦克林（杨江源）"
         },
         {
           "pID": "968093106",
@@ -797,11 +801,11 @@
     },
     {
       "mgdbId": "120000594566",
-      "pID": "967702123",
+      "pID": "965289156",
       "title": "NBA季后赛精彩重播：马刺vs尼克斯 G4",
       "keyword": "10月02日18:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA经典赛事",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/02/77Q3URJRQKKL.png",
@@ -814,8 +818,8 @@
       },
       "nodes": [
         {
-          "pID": "967702123",
-          "name": "杨健 周琦 陈正昊"
+          "pID": "965289156",
+          "name": "全场回放（杨健、周琦、陈正昊）"
         }
       ]
     },
@@ -845,7 +849,7 @@
     },
     {
       "mgdbId": "120000595134",
-      "pID": "968036930",
+      "pID": "968036875",
       "title": "朱思冰速胜戈尔帕德 徐瑛彬再横扫",
       "keyword": "10月02日18:00",
       "sportItemId": "7",
@@ -866,6 +870,10 @@
           "name": "【集锦】范姝涵3-0吴咏琳"
         },
         {
+          "pID": "968036875",
+          "name": "3号桌"
+        },
+        {
           "pID": "968036930",
           "name": "马特 赵曦"
         },
@@ -874,23 +882,19 @@
           "name": "热身区"
         },
         {
-          "pID": "968036875",
-          "name": "3号桌"
+          "pID": "968036750",
+          "name": "2号桌"
         },
         {
           "pID": "968036897",
           "name": "4号桌"
-        },
-        {
-          "pID": "968036750",
-          "name": "2号桌"
         }
       ]
     },
     {
       "mgdbId": "120000594857",
       "pID": "968085963",
-      "title": "斯诺克深圳公开赛：肖恩·墨菲 vs 吴宜泽",
+      "title": "斯诺克深圳公开赛：肖恩·墨菲 4-5 吴宜泽",
       "keyword": "10月02日18:30",
       "sportItemId": "8",
       "matchStatus": "1",
@@ -898,8 +902,8 @@
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/01/77Q3446Q9CQE.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "肖恩·墨菲 vs 吴宜泽",
-      "modifyTitle": "斯诺克深圳公开赛：肖恩·墨菲 vs 吴宜泽",
+      "pkInfoTitle": "肖恩·墨菲 4-5 吴宜泽",
+      "modifyTitle": "斯诺克深圳公开赛：肖恩·墨菲 4-5 吴宜泽",
       "presenters": "宾汉姆 庞卫国 卢正浩",
       "matchInfo": {
         "time": "10月02日18:30"
@@ -916,10 +920,6 @@
         {
           "pID": "967835471",
           "name": "肖恩·墨菲 vs 吴宜泽"
-        },
-        {
-          "pID": "967835486",
-          "name": "霍尔特 vs 袁思俊"
         }
       ]
     },
@@ -1029,7 +1029,7 @@
       "title": "斯诺克深圳公开赛：迈克尔·霍尔特 vs 袁思俊",
       "keyword": "10月02日19:30",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/02/77Q41FVGV0UE.jpg",
@@ -1192,6 +1192,10 @@
         {
           "pID": "968096380",
           "name": "全场集锦"
+        },
+        {
+          "pID": "968096739",
+          "name": "全场回放（李欣、刘越、郭小仙儿）"
         }
       ]
     },
