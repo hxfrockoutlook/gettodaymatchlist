@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-03 16:32:14",
+  "updateTime": "2026-10-03 17:02:08",
   "data": [
     {
       "mgdbId": "120000594700",
@@ -251,7 +251,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/03/77Q4RPSAKSHH.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/03/77Q4SBD81M2D.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "第三日热身区",
       "modifyTitle": "WTT中国大满贯第三日热身区",
@@ -485,15 +485,15 @@
       },
       "nodes": [
         {
-          "pID": "968073039",
-          "name": "解说"
+          "pID": "968106979",
+          "name": "2026UCI BMX竞速世界杯门头沟站Day2全场回放（官方解说）"
         }
       ]
     },
     {
       "mgdbId": "120000595049",
       "pID": "967936261",
-      "title": "全力以赴！青少年网球比赛打响",
+      "title": "全力备战！训练场迎来熟悉的身影",
       "keyword": "10月03日11:19",
       "sportItemId": "9",
       "matchStatus": "1",
@@ -501,8 +501,8 @@
       "competitionName": "中国网球公开赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/02/77Q400S6OEEL.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/9/25/10000000111010617861.jpg",
-      "pkInfoTitle": "全力以赴！青少年网球比赛打响",
-      "modifyTitle": "中国网球公开赛训练 Day9：全力备战！青少年网球比赛打响",
+      "pkInfoTitle": "全力备战！训练场迎来熟悉的身影",
+      "modifyTitle": "中国网球公开赛训练 Day9：全力备战！训练场迎来熟悉的身影",
       "presenters": "",
       "matchInfo": {
         "time": "10月03日11:19"
@@ -643,6 +643,10 @@
         {
           "pID": "968106415",
           "name": "【回放】高馨妤0-2斯瓦泰克（单文强）"
+        },
+        {
+          "pID": "968106924",
+          "name": "全场回放"
         }
       ]
     },
@@ -727,40 +731,12 @@
       ]
     },
     {
-      "mgdbId": "120000595699",
-      "pID": "968098994",
-      "title": "2026中国网球公开赛女单第二轮：孙心然 vs 布克沙",
-      "keyword": "10月03日17:00",
-      "sportItemId": "9",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "中国网球公开赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/02/77Q40UCOOT2B.png",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/9/25/10000000111010617861.jpg",
-      "pkInfoTitle": "孙心然 vs 布克沙",
-      "modifyTitle": "2026中国网球公开赛女单第二轮：孙心然 vs 布克沙",
-      "presenters": "房朕",
-      "matchInfo": {
-        "time": "10月03日17:00"
-      },
-      "nodes": [
-        {
-          "pID": "968098994",
-          "name": "房朕"
-        },
-        {
-          "pID": "968098984",
-          "name": "赛场原声"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000595710",
       "pID": "968100151",
       "title": "红拳出击国际自由搏击争霸赛泰国芭提雅站",
       "keyword": "10月03日17:00",
       "sportItemId": "5",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "红拳出击",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/03/77Q4UAUCD99U.jpg",
@@ -775,6 +751,34 @@
         {
           "pID": "968100151",
           "name": "解说"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000595699",
+      "pID": "968098994",
+      "title": "2026中国网球公开赛女单第二轮：孙心然 vs 布克沙",
+      "keyword": "10月03日17:30",
+      "sportItemId": "9",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "中国网球公开赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/02/77Q40UCOOT2B.png",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/9/25/10000000111010617861.jpg",
+      "pkInfoTitle": "孙心然 vs 布克沙",
+      "modifyTitle": "2026中国网球公开赛女单第二轮：孙心然 vs 布克沙",
+      "presenters": "房朕",
+      "matchInfo": {
+        "time": "10月03日17:30"
+      },
+      "nodes": [
+        {
+          "pID": "968098994",
+          "name": "房朕"
+        },
+        {
+          "pID": "968098984",
+          "name": "赛场原声"
         }
       ]
     },
@@ -832,7 +836,7 @@
       "title": "韩菲儿PK范姝涵 李天阳、袁励岑冲正赛",
       "keyword": "10月03日18:00",
       "sportItemId": "7",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/02/77Q415T3FE28.png",
@@ -845,16 +849,12 @@
       },
       "nodes": [
         {
-          "pID": "968037213",
-          "name": "孙闻"
-        },
-        {
           "pID": "968060109",
           "name": "热身区"
         },
         {
-          "pID": "968024605",
-          "name": "混采区"
+          "pID": "968037213",
+          "name": "孙闻"
         },
         {
           "pID": "968037141",
@@ -867,6 +867,10 @@
         {
           "pID": "968037186",
           "name": "4号桌"
+        },
+        {
+          "pID": "968024605",
+          "name": "混采区"
         }
       ]
     },
@@ -891,30 +895,6 @@
         {
           "pID": "968074053",
           "name": "王琰博 郝俊"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000595457",
-      "pID": "968052660",
-      "title": "超三联赛 北京密云争霸赛 小组赛Day2晚间场",
-      "keyword": "10月03日19:00",
-      "sportItemId": "2",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "超三联赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/02/77Q3VOD56GOR.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg",
-      "pkInfoTitle": "超三联赛 北京密云争霸赛 小组赛Day2晚间场",
-      "modifyTitle": "超三联赛",
-      "presenters": "周钰波",
-      "matchInfo": {
-        "time": "10月03日19:00"
-      },
-      "nodes": [
-        {
-          "pID": "968052660",
-          "name": "周钰波"
         }
       ]
     },
@@ -1014,7 +994,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/03/77Q4SA2U10O4.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "侯英超、程靖淇、周冠达前瞻国乒",
       "modifyTitle": "WTT中国大满贯观察室",
@@ -1024,6 +1004,30 @@
         {
           "pID": "968024442",
           "name": "侯英超 程靖淇 周冠达"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000595457",
+      "pID": "968052660",
+      "title": "超三联赛 北京密云争霸赛 小组赛Day2晚间场",
+      "keyword": "10月03日19:25",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "超三联赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/02/77Q3VOD56GOR.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg",
+      "pkInfoTitle": "超三联赛 北京密云争霸赛 小组赛Day2晚间场",
+      "modifyTitle": "超三联赛",
+      "presenters": "周钰波",
+      "matchInfo": {
+        "time": "10月03日19:25"
+      },
+      "nodes": [
+        {
+          "pID": "968052660",
+          "name": "周钰波"
         }
       ]
     },
@@ -1334,7 +1338,7 @@
       "competitionName": "湘超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000595273/202609281031_777968_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/7/22/100000001316106d1913.png",
-      "pkInfoTitle": "湘西队vs郴���队",
+      "pkInfoTitle": "湘西队vs郴州队",
       "modifyTitle": "湘超",
       "presenters": "",
       "matchInfo": {
