@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-03 20:32:37",
+  "updateTime": "2026-10-03 21:01:56",
   "data": [
     {
       "mgdbId": "120000594700",
@@ -228,7 +228,7 @@
       "title": "第三日热身区",
       "keyword": "10月03日10:00",
       "sportItemId": "7",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "WTT",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/03/77Q4TEDPQRS3.jpg",
@@ -241,8 +241,12 @@
       },
       "nodes": [
         {
-          "pID": "968060109",
-          "name": "热身区"
+          "pID": "968106666",
+          "name": "全场回放（一）"
+        },
+        {
+          "pID": "968108612",
+          "name": "全场回放（二）"
         }
       ]
     },
@@ -292,6 +296,10 @@
         "time": "10月03日11:00"
       },
       "nodes": [
+        {
+          "pID": "967951762",
+          "name": "赛后发布会"
+        },
         {
           "pID": "968098964",
           "name": "郑钦文vs 卡林斯卡娅"
@@ -697,16 +705,12 @@
       },
       "nodes": [
         {
-          "pID": "968098964",
-          "name": "郭丰庆张文悦"
-        },
-        {
-          "pID": "967951762",
-          "name": "赛后发布会"
-        },
-        {
           "pID": "968098997",
           "name": "赛场原声"
+        },
+        {
+          "pID": "968098964",
+          "name": "郭丰庆张文悦"
         },
         {
           "pID": "968060157",
@@ -757,7 +761,7 @@
       "competitionName": "NBA经典赛事",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/03/77Q4RPVE20JD.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png",
-      "pkInfoTitle": "NBA季后赛精彩重播：尼克斯vs马刺 G5",
+      "pkInfoTitle": "NBA季后赛精彩重播：尼克斯vs���刺 G5",
       "modifyTitle": "NBA经典赛事",
       "presenters": "杨健 周琦 陈正昊",
       "matchInfo": {
@@ -813,8 +817,20 @@
       },
       "nodes": [
         {
+          "pID": "968109995",
+          "name": "【集锦】洪哲砚1-3徐瑛彬"
+        },
+        {
           "pID": "968037213",
           "name": "孙闻"
+        },
+        {
+          "pID": "968037141",
+          "name": "2号桌"
+        },
+        {
+          "pID": "968024605",
+          "name": "混采区"
         },
         {
           "pID": "968060109",
@@ -827,14 +843,6 @@
         {
           "pID": "968037186",
           "name": "4号桌"
-        },
-        {
-          "pID": "968037141",
-          "name": "2号桌"
-        },
-        {
-          "pID": "968024605",
-          "name": "混采区"
         }
       ]
     },
@@ -965,20 +973,12 @@
       },
       "nodes": [
         {
-          "pID": "968099032",
-          "name": "赛场原声"
+          "pID": "968110504",
+          "name": "全场回放（胡力涛）"
         },
         {
-          "pID": "967951750",
-          "name": "单边"
-        },
-        {
-          "pID": "968099022",
-          "name": "胡力涛"
-        },
-        {
-          "pID": "968052890",
-          "name": "钻石球场4K"
+          "pID": "968110773",
+          "name": "全场回放"
         }
       ]
     },
@@ -987,7 +987,7 @@
       "pID": "968024442",
       "title": "侯英超、程靖淇、周冠达前瞻国乒",
       "sportItemId": "7",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "WTT",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/03/77Q4SA2U10O4.jpg",
@@ -1000,10 +1000,6 @@
         {
           "pID": "968024442",
           "name": "侯英超 程靖淇 周冠达"
-        },
-        {
-          "pID": "968037213",
-          "name": "同看中国大满贯资格赛"
         }
       ]
     },
@@ -1152,30 +1148,6 @@
         {
           "pID": "968086087",
           "name": "粤语"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000595288",
-      "pID": "968002174",
-      "title": "安徽省青少年足球联赛",
-      "keyword": "10月03日19:30",
-      "sportItemId": "1",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "徽青赛",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000595288/202609281051_166590_H169_1080.webp",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/3/20/100000001422106a762b.png",
-      "pkInfoTitle": "合肥vs淮北",
-      "modifyTitle": "安徽省青少年足球联赛",
-      "presenters": "",
-      "matchInfo": {
-        "time": "10月03日19:30"
-      },
-      "nodes": [
-        {
-          "pID": "968002174",
-          "name": "赛场原声"
         }
       ]
     },
