@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-03 18:04:56",
+  "updateTime": "2026-10-03 18:31:52",
   "data": [
     {
       "mgdbId": "120000594700",
@@ -285,8 +285,8 @@
       },
       "nodes": [
         {
-          "pID": "968074074",
-          "name": "陈瑞阳"
+          "pID": "968108174",
+          "name": "UFC激战前夜：王聪vs席尔瓦特辑（陈瑞阳）"
         }
       ]
     },
@@ -303,7 +303,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/9/25/10000000111010617861.jpg",
       "pkInfoTitle": "梅德维德夫登场 德米纳尔逆转晋级",
       "modifyTitle": "中国网球公开赛男女单打第二轮：梅德维德夫登场 德米纳尔逆转晋级",
-      "presenters": "詹俊 郑洁 鸿昆 乔迁 单文强",
+      "presenters": "詹俊 郑洁 房朕 鸿昆 乔迁 单文强",
       "matchInfo": {
         "time": "10月03日11:00"
       },
@@ -315,6 +315,10 @@
         {
           "pID": "968099010",
           "name": "解说陪看"
+        },
+        {
+          "pID": "968098994",
+          "name": "孙心然 vs 布克沙"
         },
         {
           "pID": "968052890",
@@ -339,10 +343,6 @@
         {
           "pID": "967706317",
           "name": "布拉德球场"
-        },
-        {
-          "pID": "967706394",
-          "name": "5号球场"
         },
         {
           "pID": "967936220",
@@ -375,6 +375,10 @@
         {
           "pID": "968099012",
           "name": "高馨妤 vs 斯瓦泰克"
+        },
+        {
+          "pID": "967706394",
+          "name": "5号球场"
         }
       ]
     },
@@ -740,10 +744,10 @@
       "title": "东亚超级联赛B组常规赛",
       "keyword": "10月03日16:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "东亚超级联赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/01/77Q325PG4R1T.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/03/77Q4SQM933D8.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/10/1/100000001347106fed66.png",
       "pkInfoTitle": "澳门昊骏vs台北富邦勇士",
       "modifyTitle": "东亚超级联赛B组常规赛",
@@ -887,12 +891,40 @@
       ]
     },
     {
+      "mgdbId": "120000595699",
+      "pID": "968098994",
+      "title": "2026中国网球公开赛女单第二轮：孙心然 vs 布克沙",
+      "keyword": "10月03日18:05",
+      "sportItemId": "9",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "中国网球公开赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/02/77Q40UCOOT2B.png",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/9/25/10000000111010617861.jpg",
+      "pkInfoTitle": "孙心然 vs 布克沙",
+      "modifyTitle": "2026中国网球公开赛女单第二轮：孙心然 vs 布克沙",
+      "presenters": "房朕",
+      "matchInfo": {
+        "time": "10月03日18:05"
+      },
+      "nodes": [
+        {
+          "pID": "968098994",
+          "name": "房朕"
+        },
+        {
+          "pID": "968098984",
+          "name": "赛场原声"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000595606",
       "pID": "968074053",
       "title": "聚焦八角笼：UFC332特辑",
       "keyword": "10月03日18:30",
       "sportItemId": "5",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "UFC前瞻与回顾",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/03/77Q4UC28RAQQ.png",
@@ -907,34 +939,6 @@
         {
           "pID": "968074053",
           "name": "王琰博 郝俊"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000595699",
-      "pID": "968098994",
-      "title": "2026中国网球公开赛女单第二轮：孙心然 vs 布克沙",
-      "keyword": "10月03日18:30",
-      "sportItemId": "9",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "中国网球公开赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/02/77Q40UCOOT2B.png",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/9/25/10000000111010617861.jpg",
-      "pkInfoTitle": "孙心然 vs 布克沙",
-      "modifyTitle": "2026中国网球公开赛女单第二轮：孙心然 vs 布克沙",
-      "presenters": "房朕",
-      "matchInfo": {
-        "time": "10月03日18:30"
-      },
-      "nodes": [
-        {
-          "pID": "968098994",
-          "name": "房朕"
-        },
-        {
-          "pID": "968098984",
-          "name": "赛场原声"
         }
       ]
     },
