@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-03 10:31:56",
+  "updateTime": "2026-10-03 11:01:56",
   "data": [
     {
       "mgdbId": "120000594700",
@@ -29,16 +29,12 @@
           "name": "补给站"
         },
         {
-          "pID": "968008771",
-          "name": "固定翼"
-        },
-        {
-          "pID": "968008878",
-          "name": "厦门大学视角"
-        },
-        {
           "pID": "968008608",
           "name": "起终点"
+        },
+        {
+          "pID": "968008771",
+          "name": "固定翼"
         },
         {
           "pID": "968008807",
@@ -47,6 +43,10 @@
         {
           "pID": "968008841",
           "name": "长江商学院视角"
+        },
+        {
+          "pID": "968008878",
+          "name": "厦门大学视角"
         },
         {
           "pID": "968008907",
@@ -145,8 +145,8 @@
       },
       "nodes": [
         {
-          "pID": "968033454",
-          "name": "官方解说"
+          "pID": "968101527",
+          "name": "全场回放（官方解说）"
         }
       ]
     },
@@ -171,6 +171,10 @@
         {
           "pID": "968101381",
           "name": "UFC332称重仪式全场回放（陈瑞阳）"
+        },
+        {
+          "pID": "968101601",
+          "name": "UFC332称重仪式全场回放（赛场原声）"
         },
         {
           "pID": "968101050",
@@ -221,8 +225,8 @@
       },
       "nodes": [
         {
-          "pID": "968033479",
-          "name": "官方解说"
+          "pID": "968101918",
+          "name": "全场回放"
         }
       ]
     },
@@ -280,7 +284,7 @@
       "title": "德米纳尔率先出战 高芙PK奥索里奥",
       "keyword": "10月03日11:00",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "中国网球公开赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/02/77Q40RUFA902.png",
@@ -329,14 +333,6 @@
           "name": "5号球场"
         },
         {
-          "pID": "967936220",
-          "name": "训练场1"
-        },
-        {
-          "pID": "967936261",
-          "name": "训练场2"
-        },
-        {
           "pID": "968060157",
           "name": "《中国榜样》中网2026郑钦文"
         },
@@ -352,7 +348,7 @@
     },
     {
       "mgdbId": "120000595135",
-      "pID": "968060109",
+      "pID": "968037079",
       "title": "袁励岑冲正赛 李天阳vs牛冠凯",
       "keyword": "10月03日11:00",
       "sportItemId": "7",
@@ -369,20 +365,12 @@
       },
       "nodes": [
         {
-          "pID": "968060109",
-          "name": "热身区"
-        },
-        {
           "pID": "968037079",
           "name": "徐晨皓"
         },
         {
-          "pID": "968024577",
-          "name": "混采区"
-        },
-        {
-          "pID": "968036960",
-          "name": "2号桌"
+          "pID": "968060109",
+          "name": "热身区"
         },
         {
           "pID": "968037001",
@@ -391,6 +379,14 @@
         {
           "pID": "968037029",
           "name": "4号桌"
+        },
+        {
+          "pID": "968036960",
+          "name": "2号桌"
+        },
+        {
+          "pID": "968024577",
+          "name": "混采区"
         }
       ]
     },
@@ -400,7 +396,7 @@
       "title": "“萨马兰奇杯”国际青少年足球邀请赛U10小组赛第3轮",
       "keyword": "10月03日11:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "“萨马兰奇杯”国际青少年足球邀请赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000595408/202609291429_463132_H169_1080.webp",
@@ -424,7 +420,7 @@
       "title": "2026中国网球公开赛女单第二轮：维基奇 vs 朱琳",
       "keyword": "10月03日11:00",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "中国网球公开赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/02/77Q40TQQKH6U.png",
@@ -439,14 +435,6 @@
         {
           "pID": "968098989",
           "name": "鸿昆"
-        },
-        {
-          "pID": "967936220",
-          "name": "训练场1"
-        },
-        {
-          "pID": "967936261",
-          "name": "训练场2"
         },
         {
           "pID": "968098980",
@@ -531,30 +519,6 @@
       ]
     },
     {
-      "mgdbId": "120000595456",
-      "pID": "968052520",
-      "title": "超三联赛 北京密云争霸赛 小组赛Day2下午场",
-      "keyword": "10月03日13:00",
-      "sportItemId": "2",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "超三联赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/02/77Q3VOBM7U25.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg",
-      "pkInfoTitle": "超三联赛 北京密云争霸赛 小组赛Day2下午场",
-      "modifyTitle": "超三联赛",
-      "presenters": "张俊卿 字诚",
-      "matchInfo": {
-        "time": "10月03日13:00"
-      },
-      "nodes": [
-        {
-          "pID": "968052520",
-          "name": "张俊卿 字诚"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000595696",
       "pID": "968099012",
       "title": "2026中国网球公开赛女单第二轮：高馨妤 vs 斯瓦泰克",
@@ -587,6 +551,30 @@
         {
           "pID": "967936261",
           "name": "训练场2"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000595456",
+      "pID": "968052520",
+      "title": "超三联赛 北京密云争霸赛 小组赛Day2下午场",
+      "keyword": "10月03日13:25",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "超三联赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/02/77Q3VOBM7U25.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg",
+      "pkInfoTitle": "超三联赛 北京密云争霸赛 小组赛Day2下午场",
+      "modifyTitle": "超三联赛",
+      "presenters": "张俊卿 字诚",
+      "matchInfo": {
+        "time": "10月03日13:25"
+      },
+      "nodes": [
+        {
+          "pID": "968052520",
+          "name": "张俊卿 字诚"
         }
       ]
     },
