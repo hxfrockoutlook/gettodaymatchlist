@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-03 11:01:56",
+  "updateTime": "2026-10-03 11:32:08",
   "data": [
     {
       "mgdbId": "120000594700",
@@ -333,6 +333,14 @@
           "name": "5号球场"
         },
         {
+          "pID": "967936220",
+          "name": "训练场1"
+        },
+        {
+          "pID": "967936261",
+          "name": "训练场2"
+        },
+        {
           "pID": "968060157",
           "name": "《中国榜样》中网2026郑钦文"
         },
@@ -439,6 +447,14 @@
         {
           "pID": "968098980",
           "name": "赛场原声"
+        },
+        {
+          "pID": "967936220",
+          "name": "训练场1"
+        },
+        {
+          "pID": "967936261",
+          "name": "训练场2"
         }
       ]
     },
@@ -448,7 +464,7 @@
       "title": "UCI BMX竞速世界杯门头沟站",
       "keyword": "10月03日11:17",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "中国自行车运动协会系列赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/02/77Q3V94HLQIG.jpg",
@@ -470,9 +486,9 @@
       "mgdbId": "120000595049",
       "pID": "967936220",
       "title": "全力备战！训练场迎来熟悉的身影",
-      "keyword": "10月03日12:00",
+      "keyword": "10月03日11:19",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "中国网球公开赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/02/77Q400S6OEEL.jpg",
@@ -481,7 +497,7 @@
       "modifyTitle": "中国网球公开赛训练 Day9：全力备战！训练场迎来熟悉的身影",
       "presenters": "",
       "matchInfo": {
-        "time": "10月03日12:00"
+        "time": "10月03日11:19"
       },
       "nodes": [
         {
@@ -491,6 +507,10 @@
         {
           "pID": "967936261",
           "name": "训练场2"
+        },
+        {
+          "pID": "968095743",
+          "name": "《中国榜样》王欣瑜"
         }
       ]
     },
@@ -703,6 +723,30 @@
         {
           "pID": "968074525",
           "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000595710",
+      "pID": "968100151",
+      "title": "红拳出击国际自由搏击争霸赛泰国芭提雅站",
+      "keyword": "10月03日17:00",
+      "sportItemId": "5",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "红拳出击",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/03/77Q4UAUCD99U.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/10/2/100000001557106d8e04.jpg",
+      "pkInfoTitle": "红拳出击国际自由搏击争霸赛泰国芭提雅站",
+      "modifyTitle": "红拳出击国际自由搏击争霸赛泰国芭提雅站",
+      "presenters": "",
+      "matchInfo": {
+        "time": "10月03日17:00"
+      },
+      "nodes": [
+        {
+          "pID": "968100151",
+          "name": "解说"
         }
       ]
     },
