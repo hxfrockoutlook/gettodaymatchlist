@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-04 07:01:44",
+  "updateTime": "2026-10-04 07:31:38",
   "data": [
     {
       "mgdbId": "120000591913",
@@ -73,14 +73,6 @@
           "name": "补给站"
         },
         {
-          "pID": "968009623",
-          "name": "电子科大视角"
-        },
-        {
-          "pID": "968009419",
-          "name": "交大安泰视角"
-        },
-        {
           "pID": "968009270",
           "name": "固定翼"
         },
@@ -93,8 +85,16 @@
           "name": "长江商学院视角"
         },
         {
+          "pID": "968009623",
+          "name": "电子科大视角"
+        },
+        {
           "pID": "968009625",
           "name": "中大管院视角"
+        },
+        {
+          "pID": "968009419",
+          "name": "交大安泰视角"
         }
       ]
     },
@@ -107,7 +107,7 @@
       "matchStatus": "1",
       "matchField": "Videotron Centre",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/03/77Q4TPN3H1E0.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/04/77Q5Q7LST0H5.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "热火VS猛龙",
       "modifyTitle": "NBA季前赛",
@@ -424,7 +424,7 @@
     },
     {
       "mgdbId": "120000594861",
-      "pID": "967835517",
+      "pID": "968086044",
       "title": "斯诺克深圳公开赛：袁思俊 vs 吴宜泽",
       "keyword": "10月04日14:00",
       "sportItemId": "8",
@@ -441,12 +441,12 @@
       },
       "nodes": [
         {
-          "pID": "967835517",
-          "name": "1号桌"
-        },
-        {
           "pID": "968086044",
           "name": "秦正"
+        },
+        {
+          "pID": "967835517",
+          "name": "1号桌"
         }
       ]
     },
@@ -852,7 +852,7 @@
     },
     {
       "mgdbId": "120000594862",
-      "pID": "967835527",
+      "pID": "968086063",
       "title": "斯诺克深圳公开赛：袁思俊 vs 吴宜泽",
       "keyword": "10月04日19:30",
       "sportItemId": "8",
@@ -868,6 +868,10 @@
         "time": "10月04日19:30"
       },
       "nodes": [
+        {
+          "pID": "968086063",
+          "name": "卢正浩"
+        },
         {
           "pID": "967835527",
           "name": "1号桌"
