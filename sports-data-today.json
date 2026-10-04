@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-05 00:01:23",
+  "updateTime": "2026-10-05 00:31:15",
   "data": [
     {
       "mgdbId": "120000589614",
@@ -123,7 +123,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/03/77Q4TQKCKDN0.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/05/77Q6OQH2BE7G.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "第五日热身区",
       "modifyTitle": "WTT中国大满贯第五日热身区",
@@ -164,7 +164,7 @@
     },
     {
       "mgdbId": "120000594591",
-      "pID": "967705750",
+      "pID": "968128964",
       "title": "斯瓦泰克率先出战 郑钦文接场",
       "keyword": "10月05日11:00",
       "sportItemId": "9",
@@ -175,11 +175,15 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/9/25/10000000111010617861.jpg",
       "pkInfoTitle": "斯瓦泰克率先出战 郑钦文接场",
       "modifyTitle": "中国网球公开赛女单第三轮、男单半决赛：斯瓦泰克率先出战 郑钦文接场",
-      "presenters": "于筱睿",
+      "presenters": "宋光振 于筱睿",
       "matchInfo": {
         "time": "10月05日11:00"
       },
       "nodes": [
+        {
+          "pID": "968128964",
+          "name": "维基奇 vs 斯瓦泰克"
+        },
         {
           "pID": "968113944",
           "name": "明星视角"
@@ -222,7 +226,7 @@
         },
         {
           "pID": "968128840",
-          "name": "于筱睿"
+          "name": "奥斯塔彭科 vs 梅尔滕斯"
         }
       ]
     },
@@ -239,14 +243,14 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "孙颖莎冲开门红 陈幸同PK徐奕",
       "modifyTitle": "WTT中国大满贯男女单打1/32决赛及双打1/16决赛",
-      "presenters": "侯英超 刘国正 周雨 张靖松 李柯鑫",
+      "presenters": "侯英超 周雨 徐铭辰 张靖松 李柯鑫",
       "matchInfo": {
         "time": "10月05日11:00"
       },
       "nodes": [
         {
           "pID": "968037696",
-          "name": "侯英超 刘国正 周雨"
+          "name": "侯英超 周雨 徐铭辰"
         },
         {
           "pID": "968037797",
@@ -296,7 +300,7 @@
     },
     {
       "mgdbId": "120000595830",
-      "pID": "968052937",
+      "pID": "968128985",
       "title": "2026中国网球公开赛女单第三轮：布兹科娃 vs 郑钦文",
       "keyword": "10月05日12:30",
       "sportItemId": "9",
@@ -307,7 +311,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/9/25/10000000111010617861.jpg",
       "pkInfoTitle": "布兹科娃 vs 郑钦文",
       "modifyTitle": "2026中国网球公开赛女单第三轮：布兹科娃 vs 郑钦文",
-      "presenters": "",
+      "presenters": "鸿昆",
       "matchInfo": {
         "time": "10月05日12:30"
       },
@@ -319,12 +323,28 @@
         {
           "pID": "968113944",
           "name": "明星视角"
+        },
+        {
+          "pID": "968060157",
+          "name": "《中国榜样》中网2026郑钦文"
+        },
+        {
+          "pID": "968128985",
+          "name": "解说"
+        },
+        {
+          "pID": "968129023",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "968129043",
+          "name": "解说陪看视角"
         }
       ]
     },
     {
       "mgdbId": "120000595839",
-      "pID": "968052948",
+      "pID": "968129067",
       "title": "2026中国网球公开赛女单第三轮：约维奇 vs 拉克西莫娃",
       "keyword": "10月05日12:30",
       "sportItemId": "9",
@@ -335,7 +355,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/9/25/10000000111010617861.jpg",
       "pkInfoTitle": "约维奇 vs 拉克西莫娃",
       "modifyTitle": "2026中国网球公开赛女单第三轮：约维奇 vs 拉克西莫娃",
-      "presenters": "",
+      "presenters": "乔迁",
       "matchInfo": {
         "time": "10月05日12:30"
       },
@@ -343,12 +363,20 @@
         {
           "pID": "968052948",
           "name": "莲花球场4K"
+        },
+        {
+          "pID": "968129067",
+          "name": "乔迁"
+        },
+        {
+          "pID": "968129058",
+          "name": "赛场原声"
         }
       ]
     },
     {
       "mgdbId": "120000595838",
-      "pID": "968052937",
+      "pID": "968128823",
       "title": "2026中国网球公开赛男单半决赛：德米纳尔 vs 胡尔卡奇",
       "keyword": "10月05日15:00",
       "sportItemId": "9",
@@ -373,12 +401,12 @@
           "name": "明星视角"
         },
         {
-          "pID": "968128820",
-          "name": "赛场原声"
-        },
-        {
           "pID": "968128823",
           "name": "宋光振"
+        },
+        {
+          "pID": "968128820",
+          "name": "赛场原声"
         }
       ]
     },
@@ -508,7 +536,7 @@
     },
     {
       "mgdbId": "120000595842",
-      "pID": "968052937",
+      "pID": "968128854",
       "title": "2026中国网球公开赛男单半决赛：德约科维奇 vs 梅德维德夫",
       "keyword": "10月05日19:00",
       "sportItemId": "9",
@@ -519,7 +547,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/9/25/10000000111010617861.jpg",
       "pkInfoTitle": "德约科维奇 vs 梅德维德夫",
       "modifyTitle": "2026中国网球公开赛男单半决赛：德约科维奇 vs 梅德维德夫",
-      "presenters": "",
+      "presenters": "邱超",
       "matchInfo": {
         "time": "10月05日19:00"
       },
@@ -616,7 +644,7 @@
     },
     {
       "mgdbId": "120000595831",
-      "pID": "968052937",
+      "pID": "968128878",
       "title": "2026中国网球公开赛女单第三轮：高芙 vs 孙心然",
       "keyword": "10月05日20:30",
       "sportItemId": "9",
@@ -627,7 +655,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/9/25/10000000111010617861.jpg",
       "pkInfoTitle": "高芙 vs 孙心然",
       "modifyTitle": "2026中国网球公开赛女单第三轮：高芙 vs 孙心然",
-      "presenters": "",
+      "presenters": "单文强",
       "matchInfo": {
         "time": "10月05日20:30"
       },
@@ -641,12 +669,12 @@
           "name": "明星视角"
         },
         {
-          "pID": "968128872",
-          "name": "赛场原声"
-        },
-        {
           "pID": "968128878",
           "name": "单文强"
+        },
+        {
+          "pID": "968128872",
+          "name": "赛场原声"
         }
       ]
     },
