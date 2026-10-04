@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-04 09:31:43",
+  "updateTime": "2026-10-04 10:01:51",
   "data": [
     {
       "mgdbId": "120000591913",
@@ -100,14 +100,14 @@
     },
     {
       "mgdbId": "120000590095",
-      "pID": "968074705",
+      "pID": "968115059",
       "title": "NBA季前赛",
       "keyword": "10月04日07:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Videotron Centre",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/04/77Q5Q7LST0H5.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/04/77Q5QS52GP77.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "热火VS猛龙",
       "modifyTitle": "NBA季前赛",
@@ -117,16 +117,24 @@
       },
       "nodes": [
         {
-          "pID": "968074705",
-          "name": "王冠证"
+          "pID": "968115202",
+          "name": "第一节"
         },
         {
-          "pID": "968074712",
-          "name": "英文原声"
+          "pID": "968115532",
+          "name": "第二节"
         },
         {
-          "pID": "968086274",
-          "name": "智能字幕"
+          "pID": "968115888",
+          "name": "第三节"
+        },
+        {
+          "pID": "968116195",
+          "name": "第四节"
+        },
+        {
+          "pID": "968116454",
+          "name": "全场回放（王冠证）"
         }
       ]
     },
@@ -176,29 +184,29 @@
     },
     {
       "mgdbId": "120000595050",
-      "pID": "967936322",
-      "title": "全力备战！训练场迎来熟悉的身影",
-      "keyword": "10月04日10:00",
+      "pID": "967936377",
+      "title": "全力备战！青少年网球训练",
+      "keyword": "10月04日09:52",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "中国网球公开赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/04/77Q5QQVLUU33.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/04/77Q5QS9C5AT4.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/9/25/10000000111010617861.jpg",
-      "pkInfoTitle": "全力备战！训练场迎来熟悉的身影",
+      "pkInfoTitle": "全力备战！青少年网球训练",
       "modifyTitle": "中国网球公开赛训练 Day10：全力备战！训练场迎来熟悉的身影",
       "presenters": "",
       "matchInfo": {
-        "time": "10月04日10:00"
+        "time": "10月04日09:52"
       },
       "nodes": [
         {
-          "pID": "967936322",
-          "name": "训练场1"
-        },
-        {
           "pID": "967936377",
           "name": "训练场2"
+        },
+        {
+          "pID": "967936322",
+          "name": "训练场1"
         }
       ]
     },
@@ -208,7 +216,7 @@
       "title": "“萨马兰奇杯”国际青少年足球邀请赛U9半决赛",
       "keyword": "10月04日10:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "“萨马兰奇杯”国际青少年足球邀请赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000595411/202610031635_856401_H169_1080.webp",
@@ -232,7 +240,7 @@
       "title": "第四日热身区",
       "keyword": "10月04日10:00",
       "sportItemId": "7",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/03/77Q4TQH70JA8.png",
@@ -263,14 +271,14 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/9/25/10000000111010617861.jpg",
       "pkInfoTitle": "萨巴伦卡率先出战 梅总冲四强",
       "modifyTitle": "中国网球公开赛女单第三轮、男单1/4决赛：萨巴伦卡率先出战 梅总冲四强",
-      "presenters": "胡力涛",
+      "presenters": "胡力涛 乔迁 宋光振 李宁 鸿昆 蔡凯臣 张文悦",
       "matchInfo": {
         "time": "10月04日11:00"
       },
       "nodes": [
         {
           "pID": "968113919",
-          "name": "胡力涛"
+          "name": "萨巴伦卡"
         },
         {
           "pID": "967706420",
@@ -290,7 +298,7 @@
         },
         {
           "pID": "967706544",
-          "name": "3号球场"
+          "name": "3号��场"
         },
         {
           "pID": "968052906",
@@ -303,6 +311,34 @@
         {
           "pID": "968113923",
           "name": "明星视角"
+        },
+        {
+          "pID": "967706544",
+          "name": "3号球场"
+        },
+        {
+          "pID": "968113937",
+          "name": "乔迁"
+        },
+        {
+          "pID": "968113980",
+          "name": "宋光振"
+        },
+        {
+          "pID": "968113934",
+          "name": "穆霍娃 vs 萨姆索诺娃(李宁)"
+        },
+        {
+          "pID": "968113963",
+          "name": "兹维列夫 vs 德约科维奇"
+        },
+        {
+          "pID": "968113993",
+          "name": "诺斯科娃 vs 戈卢比奇(蔡凯臣)"
+        },
+        {
+          "pID": "968113946",
+          "name": "德米纳尔 vs 卢布列夫(张文悦)"
         }
       ]
     },
@@ -312,14 +348,14 @@
       "title": "王曼昱冲开门红 王艺迪一日双赛",
       "keyword": "10月04日11:00",
       "sportItemId": "7",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/03/77Q4T35IJQNU.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/04/77Q5QUJHK56C.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "王曼昱冲开门红 王艺迪一日双赛",
       "modifyTitle": "WTT中国大满贯男女单打1/32决赛、混双1/16决赛",
-      "presenters": "周冠达 侯英超 周雨 高文清 赵曦",
+      "presenters": "周冠达 周雨 程靖淇 高文清 赵曦",
       "matchInfo": {
         "time": "10月04日11:00"
       },
@@ -331,14 +367,6 @@
         {
           "pID": "968037478",
           "name": "热身区"
-        },
-        {
-          "pID": "968024627",
-          "name": "混采区"
-        },
-        {
-          "pID": "968037503",
-          "name": "候场区"
         },
         {
           "pID": "968037455",
@@ -365,8 +393,16 @@
           "name": "智能字幕"
         },
         {
+          "pID": "968024627",
+          "name": "混采区"
+        },
+        {
           "pID": "968037335",
           "name": "解说陪看"
+        },
+        {
+          "pID": "968037503",
+          "name": "候场区"
         },
         {
           "pID": "968037543",
@@ -547,6 +583,10 @@
         {
           "pID": "968113993",
           "name": "蔡凯臣"
+        },
+        {
+          "pID": "968052929",
+          "name": "莲花球场4K"
         },
         {
           "pID": "968113988",
