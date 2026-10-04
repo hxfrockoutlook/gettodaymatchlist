@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-04 21:01:55",
+  "updateTime": "2026-10-04 21:31:54",
   "data": [
     {
       "mgdbId": "120000591913",
@@ -304,7 +304,7 @@
       "title": "第四日热身区",
       "keyword": "10月04日10:00",
       "sportItemId": "7",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "WTT",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/04/77Q5Q8PKBES6.jpg",
@@ -317,15 +317,19 @@
       },
       "nodes": [
         {
-          "pID": "968037478",
-          "name": "热身区"
+          "pID": "968122819",
+          "name": "全场回放（一）"
+        },
+        {
+          "pID": "968126065",
+          "name": "全场回放（二）"
         }
       ]
     },
     {
       "mgdbId": "120000594590",
-      "pID": "967706445",
-      "title": "大坂直美出战 梅总晋级中网四强",
+      "pID": "967706420",
+      "title": "兹维列夫一日双赛 梅总晋级中网四强",
       "keyword": "10月04日11:00",
       "sportItemId": "9",
       "matchStatus": "1",
@@ -333,9 +337,9 @@
       "competitionName": "中国网球公开赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/04/77Q5PVGEO60K.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/9/25/10000000111010617861.jpg",
-      "pkInfoTitle": "大坂直美出战 梅总晋级中网四强",
-      "modifyTitle": "中国网球公开赛女单第��轮、男单1/4决赛：大坂直美出战 梅总晋级中网四强",
-      "presenters": "宋光振 鸿昆 胡力涛 李宁 乔迁 蔡凯臣 张文悦",
+      "pkInfoTitle": "兹维列夫一日双赛 梅总晋级中网四强",
+      "modifyTitle": "中国网球公开赛女单第��轮、男单1/4决赛：兹维列夫一日双赛 梅总晋级中网四强",
+      "presenters": "李宁 鸿昆 胡力涛 乔迁 蔡凯臣 张文悦 宋光振",
       "matchInfo": {
         "time": "10月04日11:00"
       },
@@ -353,16 +357,8 @@
           "name": "钻石球场4K"
         },
         {
-          "pID": "968052929",
-          "name": "莲花球场4K"
-        },
-        {
           "pID": "967706420",
           "name": "钻石球场"
-        },
-        {
-          "pID": "967706445",
-          "name": "莲花球场"
         },
         {
           "pID": "967706494",
@@ -373,8 +369,16 @@
           "name": "《中国榜样》中网2026郑钦文"
         },
         {
-          "pID": "968113980",
-          "name": "梅德维德夫 vs F·塞伦多洛"
+          "pID": "968113934",
+          "name": "穆霍娃 vs 萨姆索诺娃(李宁)"
+        },
+        {
+          "pID": "968052929",
+          "name": "莲花球场4K"
+        },
+        {
+          "pID": "967706445",
+          "name": "莲花球场"
         },
         {
           "pID": "967706516",
@@ -383,10 +387,6 @@
         {
           "pID": "967706544",
           "name": "3号球场"
-        },
-        {
-          "pID": "968113934",
-          "name": "穆霍娃 vs 萨姆索诺娃(李宁)"
         },
         {
           "pID": "968113919",
@@ -403,6 +403,10 @@
         {
           "pID": "968113946",
           "name": "德米纳尔 vs 卢布列夫(张文悦)"
+        },
+        {
+          "pID": "968113980",
+          "name": "梅德维德夫 vs F·塞伦多洛"
         }
       ]
     },
@@ -415,7 +419,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/04/77Q5QKBRJ6GR.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/04/77Q5QQMR8SNK.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "王曼昱喜提开门红 王艺迪双赛全胜",
       "modifyTitle": "WTT中国大满贯男女单打1/32决赛、混双1/16决赛",
@@ -433,40 +437,40 @@
           "name": "赵曦"
         },
         {
-          "pID": "968024627",
-          "name": "混采区"
-        },
-        {
-          "pID": "968037478",
-          "name": "热身区"
+          "pID": "968037299",
+          "name": "3号桌"
         },
         {
           "pID": "968037280",
           "name": "2号桌"
         },
         {
-          "pID": "968037317",
-          "name": "4号桌"
-        },
-        {
-          "pID": "968037299",
-          "name": "3号桌"
-        },
-        {
           "pID": "968037252",
           "name": "1号桌"
+        },
+        {
+          "pID": "968024627",
+          "name": "混采区"
         },
         {
           "pID": "968054292",
           "name": "智能字幕"
         },
         {
-          "pID": "968037503",
-          "name": "候场区"
-        },
-        {
           "pID": "968037335",
           "name": "解说陪看"
+        },
+        {
+          "pID": "968037478",
+          "name": "热身区"
+        },
+        {
+          "pID": "968037317",
+          "name": "4号桌"
+        },
+        {
+          "pID": "968037503",
+          "name": "候场区"
         },
         {
           "pID": "968037455",
@@ -919,6 +923,30 @@
       ]
     },
     {
+      "mgdbId": "120000595840",
+      "pID": "968126773",
+      "title": "浪琴国家联赛巴塞罗那站",
+      "keyword": "10月04日18:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "浪琴国家联赛",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/2/8/100000001150106c3201.jpg",
+      "pkInfoTitle": "浪琴国家联赛巴塞罗那站",
+      "modifyTitle": "浪琴国家联赛",
+      "presenters": "尹少坤",
+      "matchInfo": {
+        "time": "10月04日18:00"
+      },
+      "nodes": [
+        {
+          "pID": "968126773",
+          "name": "尹少坤"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000595416",
       "pID": "968033591",
       "title": "“萨马兰奇杯”国际青少年足球邀请赛U9决赛",
@@ -938,17 +966,17 @@
       "nodes": [
         {
           "pID": "968126491",
-          "name": "全场回放"
+          "name": "全场回放（官方解说）"
         }
       ]
     },
     {
       "mgdbId": "120000595459",
-      "pID": "968052722",
+      "pID": "968126885",
       "title": "超三联赛 北京密云争霸赛 半决赛及决赛",
       "keyword": "10月04日19:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "超三联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/04/77Q5PDQCCVIJ.jpg",
@@ -961,8 +989,24 @@
       },
       "nodes": [
         {
-          "pID": "968052722",
-          "name": "王冠证"
+          "pID": "968126944",
+          "name": "全场回放（王冠证）"
+        },
+        {
+          "pID": "968126885",
+          "name": "【回放】上海横沙誉民19:21上海久事"
+        },
+        {
+          "pID": "968126437",
+          "name": "【回放】浙江普徕22:17宁波海曙捷英"
+        },
+        {
+          "pID": "968125748",
+          "name": "【回放】上海久事22:12宁波海曙捷英"
+        },
+        {
+          "pID": "968125181",
+          "name": "【回放】上海横沙誉民18:16浙江普徕"
         }
       ]
     },
@@ -1061,16 +1105,16 @@
     {
       "mgdbId": "120000595256",
       "pID": "967999088",
-      "title": "台州VS安吉",
+      "title": "台州86-67安吉",
       "keyword": "10月04日19:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "浙BA",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/02/77N92ACGBBVQ.png",
-      "pkInfoTitle": "台州VS安吉",
-      "modifyTitle": "台州VS安吉",
+      "pkInfoTitle": "台州86-67安吉",
+      "modifyTitle": "台州86-67安吉",
       "presenters": "",
       "matchInfo": {
         "time": "10月04日19:30"
@@ -1208,7 +1252,7 @@
       "title": "“萨马兰奇杯”国际青少年足球邀请赛U10决赛",
       "keyword": "10月04日20:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "“萨马兰奇杯”国际青少年足球邀请赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000595417/202610041500_293525_H169_1080.webp",
@@ -1370,7 +1414,7 @@
       "mgdbId": "120000595798",
       "pID": "968113934",
       "title": "2026中国网球公开赛女单第三轮：穆霍娃 vs 萨姆索诺娃",
-      "keyword": "10月04日21:40",
+      "keyword": "10月04日22:00",
       "sportItemId": "9",
       "matchStatus": "0",
       "matchField": "",
@@ -1381,7 +1425,7 @@
       "modifyTitle": "2026中国网球公开赛女单第三轮：穆霍娃 vs 萨姆索诺娃",
       "presenters": "李宁",
       "matchInfo": {
-        "time": "10月04日21:40"
+        "time": "10月04日22:00"
       },
       "nodes": [
         {
