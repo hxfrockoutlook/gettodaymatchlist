@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-04 07:31:38",
+  "updateTime": "2026-10-04 08:01:48",
   "data": [
     {
       "mgdbId": "120000591913",
@@ -131,39 +131,11 @@
       ]
     },
     {
-      "mgdbId": "120000595050",
-      "pID": "967936322",
-      "title": "全力备战！训练场迎来熟悉的身影",
-      "keyword": "10月04日08:00",
-      "sportItemId": "9",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "中国网球公开赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/03/77Q4UAQAOL6I.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/9/25/10000000111010617861.jpg",
-      "pkInfoTitle": "全力备战！训练场迎来熟悉的身影",
-      "modifyTitle": "中国网球公开赛训练 Day10：全力备战！训练场迎来熟悉的身影",
-      "presenters": "",
-      "matchInfo": {
-        "time": "10月04日08:00"
-      },
-      "nodes": [
-        {
-          "pID": "967936322",
-          "name": "训练场1"
-        },
-        {
-          "pID": "967936377",
-          "name": "训练场2"
-        }
-      ]
-    },
-    {
       "mgdbId": "300000002422",
       "pID": "968047588",
       "title": "咪咕体育日报 第200期",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "咪咕体育日报",
       "padImg": "",
@@ -199,6 +171,34 @@
         {
           "pID": "968033515",
           "name": "官方解说"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000595050",
+      "pID": "967936322",
+      "title": "全力备战！训练场迎来熟悉的身影",
+      "keyword": "10月04日10:00",
+      "sportItemId": "9",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "中国网球公开赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/03/77Q4UAQAOL6I.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/9/25/10000000111010617861.jpg",
+      "pkInfoTitle": "全力备战！训练场迎来熟悉的身影",
+      "modifyTitle": "中国网球公开赛训练 Day10：全力备战！训练场迎来熟悉的身影",
+      "presenters": "",
+      "matchInfo": {
+        "time": "10月04日10:00"
+      },
+      "nodes": [
+        {
+          "pID": "967936322",
+          "name": "训练场1"
+        },
+        {
+          "pID": "967936377",
+          "name": "训练场2"
         }
       ]
     },
