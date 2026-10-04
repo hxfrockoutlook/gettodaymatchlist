@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-04 14:01:51",
+  "updateTime": "2026-10-04 14:32:31",
   "data": [
     {
       "mgdbId": "120000591913",
@@ -354,8 +354,8 @@
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/04/77Q5RPG51IMJ.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/9/25/10000000111010617861.jpg",
       "pkInfoTitle": "梅总、兹维列夫冲四强",
-      "modifyTitle": "中国网球公开赛女单第三轮、男单1/4决赛：梅总、兹维列夫冲四强",
-      "presenters": "乔迁 张文悦 宋光振 李宁 鸿昆 胡力涛 蔡凯臣",
+      "modifyTitle": "中国网球公开赛女单第三轮、��单1/4决赛：梅总、兹维列夫冲四强",
+      "presenters": "乔迁 蔡凯臣 张文悦 宋光振 李宁 鸿昆 胡力涛",
       "matchInfo": {
         "time": "10月04日11:00"
       },
@@ -363,6 +363,10 @@
         {
           "pID": "968113937",
           "name": "胡尔卡奇 vs 卡恰诺夫"
+        },
+        {
+          "pID": "968113993",
+          "name": "诺斯科娃 vs 戈卢比奇(蔡凯臣)"
         },
         {
           "pID": "968113923",
@@ -425,10 +429,6 @@
           "name": "兹维列夫 vs 德约科维奇"
         },
         {
-          "pID": "968113993",
-          "name": "诺斯科娃 vs 戈卢比奇(蔡凯臣)"
-        },
-        {
           "pID": "968113919",
           "name": "巴图科娃 vs 萨巴伦卡"
         }
@@ -443,7 +443,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/04/77Q5OGIGA0KM.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/04/77Q5OO9P9SUE.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "王曼昱冲开门红 王艺迪一日双赛",
       "modifyTitle": "WTT中国大满贯男女单打1/32决赛、混双1/16决赛",
@@ -461,12 +461,12 @@
           "name": "高文清"
         },
         {
-          "pID": "968037299",
-          "name": "3号桌"
-        },
-        {
           "pID": "968037478",
           "name": "热身区"
+        },
+        {
+          "pID": "968037299",
+          "name": "3号桌"
         },
         {
           "pID": "968037252",
@@ -546,7 +546,7 @@
       "nodes": [
         {
           "pID": "968119851",
-          "name": "全场回放"
+          "name": "全场回放（官方解说）"
         }
       ]
     },
@@ -603,12 +603,44 @@
       ]
     },
     {
+      "mgdbId": "120000595799",
+      "pID": "968113993",
+      "title": "2026中国网球公开赛女单第三轮：诺斯科娃 vs 格鲁比奇",
+      "keyword": "10月04日14:20",
+      "sportItemId": "9",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "中国网球公开赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/03/77Q4U1LU414H.png",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/9/25/10000000111010617861.jpg",
+      "pkInfoTitle": "诺斯科娃 vs 格鲁比奇",
+      "modifyTitle": "2026中国网球公开赛女单第三轮：诺斯科娃 vs 格鲁比奇",
+      "presenters": "蔡凯臣",
+      "matchInfo": {
+        "time": "10月04日14:20"
+      },
+      "nodes": [
+        {
+          "pID": "968113993",
+          "name": "蔡凯臣"
+        },
+        {
+          "pID": "968052929",
+          "name": "莲花球场4K"
+        },
+        {
+          "pID": "968113988",
+          "name": "赛场原声"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000595394",
       "pID": "968025752",
       "title": "国际足球赛day5",
       "keyword": "10月04日14:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "贵州村超全国赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/29/77O1I95NRF1J.jpg",
@@ -630,7 +662,7 @@
       "mgdbId": "120000595796",
       "pID": "968113946",
       "title": "2026中国网球公开赛男单1/4决赛：德米纳尔 vs 卢布列夫",
-      "keyword": "10月04日14:30",
+      "keyword": "10月04日15:15",
       "sportItemId": "9",
       "matchStatus": "0",
       "matchField": "",
@@ -641,7 +673,7 @@
       "modifyTitle": "2026中国网球公开赛男单1/4决赛：德米纳尔 vs 卢布列夫",
       "presenters": "张文悦",
       "matchInfo": {
-        "time": "10月04日14:30"
+        "time": "10月04日15:15"
       },
       "nodes": [
         {
@@ -659,38 +691,6 @@
         {
           "pID": "968113923",
           "name": "明星视角"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000595799",
-      "pID": "968113993",
-      "title": "2026中国网球公开赛女单第三轮：诺斯科娃 vs 格鲁比奇",
-      "keyword": "10月04日14:30",
-      "sportItemId": "9",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "中国网球公开赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/03/77Q4U1LU414H.png",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/9/25/10000000111010617861.jpg",
-      "pkInfoTitle": "诺斯科娃 vs 格鲁比奇",
-      "modifyTitle": "2026中国网球公开赛女单第三轮：诺斯科娃 vs 格鲁比奇",
-      "presenters": "蔡凯臣",
-      "matchInfo": {
-        "time": "10月04日14:30"
-      },
-      "nodes": [
-        {
-          "pID": "968113993",
-          "name": "蔡凯臣"
-        },
-        {
-          "pID": "968052929",
-          "name": "莲花球场4K"
-        },
-        {
-          "pID": "968113988",
-          "name": "赛场原声"
         }
       ]
     },
