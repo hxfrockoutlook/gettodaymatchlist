@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-04 19:02:33",
+  "updateTime": "2026-10-04 19:31:48",
   "data": [
     {
       "mgdbId": "120000591913",
@@ -307,7 +307,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/04/77Q5POAUTKTM.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/04/77Q5Q8PKBES6.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "第四日热身区",
       "modifyTitle": "WTT中国大满贯第四日热身区",
@@ -318,7 +318,7 @@
       "nodes": [
         {
           "pID": "968037478",
-          "name": "王曼昱上训啦"
+          "name": "热身区"
         }
       ]
     },
@@ -367,14 +367,6 @@
         {
           "pID": "967706494",
           "name": "映月球场"
-        },
-        {
-          "pID": "967936377",
-          "name": "训练场2"
-        },
-        {
-          "pID": "967936322",
-          "name": "训练场1"
         },
         {
           "pID": "968060157",
@@ -441,8 +433,12 @@
           "name": "赵曦"
         },
         {
+          "pID": "968024627",
+          "name": "混采区"
+        },
+        {
           "pID": "968037478",
-          "name": "王曼昱上训啦"
+          "name": "热身区"
         },
         {
           "pID": "968037299",
@@ -467,10 +463,6 @@
         {
           "pID": "968037503",
           "name": "候场区"
-        },
-        {
-          "pID": "968024627",
-          "name": "混采区"
         },
         {
           "pID": "968037335",
@@ -550,7 +542,11 @@
       "nodes": [
         {
           "pID": "968124165",
-          "name": "26/27赛季斯诺克深圳公开赛决赛第一阶段回放：吴宜泽5-4袁思俊（秦正）"
+          "name": "【回放】吴宜泽5-4袁思俊（秦正）"
+        },
+        {
+          "pID": "968125311",
+          "name": "【回放】吴宜泽5-4袁思俊（赛场原声）"
         }
       ]
     },
@@ -749,8 +745,8 @@
       },
       "nodes": [
         {
-          "pID": "968002233",
-          "name": "赛场原声"
+          "pID": "968124863",
+          "name": "全场回放"
         }
       ]
     },
@@ -771,7 +767,12 @@
       "matchInfo": {
         "time": "10月04日15:30"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "968002252",
+          "name": "赛场原声"
+        }
+      ]
     },
     {
       "mgdbId": "120000595414",
@@ -803,7 +804,7 @@
       "title": "中国城市马球公开赛day1",
       "keyword": "10月04日16:00",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "中国城市马球公开赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/03/77Q4SUJO5SED.jpg",
@@ -1000,14 +1001,6 @@
           "name": "赛场原声"
         },
         {
-          "pID": "967936322",
-          "name": "训练场1"
-        },
-        {
-          "pID": "967936377",
-          "name": "训练场2"
-        },
-        {
           "pID": "968034327",
           "name": "《巨星面对面》德约科维奇"
         }
@@ -1019,7 +1012,7 @@
       "title": "斯诺克深圳公开赛：袁思俊 vs 吴宜泽",
       "keyword": "10月04日19:30",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/03/77Q4UD51NKKK.jpg",
@@ -1047,7 +1040,7 @@
       "title": "杭州VS江山",
       "keyword": "10月04日19:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "浙BA",
       "padImg": "",
@@ -1071,7 +1064,7 @@
       "title": "台州VS安吉",
       "keyword": "10月04日19:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "浙BA",
       "padImg": "",
@@ -1095,7 +1088,7 @@
       "title": "桐乡VS余姚",
       "keyword": "10月04日19:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "浙BA",
       "padImg": "",
@@ -1167,7 +1160,7 @@
       "title": "苏超第23周1/4决赛首回合",
       "keyword": "10月04日19:40",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "苏超",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000595298/444420_H169_sc.jpg",
@@ -1191,7 +1184,7 @@
       "title": "苏超第23周1/4决赛首回合",
       "keyword": "10月04日19:40",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "苏超",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000595299/908188_H169_sc.jpg",
