@@ -1,14 +1,14 @@
 {
   "success": true,
-  "updateTime": "2026-10-05 09:01:15",
+  "updateTime": "2026-10-05 09:31:06",
   "data": [
     {
       "mgdbId": "120000589614",
-      "pID": "968074776",
+      "pID": "968130304",
       "title": "NBA季前赛",
       "keyword": "10月05日07:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "CU Events Center",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/04/77Q5RFEFS4FV.jpg",
@@ -21,16 +21,16 @@
       },
       "nodes": [
         {
-          "pID": "968074776",
-          "name": "徐秦威"
+          "pID": "968131302",
+          "name": "第一节"
         },
         {
-          "pID": "968074802",
-          "name": "英文原声"
+          "pID": "968131311",
+          "name": "第二节"
         },
         {
-          "pID": "968086271",
-          "name": "智能字幕"
+          "pID": "968131325",
+          "name": "第三节"
         }
       ]
     },
@@ -43,7 +43,7 @@
       "matchStatus": "1",
       "matchField": "斯坦警长中心",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/04/77Q5RG6IL91J.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/05/77Q6NU4A6PD9.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "勇士VS快船",
       "modifyTitle": "NBA季前赛",
@@ -87,6 +87,38 @@
         {
           "pID": "968047611",
           "name": "咪咕体育日报 第201期"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000595051",
+      "pID": "967936420",
+      "title": "全力备战！训练场迎来熟悉的身影",
+      "keyword": "10月05日09:21",
+      "sportItemId": "9",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "中国网球公开赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/04/77Q5Q8STAU5R.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/9/25/10000000111010617861.jpg",
+      "pkInfoTitle": "全力备战！训练场迎来熟悉的身影",
+      "modifyTitle": "中国网球公开赛训练 Day11：全力备战！训练场迎来熟悉的身影",
+      "presenters": "",
+      "matchInfo": {
+        "time": "10月05日09:21"
+      },
+      "nodes": [
+        {
+          "pID": "967936398",
+          "name": "训练场1"
+        },
+        {
+          "pID": "967936420",
+          "name": "训练场2"
+        },
+        {
+          "pID": "968060157",
+          "name": "《中国榜样》中网2026郑钦文"
         }
       ]
     },
@@ -223,34 +255,6 @@
       ]
     },
     {
-      "mgdbId": "120000595051",
-      "pID": "967936398",
-      "title": "全力备战！训练场迎来熟悉的身影",
-      "keyword": "10月05日11:00",
-      "sportItemId": "9",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "中国网球公开赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/04/77Q5Q8STAU5R.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/9/25/10000000111010617861.jpg",
-      "pkInfoTitle": "全力备战！训练场迎来熟悉的身影",
-      "modifyTitle": "中国网球公开赛训练 Day11：全力备战！训练场迎来熟悉的身影",
-      "presenters": "",
-      "matchInfo": {
-        "time": "10月05日11:00"
-      },
-      "nodes": [
-        {
-          "pID": "967936398",
-          "name": "训练场1"
-        },
-        {
-          "pID": "967936420",
-          "name": "训练场2"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000595138",
       "pID": "968037696",
       "title": "孙颖莎冲开门红 陈幸同PK徐奕",
@@ -275,10 +279,6 @@
         {
           "pID": "968037797",
           "name": "热身区"
-        },
-        {
-          "pID": "968024677",
-          "name": "混采区"
         },
         {
           "pID": "968037830",
@@ -307,6 +307,10 @@
         {
           "pID": "968054265",
           "name": "智能字幕"
+        },
+        {
+          "pID": "968024677",
+          "name": "混采区"
         },
         {
           "pID": "968037681",
