@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-05 19:31:19",
+  "updateTime": "2026-10-05 20:01:28",
   "data": [
     {
       "mgdbId": "120000589614",
@@ -181,16 +181,8 @@
           "name": "李柯鑫"
         },
         {
-          "pID": "968024677",
-          "name": "混采区"
-        },
-        {
           "pID": "968037797",
           "name": "热身区"
-        },
-        {
-          "pID": "968037639",
-          "name": "3号桌"
         },
         {
           "pID": "968037665",
@@ -201,12 +193,20 @@
           "name": "2号桌"
         },
         {
+          "pID": "968037639",
+          "name": "3号桌"
+        },
+        {
           "pID": "968037603",
           "name": "1号桌"
         },
         {
           "pID": "968037830",
           "name": "候场区"
+        },
+        {
+          "pID": "968024677",
+          "name": "混采区"
         },
         {
           "pID": "968037681",
@@ -290,7 +290,7 @@
       "nodes": [
         {
           "pID": "968128854",
-          "name": "德约科维奇 vs 梅德韦杰夫"
+          "name": "德约科维奇 vs 梅德维德夫"
         },
         {
           "pID": "968113944",
@@ -459,6 +459,10 @@
         {
           "pID": "968140742",
           "name": "全场回放（宋光振）"
+        },
+        {
+          "pID": "968141661",
+          "name": "全场回放"
         }
       ]
     },
@@ -518,7 +522,7 @@
       "sportItemId": "2",
       "matchStatus": "1",
       "matchField": "",
-      "competitionName": "��州“村BA”联赛",
+      "competitionName": "贵州“村BA”联��",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/29/77O1IVARIF0E.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/8/13/100000001522106cb519.png",
       "pkInfoTitle": "村BA球王争霸赛全国总决赛",
@@ -691,42 +695,6 @@
       ]
     },
     {
-      "mgdbId": "120000595831",
-      "pID": "968128878",
-      "title": "2026中国网球公开赛女单第三轮：高芙 vs 孙心然",
-      "keyword": "10月05日20:30",
-      "sportItemId": "9",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "中国网球公开赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/04/77Q5QP8SKT1B.png",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/9/25/10000000111010617861.jpg",
-      "pkInfoTitle": "高芙 vs 孙心然",
-      "modifyTitle": "2026中国网球公开赛女单第三轮：高芙 vs 孙心然",
-      "presenters": "单文强",
-      "matchInfo": {
-        "time": "10月05日20:30"
-      },
-      "nodes": [
-        {
-          "pID": "968052937",
-          "name": "钻石球场4K"
-        },
-        {
-          "pID": "968113944",
-          "name": "明星视角"
-        },
-        {
-          "pID": "968128878",
-          "name": "单文强"
-        },
-        {
-          "pID": "968128872",
-          "name": "赛场原声"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000595715",
       "pID": "968102878",
       "title": "东盟杯第一级别决赛",
@@ -750,6 +718,42 @@
         },
         {
           "pID": "968102862",
+          "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000595831",
+      "pID": "968128878",
+      "title": "2026中国网球公开赛女单第三轮：高芙 vs 孙心然",
+      "keyword": "10月05日21:00",
+      "sportItemId": "9",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "中国网球公开赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/04/77Q5QP8SKT1B.png",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/9/25/10000000111010617861.jpg",
+      "pkInfoTitle": "高芙 vs 孙心然",
+      "modifyTitle": "2026中国网球公开赛女单第三轮：高芙 vs 孙心然",
+      "presenters": "单文强",
+      "matchInfo": {
+        "time": "10月05日21:00"
+      },
+      "nodes": [
+        {
+          "pID": "968052937",
+          "name": "钻石球场4K"
+        },
+        {
+          "pID": "968113944",
+          "name": "明星视角"
+        },
+        {
+          "pID": "968128878",
+          "name": "单文强"
+        },
+        {
+          "pID": "968128872",
           "name": "赛场原声"
         }
       ]
