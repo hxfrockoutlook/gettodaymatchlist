@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-05 11:31:11",
+  "updateTime": "2026-10-05 12:01:23",
   "data": [
     {
       "mgdbId": "120000589614",
@@ -81,6 +81,10 @@
           "name": "全场回放（邵化谦、周鹏）"
         },
         {
+          "pID": "968132269",
+          "name": "全场回放（AI字幕）"
+        },
+        {
           "pID": "968131220",
           "name": "第一节"
         },
@@ -159,26 +163,34 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/05/77Q6O1QKH079.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/05/77Q6OK3MC3MU.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "孙颖莎冲开门红 陈幸同PK徐奕",
       "modifyTitle": "WTT中国大满贯男女单打1/32决赛及双打1/16决赛",
-      "presenters": "张靖松 侯英超 周雨 徐铭辰 李柯鑫",
+      "presenters": "侯英超 周雨 徐铭辰 张靖松 李柯鑫",
       "matchInfo": {
         "time": "10月05日10:00"
       },
       "nodes": [
         {
-          "pID": "968037777",
-          "name": "张靖松"
-        },
-        {
           "pID": "968037696",
           "name": "侯英超 周雨 徐铭辰"
         },
         {
+          "pID": "968037777",
+          "name": "张靖松"
+        },
+        {
           "pID": "968037797",
           "name": "热身区"
+        },
+        {
+          "pID": "968037639",
+          "name": "3号桌"
+        },
+        {
+          "pID": "968037665",
+          "name": "4号桌"
         },
         {
           "pID": "968037603",
@@ -203,14 +215,6 @@
         {
           "pID": "968037830",
           "name": "候场区"
-        },
-        {
-          "pID": "968037639",
-          "name": "3号桌"
-        },
-        {
-          "pID": "968037665",
-          "name": "4号桌"
         },
         {
           "pID": "968037845",
@@ -313,10 +317,6 @@
           "name": "映月球场"
         },
         {
-          "pID": "967705844",
-          "name": "布拉德球场"
-        },
-        {
           "pID": "967936398",
           "name": "训练场1"
         },
@@ -335,6 +335,10 @@
         {
           "pID": "968129043",
           "name": "解说陪看视角"
+        },
+        {
+          "pID": "967705844",
+          "name": "布拉德球场"
         },
         {
           "pID": "968128840",
@@ -557,7 +561,7 @@
       "competitionName": "贵州“村BA”联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/29/77O1IVARIF0E.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/8/13/100000001522106cb519.png",
-      "pkInfoTitle": "村BA球王争霸赛全国总决��",
+      "pkInfoTitle": "村BA球王争霸赛全国总决赛",
       "modifyTitle": "贵州“村BA”联赛总决赛",
       "presenters": "",
       "matchInfo": {
