@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-05 12:01:23",
+  "updateTime": "2026-10-05 12:31:35",
   "data": [
     {
       "mgdbId": "120000589614",
@@ -363,10 +363,42 @@
       ]
     },
     {
+      "mgdbId": "120000595839",
+      "pID": "968129067",
+      "title": "2026中国网球公开赛女单第三轮：约维奇 vs 拉克西莫娃",
+      "keyword": "10月05日12:50",
+      "sportItemId": "9",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "中国网球公开赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/04/77Q5R5I44EVQ.png",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/9/25/10000000111010617861.jpg",
+      "pkInfoTitle": "约维奇 vs 拉克西莫娃",
+      "modifyTitle": "2026中国网球公开赛女单第三轮：约维奇 vs 拉克西莫娃",
+      "presenters": "乔迁",
+      "matchInfo": {
+        "time": "10月05日12:50"
+      },
+      "nodes": [
+        {
+          "pID": "968052948",
+          "name": "莲花球场4K"
+        },
+        {
+          "pID": "968129067",
+          "name": "乔迁"
+        },
+        {
+          "pID": "968129058",
+          "name": "赛场原声"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000595830",
       "pID": "968128985",
       "title": "2026中国网球公开赛女单第三轮：布兹科娃 vs 郑钦文",
-      "keyword": "10月05日12:30",
+      "keyword": "10月05日13:00",
       "sportItemId": "9",
       "matchStatus": "0",
       "matchField": "",
@@ -377,7 +409,7 @@
       "modifyTitle": "2026中国网球公开赛女单第三轮：布兹科娃 vs 郑钦文",
       "presenters": "詹俊 王蔷",
       "matchInfo": {
-        "time": "10月05日12:30"
+        "time": "10月05日13:00"
       },
       "nodes": [
         {
@@ -402,38 +434,6 @@
         },
         {
           "pID": "968129023",
-          "name": "赛场原声"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000595839",
-      "pID": "968129067",
-      "title": "2026中国网球公开赛女单第三轮：约维奇 vs 拉克西莫娃",
-      "keyword": "10月05日12:30",
-      "sportItemId": "9",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "中国网球公开赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/04/77Q5R5I44EVQ.png",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/9/25/10000000111010617861.jpg",
-      "pkInfoTitle": "约维奇 vs 拉克西莫娃",
-      "modifyTitle": "2026中国网球公开赛女单第三轮：约维奇 vs 拉克西莫娃",
-      "presenters": "乔迁",
-      "matchInfo": {
-        "time": "10月05日12:30"
-      },
-      "nodes": [
-        {
-          "pID": "968052948",
-          "name": "莲花球场4K"
-        },
-        {
-          "pID": "968129067",
-          "name": "乔迁"
-        },
-        {
-          "pID": "968129058",
           "name": "赛场原声"
         }
       ]
@@ -615,24 +615,7 @@
       "matchInfo": {
         "time": "10月05日19:00"
       },
-      "nodes": [
-        {
-          "pID": "968052937",
-          "name": "钻石球场4K"
-        },
-        {
-          "pID": "968113944",
-          "name": "明星视角"
-        },
-        {
-          "pID": "968128854",
-          "name": "解说"
-        },
-        {
-          "pID": "968128865",
-          "name": "赛场原声"
-        }
-      ]
+      "nodes": []
     },
     {
       "mgdbId": "120000595258",
