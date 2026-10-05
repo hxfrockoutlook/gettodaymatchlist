@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-05 21:31:18",
+  "updateTime": "2026-10-05 22:01:29",
   "data": [
     {
       "mgdbId": "120000589614",
@@ -177,20 +177,12 @@
           "name": "周冠达 刘国正 周雨"
         },
         {
-          "pID": "968037639",
-          "name": "3号桌"
-        },
-        {
-          "pID": "968037603",
-          "name": "1号桌"
-        },
-        {
           "pID": "968024677",
           "name": "混采区"
         },
         {
-          "pID": "968037830",
-          "name": "候场区"
+          "pID": "968037603",
+          "name": "1号桌"
         },
         {
           "pID": "968037681",
@@ -199,6 +191,14 @@
         {
           "pID": "968054265",
           "name": "智能字幕"
+        },
+        {
+          "pID": "968037639",
+          "name": "3号桌"
+        },
+        {
+          "pID": "968037830",
+          "name": "候场区"
         },
         {
           "pID": "968037845",
@@ -287,7 +287,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/9/25/10000000111010617861.jpg",
       "pkInfoTitle": "梅尔腾斯晋级十六强！斯瓦泰克逆转晋级",
       "modifyTitle": "中国网球公开赛女单第三轮、男单半决赛：梅尔腾斯晋级十六强！斯瓦泰克逆转晋级",
-      "presenters": "单文强 邱超 宋光振 乔迁 鸿昆 张浩 于筱睿",
+      "presenters": "邱超 张浩 单文强 宋光振 乔迁 鸿昆 于筱睿",
       "matchInfo": {
         "time": "10月05日11:00"
       },
@@ -295,6 +295,10 @@
         {
           "pID": "968128854",
           "name": "德约科维奇 vs 梅德维德夫"
+        },
+        {
+          "pID": "968128878",
+          "name": "高芙 vs 孙心然"
         },
         {
           "pID": "968113944",
@@ -311,10 +315,6 @@
         {
           "pID": "968060157",
           "name": "《中国榜样》中网2026郑钦文"
-        },
-        {
-          "pID": "968128878",
-          "name": "高芙 vs 孙心然"
         },
         {
           "pID": "967705844",
@@ -476,7 +476,7 @@
       "title": "东北超冠亚军决赛",
       "keyword": "10月05日18:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "东北超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000594689/202609201520_924981_H169_1080.webp",
@@ -500,7 +500,7 @@
       "title": "闽超",
       "keyword": "10月05日18:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "闽超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000594794/202609221020_275259_H169_1080.webp",
@@ -629,16 +629,16 @@
     {
       "mgdbId": "120000595258",
       "pID": "967998601",
-      "title": "丽水VS临安",
+      "title": "丽水78-62临安",
       "keyword": "10月05日19:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "浙BA",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/02/77N92ACGBBVQ.png",
-      "pkInfoTitle": "丽水VS临安",
-      "modifyTitle": "丽水VS临安",
+      "pkInfoTitle": "丽水78-62临安",
+      "modifyTitle": "丽水78-62临安",
       "presenters": "",
       "matchInfo": {
         "time": "10月05日19:30"
@@ -677,16 +677,16 @@
     {
       "mgdbId": "120000595260",
       "pID": "968000483",
-      "title": "绍兴VS舟山",
+      "title": "绍兴83-65舟山",
       "keyword": "10月05日19:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "浙BA",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/02/77N92ACGBBVQ.png",
-      "pkInfoTitle": "绍兴VS舟山",
-      "modifyTitle": "绍兴VS舟山",
+      "pkInfoTitle": "绍兴83-65舟山",
+      "modifyTitle": "绍兴83-65舟山",
       "presenters": "",
       "matchInfo": {
         "time": "10月05日19:30"
@@ -730,9 +730,9 @@
       "mgdbId": "120000595831",
       "pID": "968128878",
       "title": "2026中国网球公开赛女单第三轮：高芙 vs 孙心然",
-      "keyword": "10月05日22:00",
+      "keyword": "10月05日21:55",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "中国网球公开赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/04/77Q5QP8SKT1B.png",
@@ -741,7 +741,7 @@
       "modifyTitle": "2026中国网球公开赛女单第三轮：高芙 vs 孙心然",
       "presenters": "单文强",
       "matchInfo": {
-        "time": "10月05日22:00"
+        "time": "10月05日21:55"
       },
       "nodes": [
         {
