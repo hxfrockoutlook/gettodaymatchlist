@@ -1,10 +1,10 @@
 {
   "success": true,
-  "updateTime": "2026-10-05 10:01:18",
+  "updateTime": "2026-10-05 10:31:10",
   "data": [
     {
       "mgdbId": "120000589614",
-      "pID": "968130304",
+      "pID": "968132166",
       "title": "NBA季前赛",
       "keyword": "10月05日07:00",
       "sportItemId": "2",
@@ -20,6 +20,14 @@
         "time": "10月05日07:00"
       },
       "nodes": [
+        {
+          "pID": "968132166",
+          "name": "全场集锦"
+        },
+        {
+          "pID": "968131961",
+          "name": "全场回放（徐秦威）"
+        },
         {
           "pID": "968131302",
           "name": "第一节"
@@ -71,6 +79,10 @@
         {
           "pID": "968131876",
           "name": "第四节"
+        },
+        {
+          "pID": "968132231",
+          "name": "全场回放（邵化谦、周鹏）"
         }
       ]
     },
@@ -127,6 +139,74 @@
       ]
     },
     {
+      "mgdbId": "120000595138",
+      "pID": "968037696",
+      "title": "孙颖莎冲开门红 陈幸同PK徐奕",
+      "keyword": "10月05日10:00",
+      "sportItemId": "7",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "WTT",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/05/77Q6O1QKH079.png",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
+      "pkInfoTitle": "孙颖莎冲开门红 陈幸同PK徐奕",
+      "modifyTitle": "WTT中国大满贯男女单打1/32决赛及双打1/16决赛",
+      "presenters": "侯英超 周雨 徐铭辰 张靖松 李柯鑫",
+      "matchInfo": {
+        "time": "10月05日10:00"
+      },
+      "nodes": [
+        {
+          "pID": "968037696",
+          "name": "侯英超 周雨 徐铭辰"
+        },
+        {
+          "pID": "968037797",
+          "name": "热身区"
+        },
+        {
+          "pID": "968037830",
+          "name": "候场区"
+        },
+        {
+          "pID": "968037777",
+          "name": "张靖松"
+        },
+        {
+          "pID": "968037603",
+          "name": "1号桌"
+        },
+        {
+          "pID": "968037622",
+          "name": "2号桌"
+        },
+        {
+          "pID": "968037639",
+          "name": "3号桌"
+        },
+        {
+          "pID": "968037665",
+          "name": "4号桌"
+        },
+        {
+          "pID": "968054265",
+          "name": "智能字幕"
+        },
+        {
+          "pID": "968024677",
+          "name": "混采区"
+        },
+        {
+          "pID": "968037681",
+          "name": "解说陪看"
+        },
+        {
+          "pID": "968037845",
+          "name": "李柯鑫"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000595442",
       "pID": "968037797",
       "title": "第五日热身区",
@@ -156,7 +236,7 @@
       "title": "中国城市马球公开赛day2",
       "keyword": "10月05日10:30",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "中国城市马球公开赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/04/77Q5Q7DFIM49.jpg",
@@ -187,7 +267,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/9/25/10000000111010617861.jpg",
       "pkInfoTitle": "斯瓦泰克率先出战 郑钦文接场",
       "modifyTitle": "中国网球公开赛女单第三轮、男单半决赛：斯瓦泰克率先出战 郑钦文接场",
-      "presenters": "鸿昆 张浩 宋光振 于筱睿 乔迁 邱超 单文强",
+      "presenters": "詹俊 王蔷 宋光振 于筱睿 乔迁 邱超 单文强",
       "matchInfo": {
         "time": "10月05日11:00"
       },
@@ -267,74 +347,6 @@
       ]
     },
     {
-      "mgdbId": "120000595138",
-      "pID": "968037696",
-      "title": "孙颖莎冲开门红 陈幸同PK徐奕",
-      "keyword": "10月05日11:00",
-      "sportItemId": "7",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/05/77Q6O1QKH079.png",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "孙颖莎冲开门红 陈幸同PK徐奕",
-      "modifyTitle": "WTT中国大满贯男女单打1/32决赛及双打1/16决赛",
-      "presenters": "侯英超 周雨 徐铭辰 张靖松 李柯鑫",
-      "matchInfo": {
-        "time": "10月05日11:00"
-      },
-      "nodes": [
-        {
-          "pID": "968037696",
-          "name": "侯英超 周雨 徐铭辰"
-        },
-        {
-          "pID": "968037797",
-          "name": "热身区"
-        },
-        {
-          "pID": "968037830",
-          "name": "候场区"
-        },
-        {
-          "pID": "968037777",
-          "name": "张靖松"
-        },
-        {
-          "pID": "968037603",
-          "name": "1号桌"
-        },
-        {
-          "pID": "968037622",
-          "name": "2号桌"
-        },
-        {
-          "pID": "968037639",
-          "name": "3号桌"
-        },
-        {
-          "pID": "968037665",
-          "name": "4号桌"
-        },
-        {
-          "pID": "968054265",
-          "name": "智能字幕"
-        },
-        {
-          "pID": "968024677",
-          "name": "混采区"
-        },
-        {
-          "pID": "968037681",
-          "name": "解说陪看"
-        },
-        {
-          "pID": "968037845",
-          "name": "李柯鑫"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000595830",
       "pID": "968128985",
       "title": "2026中国网球公开赛女单第三轮：布兹科娃 vs 郑钦文",
@@ -347,7 +359,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/9/25/10000000111010617861.jpg",
       "pkInfoTitle": "布兹科娃 vs 郑钦文",
       "modifyTitle": "2026中国网球公开赛女单第三轮：布兹科娃 vs 郑钦文",
-      "presenters": "鸿昆 张浩",
+      "presenters": "詹俊 王蔷",
       "matchInfo": {
         "time": "10月05日12:30"
       },
@@ -355,6 +367,10 @@
         {
           "pID": "968128985",
           "name": "解说"
+        },
+        {
+          "pID": "968060157",
+          "name": "《中国榜样》中网2026郑钦文"
         },
         {
           "pID": "968129043",
@@ -371,10 +387,6 @@
         {
           "pID": "968129023",
           "name": "赛场原声"
-        },
-        {
-          "pID": "968060157",
-          "name": "《中国榜样》中网2026郑钦文"
         }
       ]
     },
