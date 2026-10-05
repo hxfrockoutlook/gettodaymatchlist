@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-05 17:01:29",
+  "updateTime": "2026-10-05 17:31:17",
   "data": [
     {
       "mgdbId": "120000589614",
@@ -171,7 +171,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "孙颖莎冲开门红 陈幸同3-0徐奕",
       "modifyTitle": "WTT中国大满贯男女单打1/32决赛及双打1/16决赛",
-      "presenters": "常新宇 程靖淇 徐晨皓 李柯鑫 张靖松",
+      "presenters": "周冠达 刘国正 周雨 李柯鑫 张靖松",
       "matchInfo": {
         "time": "10月05日10:00"
       },
@@ -182,19 +182,23 @@
         },
         {
           "pID": "968037797",
-          "name": "王曼昱上训啦"
+          "name": "热身区"
+        },
+        {
+          "pID": "968037830",
+          "name": "候场区"
         },
         {
           "pID": "968037622",
           "name": "2号桌"
         },
         {
-          "pID": "968037639",
-          "name": "3号桌"
-        },
-        {
           "pID": "968037603",
           "name": "1号桌"
+        },
+        {
+          "pID": "968037639",
+          "name": "3号桌"
         },
         {
           "pID": "968037665",
@@ -211,10 +215,6 @@
         {
           "pID": "968024677",
           "name": "混采区"
-        },
-        {
-          "pID": "968037830",
-          "name": "候场区"
         },
         {
           "pID": "968037845",
@@ -235,7 +235,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/05/77Q6MF7PFJJQ.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/05/77Q6MO4DH41U.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "第五日热身区",
       "modifyTitle": "WTT中国大满贯第五日热身区",
@@ -246,7 +246,7 @@
       "nodes": [
         {
           "pID": "968037797",
-          "name": "王曼昱上训啦"
+          "name": "热身区"
         }
       ]
     },
@@ -287,22 +287,22 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/9/25/10000000111010617861.jpg",
       "pkInfoTitle": "梅尔腾斯冲十六强！斯瓦泰克逆转晋级",
       "modifyTitle": "中国网球公开赛女单第三轮、男单半决赛：梅尔腾斯冲十六强！斯瓦泰克逆转晋级",
-      "presenters": "于筱睿 詹俊 王蔷 宋光振 邱超 单文强 乔迁",
+      "presenters": "鸿昆 张浩 宋光振 于筱睿 邱超 单文强 乔迁",
       "matchInfo": {
         "time": "10月05日11:00"
       },
       "nodes": [
         {
-          "pID": "968128840",
-          "name": "奥斯塔彭科 vs 梅尔滕斯"
-        },
-        {
           "pID": "968128985",
           "name": "布兹科娃 vs 郑钦文"
         },
         {
-          "pID": "968129043",
-          "name": "解说陪看视角"
+          "pID": "968128823",
+          "name": "德米纳尔 vs 胡尔卡奇"
+        },
+        {
+          "pID": "968128840",
+          "name": "奥斯塔彭科 vs 梅尔滕斯"
         },
         {
           "pID": "968113944",
@@ -330,7 +330,7 @@
         },
         {
           "pID": "967705844",
-          "name": "布拉德球场"
+          "name": "布拉德球��"
         },
         {
           "pID": "967936398",
@@ -345,8 +345,8 @@
           "name": "《中国榜样》中网2026郑钦文"
         },
         {
-          "pID": "968128823",
-          "name": "德米纳尔 vs 胡尔卡奇"
+          "pID": "967705844",
+          "name": "布拉德球场"
         },
         {
           "pID": "968128854",
@@ -359,6 +359,10 @@
         {
           "pID": "968128964",
           "name": "维基奇 vs 斯瓦泰克"
+        },
+        {
+          "pID": "968129043",
+          "name": "解说陪看视角"
         },
         {
           "pID": "968129067",
@@ -375,7 +379,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "中国网球公开赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/04/77Q5QKQN1IM2.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/05/77Q6MP0M8N53.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/9/25/10000000111010617861.jpg",
       "pkInfoTitle": "布兹科娃 vs 郑钦文",
       "modifyTitle": "2026中国网球公开赛女单第三轮：布兹科娃 vs 郑钦文",
@@ -387,6 +391,18 @@
         {
           "pID": "968128985",
           "name": "解说"
+        },
+        {
+          "pID": "967936398",
+          "name": "训练场1"
+        },
+        {
+          "pID": "967936420",
+          "name": "训练场2"
+        },
+        {
+          "pID": "968060157",
+          "name": "《中国榜样》中网2026郑钦文"
         },
         {
           "pID": "968129043",
@@ -403,18 +419,6 @@
         {
           "pID": "968129023",
           "name": "赛场原声"
-        },
-        {
-          "pID": "967936398",
-          "name": "训练场1"
-        },
-        {
-          "pID": "967936420",
-          "name": "训练场2"
-        },
-        {
-          "pID": "968060157",
-          "name": "《中国榜样》中网2026郑钦文"
         }
       ]
     },
@@ -478,9 +482,9 @@
       "mgdbId": "120000595838",
       "pID": "968128823",
       "title": "2026中国网球公开赛男单半决赛：德米纳尔 vs 胡尔卡奇",
-      "keyword": "10月05日17:30",
+      "keyword": "10月05日17:15",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "中国网球公开赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/04/77Q5QL9LOSCE.png",
@@ -489,7 +493,7 @@
       "modifyTitle": "2026中国网球公开赛男单半决赛：德米纳尔 vs 胡尔卡奇",
       "presenters": "宋光振",
       "matchInfo": {
-        "time": "10月05日17:30"
+        "time": "10月05日17:15"
       },
       "nodes": [
         {
