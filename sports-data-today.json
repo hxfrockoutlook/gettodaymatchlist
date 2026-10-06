@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-06 16:32:34",
+  "updateTime": "2026-10-06 17:02:33",
   "data": [
     {
       "mgdbId": "120000589615",
@@ -459,30 +459,6 @@
       ]
     },
     {
-      "mgdbId": "120000595713",
-      "pID": "968100779",
-      "title": "阿联酋阿拉伯马环球杯中国赛",
-      "keyword": "10月06日13:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "阿联酋阿拉伯马环球杯",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/06/77Q7KDO7H7ES.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/10/2/100000001556106e1539.png",
-      "pkInfoTitle": "阿联酋阿拉伯马环球杯中国赛",
-      "modifyTitle": "阿联酋阿拉伯马环球杯中国赛",
-      "presenters": "",
-      "matchInfo": {
-        "time": "10月06日13:00"
-      },
-      "nodes": [
-        {
-          "pID": "968100779",
-          "name": "清流播出"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000595832",
       "pID": "968131216",
       "title": "朱轩辰晋级正赛！国羽多线出战",
@@ -514,15 +490,15 @@
         },
         {
           "pID": "968150327",
-          "name": "杨妮娜"
+          "name": "胡达VS韩千禧"
         },
         {
           "pID": "968150310",
-          "name": "轩子博"
+          "name": "吴冠勋/李佳馨VS高家炫/吴梦莹"
         },
         {
           "pID": "968150335",
-          "name": "朱胤丞"
+          "name": "亨明/埃斯特尔VS程星/张驰"
         }
       ]
     },
@@ -532,7 +508,7 @@
       "title": "中乙保级赛",
       "keyword": "10月06日15:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "亚泰训练基地主体育场",
       "competitionName": "中乙",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000592551/202609050341_712442_H169_1080.webp",
@@ -627,7 +603,12 @@
       "matchInfo": {
         "time": "10月06日15:30"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "968086120",
+          "name": "解说"
+        }
+      ]
     },
     {
       "mgdbId": "120000592550",
@@ -659,7 +640,7 @@
       "title": "中乙保级赛",
       "keyword": "10月06日17:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "湖北足管中心训练基地中心球场",
       "competitionName": "中乙",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000592547/202609050341_430077_H169_1080.webp",
@@ -674,6 +655,30 @@
         {
           "pID": "968086129",
           "name": "解说"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000595713",
+      "pID": "968100779",
+      "title": "阿联酋阿拉伯马环球杯中国赛",
+      "keyword": "10月06日18:00",
+      "sportItemId": "8",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "阿联酋阿拉伯马环球杯",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/06/77Q7KDO7H7ES.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/10/2/100000001556106e1539.png",
+      "pkInfoTitle": "阿联酋阿拉伯马环球杯中国赛",
+      "modifyTitle": "阿联酋阿拉伯马环球杯中国赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "10月06日18:00"
+      },
+      "nodes": [
+        {
+          "pID": "968100779",
+          "name": "清流播出"
         }
       ]
     },
