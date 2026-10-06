@@ -1,10 +1,10 @@
 {
   "success": true,
-  "updateTime": "2026-10-06 10:32:16",
+  "updateTime": "2026-10-06 11:01:47",
   "data": [
     {
       "mgdbId": "120000589615",
-      "pID": "968146494",
+      "pID": "968148814",
       "title": "NBA季前赛",
       "keyword": "10月06日07:00",
       "sportItemId": "2",
@@ -20,6 +20,10 @@
         "time": "10月06日07:00"
       },
       "nodes": [
+        {
+          "pID": "968148814",
+          "name": "全场集锦"
+        },
         {
           "pID": "968147729",
           "name": "第一节"
@@ -61,6 +65,10 @@
           "name": "全场集锦"
         },
         {
+          "pID": "968148140",
+          "name": "全场回放（连睿、曾令旭、佳依）"
+        },
+        {
           "pID": "968147081",
           "name": "第一节"
         },
@@ -75,10 +83,6 @@
         {
           "pID": "968147623",
           "name": "第四节"
-        },
-        {
-          "pID": "968148140",
-          "name": "全场回���（连睿、曾令旭、佳依）"
         }
       ]
     },
@@ -128,14 +132,14 @@
     },
     {
       "mgdbId": "120000589594",
-      "pID": "968074787",
+      "pID": "968146894",
       "title": "NBA季前赛",
       "keyword": "10月06日08:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "费哲论坛球馆",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/05/77Q6OIUDDGQU.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/06/77Q7LD1T1DJ2.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "森林狼VS雄鹿",
       "modifyTitle": "NBA季前赛",
@@ -145,16 +149,20 @@
       },
       "nodes": [
         {
-          "pID": "968074787",
-          "name": "王凯"
+          "pID": "968147784",
+          "name": "第一节"
         },
         {
-          "pID": "968074816",
-          "name": "英文原声"
+          "pID": "968147804",
+          "name": "第二节"
         },
         {
-          "pID": "968086262",
-          "name": "智能字幕"
+          "pID": "968148227",
+          "name": "第三节"
+        },
+        {
+          "pID": "968148809",
+          "name": "第四节"
         }
       ]
     },
@@ -240,7 +248,7 @@
       "title": "安德列娃率先出战 张帅冲女双开门红",
       "keyword": "10月06日11:00",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "中国网球公开赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/05/77Q6NJ3EKKM2.png",
@@ -319,7 +327,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/06/77Q7L57CD7T8.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/06/77Q7LECE17F5.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "王曼昱争晋级 黄友政PK林昀儒",
       "modifyTitle": "WTT中国大满贯男女单双打1/16决赛、混双1/8决赛",
@@ -333,16 +341,12 @@
           "name": "侯英超 程靖淇 徐铭辰"
         },
         {
-          "pID": "968036650",
-          "name": "热身区"
-        },
-        {
-          "pID": "968036693",
-          "name": "候场区"
-        },
-        {
           "pID": "968036630",
           "name": "徐儒叶"
+        },
+        {
+          "pID": "968036650",
+          "name": "热身区"
         },
         {
           "pID": "968036402",
@@ -353,20 +357,24 @@
           "name": "2号桌"
         },
         {
-          "pID": "968036506",
-          "name": "3号桌"
-        },
-        {
-          "pID": "968036539",
-          "name": "4号桌"
-        },
-        {
           "pID": "968054255",
           "name": "智能字幕"
         },
         {
           "pID": "968024735",
           "name": "混采区"
+        },
+        {
+          "pID": "968036693",
+          "name": "候场区"
+        },
+        {
+          "pID": "968036506",
+          "name": "3号桌"
+        },
+        {
+          "pID": "968036539",
+          "name": "4号桌"
         },
         {
           "pID": "968036712",
