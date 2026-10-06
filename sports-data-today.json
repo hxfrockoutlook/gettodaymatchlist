@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-06 18:01:58",
+  "updateTime": "2026-10-06 18:31:44",
   "data": [
     {
       "mgdbId": "120000589615",
@@ -292,22 +292,26 @@
     },
     {
       "mgdbId": "120000594592",
-      "pID": "967705977",
+      "pID": "967705964",
       "title": "巴图科娃亮相 安德列娃零封晋级",
       "keyword": "10月06日11:00",
       "sportItemId": "9",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "中国网球公开赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/06/77Q7JTP3ULRQ.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/06/77Q7K5L356UH.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/9/25/10000000111010617861.jpg",
       "pkInfoTitle": "巴图科娃亮相 安德列娃零封晋级",
       "modifyTitle": "中国网球公开赛女单第四轮、男单决赛：巴图科娃亮相 安德列娃零封晋级",
-      "presenters": "詹俊 郑洁 苏小玎 郭丰庆 鸿昆 蔡凯臣 乔迁",
+      "presenters": "詹俊 郑洁 苏小玎 鸿昆 蔡凯臣 乔迁 郭丰庆",
       "matchInfo": {
         "time": "10月06日11:00"
       },
       "nodes": [
+        {
+          "pID": "967705964",
+          "name": "莲花球场"
+        },
         {
           "pID": "968113948",
           "name": "明星视角"
@@ -315,10 +319,6 @@
         {
           "pID": "968144909",
           "name": "德约科维奇  vs 德米纳尔"
-        },
-        {
-          "pID": "968144861",
-          "name": "穆霍娃 vs 大坂直美"
         },
         {
           "pID": "968052970",
@@ -341,10 +341,6 @@
           "name": "映月球场"
         },
         {
-          "pID": "967705964",
-          "name": "莲花球场"
-        },
-        {
           "pID": "968060157",
           "name": "《中国榜样》中网2026郑钦文"
         },
@@ -363,6 +359,10 @@
         {
           "pID": "968144896",
           "name": "阿伦茨/佩尔 vs J·卡什/格拉斯普尔"
+        },
+        {
+          "pID": "968144861",
+          "name": "穆霍娃 vs 大坂直美"
         }
       ]
     },
@@ -393,6 +393,10 @@
           "name": "张靖松"
         },
         {
+          "pID": "968036506",
+          "name": "3号桌"
+        },
+        {
           "pID": "968036650",
           "name": "热身区"
         },
@@ -419,10 +423,6 @@
         {
           "pID": "968036539",
           "name": "4号桌"
-        },
-        {
-          "pID": "968036506",
-          "name": "3号桌"
         },
         {
           "pID": "968036630",
@@ -521,18 +521,18 @@
       },
       "nodes": [
         {
-          "pID": "968086111",
-          "name": "解说"
+          "pID": "968156260",
+          "name": "全场回放"
         }
       ]
     },
     {
       "mgdbId": "120000595885",
-      "pID": "968144861",
+      "pID": "968144857",
       "title": "2026中国网球公开赛女单第四轮：穆霍娃 vs 大坂直美",
       "keyword": "10月06日15:00",
       "sportItemId": "9",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "中国网球公开赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/05/77Q6NJJB8P96.png",
@@ -545,20 +545,8 @@
       },
       "nodes": [
         {
-          "pID": "968052979",
-          "name": "莲花球场4K"
-        },
-        {
-          "pID": "968060157",
-          "name": "《中国榜样》中网2026郑钦文"
-        },
-        {
-          "pID": "968144861",
-          "name": "郭丰庆"
-        },
-        {
-          "pID": "968144857",
-          "name": "赛场原声"
+          "pID": "968156231",
+          "name": "全场回放（郭丰庆）"
         }
       ]
     },
@@ -571,7 +559,7 @@
       "matchStatus": "2",
       "matchField": "Conson Sports Center Outer Field",
       "competitionName": "中乙",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000592548/202609050332_975289_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000592548/202610061816_982652_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/7/7/1000000011571060f297.png",
       "pkInfoTitle": "青岛红狮 vs 武汉三镇B队",
       "modifyTitle": "中乙保级赛",
@@ -595,7 +583,7 @@
       "matchStatus": "2",
       "matchField": "北京理工大学体育场",
       "competitionName": "中乙",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000592549/202609050341_273179_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000592549/202610061800_669354_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/7/7/1000000011571060f297.png",
       "pkInfoTitle": "北京理工 vs 成都蓉城B队",
       "modifyTitle": "中乙保级赛",
@@ -619,7 +607,7 @@
       "matchStatus": "2",
       "matchField": "东华大学体育场",
       "competitionName": "中乙",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000592550/202609050332_302417_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000592550/202610061800_337523_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/7/7/1000000011571060f297.png",
       "pkInfoTitle": "上海赛更达 vs 温州",
       "modifyTitle": "中乙保级赛",
@@ -712,7 +700,7 @@
       "title": "国际足球赛day7",
       "keyword": "10月06日18:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "贵州村超全国赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/29/77O1I94MFJGO.jpg",
@@ -923,10 +911,6 @@
         {
           "pID": "968144938",
           "name": "赛场原声"
-        },
-        {
-          "pID": "968144956",
-          "name": "解说陪看视角"
         }
       ]
     },
