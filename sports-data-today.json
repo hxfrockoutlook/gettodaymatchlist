@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-08 14:01:12",
+  "updateTime": "2026-10-08 14:31:03",
   "data": [
     {
       "mgdbId": "120000589596",
@@ -174,7 +174,7 @@
         },
         {
           "pID": "968182795",
-          "name": "全场回放（英文原声）"
+          "name": "全场回放（英文原��）"
         },
         {
           "pID": "968178888",
@@ -245,6 +245,10 @@
           "name": "全场回放（姜帆、周赫）"
         },
         {
+          "pID": "968184144",
+          "name": "全场回放（英文原声）（AI字幕）"
+        },
+        {
           "pID": "968181096",
           "name": "第一节"
         },
@@ -271,11 +275,11 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/08/77Q9CV8G0E0K.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/08/77Q9D6APUNVD.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "王曼昱晋级八强 朱思冰3-2蒯曼",
       "modifyTitle": "WTT中国大满贯男女单打1/8决赛及双打1/4决赛、混双半决赛",
-      "presenters": "周雨 侯英超 周冠达 李柯鑫 高文清",
+      "presenters": "周雨 侯英超 周冠达 高文清 李柯鑫",
       "matchInfo": {
         "time": "10月08日10:00"
       },
@@ -285,20 +289,8 @@
           "name": "周雨 侯英超 周冠达"
         },
         {
-          "pID": "968037422",
-          "name": "李柯鑫"
-        },
-        {
           "pID": "968037450",
           "name": "热身区"
-        },
-        {
-          "pID": "968037356",
-          "name": "4号桌"
-        },
-        {
-          "pID": "968037328",
-          "name": "2号桌"
         },
         {
           "pID": "968037307",
@@ -309,20 +301,32 @@
           "name": "智能字幕"
         },
         {
-          "pID": "968024856",
-          "name": "混采区"
-        },
-        {
           "pID": "968037457",
           "name": "候场区"
+        },
+        {
+          "pID": "968024856",
+          "name": "混采区"
         },
         {
           "pID": "968037475",
           "name": "高文清"
         },
         {
+          "pID": "968037422",
+          "name": "李柯鑫"
+        },
+        {
           "pID": "968037342",
           "name": "3号桌"
+        },
+        {
+          "pID": "968037328",
+          "name": "2号桌"
+        },
+        {
+          "pID": "968037356",
+          "name": "4号桌"
         }
       ]
     },
@@ -352,30 +356,22 @@
     },
     {
       "mgdbId": "120000594594",
-      "pID": "968179204",
+      "pID": "967706179",
       "title": "梅尔滕斯/施耐德率先出战",
       "keyword": "10月08日13:00",
       "sportItemId": "9",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "中国网球公开赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/07/77Q8HKE0P8UF.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/08/77Q9D7JJOGBN.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/9/25/10000000111010617861.jpg",
       "pkInfoTitle": "梅尔滕斯/施耐德率先出战",
       "modifyTitle": "中国网球公开赛女双、女单1/4决赛：梅尔滕斯/施耐德率先出战",
-      "presenters": "李宁 宋光振 乔迁 鸿昆 单文强 张文悦 郭丰庆",
+      "presenters": "鸿昆 乔迁 单文强 张文悦 李宁 郭丰庆 宋光振",
       "matchInfo": {
         "time": "10月08日13:00"
       },
       "nodes": [
-        {
-          "pID": "968179204",
-          "name": "梅尔滕斯/施耐德 vs 佩雷斯/斯楚尔斯"
-        },
-        {
-          "pID": "968179201",
-          "name": "梅尔滕斯/施耐德 vs 佩雷斯/斯楚尔斯"
-        },
         {
           "pID": "968113955",
           "name": "明星视角"
@@ -397,12 +393,12 @@
           "name": "中网双冠少女渠依含"
         },
         {
-          "pID": "968179239",
-          "name": "穆霍娃 vs 巴图科娃"
-        },
-        {
           "pID": "968179228",
           "name": "穆霍娃 vs 巴尔通科娃"
+        },
+        {
+          "pID": "968179239",
+          "name": "穆霍娃 vs 巴图科娃"
         },
         {
           "pID": "968179270",
@@ -419,6 +415,14 @@
         {
           "pID": "968179306",
           "name": "埃拉尼/保利尼 vs 达布罗斯基/史蒂芬妮"
+        },
+        {
+          "pID": "968179201",
+          "name": "梅尔滕斯/施耐德 vs 佩雷斯/斯楚尔斯"
+        },
+        {
+          "pID": "968179204",
+          "name": "梅尔滕斯/施耐德 vs 佩雷斯/斯楚尔斯"
         }
       ]
     },
@@ -481,7 +485,7 @@
     {
       "mgdbId": "120000595978",
       "pID": "968179239",
-      "title": "2026中国网球公开赛女单1/4决赛：穆霍娃 vs 巴图科娃",
+      "title": "2026中国网��公开赛女单1/4决赛：穆霍娃 vs 巴图科娃",
       "keyword": "10月08日15:00",
       "sportItemId": "9",
       "matchStatus": "0",
