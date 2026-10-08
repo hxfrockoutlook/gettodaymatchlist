@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-08 09:01:08",
+  "updateTime": "2026-10-08 09:31:00",
   "data": [
     {
       "mgdbId": "120000589596",
@@ -8,7 +8,7 @@
       "title": "NBA季前赛",
       "keyword": "10月08日07:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "James H. Hilton Coliseum",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/07/77Q8I5JPLPDU.jpg",
@@ -21,12 +21,16 @@
       },
       "nodes": [
         {
-          "pID": "968075230",
-          "name": "罗森"
+          "pID": "968178615",
+          "name": "第一节"
         },
         {
-          "pID": "968075253",
-          "name": "英文原声"
+          "pID": "968178708",
+          "name": "第二节"
+        },
+        {
+          "pID": "968178926",
+          "name": "第三节"
         }
       ]
     },
@@ -271,7 +275,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/9/25/10000000111010617861.jpg",
       "pkInfoTitle": "梅尔滕斯/施耐德率先出战",
       "modifyTitle": "中国网球公开赛女双、女单1/4决赛：梅尔滕斯/施耐德率先出战",
-      "presenters": "",
+      "presenters": "宋光振 李宁 郭丰庆 乔迁",
       "matchInfo": {
         "time": "10月08日13:00"
       },
@@ -295,6 +299,22 @@
         {
           "pID": "968138366",
           "name": "中网双冠少女渠依含"
+        },
+        {
+          "pID": "968179201",
+          "name": "宋光振"
+        },
+        {
+          "pID": "968179204",
+          "name": "李宁"
+        },
+        {
+          "pID": "968179299",
+          "name": "郭丰庆"
+        },
+        {
+          "pID": "968179306",
+          "name": "乔迁"
         }
       ]
     },
@@ -307,7 +327,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "BWF",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/08/77Q9F6CIRNMG.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "李诗沣vs胡哲安 翁泓阳PK昆拉武特",
       "modifyTitle": "北极羽毛球公开赛第三日：李诗沣vs胡哲安 翁泓阳PK昆拉武特",
@@ -347,7 +367,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/9/25/10000000111010617861.jpg",
       "pkInfoTitle": "穆霍娃 vs 巴图科娃",
       "modifyTitle": "2026中国网球公开赛女单1/4决赛：穆霍娃 vs 巴图科娃",
-      "presenters": "",
+      "presenters": "鸿昆 乔迁",
       "matchInfo": {
         "time": "10月08日15:00"
       },
@@ -371,6 +391,18 @@
         {
           "pID": "968138366",
           "name": "中网双冠少女渠依含"
+        },
+        {
+          "pID": "968179220",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "968179228",
+          "name": "鸿昆"
+        },
+        {
+          "pID": "968179239",
+          "name": "乔迁"
         }
       ]
     },
@@ -387,7 +419,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/9/25/10000000111010617861.jpg",
       "pkInfoTitle": "亚历山德洛娃 vs 米拉·安德列娃",
       "modifyTitle": "2026中国网球公开赛女单1/4决赛：亚历山德洛娃 vs 米拉·安德列娃",
-      "presenters": "",
+      "presenters": "单文强 张文悦 李宁",
       "matchInfo": {
         "time": "10月08日19:00"
       },
@@ -411,6 +443,18 @@
         {
           "pID": "968138366",
           "name": "中网双冠少女渠依含"
+        },
+        {
+          "pID": "968179258",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "968179270",
+          "name": "单文强 张文悦"
+        },
+        {
+          "pID": "968179274",
+          "name": "李宁"
         }
       ]
     }
