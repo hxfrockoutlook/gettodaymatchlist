@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-09 13:31:46",
+  "updateTime": "2026-10-09 14:01:51",
   "data": [
     {
       "mgdbId": "120000590097",
@@ -221,6 +221,10 @@
           "name": "全场回放（王晓晨）"
         },
         {
+          "pID": "968203004",
+          "name": "全场回放（英文原声）"
+        },
+        {
           "pID": "968198975",
           "name": "第一节"
         },
@@ -348,7 +352,7 @@
     },
     {
       "mgdbId": "120000589624",
-      "pID": "968203486",
+      "pID": "968205619",
       "title": "NBA季前赛",
       "keyword": "10月09日10:30",
       "sportItemId": "2",
@@ -365,6 +369,10 @@
       },
       "nodes": [
         {
+          "pID": "968205619",
+          "name": "全场集锦"
+        },
+        {
           "pID": "968202319",
           "name": "第一节"
         },
@@ -375,19 +383,23 @@
         {
           "pID": "968204317",
           "name": "第三节"
+        },
+        {
+          "pID": "968205502",
+          "name": "第四节"
         }
       ]
     },
     {
       "mgdbId": "120000595142",
-      "pID": "968037624",
+      "pID": "968037595",
       "title": "王曼昱vs申裕斌 温瑞博/袁励岑止步四强",
       "keyword": "10月09日11:00",
       "sportItemId": "7",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/09/77QAD82SIKFT.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/09/77QAA2FHK2FS.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "王曼昱vs申裕斌 温瑞博/袁励岑止步四强",
       "modifyTitle": "WTT中国大满贯混双决赛、男女单打1/4决赛及双打半决赛",
@@ -401,20 +413,12 @@
           "name": "周冠达 侯英超 周雨"
         },
         {
-          "pID": "968037624",
-          "name": "李柯鑫"
-        },
-        {
           "pID": "968037641",
           "name": "热身区"
         },
         {
           "pID": "968037557",
           "name": "1号桌"
-        },
-        {
-          "pID": "968037571",
-          "name": "2号桌"
         },
         {
           "pID": "968054190",
@@ -427,6 +431,14 @@
         {
           "pID": "968037660",
           "name": "候场区"
+        },
+        {
+          "pID": "968037624",
+          "name": "李柯鑫"
+        },
+        {
+          "pID": "968037571",
+          "name": "2号桌"
         }
       ]
     },
@@ -443,11 +455,15 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/9/25/10000000111010617861.jpg",
       "pkInfoTitle": "张帅/西尼亚科娃率先出战",
       "modifyTitle": "中国网球公开赛女单、女双1/4决赛：张帅/西尼亚科娃率先出战",
-      "presenters": "李宁 詹俊 王蔷 宋光振 乔迁 房朕 鸿昆",
+      "presenters": "詹俊 王蔷 李宁 宋光振 乔迁 房朕 鸿昆",
       "matchInfo": {
         "time": "10月09日13:00"
       },
       "nodes": [
+        {
+          "pID": "968200313",
+          "name": "郑钦文 vs  斯维托丽娜(詹俊,王蔷)"
+        },
         {
           "pID": "968200236",
           "name": "西尼亚科娃/张帅🇨🇳 vs 亨特/穆拉德诺维奇"
@@ -471,10 +487,6 @@
         {
           "pID": "968138366",
           "name": "中网双冠少女渠依含"
-        },
-        {
-          "pID": "968200313",
-          "name": "郑钦文 vs  斯维托丽娜(詹俊,王蔷)"
         },
         {
           "pID": "968200364",
@@ -524,7 +536,7 @@
       "title": "超三联赛 三亚大区赛 B档小组赛下午场",
       "keyword": "10月09日14:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "超三联赛",
       "padImg": "",
@@ -688,7 +700,7 @@
       "title": "郑钦文 vs 斯维托丽娜",
       "keyword": "10月09日15:00",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "中国网球公开赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/08/77Q9FGEUJLHI.png",
@@ -1067,6 +1079,10 @@
         {
           "pID": "968169435",
           "name": "赛场原声"
+        },
+        {
+          "pID": "968205910",
+          "name": "李欣 徐阳 程思钦"
         }
       ]
     },
