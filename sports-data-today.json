@@ -1,10 +1,10 @@
 {
   "success": true,
-  "updateTime": "2026-10-09 10:31:33",
+  "updateTime": "2026-10-09 11:01:47",
   "data": [
     {
       "mgdbId": "120000590097",
-      "pID": "968075367",
+      "pID": "968201390",
       "title": "NBA季前赛",
       "keyword": "10月09日07:00",
       "sportItemId": "2",
@@ -20,6 +20,10 @@
         "time": "10月09日07:00"
       },
       "nodes": [
+        {
+          "pID": "968201390",
+          "name": "全场集锦"
+        },
         {
           "pID": "968198706",
           "name": "第一节"
@@ -39,6 +43,10 @@
         {
           "pID": "968200281",
           "name": "全场回放（王冠证）"
+        },
+        {
+          "pID": "968201839",
+          "name": "全场回放"
         }
       ]
     },
@@ -63,6 +71,10 @@
         {
           "pID": "968201249",
           "name": "全场集锦"
+        },
+        {
+          "pID": "968201328",
+          "name": "全场回放（姜帆、周赫）"
         },
         {
           "pID": "968198821",
@@ -145,6 +157,10 @@
           "name": "全场集锦"
         },
         {
+          "pID": "968200924",
+          "name": "全场回放（刘圳展）"
+        },
+        {
           "pID": "968198838",
           "name": "第一节"
         },
@@ -164,7 +180,7 @@
     },
     {
       "mgdbId": "120000590099",
-      "pID": "968199126",
+      "pID": "968201661",
       "title": "NBA季前赛",
       "keyword": "10月09日08:00",
       "sportItemId": "2",
@@ -181,6 +197,10 @@
       },
       "nodes": [
         {
+          "pID": "968201661",
+          "name": "全场集锦"
+        },
+        {
           "pID": "968198975",
           "name": "第一节"
         },
@@ -191,21 +211,29 @@
         {
           "pID": "968200527",
           "name": "第三节"
+        },
+        {
+          "pID": "968201363",
+          "name": "第四节"
+        },
+        {
+          "pID": "968201704",
+          "name": "全场回放（王晓晨）"
         }
       ]
     },
     {
       "mgdbId": "120000595939",
       "pID": "968185740",
-      "title": "UFC巴西柔术大赛第12期：莫拉VS福尔纳里诺",
+      "title": "莫拉加冕BJJ史上首位双冠王",
       "keyword": "10月09日08:00",
       "sportItemId": "5",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "UFC BJJ",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/08/77Q9FQ27KF6C.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/09/77QACO5737LD.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/3/31/1000000013991064d8b5.png",
-      "pkInfoTitle": "UFC巴西柔术大赛第12期：莫拉VS福尔纳里诺",
+      "pkInfoTitle": "莫拉加冕BJJ史上首位双冠王",
       "modifyTitle": "UFC巴西柔术大赛第12期：莫拉VS福尔纳里诺",
       "presenters": "王琰博",
       "matchInfo": {
@@ -213,12 +241,40 @@
       },
       "nodes": [
         {
-          "pID": "968185740",
-          "name": "王琰博"
+          "pID": "968201536",
+          "name": "莫拉VS福尔纳里诺"
         },
         {
-          "pID": "968185767",
-          "name": "英文原声"
+          "pID": "968200786",
+          "name": "卡努托VS克雷林斯滕"
+        },
+        {
+          "pID": "968199871",
+          "name": "伯恩斯VS阿尔梅达"
+        },
+        {
+          "pID": "968199463",
+          "name": "凯利VS维多利亚"
+        },
+        {
+          "pID": "968199211",
+          "name": "埃尔莫尔VS利文斯顿"
+        },
+        {
+          "pID": "968199037",
+          "name": "阿纳斯塔西奥斯VS阿泰德"
+        },
+        {
+          "pID": "968198969",
+          "name": "奥黑尔VS费雷拉"
+        },
+        {
+          "pID": "968198913",
+          "name": "钱德勒VS戈麦斯"
+        },
+        {
+          "pID": "968201760",
+          "name": "UFC巴西柔术大赛第12期全场回放（王琰博）"
         }
       ]
     },
@@ -251,7 +307,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/08/77Q9FJETBLOE.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/09/77QACNFNTGNE.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "第九日热身区",
       "modifyTitle": "WTT中国大满贯第九日热身区",
@@ -300,7 +356,7 @@
     },
     {
       "mgdbId": "120000595142",
-      "pID": "968037595",
+      "pID": "968037624",
       "title": "王曼昱vs申裕斌 温瑞博/袁励岑冲决赛",
       "keyword": "10月09日11:00",
       "sportItemId": "7",
@@ -321,16 +377,12 @@
           "name": "周冠达 侯英超 周雨"
         },
         {
-          "pID": "968037641",
-          "name": "热身区"
-        },
-        {
-          "pID": "968037660",
-          "name": "候场区"
-        },
-        {
           "pID": "968037624",
           "name": "李柯鑫"
+        },
+        {
+          "pID": "968037641",
+          "name": "热身区"
         },
         {
           "pID": "968037557",
@@ -347,6 +399,10 @@
         {
           "pID": "968024911",
           "name": "混采区"
+        },
+        {
+          "pID": "968037660",
+          "name": "候场区"
         }
       ]
     },
@@ -363,7 +419,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/9/25/10000000111010617861.jpg",
       "pkInfoTitle": "张帅/西尼亚科娃率先出战",
       "modifyTitle": "中国网球公开赛女单、女双1/4决赛：张帅/西尼亚科娃率先出战",
-      "presenters": "李宁 房朕 鸿昆 詹俊 王蔷 宋光振 乔迁",
+      "presenters": "李宁 詹俊 王蔷 宋光振 乔迁 房朕 鸿昆",
       "matchInfo": {
         "time": "10月09日13:00"
       },
@@ -393,14 +449,6 @@
           "name": "中网双冠少女渠依含"
         },
         {
-          "pID": "968200425",
-          "name": "谢淑薇/奥斯塔彭科 vs 卢特利芙/苏加迪"
-        },
-        {
-          "pID": "968200439",
-          "name": "谢淑薇/奥斯塔彭科 vs 卢特利芙/苏加迪"
-        },
-        {
           "pID": "968200313",
           "name": "郑钦文 vs  斯维托丽娜(詹俊,王蔷)"
         },
@@ -411,6 +459,14 @@
         {
           "pID": "968200377",
           "name": "梅尔滕斯 vs 斯瓦泰克"
+        },
+        {
+          "pID": "968200425",
+          "name": "谢淑薇/奥斯塔彭科 vs 卢特利芙/苏加迪"
+        },
+        {
+          "pID": "968200439",
+          "name": "谢淑薇/奥斯塔彭科 vs 卢特利芙/苏加迪"
         }
       ]
     },
@@ -591,7 +647,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "凤凰组合、丫邦组合出战 胡哲安PK安东森",
       "modifyTitle": "北极羽毛球公开赛第四日：凤凰组合、丫邦组合出战 胡哲安PK安东森",
-      "presenters": "",
+      "presenters": "鸿昆 轩子博 朱胤丞 孙宁智 杨妮娜",
       "matchInfo": {
         "time": "10月09日15:00"
       },
@@ -611,6 +667,46 @@
         {
           "pID": "968131378",
           "name": "1号场地英文视角"
+        },
+        {
+          "pID": "968201730",
+          "name": "鸿昆"
+        },
+        {
+          "pID": "968201739",
+          "name": "鸿昆"
+        },
+        {
+          "pID": "968201750",
+          "name": "轩子博"
+        },
+        {
+          "pID": "968201756",
+          "name": "轩子博"
+        },
+        {
+          "pID": "968201771",
+          "name": "轩子博"
+        },
+        {
+          "pID": "968201789",
+          "name": "朱胤丞"
+        },
+        {
+          "pID": "968201797",
+          "name": "孙宁智"
+        },
+        {
+          "pID": "968201804",
+          "name": "孙宁智"
+        },
+        {
+          "pID": "968201820",
+          "name": "杨妮娜"
+        },
+        {
+          "pID": "968201833",
+          "name": "杨妮娜"
         }
       ]
     },
@@ -684,7 +780,7 @@
     },
     {
       "mgdbId": "120000596158",
-      "pID": "968053052",
+      "pID": "968200377",
       "title": "梅尔滕斯 vs 斯瓦泰克",
       "keyword": "10月09日19:00",
       "sportItemId": "9",
