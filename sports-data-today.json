@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-09 21:31:40",
+  "updateTime": "2026-10-09 22:01:53",
   "data": [
     {
       "mgdbId": "120000590097",
@@ -741,7 +741,7 @@
       "keyword": "10月09日15:00",
       "sportItemId": "2",
       "matchStatus": "2",
-      "matchField": "高县翰笙文体中心",
+      "matchField": "高县翰笙文���中心",
       "competitionName": "CBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/08/77Q9EAQ8CNL5.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png",
@@ -864,29 +864,25 @@
     },
     {
       "mgdbId": "120000595835",
-      "pID": "968201833",
+      "pID": "968201771",
       "title": "凤凰组合、丫邦组合晋级 胡哲安PK安东森",
       "keyword": "10月09日18:00",
       "sportItemId": "6",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "BWF",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/09/77QAC4S1VJPM.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/09/77QACDQ86BLS.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "凤凰组合、丫邦组合晋级 胡哲安PK安东森",
       "modifyTitle": "北极羽毛球公开赛第四日：凤凰组合、丫邦组合晋级 胡哲安PK安东森",
-      "presenters": "杨妮娜 轩子博 鸿昆 孙宁智 朱胤丞",
+      "presenters": "轩子博 鸿昆 孙宁智 朱胤丞",
       "matchInfo": {
         "time": "10月09日18:00"
       },
       "nodes": [
         {
-          "pID": "968201833",
-          "name": "罗意/王汀戈VS许雅晴/宋祐媗"
-        },
-        {
-          "pID": "968201756",
-          "name": "米娅VS韩悦"
+          "pID": "968201771",
+          "name": "胡哲安VS安东森"
         },
         {
           "pID": "968131350",
@@ -950,7 +946,11 @@
         },
         {
           "pID": "968217389",
-          "name": "2026超三联赛三亚大区赛B档小组赛回放：湖北江鲟21:18广东悦跑豹猫"
+          "name": "【回放】湖北江鲟21:18广东悦跑豹猫"
+        },
+        {
+          "pID": "968218645",
+          "name": "2026超三联赛三亚大区赛B档小组赛晚间场全场回放（赛场原声）"
         }
       ]
     },
@@ -973,12 +973,12 @@
       },
       "nodes": [
         {
-          "pID": "968200377",
-          "name": "乔迁"
+          "pID": "968217598",
+          "name": "【回放】梅尔滕斯2-0斯瓦泰克（乔迁）"
         },
         {
-          "pID": "968200364",
-          "name": "宋光振"
+          "pID": "968217600",
+          "name": "【回放】梅尔滕斯2-0斯瓦泰克（宋光振）"
         }
       ]
     },
@@ -1050,6 +1050,10 @@
           "name": "全场集锦"
         },
         {
+          "pID": "968217964",
+          "name": "全场精华"
+        },
+        {
           "pID": "968214580",
           "name": "第一节"
         },
@@ -1060,12 +1064,16 @@
         {
           "pID": "968216148",
           "name": "第三节"
+        },
+        {
+          "pID": "968217277",
+          "name": "第四节"
         }
       ]
     },
     {
       "mgdbId": "120000592366",
-      "pID": "968214678",
+      "pID": "968218293",
       "title": "CBA季前赛",
       "keyword": "10月09日19:30",
       "sportItemId": "2",
@@ -1082,6 +1090,10 @@
       },
       "nodes": [
         {
+          "pID": "968218293",
+          "name": "全场集锦"
+        },
+        {
           "pID": "968214678",
           "name": "第一节"
         },
@@ -1092,6 +1104,10 @@
         {
           "pID": "968216671",
           "name": "第三节"
+        },
+        {
+          "pID": "968217789",
+          "name": "第四节"
         }
       ]
     },
@@ -1122,10 +1138,6 @@
           "name": "同看NBA中国赛"
         },
         {
-          "pID": "968193000",
-          "name": "同看广东vs山东"
-        },
-        {
           "pID": "968192303",
           "name": "赛场原声"
         }
@@ -1133,7 +1145,7 @@
     },
     {
       "mgdbId": "120000592368",
-      "pID": "968214219",
+      "pID": "968216490",
       "title": "CBA季前赛",
       "keyword": "10月09日19:30",
       "sportItemId": "2",
@@ -1150,6 +1162,18 @@
       },
       "nodes": [
         {
+          "pID": "968216490",
+          "name": "全场集锦"
+        },
+        {
+          "pID": "968218085",
+          "name": "全场精华"
+        },
+        {
+          "pID": "968218497",
+          "name": "全场回放（邵化谦）"
+        },
+        {
           "pID": "968214738",
           "name": "第一节"
         },
@@ -1160,12 +1184,16 @@
         {
           "pID": "968217014",
           "name": "第三节"
+        },
+        {
+          "pID": "968217919",
+          "name": "第四节"
         }
       ]
     },
     {
       "mgdbId": "120000592369",
-      "pID": "968215581",
+      "pID": "968215359",
       "title": "CBA季前赛",
       "keyword": "10月09日19:30",
       "sportItemId": "2",
@@ -1182,6 +1210,18 @@
       },
       "nodes": [
         {
+          "pID": "968215359",
+          "name": "全场集锦"
+        },
+        {
+          "pID": "968217989",
+          "name": "全场精华"
+        },
+        {
+          "pID": "968218754",
+          "name": "全场回放（刘圳展）"
+        },
+        {
           "pID": "968214672",
           "name": "第一节"
         },
@@ -1192,22 +1232,26 @@
         {
           "pID": "968216793",
           "name": "第三节"
+        },
+        {
+          "pID": "968217845",
+          "name": "第四节"
         }
       ]
     },
     {
       "mgdbId": "120000595267",
       "pID": "967998520",
-      "title": "衢州VS海宁",
+      "title": "衢州78-85海宁",
       "keyword": "10月09日19:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "浙BA",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/02/77N92ACGBBVQ.png",
-      "pkInfoTitle": "衢州VS海宁",
-      "modifyTitle": "衢州VS海宁",
+      "pkInfoTitle": "衢州78-85海宁",
+      "modifyTitle": "衢州78-85海宁",
       "presenters": "",
       "matchInfo": {
         "time": "10月09日19:30"
@@ -1225,10 +1269,10 @@
       "title": "中超联赛",
       "keyword": "10月09日19:35",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "青岛青春足球场",
       "competitionName": "中超",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000569605/677895_H169_sc.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000569605/530194_H169_sc.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png",
       "pkInfoTitle": "青岛海牛 vs 北京国安",
       "modifyTitle": "中超联赛",
@@ -1238,12 +1282,8 @@
       },
       "nodes": [
         {
-          "pID": "968169454",
-          "name": "李欣 徐阳 程思钦"
-        },
-        {
-          "pID": "968169435",
-          "name": "赛场原声"
+          "pID": "968218862",
+          "name": "全场集锦"
         }
       ]
     },
@@ -1253,10 +1293,10 @@
       "title": "中超联赛",
       "keyword": "10月09日19:35",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "深圳市体育场",
       "competitionName": "中超",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000569609/106886_H169_sc.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000569609/506134_H169_sc.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png",
       "pkInfoTitle": "深圳新鹏城 vs 河南",
       "modifyTitle": "中超联赛",
@@ -1266,16 +1306,8 @@
       },
       "nodes": [
         {
-          "pID": "968169412",
-          "name": "刘腾 冯潇霆"
-        },
-        {
-          "pID": "968169403",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "968183045",
-          "name": "智能解说"
+          "pID": "968218011",
+          "name": "全场集锦"
         }
       ]
     },
@@ -1285,7 +1317,7 @@
       "title": "湘超",
       "keyword": "10月09日19:38",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "湘超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000595277/202609281031_587344_H169_1080.webp",
@@ -1309,7 +1341,7 @@
       "title": "湘超",
       "keyword": "10月09日19:38",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "湘超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000595278/202609281031_485123_H169_1080.webp",
@@ -1390,14 +1422,6 @@
           "name": "孙博 曾令旭 裴优"
         },
         {
-          "pID": "968192905",
-          "name": "同看上海vs辽宁"
-        },
-        {
-          "pID": "968193000",
-          "name": "同看广东vs山东"
-        },
-        {
           "pID": "968075248",
           "name": "英文原声"
         },
@@ -1413,7 +1437,7 @@
       "title": "罗马站GCL团体赛",
       "keyword": "10月09日20:25",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "浪琴环球马术冠军赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/09/77QAA07DR3DL.jpg",
