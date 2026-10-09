@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-09 22:01:53",
+  "updateTime": "2026-10-09 22:31:44",
   "data": [
     {
       "mgdbId": "120000590097",
@@ -741,7 +741,7 @@
       "keyword": "10月09日15:00",
       "sportItemId": "2",
       "matchStatus": "2",
-      "matchField": "高县翰笙文���中心",
+      "matchField": "高县翰笙���体中心",
       "competitionName": "CBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/08/77Q9EAQ8CNL5.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png",
@@ -827,7 +827,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/09/77QAC5QNS1TR.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/09/77QACK4ELD2F.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "王曼昱一日双赛皆胜 周启豪晋级",
       "modifyTitle": "WTT中国大满贯混双决赛、男女单打1/4决赛及双打半决赛",
@@ -916,7 +916,7 @@
     },
     {
       "mgdbId": "120000596150",
-      "pID": "968213558",
+      "pID": "968218645",
       "title": "超三联赛 三亚大区赛 B档小组赛晚间场",
       "keyword": "10月09日19:00",
       "sportItemId": "2",
@@ -933,6 +933,10 @@
       },
       "nodes": [
         {
+          "pID": "968218645",
+          "name": "全场回放（赛场原声）"
+        },
+        {
           "pID": "968213558",
           "name": "【回放】广东悦跑豹猫19:21江苏香江猛虎"
         },
@@ -947,10 +951,6 @@
         {
           "pID": "968217389",
           "name": "【回放】湖北江鲟21:18广东悦跑豹猫"
-        },
-        {
-          "pID": "968218645",
-          "name": "2026超三联赛三亚大区赛B档小组赛晚间场全场回放（赛场原声）"
         }
       ]
     },
@@ -1094,6 +1094,10 @@
           "name": "全场集锦"
         },
         {
+          "pID": "968218847",
+          "name": "全场精华"
+        },
+        {
           "pID": "968214678",
           "name": "第一节"
         },
@@ -1117,7 +1121,7 @@
       "title": "CBA季前赛",
       "keyword": "10月09日19:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "高县翰笙文体中心",
       "competitionName": "CBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/08/77Q9E4V74KHD.png",
@@ -1130,16 +1134,40 @@
       },
       "nodes": [
         {
-          "pID": "968192905",
-          "name": "李天宇"
+          "pID": "968215220",
+          "name": "全场集锦"
         },
         {
-          "pID": "968100830",
-          "name": "同看NBA中国赛"
+          "pID": "968219339",
+          "name": "全场精华"
         },
         {
-          "pID": "968192303",
-          "name": "赛场原声"
+          "pID": "968214227",
+          "name": "第一节"
+        },
+        {
+          "pID": "968215114",
+          "name": "第二节"
+        },
+        {
+          "pID": "968216248",
+          "name": "第三节"
+        },
+        {
+          "pID": "968217831",
+          "name": "第四节"
+        },
+        {
+          "pID": "968218557",
+          "name": "加时1"
+        },
+        {
+          "pID": "968218995",
+          "name": "加时2"
+        },
+        {
+          "pID": "968219826",
+          "name": "全场回放（李天宇）"
         }
       ]
     },
@@ -1284,6 +1312,10 @@
         {
           "pID": "968218862",
           "name": "全场集锦"
+        },
+        {
+          "pID": "968219226",
+          "name": "全场回放（李欣、徐阳、程思钦）"
         }
       ]
     },
@@ -1296,7 +1328,7 @@
       "matchStatus": "2",
       "matchField": "深圳市体育场",
       "competitionName": "中超",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000569609/506134_H169_sc.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000569609/438934_H169_sc.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png",
       "pkInfoTitle": "深圳新鹏城 vs 河南",
       "modifyTitle": "中超联赛",
@@ -1308,6 +1340,14 @@
         {
           "pID": "968218011",
           "name": "全场集锦"
+        },
+        {
+          "pID": "968219023",
+          "name": "全场回放（刘腾、冯潇霆）"
+        },
+        {
+          "pID": "968218935",
+          "name": "全场回放（AI智慧观赛）"
         }
       ]
     },
@@ -1365,10 +1405,10 @@
       "title": "中超联赛",
       "keyword": "10月09日20:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "黄龙体育中心体育场",
       "competitionName": "中超",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000569608/898667_H169_sc.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000569608/198722_H169_sc.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png",
       "pkInfoTitle": "浙江 vs 上海海港",
       "modifyTitle": "中超联赛",
@@ -1492,27 +1532,6 @@
       ]
     },
     {
-      "mgdbId": "300000002436",
-      "pID": "968190850",
-      "title": "篮球公园丨 正青春——记CUBAL全明星之夜",
-      "sportItemId": "2",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "CBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/08/77Q9E577SCCM.webp",
-      "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/01/02/770HDE6N6HQ1.png",
-      "pkInfoTitle": "篮球公园丨 正青春——记CUBAL全明星之夜",
-      "modifyTitle": "篮球公园丨 正青春——记CUBAL全明星之夜",
-      "presenters": "",
-      "matchInfo": {},
-      "nodes": [
-        {
-          "pID": "968190850",
-          "name": "篮球公园"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000596143",
       "pID": "968188394",
       "title": "世界跆拳道大奖赛巴黎站第一日",
@@ -1535,6 +1554,25 @@
           "name": "解说"
         }
       ]
+    },
+    {
+      "mgdbId": "300000002436",
+      "pID": "300000002436",
+      "title": "篮球公园丨 正青春——记CUBAL全明星之夜",
+      "keyword": "10月09日22:05",
+      "sportItemId": "",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "CBA",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2026/10/08/11005/c500558aa4f041d392e01e2ebe7e2332/c500558aa4f041d392e01e2ebe7e2332_H169_P1080_WEBP.webp",
+      "competitionLogo": "",
+      "pkInfoTitle": "篮球公园丨 正青春——记CUBAL全明星之夜",
+      "modifyTitle": "篮球公园丨 正青春——记CUBAL全明星之夜",
+      "presenters": "",
+      "matchInfo": {
+        "time": "10月09日22:05"
+      },
+      "nodes": []
     }
   ]
 }
