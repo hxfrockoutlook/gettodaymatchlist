@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-10 13:02:13",
+  "updateTime": "2026-10-10 13:32:52",
   "data": [
     {
       "mgdbId": "120000588192",
@@ -104,7 +104,7 @@
       "title": "铁人中国T51.5鄂州梁子湖公开赛",
       "keyword": "10月10日07:30",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "铁人三项系列赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/09/77QACOGCJ3I8.png",
@@ -191,30 +191,6 @@
       ]
     },
     {
-      "mgdbId": "120000595565",
-      "pID": "968073052",
-      "title": "UCI BMX竞速世界杯崇礼站",
-      "keyword": "10月10日10:10",
-      "sportItemId": "8",
-      "matchStatus": "2",
-      "matchField": "",
-      "competitionName": "中国自行车运动协会系列赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/09/77QACU1O5DJ8.png",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/6/25/100000001499106b6db1.png",
-      "pkInfoTitle": "UCI BMX竞速世界杯崇礼站",
-      "modifyTitle": "UCI BMX竞速世界杯崇礼站",
-      "presenters": "",
-      "matchInfo": {
-        "time": "10月10日10:10"
-      },
-      "nodes": [
-        {
-          "pID": "968073052",
-          "name": "解说"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000595447",
       "pID": "968037772",
       "title": "第十日热身区",
@@ -241,15 +217,15 @@
     {
       "mgdbId": "120000595143",
       "pID": "968037735",
-      "title": "争冠！王曼昱/蒯曼PK日乒 陈幸同冲决赛",
+      "title": "王曼昱/蒯曼问鼎女双 陈幸同冲决赛",
       "keyword": "10月10日12:00",
       "sportItemId": "7",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/10/77QBAE7BMF52.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/10/77QB73FVJA8S.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "争冠！王曼昱/蒯曼PK日乒 陈幸同冲决赛",
+      "pkInfoTitle": "王曼昱/蒯曼问鼎女双 陈幸同冲决赛",
       "modifyTitle": "WTT中国大满贯男女双打决赛、女单半决赛、男单1/4决赛",
       "presenters": "周雨 周冠达 程靖淇",
       "matchInfo": {
@@ -279,12 +255,16 @@
         {
           "pID": "968037787",
           "name": "候场区"
+        },
+        {
+          "pID": "968054178",
+          "name": "智能��幕"
         }
       ]
     },
     {
       "mgdbId": "120000594596",
-      "pID": "967706388",
+      "pID": "968229461",
       "title": "张帅组合冲女双决赛门票",
       "keyword": "10月10日13:00",
       "sportItemId": "9",
@@ -301,8 +281,16 @@
       },
       "nodes": [
         {
+          "pID": "968229461",
+          "name": "西尼亚科娃/张帅 vs 卢特利芙/苏加迪"
+        },
+        {
           "pID": "968113965",
           "name": "明星视角"
+        },
+        {
+          "pID": "968144948",
+          "name": "3D全真视频"
         },
         {
           "pID": "968053246",
@@ -313,16 +301,8 @@
           "name": "钻石球场"
         },
         {
-          "pID": "968144948",
-          "name": "3D全真视频"
-        },
-        {
           "pID": "968138366",
           "name": "中网双冠少女渠依含"
-        },
-        {
-          "pID": "968229461",
-          "name": "西尼亚科娃/张帅 vs 卢特利芙/苏加迪"
         },
         {
           "pID": "968229692",
@@ -819,7 +799,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/9/25/10000000111010617861.jpg",
       "pkInfoTitle": "郑钦文 vs 梅尔滕斯",
       "modifyTitle": "郑钦文 vs 梅尔滕斯",
-      "presenters": "��文强 王蔷 陆柯燃",
+      "presenters": "单文强 王蔷 陆柯燃",
       "matchInfo": {
         "time": "10月10日19:00"
       },
