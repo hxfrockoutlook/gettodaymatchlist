@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-10 16:02:12",
+  "updateTime": "2026-10-10 16:31:53",
   "data": [
     {
       "mgdbId": "120000588192",
@@ -227,26 +227,26 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "王曼昱/蒯曼问鼎女双 陈幸同冲决赛",
       "modifyTitle": "WTT中国大满贯男女双打决赛、女单半决赛、男单1/4决赛",
-      "presenters": "徐晨皓 郭健 常新宇",
+      "presenters": "周冠达 侯英超 程靖淇",
       "matchInfo": {
         "time": "10月10日12:00"
       },
       "nodes": [
         {
           "pID": "968037735",
-          "name": "徐晨皓 郭健 常新宇"
+          "name": "周冠达 侯英超 程靖淇"
         },
         {
           "pID": "968037772",
           "name": "热身区"
         },
         {
-          "pID": "968024967",
-          "name": "混采区"
-        },
-        {
           "pID": "968037787",
           "name": "候场区"
+        },
+        {
+          "pID": "968024967",
+          "name": "混采区"
         }
       ]
     },
@@ -271,6 +271,10 @@
         {
           "pID": "968234606",
           "name": "郑钦文中网晋级之路"
+        },
+        {
+          "pID": "967951982",
+          "name": "单边"
         },
         {
           "pID": "968229495",
@@ -365,8 +369,8 @@
       },
       "nodes": [
         {
-          "pID": "968201656",
-          "name": "解说"
+          "pID": "968242451",
+          "name": "2026环崇明岛女子世巡赛Day2全场回放（官方解说）"
         }
       ]
     },
@@ -529,6 +533,10 @@
       },
       "nodes": [
         {
+          "pID": "967951982",
+          "name": "单边"
+        },
+        {
           "pID": "968229495",
           "name": "李宁 张浩"
         },
@@ -638,7 +646,7 @@
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/10/77QB7N1CCGMI.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "郑宇伯党金虎斯诺克900赛场首秀",
-      "modifyTitle": "斯诺克斯诺克900",
+      "modifyTitle": "斯诺克900长沙站64进32：郑宇伯党金虎斯诺克900赛场首秀",
       "presenters": "",
       "matchInfo": {
         "time": "10月10日16:00"
@@ -684,7 +692,7 @@
       "title": "罗马站GCL团体赛",
       "keyword": "10月10日16:10",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "浪琴环球马术冠军赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/10/77QB7GMSHERT.jpg",
@@ -731,6 +739,30 @@
         {
           "pID": "967816052",
           "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000595943",
+      "pID": "968169362",
+      "title": "费城76人 vs 布鲁克林篮网",
+      "keyword": "10月10日18:00",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "NBA经典赛事",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png",
+      "pkInfoTitle": "费城76人 vs 布鲁克林篮网",
+      "modifyTitle": "NBA经典赛事",
+      "presenters": "姜帆 周赫",
+      "matchInfo": {
+        "time": "10月10日18:00"
+      },
+      "nodes": [
+        {
+          "pID": "968169362",
+          "name": "姜帆 周赫"
         }
       ]
     },
@@ -915,10 +947,6 @@
         {
           "pID": "968229515",
           "name": "赛场原声"
-        },
-        {
-          "pID": "968138366",
-          "name": "中网双冠少女渠依含"
         }
       ]
     },
