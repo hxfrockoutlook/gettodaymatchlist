@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-10 19:03:01",
+  "updateTime": "2026-10-10 19:32:32",
   "data": [
     {
       "mgdbId": "120000588192",
@@ -199,7 +199,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/10/77QB8D6CRDBJ.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/10/77QB8QUJJBGH.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "第十日热身区",
       "modifyTitle": "WTT中国大满贯第十日热身区",
@@ -217,15 +217,15 @@
     {
       "mgdbId": "120000595143",
       "pID": "968037735",
-      "title": "王曼昱冲女单决赛 双曼组合问鼎女双",
+      "title": "王曼昱晋级女单决赛 双曼组合问鼎女双",
       "keyword": "10月10日12:00",
       "sportItemId": "7",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/10/77QB8I7GCC9D.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/10/77QB8R59A1MM.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "王曼昱冲女单决赛 双曼组合问鼎女双",
+      "pkInfoTitle": "王曼昱晋级女单决赛 双曼组合问鼎女双",
       "modifyTitle": "WTT中国大满贯男女双打决赛、女单半决赛、男单1/4决赛",
       "presenters": "周冠达 侯英超 程靖淇",
       "matchInfo": {
@@ -241,20 +241,16 @@
           "name": "热身区"
         },
         {
+          "pID": "968024967",
+          "name": "混采区"
+        },
+        {
           "pID": "968037691",
           "name": "赛场原声"
         },
         {
           "pID": "968054178",
           "name": "智能字幕"
-        },
-        {
-          "pID": "968024967",
-          "name": "混采区"
-        },
-        {
-          "pID": "968037787",
-          "name": "候场区"
         }
       ]
     },
@@ -336,7 +332,7 @@
     },
     {
       "mgdbId": "120000596151",
-      "pID": "968236011",
+      "pID": "968245593",
       "title": "超三联赛 三亚大区赛 A档小组赛",
       "keyword": "10月10日13:00",
       "sportItemId": "2",
@@ -352,6 +348,10 @@
         "time": "10月10日13:00"
       },
       "nodes": [
+        {
+          "pID": "968245593",
+          "name": "全场回放（周钰波、薛思佳）"
+        },
         {
           "pID": "968236011",
           "name": "【回放】深圳龙华启航19:17成都合众"
@@ -399,10 +399,6 @@
         {
           "pID": "968245318",
           "name": "【回放】南昌凯锆商贸18:21贵州贵阳丝恋"
-        },
-        {
-          "pID": "968245593",
-          "name": "2026超三联赛三亚大区赛A档小组赛下午场全场回放（周钰波、薛思佳）"
         }
       ]
     },
@@ -461,6 +457,10 @@
           "name": "全场回放（王冠证）"
         },
         {
+          "pID": "968246207",
+          "name": "全场回放（赛场原声）"
+        },
+        {
           "pID": "968240658",
           "name": "第一节"
         },
@@ -475,10 +475,6 @@
         {
           "pID": "968244077",
           "name": "第四节"
-        },
-        {
-          "pID": "968246207",
-          "name": "全场回放"
         }
       ]
     },
@@ -513,6 +509,10 @@
           "name": "全场回放（姜帆）"
         },
         {
+          "pID": "968246227",
+          "name": "全场回放（赛场原声）"
+        },
+        {
           "pID": "968240330",
           "name": "第一节"
         },
@@ -527,10 +527,6 @@
         {
           "pID": "968243777",
           "name": "第四节"
-        },
-        {
-          "pID": "968246227",
-          "name": "全场回放"
         }
       ]
     },
@@ -561,6 +557,10 @@
           "name": "全场回放（邵化谦）"
         },
         {
+          "pID": "968246426",
+          "name": "全场回放（赛场原声）"
+        },
+        {
           "pID": "968244496",
           "name": "全场精华"
         },
@@ -579,10 +579,6 @@
         {
           "pID": "968244403",
           "name": "第四节"
-        },
-        {
-          "pID": "968246426",
-          "name": "全场回放"
         }
       ]
     },
@@ -669,6 +665,10 @@
           "name": "全场回放（石楷文）"
         },
         {
+          "pID": "968246218",
+          "name": "全场回放（赛场原声）"
+        },
+        {
           "pID": "968240417",
           "name": "第一节"
         },
@@ -683,10 +683,6 @@
         {
           "pID": "968243966",
           "name": "第四节"
-        },
-        {
-          "pID": "968246218",
-          "name": "全场回放"
         }
       ]
     },
@@ -720,7 +716,7 @@
     },
     {
       "mgdbId": "120000595607",
-      "pID": "968245464",
+      "pID": "968245963",
       "title": "NBA中国赛球迷日",
       "keyword": "10月10日16:00",
       "sportItemId": "2",
@@ -738,7 +734,7 @@
       "nodes": [
         {
           "pID": "968245963",
-          "name": "2026NBA中国赛球迷日全场回放（连睿）（50帧原画）"
+          "name": "全场回放（连睿）"
         }
       ]
     },
@@ -848,7 +844,7 @@
       "title": "罗马站GCL团体赛",
       "keyword": "10月10日16:10",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "浪琴环球马术冠军赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/10/77QB7GMSHERT.jpg",
@@ -1112,7 +1108,7 @@
       "title": "吕梁市VS晋中市",
       "keyword": "10月10日19:20",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "晋超联赛",
       "padImg": "",
@@ -1136,7 +1132,7 @@
       "title": "中甲联赛",
       "keyword": "10月10日19:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "五华奥体中心惠堂体育场",
       "competitionName": "中甲",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000570545/202603010037_763576_H169_1080.webp",
@@ -1212,7 +1208,7 @@
       "title": "CBA季前赛",
       "keyword": "10月10日19:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "中南大学体育馆",
       "competitionName": "CBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/09/77QABDUU7EL7.jpg",
@@ -1240,7 +1236,7 @@
       "title": "CBA季前赛",
       "keyword": "10月10日19:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "汕头体育中心体育馆",
       "competitionName": "CBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/09/77QABE1B6LJ3.jpg",
@@ -1268,7 +1264,7 @@
       "title": "CBA季前赛",
       "keyword": "10月10日19:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "吉安市体育馆",
       "competitionName": "CBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/09/77QACVAB1A6B.jpg",
@@ -1296,7 +1292,7 @@
       "title": "CBA季前赛",
       "keyword": "10月10日19:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "高县翰笙文体中心",
       "competitionName": "CBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/10/77QB8MD41531.jpg",
@@ -1324,7 +1320,7 @@
       "title": "CBA季前赛",
       "keyword": "10月10日19:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "新昌小球中心",
       "competitionName": "CBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/09/77QAADQPV0AQ.png",
@@ -1352,7 +1348,7 @@
       "title": "安吉VS桐乡",
       "keyword": "10月10日19:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "浙BA",
       "padImg": "",
@@ -1376,7 +1372,7 @@
       "title": "江山VS台州",
       "keyword": "10月10日19:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "浙BA",
       "padImg": "",
@@ -1867,6 +1863,10 @@
         {
           "pID": "968170709",
           "name": "英文原声"
+        },
+        {
+          "pID": "968170723",
+          "name": "���场原声"
         }
       ]
     },
