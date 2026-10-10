@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-10 10:02:04",
+  "updateTime": "2026-10-10 10:31:59",
   "data": [
     {
       "mgdbId": "120000588192",
@@ -35,10 +35,6 @@
         {
           "pID": "968227662",
           "name": "全场回放（AI智慧观赛）"
-        },
-        {
-          "pID": "968227686",
-          "name": "全场回放（AI智能字幕）"
         }
       ]
     },
@@ -184,7 +180,7 @@
       "title": "UCI BMX竞速世界杯崇礼站",
       "keyword": "10月10日10:10",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "中国自行车运动协会系列赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/09/77QACU1O5DJ8.png",
@@ -267,10 +263,6 @@
         {
           "pID": "968054178",
           "name": "智能字幕"
-        },
-        {
-          "pID": "968054068",
-          "name": "智能解说"
         }
       ]
     },
@@ -287,7 +279,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/9/25/10000000111010617861.jpg",
       "pkInfoTitle": "张帅组合冲女双决赛门票",
       "modifyTitle": "中国网球公开赛女双、女单半决赛：张帅组合冲女双决赛门票",
-      "presenters": "鸿昆 宋光振 房朕",
+      "presenters": "鸿昆 宋光振 房朕 李宁 张浩 单文强 王蔷 陆柯燃",
       "matchInfo": {
         "time": "10月10日13:00"
       },
@@ -323,6 +315,14 @@
         {
           "pID": "968229708",
           "name": "梅尔滕斯/施耐德 vs 达布罗斯基/史蒂芬妮"
+        },
+        {
+          "pID": "968229495",
+          "name": "安德列娃 vs 巴尔通科娃"
+        },
+        {
+          "pID": "968229549",
+          "name": "郑钦文 vs  梅尔滕斯"
         }
       ]
     },
@@ -557,12 +557,12 @@
           "name": "《中国榜样》中网2026郑钦文：美网“涅槃重生”展现心路历程 我的实力足以打败任何人"
         },
         {
-          "pID": "968229482",
-          "name": "赛场原声"
-        },
-        {
           "pID": "968229495",
           "name": "李宁 张浩"
+        },
+        {
+          "pID": "968229482",
+          "name": "赛场原声"
         }
       ]
     },
@@ -842,7 +842,7 @@
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/6/17/100000001493106c8171.png",
       "pkInfoTitle": "吕梁市VS晋中市",
-      "modifyTitle": "晋超联赛第三阶段",
+      "modifyTitle": "吕梁市VS晋中市",
       "presenters": "",
       "matchInfo": {
         "time": "10月10日19:20"
