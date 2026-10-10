@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-10 11:02:04",
+  "updateTime": "2026-10-10 11:32:01",
   "data": [
     {
       "mgdbId": "120000588192",
@@ -124,7 +124,7 @@
     },
     {
       "mgdbId": "120000589605",
-      "pID": "968232150",
+      "pID": "968232621",
       "title": "NBA季前赛",
       "keyword": "10月10日08:00",
       "sportItemId": "2",
@@ -140,6 +140,14 @@
         "time": "10月10日08:00"
       },
       "nodes": [
+        {
+          "pID": "968232621",
+          "name": "全场集锦"
+        },
+        {
+          "pID": "968232790",
+          "name": "全场回放（李嘉伟）"
+        },
         {
           "pID": "968228774",
           "name": "第一节"
@@ -597,7 +605,7 @@
     {
       "mgdbId": "120000595836",
       "pID": "968131386",
-      "title": "北极羽毛球公开赛第五日",
+      "title": "国羽混双德比！凤凰PK丫邦",
       "keyword": "10月10日16:00",
       "sportItemId": "6",
       "matchStatus": "0",
@@ -605,8 +613,8 @@
       "competitionName": "BWF",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
-      "pkInfoTitle": "北极羽毛球公开赛第五日",
-      "modifyTitle": "北极羽毛球公开赛第五日",
+      "pkInfoTitle": "国羽混双德比！凤凰PK丫邦",
+      "modifyTitle": "北极羽毛球公开赛第五日：国羽混双德比！凤凰PK丫邦",
       "presenters": "鸿昆 朱胤丞 轩子博",
       "matchInfo": {
         "time": "10月10日16:00"
@@ -614,10 +622,6 @@
       "nodes": [
         {
           "pID": "968131386",
-          "name": "1号场地"
-        },
-        {
-          "pID": "968131392",
           "name": "1号场地"
         },
         {
