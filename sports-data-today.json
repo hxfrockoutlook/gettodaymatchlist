@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-10 12:32:37",
+  "updateTime": "2026-10-10 13:02:13",
   "data": [
     {
       "mgdbId": "120000588192",
@@ -149,6 +149,10 @@
           "name": "全场回放（李嘉伟）"
         },
         {
+          "pID": "968234243",
+          "name": "全场回放（英文原声）"
+        },
+        {
           "pID": "968228774",
           "name": "第一节"
         },
@@ -163,10 +167,6 @@
         {
           "pID": "968232225",
           "name": "第四节"
-        },
-        {
-          "pID": "968234243",
-          "name": "全场回放"
         }
       ]
     },
@@ -196,7 +196,7 @@
       "title": "UCI BMX竞速世界杯崇礼站",
       "keyword": "10月10日10:10",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "中国自行车运动协会系列赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/09/77QACU1O5DJ8.png",
@@ -247,7 +247,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/09/77QABQ8J7HHP.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/10/77QBAE7BMF52.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "争冠！王曼昱/蒯曼PK日乒 陈幸同冲决赛",
       "modifyTitle": "WTT中国大满贯男女双打决赛、女单半决赛、男单1/4决赛",
@@ -279,10 +279,6 @@
         {
           "pID": "968037787",
           "name": "候场区"
-        },
-        {
-          "pID": "968054178",
-          "name": "智能字��"
         }
       ]
     },
@@ -292,7 +288,7 @@
       "title": "张帅组合冲女双决赛门票",
       "keyword": "10月10日13:00",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "中国网球公开赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/09/77QACVJ4B42M.png",
@@ -352,7 +348,7 @@
       "title": "超三联赛 三亚大区赛 A档小组赛",
       "keyword": "10月10日13:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "超三联赛",
       "padImg": "",
@@ -376,7 +372,7 @@
       "title": "环崇明岛女子世巡赛",
       "keyword": "10月10日13:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "中国自行车运动协会系列赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/09/77QACV2HS4L0.png",
@@ -823,7 +819,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/9/25/10000000111010617861.jpg",
       "pkInfoTitle": "郑钦文 vs 梅尔滕斯",
       "modifyTitle": "郑钦文 vs 梅尔滕斯",
-      "presenters": "单文强 王蔷 陆柯燃",
+      "presenters": "��文强 王蔷 陆柯燃",
       "matchInfo": {
         "time": "10月10日19:00"
       },
@@ -1706,6 +1702,34 @@
         },
         {
           "pID": "968170288",
+          "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000584847",
+      "pID": "120000584847",
+      "title": "国际米兰 vs 帕尔马",
+      "keyword": "10月10日23:30",
+      "sportItemId": "",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "意甲",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/07/17/11005/8d73ebca565d491eb1ae6328e709f39e/8d73ebca565d491eb1ae6328e709f39e_H169_P1080_WEBP.webp",
+      "competitionLogo": "",
+      "pkInfoTitle": "国际米兰 vs 帕尔马",
+      "modifyTitle": "国际米兰 vs 帕尔马",
+      "presenters": "",
+      "matchInfo": {
+        "time": "10月10日23:30"
+      },
+      "nodes": [
+        {
+          "pID": "968170456",
+          "name": "刘腾 贺宇"
+        },
+        {
+          "pID": "968170603",
           "name": "赛场原声"
         }
       ]
