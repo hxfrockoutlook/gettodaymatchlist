@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-10 10:31:59",
+  "updateTime": "2026-10-10 11:02:04",
   "data": [
     {
       "mgdbId": "120000588192",
@@ -124,14 +124,14 @@
     },
     {
       "mgdbId": "120000589605",
-      "pID": "968075358",
+      "pID": "968232150",
       "title": "NBA季前赛",
       "keyword": "10月10日08:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "联合中心球馆",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/10/77QB9H1KO7UR.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/10/77QB9Q9A6DUP.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "灰熊VS公牛",
       "modifyTitle": "NBA季前赛",
@@ -141,16 +141,20 @@
       },
       "nodes": [
         {
-          "pID": "968075358",
-          "name": "李嘉伟"
+          "pID": "968228774",
+          "name": "第一节"
         },
         {
-          "pID": "968075329",
-          "name": "英文原声"
+          "pID": "968229231",
+          "name": "第二节"
         },
         {
-          "pID": "968086237",
-          "name": "智能字幕"
+          "pID": "968230414",
+          "name": "第三节"
+        },
+        {
+          "pID": "968232225",
+          "name": "第四节"
         }
       ]
     },
@@ -204,7 +208,7 @@
       "title": "第十日热身区",
       "keyword": "10月10日11:00",
       "sportItemId": "7",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/09/77QACSNR42UT.png",
@@ -218,7 +222,7 @@
       "nodes": [
         {
           "pID": "968037772",
-          "name": "热身区"
+          "name": "王曼昱上训啦"
         }
       ]
     },
@@ -228,7 +232,7 @@
       "title": "争冠！王曼昱/蒯曼PK日乒 陈幸同冲决赛",
       "keyword": "10月10日12:00",
       "sportItemId": "7",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/09/77QABQ8J7HHP.jpg",
@@ -246,7 +250,7 @@
         },
         {
           "pID": "968037772",
-          "name": "热身区"
+          "name": "王曼昱热身啦"
         },
         {
           "pID": "968037787",
@@ -603,7 +607,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "北极羽毛球公开赛第五日",
       "modifyTitle": "北极羽毛球公开赛第五日",
-      "presenters": "",
+      "presenters": "鸿昆 朱胤丞 轩子博",
       "matchInfo": {
         "time": "10月10日16:00"
       },
@@ -619,6 +623,26 @@
         {
           "pID": "968131398",
           "name": "1号场地英文视角"
+        },
+        {
+          "pID": "968232114",
+          "name": "鸿昆"
+        },
+        {
+          "pID": "968232127",
+          "name": "朱胤丞"
+        },
+        {
+          "pID": "968232203",
+          "name": "轩子博"
+        },
+        {
+          "pID": "968232219",
+          "name": "鸿昆"
+        },
+        {
+          "pID": "968232231",
+          "name": "鸿昆"
         }
       ]
     },
@@ -787,7 +811,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/9/25/10000000111010617861.jpg",
       "pkInfoTitle": "郑钦文 vs 梅尔滕斯",
       "modifyTitle": "郑钦文 vs 梅尔滕斯",
-      "presenters": "李宁 张浩",
+      "presenters": "单文强 王蔷 陆柯燃",
       "matchInfo": {
         "time": "10月10日19:00"
       },
@@ -817,16 +841,16 @@
           "name": "《中国榜样》中网2026郑钦文：美网“涅槃重生”展现心路历程 我的实力足以打败任何人"
         },
         {
-          "pID": "968229515",
-          "name": "赛场原声"
-        },
-        {
           "pID": "968229549",
-          "name": "李宁 张浩"
+          "name": "单文强 王蔷 陆柯燃"
         },
         {
           "pID": "968229657",
           "name": "解说陪看视角"
+        },
+        {
+          "pID": "968229515",
+          "name": "赛场原声"
         }
       ]
     },
