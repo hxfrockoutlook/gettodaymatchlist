@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-10 21:31:59",
+  "updateTime": "2026-10-10 22:02:30",
   "data": [
     {
       "mgdbId": "120000588192",
@@ -245,12 +245,20 @@
           "name": "全场回放（周雨、程靖淇、周冠达）（一）"
         },
         {
+          "pID": "968250890",
+          "name": "全场回放（侯英超、周冠达、程靖淇、常新宇、徐晨皓、郭健）（二）"
+        },
+        {
           "pID": "968244240",
           "name": "上午场全场回放"
         },
         {
           "pID": "968242159",
           "name": "上午场全场回放（英文解说智能字幕）"
+        },
+        {
+          "pID": "968253143",
+          "name": "晚间场全场回放（英文解说智能字幕）"
         }
       ]
     },
@@ -275,6 +283,18 @@
         {
           "pID": "968234606",
           "name": "郑钦文中网晋级之路"
+        },
+        {
+          "pID": "967952017",
+          "name": "赛后发布会"
+        },
+        {
+          "pID": "968229708",
+          "name": "梅尔滕斯/施耐德 vs 达布罗斯基/史蒂芬妮"
+        },
+        {
+          "pID": "968229692",
+          "name": "梅尔滕斯/施耐德 vs 达布罗斯基/史蒂芬妮"
         },
         {
           "pID": "968229549",
@@ -311,14 +331,6 @@
         {
           "pID": "968138366",
           "name": "中网双冠少女渠依含"
-        },
-        {
-          "pID": "968229708",
-          "name": "梅尔滕斯/施耐德 vs 达布罗斯基/史蒂芬妮"
-        },
-        {
-          "pID": "968229692",
-          "name": "梅尔滕斯/施耐德 vs 达布罗斯基/史蒂芬妮"
         },
         {
           "pID": "968229495",
@@ -805,16 +817,12 @@
       },
       "nodes": [
         {
-          "pID": "968237602",
-          "name": "清流原声"
+          "pID": "968252194",
+          "name": "2026浪琴环球马术冠军赛罗马站GCL团体赛全场回放（中文解说）（20261010）"
         },
         {
-          "pID": "968237663",
-          "name": "英文解说原声"
-        },
-        {
-          "pID": "968237716",
-          "name": "中文解说原声"
+          "pID": "968252273",
+          "name": "2026浪琴环球马术冠军赛罗马站GCL团体赛全场回放（赛场原声）（20261010）"
         }
       ]
     },
@@ -872,7 +880,7 @@
       "title": "辽宁省城市足球联赛",
       "keyword": "10月10日18:50",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "辽超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000594724/202609211020_849825_H169_1080.webp",
@@ -899,7 +907,7 @@
       "matchStatus": "2",
       "matchField": "苏州市体育中心体育场",
       "competitionName": "中甲",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000570546/202610081828_388091_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000570546/202610102146_589757_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/10106c2211.png",
       "pkInfoTitle": "苏州东吴 vs 石家庄功夫",
       "modifyTitle": "中甲联赛",
@@ -927,7 +935,7 @@
       "matchStatus": "2",
       "matchField": "金州体育场",
       "competitionName": "中甲",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000570547/202603010037_575499_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000570547/202610102131_661981_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/10106c2211.png",
       "pkInfoTitle": "大连鲲城 vs 长春亚泰",
       "modifyTitle": "中甲联赛",
@@ -1013,6 +1021,10 @@
       },
       "nodes": [
         {
+          "pID": "967952017",
+          "name": "赛后发布会"
+        },
+        {
           "pID": "968229549",
           "name": "单文强 王蔷 陆柯燃"
         },
@@ -1080,7 +1092,7 @@
       "title": "中甲联赛",
       "keyword": "10月10日19:30",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "五华奥体中心惠堂体育场",
       "competitionName": "中甲",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000570545/202603010037_763576_H169_1080.webp",
@@ -1108,7 +1120,7 @@
       "title": "英超联赛",
       "keyword": "10月10日19:30",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "酋长球场",
       "competitionName": "英超",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000584232/322098_H169_sc.jpg",
@@ -1121,32 +1133,8 @@
       },
       "nodes": [
         {
-          "pID": "968169700",
-          "name": "颜强 徐阳 郭小仙儿"
-        },
-        {
-          "pID": "968169719",
-          "name": "陈曦 叶紫辰"
-        },
-        {
-          "pID": "968170439",
-          "name": "英文原声"
-        },
-        {
-          "pID": "968182856",
-          "name": "智能解说"
-        },
-        {
-          "pID": "968187496",
-          "name": "4K赛场原声"
-        },
-        {
-          "pID": "968205220",
-          "name": "陈曦 叶紫辰"
-        },
-        {
-          "pID": "968205223",
-          "name": "颜强 徐阳 郭小仙儿"
+          "pID": "968252118",
+          "name": "全场集锦"
         }
       ]
     },
@@ -1173,6 +1161,10 @@
           "name": "全场集锦"
         },
         {
+          "pID": "968252126",
+          "name": "全场精华"
+        },
+        {
           "pID": "968248456",
           "name": "第一节"
         },
@@ -1196,7 +1188,7 @@
       "title": "CBA季前赛",
       "keyword": "10月10日19:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "汕头体育中心体育馆",
       "competitionName": "CBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/10/77QB8T7EPRGO.png",
@@ -1209,12 +1201,28 @@
       },
       "nodes": [
         {
-          "pID": "968202043",
-          "name": "李天宇"
+          "pID": "968249187",
+          "name": "全场集锦"
         },
         {
-          "pID": "968201764",
-          "name": "赛场原声"
+          "pID": "968252429",
+          "name": "全场精华"
+        },
+        {
+          "pID": "968247978",
+          "name": "第一节"
+        },
+        {
+          "pID": "968249207",
+          "name": "第二节"
+        },
+        {
+          "pID": "968250429",
+          "name": "第三节"
+        },
+        {
+          "pID": "968252688",
+          "name": "第四节"
         }
       ]
     },
@@ -1224,7 +1232,7 @@
       "title": "CBA季前赛",
       "keyword": "10月10日19:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "吉安市体育馆",
       "competitionName": "CBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/09/77QACVAB1A6B.jpg",
@@ -1237,18 +1245,26 @@
       },
       "nodes": [
         {
-          "pID": "968201741",
-          "name": "孙博"
+          "pID": "968249410",
+          "name": "全场集锦"
         },
         {
-          "pID": "968201727",
-          "name": "赛场原声"
+          "pID": "968248655",
+          "name": "第一节"
+        },
+        {
+          "pID": "968249718",
+          "name": "第一节"
+        },
+        {
+          "pID": "968252739",
+          "name": "第三节"
         }
       ]
     },
     {
       "mgdbId": "120000592378",
-      "pID": "968247915",
+      "pID": "968252051",
       "title": "CBA季前赛",
       "keyword": "10月10日19:30",
       "sportItemId": "2",
@@ -1264,6 +1280,18 @@
         "time": "10月10日19:30"
       },
       "nodes": [
+        {
+          "pID": "968252051",
+          "name": "全场集锦"
+        },
+        {
+          "pID": "968253448",
+          "name": "全场回放（字诚）"
+        },
+        {
+          "pID": "968252185",
+          "name": "全场精华"
+        },
         {
           "pID": "968247915",
           "name": "第一节"
@@ -1284,7 +1312,7 @@
     },
     {
       "mgdbId": "120000592379",
-      "pID": "968248392",
+      "pID": "968252102",
       "title": "CBA季前赛",
       "keyword": "10月10日19:30",
       "sportItemId": "2",
@@ -1300,6 +1328,14 @@
         "time": "10月10日19:30"
       },
       "nodes": [
+        {
+          "pID": "968252102",
+          "name": "全场集锦"
+        },
+        {
+          "pID": "968252252",
+          "name": "全场精华"
+        },
         {
           "pID": "968248392",
           "name": "第一节"
@@ -1345,16 +1381,16 @@
     {
       "mgdbId": "120000595984",
       "pID": "968179851",
-      "title": "��山VS台州",
+      "title": "江山69-81台州",
       "keyword": "10月10日19:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "浙BA",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/02/77N92ACGBBVQ.png",
-      "pkInfoTitle": "江山VS台州",
-      "modifyTitle": "浙BA小组赛",
+      "pkInfoTitle": "江山69-81台州",
+      "modifyTitle": "江山69-81台州",
       "presenters": "",
       "matchInfo": {
         "time": "10月10日19:30"
@@ -1393,10 +1429,6 @@
           "name": "孙雨轩 贺宇 李子琪"
         },
         {
-          "pID": "968169818",
-          "name": "3D全真视频"
-        },
-        {
           "pID": "968169793",
           "name": "成都蓉城球星视角"
         },
@@ -1419,6 +1451,10 @@
         {
           "pID": "968169754",
           "name": "4K赛场原声"
+        },
+        {
+          "pID": "968169818",
+          "name": "3D全真视频"
         }
       ]
     },
@@ -1428,7 +1464,7 @@
       "title": "中超联赛",
       "keyword": "10月10日19:35",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "上海体育场",
       "competitionName": "中超",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000569607/975697_H169_sc.jpg",
@@ -1441,16 +1477,8 @@
       },
       "nodes": [
         {
-          "pID": "968169645",
-          "name": "石庆圣 李彦 孙蕊"
-        },
-        {
-          "pID": "968169632",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "968182838",
-          "name": "智能解说"
+          "pID": "968253425",
+          "name": "全场集锦"
         }
       ]
     },
@@ -1460,7 +1488,7 @@
       "title": "湘超",
       "keyword": "10月10日19:38",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "湘超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000595279/202609281031_534486_H169_1080.webp",
@@ -1484,7 +1512,7 @@
       "title": "湘超",
       "keyword": "10月10日19:38",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "湘超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000595280/202609281032_142380_H169_1080.webp",
@@ -1567,7 +1595,7 @@
       "matchStatus": "1",
       "matchField": "老林务所畔体育场",
       "competitionName": "德甲",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000588186/202608131617_156612_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000588186/202610102159_977076_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png",
       "pkInfoTitle": "柏林联合 vs 埃尔沃斯贝格",
       "modifyTitle": "德甲联赛",
@@ -1659,7 +1687,7 @@
       "matchStatus": "1",
       "matchField": "莱茵内卡河球场",
       "competitionName": "德甲",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000588190/202608131652_980070_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000588190/202610102144_310574_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png",
       "pkInfoTitle": "霍芬海姆 vs 汉堡",
       "modifyTitle": "德甲联赛",
@@ -1684,7 +1712,7 @@
       "title": "英超联赛",
       "keyword": "10月10日22:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "光明球场",
       "competitionName": "英超",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000584223/697501_H169_sc.jpg",
@@ -1716,7 +1744,7 @@
       "title": "英超联赛",
       "keyword": "10月10日22:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "波特曼球场",
       "competitionName": "英超",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000584226/448779_H169_sc.jpg",
@@ -1784,7 +1812,7 @@
       "title": "英超联赛",
       "keyword": "10月10日22:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "维拉公园球场",
       "competitionName": "英超",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000584231/606764_H169_sc.jpg",
@@ -1816,7 +1844,7 @@
       "title": "国羽混双德比！丫邦2-0凤凰",
       "keyword": "10月10日22:00",
       "sportItemId": "6",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "BWF",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/10/77QB96KH01DS.jpg",
@@ -1864,7 +1892,7 @@
       "title": "西甲联赛",
       "keyword": "10月10日22:15",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "门迪佐洛萨球场",
       "competitionName": "西甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000586164/699136_H169_sc.jpg",
