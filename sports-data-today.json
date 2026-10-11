@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-11 13:35:19",
+  "updateTime": "2026-10-11 14:02:47",
   "data": [
     {
       "mgdbId": "120000584847",
@@ -856,7 +856,7 @@
     },
     {
       "mgdbId": "120000589637",
-      "pID": "968281929",
+      "pID": "968283092",
       "title": "NBA季前赛",
       "keyword": "10月11日10:30",
       "sportItemId": "2",
@@ -873,6 +873,10 @@
       },
       "nodes": [
         {
+          "pID": "968283092",
+          "name": "全场集锦"
+        },
+        {
           "pID": "968281242",
           "name": "第一节"
         },
@@ -883,6 +887,10 @@
         {
           "pID": "968282346",
           "name": "第三节"
+        },
+        {
+          "pID": "968282817",
+          "name": "第四节"
         }
       ]
     },
@@ -1032,7 +1040,7 @@
       "title": "超三联赛 三亚大区赛 A档四分之一决赛",
       "keyword": "10月11日14:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "超三联赛",
       "padImg": "",
@@ -1492,22 +1500,26 @@
     },
     {
       "mgdbId": "120000595837",
-      "pID": "968131417",
-      "title": "北极羽毛球公开赛第六日",
+      "pID": "968282149",
+      "title": "国羽混双德比！丫邦PK高吴",
       "keyword": "10月11日16:00",
       "sportItemId": "6",
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "BWF",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/11/77QC4B8C8GIO.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
-      "pkInfoTitle": "北极羽毛球公开赛第六日",
-      "modifyTitle": "北极羽毛球公开赛第六日",
-      "presenters": "朱胤丞 杨妮娜",
+      "pkInfoTitle": "国羽混双德比！丫邦PK高吴",
+      "modifyTitle": "北极羽毛球公开赛第六日：国羽混双德比！丫邦PK高吴",
+      "presenters": "朱胤丞",
       "matchInfo": {
         "time": "10月11日16:00"
       },
       "nodes": [
+        {
+          "pID": "968282149",
+          "name": "蒋振邦/魏雅欣VS高家炫/吴梦莹"
+        },
         {
           "pID": "968131417",
           "name": "1号场地"
@@ -1515,26 +1527,6 @@
         {
           "pID": "968131424",
           "name": "1号场地英文视角"
-        },
-        {
-          "pID": "968282149",
-          "name": "朱胤丞"
-        },
-        {
-          "pID": "968282159",
-          "name": "朱胤丞"
-        },
-        {
-          "pID": "968282164",
-          "name": "杨妮娜"
-        },
-        {
-          "pID": "968282177",
-          "name": "杨妮娜"
-        },
-        {
-          "pID": "968282179",
-          "name": "杨妮娜"
         }
       ]
     },
@@ -2313,16 +2305,16 @@
           "name": "李宁 王蔷 张浩"
         },
         {
-          "pID": "968278554",
-          "name": "解说陪看视角"
-        },
-        {
           "pID": "968278358",
           "name": "赛场原声"
         },
         {
           "pID": "968234606",
           "name": "《天空没有极限》mv回顾郑钦文中网晋级之路"
+        },
+        {
+          "pID": "968278554",
+          "name": "解说陪看视角"
         }
       ]
     },
