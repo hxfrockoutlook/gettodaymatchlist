@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-11 09:32:42",
+  "updateTime": "2026-10-11 10:03:09",
   "data": [
     {
       "mgdbId": "120000584847",
@@ -440,7 +440,7 @@
     },
     {
       "mgdbId": "120000590101",
-      "pID": "968275015",
+      "pID": "968276990",
       "title": "NBA季前赛",
       "keyword": "10月11日06:30",
       "sportItemId": "2",
@@ -457,6 +457,14 @@
       },
       "nodes": [
         {
+          "pID": "968276990",
+          "name": "全场集锦"
+        },
+        {
+          "pID": "968277535",
+          "name": "全场回放（刘沛元）"
+        },
+        {
           "pID": "968273726",
           "name": "第一节"
         },
@@ -467,6 +475,10 @@
         {
           "pID": "968275401",
           "name": "第三节"
+        },
+        {
+          "pID": "968276626",
+          "name": "第四节"
         }
       ]
     },
@@ -500,14 +512,14 @@
     },
     {
       "mgdbId": "120000590102",
-      "pID": "968075554",
+      "pID": "968275101",
       "title": "NBA季前赛",
       "keyword": "10月11日07:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "盖恩布里奇体育馆",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/11/77QC5TOA85NC.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/11/77QC6JJT06KL.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "老鹰VS步行者",
       "modifyTitle": "NBA季前赛",
@@ -517,12 +529,20 @@
       },
       "nodes": [
         {
-          "pID": "968075554",
-          "name": "徐秦威"
+          "pID": "968275326",
+          "name": "第一节"
         },
         {
-          "pID": "968075543",
-          "name": "英文原声"
+          "pID": "968275402",
+          "name": "第二节"
+        },
+        {
+          "pID": "968276725",
+          "name": "第三节"
+        },
+        {
+          "pID": "968277358",
+          "name": "第四节"
         }
       ]
     },
