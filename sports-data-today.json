@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-11 10:03:09",
+  "updateTime": "2026-10-11 10:32:48",
   "data": [
     {
       "mgdbId": "120000584847",
@@ -484,11 +484,11 @@
     },
     {
       "mgdbId": "120000589617",
-      "pID": "968074724",
+      "pID": "968275630",
       "title": "NBA季前赛",
       "keyword": "10月11日07:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "第一资本体育馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/11/77QC6H0D7QG2.jpg",
@@ -501,18 +501,30 @@
       },
       "nodes": [
         {
-          "pID": "968074724",
-          "name": "金哲豪"
+          "pID": "968273725",
+          "name": "第一节"
         },
         {
-          "pID": "968074708",
-          "name": "英文原声"
+          "pID": "968274820",
+          "name": "第二节"
+        },
+        {
+          "pID": "968276445",
+          "name": "第三节"
+        },
+        {
+          "pID": "968278076",
+          "name": "第四节"
+        },
+        {
+          "pID": "968278534",
+          "name": "加时1"
         }
       ]
     },
     {
       "mgdbId": "120000590102",
-      "pID": "968275101",
+      "pID": "968278600",
       "title": "NBA季前赛",
       "keyword": "10月11日07:00",
       "sportItemId": "2",
@@ -528,6 +540,14 @@
         "time": "10月11日07:00"
       },
       "nodes": [
+        {
+          "pID": "968278600",
+          "name": "全场集锦"
+        },
+        {
+          "pID": "968278088",
+          "name": "全场回放（徐秦威）"
+        },
         {
           "pID": "968275326",
           "name": "第一节"
@@ -607,7 +627,7 @@
       "matchStatus": "1",
       "matchField": "卡西亚中心",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/11/77QC6H7E8D71.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/11/77QC6RQO9QM6.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "森林狼VS热火",
       "modifyTitle": "NBA季前赛",
@@ -708,10 +728,10 @@
       "title": "NBA季前赛",
       "keyword": "10月11日10:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "凤凰城竞技场",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/10/77QB77I6UUJ5.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/11/77QC6RBA5U2V.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "马刺VS太阳",
       "modifyTitle": "NBA季前赛",
@@ -1379,7 +1399,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/9/25/10000000111010617861.jpg",
       "pkInfoTitle": "郑钦文争冠！张帅组合冲击女双冠军",
       "modifyTitle": "中国网球公开赛女双、女单决赛：郑钦文争冠！张帅组合冲击女双冠军",
-      "presenters": "",
+      "presenters": "鸿昆 宋光振",
       "matchInfo": {
         "time": "10月11日16:30"
       },
@@ -1419,6 +1439,14 @@
         {
           "pID": "968203950",
           "name": "孙心然：最年轻的中网32强！"
+        },
+        {
+          "pID": "968278273",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "968278293",
+          "name": "鸿昆 宋光振"
         }
       ]
     },
@@ -2095,7 +2123,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/9/25/10000000111010617861.jpg",
       "pkInfoTitle": "郑钦文 vs 安德列娃",
       "modifyTitle": "郑钦文 vs 安德列娃",
-      "presenters": "",
+      "presenters": "鸿昆 宋光振",
       "matchInfo": {
         "time": "10月11日19:30"
       },
@@ -2115,6 +2143,18 @@
         {
           "pID": "968234606",
           "name": "《天空没有极限》mv回顾郑钦文中网晋级之路"
+        },
+        {
+          "pID": "968278358",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "968278460",
+          "name": "鸿昆 宋光振"
+        },
+        {
+          "pID": "968278554",
+          "name": "解说陪看视角"
         }
       ]
     },
