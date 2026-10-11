@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-11 17:03:11",
+  "updateTime": "2026-10-11 17:32:30",
   "data": [
     {
       "mgdbId": "120000584847",
@@ -969,16 +969,16 @@
           "name": "邓亚萍 周雨 周冠达"
         },
         {
-          "pID": "968037896",
-          "name": "候场区"
+          "pID": "968037832",
+          "name": "赛场原声"
         },
         {
           "pID": "968037888",
-          "name": "王曼昱上训啦"
+          "name": "热身区"
         },
         {
-          "pID": "968037832",
-          "name": "赛场原声"
+          "pID": "968037896",
+          "name": "候场区"
         },
         {
           "pID": "968054158",
@@ -1088,7 +1088,7 @@
       "title": "桂超联赛决赛首回合",
       "keyword": "10月11日14:50",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "桂超联赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000595995/202610081100_959741_H169_1080.webp",
@@ -1136,7 +1136,7 @@
       "title": "中甲联赛",
       "keyword": "10月11日15:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "延吉市全民健身体育中心体育场",
       "competitionName": "中甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000570544/302017_H169_sc.jpg",
@@ -1160,11 +1160,11 @@
     },
     {
       "mgdbId": "120000592380",
-      "pID": "968202202",
+      "pID": "968286324",
       "title": "CBA季前赛",
       "keyword": "10月11日15:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "汕头体育中心体育馆",
       "competitionName": "CBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/10/77QB833NACOH.jpg",
@@ -1177,12 +1177,32 @@
       },
       "nodes": [
         {
-          "pID": "968202202",
-          "name": "张泽欣"
+          "pID": "968286324",
+          "name": "全场集锦"
         },
         {
-          "pID": "968202186",
-          "name": "赛场原声"
+          "pID": "968286291",
+          "name": "全场回放（张泽欣）"
+        },
+        {
+          "pID": "968286341",
+          "name": "全场精华"
+        },
+        {
+          "pID": "968284487",
+          "name": "第一节"
+        },
+        {
+          "pID": "968285131",
+          "name": "第二节"
+        },
+        {
+          "pID": "968285611",
+          "name": "第三节"
+        },
+        {
+          "pID": "968286157",
+          "name": "第四节"
         }
       ]
     },
@@ -1204,6 +1224,18 @@
         "time": "10月11日15:00"
       },
       "nodes": [
+        {
+          "pID": "968285094",
+          "name": "全场集锦"
+        },
+        {
+          "pID": "968286162",
+          "name": "全场回放（邵化谦）"
+        },
+        {
+          "pID": "968286289",
+          "name": "全场精华"
+        },
         {
           "pID": "968284528",
           "name": "第一节"
@@ -1241,6 +1273,14 @@
       },
       "nodes": [
         {
+          "pID": "968286160",
+          "name": "全场集锦"
+        },
+        {
+          "pID": "968286179",
+          "name": "全场精华"
+        },
+        {
           "pID": "968284545",
           "name": "第一节"
         },
@@ -1260,11 +1300,11 @@
     },
     {
       "mgdbId": "120000592383",
-      "pID": "968202184",
+      "pID": "968286366",
       "title": "CBA季前赛",
       "keyword": "10月11日15:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "吉安市体育馆",
       "competitionName": "CBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/11/77QC4JI040QS.png",
@@ -1277,12 +1317,28 @@
       },
       "nodes": [
         {
-          "pID": "968202184",
-          "name": "徐秦威"
+          "pID": "968286366",
+          "name": "全场集锦"
         },
         {
-          "pID": "968202175",
-          "name": "赛场原声"
+          "pID": "968285042",
+          "name": "第一节"
+        },
+        {
+          "pID": "968285179",
+          "name": "第二节"
+        },
+        {
+          "pID": "968285730",
+          "name": "第三节"
+        },
+        {
+          "pID": "968286299",
+          "name": "第四节"
+        },
+        {
+          "pID": "968286483",
+          "name": "全场回放（徐秦威）"
         }
       ]
     },
@@ -1323,6 +1379,10 @@
         {
           "pID": "968285963",
           "name": "第四节"
+        },
+        {
+          "pID": "968286144",
+          "name": "全场回放（王冠证）"
         }
       ]
     },
@@ -1692,7 +1752,7 @@
       "title": "NBA季前赛",
       "keyword": "10月11日18:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "Venetian Arena",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/10/77QB781NT38A.jpg",
@@ -2662,7 +2722,7 @@
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000584227/854200_H169_sc.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png",
       "pkInfoTitle": "赫尔城 vs 埃弗顿",
-      "modifyTitle": "英��联赛",
+      "modifyTitle": "英超联赛",
       "presenters": "林梦鸽",
       "matchInfo": {
         "time": "10月11日21:00"
