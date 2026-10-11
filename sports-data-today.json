@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-11 21:02:52",
+  "updateTime": "2026-10-11 21:33:00",
   "data": [
     {
       "mgdbId": "120000584847",
@@ -918,7 +918,7 @@
       "nodes": [
         {
           "pID": "968285975",
-          "name": "全场回放"
+          "name": "全场回放（一）"
         }
       ]
     },
@@ -987,6 +987,10 @@
         {
           "pID": "968284539",
           "name": "全场回放（周雨、侯英超、周冠达）（一）"
+        },
+        {
+          "pID": "968296439",
+          "name": "2026WTT中国大满贯Day11乒乓观察室全场回放（邓亚萍、周雨、周冠达）（50帧原画）（二）"
         }
       ]
     },
@@ -1685,10 +1689,6 @@
           "name": "明星视角"
         },
         {
-          "pID": "968144960",
-          "name": "3D全真视频"
-        },
-        {
           "pID": "968053113",
           "name": "钻石球场4K"
         },
@@ -1715,6 +1715,10 @@
         {
           "pID": "968203950",
           "name": "孙心然：最年轻的中网32强！"
+        },
+        {
+          "pID": "968144960",
+          "name": "3D全真视频"
         },
         {
           "pID": "968278293",
@@ -1783,16 +1787,20 @@
         {
           "pID": "968294350",
           "name": "全场回放"
+        },
+        {
+          "pID": "968296282",
+          "name": "全场回放"
         }
       ]
     },
     {
       "mgdbId": "120000590106",
-      "pID": "968172743",
+      "pID": "968295106",
       "title": "NBA季前赛",
       "keyword": "10月11日18:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Venetian Arena",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/11/77QC6A6NIVF8.png",
@@ -1805,24 +1813,24 @@
       },
       "nodes": [
         {
-          "pID": "968172743",
-          "name": "杨健 林书豪 周鹏"
+          "pID": "968295106",
+          "name": "全场集锦"
         },
         {
-          "pID": "968100911",
-          "name": "李天宇 陈正昊 魏欣怡"
+          "pID": "968288880",
+          "name": "第一节"
         },
         {
-          "pID": "968202060",
-          "name": "同看广东vs天津"
+          "pID": "968290511",
+          "name": "第二节"
         },
         {
-          "pID": "968075332",
-          "name": "英文原声"
+          "pID": "968292798",
+          "name": "第三节"
         },
         {
-          "pID": "968086216",
-          "name": "智能字幕"
+          "pID": "968294678",
+          "name": "第四节"
         }
       ]
     },
@@ -1904,7 +1912,7 @@
       "title": "中甲联赛",
       "keyword": "10月11日19:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "钦州市体育中心",
       "competitionName": "中甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000570540/104440_H169_sc.jpg",
@@ -2008,7 +2016,7 @@
       "title": "闽超",
       "keyword": "10月11日19:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "闽超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000594795/202609221017_972868_H169_1080.webp",
@@ -2080,7 +2088,7 @@
       "title": "徽BA季后赛第三轮",
       "keyword": "10月11日19:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "徽BA",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000596146/202610081635_303077_H169_1080.webp",
@@ -2149,16 +2157,16 @@
     {
       "mgdbId": "120000596245",
       "pID": "968230163",
-      "title": "运城市VS阳泉市",
+      "title": "运城市73-60阳泉市",
       "keyword": "10月11日19:20",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "晋超联赛",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/6/17/100000001493106c8171.png",
-      "pkInfoTitle": "运城市VS阳泉市",
-      "modifyTitle": "运城市VS阳泉市",
+      "pkInfoTitle": "运城市73-60阳泉市",
+      "modifyTitle": "运城市73-60阳泉市",
       "presenters": "",
       "matchInfo": {
         "time": "10月11日19:20"
@@ -2173,7 +2181,7 @@
     {
       "mgdbId": "120000570541",
       "pID": "968190202",
-      "title": "中甲联赛",
+      "title": "中���联赛",
       "keyword": "10月11日19:30",
       "sportItemId": "1",
       "matchStatus": "1",
@@ -2200,11 +2208,11 @@
     },
     {
       "mgdbId": "120000592385",
-      "pID": "968202097",
+      "pID": "968293485",
       "title": "CBA季前赛",
       "keyword": "10月11日19:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "吉安市体育馆",
       "competitionName": "CBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/11/77QC60ALRFH6.jpg",
@@ -2217,12 +2225,20 @@
       },
       "nodes": [
         {
-          "pID": "968202097",
-          "name": "孙博"
+          "pID": "968293485",
+          "name": "全场集锦"
         },
         {
-          "pID": "968202086",
-          "name": "赛场原声"
+          "pID": "968291851",
+          "name": "第一节"
+        },
+        {
+          "pID": "968293300",
+          "name": "第二节"
+        },
+        {
+          "pID": "968294796",
+          "name": "第三节"
         }
       ]
     },
@@ -2256,11 +2272,11 @@
     },
     {
       "mgdbId": "120000592387",
-      "pID": "968202060",
+      "pID": "968291216",
       "title": "CBA季前赛",
       "keyword": "10月11日19:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "汕头体育中心体育馆",
       "competitionName": "CBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/11/77QC5PTE0IRG.png",
@@ -2273,20 +2289,20 @@
       },
       "nodes": [
         {
-          "pID": "968202060",
-          "name": "庄宁宇"
+          "pID": "968292337",
+          "name": "第一节"
         },
         {
-          "pID": "968202173",
-          "name": "同看辽宁vs四川"
+          "pID": "968293418",
+          "name": "第二节"
         },
         {
-          "pID": "968202055",
-          "name": "赛场原声"
+          "pID": "968296040",
+          "name": "第三节"
         },
         {
-          "pID": "968278460",
-          "name": "同看郑钦文中网冲冠"
+          "pID": "968296358",
+          "name": "第四节"
         }
       ]
     },
@@ -2313,10 +2329,6 @@
           "name": "字诚"
         },
         {
-          "pID": "968202060",
-          "name": "同播广东vs天津"
-        },
-        {
           "pID": "968202162",
           "name": "赛场原声"
         }
@@ -2324,11 +2336,11 @@
     },
     {
       "mgdbId": "120000592389",
-      "pID": "968202146",
+      "pID": "968292205",
       "title": "CBA季前赛",
       "keyword": "10月11日19:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "新昌小球中心",
       "competitionName": "CBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/10/77QB9OP5G4AV.jpg",
@@ -2341,32 +2353,40 @@
       },
       "nodes": [
         {
-          "pID": "968202146",
-          "name": "连睿"
+          "pID": "968296123",
+          "name": "全场集锦"
         },
         {
-          "pID": "968202132",
-          "name": "赛场原声"
+          "pID": "968292205",
+          "name": "第一节"
         },
         {
-          "pID": "968276865",
-          "name": "连睿"
+          "pID": "968293455",
+          "name": "第二节"
+        },
+        {
+          "pID": "968294734",
+          "name": "第三节"
+        },
+        {
+          "pID": "968296275",
+          "name": "第四节"
         }
       ]
     },
     {
       "mgdbId": "120000595985",
       "pID": "968179862",
-      "title": "普陀VS杭州",
+      "title": "普陀64-76杭州",
       "keyword": "10月11日19:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "浙BA",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/02/77N92ACGBBVQ.png",
-      "pkInfoTitle": "普陀VS杭州",
-      "modifyTitle": "浙BA小组赛",
+      "pkInfoTitle": "普陀64-76杭州",
+      "modifyTitle": "普陀64-76杭州",
       "presenters": "",
       "matchInfo": {
         "time": "10月11日19:30"
@@ -2381,16 +2401,16 @@
     {
       "mgdbId": "120000595986",
       "pID": "968179868",
-      "title": "玉环VS金华",
+      "title": "玉环68-88金华",
       "keyword": "10月11日19:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "浙BA",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/02/77N92ACGBBVQ.png",
-      "pkInfoTitle": "玉环VS金华",
-      "modifyTitle": "浙BA小组赛",
+      "pkInfoTitle": "玉环68-88金华",
+      "modifyTitle": "玉环68-88金华",
       "presenters": "",
       "matchInfo": {
         "time": "10月11日19:30"
@@ -2433,14 +2453,6 @@
           "name": "明星视角"
         },
         {
-          "pID": "968202060",
-          "name": "同看CBA季前赛"
-        },
-        {
-          "pID": "968144960",
-          "name": "3D全真视频"
-        },
-        {
           "pID": "968053113",
           "name": "钻石球场4K"
         },
@@ -2463,6 +2475,10 @@
         {
           "pID": "968172743",
           "name": "同看NBA中国赛"
+        },
+        {
+          "pID": "968144960",
+          "name": "3D全真视频"
         }
       ]
     },
@@ -2827,7 +2843,7 @@
       "matchStatus": "1",
       "matchField": "尼斯球场",
       "competitionName": "法甲",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000584481/202607231603_629900_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000584481/202610112121_830869_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/1/9106077d9.png",
       "pkInfoTitle": "尼斯 vs 斯特拉斯堡",
       "modifyTitle": "法甲联赛",
@@ -2855,7 +2871,7 @@
       "matchStatus": "1",
       "matchField": "维亚德马雷市政体育场",
       "competitionName": "意甲",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000584845/202607231718_941392_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000584845/202610112121_457890_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png",
       "pkInfoTitle": "莱切 vs 博洛尼亚",
       "modifyTitle": "意甲联赛",
@@ -2908,7 +2924,7 @@
       "title": "德甲联赛",
       "keyword": "10月11日21:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "科隆球场",
       "competitionName": "德甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000588185/840839_H169_sc.jpg",
@@ -2936,7 +2952,7 @@
       "title": "世界跆拳道大奖赛巴黎站第三日",
       "keyword": "10月11日21:30",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "世界跆拳道大奖赛",
       "padImg": "",
