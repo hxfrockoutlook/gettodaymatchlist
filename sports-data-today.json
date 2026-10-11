@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-11 11:32:44",
+  "updateTime": "2026-10-11 12:02:57",
   "data": [
     {
       "mgdbId": "120000584847",
@@ -214,7 +214,7 @@
         },
         {
           "pID": "968273066",
-          "name": "PFL摩洛哥站主赛全场回放（英文原声）"
+          "name": "PFL摩洛哥站主赛全场回放（��文原声）"
         }
       ]
     },
@@ -483,10 +483,6 @@
         {
           "pID": "968270886",
           "name": "卡雷凯特VS加托"
-        },
-        {
-          "pID": "968281001",
-          "name": "UFC格斗之夜290期主赛全场回放（AI字幕）"
         }
       ]
     },
@@ -703,12 +699,16 @@
         {
           "pID": "968279722",
           "name": "第四节"
+        },
+        {
+          "pID": "968281496",
+          "name": "全场回放"
         }
       ]
     },
     {
       "mgdbId": "120000590104",
-      "pID": "968275956",
+      "pID": "968280991",
       "title": "NBA季前赛",
       "keyword": "10月11日08:00",
       "sportItemId": "2",
@@ -772,7 +772,7 @@
     },
     {
       "mgdbId": "120000590105",
-      "pID": "968276428",
+      "pID": "968281336",
       "title": "NBA季前赛",
       "keyword": "10月11日08:30",
       "sportItemId": "2",
@@ -788,6 +788,14 @@
         "time": "10月11日08:30"
       },
       "nodes": [
+        {
+          "pID": "968281336",
+          "name": "全场集锦"
+        },
+        {
+          "pID": "968281388",
+          "name": "全场回放（邵化谦）"
+        },
         {
           "pID": "968276788",
           "name": "第一节"
@@ -883,6 +891,30 @@
       ]
     },
     {
+      "mgdbId": "120000595566",
+      "pID": "968073064",
+      "title": "UCI BMX竞速世界杯崇礼站",
+      "keyword": "10月11日11:40",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "中国自行车运动协会系列赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/10/77QB95IBMPHN.png",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/6/25/100000001499106b6db1.png",
+      "pkInfoTitle": "UCI BMX竞速世界杯崇礼站",
+      "modifyTitle": "UCI BMX竞速世界杯崇礼站",
+      "presenters": "",
+      "matchInfo": {
+        "time": "10月11日11:40"
+      },
+      "nodes": [
+        {
+          "pID": "968073064",
+          "name": "解说"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000595144",
       "pID": "968037866",
       "title": "王曼昱争双冠 周启豪PK松岛冲决赛",
@@ -891,7 +923,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/10/77QB9DH6BF5Q.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/11/77QC78CVSV54.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "王曼昱争双冠 周启豪PK松岛冲决赛",
       "modifyTitle": "WTT中国大满贯男单半决赛、男女单打决赛",
@@ -909,14 +941,6 @@
           "name": "热身区"
         },
         {
-          "pID": "968024981",
-          "name": "混采区"
-        },
-        {
-          "pID": "968037896",
-          "name": "候场区"
-        },
-        {
           "pID": "968037832",
           "name": "赛场原声"
         },
@@ -927,30 +951,14 @@
         {
           "pID": "968054000",
           "name": "智能解说"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000595566",
-      "pID": "968073064",
-      "title": "UCI BMX竞速世界杯崇礼站",
-      "keyword": "10月11日12:55",
-      "sportItemId": "8",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "中国自行车运动协会系列赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/10/77QB95IBMPHN.png",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/6/25/100000001499106b6db1.png",
-      "pkInfoTitle": "UCI BMX竞速世界杯崇礼站",
-      "modifyTitle": "UCI BMX竞速世界杯崇礼站",
-      "presenters": "",
-      "matchInfo": {
-        "time": "10月11日12:55"
-      },
-      "nodes": [
+        },
         {
-          "pID": "968073064",
-          "name": "解说"
+          "pID": "968024981",
+          "name": "混采区"
+        },
+        {
+          "pID": "968037896",
+          "name": "候场区"
         }
       ]
     },
@@ -2113,6 +2121,10 @@
           "name": "庄宁宇"
         },
         {
+          "pID": "968202173",
+          "name": "同看辽宁vs四川"
+        },
+        {
           "pID": "968202055",
           "name": "赛场原声"
         }
@@ -2139,6 +2151,10 @@
         {
           "pID": "968202173",
           "name": "字诚"
+        },
+        {
+          "pID": "968202060",
+          "name": "同播广东vs天津"
         },
         {
           "pID": "968202162",
