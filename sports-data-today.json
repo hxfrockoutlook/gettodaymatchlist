@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-11 16:32:47",
+  "updateTime": "2026-10-11 17:03:11",
   "data": [
     {
       "mgdbId": "120000584847",
@@ -174,7 +174,7 @@
         },
         {
           "pID": "968270593",
-          "name": "���切梅VS汤普森"
+          "name": "奥切梅VS汤普森"
         },
         {
           "pID": "968270483",
@@ -644,7 +644,7 @@
       "title": "铁人中国T51.5鄂州梁子湖公开赛",
       "keyword": "10月11日07:00",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "铁人三项系列赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/10/77QB887SV72D.webp",
@@ -657,8 +657,8 @@
       },
       "nodes": [
         {
-          "pID": "968211740",
-          "name": "解说"
+          "pID": "968285400",
+          "name": "2026年铁人中国T51.5鄂州梁子湖公开赛Day2全场回放（官方解说）"
         }
       ]
     },
@@ -907,7 +907,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/11/77QC47DE3N51.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/11/77QC566G18E6.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "第十一日热身区",
       "modifyTitle": "WTT中国大满贯第十一日热身区",
@@ -969,8 +969,20 @@
           "name": "邓亚萍 周雨 周冠达"
         },
         {
+          "pID": "968037896",
+          "name": "候场区"
+        },
+        {
           "pID": "968037888",
           "name": "王曼昱上训啦"
+        },
+        {
+          "pID": "968037832",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "968054158",
+          "name": "智能字幕"
         },
         {
           "pID": "968024981",
@@ -980,7 +992,7 @@
     },
     {
       "mgdbId": "120000595824",
-      "pID": "968283421",
+      "pID": "968286029",
       "title": "NBA中国赛咪咕球星见面会",
       "keyword": "10月11日13:00",
       "sportItemId": "2",
@@ -997,12 +1009,8 @@
       },
       "nodes": [
         {
-          "pID": "968283421",
-          "name": "广西女孩和丁彦雨航1v1斗牛圆梦！林书豪场边解说金句不断"
-        },
-        {
-          "pID": "968117604",
-          "name": "清流直播"
+          "pID": "968286029",
+          "name": "全场回放"
         }
       ]
     },
@@ -1053,6 +1061,10 @@
           "name": "全场回放（字诚）"
         },
         {
+          "pID": "968285449",
+          "name": "全场回放（赛场原声）"
+        },
+        {
           "pID": "968283331",
           "name": "【回放】上海横沙誉民21:15宁波海曙捷英"
         },
@@ -1067,10 +1079,6 @@
         {
           "pID": "968284694",
           "name": "【回放】北京控股21:14深圳龙华启航"
-        },
-        {
-          "pID": "968285449",
-          "name": "2026超三联赛三亚大区赛A档1/4决赛全场回放（赛场原声）"
         }
       ]
     },
@@ -1131,7 +1139,7 @@
       "matchStatus": "1",
       "matchField": "延吉市全民健身体育中心体育场",
       "competitionName": "中甲",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000570544/277887_H169_sc.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000570544/302017_H169_sc.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/10106c2211.png",
       "pkInfoTitle": "延边龙鼎 vs 南通支云",
       "modifyTitle": "中甲联赛",
@@ -1180,11 +1188,11 @@
     },
     {
       "mgdbId": "120000592381",
-      "pID": "968202084",
+      "pID": "968284993",
       "title": "CBA季前赛",
       "keyword": "10月11日15:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "高县翰笙文体中心",
       "competitionName": "CBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/10/77QB7Q9R2991.jpg",
@@ -1197,22 +1205,30 @@
       },
       "nodes": [
         {
-          "pID": "968202084",
-          "name": "邵化谦"
+          "pID": "968284528",
+          "name": "第一节"
         },
         {
-          "pID": "968202062",
-          "name": "赛场原声"
+          "pID": "968285059",
+          "name": "第二节"
+        },
+        {
+          "pID": "968285581",
+          "name": "第三节"
+        },
+        {
+          "pID": "968286037",
+          "name": "第四节"
         }
       ]
     },
     {
       "mgdbId": "120000592382",
-      "pID": "968202120",
+      "pID": "968284645",
       "title": "CBA季前赛",
       "keyword": "10月11日15:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "新昌小球中心",
       "competitionName": "CBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/11/77QC4IHQCCMU.png",
@@ -1225,12 +1241,20 @@
       },
       "nodes": [
         {
-          "pID": "968202120",
-          "name": "石楷文"
+          "pID": "968284545",
+          "name": "第一节"
         },
         {
-          "pID": "968202111",
-          "name": "赛场原声"
+          "pID": "968284930",
+          "name": "第二节"
+        },
+        {
+          "pID": "968285501",
+          "name": "第三节"
+        },
+        {
+          "pID": "968285994",
+          "name": "第四节"
         }
       ]
     },
@@ -1264,11 +1288,11 @@
     },
     {
       "mgdbId": "120000592384",
-      "pID": "968202151",
+      "pID": "968285881",
       "title": "CBA季前赛",
       "keyword": "10月11日15:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "中南大学体育馆",
       "competitionName": "CBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/10/77QB8V31FP5U.jpg",
@@ -1281,16 +1305,24 @@
       },
       "nodes": [
         {
-          "pID": "968202151",
-          "name": "王冠证"
+          "pID": "968285881",
+          "name": "全场集锦"
         },
         {
-          "pID": "968202136",
-          "name": "赛场原声"
+          "pID": "968284462",
+          "name": "第一节"
         },
         {
-          "pID": "968276839",
-          "name": "王冠证"
+          "pID": "968284969",
+          "name": "第二节"
+        },
+        {
+          "pID": "968285466",
+          "name": "第三节"
+        },
+        {
+          "pID": "968285963",
+          "name": "第四节"
         }
       ]
     },
@@ -1492,25 +1524,25 @@
     },
     {
       "mgdbId": "120000595837",
-      "pID": "968282149",
-      "title": "国羽混双德比！丫邦PK高吴",
+      "pID": "968282159",
+      "title": "决赛日！丫邦2-0高吴夺冠",
       "keyword": "10月11日16:00",
       "sportItemId": "6",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "BWF",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/11/77QC4B8C8GIO.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/11/77QC566KAK9N.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
-      "pkInfoTitle": "国羽混双德比！丫邦PK高吴",
-      "modifyTitle": "北极羽毛球公开赛第六日：国羽混双德比！丫邦PK高吴",
+      "pkInfoTitle": "决赛日！丫邦2-0高吴夺冠",
+      "modifyTitle": "北极羽毛球公开赛第六日：决赛日！丫邦2-0高吴夺冠",
       "presenters": "朱胤丞",
       "matchInfo": {
         "time": "10月11日16:00"
       },
       "nodes": [
         {
-          "pID": "968282149",
-          "name": "蒋振邦/魏雅欣VS高家炫/吴梦莹"
+          "pID": "968282159",
+          "name": "因达农VS米娅"
         },
         {
           "pID": "968131417",
@@ -1519,6 +1551,10 @@
         {
           "pID": "968131424",
           "name": "1号场地英文视角"
+        },
+        {
+          "pID": "968282149",
+          "name": "蒋振邦/魏雅欣VS高家炫/吴梦莹"
         }
       ]
     },
@@ -1540,6 +1576,10 @@
         "time": "10月11日16:30"
       },
       "nodes": [
+        {
+          "pID": "968060157",
+          "name": "《中国榜样》郑钦文"
+        },
         {
           "pID": "968278293",
           "name": "西尼亚科娃/张帅 vs 达布劳斯基/史蒂芬妮"
@@ -1596,7 +1636,7 @@
       "title": "中乙保级赛",
       "keyword": "10月11日17:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "汉口文体中心体育场",
       "competitionName": "中乙",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000592535/202609050341_268029_H169_1080.webp",
@@ -2037,7 +2077,7 @@
       "keyword": "10月11日19:30",
       "sportItemId": "1",
       "matchStatus": "0",
-      "matchField": "越秀山体育���",
+      "matchField": "越秀山体育场",
       "competitionName": "中甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000570541/597044_H169_sc.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/10106c2211.png",
@@ -2143,6 +2183,10 @@
         {
           "pID": "968202173",
           "name": "同看辽宁vs四川"
+        },
+        {
+          "pID": "968278460",
+          "name": "同看郑钦文中网冲冠"
         },
         {
           "pID": "968202055",
@@ -2289,28 +2333,36 @@
           "name": "李宁 王蔷 张浩"
         },
         {
-          "pID": "968278358",
-          "name": "赛场原声"
+          "pID": "968113973",
+          "name": "明星视角"
         },
         {
-          "pID": "968234606",
-          "name": "《天空没有极限》mv回顾郑钦文中网晋级之路"
+          "pID": "968144960",
+          "name": "3D全真视频"
+        },
+        {
+          "pID": "968172743",
+          "name": "独行侠 vs 火箭"
+        },
+        {
+          "pID": "968278358",
+          "name": "赛场原声"
         },
         {
           "pID": "968060157",
           "name": "《中国榜样》中网2026郑钦文：美网“涅槃重生”展现心路历程 我的实力足以打败任何人"
         },
         {
-          "pID": "968051297",
-          "name": "从1-5到最高领奖台！少年胡佳未来可期"
-        },
-        {
-          "pID": "968138366",
-          "name": "中网双冠少女渠依含：努力的人，终会被看见"
+          "pID": "968234606",
+          "name": "《天空没有极限》mv回顾郑钦文中网晋级之路"
         },
         {
           "pID": "968278554",
           "name": "解说陪看视角"
+        },
+        {
+          "pID": "968053113",
+          "name": "钻石球场4K"
         }
       ]
     },
@@ -2610,7 +2662,7 @@
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000584227/854200_H169_sc.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png",
       "pkInfoTitle": "赫尔城 vs 埃弗顿",
-      "modifyTitle": "英超联赛",
+      "modifyTitle": "英��联赛",
       "presenters": "林梦鸽",
       "matchInfo": {
         "time": "10月11日21:00"
