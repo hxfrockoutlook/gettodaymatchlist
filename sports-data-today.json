@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-11 22:03:07",
+  "updateTime": "2026-10-11 22:32:59",
   "data": [
     {
       "mgdbId": "120000584847",
@@ -991,6 +991,10 @@
         {
           "pID": "968296439",
           "name": "全场回放（邓亚萍、周雨、周冠达）（二）"
+        },
+        {
+          "pID": "968299365",
+          "name": "2026WTT中国大满贯Day11全场回放（智能解说）"
         }
       ]
     },
@@ -1653,6 +1657,10 @@
           "name": "【回放】陈樊淑湉/罗徐敏2-0许尹鏸/林芝昀（杨妮娜）"
         },
         {
+          "pID": "968300258",
+          "name": "2026BWF北极羽毛球公开赛男双决赛回放：戴伟钦/叶睿庆2-0赖柏佑/蔡富丞（杨妮娜）"
+        },
+        {
           "pID": "968286887",
           "name": "【集锦】蒋振邦/魏雅欣2-0高家炫/吴梦莹"
         },
@@ -1693,8 +1701,8 @@
           "name": "《中国榜样》郑钦文"
         },
         {
-          "pID": "967952039",
-          "name": "单边"
+          "pID": "967952064",
+          "name": "赛后发布会"
         },
         {
           "pID": "968278460",
@@ -1790,7 +1798,7 @@
       "nodes": [
         {
           "pID": "968293425",
-          "name": "全场集锦"
+          "name": "超长版集锦"
         },
         {
           "pID": "968293658",
@@ -1802,15 +1810,11 @@
         },
         {
           "pID": "968293421",
-          "name": "全场回放"
-        },
-        {
-          "pID": "968294350",
-          "name": "全场回放"
+          "name": "全场回放（AI智能观赛）"
         },
         {
           "pID": "968296282",
-          "name": "全场回放"
+          "name": "全场回放（AI智能解说）"
         }
       ]
     },
@@ -1833,12 +1837,12 @@
       },
       "nodes": [
         {
-          "pID": "968298359",
-          "name": "【球星高光】全场高呼MVP！欧文灵动拉杆+超远压哨宣告回归"
-        },
-        {
           "pID": "968295106",
           "name": "全场集锦"
+        },
+        {
+          "pID": "968298927",
+          "name": "全场回放（李天宇、陈正昊、魏欣怡）"
         },
         {
           "pID": "968297934",
@@ -2096,7 +2100,7 @@
       "title": "闽超",
       "keyword": "10月11日19:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "闽超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000594798/202609221021_322834_H169_1080.webp",
@@ -2181,6 +2185,10 @@
       },
       "nodes": [
         {
+          "pID": "968296849",
+          "name": "全场回放（李嘉伟）"
+        },
+        {
           "pID": "968296053",
           "name": "【回放】上海横沙誉民19:18北京控股"
         },
@@ -2195,10 +2203,6 @@
         {
           "pID": "968289999",
           "name": "【回放】上海横沙誉民21:10贵州贵阳丝恋"
-        },
-        {
-          "pID": "968296849",
-          "name": "2026超三联赛三亚大区赛A档半决赛及决赛全场回放（李嘉伟）"
         }
       ]
     },
@@ -2277,6 +2281,10 @@
           "name": "全场集锦"
         },
         {
+          "pID": "968298234",
+          "name": "全场回放（孙博）"
+        },
+        {
           "pID": "968297742",
           "name": "全场精华"
         },
@@ -2295,16 +2303,12 @@
         {
           "pID": "968297457",
           "name": "第四节"
-        },
-        {
-          "pID": "968298234",
-          "name": "全场回放（孙博）"
         }
       ]
     },
     {
       "mgdbId": "120000592386",
-      "pID": "968202128",
+      "pID": "968294927",
       "title": "CBA季前赛",
       "keyword": "10月11日19:30",
       "sportItemId": "2",
@@ -2323,6 +2327,10 @@
         {
           "pID": "968294927",
           "name": "全场集锦"
+        },
+        {
+          "pID": "968299170",
+          "name": "全场精华"
         },
         {
           "pID": "968292863",
@@ -2363,6 +2371,10 @@
         {
           "pID": "968293177",
           "name": "全场集锦"
+        },
+        {
+          "pID": "968298868",
+          "name": "全场回放（庄宁宇）"
         },
         {
           "pID": "968297955",
@@ -2407,6 +2419,14 @@
         {
           "pID": "968293447",
           "name": "全场集锦"
+        },
+        {
+          "pID": "968298994",
+          "name": "全场回放（字诚）"
+        },
+        {
+          "pID": "968297744",
+          "name": "全场精华"
         },
         {
           "pID": "968292115",
@@ -2531,7 +2551,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "中国网球公开赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/11/77QC6J7UCH8L.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/11/77QC6S0RVQT9.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/9/25/10000000111010617861.jpg",
       "pkInfoTitle": "郑钦文 vs 安德列娃",
       "modifyTitle": "郑钦文 vs 安德列娃",
@@ -2541,8 +2561,8 @@
       },
       "nodes": [
         {
-          "pID": "967952039",
-          "name": "单边"
+          "pID": "967952064",
+          "name": "赛后发布会"
         },
         {
           "pID": "968278460",
@@ -2605,8 +2625,8 @@
       },
       "nodes": [
         {
-          "pID": "968297380",
-          "name": "全场集锦"
+          "pID": "968299105",
+          "name": "超长版集锦"
         }
       ]
     },
@@ -2634,7 +2654,11 @@
         },
         {
           "pID": "968298627",
-          "name": "全场回放（AI观赛）"
+          "name": "全场回放（AI智慧观赛）"
+        },
+        {
+          "pID": "968298952",
+          "name": "全场回放"
         }
       ]
     },
@@ -2808,7 +2832,7 @@
     },
     {
       "mgdbId": "120000596188",
-      "pID": "968200638",
+      "pID": "968200685",
       "title": "罗马站LGCT大奖赛",
       "keyword": "10月11日19:50",
       "sportItemId": "8",
@@ -2943,7 +2967,7 @@
       "matchStatus": "1",
       "matchField": "尼斯球场",
       "competitionName": "法甲",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000584481/202610112147_441835_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000584481/202610112217_420698_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/1/9106077d9.png",
       "pkInfoTitle": "尼斯 vs 斯特拉斯堡",
       "modifyTitle": "法甲联赛",
@@ -2971,7 +2995,7 @@
       "matchStatus": "1",
       "matchField": "维亚德马雷市政体育场",
       "competitionName": "意甲",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000584845/202610112148_650961_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000584845/202610112229_326204_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png",
       "pkInfoTitle": "莱切 vs 博洛尼亚",
       "modifyTitle": "意甲联赛",
