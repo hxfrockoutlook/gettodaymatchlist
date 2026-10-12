@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-13 06:01:34",
+  "updateTime": "2026-10-13 06:31:22",
   "data": [
     {
       "mgdbId": "120000590454",
@@ -195,6 +195,10 @@
         {
           "pID": "968346957",
           "name": "全场回放（AI观赛）"
+        },
+        {
+          "pID": "968347147",
+          "name": "全场回放"
         }
       ]
     },
@@ -252,14 +256,14 @@
     },
     {
       "mgdbId": "120000590036",
-      "pID": "968238027",
+      "pID": "968347212",
       "title": "NBA季前赛",
       "keyword": "10月13日04:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "摩达中心",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/13/77QDVKLEQ9CV.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/13/77QDVRKB8EGR.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "狮子VS开拓者",
       "modifyTitle": "NBA季前赛",
@@ -269,12 +273,8 @@
       },
       "nodes": [
         {
-          "pID": "968238027",
-          "name": "邵化谦"
-        },
-        {
-          "pID": "968238039",
-          "name": "英文原声"
+          "pID": "968346204",
+          "name": "第一节"
         }
       ]
     },
@@ -618,7 +618,7 @@
       "sportItemId": "7",
       "matchStatus": "0",
       "matchField": "",
-      "competitionName": "乒乓球经典赛事",
+      "competitionName": "乒乓球���典赛事",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/12/77QD3LK8U88I.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/4/3/10000000117810627118.jpg",
       "pkInfoTitle": "重温梁靖崑男团半决赛鏖战五局胜松岛",
