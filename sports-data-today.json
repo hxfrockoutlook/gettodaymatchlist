@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-12 10:31:06",
+  "updateTime": "2026-10-12 11:01:19",
   "data": [
     {
       "mgdbId": "120000584843",
@@ -181,6 +181,10 @@
           "name": "全场回放（刘圳展）"
         },
         {
+          "pID": "968323931",
+          "name": "全场回放（英文原声）"
+        },
+        {
           "pID": "968322841",
           "name": "全场回放（AI字幕）"
         },
@@ -227,6 +231,10 @@
         {
           "pID": "968322920",
           "name": "全场回放（张泽欣）"
+        },
+        {
+          "pID": "968324168",
+          "name": "全场回放（英文原声）"
         },
         {
           "pID": "968320644",
@@ -391,6 +399,30 @@
         {
           "pID": "968190435",
           "name": "解说"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000595944",
+      "pID": "968169353",
+      "title": "奥兰多魔术 vs 克利夫兰骑士",
+      "keyword": "10月12日18:00",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "NBA经典赛事",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png",
+      "pkInfoTitle": "奥兰多魔术 vs 克利夫兰骑士",
+      "modifyTitle": "NBA经典赛事",
+      "presenters": "",
+      "matchInfo": {
+        "time": "10月12日18:00"
+      },
+      "nodes": [
+        {
+          "pID": "968169353",
+          "name": "伪直播"
         }
       ]
     },
