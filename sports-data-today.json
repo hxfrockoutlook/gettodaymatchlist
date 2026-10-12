@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-13 06:31:22",
+  "updateTime": "2026-10-13 07:01:30",
   "data": [
     {
       "mgdbId": "120000590454",
@@ -221,12 +221,16 @@
       },
       "nodes": [
         {
-          "pID": "968169212",
-          "name": "周楚雄"
+          "pID": "968347249",
+          "name": "全场集锦"
         },
         {
-          "pID": "968169202",
-          "name": "赛场原声"
+          "pID": "968347215",
+          "name": "全场回放（周楚雄）"
+        },
+        {
+          "pID": "968347262",
+          "name": "全场回放（AI智慧观赛）"
         }
       ]
     },
@@ -248,6 +252,10 @@
         "time": "10月13日03:15"
       },
       "nodes": [
+        {
+          "pID": "968347158",
+          "name": "全场集锦"
+        },
         {
           "pID": "968347066",
           "name": "全场回放（涂远）"
@@ -275,6 +283,18 @@
         {
           "pID": "968346204",
           "name": "第一节"
+        },
+        {
+          "pID": "968347345",
+          "name": "第二节"
+        },
+        {
+          "pID": "968347379",
+          "name": "第三节"
+        },
+        {
+          "pID": "968347398",
+          "name": "第四节"
         }
       ]
     },
@@ -284,7 +304,7 @@
       "title": "NBA季前赛",
       "keyword": "10月13日07:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "第一资本体育馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/12/77QD2039S516.png",
@@ -312,7 +332,7 @@
       "title": "NBA季前赛",
       "keyword": "10月13日07:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "州立农业球馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/12/77QD205UDVKI.png",
@@ -618,7 +638,7 @@
       "sportItemId": "7",
       "matchStatus": "0",
       "matchField": "",
-      "competitionName": "乒乓球���典赛事",
+      "competitionName": "乒乓球经��赛事",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/12/77QD3LK8U88I.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/4/3/10000000117810627118.jpg",
       "pkInfoTitle": "重温梁靖崑男团半决赛鏖战五局胜松岛",
