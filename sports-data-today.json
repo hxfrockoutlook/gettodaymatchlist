@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-13 03:01:31",
+  "updateTime": "2026-10-13 03:31:23",
   "data": [
     {
       "mgdbId": "120000590454",
@@ -27,6 +27,10 @@
         {
           "pID": "968342295",
           "name": "全场回放（鲁靖明）"
+        },
+        {
+          "pID": "968342709",
+          "name": "全场回放"
         }
       ]
     },
@@ -48,6 +52,10 @@
         "time": "10月13日00:00"
       },
       "nodes": [
+        {
+          "pID": "968342082",
+          "name": "全场集锦"
+        },
         {
           "pID": "968341927",
           "name": "全场回放（孙雨轩）"
@@ -75,10 +83,6 @@
         {
           "pID": "968342378",
           "name": "全场集锦"
-        },
-        {
-          "pID": "968342225",
-          "name": "全场回放"
         },
         {
           "pID": "968342259",
@@ -110,34 +114,6 @@
         },
         {
           "pID": "968170442",
-          "name": "赛场原声"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000590452",
-      "pID": "968170417",
-      "title": "亚冠精英联赛阶段",
-      "keyword": "10月13日02:15",
-      "sportItemId": "1",
-      "matchStatus": "1",
-      "matchField": "沙特国王大学体育场",
-      "competitionName": "亚冠精英",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000590452/243197_H169_sc.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/9/11/1000000012261060873b.png",
-      "pkInfoTitle": "利雅得胜利 vs 费尔干纳油工",
-      "modifyTitle": "亚冠精英联赛阶段",
-      "presenters": "涂远",
-      "matchInfo": {
-        "time": "10月13日02:15"
-      },
-      "nodes": [
-        {
-          "pID": "968170417",
-          "name": "涂远"
-        },
-        {
-          "pID": "968170408",
           "name": "赛场原声"
         }
       ]
@@ -179,7 +155,7 @@
       "matchStatus": "1",
       "matchField": "奥林匹克球场",
       "competitionName": "意甲",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000584842/202610130249_731355_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000584842/202610130325_372097_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png",
       "pkInfoTitle": "都灵 vs 乌迪内斯",
       "modifyTitle": "意甲联赛",
@@ -258,6 +234,34 @@
         },
         {
           "pID": "968169202",
+          "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000590452",
+      "pID": "968170417",
+      "title": "亚冠精英联赛阶段",
+      "keyword": "10月13日03:15",
+      "sportItemId": "1",
+      "matchStatus": "1",
+      "matchField": "沙特国王大学体育场",
+      "competitionName": "亚冠精英",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000590452/243197_H169_sc.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/9/11/1000000012261060873b.png",
+      "pkInfoTitle": "利雅得胜利 vs 费尔干纳油工",
+      "modifyTitle": "亚冠精英联赛阶段",
+      "presenters": "涂远",
+      "matchInfo": {
+        "time": "10月13日03:15"
+      },
+      "nodes": [
+        {
+          "pID": "968170417",
+          "name": "涂远"
+        },
+        {
+          "pID": "968170408",
           "name": "赛场原声"
         }
       ]
