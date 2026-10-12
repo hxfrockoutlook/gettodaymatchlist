@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-12 21:31:15",
+  "updateTime": "2026-10-12 22:01:44",
   "data": [
     {
       "mgdbId": "120000584843",
@@ -420,11 +420,11 @@
     },
     {
       "mgdbId": "120000595944",
-      "pID": "968169353",
+      "pID": "968322566",
       "title": "奥兰多魔术 vs 克利夫兰骑士",
       "keyword": "10月12日18:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA经典赛事",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/12/77QD27ARJC7I.png",
@@ -437,8 +437,8 @@
       },
       "nodes": [
         {
-          "pID": "968169353",
-          "name": "NBA季前赛: 奥兰多魔术 vs 克利夫兰骑士"
+          "pID": "968322566",
+          "name": "全场回放"
         }
       ]
     },
@@ -496,7 +496,7 @@
       "matchStatus": "1",
       "matchField": "海沧体育中心",
       "competitionName": "中乙",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000592528/202609050340_159660_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000592528/202610122200_521338_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/7/7/1000000011571060f297.png",
       "pkInfoTitle": "厦门飞鹭 vs 泰安天贶",
       "modifyTitle": "中乙保级赛",
@@ -559,6 +559,34 @@
         },
         {
           "pID": "968170313",
+          "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000590454",
+      "pID": "120000590454",
+      "title": "0点迪拜祈祷vs吉达国民",
+      "keyword": "10月12日23:45",
+      "sportItemId": "",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "亚冠精英",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000590454/116877_H169_sc.jpg",
+      "competitionLogo": "",
+      "pkInfoTitle": "0点迪拜祈祷vs吉达国民",
+      "modifyTitle": "0点迪拜祈祷vs吉达国民",
+      "presenters": "",
+      "matchInfo": {
+        "time": "10月12日23:45"
+      },
+      "nodes": [
+        {
+          "pID": "968170383",
+          "name": "鲁靖明"
+        },
+        {
+          "pID": "968170362",
           "name": "赛场原声"
         }
       ]
