@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-13 21:01:46",
+  "updateTime": "2026-10-13 21:32:05",
   "data": [
     {
       "mgdbId": "120000590454",
@@ -560,7 +560,7 @@
     },
     {
       "mgdbId": "120000596319",
-      "pID": "968329677",
+      "pID": "968352534",
       "title": "凤凰率先晋级！胡哲安直面劲敌拉尼尔",
       "keyword": "10月13日15:00",
       "sportItemId": "6",
@@ -571,11 +571,15 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "凤凰率先晋级！胡哲安直面劲敌拉尼尔",
       "modifyTitle": "丹麦羽毛球公开赛1/16决赛：凤凰率先晋级！胡哲安直面劲敌拉尼尔",
-      "presenters": "余博洋 轩子博 杨妮娜 鸿昆",
+      "presenters": "轩子博 余博洋 杨妮娜 鸿昆",
       "matchInfo": {
         "time": "10月13日15:00"
       },
       "nodes": [
+        {
+          "pID": "968352534",
+          "name": "拉尼尔VS胡哲安"
+        },
         {
           "pID": "968329677",
           "name": "1号场地"
@@ -591,10 +595,6 @@
         {
           "pID": "968352575",
           "name": "罗意/王汀戈VS本吉苏/茵琦"
-        },
-        {
-          "pID": "968352534",
-          "name": "拉尼尔VS胡哲安"
         },
         {
           "pID": "968352545",
@@ -738,7 +738,7 @@
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000590449/202610132030_122039_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/9/11/1000000012261060873b.png",
       "pkInfoTitle": "京都不死鸟 vs 叻武里",
-      "modifyTitle": "亚冠精英联赛阶���",
+      "modifyTitle": "亚冠精英联赛阶段",
       "presenters": "孙雨轩",
       "matchInfo": {
         "time": "10月13日18:00"
@@ -751,6 +751,10 @@
         {
           "pID": "968363014",
           "name": "全场回放（孙雨轩）"
+        },
+        {
+          "pID": "968363710",
+          "name": "全场回放"
         }
       ]
     },
@@ -912,7 +916,7 @@
       "title": "亚冠二级小组赛",
       "keyword": "10月13日21:45",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "盐湖球场",
       "competitionName": "亚冠二级",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000590547/202608191246_385876_H169_1080.webp",
