@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-14 12:31:17",
+  "updateTime": "2026-10-14 13:01:26",
   "data": [
     {
       "mgdbId": "120000590444",
@@ -312,16 +312,16 @@
     },
     {
       "mgdbId": "120000589625",
-      "pID": "968237987",
+      "pID": "968373046",
       "title": "NBA季前赛",
       "keyword": "10月14日10:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "T-Mobile竞技场",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/14/77QEUOMEJO7H.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
-      "pkInfoTitle": "勇士VS���人",
+      "pkInfoTitle": "勇士VS湖人",
       "modifyTitle": "NBA季前赛",
       "presenters": "蔡凯臣 季孟年 秋童",
       "matchInfo": {
@@ -329,25 +329,37 @@
       },
       "nodes": [
         {
-          "pID": "968237987",
-          "name": "蔡凯臣 季孟年 秋童"
+          "pID": "968373046",
+          "name": "全场集锦"
         },
         {
-          "pID": "968237959",
-          "name": "英文原声"
+          "pID": "968370835",
+          "name": "第一节"
+        },
+        {
+          "pID": "968371553",
+          "name": "第二节"
+        },
+        {
+          "pID": "968372427",
+          "name": "第三节"
+        },
+        {
+          "pID": "968372799",
+          "name": "第四节"
         }
       ]
     },
     {
       "mgdbId": "120000589638",
-      "pID": "968372627",
+      "pID": "968373050",
       "title": "NBA季前赛",
       "keyword": "10月14日10:00",
       "sportItemId": "2",
       "matchStatus": "2",
       "matchField": "金色一号中心",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/13/77QDUQQTMDHM.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/14/77QEUQF0K9NG.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "开拓者VS国王",
       "modifyTitle": "NBA季前赛",
@@ -356,6 +368,14 @@
         "time": "10月14日10:00"
       },
       "nodes": [
+        {
+          "pID": "968373050",
+          "name": "全场集锦"
+        },
+        {
+          "pID": "968373064",
+          "name": "全场回放（盛哲）"
+        },
         {
           "pID": "968370866",
           "name": "第一节"
@@ -367,6 +387,10 @@
         {
           "pID": "968372401",
           "name": "第三节"
+        },
+        {
+          "pID": "968372808",
+          "name": "第四节"
         }
       ]
     },
