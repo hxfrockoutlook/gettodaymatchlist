@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-14 21:31:34",
+  "updateTime": "2026-10-14 22:01:34",
   "data": [
     {
       "mgdbId": "120000590444",
@@ -342,7 +342,7 @@
         },
         {
           "pID": "968379305",
-          "name": "全场回放（英文���声）"
+          "name": "全场回放（英文原声）"
         },
         {
           "pID": "968370835",
@@ -436,34 +436,22 @@
     },
     {
       "mgdbId": "120000596320",
-      "pID": "968370339",
+      "pID": "968329802",
       "title": "翁泓阳迎战小波波夫 任何组合逆转晋级",
       "keyword": "10月14日15:00",
       "sportItemId": "6",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "BWF",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/14/77QETKUB4CCS.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/14/77QETVBO61ED.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "翁泓阳迎战小波波夫 任何组合逆转晋级",
       "modifyTitle": "丹麦羽毛球公开赛1/16决赛：翁泓阳迎战小波波夫 任何组合逆转晋级",
-      "presenters": "鸿昆 朱胤丞 余博洋",
+      "presenters": "",
       "matchInfo": {
         "time": "10月14日15:00"
       },
       "nodes": [
-        {
-          "pID": "968370339",
-          "name": "翁泓阳VS小波波夫"
-        },
-        {
-          "pID": "968370411",
-          "name": "李文珊VS王祉怡"
-        },
-        {
-          "pID": "968370521",
-          "name": "胡达VS韩千禧"
-        },
         {
           "pID": "968329802",
           "name": "1号场地"
@@ -568,7 +556,7 @@
     },
     {
       "mgdbId": "120000595569",
-      "pID": "968370046",
+      "pID": "968384153",
       "title": "东亚超级联赛A组常规赛",
       "keyword": "10月14日18:00",
       "sportItemId": "2",
@@ -585,22 +573,26 @@
       },
       "nodes": [
         {
+          "pID": "968384153",
+          "name": "全场集锦"
+        },
+        {
           "pID": "968384004",
           "name": "全场回放（王冠证）"
         },
         {
           "pID": "968384598",
-          "name": "全场回放"
+          "name": "全场回放（赛场原声）"
         },
         {
           "pID": "968384640",
-          "name": "全场回放"
+          "name": "全场回放（英文解说）"
         }
       ]
     },
     {
       "mgdbId": "120000595570",
-      "pID": "968076228",
+      "pID": "968384607",
       "title": "东亚超级联赛B组常规赛",
       "keyword": "10月14日18:00",
       "sportItemId": "2",
@@ -617,8 +609,20 @@
       },
       "nodes": [
         {
+          "pID": "968384607",
+          "name": "全场集锦"
+        },
+        {
           "pID": "968384514",
           "name": "全场回放（季孟年）"
+        },
+        {
+          "pID": "968384878",
+          "name": "全场回放（赛场原声）"
+        },
+        {
+          "pID": "968385127",
+          "name": "全场回放（英文解说）"
         }
       ]
     },
