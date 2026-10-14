@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-14 12:01:20",
+  "updateTime": "2026-10-14 12:31:17",
   "data": [
     {
       "mgdbId": "120000590444",
@@ -261,6 +261,10 @@
           "name": "全场回放（罗森）"
         },
         {
+          "pID": "968372439",
+          "name": "全场回放（英文原声）"
+        },
+        {
           "pID": "968371227",
           "name": "全场回放（AI字幕）"
         },
@@ -315,9 +319,9 @@
       "matchStatus": "1",
       "matchField": "T-Mobile竞技场",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/14/77QETTJRAL18.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/14/77QEUOMEJO7H.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
-      "pkInfoTitle": "勇士VS湖人",
+      "pkInfoTitle": "勇士VS���人",
       "modifyTitle": "NBA季前赛",
       "presenters": "蔡凯臣 季孟年 秋童",
       "matchInfo": {
@@ -329,10 +333,6 @@
           "name": "蔡凯臣 季孟年 秋童"
         },
         {
-          "pID": "968238149",
-          "name": "开拓者vs国王"
-        },
-        {
           "pID": "968237959",
           "name": "英文原声"
         }
@@ -340,11 +340,11 @@
     },
     {
       "mgdbId": "120000589638",
-      "pID": "968238149",
+      "pID": "968372627",
       "title": "NBA季前赛",
       "keyword": "10月14日10:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "金色一号中心",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/13/77QDUQQTMDHM.png",
@@ -357,16 +357,16 @@
       },
       "nodes": [
         {
-          "pID": "968238149",
-          "name": "盛哲"
+          "pID": "968370866",
+          "name": "第一节"
         },
         {
-          "pID": "968237987",
-          "name": "勇士vs湖人"
+          "pID": "968371621",
+          "name": "第二节"
         },
         {
-          "pID": "968238090",
-          "name": "英文原声"
+          "pID": "968372401",
+          "name": "第三节"
         }
       ]
     },
