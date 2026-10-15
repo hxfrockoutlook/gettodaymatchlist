@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-15 20:01:33",
+  "updateTime": "2026-10-15 20:31:27",
   "data": [
     {
       "mgdbId": "120000590540",
@@ -186,7 +186,7 @@
         },
         {
           "pID": "968391565",
-          "name": "第四节"
+          "name": "第��节"
         }
       ]
     },
@@ -684,7 +684,7 @@
       "title": "亚冠二级小组赛",
       "keyword": "10月15日18:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "旺角大球场",
       "competitionName": "亚冠二级",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000590538/202608190903_479356_H169_1080.webp",
@@ -697,22 +697,22 @@
       },
       "nodes": [
         {
-          "pID": "968170707",
-          "name": "张天翼"
+          "pID": "968404958",
+          "name": "全场回放（张天翼）"
         },
         {
-          "pID": "968171214",
-          "name": "赛场原声"
+          "pID": "968404963",
+          "name": "全场回放"
         }
       ]
     },
     {
       "mgdbId": "120000595947",
-      "pID": "968169317",
+      "pID": "968393176",
       "title": "菲尼克斯太阳 vs 圣安东尼奥马刺",
       "keyword": "10月15日18:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA经典赛事",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/15/77QFP91LNRMR.png",
@@ -725,47 +725,23 @@
       },
       "nodes": [
         {
-          "pID": "968169317",
-          "name": "NBA重播"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000596281",
-      "pID": "968285628",
-      "title": "重温林诗栋男团半决赛3-2篠塚大登",
-      "keyword": "10月15日19:00",
-      "sportItemId": "7",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "乒乓球经典赛事",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/14/77QESEOA1B5T.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/4/3/10000000117810627118.jpg",
-      "pkInfoTitle": "重温林诗栋男团半决赛3-2篠塚大登",
-      "modifyTitle": "【赛事放映厅】重温2025团体亚锦赛：林诗栋专场",
-      "presenters": "",
-      "matchInfo": {
-        "time": "10月15日19:00"
-      },
-      "nodes": [
-        {
-          "pID": "968285628",
-          "name": "经典赛事"
+          "pID": "968393176",
+          "name": "全场回放（王冠证）"
         }
       ]
     },
     {
       "mgdbId": "300000002447",
       "pID": "968383681",
-      "title": "CBA开赛前夜·连麦高诗岩程帅澎",
+      "title": "CBA开赛前夜·高诗岩程帅澎展望新赛季",
       "sportItemId": "2",
       "matchStatus": "2",
       "matchField": "",
       "competitionName": "CBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/15/77QFR2MEV5VB.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png",
-      "pkInfoTitle": "CBA开赛前夜·连麦高诗岩程帅澎",
-      "modifyTitle": "CBA开赛前夜·连麦高诗岩程帅澎",
+      "pkInfoTitle": "CBA开赛前夜·高诗岩程帅澎展望新赛季",
+      "modifyTitle": "CBA开赛前夜·高诗岩程帅澎展望新赛季",
       "presenters": "",
       "matchInfo": {},
       "nodes": [
@@ -910,6 +886,25 @@
           "name": "赛场原声"
         }
       ]
+    },
+    {
+      "mgdbId": "120000596281",
+      "pID": "120000596281",
+      "title": "重温林诗栋男团半决赛3-2篠塚大登",
+      "keyword": "10月15日19:00",
+      "sportItemId": "",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "乒乓球经典赛事",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/11/27/11005/ea8937fd9ca645ba9b1b97d7bfa79400/ea8937fd9ca645ba9b1b97d7bfa79400_H169_P1080_WEBP.webp",
+      "competitionLogo": "",
+      "pkInfoTitle": "重温林诗栋男团半决赛3-2篠塚大登",
+      "modifyTitle": "重温林诗栋男团半决赛3-2篠塚大登",
+      "presenters": "",
+      "matchInfo": {
+        "time": "10月15日19:00"
+      },
+      "nodes": []
     }
   ]
 }
