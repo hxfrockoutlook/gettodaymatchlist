@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-15 10:01:28",
+  "updateTime": "2026-10-15 10:31:20",
   "data": [
     {
       "mgdbId": "120000590540",
@@ -144,7 +144,7 @@
     },
     {
       "mgdbId": "120000590108",
-      "pID": "968391077",
+      "pID": "968392036",
       "title": "NBA季前赛",
       "keyword": "10月15日07:30",
       "sportItemId": "2",
@@ -160,6 +160,14 @@
         "time": "10月15日07:30"
       },
       "nodes": [
+        {
+          "pID": "968392036",
+          "name": "全场集锦"
+        },
+        {
+          "pID": "968392280",
+          "name": "全场回放（蔡凯臣）"
+        },
         {
           "pID": "968389773",
           "name": "第一节"
@@ -180,14 +188,14 @@
     },
     {
       "mgdbId": "120000590109",
-      "pID": "968238341",
+      "pID": "968391134",
       "title": "NBA季前赛",
       "keyword": "10月15日07:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "卡西亚中心",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/14/77QEUFKQC4TA.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/15/77QFR7DR44BP.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "篮网VS热火",
       "modifyTitle": "NBA季前赛",
@@ -197,12 +205,20 @@
       },
       "nodes": [
         {
-          "pID": "968238341",
-          "name": "张泽欣"
+          "pID": "968389898",
+          "name": "第一节"
         },
         {
-          "pID": "968238328",
-          "name": "英文原声"
+          "pID": "968390138",
+          "name": "第二节"
+        },
+        {
+          "pID": "968391334",
+          "name": "第三节"
+        },
+        {
+          "pID": "968391954",
+          "name": "第四节"
         }
       ]
     },
@@ -348,7 +364,7 @@
       "title": "NBA季前赛",
       "keyword": "10月15日10:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "因图特圆顶球馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/14/77QERI830CG3.png",
