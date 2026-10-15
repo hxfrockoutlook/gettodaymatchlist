@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-15 13:31:20",
+  "updateTime": "2026-10-15 14:01:32",
   "data": [
     {
       "mgdbId": "120000590540",
@@ -313,6 +313,10 @@
           "name": "全场回放（李嘉伟）"
         },
         {
+          "pID": "968394701",
+          "name": "全场回放（英文原声）"
+        },
+        {
           "pID": "968390082",
           "name": "第一节"
         },
@@ -448,7 +452,7 @@
     },
     {
       "mgdbId": "120000591848",
-      "pID": "968394781",
+      "pID": "968396036",
       "title": "NBA季前赛",
       "keyword": "10月15日10:30",
       "sportItemId": "2",
@@ -465,6 +469,10 @@
       },
       "nodes": [
         {
+          "pID": "968396036",
+          "name": "全场集锦"
+        },
+        {
           "pID": "968393564",
           "name": "第一节"
         },
@@ -475,6 +483,10 @@
         {
           "pID": "968395060",
           "name": "第三节"
+        },
+        {
+          "pID": "968395702",
+          "name": "第四节"
         }
       ]
     },
@@ -484,7 +496,7 @@
       "title": "浪琴表北京国际马术大师赛day1",
       "keyword": "10月15日14:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "浪琴表北京国际马术大师赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/09/77QAB8BIPDIM.png",
@@ -809,6 +821,10 @@
         "time": "10月15日20:15"
       },
       "nodes": [
+        {
+          "pID": "968170782",
+          "name": "刘洋"
+        },
         {
           "pID": "968171276",
           "name": "赛场原声"
