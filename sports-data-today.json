@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-16 20:01:38",
+  "updateTime": "2026-10-16 20:31:25",
   "data": [
     {
       "mgdbId": "120000589635",
@@ -267,6 +267,10 @@
         {
           "pID": "968420446",
           "name": "全场回放（一）"
+        },
+        {
+          "pID": "968426819",
+          "name": "全场回放（二）"
         }
       ]
     },
@@ -320,14 +324,14 @@
     },
     {
       "mgdbId": "120000596322",
-      "pID": "968414100",
+      "pID": "968414154",
       "title": "凤凰、梁王组合轮番出战 王祉怡晋级",
       "keyword": "10月16日17:00",
       "sportItemId": "6",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "BWF",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/16/77QGN83RRPMF.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/16/77QGNPSCPDH0.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "凤凰、梁王组合轮番出战 王祉怡晋级",
       "modifyTitle": "丹麦羽毛球公开赛1/4决赛：凤凰、梁王组合轮番出战 王祉怡晋级",
@@ -337,8 +341,12 @@
       },
       "nodes": [
         {
-          "pID": "968414100",
-          "name": "李美妙VS山口茜"
+          "pID": "968414154",
+          "name": "吴世飞/伊祖丁VS梁伟铿/王昶"
+        },
+        {
+          "pID": "968413861",
+          "name": "冯彦哲/黄东萍VS叶宏蔚/詹又蓁"
         },
         {
           "pID": "968330135",
@@ -357,20 +365,12 @@
           "name": "2号场地英文视角"
         },
         {
-          "pID": "968413861",
-          "name": "冯彦哲/黄东萍VS叶宏蔚/詹又蓁"
-        },
-        {
           "pID": "968413881",
           "name": "冲本优大VS小波波夫"
         },
         {
           "pID": "968414049",
           "name": "程星/张驰VS马蒂亚斯/博尔"
-        },
-        {
-          "pID": "968414154",
-          "name": "吴世飞/伊祖丁VS梁伟铿/王昶"
         },
         {
           "pID": "968414160",
@@ -395,6 +395,10 @@
         {
           "pID": "968414086",
           "name": "谢定峰/苏伟译VS冈村洋辉/山下恭平"
+        },
+        {
+          "pID": "968414100",
+          "name": "李美妙VS山口茜"
         }
       ]
     },
@@ -428,11 +432,11 @@
     },
     {
       "mgdbId": "120000595948",
-      "pID": "968169302",
+      "pID": "968414593",
       "title": "俄克拉荷马城雷霆 vs 休斯顿火箭",
       "keyword": "10月16日18:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA经典赛事",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/16/77QGLPT02637.png",
@@ -445,8 +449,8 @@
       },
       "nodes": [
         {
-          "pID": "968169302",
-          "name": "NBA季前赛: 俄克拉荷马城雷霆 vs 休斯顿火箭"
+          "pID": "968414593",
+          "name": "全场回放（周鹏）"
         }
       ]
     },
@@ -564,30 +568,6 @@
         {
           "pID": "968181570",
           "name": "赛场原声"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000596282",
-      "pID": "968285647",
-      "title": "重温王曼昱女团决赛3-1击败桥本帆乃香",
-      "keyword": "10月16日19:00",
-      "sportItemId": "7",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "乒乓球经典赛事",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/15/77QFPR18J8P4.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/4/3/10000000117810627118.jpg",
-      "pkInfoTitle": "重温王曼昱女团决赛3-1击败桥本帆乃香",
-      "modifyTitle": "【赛事放映厅】重温2025团体亚锦赛：王曼昱专场",
-      "presenters": "",
-      "matchInfo": {
-        "time": "10月16日19:00"
-      },
-      "nodes": [
-        {
-          "pID": "968285647",
-          "name": "经典赛事"
         }
       ]
     },
