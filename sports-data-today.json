@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-16 13:01:26",
+  "updateTime": "2026-10-16 13:31:21",
   "data": [
     {
       "mgdbId": "120000589635",
@@ -125,6 +125,14 @@
           "name": "全场回放（周鹏）"
         },
         {
+          "pID": "968416456",
+          "name": "全场回放（英文原声）"
+        },
+        {
+          "pID": "968414835",
+          "name": "全场回放（AI字幕）"
+        },
+        {
           "pID": "968411617",
           "name": "第一节"
         },
@@ -239,6 +247,30 @@
       ]
     },
     {
+      "mgdbId": "120000596555",
+      "pID": "968414898",
+      "title": "第二届江苏省城市钓鱼超级联赛总决赛",
+      "keyword": "10月16日14:00",
+      "sportItemId": "8",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "江苏省城市钓鱼超级联赛",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/11/14/100000001373106f7299.jpg",
+      "pkInfoTitle": "第二届江苏省城市钓鱼超级联赛总决赛",
+      "modifyTitle": "第二届江苏省城市钓鱼超级联赛总决赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "10月16日14:00"
+      },
+      "nodes": [
+        {
+          "pID": "968414898",
+          "name": "解说"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000596463",
       "pID": "968377624",
       "title": "JCK战觉城王者系列017：赛前称重仪式",
@@ -318,7 +350,7 @@
         },
         {
           "pID": "968330141",
-          "name": "2号场地"
+          "name": "2���场地"
         },
         {
           "pID": "968330191",
@@ -331,6 +363,10 @@
         {
           "pID": "968330229",
           "name": "2号场地英文视角"
+        },
+        {
+          "pID": "968330141",
+          "name": "2号场地"
         },
         {
           "pID": "968413837",
@@ -421,7 +457,7 @@
     {
       "mgdbId": "120000595997",
       "pID": "968181454",
-      "title": "闽超",
+      "title": "��超",
       "keyword": "10月16日18:00",
       "sportItemId": "1",
       "matchStatus": "0",
@@ -550,6 +586,27 @@
         {
           "pID": "968285647",
           "name": "经典赛事"
+        }
+      ]
+    },
+    {
+      "mgdbId": "300000002449",
+      "pID": "967502886",
+      "title": "联赛全胜所向披靡 探秘巴萨曼城制胜秘诀",
+      "sportItemId": "1",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "绿茵狂想：联赛季",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/16/77QGLNGCN5D9.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/21/77KVD4MV77K9.png",
+      "pkInfoTitle": "联赛全胜所向披靡 探秘巴萨曼城制胜秘诀",
+      "modifyTitle": "《绿茵狂想：联赛季》第9期",
+      "presenters": "",
+      "matchInfo": {},
+      "nodes": [
+        {
+          "pID": "967502886",
+          "name": "颜强 徐阳 徐云龙 杨茗茗"
         }
       ]
     },
