@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-16 18:31:19",
+  "updateTime": "2026-10-16 19:01:35",
   "data": [
     {
       "mgdbId": "120000589635",
@@ -60,7 +60,7 @@
       "title": "115CM挑战赛、120CM团体赛等",
       "keyword": "10月16日08:00",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "浪琴表北京国际马术大师赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/09/77QAB8A3D6VU.png",
@@ -252,7 +252,7 @@
       "title": "单打第一、二阶段",
       "keyword": "10月16日15:30",
       "sportItemId": "7",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "中国乒协会员联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/15/77QFOVDQMLSK.jpg",
@@ -265,8 +265,8 @@
       },
       "nodes": [
         {
-          "pID": "968394815",
-          "name": "赛场原声"
+          "pID": "968420446",
+          "name": "全场回放（一）"
         }
       ]
     },
@@ -320,30 +320,22 @@
     },
     {
       "mgdbId": "120000596322",
-      "pID": "968413837",
-      "title": "王祉怡、凤凰组合轮番出战",
+      "pID": "968330135",
+      "title": "凤凰、梁王组合轮番出战 王祉怡晋级",
       "keyword": "10月16日17:00",
       "sportItemId": "6",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "BWF",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/16/77QGN05PP7VI.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/16/77QGN83RRPMF.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
-      "pkInfoTitle": "王祉怡、凤凰组合轮番出战",
-      "modifyTitle": "丹麦羽毛球公开赛1/4决赛：王祉怡、凤凰组合轮番出战",
-      "presenters": "朱胤丞 杨妮娜 鸿昆 余博洋 孙宁智",
+      "pkInfoTitle": "凤凰、梁王组合轮番出战 王祉怡晋级",
+      "modifyTitle": "丹麦羽毛球公开赛1/4决赛：凤凰、梁王组合轮番出战 王祉怡晋级",
+      "presenters": "鸿昆 余博洋 孙宁智 朱胤丞 杨妮娜",
       "matchInfo": {
         "time": "10月16日17:00"
       },
       "nodes": [
-        {
-          "pID": "968413837",
-          "name": "瓦尔达尼VS王祉怡"
-        },
-        {
-          "pID": "968414086",
-          "name": "谢定峰/苏伟译VS冈村洋辉/山下恭平"
-        },
         {
           "pID": "968330135",
           "name": "1号场地"
@@ -395,6 +387,14 @@
         {
           "pID": "968414074",
           "name": "鲍骊婧/曹梓涵VS加夫列拉/斯蒂法尼"
+        },
+        {
+          "pID": "968413837",
+          "name": "瓦尔达尼VS王祉怡"
+        },
+        {
+          "pID": "968414086",
+          "name": "谢定峰/苏伟译VS冈村洋辉/山下恭平"
         }
       ]
     },
@@ -475,7 +475,7 @@
       "pID": "968410326",
       "title": "篮球公园丨CBA三十一载 破局新生",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "CBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/15/77QFQN2BUHKS.png",
@@ -497,7 +497,7 @@
       "title": "UCI泵道世锦赛总决赛",
       "keyword": "10月16日18:42",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "中国自行车运动协会系列赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/16/77QGO2HK0AUA.png",
@@ -521,7 +521,7 @@
       "title": "闽超",
       "keyword": "10月16日19:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "闽超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000595998/202610081110_876867_H169_1080.webp",
@@ -545,7 +545,7 @@
       "title": "闽超",
       "keyword": "10月16日19:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "闽超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000595999/202610081114_184043_H169_1080.webp",
@@ -569,7 +569,7 @@
       "title": "重温王曼昱女团决赛3-1击败桥本帆乃香",
       "keyword": "10月16日19:00",
       "sportItemId": "7",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "乒乓球经典赛事",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/15/77QFPR18J8P4.jpg",
@@ -592,7 +592,7 @@
       "pID": "967502886",
       "title": "联赛全胜所向披靡 探秘巴萨曼城制胜秘诀",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "绿茵狂想：联赛季",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/16/77QGLNGCN5D9.jpg",
@@ -705,10 +705,6 @@
         {
           "pID": "968383664",
           "name": "赛场原声"
-        },
-        {
-          "pID": "968402909",
-          "name": "杨健 杜锋 杨鸣"
         }
       ]
     },
