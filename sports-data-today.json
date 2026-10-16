@@ -1,17 +1,17 @@
 {
   "success": true,
-  "updateTime": "2026-10-16 10:01:27",
+  "updateTime": "2026-10-16 10:31:19",
   "data": [
     {
       "mgdbId": "120000589635",
-      "pID": "968238084",
+      "pID": "968412354",
       "title": "NBA季前赛",
       "keyword": "10月16日07:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "麦迪逊广场花园",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/15/77QFON8HO485.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/16/77QGOC2QRMHD.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "猛龙VS尼克斯",
       "modifyTitle": "NBA季前赛",
@@ -21,16 +21,20 @@
       },
       "nodes": [
         {
-          "pID": "968238084",
-          "name": "刘芳宇"
+          "pID": "968410821",
+          "name": "第一节"
         },
         {
-          "pID": "968238053",
-          "name": "英文原声"
+          "pID": "968411017",
+          "name": "第二节"
         },
         {
-          "pID": "968280453",
-          "name": "智能字幕"
+          "pID": "968411906",
+          "name": "第三节"
+        },
+        {
+          "pID": "968412962",
+          "name": "第四节"
         }
       ]
     },
@@ -140,7 +144,7 @@
       "title": "全国霹雳舞锦标赛暨全国街舞锦标赛",
       "keyword": "10月16日10:20",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "中国体育舞蹈联合会系列赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/15/77QFR1CVG5I6.png",
@@ -164,7 +168,7 @@
       "title": "单打第一、二阶段",
       "keyword": "10月16日10:30",
       "sportItemId": "7",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "中国乒协会员联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/15/77QFOVDQMLSK.jpg",
@@ -380,6 +384,30 @@
       "presenters": "",
       "matchInfo": {},
       "nodes": []
+    },
+    {
+      "mgdbId": "120000596313",
+      "pID": "968325030",
+      "title": "UCI泵道世锦赛总决赛",
+      "keyword": "10月16日18:42",
+      "sportItemId": "8",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "中国自行车运动协会系列赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/16/77QGO2HK0AUA.png",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/6/25/100000001499106b6db1.png",
+      "pkInfoTitle": "UCI泵道世锦赛总决赛",
+      "modifyTitle": "UCI泵道世锦赛总决赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "10月16日18:42"
+      },
+      "nodes": [
+        {
+          "pID": "968325030",
+          "name": "解说"
+        }
+      ]
     },
     {
       "mgdbId": "120000595998",
