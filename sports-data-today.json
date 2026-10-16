@@ -1,10 +1,10 @@
 {
   "success": true,
-  "updateTime": "2026-10-16 10:31:19",
+  "updateTime": "2026-10-16 11:01:28",
   "data": [
     {
       "mgdbId": "120000589635",
-      "pID": "968412354",
+      "pID": "968413434",
       "title": "NBA季前赛",
       "keyword": "10月16日07:30",
       "sportItemId": "2",
@@ -20,6 +20,18 @@
         "time": "10月16日07:30"
       },
       "nodes": [
+        {
+          "pID": "968413434",
+          "name": "全场集锦"
+        },
+        {
+          "pID": "968413479",
+          "name": "全场回放（刘芳宇）"
+        },
+        {
+          "pID": "968413960",
+          "name": "全场回放（AI字幕）"
+        },
         {
           "pID": "968410821",
           "name": "第一节"
@@ -84,14 +96,14 @@
     },
     {
       "mgdbId": "120000589619",
-      "pID": "968238163",
+      "pID": "968412427",
       "title": "NBA季前赛",
       "keyword": "10月16日08:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "丰田中心球馆",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/15/77QFONDLQLNS.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/16/77QGOC86M825.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "雷霆VS火箭",
       "modifyTitle": "NBA季前赛",
@@ -101,16 +113,20 @@
       },
       "nodes": [
         {
-          "pID": "968238163",
-          "name": "周鹏"
+          "pID": "968411617",
+          "name": "第一节"
         },
         {
-          "pID": "968238143",
-          "name": "英文原声"
+          "pID": "968412321",
+          "name": "第二节"
         },
         {
-          "pID": "968280465",
-          "name": "智能字幕"
+          "pID": "968413060",
+          "name": "第三节"
+        },
+        {
+          "pID": "968413849",
+          "name": "第四节"
         }
       ]
     },
@@ -271,7 +287,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "王祉怡、凤凰组合轮番出战",
       "modifyTitle": "丹麦羽毛球公开赛1/4决赛：王祉怡、凤凰组合轮番出战",
-      "presenters": "",
+      "presenters": "朱胤丞 鸿昆",
       "matchInfo": {
         "time": "10月16日17:00"
       },
@@ -295,6 +311,34 @@
         {
           "pID": "968330229",
           "name": "2号场地英文视角"
+        },
+        {
+          "pID": "968413796",
+          "name": "朱胤丞"
+        },
+        {
+          "pID": "968413837",
+          "name": "朱胤丞"
+        },
+        {
+          "pID": "968413861",
+          "name": "鸿昆"
+        },
+        {
+          "pID": "968413881",
+          "name": "鸿昆"
+        },
+        {
+          "pID": "968414049",
+          "name": "鸿昆"
+        },
+        {
+          "pID": "968414074",
+          "name": "杨妮娜"
+        },
+        {
+          "pID": "968414086",
+          "name": "杨妮娜"
         }
       ]
     },
@@ -387,7 +431,7 @@
     },
     {
       "mgdbId": "120000596313",
-      "pID": "968325030",
+      "pID": "968413262",
       "title": "UCI泵道世锦赛总决赛",
       "keyword": "10月16日18:42",
       "sportItemId": "8",
@@ -404,7 +448,7 @@
       },
       "nodes": [
         {
-          "pID": "968325030",
+          "pID": "968413262",
           "name": "解说"
         }
       ]
