@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-17 11:02:42",
+  "updateTime": "2026-10-17 11:32:42",
   "data": [
     {
       "mgdbId": "120000588181",
@@ -203,6 +203,10 @@
         {
           "pID": "968442592",
           "name": "加时1"
+        },
+        {
+          "pID": "968444902",
+          "name": "全场回放"
         }
       ]
     },
@@ -352,7 +356,7 @@
     },
     {
       "mgdbId": "120000589601",
-      "pID": "968442323",
+      "pID": "968444407",
       "title": "NBA季前赛",
       "keyword": "10月17日08:00",
       "sportItemId": "2",
@@ -368,6 +372,14 @@
         "time": "10月17日08:00"
       },
       "nodes": [
+        {
+          "pID": "968444407",
+          "name": "全场集锦"
+        },
+        {
+          "pID": "968444542",
+          "name": "全场回放（徐秦威）"
+        },
         {
           "pID": "968441275",
           "name": "第一节"
@@ -388,7 +400,7 @@
     },
     {
       "mgdbId": "120000589612",
-      "pID": "968442139",
+      "pID": "968444409",
       "title": "NBA季前赛",
       "keyword": "10月17日08:00",
       "sportItemId": "2",
@@ -405,6 +417,10 @@
       },
       "nodes": [
         {
+          "pID": "968444409",
+          "name": "全场集锦"
+        },
+        {
           "pID": "968441261",
           "name": "第一节"
         },
@@ -419,10 +435,6 @@
         {
           "pID": "968443944",
           "name": "第四节"
-        },
-        {
-          "pID": "968444409",
-          "name": "全场集锦"
         }
       ]
     },
@@ -449,6 +461,10 @@
           "name": "全场集锦"
         },
         {
+          "pID": "968444462",
+          "name": "全场回放（王凯）"
+        },
+        {
           "pID": "968441209",
           "name": "第一节"
         },
@@ -463,16 +479,12 @@
         {
           "pID": "968443929",
           "name": "第四节"
-        },
-        {
-          "pID": "968444462",
-          "name": "全场回放（王凯）"
         }
       ]
     },
     {
       "mgdbId": "120000589640",
-      "pID": "968442298",
+      "pID": "968444789",
       "title": "NBA季前赛",
       "keyword": "10月17日08:00",
       "sportItemId": "2",
@@ -488,6 +500,14 @@
         "time": "10月17日08:00"
       },
       "nodes": [
+        {
+          "pID": "968444789",
+          "name": "全场集锦"
+        },
+        {
+          "pID": "968444479",
+          "name": "全场回放（王晓晨）"
+        },
         {
           "pID": "968441413",
           "name": "第一节"
@@ -508,7 +528,7 @@
     },
     {
       "mgdbId": "120000590111",
-      "pID": "968442700",
+      "pID": "968444393",
       "title": "NBA季前赛",
       "keyword": "10月17日08:00",
       "sportItemId": "2",
@@ -524,6 +544,10 @@
         "time": "10月17日08:00"
       },
       "nodes": [
+        {
+          "pID": "968444393",
+          "name": "全场集锦"
+        },
         {
           "pID": "968444231",
           "name": "全场回放（盛哲）"
@@ -832,7 +856,7 @@
       "title": "吴向东对谈——PB、训练和自媒体",
       "keyword": "10月17日10:30",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "逐马计划",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/13/77QE1B0OJT0H.jpg",
@@ -1391,6 +1415,30 @@
       ]
     },
     {
+      "mgdbId": "120000596617",
+      "pID": "968443424",
+      "title": "琼超第一轮",
+      "keyword": "10月17日18:30",
+      "sportItemId": "1",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "琼超",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000596617/202610171013_417278_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/10/17/1000000015661067b865.png",
+      "pkInfoTitle": "琼中vs保亭",
+      "modifyTitle": "琼超第一轮",
+      "presenters": "",
+      "matchInfo": {
+        "time": "10月17日18:30"
+      },
+      "nodes": [
+        {
+          "pID": "968443424",
+          "name": "赛场原声"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000569600",
       "pID": "968376526",
       "title": "中超联赛",
@@ -1617,7 +1665,7 @@
     {
       "mgdbId": "120000596283",
       "pID": "968285652",
-      "title": "重温王楚钦男团半决赛五局力克张本智和",
+      "title": "重温王楚钦男团半决赛五局力克张本智���",
       "keyword": "10月17日19:00",
       "sportItemId": "7",
       "matchStatus": "0",
@@ -2193,7 +2241,7 @@
       "competitionName": "楚超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000595453/202609301140_330047_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/14/100000001434106e5143.png",
-      "pkInfoTitle": "襄阳��风风神vs荆州恒隆",
+      "pkInfoTitle": "襄阳东风风神vs荆州恒隆",
       "modifyTitle": "湖北省城市足球联赛",
       "presenters": "",
       "matchInfo": {
