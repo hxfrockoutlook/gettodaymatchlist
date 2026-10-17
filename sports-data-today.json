@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-17 13:32:53",
+  "updateTime": "2026-10-17 14:02:59",
   "data": [
     {
       "mgdbId": "120000588181",
@@ -148,6 +148,14 @@
         "time": "10月17日06:00"
       },
       "nodes": [
+        {
+          "pID": "968448206",
+          "name": "主赛（汪乐）"
+        },
+        {
+          "pID": "968447959",
+          "name": "卡穆什VS毕肖普"
+        },
         {
           "pID": "968446895",
           "name": "希兹里耶夫VS布拉加"
@@ -707,30 +715,6 @@
       ]
     },
     {
-      "mgdbId": "120000596556",
-      "pID": "968414916",
-      "title": "第二届江苏省城市钓鱼超级联赛总决赛",
-      "keyword": "10月17日09:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "江苏省城市钓鱼超级联赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/16/77QGN0CGHADA.png",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/11/14/100000001373106f7299.jpg",
-      "pkInfoTitle": "第二届江苏省城市钓鱼超级联赛总决赛",
-      "modifyTitle": "第二届江苏省城市钓鱼超级联赛总决赛",
-      "presenters": "",
-      "matchInfo": {
-        "time": "10月17日09:00"
-      },
-      "nodes": [
-        {
-          "pID": "968414916",
-          "name": "解说"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000596462",
       "pID": "968373300",
       "title": "第四届中国飞盘联赛总决赛",
@@ -888,11 +872,11 @@
     },
     {
       "mgdbId": "120000589626",
-      "pID": "968239712",
+      "pID": "968448253",
       "title": "NBA季前赛",
       "keyword": "10月17日10:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "加密中心球馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/17/77QHIQQIE5SG.jpg",
@@ -905,16 +889,24 @@
       },
       "nodes": [
         {
-          "pID": "968239712",
-          "name": "王冠证 曾令旭 陈正昊"
+          "pID": "968448253",
+          "name": "全场集锦"
         },
         {
-          "pID": "968369128",
-          "name": "英文原声"
+          "pID": "968445136",
+          "name": "第一节"
         },
         {
-          "pID": "968371215",
-          "name": "智能字幕"
+          "pID": "968446109",
+          "name": "第二节"
+        },
+        {
+          "pID": "968446872",
+          "name": "第三节"
+        },
+        {
+          "pID": "968447541",
+          "name": "第四节"
         }
       ]
     },
@@ -1038,6 +1030,30 @@
       "nodes": [
         {
           "pID": "968202544",
+          "name": "解说"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000596556",
+      "pID": "968414916",
+      "title": "第二届江苏省城市钓鱼超级联赛总决赛",
+      "keyword": "10月17日13:20",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "江苏省城市钓鱼超级联赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/16/77QGN0CGHADA.png",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/11/14/100000001373106f7299.jpg",
+      "pkInfoTitle": "第二届江苏省城市钓鱼超级联赛总决赛",
+      "modifyTitle": "第二届江苏省城市钓鱼超级联赛总决赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "10月17日13:20"
+      },
+      "nodes": [
+        {
+          "pID": "968414916",
           "name": "解说"
         }
       ]
@@ -1273,40 +1289,16 @@
           "name": "1号场地英文视角"
         },
         {
-          "pID": "968442460",
-          "name": "金元浩/徐承宰VS谢定峰/苏伟译"
-        },
-        {
           "pID": "968442480",
           "name": "冯彦哲/黄东萍VS许邦荣/赖沛君"
-        },
-        {
-          "pID": "968442487",
-          "name": "阿尔菲安/菲克里VS梁伟铿/王昶"
         },
         {
           "pID": "968442491",
           "name": "鲍骊婧/曹梓涵VS陈康乐/蒂娜"
         },
         {
-          "pID": "968442626",
-          "name": "山口茜VS王祉怡"
-        },
-        {
-          "pID": "968442633",
-          "name": "铃木阳向/山北奈绪VS中出堇/高桥美优"
-        },
-        {
-          "pID": "968442656",
-          "name": "安洗莹VS奥原希望"
-        },
-        {
           "pID": "968442677",
           "name": "赖浩俊VS拉尼尔"
-        },
-        {
-          "pID": "968442688",
-          "name": "安东森VS小波波夫"
         }
       ]
     },
