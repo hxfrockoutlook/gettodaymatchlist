@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-17 14:32:42",
+  "updateTime": "2026-10-17 15:03:12",
   "data": [
     {
       "mgdbId": "120000588181",
@@ -155,6 +155,10 @@
         {
           "pID": "968448206",
           "name": "主赛（汪乐）"
+        },
+        {
+          "pID": "968449368",
+          "name": "主赛（英文原声）"
         },
         {
           "pID": "968447959",
@@ -585,6 +589,10 @@
           "name": "全场回放（王晓晨）"
         },
         {
+          "pID": "968446467",
+          "name": "全场回放（英文原声）"
+        },
+        {
           "pID": "968441413",
           "name": "第一节"
         },
@@ -700,7 +708,7 @@
       "title": "北京怀柔铁人三项世界杯赛",
       "keyword": "10月17日08:30",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "铁人三项系列赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/16/77QGN00JCM8O.webp",
@@ -713,8 +721,8 @@
       },
       "nodes": [
         {
-          "pID": "968376731",
-          "name": "解说"
+          "pID": "968447087",
+          "name": "2026北京怀柔铁人三项世界杯赛全场回放（官方解说）"
         }
       ]
     },
@@ -793,6 +801,10 @@
           "name": "全场回放（殷文玉）"
         },
         {
+          "pID": "968448237",
+          "name": "全场回放（英文原声）"
+        },
+        {
           "pID": "968444210",
           "name": "第一节"
         },
@@ -833,6 +845,10 @@
           "name": "全场集锦"
         },
         {
+          "pID": "968449208",
+          "name": "全场回放（连睿、周鹏、邢晨、拜月宁）"
+        },
+        {
           "pID": "968444220",
           "name": "第一节"
         },
@@ -847,30 +863,6 @@
         {
           "pID": "968447193",
           "name": "第四节"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000596498",
-      "pID": "968394807",
-      "title": "单打第一、二阶段、团体第一阶段",
-      "keyword": "10月17日10:00",
-      "sportItemId": "7",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "中国乒协会员联赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/16/77QGN5VGAGTC.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/3/18/1000000014191068af2d.png",
-      "pkInfoTitle": "单打第一、二阶段、团体第一阶段",
-      "modifyTitle": "“李宁·红双喜杯”中国乒协会员联赛新疆·巴州站单打第一、二阶段、团体第一阶段",
-      "presenters": "",
-      "matchInfo": {
-        "time": "10月17日10:00"
-      },
-      "nodes": [
-        {
-          "pID": "968394807",
-          "name": "赛场原声"
         }
       ]
     },
@@ -901,6 +893,14 @@
           "name": "全场回放（王冠证、曾令旭、陈正昊、廖昕阳）"
         },
         {
+          "pID": "968449119",
+          "name": "全场回放（英文原声）"
+        },
+        {
+          "pID": "968448398",
+          "name": "全场回放（AI字幕）"
+        },
+        {
           "pID": "968445136",
           "name": "第一节"
         },
@@ -915,10 +915,6 @@
         {
           "pID": "968447541",
           "name": "第四节"
-        },
-        {
-          "pID": "968448398",
-          "name": "全场回放"
         }
       ]
     },
@@ -952,7 +948,7 @@
       "title": "ONE激战前夜：武士系列赛4特辑 武尊传奇谢幕",
       "keyword": "10月17日10:30",
       "sportItemId": "5",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "ONE冠军赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/17/77QHISU1PSAC.png",
@@ -1103,7 +1099,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "ONE冠军赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/17/77QHJ5D746C8.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/17/77QHJ6SVDBR8.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/7/16/1000000015101065ca9b.png",
       "pkInfoTitle": "ONE武士系列赛4：哈格蒂VS秋元皓贵 武尊退役仪式",
       "modifyTitle": "ONE武士系列赛4：罗超出战马拉特 哈格蒂VS秋元皓贵",
@@ -1128,7 +1124,7 @@
       "title": "辽宁省城市足球联赛",
       "keyword": "10月17日14:55",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "辽超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000596314/202610121130_540813_H169_1080.webp",
@@ -1152,7 +1148,7 @@
       "title": "中甲联赛",
       "keyword": "10月17日15:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "延吉市全民健身体育中心体育场",
       "competitionName": "中甲",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000570539/202603010036_223521_H169_1080.webp",
@@ -1180,7 +1176,7 @@
       "title": "中乙升级赛组",
       "keyword": "10月17日15:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "山西省体育场",
       "competitionName": "中乙",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000592526/202609050332_509054_H169_1080.webp",
@@ -1204,7 +1200,7 @@
       "title": "中乙保级赛",
       "keyword": "10月17日15:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "Baiyin Sports Centre Stadium",
       "competitionName": "中乙",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000592527/202609050340_687391_H169_1080.webp",
@@ -1228,7 +1224,7 @@
       "title": "湖北省城市足球联赛",
       "keyword": "10月17日15:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "楚超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000595451/202609301140_768432_H169_1080.webp",
@@ -1252,7 +1248,7 @@
       "title": "FISE极限运动世界巡回赛上海站",
       "keyword": "10月17日15:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "FISE极限运动世界巡回赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/17/77QHLGRKQPA6.png",
@@ -1276,7 +1272,7 @@
       "title": "国羽混双德比！王祉怡直面山口茜",
       "keyword": "10月17日15:00",
       "sportItemId": "6",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "BWF",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/17/77QHJ36V9NH8.png",
@@ -1335,6 +1331,30 @@
         {
           "pID": "968399089",
           "name": "解说"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000596498",
+      "pID": "968394807",
+      "title": "单打第一、二阶段、团体第一阶段",
+      "keyword": "10月17日15:30",
+      "sportItemId": "7",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "中国乒协会员联赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/16/77QGN5VGAGTC.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/3/18/1000000014191068af2d.png",
+      "pkInfoTitle": "单打第一、二阶段、团体第一阶段",
+      "modifyTitle": "“李宁·红双喜杯”中国乒协会员联赛新疆·巴州站单打第一、二阶段、团体第一阶段",
+      "presenters": "",
+      "matchInfo": {
+        "time": "10月17日15:30"
+      },
+      "nodes": [
+        {
+          "pID": "968394807",
+          "name": "赛场原声"
         }
       ]
     },
