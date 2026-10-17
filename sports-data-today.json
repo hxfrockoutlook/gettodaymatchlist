@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-17 10:32:46",
+  "updateTime": "2026-10-17 11:02:42",
   "data": [
     {
       "mgdbId": "120000588181",
@@ -208,7 +208,7 @@
     },
     {
       "mgdbId": "120000589620",
-      "pID": "968442256",
+      "pID": "968443918",
       "title": "NBA季前赛",
       "keyword": "10月17日07:00",
       "sportItemId": "2",
@@ -224,6 +224,10 @@
         "time": "10月17日07:00"
       },
       "nodes": [
+        {
+          "pID": "968443918",
+          "name": "全场集锦"
+        },
         {
           "pID": "968443103",
           "name": "全场回放（刘圳展）"
@@ -273,6 +277,10 @@
           "name": "全场回放（金哲豪）"
         },
         {
+          "pID": "968444207",
+          "name": "全场回放（英文原声）"
+        },
+        {
           "pID": "968440699",
           "name": "第一节"
         },
@@ -313,6 +321,10 @@
           "name": "全场集锦"
         },
         {
+          "pID": "968444307",
+          "name": "全场回放（英文原声）"
+        },
+        {
           "pID": "968443210",
           "name": "全场回放（蔡凯臣、季孟年）"
         },
@@ -340,14 +352,14 @@
     },
     {
       "mgdbId": "120000589601",
-      "pID": "968238807",
+      "pID": "968442323",
       "title": "NBA季前赛",
       "keyword": "10月17日08:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "联合中心球馆",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/17/77QHKN2B213E.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/17/77QHLH57KU9S.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "森林狼VS公牛",
       "modifyTitle": "NBA季前赛",
@@ -357,22 +369,30 @@
       },
       "nodes": [
         {
-          "pID": "968238807",
-          "name": "徐秦威"
+          "pID": "968441275",
+          "name": "第一节"
         },
         {
-          "pID": "968369012",
-          "name": "英文原声"
+          "pID": "968442144",
+          "name": "第二节"
+        },
+        {
+          "pID": "968443064",
+          "name": "第三节"
+        },
+        {
+          "pID": "968444267",
+          "name": "第四节"
         }
       ]
     },
     {
       "mgdbId": "120000589612",
-      "pID": "968239089",
+      "pID": "968442139",
       "title": "NBA季前赛",
       "keyword": "10月17日08:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "联邦快递球馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/17/77QHL7QGAKUF.jpg",
@@ -385,26 +405,34 @@
       },
       "nodes": [
         {
-          "pID": "968442139",
-          "name": "灰熊外线大脑！杰罗姆抢断米勒追身三分一箭穿心"
+          "pID": "968441261",
+          "name": "第一节"
         },
         {
-          "pID": "968239089",
-          "name": "刘沛元"
+          "pID": "968441938",
+          "name": "第二节"
         },
         {
-          "pID": "968369044",
-          "name": "英文原声"
+          "pID": "968443047",
+          "name": "第三节"
+        },
+        {
+          "pID": "968443944",
+          "name": "第四节"
+        },
+        {
+          "pID": "968444409",
+          "name": "全场集锦"
         }
       ]
     },
     {
       "mgdbId": "120000589633",
-      "pID": "968239311",
+      "pID": "968444269",
       "title": "NBA季前赛",
       "keyword": "10月17日08:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "冰沙国王中心",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/17/77QHKVVPQ91F.png",
@@ -417,25 +445,41 @@
       },
       "nodes": [
         {
-          "pID": "968239311",
-          "name": "王凯"
+          "pID": "968444269",
+          "name": "全场集锦"
         },
         {
-          "pID": "968369066",
-          "name": "英文原声"
+          "pID": "968441209",
+          "name": "第一节"
+        },
+        {
+          "pID": "968441905",
+          "name": "第二节"
+        },
+        {
+          "pID": "968442917",
+          "name": "第三节"
+        },
+        {
+          "pID": "968443929",
+          "name": "第四节"
+        },
+        {
+          "pID": "968444462",
+          "name": "全场回放（王凯）"
         }
       ]
     },
     {
       "mgdbId": "120000589640",
-      "pID": "968239400",
+      "pID": "968442298",
       "title": "NBA季前赛",
       "keyword": "10月17日08:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "冰霜银行中心",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/16/77QGMB844HEV.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/17/77QHLGGM3RN3.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "国王VS马刺",
       "modifyTitle": "NBA季前赛",
@@ -445,29 +489,33 @@
       },
       "nodes": [
         {
-          "pID": "968442298",
-          "name": "如同天上降魔主！文班突破顶飞小萨 接转身单手暴力砸扣"
+          "pID": "968441413",
+          "name": "第一节"
         },
         {
-          "pID": "968239400",
-          "name": "王晓晨"
+          "pID": "968442746",
+          "name": "第二节"
         },
         {
-          "pID": "968369234",
-          "name": "英文原声"
+          "pID": "968443099",
+          "name": "第三节"
+        },
+        {
+          "pID": "968443867",
+          "name": "第四节"
         }
       ]
     },
     {
       "mgdbId": "120000590111",
-      "pID": "968238859",
+      "pID": "968442700",
       "title": "NBA季前赛",
       "keyword": "10月17日08:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "美国航线中心体育馆",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/16/77QGO2RS6N4M.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/17/77QHLG9UAGF4.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "老鹰VS独行侠",
       "modifyTitle": "NBA季前赛",
@@ -477,12 +525,24 @@
       },
       "nodes": [
         {
-          "pID": "968238859",
-          "name": "盛哲"
+          "pID": "968444231",
+          "name": "全场回放（盛哲）"
         },
         {
-          "pID": "968369033",
-          "name": "英文原声"
+          "pID": "968441241",
+          "name": "第一节"
+        },
+        {
+          "pID": "968442079",
+          "name": "第二节"
+        },
+        {
+          "pID": "968443019",
+          "name": "第三节"
+        },
+        {
+          "pID": "968443997",
+          "name": "第四节"
         }
       ]
     },
@@ -820,7 +880,7 @@
       "title": "顶峰相见——丰配友对话赵家驹",
       "keyword": "10月17日11:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "逐马计划",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/16/77QGO6CHT5E0.jpg",
@@ -1099,7 +1159,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "FISE极限运动世界巡回赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/16/77QGN97TOLEL.webp",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/17/77QHLGRKQPA6.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/10/9/100000001558106e8930.png",
       "pkInfoTitle": "FISE极限运动世界巡回赛上海站",
       "modifyTitle": "FISE极限运动世界巡回赛上海站",
@@ -1887,7 +1947,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png",
       "pkInfoTitle": "宁波町渥vs北京控股",
       "modifyTitle": "CBA常规赛第1轮",
-      "presenters": "姜帆 季孟年 林国雄 周赫",
+      "presenters": "姜帆 季孟年",
       "matchInfo": {
         "time": "10月17日19:35"
       },
@@ -1898,11 +1958,11 @@
         },
         {
           "pID": "968411513",
-          "name": "林国雄"
+          "name": "宁波主队解说"
         },
         {
           "pID": "968411544",
-          "name": "周赫"
+          "name": "北京主队解说"
         },
         {
           "pID": "968411553",
@@ -1951,7 +2011,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png",
       "pkInfoTitle": "浙江浙商证券vs山西汾酒",
       "modifyTitle": "CBA常规赛第1轮",
-      "presenters": "孙博 李根 刘铁 郭知昊 石楷文",
+      "presenters": "孙博 李根 刘铁",
       "matchInfo": {
         "time": "10月17日19:35"
       },
@@ -1962,11 +2022,11 @@
         },
         {
           "pID": "968411625",
-          "name": "郭知昊"
+          "name": "浙江主队解说"
         },
         {
           "pID": "968411644",
-          "name": "石楷文"
+          "name": "山西主队解说"
         },
         {
           "pID": "968411652",
@@ -2133,7 +2193,7 @@
       "competitionName": "楚超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000595453/202609301140_330047_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/14/100000001434106e5143.png",
-      "pkInfoTitle": "襄阳东风风神vs荆州恒隆",
+      "pkInfoTitle": "襄阳��风风神vs荆州恒隆",
       "modifyTitle": "湖北省城市足球联赛",
       "presenters": "",
       "matchInfo": {
@@ -2219,7 +2279,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png",
       "pkInfoTitle": "新疆广汇能源vs青岛崂山啤酒",
       "modifyTitle": "CBA常规赛第1轮",
-      "presenters": "吕程 周鹏 盛哲 刘沛元",
+      "presenters": "吕程 周鹏 刘沛元",
       "matchInfo": {
         "time": "10月17日20:00"
       },
@@ -2230,7 +2290,7 @@
         },
         {
           "pID": "968411594",
-          "name": "盛哲"
+          "name": "新疆主队解说"
         },
         {
           "pID": "968411601",
@@ -2394,7 +2454,7 @@
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000588180/701828_H169_sc.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png",
       "pkInfoTitle": "柏林联合 vs 多特蒙德",
-      "modifyTitle": "德甲联���",
+      "modifyTitle": "德甲联赛",
       "presenters": "沈云怡 秦游夏",
       "matchInfo": {
         "time": "10月17日21:30"
