@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-18 21:03:02",
+  "updateTime": "2026-10-18 21:32:42",
   "data": [
     {
       "mgdbId": "120000584841",
@@ -669,7 +669,7 @@
       "competitionName": "铁人三项系列赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/18/77QIJ6NPJ3V8.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/8/28/1000000015321060415f.png",
-      "pkInfoTitle": "北京国际铁人三项公开��",
+      "pkInfoTitle": "北京国际铁人三项公开赛",
       "modifyTitle": "北京国际铁人三项公开赛",
       "presenters": "",
       "matchInfo": {
@@ -1083,6 +1083,14 @@
         {
           "pID": "968504565",
           "name": "2026赛季斯诺克北爱尔兰公开赛第1轮Day1回放：斯佳辉2-4王信伯（赛场原声）"
+        },
+        {
+          "pID": "968506373",
+          "name": "2026赛季斯诺克北爱尔兰公开赛第1轮Day1回放：斯佳辉2-4王信伯（涂子轩）"
+        },
+        {
+          "pID": "968507306",
+          "name": "2026斯诺克北爱尔兰公开赛第1轮回放：肖国栋3-4山姆·克雷吉（赛场原声）"
         }
       ]
     },
@@ -1163,7 +1171,7 @@
         },
         {
           "pID": "968504522",
-          "name": "全场回放（AI观赛）"
+          "name": "全场回放（AI智慧观赛）"
         },
         {
           "pID": "968504968",
@@ -1250,16 +1258,12 @@
       },
       "nodes": [
         {
+          "pID": "968505303",
+          "name": "全场集锦"
+        },
+        {
           "pID": "968504959",
           "name": "全场回放（马延峰）"
-        },
-        {
-          "pID": "968505001",
-          "name": "全场回放"
-        },
-        {
-          "pID": "968505579",
-          "name": "全场回放"
         }
       ]
     },
@@ -1269,7 +1273,7 @@
       "title": "中超联赛",
       "keyword": "10月18日19:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "工人体育场",
       "competitionName": "中超",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000569595/152547_H169_sc.jpg",
@@ -1282,16 +1286,24 @@
       },
       "nodes": [
         {
-          "pID": "968376813",
-          "name": "孙雷 徐阳 郭小仙儿"
+          "pID": "968507187",
+          "name": "超长版集锦"
         },
         {
-          "pID": "968376825",
-          "name": "赛场原声"
+          "pID": "968507244",
+          "name": "全场集锦"
         },
         {
-          "pID": "968412560",
-          "name": "智能解说"
+          "pID": "968507463",
+          "name": "全场回放"
+        },
+        {
+          "pID": "968507843",
+          "name": "全场回放（孙雷、徐阳、郭小仙儿）"
+        },
+        {
+          "pID": "968507929",
+          "name": "全场回放"
         }
       ]
     },
@@ -1332,7 +1344,7 @@
       "matchStatus": "2",
       "matchField": "斯坦福桥球场",
       "competitionName": "英女超",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000592143/202609021002_286702_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000592143/202610182110_675914_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/18/100000001333106f7427.jpg",
       "pkInfoTitle": "切尔西 vs 托特纳姆热刺",
       "modifyTitle": "英女超联赛",
@@ -1361,10 +1373,10 @@
       "title": "中甲联赛",
       "keyword": "10月18日19:30",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "五华奥体中心惠堂体育场",
       "competitionName": "中甲",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000570532/957273_H169_sc.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000570532/932784_H169_sc.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/10106c2211.png",
       "pkInfoTitle": "梅州客家 vs 南通支云",
       "modifyTitle": "中甲联赛",
@@ -1389,7 +1401,7 @@
       "title": "中甲联赛",
       "keyword": "10月18日19:30",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "江苏五台山体育中心体育场",
       "competitionName": "中甲",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000570533/202603010035_136062_H169_1080.webp",
@@ -1417,7 +1429,7 @@
       "title": "中乙保级赛",
       "keyword": "10月18日19:30",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "海沧体育中心",
       "competitionName": "中乙",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000592517/202609050336_978810_H169_1080.webp",
@@ -1438,16 +1450,16 @@
     {
       "mgdbId": "120000595993",
       "pID": "968179927",
-      "title": "义乌VS苍南",
+      "title": "义乌65-70苍南",
       "keyword": "10月18日19:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "浙BA",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/02/77N92ACGBBVQ.png",
-      "pkInfoTitle": "义乌VS苍南",
-      "modifyTitle": "义乌VS苍南",
+      "pkInfoTitle": "义乌65-70苍南",
+      "modifyTitle": "义乌65-70苍南",
       "presenters": "",
       "matchInfo": {
         "time": "10月18日19:30"
@@ -1462,16 +1474,16 @@
     {
       "mgdbId": "120000595994",
       "pID": "968179934",
-      "title": "云和VS富阳",
+      "title": "云和80-115富阳",
       "keyword": "10月18日19:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "浙BA",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/02/77N92ACGBBVQ.png",
-      "pkInfoTitle": "云和VS富阳",
-      "modifyTitle": "云和VS富阳",
+      "pkInfoTitle": "云和80-115富阳",
+      "modifyTitle": "云和80-115富阳",
       "presenters": "",
       "matchInfo": {
         "time": "10月18日19:30"
@@ -1952,7 +1964,7 @@
       "matchStatus": "1",
       "matchField": "弗朗基球场",
       "competitionName": "意甲",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000584840/202607231445_238745_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000584840/202610182129_203204_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png",
       "pkInfoTitle": "佛罗伦萨 vs 科莫",
       "modifyTitle": "意甲联赛",
@@ -2061,7 +2073,7 @@
       "title": "德甲联赛",
       "keyword": "10月18日21:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "拜尔竞技场",
       "competitionName": "德甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000588182/582105_H169_sc.jpg",
@@ -2089,7 +2101,7 @@
       "title": "英女超联赛",
       "keyword": "10月18日21:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "Joie Stadium",
       "competitionName": "英女超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000592140/202609021001_628840_H169_1080.webp",
