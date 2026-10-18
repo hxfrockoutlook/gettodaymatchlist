@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-18 12:02:45",
+  "updateTime": "2026-10-18 12:32:34",
   "data": [
     {
       "mgdbId": "120000584841",
@@ -275,6 +275,10 @@
         {
           "pID": "968490430",
           "name": "主赛（郑文祺、宋克南）"
+        },
+        {
+          "pID": "968491132",
+          "name": "主赛（英文原声）"
         },
         {
           "pID": "968490100",
@@ -680,7 +684,7 @@
       "title": "庐山半程马拉松赛",
       "keyword": "10月18日08:30",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "马拉松系列赛",
       "padImg": "",
@@ -719,30 +723,6 @@
         {
           "pID": "968441499",
           "name": "解说"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000596467",
-      "pID": "968373802",
-      "title": "中国攀岩联赛（河北邯郸肥乡站）",
-      "keyword": "10月18日09:30",
-      "sportItemId": "8",
-      "matchStatus": "2",
-      "matchField": "",
-      "competitionName": "攀岩系列赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/17/77QHKKCD4EJE.webp",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/10/22/10000000136010611504.jpg",
-      "pkInfoTitle": "中国攀岩联赛（河北邯郸肥乡站）",
-      "modifyTitle": "中国攀岩联赛（河北邯郸肥乡站）",
-      "presenters": "",
-      "matchInfo": {
-        "time": "10月18日09:30"
-      },
-      "nodes": [
-        {
-          "pID": "968373802",
-          "name": "河北邯郸肥乡站"
         }
       ]
     },
@@ -843,30 +823,6 @@
       ]
     },
     {
-      "mgdbId": "120000596250",
-      "pID": "968235502",
-      "title": "UCI上海场地车世锦赛",
-      "keyword": "10月18日11:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "中国自行车运动协会系列赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/17/77QHKRI87N39.png",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/6/25/100000001499106b6db1.png",
-      "pkInfoTitle": "UCI上海场地车世锦赛",
-      "modifyTitle": "UCI上海场地车世锦赛",
-      "presenters": "",
-      "matchInfo": {
-        "time": "10月18日11:00"
-      },
-      "nodes": [
-        {
-          "pID": "968235502",
-          "name": "解说"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000596425",
       "pID": "968360048",
       "title": "杭州高尔夫公开赛 Day 2",
@@ -914,6 +870,30 @@
       "nodes": [
         {
           "pID": "968202558",
+          "name": "解说"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000596250",
+      "pID": "968235502",
+      "title": "UCI上海场地车世锦赛",
+      "keyword": "10月18日13:30",
+      "sportItemId": "8",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "中国自行车运动协会系列赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/17/77QHKRI87N39.png",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/6/25/100000001499106b6db1.png",
+      "pkInfoTitle": "UCI上海场地车世锦赛",
+      "modifyTitle": "UCI上海场地车世锦赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "10月18日13:30"
+      },
+      "nodes": [
+        {
+          "pID": "968235502",
           "name": "解说"
         }
       ]
@@ -1127,23 +1107,47 @@
       ]
     },
     {
+      "mgdbId": "120000596467",
+      "pID": "968373802",
+      "title": "中国攀岩联赛（河北邯郸肥乡站）",
+      "keyword": "10月18日17:00",
+      "sportItemId": "8",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "攀岩系列赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/17/77QHKKCD4EJE.webp",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/10/22/10000000136010611504.jpg",
+      "pkInfoTitle": "中国攀岩联赛（河北邯郸肥乡站）",
+      "modifyTitle": "中国攀岩联赛（河北邯郸肥乡站）",
+      "presenters": "",
+      "matchInfo": {
+        "time": "10月18日17:00"
+      },
+      "nodes": [
+        {
+          "pID": "968373802",
+          "name": "河北邯郸肥乡站"
+        }
+      ]
+    },
+    {
       "mgdbId": "300000002452",
       "pID": "968419757",
-      "title": "马特、徐晨皓、侯英超、周冠达带您前瞻",
+      "title": "侯英超、徐晨皓、周冠达带您前瞻",
       "sportItemId": "7",
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "乒乓球亚锦赛",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/5/12/1000000002101068e190.png",
-      "pkInfoTitle": "马特、徐晨皓、侯英超、周冠达带您前瞻",
+      "pkInfoTitle": "侯英超、徐晨皓、周冠达带您前瞻",
       "modifyTitle": "乒乓球亚洲锦标赛观察室",
       "presenters": "周冠达 侯英超 徐晨皓",
       "matchInfo": {},
       "nodes": [
         {
           "pID": "968419757",
-          "name": "周冠达、侯英超、徐晨皓、马特"
+          "name": "周冠达、侯英超、徐晨皓"
         }
       ]
     },
@@ -1181,7 +1185,7 @@
     },
     {
       "mgdbId": "120000596324",
-      "pID": "968330278",
+      "pID": "968491106",
       "title": "国羽包揽混双冠亚 凤凰、丫邦再次相遇",
       "keyword": "10月18日18:00",
       "sportItemId": "6",
@@ -1192,11 +1196,15 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "国羽包揽混双冠亚 凤凰、丫邦再次相遇",
       "modifyTitle": "丹麦羽毛球公开赛：国羽包揽混双冠亚 凤凰、丫邦再次相遇",
-      "presenters": "",
+      "presenters": "鸿昆 余博洋",
       "matchInfo": {
         "time": "10月18日18:00"
       },
       "nodes": [
+        {
+          "pID": "968491106",
+          "name": "冯彦哲/黄东萍VS蒋振邦/魏雅欣"
+        },
         {
           "pID": "968330278",
           "name": "1号场地"
@@ -1207,7 +1215,19 @@
         },
         {
           "pID": "968491091",
-          "name": "余博洋"
+          "name": "拉尼尔VS安东森"
+        },
+        {
+          "pID": "968491095",
+          "name": "谢定峰/苏伟译VS阿尔菲安/菲克里"
+        },
+        {
+          "pID": "968491099",
+          "name": "安洗莹 VS山口茜"
+        },
+        {
+          "pID": "968491103",
+          "name": "铃木阳向/山北奈绪VS陈康乐/蒂娜"
         }
       ]
     },
@@ -1816,7 +1836,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "黄佳浩、塞尔比、塔猜亚出战",
       "modifyTitle": "斯诺克北爱尔兰公开赛64进32：黄佳浩、塞尔比、塔猜亚出战",
-      "presenters": "柏林 熊冕",
+      "presenters": "柏林",
       "matchInfo": {
         "time": "10月18日20:00"
       },
