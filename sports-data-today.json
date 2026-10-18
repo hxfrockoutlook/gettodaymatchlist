@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-18 19:02:35",
+  "updateTime": "2026-10-18 19:33:55",
   "data": [
     {
       "mgdbId": "120000584841",
@@ -669,7 +669,7 @@
       "competitionName": "铁人三项系列赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/18/77QIJ6NPJ3V8.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/8/28/1000000015321060415f.png",
-      "pkInfoTitle": "北京国际铁人三项公开赛",
+      "pkInfoTitle": "北京国际铁人三项���开赛",
       "modifyTitle": "北京国际铁人三项公开赛",
       "presenters": "",
       "matchInfo": {
@@ -740,7 +740,7 @@
       "title": "全国霹雳舞锦标赛暨全国街舞锦标赛",
       "keyword": "10月18日09:55",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "中国体育舞蹈联合会系列赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/17/77QHK3H1KJLG.png",
@@ -759,36 +759,12 @@
       ]
     },
     {
-      "mgdbId": "120000596499",
-      "pID": "968394789",
-      "title": "团体第二阶段及决赛",
-      "keyword": "10月18日10:00",
-      "sportItemId": "7",
-      "matchStatus": "2",
-      "matchField": "",
-      "competitionName": "中国乒协会员联赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/17/77QHJHJSJTJQ.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/3/18/1000000014191068af2d.png",
-      "pkInfoTitle": "团体第二阶段及决赛",
-      "modifyTitle": "“李宁·红双喜杯”中国乒协会员联赛新疆·巴州站：团体第二阶段及决赛",
-      "presenters": "",
-      "matchInfo": {
-        "time": "10月18日10:00"
-      },
-      "nodes": [
-        {
-          "pID": "968496070",
-          "name": "全场回放"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000596199",
       "pID": "968202737",
       "title": "FISE极限运动世界巡回赛上海站",
       "keyword": "10月18日10:15",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "FISE极限运动世界巡回赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/17/77QHKMVITENA.png",
@@ -965,7 +941,7 @@
       "keyword": "10月18日15:00",
       "sportItemId": "1",
       "matchStatus": "2",
-      "matchField": "亚泰训��基地主体育场",
+      "matchField": "亚泰训练基地主体育场",
       "competitionName": "中乙",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000592519/202610181730_209226_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/7/7/1000000011571060f297.png",
@@ -1055,6 +1031,10 @@
         {
           "pID": "968499902",
           "name": "全场回放"
+        },
+        {
+          "pID": "968500325",
+          "name": "全场回放"
         }
       ]
     },
@@ -1077,15 +1057,15 @@
       },
       "nodes": [
         {
-          "pID": "968399236",
-          "name": "解说"
+          "pID": "968500048",
+          "name": "全场回放"
         }
       ]
     },
     {
       "mgdbId": "120000596286",
       "pID": "968412240",
-      "title": "斯佳辉VS王信伯 肖国栋出战",
+      "title": "斯佳辉2-4王信伯 肖国栋出战",
       "keyword": "10月18日17:00",
       "sportItemId": "8",
       "matchStatus": "1",
@@ -1093,8 +1073,8 @@
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/17/77QHJPN5BPHP.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "斯佳辉VS王信伯 肖国栋出战",
-      "modifyTitle": "斯诺克北爱尔兰公开64进32：斯佳辉VS王信伯 肖国栋出战",
+      "pkInfoTitle": "斯佳辉2-4王信伯 肖国栋出战",
+      "modifyTitle": "斯诺克北爱尔兰公开64进32：斯佳辉2-4王信伯 肖国栋出战",
       "presenters": "乔迁 涂子轩",
       "matchInfo": {
         "time": "10月18日17:00"
@@ -1105,12 +1085,12 @@
           "name": "乔迁"
         },
         {
-          "pID": "968412285",
-          "name": "涂子轩"
-        },
-        {
           "pID": "968350930",
           "name": "1号桌"
+        },
+        {
+          "pID": "968412285",
+          "name": "涂子轩"
         },
         {
           "pID": "968350949",
@@ -1124,7 +1104,7 @@
       "title": "中国攀岩联赛（河北邯郸肥乡站）",
       "keyword": "10月18日17:00",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "攀岩系列赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/17/77QHKKCD4EJE.webp",
@@ -1137,8 +1117,8 @@
       },
       "nodes": [
         {
-          "pID": "968373802",
-          "name": "河北邯郸肥乡站"
+          "pID": "968492112",
+          "name": "2026年中国攀岩联赛河北邯郸肥乡站Day2全场回放（官方解说）（一）"
         }
       ]
     },
@@ -1197,25 +1177,25 @@
     },
     {
       "mgdbId": "120000596324",
-      "pID": "968491106",
-      "title": "国羽包揽混双冠亚 凤凰、丫邦再次相遇",
+      "pID": "968491103",
+      "title": "丫邦组合夺冠 凤凰组合摘银",
       "keyword": "10月18日18:00",
       "sportItemId": "6",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "BWF",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/18/77QIFU7CROA7.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/18/77QIHE2MP6N8.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
-      "pkInfoTitle": "国羽包揽混双冠亚 凤凰、丫邦再次相遇",
-      "modifyTitle": "丹麦羽毛球公开赛：国羽包揽混双冠亚 凤凰、丫邦再次相遇",
+      "pkInfoTitle": "丫邦组合夺冠 凤凰组合摘银",
+      "modifyTitle": "丹麦羽毛球公开赛：丫邦组合夺冠 凤凰组合摘银",
       "presenters": "鸿昆 余博洋",
       "matchInfo": {
         "time": "10月18日18:00"
       },
       "nodes": [
         {
-          "pID": "968491106",
-          "name": "冯彦哲/黄东萍VS蒋振邦/魏雅欣"
+          "pID": "968491103",
+          "name": "铃木阳向/山北奈绪VS陈康乐/蒂娜"
         },
         {
           "pID": "968330278",
@@ -1264,7 +1244,7 @@
       "matchStatus": "1",
       "matchField": "弗留利球场",
       "competitionName": "意甲",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000584833/202610181858_890492_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000584833/202610181920_196351_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png",
       "pkInfoTitle": "乌迪内斯 vs 莱切",
       "modifyTitle": "意甲联赛",
@@ -1437,7 +1417,7 @@
       "title": "中甲联赛",
       "keyword": "10月18日19:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "江苏五台山体育中心体育场",
       "competitionName": "中甲",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000570533/202603010035_136062_H169_1080.webp",
@@ -1465,7 +1445,7 @@
       "title": "中乙保级赛",
       "keyword": "10月18日19:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "海沧体育中心",
       "competitionName": "中乙",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000592517/202609050336_978810_H169_1080.webp",
@@ -1489,7 +1469,7 @@
       "title": "义乌VS苍南",
       "keyword": "10月18日19:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "浙BA",
       "padImg": "",
@@ -1513,7 +1493,7 @@
       "title": "云和VS富阳",
       "keyword": "10月18日19:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "浙BA",
       "padImg": "",
@@ -1537,7 +1517,7 @@
       "title": "中乙保级赛",
       "keyword": "10月18日19:35",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "双流体育中心",
       "competitionName": "中乙",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000592516/202609050330_848486_H169_1080.webp",
@@ -1561,7 +1541,7 @@
       "title": "CBA常规赛第1轮",
       "keyword": "10月18日19:35",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "江宁乐动力电竞体育馆",
       "competitionName": "CBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/15/77QFQ65H4PT6.jpg",
@@ -1601,7 +1581,7 @@
       "title": "CBA常规赛第1轮",
       "keyword": "10月18日19:35",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "南沙体育馆",
       "competitionName": "CBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/15/77QFQDT16744.png",
@@ -1677,7 +1657,7 @@
       "title": "CBA常规赛第1轮",
       "keyword": "10月18日19:35",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "长春市体育馆",
       "competitionName": "CBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/15/77QFQ66T1V1T.jpg",
