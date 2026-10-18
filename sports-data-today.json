@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-18 15:02:49",
+  "updateTime": "2026-10-18 15:32:37",
   "data": [
     {
       "mgdbId": "120000584841",
@@ -756,7 +756,7 @@
       "title": "团体第二阶段及决赛",
       "keyword": "10月18日10:00",
       "sportItemId": "7",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "中国乒协会员联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/17/77QHJHJSJTJQ.jpg",
@@ -990,6 +990,30 @@
       "nodes": [
         {
           "pID": "968394372",
+          "name": "清流播出"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000595016",
+      "pID": "968394383",
+      "title": "城阳区vs平度市",
+      "keyword": "10月18日15:00",
+      "sportItemId": "1",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "青岛城市足球争霸赛",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000595016/202609240956_377001_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/26/77NUS7RRR2CI.png",
+      "pkInfoTitle": "城阳区vs平度市",
+      "modifyTitle": "城阳区vs平度市",
+      "presenters": "",
+      "matchInfo": {
+        "time": "10月18日15:00"
+      },
+      "nodes": [
+        {
+          "pID": "968394383",
           "name": "清流播出"
         }
       ]
