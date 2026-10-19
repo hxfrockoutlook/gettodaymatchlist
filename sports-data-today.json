@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-19 10:31:06",
+  "updateTime": "2026-10-19 11:01:15",
   "data": [
     {
       "mgdbId": "120000584837",
@@ -355,6 +355,34 @@
       ]
     },
     {
+      "mgdbId": "120000596718",
+      "pID": "968535416",
+      "title": "WTA500宁波站女单第一轮：科斯蒂亚 vs 施晗",
+      "keyword": "10月19日13:30",
+      "sportItemId": "9",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "WTA",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
+      "pkInfoTitle": "科斯蒂亚 vs 施晗",
+      "modifyTitle": "WTA500宁波站女单第一轮：科斯蒂亚 vs 施晗",
+      "presenters": "鸿昆",
+      "matchInfo": {
+        "time": "10月19日13:30"
+      },
+      "nodes": [
+        {
+          "pID": "968535416",
+          "name": "科斯蒂亚vs施晗"
+        },
+        {
+          "pID": "968535662",
+          "name": "赛场原声"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000596289",
       "pID": "968412385",
       "title": "庞俊旭PK博登、韦克林出战",
@@ -383,6 +411,30 @@
         {
           "pID": "968351257",
           "name": "2号桌"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000596640",
+      "pID": "968448835",
+      "title": "NBA西决精彩重播：马刺vs雷霆 G7",
+      "keyword": "10月19日18:00",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "NBA经典赛事",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png",
+      "pkInfoTitle": "NBA西决精彩重播：马刺vs雷霆 G7",
+      "modifyTitle": "NBA经典赛事",
+      "presenters": "孙博 曾令旭 马健",
+      "matchInfo": {
+        "time": "10月19日18:00"
+      },
+      "nodes": [
+        {
+          "pID": "968448835",
+          "name": "孙博 曾令旭 马健"
         }
       ]
     },
