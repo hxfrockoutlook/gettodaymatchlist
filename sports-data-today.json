@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-19 10:01:07",
+  "updateTime": "2026-10-19 10:31:06",
   "data": [
     {
       "mgdbId": "120000584837",
@@ -223,6 +223,30 @@
       ]
     },
     {
+      "mgdbId": "120000596733",
+      "pID": "968537531",
+      "title": "80CM U14团体赛、105CM公开赛",
+      "keyword": "10月19日10:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "浪琴表北京国际马术大师赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/19/77QJFLQEIL4J.png",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/10/9/100000001561106407f7.png",
+      "pkInfoTitle": "80CM U14团体赛、105CM公开赛",
+      "modifyTitle": "浪琴表北京国际马术大师赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "10月19日10:00"
+      },
+      "nodes": [
+        {
+          "pID": "968537531",
+          "name": "清流播出"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000596558",
       "pID": "968417767",
       "title": "梅尔滕斯率先出战",
@@ -235,11 +259,15 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
       "pkInfoTitle": "梅尔滕斯率先出战",
       "modifyTitle": "WTA500宁波站女单第一轮：梅尔滕斯率先出战",
-      "presenters": "房朕 张文悦 鸿昆 李宁",
+      "presenters": "李宁 鸿昆 张文悦 房朕",
       "matchInfo": {
         "time": "10月19日12:00"
       },
       "nodes": [
+        {
+          "pID": "968535425",
+          "name": "梅尔滕斯 vs 费尔南德斯"
+        },
         {
           "pID": "968417767",
           "name": "中心球场"
@@ -249,28 +277,16 @@
           "name": "大看台"
         },
         {
-          "pID": "968535400",
-          "name": "张文悦"
+          "pID": "968535634",
+          "name": "梅尔滕斯 vs 费尔南德斯（赛场原声）"
         },
         {
           "pID": "968535416",
-          "name": "鸿昆"
+          "name": "科斯蒂亚vs施晗"
         },
         {
-          "pID": "968535425",
-          "name": "李宁"
-        },
-        {
-          "pID": "968535634",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "968535662",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "968535707",
-          "name": "赛场原声"
+          "pID": "968535400",
+          "name": "郭涵煜/穆拉德诺维奇 vs 梁恩硕/青山修子"
         },
         {
           "pID": "968535360",
@@ -287,7 +303,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "乒乓球亚锦赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/16/77QGN59KAH8N.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/19/77QJFKGV77PM.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/5/12/1000000002101068e190.png",
       "pkInfoTitle": "陈思羽携彭郁涵率中国台北女团出战",
       "modifyTitle": "乒乓球亚锦赛男女团小组赛第一、二、三轮",
@@ -296,10 +312,6 @@
         "time": "10月19日13:00"
       },
       "nodes": [
-        {
-          "pID": "968420165",
-          "name": "周冠达 侯英超"
-        },
         {
           "pID": "968420135",
           "name": "凌维康 刘馨蕊"
@@ -317,10 +329,6 @@
           "name": "3号桌"
         },
         {
-          "pID": "968419915",
-          "name": "4号桌"
-        },
-        {
           "pID": "968419935",
           "name": "5号桌"
         },
@@ -335,6 +343,14 @@
         {
           "pID": "968420106",
           "name": "8号桌"
+        },
+        {
+          "pID": "968420165",
+          "name": "周冠达 侯英超"
+        },
+        {
+          "pID": "968419915",
+          "name": "4号桌"
         }
       ]
     },
