@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-20 12:31:09",
+  "updateTime": "2026-10-20 13:01:23",
   "data": [
     {
       "mgdbId": "120000584836",
@@ -236,7 +236,7 @@
       "title": "保利尼出战 奥斯塔彭科vs本西奇",
       "keyword": "10月20日13:00",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/19/77QJFLQBJI9L.png",
@@ -276,14 +276,14 @@
     },
     {
       "mgdbId": "120000596566",
-      "pID": "968420788",
+      "pID": "968420569",
       "title": "冲开门红！李天阳、向鹏迎首秀",
       "keyword": "10月20日13:00",
       "sportItemId": "7",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "乒乓球亚锦赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/19/77QJG273C65M.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/20/77QKDFJUBT3O.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/5/12/1000000002101068e190.png",
       "pkInfoTitle": "冲开门红！李天阳、向鹏迎首秀",
       "modifyTitle": "乒乓球亚锦赛男女单打1/64决赛、混双1/32决赛、男女团第一阶段14进2",
@@ -293,8 +293,12 @@
       },
       "nodes": [
         {
-          "pID": "968420788",
-          "name": "张靖松 李柯鑫"
+          "pID": "968420569",
+          "name": "6号桌"
+        },
+        {
+          "pID": "968420481",
+          "name": "4号桌"
         },
         {
           "pID": "968420333",
@@ -309,16 +313,8 @@
           "name": "3号桌"
         },
         {
-          "pID": "968420481",
-          "name": "4号桌"
-        },
-        {
           "pID": "968420518",
           "name": "5号桌"
-        },
-        {
-          "pID": "968420569",
-          "name": "6号桌"
         },
         {
           "pID": "968420603",
@@ -335,6 +331,10 @@
         {
           "pID": "968420812",
           "name": "徐铭辰 侯英超 徐晨皓"
+        },
+        {
+          "pID": "968420788",
+          "name": "张靖松 李柯鑫"
         }
       ]
     },
@@ -731,7 +731,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "马克·艾伦赛季首秀！赵心童出战",
       "modifyTitle": "斯诺克北爱尔兰公开赛64进32：马克·艾伦赛季首秀！赵心童出战",
-      "presenters": "卢正浩 柏林",
+      "presenters": "卢正浩 柏林 秦正",
       "matchInfo": {
         "time": "10月20日20:00"
       },
