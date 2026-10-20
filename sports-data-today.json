@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-21 06:01:15",
+  "updateTime": "2026-10-21 06:31:07",
   "data": [
     {
       "mgdbId": "120000596294",
@@ -40,7 +40,7 @@
     },
     {
       "mgdbId": "120000590113",
-      "pID": "968597397",
+      "pID": "968597914",
       "title": "NBA常规赛",
       "keyword": "10月21日03:00",
       "sportItemId": "2",
@@ -57,6 +57,18 @@
       },
       "nodes": [
         {
+          "pID": "968597914",
+          "name": "全场集锦"
+        },
+        {
+          "pID": "968597824",
+          "name": "全场回放（蔡凯臣、季孟年）"
+        },
+        {
+          "pID": "968597827",
+          "name": "全场回放（AI字幕）"
+        },
+        {
           "pID": "968597448",
           "name": "第一节"
         },
@@ -71,14 +83,6 @@
         {
           "pID": "968597788",
           "name": "第四节"
-        },
-        {
-          "pID": "968597824",
-          "name": "全场回放（蔡凯臣、季孟年）"
-        },
-        {
-          "pID": "968597827",
-          "name": "全场回放"
         }
       ]
     },
@@ -88,7 +92,7 @@
       "title": "NBA常规赛",
       "keyword": "10月21日07:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "麦迪逊广场花园",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/20/77QKAQ42J7B0.jpg",
