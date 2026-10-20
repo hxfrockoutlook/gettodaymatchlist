@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-20 18:01:23",
+  "updateTime": "2026-10-20 18:31:16",
   "data": [
     {
       "mgdbId": "120000584836",
@@ -240,7 +240,7 @@
       "title": "PPA香港1500大满贯赛事 Day1",
       "keyword": "10月20日09:00",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "PPA亚洲职业匹克球巡回赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/19/77QJG2LK28J4.jpg",
@@ -300,7 +300,7 @@
     },
     {
       "mgdbId": "120000596566",
-      "pID": "968420788",
+      "pID": "968420435",
       "title": "冲开门红！李天阳、向鹏迎首秀",
       "keyword": "10月20日13:00",
       "sportItemId": "7",
@@ -317,12 +317,36 @@
       },
       "nodes": [
         {
+          "pID": "968420812",
+          "name": "徐铭辰 侯英超 徐晨皓"
+        },
+        {
+          "pID": "968420435",
+          "name": "3号桌"
+        },
+        {
           "pID": "968420788",
           "name": "张靖松 李柯鑫"
         },
         {
+          "pID": "968420333",
+          "name": "1号桌"
+        },
+        {
           "pID": "968420363",
           "name": "2号桌"
+        },
+        {
+          "pID": "968420481",
+          "name": "4号桌"
+        },
+        {
+          "pID": "968420518",
+          "name": "5号桌"
+        },
+        {
+          "pID": "968420569",
+          "name": "6号桌"
         },
         {
           "pID": "968420603",
@@ -335,30 +359,6 @@
         {
           "pID": "968420668",
           "name": "9号桌"
-        },
-        {
-          "pID": "968420569",
-          "name": "6号桌"
-        },
-        {
-          "pID": "968420518",
-          "name": "5号桌"
-        },
-        {
-          "pID": "968420333",
-          "name": "1号桌"
-        },
-        {
-          "pID": "968420435",
-          "name": "3号桌"
-        },
-        {
-          "pID": "968420481",
-          "name": "4号桌"
-        },
-        {
-          "pID": "968420812",
-          "name": "徐铭辰 侯英超 徐晨皓"
         }
       ]
     },
@@ -375,7 +375,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "韩千禧出战 韩悦零封晋级",
       "modifyTitle": "法国羽毛球公开赛第一日：韩千禧出战 韩悦零封晋级",
-      "presenters": "余昌瑞 杨妮娜 荆裕洲 孙宁智 金子嘉 鸿昆",
+      "presenters": "余昌瑞 荆裕洲 孙宁智 金子嘉 鸿昆 杨妮娜",
       "matchInfo": {
         "time": "10月20日16:00"
       },
@@ -383,10 +383,6 @@
         {
           "pID": "968568566",
           "name": "昆拉武特VS大波波夫"
-        },
-        {
-          "pID": "968568409",
-          "name": "阮日VS郑加恒"
         },
         {
           "pID": "968535978",
@@ -419,6 +415,10 @@
         {
           "pID": "968568591",
           "name": "韩悦VS莱恩"
+        },
+        {
+          "pID": "968568409",
+          "name": "阮日VS郑加恒"
         }
       ]
     },
@@ -456,11 +456,11 @@
     },
     {
       "mgdbId": "120000596888",
-      "pID": "968546982",
+      "pID": "968582381",
       "title": "NBA揭幕特别节目",
       "keyword": "10月20日17:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/20/77QKD206N4S5.png",
@@ -472,6 +472,10 @@
         "time": "10月20日17:00"
       },
       "nodes": [
+        {
+          "pID": "968582381",
+          "name": "新赛季蓄势待发！热点比赛大盘点"
+        },
         {
           "pID": "968546982",
           "name": "NBA揭幕战特别节目"
