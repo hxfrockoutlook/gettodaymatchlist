@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-20 16:31:17",
+  "updateTime": "2026-10-20 17:01:24",
   "data": [
     {
       "mgdbId": "120000584836",
@@ -305,14 +305,6 @@
           "name": "4号桌"
         },
         {
-          "pID": "968420812",
-          "name": "徐铭辰 侯英超 徐晨皓"
-        },
-        {
-          "pID": "968420788",
-          "name": "张靖松 李柯鑫"
-        },
-        {
           "pID": "968420518",
           "name": "5号桌"
         },
@@ -327,12 +319,24 @@
         {
           "pID": "968420650",
           "name": "8号桌"
+        },
+        {
+          "pID": "968420668",
+          "name": "9号桌"
+        },
+        {
+          "pID": "968420812",
+          "name": "徐铭辰 侯英超 徐晨皓"
+        },
+        {
+          "pID": "968420788",
+          "name": "张靖松 李柯鑫"
         }
       ]
     },
     {
       "mgdbId": "120000596706",
-      "pID": "968535978",
+      "pID": "968568591",
       "title": "韩悦、韩千禧出战 星驰组合退赛",
       "keyword": "10月20日16:00",
       "sportItemId": "6",
@@ -343,11 +347,19 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "韩悦、韩千禧出战 星驰组合退赛",
       "modifyTitle": "法国羽毛球公开赛第一日：韩悦、韩千禧出战 星驰组合退赛",
-      "presenters": "荆裕洲 杨妮娜 孙宁智 金子嘉 余昌瑞 鸿昆",
+      "presenters": "鸿昆 荆裕洲 杨妮娜 孙宁智 金子嘉 余昌瑞",
       "matchInfo": {
         "time": "10月20日16:00"
       },
       "nodes": [
+        {
+          "pID": "968568591",
+          "name": "韩悦VS莱恩"
+        },
+        {
+          "pID": "968568409",
+          "name": "阮日VS郑加恒"
+        },
         {
           "pID": "968535978",
           "name": "1号场地"
@@ -369,10 +381,6 @@
           "name": "乔纳坦VS乌拜迪拉"
         },
         {
-          "pID": "968568409",
-          "name": "阮日VS郑加恒"
-        },
-        {
           "pID": "968568497",
           "name": "查莉哈VS韩千禧"
         },
@@ -383,10 +391,6 @@
         {
           "pID": "968568566",
           "name": "昆拉武特VS大波波夫"
-        },
-        {
-          "pID": "968568591",
-          "name": "韩悦VS莱恩"
         }
       ]
     },
@@ -396,7 +400,7 @@
       "title": "马克·威廉姆斯出战 常冰玉PK瑞恩·戴",
       "keyword": "10月20日17:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/20/77QKCI91KN14.jpg",
@@ -428,7 +432,7 @@
       "title": "NBA揭幕特别节目",
       "keyword": "10月20日17:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/20/77QKD206N4S5.png",
@@ -442,7 +446,7 @@
       "nodes": [
         {
           "pID": "968546982",
-          "name": "管维佳 孙博 蔡凯臣"
+          "name": "NBA新赛季特别节目"
         }
       ]
     },
@@ -486,7 +490,7 @@
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/02/77N92ACGBBVQ.png",
       "pkInfoTitle": "台州VS普陀",
-      "modifyTitle": "浙BA小组赛",
+      "modifyTitle": "台州VS普陀",
       "presenters": "",
       "matchInfo": {
         "time": "10月20日19:30"
@@ -510,7 +514,7 @@
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/02/77N92ACGBBVQ.png",
       "pkInfoTitle": "桐乡VS江山",
-      "modifyTitle": "浙BA小组赛",
+      "modifyTitle": "桐乡VS江山",
       "presenters": "",
       "matchInfo": {
         "time": "10月20日19:30"
@@ -702,15 +706,11 @@
       "nodes": [
         {
           "pID": "968449183",
-          "name": "徐秦���"
+          "name": "徐秦威"
         },
         {
           "pID": "968449136",
           "name": "赛场原声"
-        },
-        {
-          "pID": "968449183",
-          "name": "徐秦威"
         }
       ]
     },
