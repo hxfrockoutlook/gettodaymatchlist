@@ -1,11 +1,11 @@
 {
   "success": true,
-  "updateTime": "2026-10-21 07:31:06",
+  "updateTime": "2026-10-21 08:01:24",
   "data": [
     {
       "mgdbId": "120000596294",
       "pID": "968351745",
-      "title": "凯伦·威尔逊4-2塔猜亚、王信伯出战",
+      "title": "凯伦·威尔逊4-2塔猜亚、利索夫斯基出局",
       "keyword": "10月21日02:00",
       "sportItemId": "8",
       "matchStatus": "1",
@@ -13,8 +13,8 @@
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/20/77QKCIGV5LUV.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "凯伦·威尔逊4-2塔猜亚、王信伯出战",
-      "modifyTitle": "斯诺克北爱尔兰公开32进16：凯伦·威尔逊4-2塔猜亚、王信伯出战",
+      "pkInfoTitle": "凯伦·威尔逊4-2塔猜亚、利索夫斯基出局",
+      "modifyTitle": "斯诺克北爱尔兰公开32进16：凯伦·威尔逊4-2塔猜亚、利索夫斯基出局",
       "presenters": "朱峰立",
       "matchInfo": {
         "time": "10月21日02:00"
@@ -135,7 +135,7 @@
       "pID": "968047871",
       "title": "咪咕体育日报 第217期",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "咪咕体育日报",
       "padImg": "",
@@ -329,7 +329,7 @@
     {
       "mgdbId": "120000596295",
       "pID": "968351962",
-      "title": "第二轮",
+      "title": "张家玮PK宾汉姆 庞俊旭出战",
       "keyword": "10月21日17:00",
       "sportItemId": "8",
       "matchStatus": "0",
@@ -337,13 +337,22 @@
       "competitionName": "斯诺克",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "第二轮",
-      "modifyTitle": "斯诺克北爱尔兰公开赛",
+      "pkInfoTitle": "张家玮PK宾汉姆 庞俊旭出战",
+      "modifyTitle": "斯诺克北爱尔兰公开赛32进16：张家玮PK宾汉姆 庞俊旭出战",
       "presenters": "",
       "matchInfo": {
         "time": "10月21日17:00"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "968351962",
+          "name": "1号桌"
+        },
+        {
+          "pID": "968351997",
+          "name": "2号桌"
+        }
+      ]
     },
     {
       "mgdbId": "120000596568",
@@ -612,7 +621,7 @@
     {
       "mgdbId": "120000596296",
       "pID": "968352096",
-      "title": "第二轮",
+      "title": "希金斯PK琼斯 张安达vs马克·威廉姆斯",
       "keyword": "10月21日20:00",
       "sportItemId": "8",
       "matchStatus": "0",
@@ -620,13 +629,17 @@
       "competitionName": "斯诺克",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "第二轮",
-      "modifyTitle": "斯诺克北爱尔兰公开赛",
+      "pkInfoTitle": "希金斯PK琼斯 张安达vs马克·威廉姆斯",
+      "modifyTitle": "斯诺克北爱尔兰公开赛32进16：希金斯PK琼斯 张安达vs马克·威廉姆斯",
       "presenters": "",
       "matchInfo": {
         "time": "10月21日20:00"
       },
       "nodes": [
+        {
+          "pID": "968352096",
+          "name": "1号桌"
+        },
         {
           "pID": "968352134",
           "name": "2号桌"
