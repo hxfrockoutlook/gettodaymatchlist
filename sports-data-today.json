@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-21 10:31:12",
+  "updateTime": "2026-10-21 11:01:19",
   "data": [
     {
       "mgdbId": "120000596294",
@@ -100,7 +100,7 @@
     },
     {
       "mgdbId": "120000590114",
-      "pID": "968599471",
+      "pID": "968601803",
       "title": "NBA常规赛",
       "keyword": "10月21日07:00",
       "sportItemId": "2",
@@ -116,6 +116,14 @@
         "time": "10月21日07:00"
       },
       "nodes": [
+        {
+          "pID": "968601803",
+          "name": "全场集锦"
+        },
+        {
+          "pID": "968602479",
+          "name": "全场回放（杨健、曾令旭、李根、佳依）"
+        },
         {
           "pID": "968598604",
           "name": "第一节"
@@ -187,7 +195,7 @@
       "matchStatus": "1",
       "matchField": "冰霜银行中心",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/20/77QKAQDG1JGO.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/21/77QLA0C9PLA5.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "雷霆VS马刺",
       "modifyTitle": "NBA常规赛",
@@ -255,11 +263,15 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
       "pkInfoTitle": "布兹科娃率先出战 费尔南德斯接场",
       "modifyTitle": "WTA500宁波站女单第二轮、女双第一轮：布兹科娃率先出战 费尔南德斯接场",
-      "presenters": "蔡凯臣 张文悦 鸿昆 乔迁",
+      "presenters": "乔迁 鸿昆 张文悦 蔡凯臣",
       "matchInfo": {
         "time": "10月21日13:00"
       },
       "nodes": [
+        {
+          "pID": "968599741",
+          "name": "布兹科娃 vs 扎哈洛娃"
+        },
         {
           "pID": "968417814",
           "name": "中心球场"
@@ -269,20 +281,16 @@
           "name": "大看台"
         },
         {
-          "pID": "968599695",
-          "name": "蔡凯臣"
+          "pID": "968599722",
+          "name": "鸿昆"
         },
         {
           "pID": "968599711",
           "name": "张文悦"
         },
         {
-          "pID": "968599722",
-          "name": "鸿昆"
-        },
-        {
-          "pID": "968599741",
-          "name": "乔迁"
+          "pID": "968599695",
+          "name": "蔡凯臣"
         }
       ]
     },
@@ -359,7 +367,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "张家玮PK宾汉姆 庞俊旭出战",
       "modifyTitle": "斯诺克北爱尔兰公开赛32进16：张家玮PK宾汉姆 庞俊旭出战",
-      "presenters": "",
+      "presenters": "涂子轩 陶哲铭",
       "matchInfo": {
         "time": "10月21日17:00"
       },
@@ -371,6 +379,14 @@
         {
           "pID": "968351997",
           "name": "2号桌"
+        },
+        {
+          "pID": "968602590",
+          "name": "涂子轩"
+        },
+        {
+          "pID": "968602612",
+          "name": "陶哲铭"
         }
       ]
     },
@@ -465,14 +481,6 @@
           "name": "1号场地"
         },
         {
-          "pID": "968536358",
-          "name": "2号场地"
-        },
-        {
-          "pID": "968536403",
-          "name": "2号场地"
-        },
-        {
           "pID": "968536448",
           "name": "3号场地"
         },
@@ -485,8 +493,8 @@
           "name": "1号场地英文视角"
         },
         {
-          "pID": "968536628",
-          "name": "2号场地英文视角"
+          "pID": "968602158",
+          "name": "2号场地"
         }
       ]
     },
@@ -655,7 +663,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "希金斯PK琼斯 张安达vs马克·威廉姆斯",
       "modifyTitle": "斯诺克北爱尔兰公开赛32进16：希金斯PK琼斯 张安达vs马克·威廉姆斯",
-      "presenters": "",
+      "presenters": "朱峰立 柏林 卢正浩",
       "matchInfo": {
         "time": "10月21日20:00"
       },
@@ -667,6 +675,18 @@
         {
           "pID": "968352134",
           "name": "2号桌"
+        },
+        {
+          "pID": "968602527",
+          "name": "朱峰立"
+        },
+        {
+          "pID": "968602551",
+          "name": "柏林"
+        },
+        {
+          "pID": "968602573",
+          "name": "卢正浩"
         }
       ]
     }
