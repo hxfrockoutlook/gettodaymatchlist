@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-21 18:01:20",
+  "updateTime": "2026-10-21 19:01:27",
   "data": [
     {
       "mgdbId": "120000596294",
@@ -184,7 +184,7 @@
       "title": "PPA香港1500大满贯赛事 Day2",
       "keyword": "10月21日09:00",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "PPA亚洲职业匹克球巡回赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/21/77QL9DGD9O1N.jpg",
@@ -257,52 +257,68 @@
     {
       "mgdbId": "120000596579",
       "pID": "968569005",
-      "title": "普什卡列娃出战 孙心然横扫晋级",
+      "title": "孙心然横扫晋级 普什卡列娃三盘过关",
       "keyword": "10月21日10:30",
       "sportItemId": "9",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "ITF世界网球巡回赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/21/77QL7U56719E.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/10/16/100000001565106ef9d8.png",
-      "pkInfoTitle": "普什卡列娃出战 孙心然横扫晋级",
-      "modifyTitle": "青少年年终总决赛Day1：普什卡列娃出战 孙心然横扫晋级",
+      "pkInfoTitle": "孙心然横扫晋级 普什卡列娃三盘过关",
+      "modifyTitle": "青少年年终总决赛Day1：孙心然横扫晋级 普什卡列娃三盘过关",
       "presenters": "",
       "matchInfo": {
         "time": "10月21日10:30"
       },
       "nodes": [
         {
-          "pID": "968569005",
-          "name": "中文解说"
+          "pID": "968611545",
+          "name": "【回放】孙心然2-0茨维特科维奇（官方解说）"
         },
         {
-          "pID": "968420983",
-          "name": "赛场原声"
+          "pID": "968609379",
+          "name": "【回放】麦肯齐0-2塞斯科（官方解说）"
+        },
+        {
+          "pID": "968604906",
+          "name": "【回放】乔丹·李2-0阿尔瓦雷斯（官方解说）"
+        },
+        {
+          "pID": "968612720",
+          "name": "【回放】孙心然2-0茨维特科维奇（赛场原声）"
+        },
+        {
+          "pID": "968605728",
+          "name": "【回放】乔丹·李2-0阿尔瓦雷斯（赛场原声）"
+        },
+        {
+          "pID": "968608683",
+          "name": "【回放】麦肯齐0-2塞斯科（赛场原声）"
         }
       ]
     },
     {
       "mgdbId": "120000596560",
       "pID": "968417814",
-      "title": "费尔南德斯出战 科斯蒂亚接场",
+      "title": "科斯蒂亚出战 费尔南德斯三盘晋级",
       "keyword": "10月21日13:00",
       "sportItemId": "9",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/21/77QL8HMTUIQA.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/21/77QL8O6417QI.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "费尔南德斯出战 科斯蒂亚接场",
-      "modifyTitle": "WTA500宁波站女单第二轮、女双第一轮：费尔南德斯出战 科斯蒂亚接场",
-      "presenters": "鸿昆 张文悦 蔡凯臣 乔迁",
+      "pkInfoTitle": "科斯蒂亚出战 费尔南德斯三盘晋级",
+      "modifyTitle": "WTA500宁波站女单第二轮、女双第一轮：科斯蒂亚出战 费尔南德斯三盘晋级",
+      "presenters": "张文悦 蔡凯臣 乔迁 鸿昆",
       "matchInfo": {
         "time": "10月21日13:00"
       },
       "nodes": [
         {
-          "pID": "968599722",
-          "name": "费尔南德斯 vs 萨斯诺维奇"
+          "pID": "968599711",
+          "name": "科斯蒂亚 vs 贝莱克"
         },
         {
           "pID": "968417814",
@@ -313,16 +329,16 @@
           "name": "大看台"
         },
         {
-          "pID": "968599711",
-          "name": "科斯蒂亚 vs 贝莱克"
-        },
-        {
           "pID": "968599695",
           "name": "亚历山德洛娃 vs 科斯秋克"
         },
         {
           "pID": "968599741",
           "name": "布兹科娃 vs 扎哈洛娃"
+        },
+        {
+          "pID": "968599722",
+          "name": "费尔南德斯 vs 萨斯诺维奇"
         }
       ]
     },
@@ -349,40 +365,60 @@
           "name": "全场回放（张靖松、赵曦）"
         },
         {
+          "pID": "968613923",
+          "name": "全场回放（一号桌）"
+        },
+        {
+          "pID": "968613955",
+          "name": "全场回放（二号桌）"
+        },
+        {
+          "pID": "968614378",
+          "name": "全场回放（三号桌）"
+        },
+        {
           "pID": "968613824",
-          "name": "2026亚洲乒乓球锦标赛Day3下午场五号桌全场回放（赛场原声）"
+          "name": "全场回放（五号桌）"
         },
         {
           "pID": "968613896",
-          "name": "2026亚洲乒乓球锦标赛Day3下午场六号桌全场回放（赛场原声）"
+          "name": "全场回放（六号桌）"
+        },
+        {
+          "pID": "968614302",
+          "name": "全场回放（八号桌）"
+        },
+        {
+          "pID": "968614255",
+          "name": "全场回放（九号桌）"
         }
       ]
     },
     {
       "mgdbId": "120000596707",
-      "pID": "968536307",
+      "pID": "968602976",
       "title": "国羽德比丫邦登场！胡林再战大马劲敌",
       "keyword": "10月21日16:00",
       "sportItemId": "6",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "BWF",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/21/77QL870GJBUP.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/21/77QL8QC5MG0C.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "国羽德比丫邦登场！胡林再战大马劲敌",
       "modifyTitle": "法国羽毛球公开赛第二日：国羽德比丫邦登场！胡林再战大马劲敌",
-      "presenters": "孙宁智 余博洋 鸿昆 荆裕洲 朱胤丞 杨妮娜 轩子博",
+      "presenters": "余博洋 孙宁智 鸿昆 荆裕洲 朱胤丞 杨妮娜 轩子博",
       "matchInfo": {
         "time": "10月21日16:00"
       },
       "nodes": [
         {
-          "pID": "968602822",
-          "name": "邓恩/麦克菲森VS郭新娃/陈芳卉"
+          "pID": "968602976",
+          "name": "朱一珺/李茜VS蒋振邦/魏雅欣"
         },
         {
-          "pID": "968602967",
-          "name": "许邦荣/赖沛君VS高家炫/吴梦莹"
+          "pID": "968602831",
+          "name": "梅克尔VS小波波夫"
         },
         {
           "pID": "968536307",
@@ -417,10 +453,6 @@
           "name": "伍家朗VS安东森"
         },
         {
-          "pID": "968602831",
-          "name": "梅克尔VS小波波夫"
-        },
-        {
           "pID": "968602844",
           "name": "胡哲安VS赖浩俊"
         },
@@ -437,10 +469,6 @@
           "name": "阿斯特鲁普/安德斯VS陈柏阳/刘毅"
         },
         {
-          "pID": "968602976",
-          "name": "朱一珺/李茜VS蒋振邦/魏雅欣"
-        },
-        {
           "pID": "968602991",
           "name": "陈子睿/林煜杰VS梁伟铿/王昶"
         },
@@ -455,13 +483,21 @@
         {
           "pID": "968602954",
           "name": "山口茜VS林湘缇"
+        },
+        {
+          "pID": "968602822",
+          "name": "邓恩/麦克菲森VS郭新娃/陈芳卉"
+        },
+        {
+          "pID": "968602967",
+          "name": "许邦荣/赖沛君VS高家炫/吴梦莹"
         }
       ]
     },
     {
       "mgdbId": "120000596295",
       "pID": "968602590",
-      "title": "张家玮PK宾汉姆 庞俊旭出战",
+      "title": "张家玮零封宾汉姆 庞俊旭出战",
       "keyword": "10月21日17:00",
       "sportItemId": "8",
       "matchStatus": "1",
@@ -469,8 +505,8 @@
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/21/77QLAFCHCJT3.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "张家玮PK宾汉姆 庞俊旭出战",
-      "modifyTitle": "斯诺克北爱尔兰公开赛32进16：张家玮PK宾汉姆 庞俊旭出战",
+      "pkInfoTitle": "张家玮零封宾汉姆 庞俊旭出战",
+      "modifyTitle": "斯诺克北爱尔兰公开赛32进16：张家玮零封宾汉姆 庞俊旭出战",
       "presenters": "涂子轩 陶哲铭",
       "matchInfo": {
         "time": "10月21日17:00"
@@ -481,16 +517,16 @@
           "name": "涂子轩"
         },
         {
+          "pID": "968351997",
+          "name": "2号桌"
+        },
+        {
           "pID": "968602612",
           "name": "陶哲铭"
         },
         {
           "pID": "968351962",
           "name": "1号桌"
-        },
-        {
-          "pID": "968351997",
-          "name": "2号桌"
         }
       ]
     },
@@ -503,7 +539,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "乒乓球亚锦赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/20/77QKCPAGEDFT.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/21/77QL8O5295DB.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/5/12/1000000002101068e190.png",
       "pkInfoTitle": "国乒男团冲四强 蒯曼、王艺迪单打迎首秀",
       "modifyTitle": "乒乓球亚锦赛男女团体争冠组1/4决赛及排位赛、女单1/32决赛、男单1/64决赛、混双1/16决赛",
@@ -521,12 +557,16 @@
           "name": "张靖松 李柯鑫 肖扬"
         },
         {
-          "pID": "968421202",
-          "name": "1号桌"
-        },
-        {
           "pID": "968421239",
           "name": "2号桌"
+        },
+        {
+          "pID": "968421586",
+          "name": "10号桌"
+        },
+        {
+          "pID": "968421202",
+          "name": "1号桌"
         },
         {
           "pID": "968421283",
@@ -555,10 +595,6 @@
         {
           "pID": "968421574",
           "name": "9号桌"
-        },
-        {
-          "pID": "968421586",
-          "name": "10号桌"
         }
       ]
     },
@@ -592,7 +628,7 @@
       "title": "东亚超级联赛A组常规赛",
       "keyword": "10月21日19:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "东亚超级联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/21/77QL7PMM24H7.png",
@@ -672,7 +708,7 @@
       "title": "CBA常规赛第2轮",
       "keyword": "10月21日19:35",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "义乌梅湖体育馆",
       "competitionName": "CBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/18/77QIGFNUQ3O2.png",
