@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-22 13:01:32",
+  "updateTime": "2026-10-22 13:31:24",
   "data": [
     {
       "mgdbId": "120000586177",
@@ -78,7 +78,7 @@
         },
         {
           "pID": "968624102",
-          "name": "26/27赛季斯诺克北爱尔兰公开赛第2轮回放：卢卡·布雷切尔2-4马丁·奥德奈尔（赛场原声）"
+          "name": "【回放】卢卡·布雷切尔2-4马丁·奥德奈尔（赛场原声）"
         }
       ]
     },
@@ -461,6 +461,10 @@
           "name": "全场回放（连睿、周鹏、秋童）"
         },
         {
+          "pID": "968629920",
+          "name": "全场回放（英文原声）"
+        },
+        {
           "pID": "968628491",
           "name": "全场回放（AI字幕）"
         },
@@ -508,7 +512,7 @@
     },
     {
       "mgdbId": "120000588264",
-      "pID": "968629808",
+      "pID": "968629934",
       "title": "NBA常规赛",
       "keyword": "10月22日10:00",
       "sportItemId": "2",
@@ -524,6 +528,14 @@
         "time": "10月22日10:00"
       },
       "nodes": [
+        {
+          "pID": "968629934",
+          "name": "全场集锦"
+        },
+        {
+          "pID": "968629966",
+          "name": "全场回放（邢晨）"
+        },
         {
           "pID": "968627248",
           "name": "第一节"
@@ -544,7 +556,7 @@
     },
     {
       "mgdbId": "120000590117",
-      "pID": "968628319",
+      "pID": "968630256",
       "title": "NBA常规赛",
       "keyword": "10月22日10:00",
       "sportItemId": "2",
@@ -560,6 +572,14 @@
         "time": "10月22日10:00"
       },
       "nodes": [
+        {
+          "pID": "968630256",
+          "name": "全场集锦"
+        },
+        {
+          "pID": "968630638",
+          "name": "全场回放（蔡凯臣、曾令旭、季孟年、小七）"
+        },
         {
           "pID": "968627266",
           "name": "第一节"
@@ -580,11 +600,11 @@
     },
     {
       "mgdbId": "120000588265",
-      "pID": "968571261",
+      "pID": "968629977",
       "title": "NBA常规赛",
       "keyword": "10月22日10:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "因图特圆顶球馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/22/77QM7KMDETAA.jpg",
@@ -597,16 +617,20 @@
       },
       "nodes": [
         {
-          "pID": "968629977",
-          "name": "眼观六路！加兰穿针引线 米勒腾空暴起炸筐"
+          "pID": "968628106",
+          "name": "第一节"
         },
         {
-          "pID": "968571261",
-          "name": "李嘉伟"
+          "pID": "968628941",
+          "name": "第二节"
         },
         {
-          "pID": "968571335",
-          "name": "英文原声"
+          "pID": "968629807",
+          "name": "第三节"
+        },
+        {
+          "pID": "968630163",
+          "name": "第四节"
         }
       ]
     },
@@ -645,16 +669,16 @@
     {
       "mgdbId": "120000596580",
       "pID": "968568973",
-      "title": "科瓦奇科娃登场 贝尔曼压场出战",
+      "title": "基顿·汉斯登场 贝尔曼压场出战",
       "keyword": "10月22日10:30",
       "sportItemId": "9",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "ITF世界网球巡回赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/22/77QM7B2J1ETH.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/22/77QM4C2RBPJQ.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/10/16/100000001565106ef9d8.png",
-      "pkInfoTitle": "科瓦奇科娃登场 贝尔曼压场出战",
-      "modifyTitle": "青少年年终总决赛Day2：科瓦奇科娃登场 贝尔曼压场出战",
+      "pkInfoTitle": "基顿·汉斯登场 贝尔曼压场出战",
+      "modifyTitle": "青少年年终总决赛Day2：基顿·汉斯登场 贝尔曼压场出战",
       "presenters": "",
       "matchInfo": {
         "time": "10月22日10:30"
@@ -737,6 +761,10 @@
           "name": "王睿涓"
         },
         {
+          "pID": "968419819",
+          "name": "4号桌"
+        },
+        {
           "pID": "968419659",
           "name": "1号桌"
         },
@@ -747,10 +775,6 @@
         {
           "pID": "968419799",
           "name": "3号桌"
-        },
-        {
-          "pID": "968419819",
-          "name": "4号桌"
         },
         {
           "pID": "968419845",
