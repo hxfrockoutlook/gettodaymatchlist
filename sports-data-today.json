@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-22 14:01:35",
+  "updateTime": "2026-10-22 14:31:26",
   "data": [
     {
       "mgdbId": "120000586177",
@@ -541,6 +541,10 @@
           "name": "全场回放（邢晨）"
         },
         {
+          "pID": "968632068",
+          "name": "全场回放（英文原声）"
+        },
+        {
           "pID": "968627248",
           "name": "第一节"
         },
@@ -689,16 +693,16 @@
     {
       "mgdbId": "120000596580",
       "pID": "968568973",
-      "title": "基顿·汉斯登场 贝尔曼压场出战",
+      "title": "贝尔曼出战 基顿·汉斯横扫晋级",
       "keyword": "10月22日10:30",
       "sportItemId": "9",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "ITF世界网球巡回赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/22/77QM4C2RBPJQ.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/22/77QM4M7PJH21.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/10/16/100000001565106ef9d8.png",
-      "pkInfoTitle": "基顿·汉斯登场 贝尔曼压场出战",
-      "modifyTitle": "青少年年终总决赛Day2：基顿·汉斯登场 贝尔曼压场出战",
+      "pkInfoTitle": "贝尔曼出战 基顿·汉斯横扫晋级",
+      "modifyTitle": "青少年年终总决赛Day2：贝尔曼出战 基顿·汉斯横扫晋级",
       "presenters": "",
       "matchInfo": {
         "time": "10月22日10:30"
@@ -767,7 +771,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "乒乓球亚锦赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/22/77QM4EOC6074.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/22/77QM4M49T600.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/5/12/1000000002101068e190.png",
       "pkInfoTitle": "国乒男女团冲决赛！林诗栋/黄友政迎战韩国组合",
       "modifyTitle": "乒乓球亚锦赛男女团体争冠组半决赛、男女双打1/16决赛、混双1/8决赛",
@@ -789,12 +793,12 @@
           "name": "1号桌"
         },
         {
-          "pID": "968419681",
-          "name": "2号桌"
-        },
-        {
           "pID": "968419799",
           "name": "3号桌"
+        },
+        {
+          "pID": "968419681",
+          "name": "2号桌"
         },
         {
           "pID": "968419845",
@@ -823,7 +827,7 @@
       "matchField": "",
       "competitionName": "CBA",
       "padImg": "",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png",
+      "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/22/77QM4LTTVJ62.jpg",
       "pkInfoTitle": "《篮色狂想》第一期",
       "modifyTitle": "《篮色狂想》第一期",
       "presenters": "巩晓彬 王仕鹏",
@@ -936,6 +940,30 @@
         {
           "pID": "968628362",
           "name": "明地阳菜VS王祉怡"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000597048",
+      "pID": "968605517",
+      "title": "NBA精彩重播：勇士vs湖人",
+      "keyword": "10月22日18:00",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "NBA经典赛事",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png",
+      "pkInfoTitle": "NBA精彩重播：勇士vs湖人",
+      "modifyTitle": "NBA经典赛事",
+      "presenters": "蔡凯臣 曾令旭 季孟年",
+      "matchInfo": {
+        "time": "10月22日18:00"
+      },
+      "nodes": [
+        {
+          "pID": "968605517",
+          "name": "蔡凯臣 曾令旭 季孟年"
         }
       ]
     },
@@ -1200,7 +1228,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "第三轮",
       "modifyTitle": "斯诺克北爱尔兰公开赛",
-      "presenters": "",
+      "presenters": "卢正浩",
       "matchInfo": {
         "time": "10月22日20:00"
       },
@@ -1212,6 +1240,10 @@
         {
           "pID": "968623932",
           "name": "1号桌"
+        },
+        {
+          "pID": "968632757",
+          "name": "卢正浩"
         }
       ]
     }
