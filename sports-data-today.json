@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-22 09:31:23",
+  "updateTime": "2026-10-22 10:01:32",
   "data": [
     {
       "mgdbId": "120000586177",
@@ -84,11 +84,11 @@
     },
     {
       "mgdbId": "120000588257",
-      "pID": "968571789",
+      "pID": "968623240",
       "title": "NBA常规赛",
       "keyword": "10月22日07:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "安利中心",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/22/77QM6MFJ8S82.jpg",
@@ -101,25 +101,33 @@
       },
       "nodes": [
         {
-          "pID": "968571789",
-          "name": "贾磊"
+          "pID": "968622773",
+          "name": "第一节"
         },
         {
-          "pID": "968571772",
-          "name": "英文原声"
+          "pID": "968623207",
+          "name": "第二节"
+        },
+        {
+          "pID": "968624125",
+          "name": "第三节"
+        },
+        {
+          "pID": "968625460",
+          "name": "第四节"
         }
       ]
     },
     {
       "mgdbId": "120000588258",
-      "pID": "968571953",
+      "pID": "968624976",
       "title": "NBA常规赛",
       "keyword": "10月22日07:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "第一资本体育馆",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/21/77QL7HN07CRT.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/22/77QM6OEJGHHN.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "雄鹿VS奇才",
       "modifyTitle": "NBA常规赛",
@@ -129,12 +137,20 @@
       },
       "nodes": [
         {
-          "pID": "968571953",
-          "name": "王凯"
+          "pID": "968622841",
+          "name": "第一节"
         },
         {
-          "pID": "968571931",
-          "name": "英文原声"
+          "pID": "968623137",
+          "name": "第二节"
+        },
+        {
+          "pID": "968623825",
+          "name": "第三节"
+        },
+        {
+          "pID": "968625135",
+          "name": "第四节"
         }
       ]
     },
@@ -364,7 +380,7 @@
       "title": "NBA常规赛",
       "keyword": "10月22日10:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "摩达中心",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/21/77QL7JCO03JH.jpg",
@@ -385,6 +401,10 @@
           "name": "邢晨"
         },
         {
+          "pID": "968570817",
+          "name": "勇士vs湖人"
+        },
+        {
           "pID": "968571207",
           "name": "英文原声"
         }
@@ -396,7 +416,7 @@
       "title": "NBA常规赛",
       "keyword": "10月22日10:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "加密中心球馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/21/77QL7K1Q98N4.jpg",
@@ -417,12 +437,12 @@
           "name": "英文原声"
         },
         {
-          "pID": "968570926",
-          "name": "拜月宁"
+          "pID": "968571096",
+          "name": "同看菲尼克斯太阳 vs 波特兰开拓者"
         },
         {
-          "pID": "968570954",
-          "name": "莫俊祺"
+          "pID": "968570926",
+          "name": "拜月宁"
         },
         {
           "pID": "968571002",
@@ -535,7 +555,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
       "pkInfoTitle": "约维奇PK保利尼 本西奇接场出战",
       "modifyTitle": "WTA500宁波站女单第二轮、女双1/4决赛：约维奇PK保利尼 本西奇接场出战",
-      "presenters": "",
+      "presenters": "乔迁",
       "matchInfo": {
         "time": "10月22日13:00"
       },
@@ -547,6 +567,10 @@
         {
           "pID": "968418017",
           "name": "大看台"
+        },
+        {
+          "pID": "968625427",
+          "name": "乔迁"
         }
       ]
     },
