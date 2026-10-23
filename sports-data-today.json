@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-23 10:01:30",
+  "updateTime": "2026-10-23 10:31:29",
   "data": [
     {
       "mgdbId": "120000596299",
@@ -44,11 +44,11 @@
     },
     {
       "mgdbId": "120000590118",
-      "pID": "968571360",
+      "pID": "968651777",
       "title": "NBA常规赛",
       "keyword": "10月23日07:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "康卡斯特移动球馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/23/77QN3TJUJBJA.jpg",
@@ -61,16 +61,20 @@
       },
       "nodes": [
         {
-          "pID": "968571360",
-          "name": "庄宁宇 殷文玉 魏欣怡"
+          "pID": "968651854",
+          "name": "第一节"
         },
         {
-          "pID": "968571404",
-          "name": "英文原声"
+          "pID": "968652129",
+          "name": "第二节"
         },
         {
-          "pID": "968576328",
-          "name": "智能字幕"
+          "pID": "968653688",
+          "name": "第三节"
+        },
+        {
+          "pID": "968654625",
+          "name": "第四节"
         }
       ]
     },
@@ -204,7 +208,7 @@
       "title": "李吉妮冲四强！博尔特压场出战",
       "keyword": "10月23日10:30",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/22/77QM6NGCDMMT.jpg",
@@ -236,7 +240,7 @@
       "title": "马卡洛娃出战 孙心然压轴登场",
       "keyword": "10月23日10:30",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "ITF世界网球巡回赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/23/77QN37OSNB2S.jpg",
@@ -419,6 +423,30 @@
       ]
     },
     {
+      "mgdbId": "120000597655",
+      "pID": "968654292",
+      "title": "东润杯·全国青少年足球总决赛三四名决赛",
+      "keyword": "10月23日14:30",
+      "sportItemId": "1",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "东润杯·全国青少年足球总决赛",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000597655/202610231010_131147_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/10/23/100000001364106152a1.png",
+      "pkInfoTitle": "厦门二中vs上海七宝中学",
+      "modifyTitle": "东润杯·全国青少年足球总决赛三四名决赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "10月23日14:30"
+      },
+      "nodes": [
+        {
+          "pID": "968654292",
+          "name": "官方解说"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000592513",
       "pID": "968634295",
       "title": "中乙升级赛组",
@@ -479,6 +507,10 @@
         {
           "pID": "968536377",
           "name": "1号场地英文视角"
+        },
+        {
+          "pID": "968536418",
+          "name": "2号场地英文视���"
         },
         {
           "pID": "968536418",
