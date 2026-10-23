@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-23 14:01:44",
+  "updateTime": "2026-10-23 14:31:32",
   "data": [
     {
       "mgdbId": "120000596299",
@@ -168,7 +168,7 @@
       "title": "全国游泳锦标赛Day 1",
       "keyword": "10月23日09:00",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "全国游泳锦标赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/23/77QN3FL23JLO.jpg",
@@ -233,16 +233,16 @@
     {
       "mgdbId": "120000596551",
       "pID": "968413989",
-      "title": "吉布森冲四强！博尔特压场出战",
+      "title": "西尼亚科娃冲四强！博尔特压场出战",
       "keyword": "10月23日10:30",
       "sportItemId": "9",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/23/77QN4OTONU8B.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/23/77QN1OAFFOH4.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "吉布森冲四强！博尔特压场出战",
-      "modifyTitle": "WTA250大阪站 1/4决赛：吉布森冲四强！博尔特压场出战",
+      "pkInfoTitle": "西尼亚科娃冲四强！博尔特压场出战",
+      "modifyTitle": "WTA250大阪站 1/4决赛：西尼亚科娃冲四强！博尔特压场出战",
       "presenters": "",
       "matchInfo": {
         "time": "10月23日10:30"
@@ -336,29 +336,37 @@
     },
     {
       "mgdbId": "120000596571",
-      "pID": "968420798",
-      "title": "黄友政/陈熠冲决赛 向鹏、温瑞博出战",
+      "pID": "968488580",
+      "title": "黄友政/陈熠冲决赛 周启豪、温瑞博出战",
       "keyword": "10月23日13:00",
       "sportItemId": "7",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "乒乓球亚锦赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/23/77QN1H2IHD19.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/23/77QN1OGMT2OJ.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/5/12/1000000002101068e190.png",
-      "pkInfoTitle": "黄友政/陈熠冲决赛 向鹏、温瑞博出战",
+      "pkInfoTitle": "黄友政/陈熠冲决赛 周启豪、温瑞博出战",
       "modifyTitle": "乒乓球亚锦赛男单1/32决赛、混双1/4决赛、半决赛及排位赛",
-      "presenters": "赵曦 王政",
+      "presenters": "王政 赵曦",
       "matchInfo": {
         "time": "10月23日13:00"
       },
       "nodes": [
         {
+          "pID": "968488580",
+          "name": "王政"
+        },
+        {
           "pID": "968420798",
           "name": "赵曦"
         },
         {
-          "pID": "968488580",
-          "name": "王政"
+          "pID": "968420423",
+          "name": "3号桌"
+        },
+        {
+          "pID": "968420401",
+          "name": "2号桌"
         },
         {
           "pID": "968420335",
@@ -369,16 +377,12 @@
           "name": "4号桌"
         },
         {
-          "pID": "968420401",
-          "name": "2号桌"
-        },
-        {
-          "pID": "968420423",
-          "name": "3号桌"
-        },
-        {
           "pID": "968420508",
           "name": "5号桌"
+        },
+        {
+          "pID": "968420666",
+          "name": "8号桌"
         },
         {
           "pID": "968420532",
@@ -387,10 +391,6 @@
         {
           "pID": "968420578",
           "name": "7号桌"
-        },
-        {
-          "pID": "968420666",
-          "name": "8号桌"
         },
         {
           "pID": "968420708",
@@ -456,7 +456,7 @@
       "title": "东润杯·全国青少年足球总决赛三四名决赛",
       "keyword": "10月23日14:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "东润杯·全国青少年足球总决赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000597655/202610231010_131147_H169_1080.webp",
