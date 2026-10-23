@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-23 10:31:29",
+  "updateTime": "2026-10-23 11:01:36",
   "data": [
     {
       "mgdbId": "120000596299",
@@ -44,7 +44,7 @@
     },
     {
       "mgdbId": "120000590118",
-      "pID": "968651777",
+      "pID": "968654687",
       "title": "NBA常规赛",
       "keyword": "10月23日07:00",
       "sportItemId": "2",
@@ -60,6 +60,10 @@
         "time": "10月23日07:00"
       },
       "nodes": [
+        {
+          "pID": "968654687",
+          "name": "全场集锦"
+        },
         {
           "pID": "968651854",
           "name": "第一节"
@@ -268,10 +272,10 @@
       "title": "莱巴压场！布兹科娃对阵贝莱克",
       "keyword": "10月23日11:00",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/22/77QM6NJ7S5KE.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/23/77QN46IMARQ6.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
       "pkInfoTitle": "莱巴压场！布兹科娃对阵贝莱克",
       "modifyTitle": "WTA500宁波站1/4决赛：莱巴压场！布兹科娃对阵贝莱克",
@@ -281,28 +285,28 @@
       },
       "nodes": [
         {
+          "pID": "968652991",
+          "name": "卢特利芙/苏加迪 vs 爱克里/格里森"
+        },
+        {
           "pID": "968417916",
           "name": "中心球场"
         },
         {
-          "pID": "968652991",
-          "name": "鸿昆"
-        },
-        {
           "pID": "968653118",
-          "name": "蔡凯臣"
+          "name": "费尔南德斯 vs 亚历山德洛娃"
         },
         {
           "pID": "968653255",
-          "name": "宋光振"
+          "name": "约维奇 vs 施耐德"
         },
         {
           "pID": "968653331",
-          "name": "乔迁"
+          "name": "贝莱克 vs 布兹科娃"
         },
         {
           "pID": "968653335",
-          "name": "邱超"
+          "name": "莱巴金娜 vs 卡瓦"
         }
       ]
     },
@@ -487,7 +491,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "韩悦直面安洗莹 胡哲安、凤凰组合接连出战",
       "modifyTitle": "法国羽毛球公开赛第四日：韩悦直面安洗莹 胡哲安、凤凰组合接连出战",
-      "presenters": "",
+      "presenters": "孙宁智 杨妮娜 朱胤丞 鸿昆 余博洋",
       "matchInfo": {
         "time": "10月23日15:30"
       },
@@ -510,11 +514,47 @@
         },
         {
           "pID": "968536418",
-          "name": "2号场地英文视���"
+          "name": "2号场地英文视角"
         },
         {
-          "pID": "968536418",
-          "name": "2号场地英文视角"
+          "pID": "968655318",
+          "name": "孙宁智"
+        },
+        {
+          "pID": "968655325",
+          "name": "孙宁智"
+        },
+        {
+          "pID": "968655331",
+          "name": "杨妮娜"
+        },
+        {
+          "pID": "968655343",
+          "name": "杨妮娜"
+        },
+        {
+          "pID": "968655352",
+          "name": "朱胤丞"
+        },
+        {
+          "pID": "968655360",
+          "name": "鸿昆"
+        },
+        {
+          "pID": "968655368",
+          "name": "鸿昆"
+        },
+        {
+          "pID": "968655375",
+          "name": "鸿昆"
+        },
+        {
+          "pID": "968655384",
+          "name": "余博洋"
+        },
+        {
+          "pID": "968655395",
+          "name": "余博洋"
         }
       ]
     },
