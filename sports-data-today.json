@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-24 06:02:57",
+  "updateTime": "2026-10-24 06:32:38",
   "data": [
     {
       "mgdbId": "120000596301",
@@ -62,7 +62,7 @@
         },
         {
           "pID": "968682569",
-          "name": "全场回放"
+          "name": "全场回放（AI智能解说）"
         }
       ]
     },
@@ -163,6 +163,10 @@
         {
           "pID": "968682095",
           "name": "全场回放（AI智慧观赛）"
+        },
+        {
+          "pID": "968682973",
+          "name": "全场回放"
         }
       ]
     },
@@ -1970,7 +1974,7 @@
       "mgdbId": "120000584211",
       "pID": "968625964",
       "title": "英超联赛",
-      "keyword": "10月24日19:30",
+      "keyword": "10月24��19:30",
       "sportItemId": "1",
       "matchStatus": "0",
       "matchField": "维拉公园球场",
@@ -1981,7 +1985,7 @@
       "modifyTitle": "英超联赛",
       "presenters": "娄一晨 刘越 姚安妮",
       "matchInfo": {
-        "time": "10月24日19:30"
+        "time": "10月24��19:30"
       },
       "nodes": [
         {
@@ -2422,15 +2426,11 @@
         },
         {
           "pID": "968626532",
-          "name": "��场原声"
+          "name": "赛场原声"
         },
         {
           "pID": "968654859",
           "name": "智能解说"
-        },
-        {
-          "pID": "968626532",
-          "name": "赛场原声"
         }
       ]
     },
@@ -2764,7 +2764,7 @@
       "competitionName": "UFC数字赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/23/77QN2STKMB3I.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/3/31/1000000004031067eab4.png",
-      "pkInfoTitle": "UFC��333期：亚东现场观战！梅严三番大战 大帝VS羽鹰",
+      "pkInfoTitle": "UFC第333期：亚东现场观战！梅严三番大战 大帝VS羽鹰",
       "modifyTitle": "UFC第333期：沃尔卡诺夫斯基VS埃夫洛耶夫",
       "presenters": "王琰博 郝俊 李景亮 陈瑞阳 郑文祺 张名扬",
       "matchInfo": {
