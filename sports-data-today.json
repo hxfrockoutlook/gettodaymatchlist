@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-24 00:06:18",
+  "updateTime": "2026-10-24 00:33:29",
   "data": [
     {
       "mgdbId": "120000596301",
@@ -514,7 +514,7 @@
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/9/21/1000000012301069d1ae.png",
       "pkInfoTitle": "全国游泳锦标赛Day 2",
-      "modifyTitle": "全国游泳���标赛Day 2",
+      "modifyTitle": "全国游泳锦标赛Day 2",
       "presenters": "",
       "matchInfo": {
         "time": "10月24日09:00"
@@ -1023,7 +1023,12 @@
       "matchInfo": {
         "time": "10月24日15:00"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "968538544",
+          "name": "赛场原声"
+        }
+      ]
     },
     {
       "mgdbId": "120000596742",
@@ -1356,7 +1361,16 @@
       "matchInfo": {
         "time": "10月24日15:30"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "968626768",
+          "name": "李欣 徐云龙 郭小仙儿"
+        },
+        {
+          "pID": "968626824",
+          "name": "赛场原声"
+        }
+      ]
     },
     {
       "mgdbId": "120000569592",
@@ -1955,7 +1969,7 @@
       "keyword": "10月24日19:30",
       "sportItemId": "1",
       "matchStatus": "0",
-      "matchField": "南海体育中心���育场",
+      "matchField": "南海体育中心体育场",
       "competitionName": "中甲",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000570529/202603010035_543399_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/10106c2211.png",
@@ -2369,7 +2383,12 @@
       "matchInfo": {
         "time": "10月24日19:40"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "968332981",
+          "name": "解说"
+        }
+      ]
     },
     {
       "mgdbId": "120000592133",
@@ -2427,11 +2446,15 @@
         },
         {
           "pID": "968626532",
-          "name": "赛场原声"
+          "name": "���场原声"
         },
         {
           "pID": "968654859",
           "name": "智能解说"
+        },
+        {
+          "pID": "968626532",
+          "name": "赛场原声"
         }
       ]
     },
