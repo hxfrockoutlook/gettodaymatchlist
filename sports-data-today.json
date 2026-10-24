@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-25 05:32:34",
+  "updateTime": "2026-10-25 06:02:41",
   "data": [
     {
       "mgdbId": "120000584824",
@@ -236,7 +236,7 @@
       "title": "意甲联赛",
       "keyword": "10月25日02:45",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "奥林匹克球场",
       "competitionName": "意甲",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000584826/202610250445_547817_H169_1080.webp",
@@ -249,12 +249,12 @@
       },
       "nodes": [
         {
-          "pID": "968627043",
-          "name": "鲁靖明"
+          "pID": "968732177",
+          "name": "全场集锦"
         },
         {
-          "pID": "968627024",
-          "name": "赛场原声"
+          "pID": "968731760",
+          "name": "全场回放（鲁靖明）"
         }
       ]
     },
@@ -277,8 +277,20 @@
       },
       "nodes": [
         {
+          "pID": "968732775",
+          "name": "全场集锦"
+        },
+        {
           "pID": "968732896",
           "name": "全场回放（张天翼、贺宇）"
+        },
+        {
+          "pID": "968732996",
+          "name": "全场回放（AI观赛)"
+        },
+        {
+          "pID": "968733238",
+          "name": "全场回放(智能解说）"
         }
       ]
     },
@@ -288,7 +300,7 @@
       "title": "莫干山跑山赛",
       "keyword": "10月25日05:50",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "莫干山跑山赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/24/77QO17L4UK52.png",
@@ -312,7 +324,7 @@
       "title": "NBA常规赛",
       "keyword": "10月25日06:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "光谱中心",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/24/77QO1E65QV31.png",
