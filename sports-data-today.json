@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-24 09:02:59",
+  "updateTime": "2026-10-24 09:32:42",
   "data": [
     {
       "mgdbId": "120000596301",
@@ -245,7 +245,7 @@
     {
       "mgdbId": "120000597558",
       "pID": "968632413",
-      "title": "莫干山跑山赛",
+      "title": "莫干山跑��赛",
       "keyword": "10月24日05:30",
       "sportItemId": "8",
       "matchStatus": "1",
@@ -268,11 +268,11 @@
     },
     {
       "mgdbId": "120000588266",
-      "pID": "968573237",
+      "pID": "968685107",
       "title": "NBA常规赛",
       "keyword": "10月24日07:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "光谱中心",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/23/77QN4B23GMUM.png",
@@ -285,12 +285,20 @@
       },
       "nodes": [
         {
-          "pID": "968573237",
-          "name": "贾磊"
+          "pID": "968684412",
+          "name": "第一节"
         },
         {
-          "pID": "968573257",
-          "name": "英文原声"
+          "pID": "968684994",
+          "name": "第二节"
+        },
+        {
+          "pID": "968685772",
+          "name": "第三节"
+        },
+        {
+          "pID": "968686310",
+          "name": "第四节"
         }
       ]
     },
@@ -580,7 +588,7 @@
       "title": "NBA常规赛",
       "keyword": "10月24日09:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "达美中心球馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/23/77QN4BLO4HE2.jpg",
@@ -608,7 +616,7 @@
       "title": "NBA常规赛",
       "keyword": "10月24日09:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "Moody Center",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/23/77QN4BJ63FSV.jpg",
@@ -859,7 +867,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
       "pkInfoTitle": "艾克里/格里森冲击女双决赛",
       "modifyTitle": "WTA500宁波站半决赛：艾克里/格里森冲击女双决赛",
-      "presenters": "",
+      "presenters": "张文悦",
       "matchInfo": {
         "time": "10月24日13:00"
       },
@@ -871,6 +879,10 @@
         {
           "pID": "968418043",
           "name": "大看台"
+        },
+        {
+          "pID": "968685946",
+          "name": "张文悦"
         }
       ]
     },
@@ -1200,6 +1212,7 @@
     },
     {
       "mgdbId": "120000597735",
+      "pID": "968686029",
       "title": "WTA500宁波站半决赛：费尔南德斯 vs 布兹科娃",
       "keyword": "10月24日15:00",
       "sportItemId": "9",
@@ -1210,11 +1223,20 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
       "pkInfoTitle": "费尔南德斯 vs 鲍兹科娃",
       "modifyTitle": "WTA500宁波站半决赛：费尔南德斯 vs 布兹科娃",
-      "presenters": "",
+      "presenters": "李宁",
       "matchInfo": {
         "time": "10月24日15:00"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "968686029",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "968685905",
+          "name": "李宁"
+        }
+      ]
     },
     {
       "mgdbId": "120000569586",
@@ -1734,6 +1756,7 @@
     },
     {
       "mgdbId": "120000597758",
+      "pID": "968686074",
       "title": "WTA500宁波站女单半决赛：莱巴金娜 vs 施耐德",
       "keyword": "10月24日17:30",
       "sportItemId": "9",
@@ -1744,11 +1767,20 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
       "pkInfoTitle": "莱巴金娜 vs 施耐德",
       "modifyTitle": "WTA500宁波站女单半决赛：莱巴金娜 vs 施耐德",
-      "presenters": "",
+      "presenters": "邱超",
       "matchInfo": {
         "time": "10月24日17:30"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "968686074",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "968685883",
+          "name": "邱超"
+        }
+      ]
     },
     {
       "mgdbId": "120000596719",
@@ -2142,7 +2174,7 @@
       "sportItemId": "1",
       "matchStatus": "0",
       "matchField": "",
-      "competitionName": "东润杯·全国青少年足球总决赛",
+      "competitionName": "东润杯",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000597656/202610231006_263123_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/10/23/100000001364106f60e0.png",
       "pkInfoTitle": "清华附中vs石家庄二中",
