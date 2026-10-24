@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-25 00:03:24",
+  "updateTime": "2026-10-25 00:32:48",
   "data": [
     {
       "mgdbId": "120000584824",
@@ -124,7 +124,7 @@
       "title": "西甲联赛",
       "keyword": "10月25日00:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "梅斯塔利亚球场",
       "competitionName": "西甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000586141/887687_H169_sc.jpg",
@@ -148,11 +148,11 @@
     },
     {
       "mgdbId": "120000588174",
-      "pID": "968629701",
+      "pID": "968657381",
       "title": "德甲联赛",
       "keyword": "10月25日00:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "多特蒙德球场",
       "competitionName": "德甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000588174/217087_H169_sc.jpg",
@@ -165,6 +165,10 @@
       },
       "nodes": [
         {
+          "pID": "968657381",
+          "name": "沈云怡 秦游夏"
+        },
+        {
           "pID": "968629688",
           "name": "赛场原声"
         },
@@ -174,10 +178,6 @@
         },
         {
           "pID": "968656277",
-          "name": "沈云怡 秦游夏"
-        },
-        {
-          "pID": "968657381",
           "name": "沈云怡 秦游夏"
         }
       ]
@@ -842,7 +842,7 @@
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/24/77QO1J682OJF.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "火箭VS老鹰",
-      "modifyTitle": "NBA常��赛",
+      "modifyTitle": "NBA常规��",
       "presenters": "连睿 刘铁 周鹏",
       "matchInfo": {
         "time": "10月25日08:30"
