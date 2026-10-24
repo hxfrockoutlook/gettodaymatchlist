@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-24 19:03:11",
+  "updateTime": "2026-10-24 19:33:04",
   "data": [
     {
       "mgdbId": "120000596301",
@@ -245,7 +245,7 @@
     {
       "mgdbId": "120000597558",
       "pID": "968632413",
-      "title": "莫干山跑��赛",
+      "title": "莫干山跑山赛",
       "keyword": "10月24日05:30",
       "sportItemId": "8",
       "matchStatus": "2",
@@ -1135,6 +1135,10 @@
         {
           "pID": "968703468",
           "name": "全场回放（七号桌）"
+        },
+        {
+          "pID": "968711290",
+          "name": "2026亚洲乒乓球锦标赛Day6下午场八号桌全场回放（赛场原声）"
         }
       ]
     },
@@ -1250,7 +1254,7 @@
       "nodes": [
         {
           "pID": "968709098",
-          "name": "全场回放"
+          "name": "全场回放（官方解说）"
         }
       ]
     },
@@ -1345,8 +1349,8 @@
       },
       "nodes": [
         {
-          "pID": "968538472",
-          "name": "赛场原声"
+          "pID": "968710229",
+          "name": "全场回放"
         }
       ]
     },
@@ -1467,6 +1471,14 @@
         {
           "pID": "968706997",
           "name": "全场集锦"
+        },
+        {
+          "pID": "968710068",
+          "name": "全场回放（涂远、鹿中原）"
+        },
+        {
+          "pID": "968711135",
+          "name": "全场回放"
         }
       ]
     },
@@ -1531,10 +1543,6 @@
         {
           "pID": "968707925",
           "name": "全场回放（智能解说）"
-        },
-        {
-          "pID": "968708631",
-          "name": "全场回放"
         }
       ]
     },
@@ -1610,15 +1618,11 @@
         },
         {
           "pID": "968708193",
-          "name": "全场回放"
-        },
-        {
-          "pID": "968708407",
-          "name": "全场回放"
+          "name": "全场回放（智能解说）"
         },
         {
           "pID": "968709180",
-          "name": "全场回放"
+          "name": "全场回放（AI智慧观赛）"
         }
       ]
     },
@@ -1711,6 +1715,18 @@
         {
           "pID": "968707930",
           "name": "全场回放（AI观赛）"
+        },
+        {
+          "pID": "968709538",
+          "name": "全场回放（石庆圣、李彦、邵凌霄）"
+        },
+        {
+          "pID": "968709829",
+          "name": "全场回放"
+        },
+        {
+          "pID": "968710370",
+          "name": "全场回放"
         }
       ]
     },
@@ -1733,12 +1749,8 @@
       },
       "nodes": [
         {
-          "pID": "968607698",
-          "name": "解说"
-        },
-        {
-          "pID": "968607707",
-          "name": "赛场原声"
+          "pID": "968710531",
+          "name": "全场回放"
         }
       ]
     },
@@ -1785,12 +1797,8 @@
       },
       "nodes": [
         {
-          "pID": "968634409",
-          "name": "解说"
-        },
-        {
-          "pID": "968634429",
-          "name": "赛场原声"
+          "pID": "968710546",
+          "name": "全场回放"
         }
       ]
     },
@@ -1937,12 +1945,8 @@
       },
       "nodes": [
         {
-          "pID": "968634499",
-          "name": "解说"
-        },
-        {
-          "pID": "968634519",
-          "name": "赛场原声"
+          "pID": "968711276",
+          "name": "全场回放"
         }
       ]
     },
@@ -2073,10 +2077,6 @@
       },
       "nodes": [
         {
-          "pID": "968667491",
-          "name": "JCK觉城之夜N124联合主赛"
-        },
-        {
           "pID": "968667680",
           "name": "JCK觉城之夜N124赛前采访"
         },
@@ -2092,7 +2092,7 @@
     },
     {
       "mgdbId": "120000596574",
-      "pID": "968421774",
+      "pID": "968421823",
       "title": "争进四强！李天阳PK向鹏 蒯曼战桥本帆乃香",
       "keyword": "10月24日19:00",
       "sportItemId": "7",
@@ -2109,12 +2109,16 @@
       },
       "nodes": [
         {
+          "pID": "968421823",
+          "name": "周冠达 侯英超 程靖淇"
+        },
+        {
           "pID": "968421774",
           "name": "张靖松"
         },
         {
-          "pID": "968421823",
-          "name": "周冠达 侯英超 程靖淇"
+          "pID": "968421629",
+          "name": "1号桌"
         },
         {
           "pID": "968421646",
@@ -2131,10 +2135,6 @@
         {
           "pID": "968421718",
           "name": "5号桌"
-        },
-        {
-          "pID": "968421629",
-          "name": "1号桌"
         }
       ]
     },
@@ -2192,7 +2192,7 @@
       "title": "中甲联赛",
       "keyword": "10月24日19:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "裕彤国际体育中心",
       "competitionName": "中甲",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000570527/202608031120_689286_H169_1080.webp",
@@ -2220,7 +2220,7 @@
       "title": "中甲联赛",
       "keyword": "10月24日19:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "如皋奥体中心体育场",
       "competitionName": "中甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000570528/165860_H169_sc.jpg",
@@ -2248,7 +2248,7 @@
       "title": "中甲联赛",
       "keyword": "10月24日19:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "南海体育中心体育场",
       "competitionName": "中甲",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000570529/202603010035_543399_H169_1080.webp",
@@ -2307,6 +2307,10 @@
         {
           "pID": "968655817",
           "name": "娄一晨 刘越 姚安妮"
+        },
+        {
+          "pID": "968656198",
+          "name": "任锴 梁柏翘"
         }
       ]
     },
@@ -2316,7 +2320,7 @@
       "title": "中乙保级赛",
       "keyword": "10月24日19:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "温州体育中心体育场",
       "competitionName": "中乙",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000592509/202609050335_282994_H169_1080.webp",
@@ -2344,7 +2348,7 @@
       "title": "粤超季军赛(第二回合)",
       "keyword": "10月24日19:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "粤超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000596470/202610141505_601157_H169_1080.webp",
@@ -2376,7 +2380,7 @@
       "title": "永康VS临海",
       "keyword": "10月24日19:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "浙BA",
       "padImg": "",
@@ -2400,7 +2404,7 @@
       "title": "东润杯·全国青少年足球总决赛总决赛",
       "keyword": "10月24日19:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "东润杯",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000597656/202610231006_263123_H169_1080.webp",
@@ -2460,7 +2464,7 @@
       "title": "CBA常规赛第4轮",
       "keyword": "10月24日19:35",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "上海体育馆",
       "competitionName": "CBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/23/77QN2BJPBUPI.jpg",
@@ -2492,7 +2496,7 @@
       "title": "CBA常规赛第4轮",
       "keyword": "10月24日19:35",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "黄龙体育中心体育馆",
       "competitionName": "CBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/23/77QN2AP5U5VP.jpg",
@@ -2616,7 +2620,7 @@
       "title": "苏超第26周半决赛次回合",
       "keyword": "10月24日19:40",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "苏超",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000596337/101924_H169_sc.jpg",
@@ -2640,7 +2644,7 @@
       "title": "苏超第26周半决赛次回合",
       "keyword": "10月24日19:40",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "苏超",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000596338/388189_H169_sc.jpg",
@@ -2664,7 +2668,7 @@
       "title": "英女超联赛",
       "keyword": "10月24日19:45",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "托特纳姆热刺球场",
       "competitionName": "英女超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000592133/202609021001_325999_H169_1080.webp",
@@ -2714,15 +2718,11 @@
         },
         {
           "pID": "968626532",
-          "name": "赛场���声"
+          "name": "赛场原声"
         },
         {
           "pID": "968654859",
           "name": "智能解说"
-        },
-        {
-          "pID": "968626532",
-          "name": "赛场原声"
         }
       ]
     },
