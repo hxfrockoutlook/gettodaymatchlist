@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-24 13:03:07",
+  "updateTime": "2026-10-24 13:32:51",
   "data": [
     {
       "mgdbId": "120000596301",
@@ -245,7 +245,7 @@
     {
       "mgdbId": "120000597558",
       "pID": "968632413",
-      "title": "莫���山跑山赛",
+      "title": "莫干山跑山赛",
       "keyword": "10月24日05:30",
       "sportItemId": "8",
       "matchStatus": "1",
@@ -584,7 +584,7 @@
       "title": "2026“武昌鱼”杯全国垂钓俱乐部挑战赛（鄂城 · 鄂州）",
       "keyword": "10月24日08:00",
       "sportItemId": "8",
-      "matchStatus": "2",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "全国垂钓俱乐部挑战赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/23/77QN2MSPC71U.png",
@@ -633,7 +633,7 @@
       "competitionName": "PPA亚洲职业匹克球巡回赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/23/77QN3SP85KKK.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/10/19/100000001492106e0ce0.jpg",
-      "pkInfoTitle": "PPA香港1500大满贯��事 Day5",
+      "pkInfoTitle": "PPA香港1500大满贯赛事 Day5",
       "modifyTitle": "PPA香港1500大满贯赛事 Day5",
       "presenters": "",
       "matchInfo": {
@@ -697,6 +697,10 @@
           "name": "全场回放（刘沛元）"
         },
         {
+          "pID": "968692999",
+          "name": "全场回放（英文原声）"
+        },
+        {
           "pID": "968687823",
           "name": "第一节"
         },
@@ -723,7 +727,7 @@
       "matchStatus": "2",
       "matchField": "Moody Center",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/24/77QO1QINSCFQ.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/24/77QNUJL59Q3M.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "火箭VS马刺",
       "modifyTitle": "NBA常规赛",
@@ -735,6 +739,10 @@
         {
           "pID": "968691564",
           "name": "全场集锦"
+        },
+        {
+          "pID": "968691739",
+          "name": "全场回放（杨健、丁彦雨航、周鹏、拜月宁）"
         },
         {
           "pID": "968687940",
@@ -796,11 +804,11 @@
     },
     {
       "mgdbId": "120000588274",
-      "pID": "968571630",
+      "pID": "968693245",
       "title": "NBA常规赛",
       "keyword": "10月24日10:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "大通中心",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/24/77QO1SGPP3M3.png",
@@ -813,26 +821,34 @@
       },
       "nodes": [
         {
-          "pID": "968571630",
-          "name": "孙博 巩晓彬 闫宇峰"
+          "pID": "968693245",
+          "name": "全场集锦"
         },
         {
-          "pID": "968571597",
-          "name": "董倡硕"
+          "pID": "968693202",
+          "name": "全场回放（董倡硕）"
         },
         {
-          "pID": "968571551",
-          "name": "英文原声"
+          "pID": "968688909",
+          "name": "第一节"
         },
         {
-          "pID": "968576294",
-          "name": "智能字幕"
+          "pID": "968690020",
+          "name": "第二节"
+        },
+        {
+          "pID": "968691210",
+          "name": "第三节"
+        },
+        {
+          "pID": "968691838",
+          "name": "第四节"
         }
       ]
     },
     {
       "mgdbId": "120000588275",
-      "pID": "968691329",
+      "pID": "968691904",
       "title": "NBA常规赛",
       "keyword": "10月24日10:00",
       "sportItemId": "2",
@@ -848,6 +864,18 @@
         "time": "10月24日10:00"
       },
       "nodes": [
+        {
+          "pID": "968691904",
+          "name": "全场集锦"
+        },
+        {
+          "pID": "968692013",
+          "name": "全场回放（邵化谦、季孟年）"
+        },
+        {
+          "pID": "968692589",
+          "name": "全场回放（邢晨）"
+        },
         {
           "pID": "968688824",
           "name": "第一节"
@@ -1037,8 +1065,12 @@
           "name": "徐儒叶"
         },
         {
-          "pID": "968421392",
-          "name": "1号桌"
+          "pID": "968421495",
+          "name": "5号桌"
+        },
+        {
+          "pID": "968421450",
+          "name": "4号桌"
         },
         {
           "pID": "968421404",
@@ -1049,12 +1081,12 @@
           "name": "3号桌"
         },
         {
-          "pID": "968421450",
-          "name": "4号桌"
+          "pID": "968421579",
+          "name": "8号桌"
         },
         {
-          "pID": "968421495",
-          "name": "5号桌"
+          "pID": "968421392",
+          "name": "1号桌"
         },
         {
           "pID": "968421524",
@@ -1063,10 +1095,6 @@
         {
           "pID": "968421550",
           "name": "7号桌"
-        },
-        {
-          "pID": "968421579",
-          "name": "8号桌"
         },
         {
           "pID": "968691358",
@@ -1846,7 +1874,7 @@
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000592510/202609050336_996379_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/7/7/1000000011571060f297.png",
       "pkInfoTitle": "泰安天贶 vs 成都蓉城B队",
-      "modifyTitle": "中乙保级赛",
+      "modifyTitle": "��乙保级赛",
       "presenters": "",
       "matchInfo": {
         "time": "10月24日16:00"
