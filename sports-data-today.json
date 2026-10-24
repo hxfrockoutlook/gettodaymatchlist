@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-24 10:03:10",
+  "updateTime": "2026-10-24 10:32:38",
   "data": [
     {
       "mgdbId": "120000596301",
@@ -245,7 +245,7 @@
     {
       "mgdbId": "120000597558",
       "pID": "968632413",
-      "title": "莫干��跑山赛",
+      "title": "莫干山跑山赛",
       "keyword": "10月24日05:30",
       "sportItemId": "8",
       "matchStatus": "1",
@@ -312,7 +312,7 @@
     },
     {
       "mgdbId": "120000588267",
-      "pID": "968685678",
+      "pID": "968687376",
       "title": "NBA常规赛",
       "keyword": "10月24日07:00",
       "sportItemId": "2",
@@ -328,6 +328,10 @@
         "time": "10月24日07:00"
       },
       "nodes": [
+        {
+          "pID": "968687376",
+          "name": "全场集锦"
+        },
         {
           "pID": "968684487",
           "name": "第一节"
@@ -369,6 +373,10 @@
           "name": "全场集锦"
         },
         {
+          "pID": "968687353",
+          "name": "全场回放（盛哲）"
+        },
+        {
           "pID": "968684335",
           "name": "第一节"
         },
@@ -388,7 +396,7 @@
     },
     {
       "mgdbId": "120000588269",
-      "pID": "968685172",
+      "pID": "968687452",
       "title": "NBA常规赛",
       "keyword": "10月24日07:00",
       "sportItemId": "2",
@@ -404,6 +412,14 @@
         "time": "10月24日07:00"
       },
       "nodes": [
+        {
+          "pID": "968687452",
+          "name": "全场集锦"
+        },
+        {
+          "pID": "968687716",
+          "name": "全场回放（罗森）"
+        },
         {
           "pID": "968684348",
           "name": "第一节"
@@ -424,7 +440,7 @@
     },
     {
       "mgdbId": "120000590120",
-      "pID": "968685918",
+      "pID": "968688203",
       "title": "NBA常规赛",
       "keyword": "10月24日07:00",
       "sportItemId": "2",
@@ -441,6 +457,14 @@
       },
       "nodes": [
         {
+          "pID": "968688203",
+          "name": "全场集锦"
+        },
+        {
+          "pID": "968687933",
+          "name": "全场回放（王冠证）"
+        },
+        {
           "pID": "968684572",
           "name": "第一节"
         },
@@ -451,6 +475,10 @@
         {
           "pID": "968686428",
           "name": "第三节"
+        },
+        {
+          "pID": "968687462",
+          "name": "第四节"
         }
       ]
     },
@@ -577,7 +605,7 @@
     {
       "mgdbId": "120000597592",
       "pID": "968637775",
-      "title": "潘展乐出战男子100米自由泳",
+      "title": "潘展乐100米自由泳预赛小组第一晋级",
       "keyword": "10月24日09:00",
       "sportItemId": "8",
       "matchStatus": "1",
@@ -585,8 +613,8 @@
       "competitionName": "全国游泳锦标赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/24/77QO0ACSDLD4.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/9/21/1000000012301069d1ae.png",
-      "pkInfoTitle": "潘展乐出战男子100米自由泳",
-      "modifyTitle": "全国游泳锦标赛Day 2：潘展乐出战男子100米自由泳",
+      "pkInfoTitle": "潘展乐100米自由泳预赛小组第一晋级",
+      "modifyTitle": "全国游泳锦标赛Day 2：潘展乐100米自由泳预赛小组第一晋级",
       "presenters": "",
       "matchInfo": {
         "time": "10月24日09:00"
@@ -673,6 +701,10 @@
           "name": "杨健 丁彦雨航 周鹏"
         },
         {
+          "pID": "968571630",
+          "name": "灰熊vs勇士"
+        },
+        {
           "pID": "968572521",
           "name": "王晓晨"
         },
@@ -705,6 +737,14 @@
           "name": "李天宇 徐咏 陈正昊"
         },
         {
+          "pID": "968571630",
+          "name": "灰熊vs勇士"
+        },
+        {
+          "pID": "968570365",
+          "name": "开拓者vs国王"
+        },
+        {
           "pID": "968571431",
           "name": "英文原声"
         },
@@ -735,6 +775,14 @@
         {
           "pID": "968571630",
           "name": "孙博 巩晓彬 闫宇峰"
+        },
+        {
+          "pID": "968570365",
+          "name": "开拓者vs国王"
+        },
+        {
+          "pID": "968571476",
+          "name": "快船vs湖人"
         },
         {
           "pID": "968571597",
@@ -773,6 +821,14 @@
           "name": "邵化谦 季孟年"
         },
         {
+          "pID": "968571630",
+          "name": "灰熊vs勇士"
+        },
+        {
+          "pID": "968571476",
+          "name": "快船vs湖人"
+        },
+        {
           "pID": "968570288",
           "name": "邢晨"
         },
@@ -788,7 +844,7 @@
       "title": "冲决赛！孙心然压轴登场",
       "keyword": "10月24日10:30",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "ITF世界网球巡回赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/23/77QN4C8DOGV8.jpg",
@@ -816,7 +872,7 @@
       "title": "超越巅峰——张德顺对谈李美珍",
       "keyword": "10月24日10:30",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "逐马计划",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/22/77QM51MSHHVP.jpg",
@@ -2507,7 +2563,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "斯诺克",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/24/77QO1740QIGV.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "凯伦·威尔逊 vs 山姆·克雷吉",
       "modifyTitle": "斯诺克北爱尔兰公开赛半决赛：凯伦·威尔逊 vs 山姆·克雷吉",
@@ -2519,6 +2575,10 @@
         {
           "pID": "968687187",
           "name": "柏林"
+        },
+        {
+          "pID": "968352572",
+          "name": "1号桌"
         }
       ]
     },
@@ -2883,30 +2943,6 @@
         {
           "pID": "968626501",
           "name": "赛场原声"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000597555",
-      "pID": "120000597555",
-      "title": "中国速度攀岩系列赛(江苏昆山站)",
-      "keyword": "10月24日15:30",
-      "sportItemId": "",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "攀岩系列赛",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/10/23/11005/4ed6e7774b38446e99b5d76e3c3d4e7d/4ed6e7774b38446e99b5d76e3c3d4e7d_H169_P1080_WEBP.webp",
-      "competitionLogo": "",
-      "pkInfoTitle": "中国速度攀岩系列赛(江苏昆山站)",
-      "modifyTitle": "中国速度攀岩系列赛(江苏昆山站)",
-      "presenters": "",
-      "matchInfo": {
-        "time": "10月24日15:30"
-      },
-      "nodes": [
-        {
-          "pID": "968632198",
-          "name": "江苏昆山站"
         }
       ]
     }
