@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-25 12:02:59",
+  "updateTime": "2026-10-25 12:32:33",
   "data": [
     {
       "mgdbId": "120000584824",
@@ -202,7 +202,7 @@
         },
         {
           "pID": "968739722",
-          "name": "26/27赛季斯诺克北爱尔兰公开赛半决赛回放：马克·威廉姆斯5-6杰克·琼斯（AI观赛）"
+          "name": "【回放】马克·威廉姆斯5-6杰克·琼斯（AI观赛）"
         }
       ]
     },
@@ -531,6 +531,10 @@
         {
           "pID": "968745440",
           "name": "2026济南马拉松吴浩然视角全场回放（赛场原声）"
+        },
+        {
+          "pID": "968746194",
+          "name": "2026恒丰银行济南（泉城）马拉松全场回放（赛场原声）"
         }
       ]
     },
@@ -757,6 +761,10 @@
           "name": "全场回放（王晓晨）"
         },
         {
+          "pID": "968745760",
+          "name": "全场回放（英文原声）"
+        },
+        {
           "pID": "968737843",
           "name": "第一节"
         },
@@ -881,8 +889,8 @@
       },
       "nodes": [
         {
-          "pID": "968610113",
-          "name": "清流播出"
+          "pID": "968746208",
+          "name": "2026华贵洪湖半程马拉松全场回放（赛场原声）"
         }
       ]
     },
@@ -952,11 +960,11 @@
     },
     {
       "mgdbId": "120000588282",
-      "pID": "968573762",
+      "pID": "968745559",
       "title": "NBA常规赛",
       "keyword": "10月25日09:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "波尔体育馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/25/77QOUMVD0784.jpg",
@@ -969,12 +977,28 @@
       },
       "nodes": [
         {
-          "pID": "968573762",
-          "name": "周赫"
+          "pID": "968746104",
+          "name": "全场回放（周赫）"
         },
         {
-          "pID": "968573729",
-          "name": "英文原声"
+          "pID": "968740722",
+          "name": "第一节"
+        },
+        {
+          "pID": "968742270",
+          "name": "第二节"
+        },
+        {
+          "pID": "968743923",
+          "name": "第三节"
+        },
+        {
+          "pID": "968745496",
+          "name": "第四节"
+        },
+        {
+          "pID": "968745845",
+          "name": "加时"
         }
       ]
     },
@@ -999,30 +1023,6 @@
         {
           "pID": "968637815",
           "name": "清流播出"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000597661",
-      "pID": "968657415",
-      "title": "上海国际跳绳精英赛",
-      "keyword": "10月25日09:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "上海国际跳绳精英赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/24/77QO18PPMJM5.png",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/10/23/100000001570106a1bfc.png",
-      "pkInfoTitle": "上海国际跳绳精英赛",
-      "modifyTitle": "上海国际跳绳精英赛",
-      "presenters": "",
-      "matchInfo": {
-        "time": "10月25日09:00"
-      },
-      "nodes": [
-        {
-          "pID": "968657415",
-          "name": "解说"
         }
       ]
     },
@@ -1120,7 +1120,7 @@
       "title": "WTA250大阪站决赛：克鲁格 vs 西尼亚科娃",
       "keyword": "10月25日12:30",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/24/77QO107PBEFJ.jpg",
@@ -1207,6 +1207,30 @@
         {
           "pID": "968538407",
           "name": "清流播出"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000597661",
+      "pID": "968657415",
+      "title": "上海国际跳绳精英赛",
+      "keyword": "10月25日13:45",
+      "sportItemId": "8",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "上海国际跳绳精英赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/24/77QO18PPMJM5.png",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/10/23/100000001570106a1bfc.png",
+      "pkInfoTitle": "上海国际跳绳精英赛",
+      "modifyTitle": "上海国际跳绳精英赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "10月25日13:45"
+      },
+      "nodes": [
+        {
+          "pID": "968657415",
+          "name": "解说"
         }
       ]
     },
@@ -1673,7 +1697,7 @@
     {
       "mgdbId": "120000597595",
       "pID": "968638337",
-      "title": "全国游泳锦标赛Day 3",
+      "title": "潘展乐男子100米自由泳冲冠",
       "keyword": "10月25日19:00",
       "sportItemId": "8",
       "matchStatus": "0",
@@ -1681,8 +1705,8 @@
       "competitionName": "全国游泳锦标赛",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/9/21/1000000012301069d1ae.png",
-      "pkInfoTitle": "全国游泳锦标赛Day 3",
-      "modifyTitle": "全国游泳锦标赛Day 3",
+      "pkInfoTitle": "潘展乐男子100米自由泳冲冠",
+      "modifyTitle": "全国游泳锦标赛Day 3：潘展乐男子100米自由泳冲冠",
       "presenters": "",
       "matchInfo": {
         "time": "10月25日19:00"
