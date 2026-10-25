@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-25 13:02:55",
+  "updateTime": "2026-10-25 13:32:47",
   "data": [
     {
       "mgdbId": "120000584824",
@@ -653,8 +653,8 @@
       },
       "nodes": [
         {
-          "pID": "968610040",
-          "name": "清流播出"
+          "pID": "968747429",
+          "name": "2026北京昌平马拉松全场回放（赛场原声）"
         }
       ]
     },
@@ -803,6 +803,10 @@
         {
           "pID": "968744893",
           "name": "全场回放（刘芳宇）"
+        },
+        {
+          "pID": "968746989",
+          "name": "全场回放（英文原声）"
         },
         {
           "pID": "968737786",
@@ -1036,7 +1040,7 @@
     },
     {
       "mgdbId": "120000588283",
-      "pID": "968746138",
+      "pID": "968747226",
       "title": "NBA常规赛",
       "keyword": "10月25日10:00",
       "sportItemId": "2",
@@ -1052,6 +1056,18 @@
         "time": "10月25日10:00"
       },
       "nodes": [
+        {
+          "pID": "968747226",
+          "name": "全场集锦"
+        },
+        {
+          "pID": "968746781",
+          "name": "全场回放（李天宇、陈正昊、郭维盛、廖昕阳）"
+        },
+        {
+          "pID": "968746701",
+          "name": "全场回放（拜月宁）"
+        },
         {
           "pID": "968743268",
           "name": "第一节"
@@ -1076,7 +1092,7 @@
       "title": "2026哈密新星双城半程马拉松",
       "keyword": "10月25日11:00",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "马拉松系列赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/22/77QM5QQHIKLQ.jpg",
@@ -1091,34 +1107,6 @@
         {
           "pID": "968610127",
           "name": "清流播出"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000596583",
-      "pID": "968421287",
-      "title": "争冠！孙心然迎战普什卡列娃",
-      "keyword": "10月25日11:30",
-      "sportItemId": "9",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "ITF世界网球巡回赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/24/77QO0VU8OB0K.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/10/16/100000001565106ef9d8.png",
-      "pkInfoTitle": "争冠！孙心然迎战普什卡列娃",
-      "modifyTitle": "青少年年终总决赛决赛：孙心然迎战普什卡列娃",
-      "presenters": "",
-      "matchInfo": {
-        "time": "10月25日11:30"
-      },
-      "nodes": [
-        {
-          "pID": "968421287",
-          "name": "中心球场"
-        },
-        {
-          "pID": "968568835",
-          "name": "中心球场中文解说"
         }
       ]
     },
@@ -1185,12 +1173,12 @@
           "name": "马特"
         },
         {
-          "pID": "968421867",
-          "name": "1号桌"
-        },
-        {
           "pID": "968421909",
           "name": "2号桌"
+        },
+        {
+          "pID": "968421867",
+          "name": "1号桌"
         }
       ]
     },
@@ -1439,6 +1427,34 @@
         {
           "pID": "968739844",
           "name": "莱巴金娜 VS 费尔南德斯"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000596583",
+      "pID": "968568835",
+      "title": "争冠！孙心然迎战普什卡列娃",
+      "keyword": "10月25日14:30",
+      "sportItemId": "9",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "ITF世界网球巡回赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/24/77QO0VU8OB0K.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/10/16/100000001565106ef9d8.png",
+      "pkInfoTitle": "争冠！孙心然迎战普什卡列娃",
+      "modifyTitle": "青少年年终总决赛决赛：孙心然迎战普什卡列娃",
+      "presenters": "",
+      "matchInfo": {
+        "time": "10月25日14:30"
+      },
+      "nodes": [
+        {
+          "pID": "968568835",
+          "name": "中心球场中文解说"
+        },
+        {
+          "pID": "968421287",
+          "name": "中心球场"
         }
       ]
     },
