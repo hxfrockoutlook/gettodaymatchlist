@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-25 11:03:07",
+  "updateTime": "2026-10-25 11:32:46",
   "data": [
     {
       "mgdbId": "120000584824",
@@ -441,6 +441,14 @@
           "name": "全场集锦"
         },
         {
+          "pID": "968743079",
+          "name": "全场回放（孙博、巩晓彬、闫宇峰、佳依）"
+        },
+        {
+          "pID": "968743002",
+          "name": "全场回放（AI字幕）"
+        },
+        {
           "pID": "968736945",
           "name": "第一节"
         },
@@ -455,14 +463,6 @@
         {
           "pID": "968741855",
           "name": "第四节"
-        },
-        {
-          "pID": "968743079",
-          "name": "全场回放（孙博、巩晓彬、闫宇峰、佳依）"
-        },
-        {
-          "pID": "968743002",
-          "name": "全场回放"
         }
       ]
     },
@@ -489,6 +489,10 @@
           "name": "全场集锦"
         },
         {
+          "pID": "968743156",
+          "name": "全场回放（姜帆）"
+        },
+        {
           "pID": "968736937",
           "name": "第一节"
         },
@@ -503,10 +507,6 @@
         {
           "pID": "968742806",
           "name": "第四节"
-        },
-        {
-          "pID": "968743156",
-          "name": "全场回放（姜帆）"
         }
       ]
     },
@@ -568,7 +568,7 @@
       "title": "2026天津银行天津马拉松",
       "keyword": "10月25日07:30",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "马拉松系列赛",
       "padImg": "",
@@ -592,7 +592,7 @@
       "title": "2026泗洪农商银行泗洪马拉松",
       "keyword": "10月25日07:30",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "马拉松系列赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/22/77QM5QFFNCGM.jpg",
@@ -616,7 +616,7 @@
       "title": "2026扬子江龙凤堂泰州马拉松",
       "keyword": "10月25日07:30",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "马拉松系列赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/23/77QN2M7A6PNI.jpg",
@@ -640,7 +640,7 @@
       "title": "2026北京昌平马拉松",
       "keyword": "10月25日07:30",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "马拉松系列赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/22/77QM5QHM32JC.jpg",
@@ -664,7 +664,7 @@
       "title": "2026临汾半程马拉松",
       "keyword": "10月25日07:30",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "马拉松系列赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/22/77QM5QKI2MBQ.jpg",
@@ -677,8 +677,8 @@
       },
       "nodes": [
         {
-          "pID": "968610073",
-          "name": "清流播出"
+          "pID": "968744127",
+          "name": "2026临汾半程马拉松全场回放（赛场原声）"
         }
       ]
     },
@@ -776,7 +776,7 @@
     },
     {
       "mgdbId": "120000588281",
-      "pID": "968741373",
+      "pID": "968743855",
       "title": "NBA常规赛",
       "keyword": "10月25日08:00",
       "sportItemId": "2",
@@ -793,6 +793,10 @@
       },
       "nodes": [
         {
+          "pID": "968743855",
+          "name": "全场集锦"
+        },
+        {
           "pID": "968737786",
           "name": "第一节"
         },
@@ -807,6 +811,10 @@
         {
           "pID": "968743472",
           "name": "第四节"
+        },
+        {
+          "pID": "968744893",
+          "name": "全场回放（刘芳宇）"
         }
       ]
     },
@@ -904,14 +912,14 @@
     },
     {
       "mgdbId": "120000588280",
-      "pID": "968573625",
+      "pID": "968742869",
       "title": "NBA常规赛",
       "keyword": "10月25日08:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "州立农业球馆",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/24/77QO1J682OJF.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/25/77QOUI27KA1H.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "火箭VS老鹰",
       "modifyTitle": "NBA常规赛",
@@ -921,16 +929,24 @@
       },
       "nodes": [
         {
-          "pID": "968573625",
-          "name": "连睿 刘铁 周鹏"
+          "pID": "968744965",
+          "name": "全场回放（连睿、刘铁、周鹏、秋童）"
         },
         {
-          "pID": "968573762",
-          "name": "鹈鹕vs掘金"
+          "pID": "968738944",
+          "name": "第一节"
         },
         {
-          "pID": "968573617",
-          "name": "英文原声"
+          "pID": "968740994",
+          "name": "第二节"
+        },
+        {
+          "pID": "968742850",
+          "name": "第三节"
+        },
+        {
+          "pID": "968744508",
+          "name": "第四节"
         }
       ]
     },
@@ -965,7 +981,7 @@
     {
       "mgdbId": "120000597594",
       "pID": "968637815",
-      "title": "徐嘉余、潘展乐、于子迪、张雨霏出战",
+      "title": "张雨霏100米个人混合泳预赛第一晋级",
       "keyword": "10月25日09:00",
       "sportItemId": "8",
       "matchStatus": "1",
@@ -973,8 +989,8 @@
       "competitionName": "全国游泳锦标赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/24/77QO1H69GRKE.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/9/21/1000000012301069d1ae.png",
-      "pkInfoTitle": "徐嘉余、潘展乐、于子迪、张雨霏出战",
-      "modifyTitle": "全国游泳锦标赛Day3：徐嘉余、潘展乐、于子迪、张雨霏出战",
+      "pkInfoTitle": "张雨霏100米个人混合泳预赛第一晋级",
+      "modifyTitle": "全国游泳锦标赛Day3：张雨霏100米个人混合泳预赛第一晋级",
       "presenters": "",
       "matchInfo": {
         "time": "10月25日09:00"
@@ -1076,7 +1092,7 @@
       "title": "争冠！孙心然迎战普什卡列娃",
       "keyword": "10月25日11:30",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "ITF世界网球巡回赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/24/77QO0VU8OB0K.jpg",
@@ -1100,7 +1116,7 @@
     },
     {
       "mgdbId": "120000596553",
-      "pID": "968414087",
+      "pID": "968739018",
       "title": "WTA250大阪站决赛：克鲁格 vs 西尼亚科娃",
       "keyword": "10月25日12:30",
       "sportItemId": "9",
@@ -1121,8 +1137,8 @@
           "name": "克鲁格 vs 西尼亚科娃"
         },
         {
-          "pID": "968414087",
-          "name": "赛场原声"
+          "pID": "968739395",
+          "name": "赛场原声（对抗）"
         },
         {
           "pID": "968414111",
@@ -1133,7 +1149,7 @@
           "name": "解说"
         },
         {
-          "pID": "968739395",
+          "pID": "968414087",
           "name": "赛场原声"
         }
       ]
@@ -1552,7 +1568,7 @@
     },
     {
       "mgdbId": "120000596711",
-      "pID": "968536589",
+      "pID": "968741268",
       "title": "安洗莹PK辛杜 凤凰组合冲击金牌",
       "keyword": "10月25日18:00",
       "sportItemId": "6",
@@ -1563,11 +1579,19 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "安洗莹PK辛杜 凤凰组合冲击金牌",
       "modifyTitle": "法国羽毛球公开赛第六日：安洗莹PK辛杜 凤凰组合冲击金牌",
-      "presenters": "鸿昆 余博洋 金子嘉",
+      "presenters": "余博洋 金子嘉 鸿昆",
       "matchInfo": {
         "time": "10月25日18:00"
       },
       "nodes": [
+        {
+          "pID": "968741268",
+          "name": "安洗莹VS辛杜"
+        },
+        {
+          "pID": "968741239",
+          "name": "安洗莹VS辛杜"
+        },
         {
           "pID": "968536589",
           "name": "1号场地"
@@ -1578,27 +1602,19 @@
         },
         {
           "pID": "968741129",
-          "name": "鸿昆"
+          "name": "吴世飞/伊祖丁VS万炜聪/郑凯文"
         },
         {
           "pID": "968741155",
-          "name": "鸿昆"
+          "name": "乌拜迪拉VS小波波夫"
         },
         {
           "pID": "968741177",
-          "name": "鸿昆"
+          "name": "冯彦哲/黄东萍VS许邦荣/赖沛君"
         },
         {
           "pID": "968741215",
-          "name": "余博洋"
-        },
-        {
-          "pID": "968741239",
-          "name": "金子嘉"
-        },
-        {
-          "pID": "968741268",
-          "name": "余博洋"
+          "name": "福岛由纪/松本麻佑VS陈康乐/蒂娜"
         }
       ]
     },
@@ -2138,7 +2154,7 @@
       "sportItemId": "1",
       "matchStatus": "0",
       "matchField": "",
-      "competitionName": "琼超",
+      "competitionName": "琼��",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000596624/202610171015_713069_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/10/17/1000000015661067b865.png",
       "pkInfoTitle": "临高vs琼海",
@@ -2290,7 +2306,11 @@
       "nodes": [
         {
           "pID": "968633220",
-          "name": "现场原声"
+          "name": "抽签仪式"
+        },
+        {
+          "pID": "968421992",
+          "name": "亚锦赛决赛 激战中"
         }
       ]
     },
