@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-26 07:31:20",
+  "updateTime": "2026-10-26 08:01:36",
   "data": [
     {
       "mgdbId": "120000584467",
@@ -404,11 +404,11 @@
     },
     {
       "mgdbId": "120000588284",
-      "pID": "968747144",
+      "pID": "968779786",
       "title": "NBA常规赛",
       "keyword": "10月26日05:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "达美中心球馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/26/77QPQGB9M4G5.jpg",
@@ -421,12 +421,16 @@
       },
       "nodes": [
         {
-          "pID": "968747144",
-          "name": "姜帆 季孟年"
+          "pID": "968782752",
+          "name": "第一节"
         },
         {
-          "pID": "968747128",
-          "name": "英文原声"
+          "pID": "968782690",
+          "name": "第二节"
+        },
+        {
+          "pID": "968783117",
+          "name": "第三节"
         }
       ]
     },
@@ -583,7 +587,7 @@
       "pID": "968047943",
       "title": "咪咕体育日报 第222期",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "咪咕体育日报",
       "padImg": "",
@@ -844,6 +848,10 @@
         {
           "pID": "968705840",
           "name": "赛场原声"
+        },
+        {
+          "pID": "968706319",
+          "name": "���波主队解说"
         }
       ]
     },
