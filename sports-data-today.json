@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-26 10:01:35",
+  "updateTime": "2026-10-26 10:31:19",
   "data": [
     {
       "mgdbId": "120000584467",
@@ -425,6 +425,10 @@
           "name": "全场回放（姜帆、季孟年）"
         },
         {
+          "pID": "968787426",
+          "name": "全场回放（英文原声）"
+        },
+        {
           "pID": "968782752",
           "name": "第一节"
         },
@@ -469,6 +473,10 @@
           "name": "全场回放（刘芳宇）"
         },
         {
+          "pID": "968789025",
+          "name": "全场回放（英文原声）"
+        },
+        {
           "pID": "968781226",
           "name": "第一节"
         },
@@ -509,6 +517,10 @@
           "name": "全场集锦"
         },
         {
+          "pID": "968788814",
+          "name": "全场回放（周赫）"
+        },
+        {
           "pID": "968782852",
           "name": "第一节"
         },
@@ -528,7 +540,7 @@
     },
     {
       "mgdbId": "120000588287",
-      "pID": "968785869",
+      "pID": "968789330",
       "title": "NBA常规赛",
       "keyword": "10月26日07:00",
       "sportItemId": "2",
@@ -544,6 +556,14 @@
         "time": "10月26日07:00"
       },
       "nodes": [
+        {
+          "pID": "968789330",
+          "name": "全场集锦"
+        },
+        {
+          "pID": "968788935",
+          "name": "全场回放（张泽欣）"
+        },
         {
           "pID": "968782971",
           "name": "第一节"
@@ -564,7 +584,7 @@
     },
     {
       "mgdbId": "120000588288",
-      "pID": "968783062",
+      "pID": "968789290",
       "title": "NBA常规赛",
       "keyword": "10月26日07:00",
       "sportItemId": "2",
@@ -580,6 +600,10 @@
         "time": "10月26日07:00"
       },
       "nodes": [
+        {
+          "pID": "968789290",
+          "name": "全场集锦"
+        },
         {
           "pID": "968783131",
           "name": "第一节"
@@ -600,14 +624,14 @@
     },
     {
       "mgdbId": "120000588289",
-      "pID": "968746835",
+      "pID": "968789689",
       "title": "NBA常规赛",
       "keyword": "10月26日07:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "康卡斯特移动球馆",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/25/77QOUHGTMHBF.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/26/77QPRD8HKFFB.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "活塞VS76人",
       "modifyTitle": "NBA常规赛",
@@ -617,12 +641,20 @@
       },
       "nodes": [
         {
-          "pID": "968746835",
-          "name": "王冠证 陈正昊 王羽希"
+          "pID": "968783902",
+          "name": "第一节"
         },
         {
-          "pID": "968746815",
-          "name": "英文原声"
+          "pID": "968784817",
+          "name": "第二节"
+        },
+        {
+          "pID": "968787523",
+          "name": "第三节"
+        },
+        {
+          "pID": "968789837",
+          "name": "第四节"
         }
       ]
     },
@@ -677,7 +709,7 @@
     {
       "mgdbId": "120000597596",
       "pID": "968637864",
-      "title": "余依婷出战女子100米蝶泳",
+      "title": "女子1500米自由泳 决赛慢组",
       "keyword": "10月26日09:00",
       "sportItemId": "8",
       "matchStatus": "1",
@@ -685,8 +717,8 @@
       "competitionName": "全国游泳锦标赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/25/77QOUCOKNOM8.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/9/21/1000000012301069d1ae.png",
-      "pkInfoTitle": "余依婷出战女子100米蝶泳",
-      "modifyTitle": "全国游泳锦标赛Day 4：余依婷出战女子100米蝶泳",
+      "pkInfoTitle": "女子1500米自由泳 决赛慢组",
+      "modifyTitle": "全国游泳锦标赛Day 4：女子1500米自由泳 决赛慢组",
       "presenters": "",
       "matchInfo": {
         "time": "10月26日09:00"
@@ -764,7 +796,7 @@
       "title": "中乙升级赛组",
       "keyword": "10月26日15:30",
       "sportItemId": "1",
-      "matchStatus": "2",
+      "matchStatus": "0",
       "matchField": "Zaozhuang Culture & Sports Center Stadium",
       "competitionName": "中乙",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000592512/202609050336_518931_H169_1080.webp",
@@ -791,6 +823,30 @@
         {
           "pID": "968741815",
           "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000597793",
+      "pID": "968693204",
+      "title": "NBA精彩重播：底特律活塞 vs 费城76人",
+      "keyword": "10月26日18:00",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "NBA经典赛事",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/26/77QPRD087U7M.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png",
+      "pkInfoTitle": "NBA精彩重播：底特律活塞 vs 费城76人",
+      "modifyTitle": "NBA经典赛事",
+      "presenters": "王冠证 陈正昊 王羽希",
+      "matchInfo": {
+        "time": "10月26日18:00"
+      },
+      "nodes": [
+        {
+          "pID": "968693204",
+          "name": "王冠证 陈正昊 王羽希"
         }
       ]
     },
