@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-27 07:01:39",
+  "updateTime": "2026-10-27 07:31:29",
   "data": [
     {
       "mgdbId": "120000590438",
@@ -81,6 +81,10 @@
       },
       "nodes": [
         {
+          "pID": "968815721",
+          "name": "全场集锦"
+        },
+        {
           "pID": "968813712",
           "name": "全场回放（涂远）"
         }
@@ -110,11 +114,7 @@
         },
         {
           "pID": "968815566",
-          "name": "全场回放"
-        },
-        {
-          "pID": "968815667",
-          "name": "全场回放"
+          "name": "全场回放（张昊泽）"
         }
       ]
     },
@@ -172,6 +172,10 @@
         "time": "10月27日04:00"
       },
       "nodes": [
+        {
+          "pID": "968815714",
+          "name": "全场集锦"
+        },
         {
           "pID": "968815605",
           "name": "全场回放（李霄）"
@@ -248,7 +252,7 @@
       "title": "NBA常规赛",
       "keyword": "10月27日07:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "TD彼岸花园",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/26/77QPREGI87UD.jpg",
@@ -276,7 +280,7 @@
       "title": "NBA常规赛",
       "keyword": "10月27日07:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "卡西亚中心",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/26/77QPREREP8UG.jpg",
@@ -673,7 +677,7 @@
     {
       "mgdbId": "120000590434",
       "pID": "968635354",
-      "title": "亚冠精英联赛阶段",
+      "title": "���冠精英联赛阶段",
       "keyword": "10月27日18:00",
       "sportItemId": "1",
       "matchStatus": "0",
