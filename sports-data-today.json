@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-27 06:31:35",
+  "updateTime": "2026-10-27 07:01:39",
   "data": [
     {
       "mgdbId": "120000590438",
@@ -59,10 +59,6 @@
         {
           "pID": "968812950",
           "name": "全场回放（鲁靖明）"
-        },
-        {
-          "pID": "968813041",
-          "name": "全场回放"
         }
       ]
     },
@@ -87,10 +83,6 @@
         {
           "pID": "968813712",
           "name": "全场回放（涂远）"
-        },
-        {
-          "pID": "968814452",
-          "name": "全场回放"
         }
       ]
     },
@@ -118,6 +110,10 @@
         },
         {
           "pID": "968815566",
+          "name": "全场回放"
+        },
+        {
+          "pID": "968815667",
           "name": "全场回放"
         }
       ]
@@ -177,16 +173,16 @@
       },
       "nodes": [
         {
-          "pID": "968625959",
-          "name": "李霄"
+          "pID": "968815605",
+          "name": "全场回放（李霄）"
         },
         {
-          "pID": "968625921",
-          "name": "赛场原声"
+          "pID": "968815629",
+          "name": "全场回放（AI智能观赛）"
         },
         {
-          "pID": "968655214",
-          "name": "智能解说"
+          "pID": "968815637",
+          "name": "全场回放（智能解说）"
         }
       ]
     },
@@ -196,7 +192,7 @@
       "title": "NBA常规赛",
       "keyword": "10月27日07:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "火箭信贷球馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/26/77QPRE3SNCC7.jpg",
@@ -224,7 +220,7 @@
       "title": "NBA常规赛",
       "keyword": "10月27日07:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "光谱中心",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/26/77QPREAK23UD.jpg",
