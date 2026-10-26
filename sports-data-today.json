@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-26 11:31:25",
+  "updateTime": "2026-10-26 12:01:28",
   "data": [
     {
       "mgdbId": "120000584467",
@@ -613,6 +613,10 @@
           "name": "全场回放（盛哲）"
         },
         {
+          "pID": "968793793",
+          "name": "全场回放（英文原声）"
+        },
+        {
           "pID": "968783131",
           "name": "第一节"
         },
@@ -696,14 +700,14 @@
     },
     {
       "mgdbId": "120000588290",
-      "pID": "968748424",
+      "pID": "968792564",
       "title": "NBA常规赛",
       "keyword": "10月26日09:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "金色一号中心",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/25/77QOUDK1NKO7.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/26/77QPRNDRGJRI.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "灰熊VS国王",
       "modifyTitle": "NBA常规赛",
@@ -713,12 +717,24 @@
       },
       "nodes": [
         {
-          "pID": "968748424",
-          "name": "贾磊"
+          "pID": "968793745",
+          "name": "全场集锦"
         },
         {
-          "pID": "968748632",
-          "name": "英文原声"
+          "pID": "968787874",
+          "name": "第一节"
+        },
+        {
+          "pID": "968789797",
+          "name": "第二节"
+        },
+        {
+          "pID": "968792458",
+          "name": "第三节"
+        },
+        {
+          "pID": "968793796",
+          "name": "第四节"
         }
       ]
     },
@@ -968,6 +984,10 @@
         {
           "pID": "968705840",
           "name": "赛场原声"
+        },
+        {
+          "pID": "968706319",
+          "name": "宁���主队解说"
         }
       ]
     },
