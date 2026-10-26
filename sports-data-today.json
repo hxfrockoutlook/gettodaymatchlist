@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-26 12:01:28",
+  "updateTime": "2026-10-26 12:31:25",
   "data": [
     {
       "mgdbId": "120000584467",
@@ -569,6 +569,10 @@
           "name": "全场回放（张泽欣）"
         },
         {
+          "pID": "968794225",
+          "name": "全场回放（英文原声）"
+        },
+        {
           "pID": "968782971",
           "name": "第一节"
         },
@@ -700,7 +704,7 @@
     },
     {
       "mgdbId": "120000588290",
-      "pID": "968792564",
+      "pID": "968793745",
       "title": "NBA常规赛",
       "keyword": "10月26日09:00",
       "sportItemId": "2",
@@ -735,22 +739,26 @@
         {
           "pID": "968793796",
           "name": "第四节"
+        },
+        {
+          "pID": "968794179",
+          "name": "全场回放（贾磊）"
         }
       ]
     },
     {
       "mgdbId": "120000597596",
       "pID": "968637864",
-      "title": "女子1500米自由泳 决赛慢组",
+      "title": "王曦喆男子100米蝶泳预赛第一",
       "keyword": "10月26日09:00",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "全国游泳锦标赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/25/77QOUCOKNOM8.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/9/21/1000000012301069d1ae.png",
-      "pkInfoTitle": "女子1500米自由泳 决赛慢组",
-      "modifyTitle": "全国游泳锦标赛Day 4：女子1500米自由泳 决赛慢组",
+      "pkInfoTitle": "王曦喆男子100米蝶泳预赛第一",
+      "modifyTitle": "全国游泳锦标赛Day 4：  王曦喆男子100米蝶泳预赛第一",
       "presenters": "",
       "matchInfo": {
         "time": "10月26日09:00"
@@ -781,44 +789,8 @@
       },
       "nodes": [
         {
-          "pID": "968769797",
-          "name": "王欣瑜 vs 帕克斯"
-        },
-        {
-          "pID": "968769748",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "968660865",
-          "name": "英文原声"
-        },
-        {
-          "pID": "968693751",
-          "name": "解说"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000597555",
-      "pID": "968632198",
-      "title": "中国速度攀岩系列赛(江苏昆山站)",
-      "keyword": "10月26日15:00",
-      "sportItemId": "8",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "攀岩系列赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/25/77QOUIT0KV4P.png",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/10/22/10000000136010611504.jpg",
-      "pkInfoTitle": "中国速度攀岩系列赛(江苏昆山站)",
-      "modifyTitle": "中国速度攀岩系列赛(江苏昆山站)",
-      "presenters": "",
-      "matchInfo": {
-        "time": "10月26日15:00"
-      },
-      "nodes": [
-        {
-          "pID": "968632198",
-          "name": "江苏昆山站"
+          "pID": "968793079",
+          "name": "【回放】王欣瑜0-2帕克斯（李宁）"
         }
       ]
     },
@@ -834,7 +806,7 @@
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000592512/202609050336_518931_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/7/7/1000000011571060f297.png",
       "pkInfoTitle": "山东泰山B队 vs 江西庐山",
-      "modifyTitle": "中乙升级赛组",
+      "modifyTitle": "中乙升��赛组",
       "presenters": "",
       "matchInfo": {
         "time": "10月26日15:30"
@@ -855,6 +827,30 @@
         {
           "pID": "968741815",
           "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000597555",
+      "pID": "968632198",
+      "title": "中国速度攀岩系列赛(江苏昆山站)",
+      "keyword": "10月26日15:30",
+      "sportItemId": "8",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "攀岩系列赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/25/77QOUIT0KV4P.png",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/10/22/10000000136010611504.jpg",
+      "pkInfoTitle": "中国速度攀岩系列赛(江苏昆山站)",
+      "modifyTitle": "中国速度攀岩系列赛(江苏昆山站)",
+      "presenters": "",
+      "matchInfo": {
+        "time": "10月26日15:30"
+      },
+      "nodes": [
+        {
+          "pID": "968632198",
+          "name": "江苏昆山站"
         }
       ]
     },
@@ -885,7 +881,7 @@
     {
       "mgdbId": "120000597597",
       "pID": "968638360",
-      "title": "全国游泳锦标赛Day 4",
+      "title": "男女4X50米自由泳接力决赛",
       "keyword": "10月26日19:00",
       "sportItemId": "8",
       "matchStatus": "0",
@@ -893,8 +889,8 @@
       "competitionName": "全国游泳锦标赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/26/77QPRUD90SUB.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/9/21/1000000012301069d1ae.png",
-      "pkInfoTitle": "全国游泳锦标赛Day 4",
-      "modifyTitle": "全国游泳锦标赛Day 4",
+      "pkInfoTitle": "男女4X50米自由泳接力决赛",
+      "modifyTitle": "全国游泳锦标赛Day 4：男女4X50米自由泳接力决赛",
       "presenters": "",
       "matchInfo": {
         "time": "10月26日19:00"
@@ -984,10 +980,6 @@
         {
           "pID": "968705840",
           "name": "赛场原声"
-        },
-        {
-          "pID": "968706319",
-          "name": "宁���主队解说"
         }
       ]
     },
