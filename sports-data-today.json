@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-26 08:31:21",
+  "updateTime": "2026-10-26 09:01:31",
   "data": [
     {
       "mgdbId": "120000584467",
@@ -404,7 +404,7 @@
     },
     {
       "mgdbId": "120000588284",
-      "pID": "968779786",
+      "pID": "968783757",
       "title": "NBA常规赛",
       "keyword": "10月26日05:00",
       "sportItemId": "2",
@@ -444,14 +444,14 @@
     },
     {
       "mgdbId": "120000588285",
-      "pID": "968747100",
+      "pID": "968784688",
       "title": "NBA常规赛",
       "keyword": "10月26日06:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "巴克莱中心",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/25/77QOUL84O1R2.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/26/77QPQS130L70.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "步行者VS篮网",
       "modifyTitle": "NBA常规赛",
@@ -461,12 +461,28 @@
       },
       "nodes": [
         {
-          "pID": "968747100",
-          "name": "刘芳宇"
+          "pID": "968784688",
+          "name": "全场集锦"
         },
         {
-          "pID": "968747093",
-          "name": "英文原声"
+          "pID": "968784777",
+          "name": "全场回放（刘芳宇）"
+        },
+        {
+          "pID": "968781226",
+          "name": "第一节"
+        },
+        {
+          "pID": "968782152",
+          "name": "第二节"
+        },
+        {
+          "pID": "968783556",
+          "name": "第三节"
+        },
+        {
+          "pID": "968784436",
+          "name": "第四节"
         }
       ]
     },
@@ -595,7 +611,7 @@
       "pID": "968047943",
       "title": "咪咕体育日报 第222期",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "咪咕体育日报",
       "padImg": "",
@@ -616,7 +632,7 @@
       "title": "NBA常规赛",
       "keyword": "10月26日09:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "金色一号中心",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/25/77QOUDK1NKO7.jpg",
@@ -644,7 +660,7 @@
       "title": "余依婷出战女子100米蝶泳",
       "keyword": "10月26日09:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "全国游泳锦标赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/25/77QOUCOKNOM8.jpg",
@@ -856,10 +872,6 @@
         {
           "pID": "968705840",
           "name": "赛场原声"
-        },
-        {
-          "pID": "968706319",
-          "name": "宁��主队解说"
         }
       ]
     },
