@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-28 04:01:35",
+  "updateTime": "2026-10-28 04:31:28",
   "data": [
     {
       "mgdbId": "120000590428",
@@ -27,10 +27,6 @@
         {
           "pID": "968840243",
           "name": "全场回放（李霄）"
-        },
-        {
-          "pID": "968842014",
-          "name": "全场回放"
         }
       ]
     },
@@ -81,29 +77,33 @@
       },
       "nodes": [
         {
+          "pID": "968842747",
+          "name": "全场集锦"
+        },
+        {
           "pID": "968841971",
           "name": "全场回放（张昊泽）"
         },
         {
           "pID": "968841995",
-          "name": "全场回放"
+          "name": "全场回放（AI智慧观赛）"
         },
         {
           "pID": "968842071",
-          "name": "全场回放"
+          "name": "全场回放（智能解说）"
         }
       ]
     },
     {
       "mgdbId": "120000597561",
-      "pID": "968633636",
+      "pID": "968842608",
       "title": "陈熠3-1闯进16强 松岛辉空鏖战五局晋级",
       "keyword": "10月28日01:30",
       "sportItemId": "7",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/28/77QRJLVGL58L.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/28/77QRJSMDR4LI.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "陈熠3-1闯进16强 松岛辉空鏖战五局晋级",
       "modifyTitle": "WTT蒙彼利埃冠军赛男女单打1/16决赛",
@@ -112,6 +112,10 @@
         "time": "10月28日01:30"
       },
       "nodes": [
+        {
+          "pID": "968842608",
+          "name": "【集锦】陈熠3-1彭郁涵"
+        },
         {
           "pID": "968633636",
           "name": "张靖松"
@@ -132,10 +136,10 @@
       "title": "亚冠精英联赛阶段",
       "keyword": "10月28日02:15",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "巴伊特球场",
       "competitionName": "亚冠精英",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000590427/811059_H169_sc.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/28/77QRJS1585JL.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/9/11/1000000012261060873b.png",
       "pkInfoTitle": "撒马尔 vs 利雅得新月",
       "modifyTitle": "亚冠精英联赛阶段",
@@ -160,10 +164,10 @@
       "title": "亚冠二级小组赛",
       "keyword": "10月28日02:15",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "祖拉体育场",
       "competitionName": "亚冠二级",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000590531/202608190901_328244_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000590531/202610280415_837215_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/9/11/100000001227106e764f.png",
       "pkInfoTitle": "巴格达警察 vs 侯赛因",
       "modifyTitle": "亚冠二级小组赛",
@@ -191,7 +195,7 @@
       "matchStatus": "1",
       "matchField": "奥林匹克球场",
       "competitionName": "意甲",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000584813/202607231703_189023_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000584813/202610280423_934668_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png",
       "pkInfoTitle": "都灵 vs 科莫",
       "modifyTitle": "意甲联赛",
