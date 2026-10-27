@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-27 17:01:42",
+  "updateTime": "2026-10-27 17:31:36",
   "data": [
     {
       "mgdbId": "120000590438",
@@ -864,11 +864,11 @@
     },
     {
       "mgdbId": "120000590434",
-      "pID": "968635354",
+      "pID": "968742780",
       "title": "亚冠精英联赛阶段",
       "keyword": "10月27日18:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "上汽浦东足球场",
       "competitionName": "亚冠精英",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000590434/217535_H169_sc.jpg",
@@ -881,12 +881,12 @@
       },
       "nodes": [
         {
-          "pID": "968635313",
-          "name": "赛场原声"
-        },
-        {
           "pID": "968742780",
           "name": "娄一晨 刘越 邵凌霄"
+        },
+        {
+          "pID": "968635313",
+          "name": "赛场原声"
         }
       ]
     },
