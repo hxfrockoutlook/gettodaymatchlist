@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-27 19:31:51",
+  "updateTime": "2026-10-27 20:01:55",
   "data": [
     {
       "mgdbId": "120000590438",
@@ -752,14 +752,14 @@
     },
     {
       "mgdbId": "120000597950",
-      "pID": "968793099",
+      "pID": "968819591",
       "title": "冲十六强！男双本·莱恩/文迪出战",
       "keyword": "10月27日15:30",
       "sportItemId": "6",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "BWF",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/27/77QQMGBFBFA5.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/27/77QQNO919FOR.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "冲十六强！男双本·莱恩/文迪出战",
       "modifyTitle": "海露羽毛球公开赛第一日：冲十六强！男双本·莱恩/文迪出战",
@@ -768,6 +768,10 @@
         "time": "10月27日15:30"
       },
       "nodes": [
+        {
+          "pID": "968819591",
+          "name": "因陀罗/华金VS德雷斯普/克拉克斯"
+        },
         {
           "pID": "968793099",
           "name": "1号场地"
@@ -779,10 +783,6 @@
         {
           "pID": "968793158",
           "name": "3号场地"
-        },
-        {
-          "pID": "968819591",
-          "name": "因陀罗/华金VS德雷斯普/克拉克斯"
         },
         {
           "pID": "968819607",
@@ -804,10 +804,10 @@
       "title": "亚冠精英联赛阶段",
       "keyword": "10月27日18:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Daejeon World Cup Stadium",
       "competitionName": "亚冠精英",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000590431/486968_H169_sc.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/27/77QQNMVU95KB.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/9/11/1000000012261060873b.png",
       "pkInfoTitle": "大田韩亚市民 vs 神户胜利船",
       "modifyTitle": "亚冠精英联赛阶段",
@@ -860,7 +860,7 @@
       "title": "亚冠精英联赛阶段",
       "keyword": "10月27日18:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "蘇丹依布拉欣體育場",
       "competitionName": "亚冠精英",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000590433/202608190650_793204_H169_1080.webp",
@@ -943,7 +943,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/27/77QQNEUU58AV.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/27/77QQNM29ADE7.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "孙颖莎冲开门红 林诗栋PK林锺勋",
       "modifyTitle": "WTT蒙彼利埃冠军赛男女单打1/16决赛",
@@ -1051,7 +1051,7 @@
       "matchStatus": "1",
       "matchField": "南沙体育馆",
       "competitionName": "CBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/25/77QOS9DJPDUF.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/27/77QQNMDDLPBL.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png",
       "pkInfoTitle": "广州智都集团vs北京控股",
       "modifyTitle": "CBA常规赛第5轮",
@@ -1197,6 +1197,14 @@
           "name": "刘圳展"
         },
         {
+          "pID": "968706362",
+          "name": "同播浙证vs辽宁"
+        },
+        {
+          "pID": "968706582",
+          "name": "同播山东vs北京"
+        },
+        {
           "pID": "968706070",
           "name": "南京主队解说"
         },
@@ -1229,12 +1237,12 @@
           "name": "杨健 杨鸣 拜月宁"
         },
         {
-          "pID": "968706582",
-          "name": "同播山东vs北京"
-        },
-        {
           "pID": "968743252",
           "name": "同播新疆vs浙江"
+        },
+        {
+          "pID": "968706582",
+          "name": "同播山东vs北京"
         },
         {
           "pID": "968705991",
@@ -1273,12 +1281,16 @@
           "name": "庄宁宇 丁伟 陈正昊"
         },
         {
-          "pID": "968706028",
-          "name": "新疆主队解说"
-        },
-        {
           "pID": "968706362",
           "name": "同播浙证vs辽宁"
+        },
+        {
+          "pID": "968706582",
+          "name": "同播山东vs北京"
+        },
+        {
+          "pID": "968706028",
+          "name": "新疆主队解说"
         },
         {
           "pID": "968705997",
@@ -1296,7 +1308,7 @@
       "title": "亚冠精英联赛阶段",
       "keyword": "10月27日20:15",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "Ratchaburi Stadium",
       "competitionName": "亚冠精英",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000590429/202608190646_496416_H169_1080.webp",
@@ -1324,7 +1336,7 @@
       "title": "亚冠精英联赛阶段",
       "keyword": "10月27日20:15",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "工人体育场",
       "competitionName": "亚冠精英",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000590430/262726_H169_sc.jpg",
