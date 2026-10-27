@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-27 11:31:35",
+  "updateTime": "2026-10-27 12:01:37",
   "data": [
     {
       "mgdbId": "120000590438",
@@ -211,6 +211,10 @@
         {
           "pID": "968819526",
           "name": "全场回放（邵化谦、闫宇峰）"
+        },
+        {
+          "pID": "968821474",
+          "name": "全场回放（英文原声）"
         },
         {
           "pID": "968815950",
@@ -484,7 +488,7 @@
     },
     {
       "mgdbId": "120000588297",
-      "pID": "968818551",
+      "pID": "968821167",
       "title": "NBA常规赛",
       "keyword": "10月27日08:30",
       "sportItemId": "2",
@@ -500,6 +504,18 @@
         "time": "10月27日08:30"
       },
       "nodes": [
+        {
+          "pID": "968821167",
+          "name": "全场集锦"
+        },
+        {
+          "pID": "968821529",
+          "name": "全场回放（庄宁宇、郭维盛、魏欣怡）"
+        },
+        {
+          "pID": "968821701",
+          "name": "全场回放（周鹏）"
+        },
         {
           "pID": "968817174",
           "name": "第一节"
@@ -520,14 +536,14 @@
     },
     {
       "mgdbId": "120000588298",
-      "pID": "968748732",
+      "pID": "968818595",
       "title": "NBA常规赛",
       "keyword": "10月27日09:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "达美中心球馆",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/26/77QPRFT77G2M.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/27/77QQORANTNBJ.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "灰熊VS爵士",
       "modifyTitle": "NBA常规赛",
@@ -537,12 +553,24 @@
       },
       "nodes": [
         {
-          "pID": "968748732",
-          "name": "贾磊"
+          "pID": "968818089",
+          "name": "第一节"
         },
         {
-          "pID": "968748774",
-          "name": "英文原声"
+          "pID": "968819299",
+          "name": "第二节"
+        },
+        {
+          "pID": "968820700",
+          "name": "第三节"
+        },
+        {
+          "pID": "968821878",
+          "name": "第四节"
+        },
+        {
+          "pID": "968822216",
+          "name": "全场回放（贾磊）"
         }
       ]
     },
@@ -625,10 +653,6 @@
           "name": "连睿 曾令旭 小七"
         },
         {
-          "pID": "968748732",
-          "name": "灰熊vs爵士"
-        },
-        {
           "pID": "968748992",
           "name": "董倡硕"
         },
@@ -639,6 +663,10 @@
         {
           "pID": "968787619",
           "name": "智能字幕"
+        },
+        {
+          "pID": "968748732",
+          "name": "灰熊vs爵士"
         }
       ]
     },
@@ -648,7 +676,7 @@
       "title": "中国速度攀岩系列赛(江苏昆山站)",
       "keyword": "10月27日12:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "攀岩系列赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/27/77QQP4QF1UR3.jpg",
@@ -859,10 +887,6 @@
         {
           "pID": "968636365",
           "name": "智能字幕"
-        },
-        {
-          "pID": "968819196",
-          "name": "智能解说"
         }
       ]
     },
