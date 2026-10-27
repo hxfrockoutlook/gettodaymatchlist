@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-27 10:01:42",
+  "updateTime": "2026-10-27 10:31:31",
   "data": [
     {
       "mgdbId": "120000590438",
@@ -188,11 +188,11 @@
     },
     {
       "mgdbId": "120000588291",
-      "pID": "968748948",
+      "pID": "968819278",
       "title": "NBA常规赛",
       "keyword": "10月27日07:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "火箭信贷球馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/27/77QQO80R54HA.jpg",
@@ -205,12 +205,32 @@
       },
       "nodes": [
         {
-          "pID": "968748948",
-          "name": "邵化谦 闫宇峰"
+          "pID": "968819278",
+          "name": "全场集锦"
         },
         {
-          "pID": "968748963",
-          "name": "英文原声"
+          "pID": "968815950",
+          "name": "第一节"
+        },
+        {
+          "pID": "968816328",
+          "name": "第二节"
+        },
+        {
+          "pID": "968816907",
+          "name": "第三节"
+        },
+        {
+          "pID": "968817915",
+          "name": "第四节"
+        },
+        {
+          "pID": "968818778",
+          "name": "加时"
+        },
+        {
+          "pID": "968819526",
+          "name": "全场回放（邵化谦、闫宇峰）"
         }
       ]
     },
@@ -260,11 +280,11 @@
     },
     {
       "mgdbId": "120000588293",
-      "pID": "968749118",
+      "pID": "968817509",
       "title": "NBA常规赛",
       "keyword": "10月27日07:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "TD彼岸花园",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/27/77QQO6Q51C0K.png",
@@ -277,22 +297,34 @@
       },
       "nodes": [
         {
-          "pID": "968749118",
-          "name": "盛哲"
+          "pID": "968816271",
+          "name": "第一节"
         },
         {
-          "pID": "968749220",
-          "name": "英文原声"
+          "pID": "968816621",
+          "name": "第二节"
+        },
+        {
+          "pID": "968817550",
+          "name": "第三节"
+        },
+        {
+          "pID": "968818739",
+          "name": "第四节"
+        },
+        {
+          "pID": "968819297",
+          "name": "全场回放（盛哲）"
         }
       ]
     },
     {
       "mgdbId": "120000588294",
-      "pID": "968749303",
+      "pID": "968817151",
       "title": "NBA常规赛",
       "keyword": "10月27日07:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "卡西亚中心",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/27/77QQOAN6IDJ7.jpg",
@@ -305,20 +337,24 @@
       },
       "nodes": [
         {
-          "pID": "968749303",
-          "name": "李天宇 殷文玉"
+          "pID": "968819599",
+          "name": "全场集锦"
         },
         {
-          "pID": "968749118",
-          "name": "公牛vs凯尔特人"
+          "pID": "968816351",
+          "name": "第一节"
         },
         {
-          "pID": "968749332",
-          "name": "英文原声"
+          "pID": "968816736",
+          "name": "第二节"
         },
         {
-          "pID": "968787649",
-          "name": "智能字幕"
+          "pID": "968817818",
+          "name": "第三节"
+        },
+        {
+          "pID": "968819002",
+          "name": "第四节"
         }
       ]
     },
@@ -469,7 +505,7 @@
     {
       "mgdbId": "120000597598",
       "pID": "968637939",
-      "title": "女子400米个人混合泳预赛",
+      "title": "预赛头名！陆屹宸400混合泳晋级决赛",
       "keyword": "10月27日09:00",
       "sportItemId": "8",
       "matchStatus": "1",
@@ -477,8 +513,8 @@
       "competitionName": "全国游泳锦标赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/26/77QPR4EV9C0N.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/9/21/1000000012301069d1ae.png",
-      "pkInfoTitle": "女子400米个人混合泳预赛",
-      "modifyTitle": "全国游泳锦标赛Day 5：女子400米个人混合泳预赛",
+      "pkInfoTitle": "预赛头名！陆屹宸400混合泳晋级决赛",
+      "modifyTitle": "全国游泳锦标赛Day 5：预赛头名！陆屹宸400混合泳晋级决赛",
       "presenters": "",
       "matchInfo": {
         "time": "10月27日09:00"
@@ -595,7 +631,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "冲十六强！男双本·莱恩/文迪出战",
       "modifyTitle": "海露羽毛球公开赛第一日：冲十六强！男双本·莱恩/文迪出战",
-      "presenters": "",
+      "presenters": "杨妮娜 余昌瑞 朱胤丞",
       "matchInfo": {
         "time": "10月27日15:30"
       },
@@ -611,6 +647,22 @@
         {
           "pID": "968793158",
           "name": "3号场地"
+        },
+        {
+          "pID": "968819546",
+          "name": "杨妮娜"
+        },
+        {
+          "pID": "968819572",
+          "name": "余昌瑞"
+        },
+        {
+          "pID": "968819591",
+          "name": "朱胤丞"
+        },
+        {
+          "pID": "968819607",
+          "name": "朱胤丞"
         }
       ]
     },
@@ -749,12 +801,20 @@
           "name": "周冠达 侯英超 徐晨皓"
         },
         {
+          "pID": "968817535",
+          "name": "CCTV5+"
+        },
+        {
           "pID": "968633189",
           "name": "赛场原声"
         },
         {
           "pID": "968636365",
           "name": "智能字幕"
+        },
+        {
+          "pID": "968819196",
+          "name": "智能解说"
         }
       ]
     },
