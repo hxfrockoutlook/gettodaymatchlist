@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-27 10:31:31",
+  "updateTime": "2026-10-27 11:01:40",
   "data": [
     {
       "mgdbId": "120000590438",
@@ -209,6 +209,10 @@
           "name": "全场集锦"
         },
         {
+          "pID": "968819526",
+          "name": "全场回放（邵化谦、闫宇峰）"
+        },
+        {
           "pID": "968815950",
           "name": "第一节"
         },
@@ -227,10 +231,6 @@
         {
           "pID": "968818778",
           "name": "加时"
-        },
-        {
-          "pID": "968819526",
-          "name": "全场回放（邵化谦、闫宇峰）"
         }
       ]
     },
@@ -280,7 +280,7 @@
     },
     {
       "mgdbId": "120000588293",
-      "pID": "968817509",
+      "pID": "968819268",
       "title": "NBA常规赛",
       "keyword": "10月27日07:30",
       "sportItemId": "2",
@@ -297,6 +297,14 @@
       },
       "nodes": [
         {
+          "pID": "968819268",
+          "name": "全场集锦"
+        },
+        {
+          "pID": "968819297",
+          "name": "全场回放（盛哲）"
+        },
+        {
           "pID": "968816271",
           "name": "第一节"
         },
@@ -311,16 +319,12 @@
         {
           "pID": "968818739",
           "name": "第四节"
-        },
-        {
-          "pID": "968819297",
-          "name": "全场回放（盛哲）"
         }
       ]
     },
     {
       "mgdbId": "120000588294",
-      "pID": "968817151",
+      "pID": "968819599",
       "title": "NBA常规赛",
       "keyword": "10月27日07:30",
       "sportItemId": "2",
@@ -339,6 +343,10 @@
         {
           "pID": "968819599",
           "name": "全场集锦"
+        },
+        {
+          "pID": "968819665",
+          "name": "全场回放（李天宇、殷文玉）"
         },
         {
           "pID": "968816351",
@@ -360,11 +368,11 @@
     },
     {
       "mgdbId": "120000588295",
-      "pID": "968748145",
+      "pID": "968816837",
       "title": "NBA常规赛",
       "keyword": "10月27日08:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Paycom中心",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/27/77QQOA68R44K.jpg",
@@ -377,29 +385,37 @@
       },
       "nodes": [
         {
-          "pID": "968748145",
-          "name": "李嘉伟"
+          "pID": "968820217",
+          "name": "全场回放（李嘉伟）"
         },
         {
-          "pID": "968749417",
-          "name": "步行者vs雄鹿"
+          "pID": "968816606",
+          "name": "第一节"
         },
         {
-          "pID": "968748195",
-          "name": "英文原声"
+          "pID": "968817067",
+          "name": "第二节"
+        },
+        {
+          "pID": "968818475",
+          "name": "第三节"
+        },
+        {
+          "pID": "968819781",
+          "name": "第四节"
         }
       ]
     },
     {
       "mgdbId": "120000588296",
-      "pID": "968749417",
+      "pID": "968819038",
       "title": "NBA常规赛",
       "keyword": "10月27日08:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "费哲论坛球馆",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/26/77QPRF1E11UG.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/27/77QQOHQQSB40.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "步行者VS雄鹿",
       "modifyTitle": "NBA常规赛",
@@ -409,12 +425,24 @@
       },
       "nodes": [
         {
-          "pID": "968749417",
-          "name": "宋俊潼"
+          "pID": "968820527",
+          "name": "全场回放（宋俊潼）"
         },
         {
-          "pID": "968747503",
-          "name": "英文原声"
+          "pID": "968816613",
+          "name": "第一节"
+        },
+        {
+          "pID": "968817010",
+          "name": "第二节"
+        },
+        {
+          "pID": "968818281",
+          "name": "第三节"
+        },
+        {
+          "pID": "968819844",
+          "name": "第四节"
         }
       ]
     },
@@ -447,7 +475,7 @@
       "matchStatus": "1",
       "matchField": "丰田中心球馆",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/26/77QPRF4KR539.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/27/77QQOK8GP3QH.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "老鹰VS火箭",
       "modifyTitle": "NBA常规赛",
@@ -559,30 +587,6 @@
       ]
     },
     {
-      "mgdbId": "120000597556",
-      "pID": "968632206",
-      "title": "中国速度攀岩系列赛(江苏昆山站)",
-      "keyword": "10月27日09:50",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "攀岩系列赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/27/77QQP4QF1UR3.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/10/22/10000000136010611504.jpg",
-      "pkInfoTitle": "中国速度攀岩系列赛(江苏昆山站)",
-      "modifyTitle": "中国速度攀岩系列赛(江苏昆山站)",
-      "presenters": "",
-      "matchInfo": {
-        "time": "10月27日09:50"
-      },
-      "nodes": [
-        {
-          "pID": "968632206",
-          "name": "江苏昆山站"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000588299",
       "pID": "968748862",
       "title": "NBA常规赛",
@@ -605,16 +609,44 @@
           "name": "连睿 曾令旭 小七"
         },
         {
-          "pID": "968748958",
-          "name": "英文原声"
+          "pID": "968748732",
+          "name": "灰熊vs爵士"
         },
         {
           "pID": "968748992",
           "name": "董倡硕"
         },
         {
+          "pID": "968748958",
+          "name": "英文原声"
+        },
+        {
           "pID": "968787619",
           "name": "智能字幕"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000597556",
+      "pID": "968632206",
+      "title": "中国速度攀岩系列赛(江苏昆山站)",
+      "keyword": "10月27日12:00",
+      "sportItemId": "8",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "攀岩系列赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/27/77QQP4QF1UR3.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/10/22/10000000136010611504.jpg",
+      "pkInfoTitle": "中国速度攀岩系列赛(江苏昆山站)",
+      "modifyTitle": "中国速度攀岩系列赛(江苏昆山站)",
+      "presenters": "",
+      "matchInfo": {
+        "time": "10月27日12:00"
+      },
+      "nodes": [
+        {
+          "pID": "968632206",
+          "name": "江苏昆山站"
         }
       ]
     },
