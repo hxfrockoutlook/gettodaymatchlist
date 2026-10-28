@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-28 07:31:19",
+  "updateTime": "2026-10-28 08:01:30",
   "data": [
     {
       "mgdbId": "120000590428",
@@ -165,6 +165,10 @@
       },
       "nodes": [
         {
+          "pID": "968845666",
+          "name": "全场集锦"
+        },
+        {
           "pID": "968843921",
           "name": "全场回放（洪宇青）"
         }
@@ -191,14 +195,6 @@
         {
           "pID": "968845440",
           "name": "全场集锦"
-        },
-        {
-          "pID": "968845446",
-          "name": "全场回放"
-        },
-        {
-          "pID": "968845449",
-          "name": "全场回放"
         },
         {
           "pID": "968845458",
@@ -231,14 +227,6 @@
         {
           "pID": "968845504",
           "name": "全场回放（刘腾）"
-        },
-        {
-          "pID": "968845549",
-          "name": "全场回放"
-        },
-        {
-          "pID": "968845587",
-          "name": "全场回放"
         }
       ]
     },
@@ -276,7 +264,7 @@
       "title": "NBA常规赛",
       "keyword": "10月28日08:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "冰霜银行中心",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/27/77QQOT8R2O5L.png",
@@ -288,6 +276,10 @@
         "time": "10月28日08:00"
       },
       "nodes": [
+        {
+          "pID": "968747002",
+          "name": "活塞vs尼克斯"
+        },
         {
           "pID": "968747121",
           "name": "李嘉伟"
@@ -308,7 +300,7 @@
       "title": "NBA常规赛",
       "keyword": "10月28日08:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "麦迪逊广场花园",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/27/77QQOTBVNIB0.png",
@@ -320,6 +312,10 @@
         "time": "10月28日08:00"
       },
       "nodes": [
+        {
+          "pID": "968747121",
+          "name": "国王vs马刺"
+        },
         {
           "pID": "968747002",
           "name": "张泽欣"
@@ -339,7 +335,7 @@
       "pID": "968047958",
       "title": "咪咕体育日报 第224期",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "咪咕体育日报",
       "padImg": "",
