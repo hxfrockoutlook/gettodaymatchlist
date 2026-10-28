@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-28 22:01:54",
+  "updateTime": "2026-10-28 22:31:44",
   "data": [
     {
       "mgdbId": "120000590428",
@@ -449,10 +449,6 @@
       },
       "nodes": [
         {
-          "pID": "968863434",
-          "name": "2026WTA500东京站女单第2轮回放：伊埃拉2-1吉布森（英文原声）"
-        },
-        {
           "pID": "968854208",
           "name": "【回放】拉克西莫娃2-1亚历山德洛娃（赛场原声）"
         },
@@ -471,6 +467,10 @@
         {
           "pID": "968853769",
           "name": "【回放】拉克西莫娃2-1亚历山德洛娃（英文原声）"
+        },
+        {
+          "pID": "968863434",
+          "name": "【女单第2轮】伊埃拉2-1吉布森（英文原声）"
         },
         {
           "pID": "968860581",
@@ -697,15 +697,15 @@
     {
       "mgdbId": "120000597562",
       "pID": "968633734",
-      "title": "王曼昱横扫迎开门红 王艺迪PK梅谢芙",
+      "title": "王曼昱横扫迎开门红 陈幸同冲晋级",
       "keyword": "10月28日19:00",
       "sportItemId": "7",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/28/77QRLDIQDBAN.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/28/77QRLK3GTTQD.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "王曼昱横扫迎开门红 王艺迪PK梅谢芙",
+      "pkInfoTitle": "王曼昱横扫迎开门红 陈幸同冲晋级",
       "modifyTitle": "WTT蒙彼利埃冠军赛男女单打1/16决赛",
       "presenters": "周冠达 侯英超 程靖淇",
       "matchInfo": {
@@ -721,16 +721,16 @@
           "name": "周冠达 侯英超 程靖淇"
         },
         {
-          "pID": "968847262",
-          "name": "CCTV5"
-        },
-        {
           "pID": "968633137",
           "name": "赛场原声"
         },
         {
           "pID": "968636341",
           "name": "智能字幕"
+        },
+        {
+          "pID": "968847262",
+          "name": "CCTV5"
         }
       ]
     },
@@ -825,6 +825,30 @@
       },
       "nodes": [
         {
+          "pID": "968862830",
+          "name": "全场集锦"
+        },
+        {
+          "pID": "968863741",
+          "name": "全场回放（庄宁宇、丁伟）"
+        },
+        {
+          "pID": "968863730",
+          "name": "全场回放（李嘉伟）"
+        },
+        {
+          "pID": "968863742",
+          "name": "全场回放（石楷文）"
+        },
+        {
+          "pID": "968863772",
+          "name": "全场回放（赛场原声）"
+        },
+        {
+          "pID": "968863613",
+          "name": "全场精华"
+        },
+        {
           "pID": "968862102",
           "name": "第一节"
         },
@@ -880,7 +904,7 @@
       "title": "亚冠二级小组赛",
       "keyword": "10月28日20:15",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "行待体育场",
       "competitionName": "亚冠二级",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000590530/202608190901_298851_H169_1080.webp",
@@ -893,12 +917,8 @@
       },
       "nodes": [
         {
-          "pID": "968634770",
-          "name": "刘洋"
-        },
-        {
-          "pID": "968634756",
-          "name": "赛场原声"
+          "pID": "968864171",
+          "name": "全场回放（刘洋）"
         }
       ]
     },
@@ -908,10 +928,10 @@
       "title": "亚冠二级小组赛",
       "keyword": "10月28日20:15",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "西卡勒哈魯伯體育場",
       "competitionName": "亚冠二级",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000591827/202608312326_316113_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000591827/202610282225_692383_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/9/11/100000001227106e764f.png",
       "pkInfoTitle": "万隆 vs 墨尔本胜利",
       "modifyTitle": "亚冠二级小组赛",
@@ -921,16 +941,16 @@
       },
       "nodes": [
         {
-          "pID": "968634728",
-          "name": "张天翼"
+          "pID": "968863988",
+          "name": "全场回放（张天翼）"
         },
         {
-          "pID": "968634702",
-          "name": "赛场原声"
+          "pID": "968864023",
+          "name": "全场回放"
         },
         {
-          "pID": "968694626",
-          "name": "智能解说"
+          "pID": "968864062",
+          "name": "全场回放"
         }
       ]
     },
