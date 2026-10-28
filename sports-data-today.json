@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-28 15:01:36",
+  "updateTime": "2026-10-28 15:31:28",
   "data": [
     {
       "mgdbId": "120000590428",
@@ -493,6 +493,10 @@
           "name": "全场回放（邢晨）"
         },
         {
+          "pID": "968855686",
+          "name": "全场回放（英文原声）"
+        },
+        {
           "pID": "968850885",
           "name": "第一节"
         },
@@ -543,10 +547,6 @@
         {
           "pID": "968793217",
           "name": "3号场地"
-        },
-        {
-          "pID": "968793197",
-          "name": "2号场���"
         },
         {
           "pID": "968849345",
@@ -619,6 +619,30 @@
         {
           "pID": "968634766",
           "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000597795",
+      "pID": "968693178",
+      "title": "NBA精彩重播：开拓者 vs 湖人",
+      "keyword": "10月28日18:00",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "NBA经典赛事",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/28/77QRJIQKUC8S.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png",
+      "pkInfoTitle": "NBA精彩重播：开拓者 vs 湖人",
+      "modifyTitle": "NBA经典赛事",
+      "presenters": "杨健 苏群 曾令旭",
+      "matchInfo": {
+        "time": "10月28日18:00"
+      },
+      "nodes": [
+        {
+          "pID": "968693178",
+          "name": "杨健 苏群 曾令旭"
         }
       ]
     },
