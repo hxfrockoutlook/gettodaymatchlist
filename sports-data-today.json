@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-29 19:31:54",
+  "updateTime": "2026-10-29 20:01:49",
   "data": [
     {
       "mgdbId": "120000590526",
@@ -1011,10 +1011,6 @@
         {
           "pID": "968891436",
           "name": "全场回放（鹿中原）"
-        },
-        {
-          "pID": "968892970",
-          "name": "全场回放（赛场原声）"
         }
       ]
     },
@@ -1089,7 +1085,7 @@
       "title": "亚冠二级小组赛",
       "keyword": "10月29日18:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "江陵High1竞技场",
       "competitionName": "亚冠二级",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000590521/202608191250_644149_H169_1080.webp",
@@ -1117,7 +1113,7 @@
       "title": "亚冠二级小组赛",
       "keyword": "10月29日18:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "惹兰勿刹球场",
       "competitionName": "亚冠二级",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000590522/202608190858_856449_H169_1080.webp",
@@ -1166,21 +1162,25 @@
     {
       "mgdbId": "120000597564",
       "pID": "968633717",
-      "title": "温瑞博首轮迎战梁靖崑 向鹏vs奥恰洛夫",
+      "title": "梁靖崑3-0温瑞博 向鹏首轮战奥恰洛夫",
       "keyword": "10月29日19:00",
       "sportItemId": "7",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/28/77QRLNLIL5LN.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/29/77QSHSKL0IK6.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "温瑞博首轮迎战梁靖崑 向鹏vs奥恰洛夫",
+      "pkInfoTitle": "梁靖崑3-0温瑞博 向鹏首轮战奥恰洛夫",
       "modifyTitle": "WTT蒙彼利埃冠军赛男女单打1/16决赛",
       "presenters": "周冠达 侯英超 程靖淇",
       "matchInfo": {
         "time": "10月29日19:00"
       },
       "nodes": [
+        {
+          "pID": "968893614",
+          "name": "2026WTT蒙彼利埃冠军赛男单1/16决赛集锦：温瑞博0-3梁靖崑"
+        },
         {
           "pID": "968633717",
           "name": "周冠达 侯英超 程靖淇"
@@ -1358,6 +1358,10 @@
           "name": "同播青岛vs北京"
         },
         {
+          "pID": "968847999",
+          "name": "同播新疆vs南京"
+        },
+        {
           "pID": "968847113",
           "name": "广东主队解说"
         },
@@ -1421,7 +1425,7 @@
       "title": "CBA常规赛第6轮",
       "keyword": "10月29日20:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "新疆维吾尔自治区体育中心",
       "competitionName": "CBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/27/77QQM9ND2KIN.jpg",
@@ -1465,7 +1469,7 @@
       "title": "亚冠二级小组赛",
       "keyword": "10月29日20:15",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "Morodok Techo National Stadium",
       "competitionName": "亚冠二级",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000590518/202608190826_855912_H169_1080.webp",
@@ -1493,7 +1497,7 @@
       "title": "亚冠二级小组赛",
       "keyword": "10月29日20:15",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "上海体育场",
       "competitionName": "亚冠二级",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000590519/601233_H169_sc.jpg",
@@ -1518,10 +1522,10 @@
     {
       "mgdbId": "120000590520",
       "pID": "968635199",
-      "title": "亚冠���级小组赛",
+      "title": "亚冠二级小组赛",
       "keyword": "10月29日20:15",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "旺角大球场",
       "competitionName": "亚冠二级",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000590520/202608190858_213270_H169_1080.webp",
