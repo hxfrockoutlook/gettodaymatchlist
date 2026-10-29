@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-29 12:31:36",
+  "updateTime": "2026-10-29 13:02:02",
   "data": [
     {
       "mgdbId": "120000590526",
@@ -452,7 +452,7 @@
     },
     {
       "mgdbId": "120000588307",
-      "pID": "968875411",
+      "pID": "968876807",
       "title": "NBA常规赛",
       "keyword": "10月29日07:00",
       "sportItemId": "2",
@@ -760,7 +760,7 @@
     },
     {
       "mgdbId": "120000588313",
-      "pID": "968880533",
+      "pID": "968881088",
       "title": "NBA常规赛",
       "keyword": "10月29日09:00",
       "sportItemId": "2",
@@ -779,6 +779,10 @@
         {
           "pID": "968881088",
           "name": "全场集锦"
+        },
+        {
+          "pID": "968881079",
+          "name": "全场回放（连睿）"
         },
         {
           "pID": "968881096",
@@ -803,10 +807,6 @@
         {
           "pID": "968880631",
           "name": "加时"
-        },
-        {
-          "pID": "968881079",
-          "name": "全场回放（连睿）"
         }
       ]
     },
@@ -937,6 +937,24 @@
           "name": "解说"
         }
       ]
+    },
+    {
+      "mgdbId": "120000598355",
+      "title": "短道速滑世界巡回赛 温哥华站 1",
+      "keyword": "10月29日14:02",
+      "sportItemId": "8",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "短道速滑世界巡回赛",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/10/29/100000001571106812a8.png",
+      "pkInfoTitle": "短道速滑世界巡回赛 温哥华站 1",
+      "modifyTitle": "短道速滑世界巡回赛 温哥华站 1",
+      "presenters": "",
+      "matchInfo": {
+        "time": "10月29日14:02"
+      },
+      "nodes": []
     },
     {
       "mgdbId": "120000590523",
@@ -1094,6 +1112,24 @@
           "name": "赛场原声"
         }
       ]
+    },
+    {
+      "mgdbId": "120000598356",
+      "title": "短道速滑世界巡回赛 温哥华站 2",
+      "keyword": "10月29日18:04",
+      "sportItemId": "8",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "短道速滑世界巡回赛",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/10/29/100000001571106812a8.png",
+      "pkInfoTitle": "短道速滑世界巡回赛 温哥华站 2",
+      "modifyTitle": "短道速滑世界巡回赛 温哥华站 2",
+      "presenters": "",
+      "matchInfo": {
+        "time": "10月29日18:04"
+      },
+      "nodes": []
     },
     {
       "mgdbId": "120000597564",
