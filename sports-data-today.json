@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-29 09:01:38",
+  "updateTime": "2026-10-29 09:31:35",
   "data": [
     {
       "mgdbId": "120000590526",
@@ -118,11 +118,11 @@
         },
         {
           "pID": "968871561",
-          "name": "全场回放"
+          "name": "全场回放（智能解说）"
         },
         {
           "pID": "968871565",
-          "name": "全场回放"
+          "name": "全场回放（AI观赛）"
         }
       ]
     },
@@ -173,20 +173,16 @@
       },
       "nodes": [
         {
-          "pID": "968873028",
-          "name": "【集锦】艾利克斯·勒布伦2-3弗朗西斯卡"
+          "pID": "968874109",
+          "name": "全场回放（李柯鑫）"
         },
         {
-          "pID": "968633116",
-          "name": "赛场原声"
+          "pID": "968874327",
+          "name": "全场回放"
         },
         {
-          "pID": "968636328",
-          "name": "智能字幕"
-        },
-        {
-          "pID": "968633623",
-          "name": "李柯鑫"
+          "pID": "968874112",
+          "name": "全场回放（英文解说智能字幕）"
         }
       ]
     },
@@ -311,7 +307,7 @@
       "matchStatus": "1",
       "matchField": "火箭信贷球馆",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/28/77QRLBUGOOR7.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/29/77QSICNLP3MI.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "奇才VS骑士",
       "modifyTitle": "NBA常规赛",
@@ -336,14 +332,14 @@
     },
     {
       "mgdbId": "120000588305",
-      "pID": "968747452",
+      "pID": "968876066",
       "title": "NBA常规赛",
       "keyword": "10月29日07:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "州立农业球馆",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/28/77QRLC44P9U6.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/29/77QSIDTIS1EI.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "热火VS老鹰",
       "modifyTitle": "NBA常规赛",
@@ -353,12 +349,20 @@
       },
       "nodes": [
         {
-          "pID": "968747452",
-          "name": "周赫"
+          "pID": "968874559",
+          "name": "第一节"
         },
         {
-          "pID": "968747551",
-          "name": "英文原声"
+          "pID": "968874849",
+          "name": "第二节"
+        },
+        {
+          "pID": "968875303",
+          "name": "第三节"
+        },
+        {
+          "pID": "968876237",
+          "name": "第四节"
         }
       ]
     },
@@ -411,7 +415,7 @@
       "matchStatus": "1",
       "matchField": "小凯撒球馆",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/28/77QRLCD1PATQ.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/29/77QSIECJV16R.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "黄蜂VS活塞",
       "modifyTitle": "NBA常规赛",
@@ -644,7 +648,7 @@
       "title": "NBA常规赛",
       "keyword": "10月29日09:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "美国航线中心体育馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/28/77QRJCSSPJJE.png",
@@ -672,7 +676,7 @@
       "title": "帕克斯率先出战 莱巴金娜压场亮相",
       "keyword": "10月29日09:30",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/28/77QRJVLF8I14.png",
