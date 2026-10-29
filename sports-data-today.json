@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-29 13:02:02",
+  "updateTime": "2026-10-29 13:31:42",
   "data": [
     {
       "mgdbId": "120000590526",
@@ -812,7 +812,7 @@
     },
     {
       "mgdbId": "120000588314",
-      "pID": "968880295",
+      "pID": "968881687",
       "title": "NBA常规赛",
       "keyword": "10月29日09:30",
       "sportItemId": "2",
@@ -828,6 +828,10 @@
         "time": "10月29日09:30"
       },
       "nodes": [
+        {
+          "pID": "968881687",
+          "name": "全场集锦"
+        },
         {
           "pID": "968877614",
           "name": "第一节"
@@ -849,16 +853,16 @@
     {
       "mgdbId": "120000597692",
       "pID": "968661042",
-      "title": "梅尔滕斯出战 莱巴金娜压场亮相",
+      "title": "大坂直美出战 莱巴金娜压场亮相",
       "keyword": "10月29日09:30",
       "sportItemId": "9",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/29/77QSIQAE7PN2.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/29/77QSG3NENLM4.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "梅尔滕斯出战 莱巴金娜压场亮相",
-      "modifyTitle": "WTA500东京站女单第二轮：梅尔滕斯出战 莱巴金娜压场亮相",
+      "pkInfoTitle": "大坂直美出战 莱巴金娜压场亮相",
+      "modifyTitle": "WTA500东京站女单第二轮：大坂直美出战 莱巴金娜压场亮相",
       "presenters": "",
       "matchInfo": {
         "time": "10月29日09:30"
@@ -880,14 +884,14 @@
     },
     {
       "mgdbId": "120000588315",
-      "pID": "968747000",
+      "pID": "968882276",
       "title": "NBA常规赛",
       "keyword": "10月29日10:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "因图特圆顶球馆",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/29/77QSIF5EU817.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/29/77QSG2FPBFT8.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "湖人VS快船",
       "modifyTitle": "NBA常规赛",
@@ -897,20 +901,20 @@
       },
       "nodes": [
         {
-          "pID": "968747000",
-          "name": "孙博 曾令旭 季孟年"
+          "pID": "968880035",
+          "name": "第一节"
         },
         {
-          "pID": "968748881",
-          "name": "雷霆vs独行侠"
+          "pID": "968880924",
+          "name": "第二节"
         },
         {
-          "pID": "968750473",
-          "name": "英文原声"
+          "pID": "968882013",
+          "name": "第三节"
         },
         {
-          "pID": "968787556",
-          "name": "智能字幕"
+          "pID": "968882363",
+          "name": "第四节"
         }
       ]
     },
@@ -1110,6 +1114,30 @@
         {
           "pID": "968634837",
           "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000597796",
+      "pID": "968693060",
+      "title": "NBA精彩重播：费城76人 vs 印第安纳步行者",
+      "keyword": "10月29日18:00",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "NBA经典赛事",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png",
+      "pkInfoTitle": "NBA精彩重播：费城76人 vs 印第安纳步行者",
+      "modifyTitle": "NBA经典赛事",
+      "presenters": "李天宇 陈正昊 殷文玉",
+      "matchInfo": {
+        "time": "10月29日18:00"
+      },
+      "nodes": [
+        {
+          "pID": "968693060",
+          "name": "李天宇 陈正昊 殷文玉"
         }
       ]
     },
