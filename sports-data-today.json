@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-29 13:31:42",
+  "updateTime": "2026-10-29 14:02:03",
   "data": [
     {
       "mgdbId": "120000590526",
@@ -884,7 +884,7 @@
     },
     {
       "mgdbId": "120000588315",
-      "pID": "968882276",
+      "pID": "968883878",
       "title": "NBA常规赛",
       "keyword": "10月29日10:30",
       "sportItemId": "2",
@@ -900,6 +900,14 @@
         "time": "10月29日10:30"
       },
       "nodes": [
+        {
+          "pID": "968883878",
+          "name": "全场集锦"
+        },
+        {
+          "pID": "968883990",
+          "name": "全场回放（孙博、曾令旭、季孟年、秋童）"
+        },
         {
           "pID": "968880035",
           "name": "第一节"
@@ -924,7 +932,7 @@
       "title": "围甲总决赛第一轮",
       "keyword": "10月29日14:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "中国围棋甲级联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/28/77QRLMPLNJ28.png",
@@ -944,6 +952,7 @@
     },
     {
       "mgdbId": "120000598355",
+      "pID": "968880354",
       "title": "短道速滑世界巡回赛 温哥华站 1",
       "keyword": "10月29日14:02",
       "sportItemId": "8",
@@ -958,7 +967,12 @@
       "matchInfo": {
         "time": "10月29日14:02"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "968880354",
+          "name": "解说"
+        }
+      ]
     },
     {
       "mgdbId": "120000590523",
@@ -1143,6 +1157,7 @@
     },
     {
       "mgdbId": "120000598356",
+      "pID": "968880397",
       "title": "短道速滑世界巡回赛 温哥华站 2",
       "keyword": "10月29日18:04",
       "sportItemId": "8",
@@ -1157,7 +1172,12 @@
       "matchInfo": {
         "time": "10月29日18:04"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "968880397",
+          "name": "解说"
+        }
+      ]
     },
     {
       "mgdbId": "120000597564",
