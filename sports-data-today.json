@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-30 10:01:28",
+  "updateTime": "2026-10-30 10:31:35",
   "data": [
     {
       "mgdbId": "120000584820",
@@ -168,11 +168,11 @@
     },
     {
       "mgdbId": "120000588317",
-      "pID": "968750567",
+      "pID": "968908891",
       "title": "NBA常规赛",
       "keyword": "10月30日08:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "冰沙国王中心",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/29/77QSGC347QLL.png",
@@ -185,12 +185,16 @@
       },
       "nodes": [
         {
-          "pID": "968750567",
-          "name": "王凯"
+          "pID": "968908548",
+          "name": "第一节"
         },
         {
-          "pID": "968750584",
-          "name": "英文原声"
+          "pID": "968909195",
+          "name": "第二节"
+        },
+        {
+          "pID": "968910401",
+          "name": "第三节"
         }
       ]
     },
@@ -747,7 +751,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "乔纳坦PK奈良冈功大",
       "modifyTitle": "海露羽毛球公开赛第四日：安东森冲四强！乔纳坦PK奈良冈功大",
-      "presenters": "",
+      "presenters": "李珍 鸿昆 杨妮娜 朱胤丞 余昌瑞",
       "matchInfo": {
         "time": "10月30日20:00"
       },
@@ -767,6 +771,34 @@
         {
           "pID": "968793446",
           "name": "1号场地英文视角"
+        },
+        {
+          "pID": "968911113",
+          "name": "李珍"
+        },
+        {
+          "pID": "968911147",
+          "name": "鸿昆"
+        },
+        {
+          "pID": "968911164",
+          "name": "杨妮娜"
+        },
+        {
+          "pID": "968911264",
+          "name": "杨妮娜"
+        },
+        {
+          "pID": "968911317",
+          "name": "朱胤丞"
+        },
+        {
+          "pID": "968911341",
+          "name": "朱胤丞"
+        },
+        {
+          "pID": "968911361",
+          "name": "余昌瑞"
         }
       ]
     },
