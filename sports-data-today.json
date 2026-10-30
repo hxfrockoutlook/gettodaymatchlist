@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-31 01:32:53",
+  "updateTime": "2026-10-31 02:02:56",
   "data": [
     {
       "mgdbId": "120000598470",
@@ -64,7 +64,7 @@
       "title": "法甲联赛",
       "keyword": "10月31日02:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "尼斯球场",
       "competitionName": "法甲",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000584460/202607231559_975244_H169_1080.webp",
@@ -92,7 +92,7 @@
       "title": "法甲联赛",
       "keyword": "10月31日02:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "奥塞安体育场",
       "competitionName": "法甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000584465/531748_H169_sc.jpg",
@@ -219,6 +219,10 @@
         {
           "pID": "968916760",
           "name": "智能解说"
+        },
+        {
+          "pID": "968876971",
+          "name": "��一臻"
         }
       ]
     },
@@ -783,7 +787,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
       "pkInfoTitle": "费尔南德斯 vs 拉克西莫娃",
       "modifyTitle": "WTA500东京站女单半决赛：费尔南德斯 vs 拉克西莫娃",
-      "presenters": "鸿昆 乔迁",
+      "presenters": "鸿昆",
       "matchInfo": {
         "time": "10月31日11:00"
       },
@@ -801,20 +805,8 @@
           "name": "AI同声传译"
         },
         {
-          "pID": "968931382",
-          "name": "赛场原声"
-        },
-        {
           "pID": "968931384",
           "name": "鸿昆"
-        },
-        {
-          "pID": "968931398",
-          "name": "乔迁"
-        },
-        {
-          "pID": "968931396",
-          "name": "赛场原声"
         }
       ]
     },
