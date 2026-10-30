@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-30 13:01:38",
+  "updateTime": "2026-10-30 13:31:26",
   "data": [
     {
       "mgdbId": "120000584820",
@@ -417,6 +417,10 @@
           "name": "全场回放（姜帆、李根、王润陶、秋童）"
         },
         {
+          "pID": "968914845",
+          "name": "全场回放（邢晨）"
+        },
+        {
           "pID": "968912007",
           "name": "第一节"
         },
@@ -532,18 +536,24 @@
     },
     {
       "mgdbId": "300000002521",
+      "pID": "968915143",
       "title": "篮球公园丨篮下人生——邱彪",
       "sportItemId": "2",
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "CBA",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/30/77QTGGR0B13S.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png",
       "pkInfoTitle": "篮球公园丨篮下人生——邱彪",
       "modifyTitle": "篮球公园丨篮下人生——邱彪",
       "presenters": "",
       "matchInfo": {},
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "968915143",
+          "name": "篮球公园"
+        }
+      ]
     },
     {
       "mgdbId": "120000597567",
@@ -840,7 +850,7 @@
     },
     {
       "mgdbId": "120000597956",
-      "pID": "968793349",
+      "pID": "968911113",
       "title": "乔纳坦PK奈良冈功大",
       "keyword": "10月30日20:00",
       "sportItemId": "6",
@@ -856,6 +866,10 @@
         "time": "10月30日20:00"
       },
       "nodes": [
+        {
+          "pID": "968911113",
+          "name": "李美妙VS张文玉"
+        },
         {
           "pID": "968793349",
           "name": "1号场地"
@@ -873,32 +887,20 @@
           "name": "1号场地英文视角"
         },
         {
-          "pID": "968911113",
-          "name": "李珍"
-        },
-        {
           "pID": "968911147",
-          "name": "鸿昆"
+          "name": "乔纳坦VS奈良冈功大"
         },
         {
           "pID": "968911164",
-          "name": "杨妮娜"
-        },
-        {
-          "pID": "968911264",
-          "name": "杨妮娜"
+          "name": "舒尔茨VS辛杜"
         },
         {
           "pID": "968911317",
-          "name": "朱胤丞"
-        },
-        {
-          "pID": "968911341",
-          "name": "朱胤丞"
+          "name": "安东森VS迪特莱"
         },
         {
           "pID": "968911361",
-          "name": "余昌瑞"
+          "name": "梅克尔VS大波波夫"
         }
       ]
     },
