@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-30 17:31:24",
+  "updateTime": "2026-10-30 18:01:37",
   "data": [
     {
       "mgdbId": "120000584820",
@@ -480,7 +480,7 @@
       "title": "跑酷世界杯北京站day1",
       "keyword": "10月30日11:10",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "跑酷世界杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/30/77QTG2O43BAM.png",
@@ -528,7 +528,7 @@
       "title": "NBA精彩重播：孟菲斯灰熊 vs 波特兰开拓者",
       "keyword": "10月30日18:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA经典赛事",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/30/77QTDQ0PV3ED.jpg",
@@ -552,7 +552,7 @@
       "title": "短道速滑世界巡回赛 加拿大温哥华站",
       "keyword": "10月30日18:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "短道速滑世界巡回赛",
       "padImg": "",
@@ -597,7 +597,7 @@
       "title": "孙颖莎冲八强 王曼昱迎战陈熠",
       "keyword": "10月30日19:00",
       "sportItemId": "7",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/29/77QSH04D1LB5.jpg",
@@ -644,7 +644,7 @@
       "nodes": [
         {
           "pID": "967502860",
-          "name": "颜强 徐阳 孙宇轩 杨茗茗"
+          "name": "颜强 徐阳 孙雨轩 杨茗茗"
         }
       ]
     },
@@ -719,6 +719,14 @@
           "name": "吕程 巩晓彬 周鹏"
         },
         {
+          "pID": "968847505",
+          "name": "同播宁波vs辽宁"
+        },
+        {
+          "pID": "968847592",
+          "name": "同播浙江vs上海"
+        },
+        {
           "pID": "968847416",
           "name": "广州主队解说"
         },
@@ -751,6 +759,10 @@
       },
       "nodes": [
         {
+          "pID": "968847505",
+          "name": "同播宁波vs辽宁"
+        },
+        {
           "pID": "968847456",
           "name": "王冠证"
         },
@@ -781,6 +793,14 @@
         {
           "pID": "968847505",
           "name": "孙博 丁彦雨航 闫宇峰"
+        },
+        {
+          "pID": "968847592",
+          "name": "同播浙江vs上海"
+        },
+        {
+          "pID": "968847456",
+          "name": "同播吉林vs深圳"
         },
         {
           "pID": "968847517",
@@ -845,6 +865,14 @@
         {
           "pID": "968847592",
           "name": "徐秦威 陈正昊 王羽希"
+        },
+        {
+          "pID": "968847505",
+          "name": "同播宁波vs辽宁"
+        },
+        {
+          "pID": "968847560",
+          "name": "同播天津vs浙证"
         },
         {
           "pID": "968847619",
@@ -997,6 +1025,30 @@
         {
           "pID": "968886422",
           "name": "英文原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000598488",
+      "pID": "968922125",
+      "title": "国际自盟场地自行车世锦赛-3",
+      "keyword": "10月30日21:50",
+      "sportItemId": "8",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "国际自盟场地自行车世锦赛",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/10/29/10000000157210695b94.png",
+      "pkInfoTitle": "国际自盟场地自行车世锦赛-3",
+      "modifyTitle": "国际自盟场地自行车世锦赛-3",
+      "presenters": "",
+      "matchInfo": {
+        "time": "10月30日21:50"
+      },
+      "nodes": [
+        {
+          "pID": "968922125",
+          "name": "解说"
         }
       ]
     },
