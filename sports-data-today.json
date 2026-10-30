@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-31 01:03:12",
+  "updateTime": "2026-10-31 01:32:53",
   "data": [
     {
       "mgdbId": "120000598470",
@@ -32,7 +32,7 @@
       "title": "蒯曼、周启豪冲八强 早田希娜出战",
       "keyword": "10月31日01:30",
       "sportItemId": "7",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/30/77QTD88PFCN0.png",
@@ -783,7 +783,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
       "pkInfoTitle": "费尔南德斯 vs 拉克西莫娃",
       "modifyTitle": "WTA500东京站女单半决赛：费尔南德斯 vs 拉克西莫娃",
-      "presenters": "",
+      "presenters": "鸿昆 乔迁",
       "matchInfo": {
         "time": "10月31日11:00"
       },
@@ -799,11 +799,28 @@
         {
           "pID": "968693866",
           "name": "AI同声传译"
+        },
+        {
+          "pID": "968931382",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "968931384",
+          "name": "鸿昆"
+        },
+        {
+          "pID": "968931398",
+          "name": "乔迁"
+        },
+        {
+          "pID": "968931396",
+          "name": "赛场原声"
         }
       ]
     },
     {
       "mgdbId": "120000598496",
+      "pID": "968931396",
       "title": "WTA东京站女单半决赛：施耐德 vs 波汉科娃",
       "keyword": "10月31日12:30",
       "sportItemId": "9",
@@ -814,11 +831,20 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
       "pkInfoTitle": "施耐德 vs 波汉科娃",
       "modifyTitle": "WTA东京站女单半决赛：施耐德 vs 波汉科娃",
-      "presenters": "",
+      "presenters": "乔迁",
       "matchInfo": {
         "time": "10月31日12:30"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "968931396",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "968931398",
+          "name": "乔迁"
+        }
+      ]
     },
     {
       "mgdbId": "120000598094",
