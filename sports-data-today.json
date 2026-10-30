@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-30 10:31:35",
+  "updateTime": "2026-10-30 11:01:32",
   "data": [
     {
       "mgdbId": "120000584820",
@@ -132,14 +132,14 @@
     },
     {
       "mgdbId": "120000588316",
-      "pID": "968750501",
+      "pID": "968912099",
       "title": "NBA常规赛",
       "keyword": "10月30日08:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "州立农业球馆",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/29/77QSGC8Q2Q2F.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/30/77QTFRM0OM0D.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "骑士VS老鹰",
       "modifyTitle": "NBA常规赛",
@@ -149,33 +149,37 @@
       },
       "nodes": [
         {
-          "pID": "968750613",
-          "name": "同看"
+          "pID": "968912099",
+          "name": "全场集锦"
         },
         {
-          "pID": "968750501",
-          "name": "蔡凯臣 周赫"
+          "pID": "968908533",
+          "name": "第一节"
         },
         {
-          "pID": "968750513",
-          "name": "英文原声"
+          "pID": "968909168",
+          "name": "第二节"
         },
         {
-          "pID": "968787533",
-          "name": "智能字幕"
+          "pID": "968910343",
+          "name": "第三节"
+        },
+        {
+          "pID": "968911594",
+          "name": "第四节"
         }
       ]
     },
     {
       "mgdbId": "120000588317",
-      "pID": "968908891",
+      "pID": "968912107",
       "title": "NBA常规赛",
       "keyword": "10月30日08:00",
       "sportItemId": "2",
       "matchStatus": "2",
       "matchField": "冰沙国王中心",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/29/77QSGC347QLL.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/30/77QTFROL8CSU.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "国王VS鹈鹕",
       "modifyTitle": "NBA常规赛",
@@ -184,6 +188,10 @@
         "time": "10月30日08:00"
       },
       "nodes": [
+        {
+          "pID": "968912107",
+          "name": "全场集锦"
+        },
         {
           "pID": "968908548",
           "name": "第一节"
@@ -195,21 +203,25 @@
         {
           "pID": "968910401",
           "name": "第三节"
+        },
+        {
+          "pID": "968911453",
+          "name": "第四节"
         }
       ]
     },
     {
       "mgdbId": "120000598358",
       "pID": "968886267",
-      "title": "UFC巴西柔术大赛第13期：塔克特VS罗德里格斯",
+      "title": "塔克特终结对手拿下腰带 福纳西尔判定击败巴博萨争冠",
       "keyword": "10月30日08:00",
       "sportItemId": "5",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "UFC BJJ",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/29/77QSHCAD94E6.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/30/77QTFTTB5972.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/3/31/1000000013991064d8b5.png",
-      "pkInfoTitle": "UFC巴西柔术大赛第13期：塔克特VS罗德里格斯",
+      "pkInfoTitle": "塔克特终结对手拿下腰带 福纳西尔判定击败巴博萨争冠",
       "modifyTitle": "UFC巴西柔术大赛第13期：塔克特VS罗德里格斯",
       "presenters": "何鹏",
       "matchInfo": {
@@ -217,12 +229,40 @@
       },
       "nodes": [
         {
-          "pID": "968886267",
-          "name": "何鹏"
+          "pID": "968910855",
+          "name": "罗德里格斯VS滕卡"
         },
         {
-          "pID": "968886303",
-          "name": "英文原声"
+          "pID": "968910104",
+          "name": "戴维斯VS弗拉戈索"
+        },
+        {
+          "pID": "968909960",
+          "name": "罗查VS安图内斯"
+        },
+        {
+          "pID": "968909735",
+          "name": "唐尼VS道布"
+        },
+        {
+          "pID": "968908865",
+          "name": "克雷林斯滕VS博拉特别克"
+        },
+        {
+          "pID": "968908658",
+          "name": "冈萨雷斯VS尼科利特"
+        },
+        {
+          "pID": "968908381",
+          "name": "赛恩斯VS温特劳布"
+        },
+        {
+          "pID": "968911951",
+          "name": "UFC巴西柔术大赛第13期回放：杰伦-福纳西尔VS克莱伯-巴博萨"
+        },
+        {
+          "pID": "968912381",
+          "name": "UFC巴西柔术大赛第13期回放：威廉-塔克特VS杰伊-罗德里格斯"
         }
       ]
     },
@@ -345,10 +385,6 @@
       },
       "nodes": [
         {
-          "pID": "968750501",
-          "name": "同看"
-        },
-        {
           "pID": "968750613",
           "name": "姜帆 李根 王润陶"
         },
@@ -368,7 +404,7 @@
     },
     {
       "mgdbId": "120000597012",
-      "pID": "968572944",
+      "pID": "968884770",
       "title": "跑酷世界杯北京站day1",
       "keyword": "10月30日11:10",
       "sportItemId": "8",
@@ -384,10 +420,6 @@
         "time": "10月30日11:10"
       },
       "nodes": [
-        {
-          "pID": "968572944",
-          "name": "北京站"
-        },
         {
           "pID": "968884770",
           "name": "北京站"
@@ -499,6 +531,27 @@
         {
           "pID": "968636269",
           "name": "智能字幕"
+        }
+      ]
+    },
+    {
+      "mgdbId": "300000002519",
+      "pID": "967502860",
+      "title": "卡里克帅位岌岌可危 热刺逐渐走出低迷",
+      "sportItemId": "1",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "绿茵狂想：联赛季",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/08/21/77KVD4MV77K9.png",
+      "pkInfoTitle": "卡里克帅位岌岌可危 热刺逐渐走出低迷",
+      "modifyTitle": "《绿茵狂想：联赛季》第11期",
+      "presenters": "",
+      "matchInfo": {},
+      "nodes": [
+        {
+          "pID": "967502860",
+          "name": "颜强 徐阳 孙宇轩 杨茗茗"
         }
       ]
     },
