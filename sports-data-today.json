@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-30 18:01:37",
+  "updateTime": "2026-10-30 18:31:34",
   "data": [
     {
       "mgdbId": "120000584820",
@@ -575,7 +575,7 @@
       "pID": "968915143",
       "title": "篮球公园丨篮下人生——邱彪",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "CBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/30/77QTGGR0B13S.png",
@@ -759,12 +759,16 @@
       },
       "nodes": [
         {
+          "pID": "968847456",
+          "name": "王冠证"
+        },
+        {
           "pID": "968847505",
           "name": "同播宁波vs辽宁"
         },
         {
-          "pID": "968847456",
-          "name": "王冠证"
+          "pID": "968847592",
+          "name": "同播浙江vs上海"
         },
         {
           "pID": "968847494",
@@ -837,6 +841,14 @@
         {
           "pID": "968847560",
           "name": "姜帆"
+        },
+        {
+          "pID": "968847505",
+          "name": "同播宁波vs辽宁"
+        },
+        {
+          "pID": "968847592",
+          "name": "同播浙江vs上海"
         },
         {
           "pID": "968847587",
