@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-30 15:01:31",
+  "updateTime": "2026-10-30 15:31:22",
   "data": [
     {
       "mgdbId": "120000584820",
@@ -261,6 +261,10 @@
           "name": "全场回放（何鹏）"
         },
         {
+          "pID": "968918546",
+          "name": "全场回放（英文原声）"
+        },
+        {
           "pID": "968910855",
           "name": "罗德里格斯VS滕卡"
         },
@@ -287,10 +291,6 @@
         {
           "pID": "968908381",
           "name": "赛恩斯VS温特劳布"
-        },
-        {
-          "pID": "968918546",
-          "name": "UFC巴西柔术大赛第13期全场回放（英文原声）"
         }
       ]
     },
@@ -500,7 +500,7 @@
       "title": "海南省城市足球联赛",
       "keyword": "10月30日15:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "琼超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000597972/202610261631_757806_H169_1080.webp",
@@ -977,7 +977,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "ONE冠军赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/30/77QTD8PP8TCQ.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/30/77QTDOC7I2B9.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/7/16/1000000015101065ca9b.png",
       "pkInfoTitle": "ONE周五格斗夜176：坤苏克VS约德乌东",
       "modifyTitle": "ONE周五格斗夜176：坤苏克VS约德乌东",
@@ -995,6 +995,21 @@
           "name": "英文原声"
         }
       ]
+    },
+    {
+      "mgdbId": "300000002522",
+      "title": "《球你别说了》第一期：国家队要不要玩现代篮球？",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "CBA",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/30/77QTDPRFEC9O.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/30/77QTDOK0QB8R.png",
+      "pkInfoTitle": "《球你别说了》第一期：国家队要不要玩现代篮球？",
+      "modifyTitle": "《球你别说了》第一期：国家队要不要玩现代篮球？",
+      "presenters": "",
+      "matchInfo": {},
+      "nodes": []
     }
   ]
 }
