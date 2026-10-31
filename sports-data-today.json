@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-31 21:33:00",
+  "updateTime": "2026-10-31 22:03:15",
   "data": [
     {
       "mgdbId": "120000597568",
@@ -584,7 +584,7 @@
       "title": "中国体育舞蹈公开系列赛北京站Day2",
       "keyword": "10月31日08:25",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "中国体育舞蹈联合会系列赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/30/77QTE4CGST0N.png",
@@ -934,7 +934,7 @@
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000598094/202610270950_990380_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/9/9/100000001537106f6271.png",
       "pkInfoTitle": "沈阳队vs丹东队",
-      "modifyTitle": "辽宁省城市足球联赛",
+      "modifyTitle": "辽宁省城市足��联赛",
       "presenters": "",
       "matchInfo": {
         "time": "10月31日13:55"
@@ -1453,7 +1453,7 @@
       "competitionName": "湘超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000597941/202610261021_718286_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/7/22/100000001316106d1913.png",
-      "pkInfoTitle": "娄底队vs长���队",
+      "pkInfoTitle": "娄底队vs长沙队",
       "modifyTitle": "湘超",
       "presenters": "",
       "matchInfo": {
@@ -1708,16 +1708,16 @@
     },
     {
       "mgdbId": "120000597798",
-      "pID": "968692989",
+      "pID": "968941905",
       "title": "NBA精彩重播：尼克斯 vs 76人",
       "keyword": "10月31日18:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA经典赛事",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/31/77QUAS5C7H93.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png",
-      "pkInfoTitle": "NBA精彩重播：尼���斯 vs 76人",
+      "pkInfoTitle": "NBA精彩重播：尼克斯 vs 76人",
       "modifyTitle": "NBA经典赛事",
       "presenters": "杨健 丁彦雨航 李根",
       "matchInfo": {
@@ -1725,8 +1725,8 @@
       },
       "nodes": [
         {
-          "pID": "968692989",
-          "name": "杨健 丁彦雨航 李根"
+          "pID": "968941905",
+          "name": "全场回放（杨健、丁彦雨航、李根、佳依）"
         }
       ]
     },
@@ -1749,8 +1749,8 @@
       },
       "nodes": [
         {
-          "pID": "968536681",
-          "name": "赛场原声"
+          "pID": "968958714",
+          "name": "全场回放"
         }
       ]
     },
@@ -1822,7 +1822,7 @@
       "nodes": [
         {
           "pID": "968633674",
-          "name": "���冠达 周雨 程靖淇"
+          "name": "周冠达 周雨 程靖淇"
         },
         {
           "pID": "968940283",
@@ -1839,17 +1839,13 @@
         {
           "pID": "968636243",
           "name": "智能字幕"
-        },
-        {
-          "pID": "968633674",
-          "name": "周冠达 周雨 程靖淇"
         }
       ]
     },
     {
       "mgdbId": "120000597664",
-      "pID": "968792741",
-      "title": "赵心童、吴宜泽、特鲁姆普出战",
+      "pID": "968792732",
+      "title": "特鲁姆普出战 赵心童、吴宜泽速胜晋级",
       "keyword": "10月31日19:30",
       "sportItemId": "8",
       "matchStatus": "1",
@@ -1857,36 +1853,16 @@
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/30/77QTFS2ELNSK.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "赵心童、吴宜泽、特鲁姆普出战",
-      "modifyTitle": "斯诺克国际锦标赛64进32：赵心童、吴宜泽、特鲁姆普出战",
-      "presenters": "柏林 朱峰立 杨江浩",
+      "pkInfoTitle": "特鲁姆普出战 赵心童、吴宜泽速胜晋级",
+      "modifyTitle": "斯诺克国际锦标赛64进32：特鲁姆普出战 赵心童、吴宜泽速胜晋级",
+      "presenters": "杨江浩 朱峰立 柏林",
       "matchInfo": {
         "time": "10月31日19:30"
       },
       "nodes": [
         {
-          "pID": "968792741",
-          "name": "柏林"
-        },
-        {
-          "pID": "968792767",
-          "name": "朱峰立"
-        },
-        {
-          "pID": "968825880",
-          "name": "AI智慧分析"
-        },
-        {
           "pID": "968792732",
           "name": "杨江浩"
-        },
-        {
-          "pID": "968658966",
-          "name": "1号桌"
-        },
-        {
-          "pID": "968658992",
-          "name": "2号桌"
         },
         {
           "pID": "968659034",
@@ -1897,32 +1873,52 @@
           "name": "4号桌"
         },
         {
-          "pID": "968659098",
-          "name": "5号桌"
-        },
-        {
           "pID": "968659119",
           "name": "6号桌"
         },
         {
           "pID": "968659145",
           "name": "7号桌"
+        },
+        {
+          "pID": "968792767",
+          "name": "朱峰立"
+        },
+        {
+          "pID": "968792741",
+          "name": "柏林"
+        },
+        {
+          "pID": "968825880",
+          "name": "AI智慧分析"
+        },
+        {
+          "pID": "968658966",
+          "name": "1号桌"
+        },
+        {
+          "pID": "968658992",
+          "name": "2号桌"
+        },
+        {
+          "pID": "968659098",
+          "name": "5号桌"
         }
       ]
     },
     {
       "mgdbId": "120000597936",
       "pID": "968789171",
-      "title": "诸暨VS温州",
+      "title": "诸暨95-92温州",
       "keyword": "10月31日19:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "浙BA",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/02/77N92ACGBBVQ.png",
-      "pkInfoTitle": "诸暨VS温州",
-      "modifyTitle": "诸暨VS温州",
+      "pkInfoTitle": "诸暨95-92温州",
+      "modifyTitle": "诸暨95-92温州",
       "presenters": "",
       "matchInfo": {
         "time": "10月31日19:30"
@@ -1937,16 +1933,16 @@
     {
       "mgdbId": "120000597937",
       "pID": "968789221",
-      "title": "湖州VS义乌",
+      "title": "湖州79-77义乌",
       "keyword": "10月31日19:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "浙BA",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/02/77N92ACGBBVQ.png",
-      "pkInfoTitle": "湖州VS义乌",
-      "modifyTitle": "湖州VS义乌",
+      "pkInfoTitle": "湖州79-77义乌",
+      "modifyTitle": "湖州79-77义乌",
       "presenters": "",
       "matchInfo": {
         "time": "10月31日19:30"
@@ -1984,14 +1980,14 @@
     },
     {
       "mgdbId": "120000594092",
-      "pID": "968857690",
+      "pID": "968956369",
       "title": "CBA常规赛第7轮",
       "keyword": "10月31日19:35",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "国家奥林匹克体育中心体育馆",
       "competitionName": "CBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/29/77QSGEHJEQ5N.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/31/77QUCN3EIBJ8.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png",
       "pkInfoTitle": "北京控股vs新疆广汇能源",
       "modifyTitle": "CBA常规赛第7轮",
@@ -2001,37 +1997,41 @@
       },
       "nodes": [
         {
-          "pID": "968857714",
-          "name": "同播山东vs广东"
+          "pID": "968958528",
+          "name": "全场回放（周赫）"
         },
         {
-          "pID": "968857359",
-          "name": "同播福建vs青岛"
+          "pID": "968958571",
+          "name": "全场精华"
         },
         {
-          "pID": "968857690",
-          "name": "吕程 李根 季孟年"
+          "pID": "968955767",
+          "name": "第一节"
         },
         {
-          "pID": "968857375",
-          "name": "北控主队解说"
+          "pID": "968956241",
+          "name": "第二节"
         },
         {
-          "pID": "968857600",
-          "name": "赛场原声"
+          "pID": "968957170",
+          "name": "第三节"
+        },
+        {
+          "pID": "968958054",
+          "name": "第四节"
         }
       ]
     },
     {
       "mgdbId": "120000594093",
-      "pID": "968857359",
+      "pID": "968958970",
       "title": "CBA常规赛第7轮",
       "keyword": "10月31日19:35",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "晋江祖昌体育馆",
       "competitionName": "CBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/29/77QSGL74PFMB.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/31/77QUCLJURAPC.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png",
       "pkInfoTitle": "福建晋江文旅vs青岛崂山啤酒",
       "modifyTitle": "CBA常规赛第7轮",
@@ -2041,38 +2041,38 @@
       },
       "nodes": [
         {
-          "pID": "968857714",
-          "name": "同播山东vs广东"
+          "pID": "968958970",
+          "name": "全场集锦"
         },
         {
-          "pID": "968857690",
-          "name": "同播北控vs新疆"
+          "pID": "968955845",
+          "name": "第一节"
         },
         {
-          "pID": "968857359",
-          "name": "石楷文"
+          "pID": "968956294",
+          "name": "第二节"
         },
         {
-          "pID": "968857346",
-          "name": "福建主队解说"
+          "pID": "968957607",
+          "name": "第三节"
         },
         {
-          "pID": "968857525",
-          "name": "青岛主队解说"
+          "pID": "968958523",
+          "name": "第四节"
         },
         {
-          "pID": "968857670",
-          "name": "赛场原声"
+          "pID": "968959183",
+          "name": "全场回放（石楷文）"
         }
       ]
     },
     {
       "mgdbId": "120000594094",
-      "pID": "968857714",
+      "pID": "968956297",
       "title": "CBA常规赛第7轮",
       "keyword": "10月31日19:35",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "山东高速篮球馆",
       "competitionName": "CBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/31/77QUCL4RQATJ.png",
@@ -2086,31 +2086,35 @@
       "nodes": [
         {
           "pID": "968956297",
-          "name": "26/27赛季CBA常规赛第7轮半场集锦：山东vs广东"
+          "name": "全场集锦"
         },
         {
-          "pID": "968857714",
-          "name": "连睿 巩晓彬 周鹏"
+          "pID": "968955860",
+          "name": "第一节"
         },
         {
-          "pID": "968857690",
-          "name": "同播北控vs新疆"
+          "pID": "968956306",
+          "name": "第二节"
         },
         {
-          "pID": "968857359",
-          "name": "同播福建vs青岛"
+          "pID": "968957045",
+          "name": "第三节"
         },
         {
-          "pID": "968857521",
-          "name": "山东主队解说"
+          "pID": "968957960",
+          "name": "第四节"
         },
         {
-          "pID": "968857511",
-          "name": "广东主队解说"
+          "pID": "968958703",
+          "name": "全场回放（罗森）"
         },
         {
-          "pID": "968857663",
-          "name": "赛场原声"
+          "pID": "968958838",
+          "name": "全场回放（莫俊祺）"
+        },
+        {
+          "pID": "968958870",
+          "name": "全场回放（连睿、巩晓彬、周鹏、裴优）"
         }
       ]
     },
@@ -2120,7 +2124,7 @@
       "title": "海南省城市足球联赛",
       "keyword": "10月31日19:35",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "琼超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000597973/202610261615_263456_H169_1080.webp",
@@ -2144,7 +2148,7 @@
       "title": "海南省城市足球联赛",
       "keyword": "10月31日19:35",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "琼超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000597974/202610261615_393954_H169_1080.webp",
@@ -2168,7 +2172,7 @@
       "title": "海南省城市足球联赛",
       "keyword": "10月31日19:35",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "琼超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000597975/202610261616_497620_H169_1080.webp",
@@ -2192,7 +2196,7 @@
       "title": "海南省城市足球联赛",
       "keyword": "10月31日19:35",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "琼超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000597976/202610261617_573378_H169_1080.webp",
@@ -2219,7 +2223,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "苏超",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000598097/409100_H169_sc.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/31/77QUCMB7S3R3.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/6/12/100000001282106a4194.png",
       "pkInfoTitle": "无锡队vs常州队",
       "modifyTitle": "苏超第27周决赛",
@@ -2289,12 +2293,12 @@
           "name": "粤语AI字幕"
         },
         {
-          "pID": "968891913",
-          "name": "沪语AI字幕"
-        },
-        {
           "pID": "968916812",
           "name": "智能解说"
+        },
+        {
+          "pID": "968891913",
+          "name": "沪语AI字幕"
         }
       ]
     },
@@ -2377,10 +2381,6 @@
           "name": "李美妙VS杰克斯菲德"
         },
         {
-          "pID": "968943466",
-          "name": "哈尔布VS辛杜"
-        },
-        {
           "pID": "968793480",
           "name": "1号场地"
         },
@@ -2416,7 +2416,7 @@
       "title": "意甲联赛",
       "keyword": "10月31日22:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "达尔阿拉球场",
       "competitionName": "意甲",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000584810/202607231703_324861_H169_1080.webp",
@@ -2443,7 +2443,7 @@
       "pID": "968920490",
       "title": "《球你别说了》苏群解析篮坛热点",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "CBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/31/77QUAL08UET9.jpg",
