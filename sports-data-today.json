@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-31 15:03:04",
+  "updateTime": "2026-10-31 15:32:45",
   "data": [
     {
       "mgdbId": "120000597568",
@@ -715,6 +715,10 @@
         {
           "pID": "968948523",
           "name": "26/27赛季斯诺克南京国锦赛延期资格赛第1轮回放：周跃龙2-6利亚姆·戴维斯（赛场原声）"
+        },
+        {
+          "pID": "968949217",
+          "name": "26/27赛季斯诺克南京国锦赛延期资格赛第1轮回放：周跃龙2-6利亚姆·戴维斯（AI观赛）"
         }
       ]
     },
@@ -775,7 +779,7 @@
       "matchStatus": "2",
       "matchField": "大通中心",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/31/77QUDI4C9JAE.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/31/77QUATMLJKQG.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "湖人VS勇士",
       "modifyTitle": "NBANBA杯",
@@ -834,17 +838,17 @@
         },
         {
           "pID": "968947449",
-          "name": "全场回放"
+          "name": "【回放】费尔南德斯2-0拉克西莫娃（赛场原声）"
         }
       ]
     },
     {
       "mgdbId": "120000598496",
-      "pID": "968931398",
+      "pID": "968931396",
       "title": "WTA东京站女单半决赛：施耐德 vs 波汉科娃",
       "keyword": "10月31日13:20",
       "sportItemId": "9",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/30/77QTF76QKRUU.jpg",
@@ -857,10 +861,6 @@
       },
       "nodes": [
         {
-          "pID": "968931398",
-          "name": "施耐德 vs 波汉科娃"
-        },
-        {
           "pID": "968931396",
           "name": "赛场原声"
         },
@@ -871,6 +871,10 @@
         {
           "pID": "968693866",
           "name": "AI同声传译"
+        },
+        {
+          "pID": "968931398",
+          "name": "施耐德 vs 波汉科娃"
         }
       ]
     },
@@ -1604,7 +1608,7 @@
       "title": "安徽省青少年足球联赛",
       "keyword": "10月31日15:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "徽青赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000597953/202610261033_523896_H169_1080.webp",
@@ -1628,7 +1632,7 @@
       "title": "安徽省青少年足球联赛",
       "keyword": "10月31日15:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "徽青赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000597957/202610261040_768581_H169_1080.webp",
@@ -1703,7 +1707,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "NBA经典赛事",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/31/77QUAS5C7H93.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png",
       "pkInfoTitle": "NBA精彩重播：尼克斯 vs 76人",
       "modifyTitle": "NBA经典赛事",
@@ -1711,7 +1715,12 @@
       "matchInfo": {
         "time": "10月31日18:00"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "968692989",
+          "name": "杨健 丁彦雨航 李根"
+        }
+      ]
     },
     {
       "mgdbId": "120000596720",
@@ -2424,15 +2433,15 @@
     {
       "mgdbId": "300000002523",
       "pID": "968920490",
-      "title": "《球你别说了》第2期",
+      "title": "《球你别说了》苏群解析篮坛热点",
       "sportItemId": "2",
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "CBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/31/77QUAL08UET9.jpg",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/30/77QTDOK0QB8R.png",
-      "pkInfoTitle": "《球你别说了》第2期",
-      "modifyTitle": "《球你别说了》第2期",
+      "pkInfoTitle": "《球你别说了》苏群解析篮坛热点",
+      "modifyTitle": "《球你别说了》苏群解析篮坛热点",
       "presenters": "苏群 邵化谦 季孟年",
       "matchInfo": {},
       "nodes": [
