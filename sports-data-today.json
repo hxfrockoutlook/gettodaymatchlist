@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-01 06:32:39",
+  "updateTime": "2026-11-01 07:02:33",
   "data": [
     {
       "mgdbId": "120000598479",
@@ -317,16 +317,8 @@
       },
       "nodes": [
         {
-          "pID": "968878748",
-          "name": "刘焕"
-        },
-        {
-          "pID": "968879498",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "968879537",
-          "name": "英文原声"
+          "pID": "968976762",
+          "name": "全场集锦"
         }
       ]
     },
@@ -355,6 +347,14 @@
         {
           "pID": "968976592",
           "name": "全场回放（张昊泽、李欣）"
+        },
+        {
+          "pID": "968976637",
+          "name": "全场回放（AI智慧观赛）"
+        },
+        {
+          "pID": "968976820",
+          "name": "全场回放（智能解说）"
         }
       ]
     },
@@ -428,7 +428,7 @@
       "title": "NBA常规赛",
       "keyword": "11月01日07:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "冰沙国王中心",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/31/77QUD7DB35O9.png",
@@ -456,7 +456,7 @@
       "title": "铁人中国T51.5舟山公开赛",
       "keyword": "11月01日07:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "铁人三项系列赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/31/77QUCKIU28GM.png",
@@ -480,7 +480,7 @@
       "title": "2026吉利汽车杭州马拉松",
       "keyword": "11月01日07:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "马拉松系列赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/31/77QUASJDQFKJ.png",
@@ -1879,10 +1879,6 @@
         {
           "pID": "968857655",
           "name": "赛场原声"
-        },
-        {
-          "pID": "968857468",
-          "name": "��海主队解说"
         }
       ]
     },
