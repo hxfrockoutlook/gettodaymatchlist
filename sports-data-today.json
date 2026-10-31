@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-31 07:32:34",
+  "updateTime": "2026-10-31 08:02:37",
   "data": [
     {
       "mgdbId": "120000598470",
@@ -103,14 +103,6 @@
         {
           "pID": "968936469",
           "name": "全场回放（鹿中原、王宇）"
-        },
-        {
-          "pID": "968935413",
-          "name": "全场回放（AI智慧观赛）"
-        },
-        {
-          "pID": "968935760",
-          "name": "全场回放（智能解说）"
         }
       ]
     },
@@ -137,14 +129,6 @@
           "name": "全场集锦"
         },
         {
-          "pID": "968937282",
-          "name": "全场回放（AI智慧观赛）"
-        },
-        {
-          "pID": "968937338",
-          "name": "全场回放"
-        },
-        {
           "pID": "968937448",
           "name": "全场回放（李霄）"
         }
@@ -169,20 +153,12 @@
       },
       "nodes": [
         {
-          "pID": "968937656",
-          "name": "全场回放（洪宇青）"
-        },
-        {
-          "pID": "968937823",
-          "name": "全场回放"
-        },
-        {
-          "pID": "968937858",
-          "name": "全场回放"
-        },
-        {
           "pID": "968937589",
           "name": "全场集锦"
+        },
+        {
+          "pID": "968937656",
+          "name": "全场回放（洪宇青）"
         }
       ]
     },
@@ -388,7 +364,7 @@
       "title": "NBANBA杯",
       "keyword": "10月31日08:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "標靶中心",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/30/77QTD93OB6F7.jpg",
@@ -416,7 +392,7 @@
       "title": "NBANBA杯",
       "keyword": "10月31日08:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "卡西亚中心",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/30/77QTD96B4UQ1.jpg",
@@ -479,7 +455,7 @@
       "pID": "968047998",
       "title": "咪咕体育日报 第227期",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "咪咕体育日报",
       "padImg": "",
@@ -772,7 +748,7 @@
     },
     {
       "mgdbId": "120000597694",
-      "pID": "968661139",
+      "pID": "968931384",
       "title": "WTA500东京站女单半决赛：费尔南德斯 vs 拉克西莫娃",
       "keyword": "10月31日11:00",
       "sportItemId": "9",
@@ -789,8 +765,12 @@
       },
       "nodes": [
         {
-          "pID": "968661139",
-          "name": "赛场原声"
+          "pID": "968931384",
+          "name": "费尔南德斯 vs 拉克西莫娃"
+        },
+        {
+          "pID": "968931382",
+          "name": "赛场原声（新 对抗）"
         },
         {
           "pID": "968661171",
@@ -799,16 +779,12 @@
         {
           "pID": "968693866",
           "name": "AI同声传译"
-        },
-        {
-          "pID": "968931384",
-          "name": "鸿昆"
         }
       ]
     },
     {
       "mgdbId": "120000598496",
-      "pID": "968931396",
+      "pID": "968931398",
       "title": "WTA东京站女单半决赛：施耐德 vs 波汉科娃",
       "keyword": "10月31日12:30",
       "sportItemId": "9",
@@ -825,12 +801,12 @@
       },
       "nodes": [
         {
-          "pID": "968931396",
-          "name": "赛场原声"
+          "pID": "968931398",
+          "name": "施耐德 vs 波汉科娃"
         },
         {
-          "pID": "968931398",
-          "name": "乔迁"
+          "pID": "968931396",
+          "name": "赛场原声"
         }
       ]
     },
@@ -2074,7 +2050,7 @@
       "sportItemId": "1",
       "matchStatus": "0",
       "matchField": "斯坦福桥球场",
-      "competitionName": "英��",
+      "competitionName": "英超",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000584199/736448_H169_sc.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png",
       "pkInfoTitle": "切尔西 vs 曼联",
