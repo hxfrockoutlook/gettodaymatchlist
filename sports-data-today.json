@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-01 02:32:31",
+  "updateTime": "2026-11-01 03:03:58",
   "data": [
     {
       "mgdbId": "120000598479",
@@ -35,7 +35,7 @@
       "matchStatus": "1",
       "matchField": "弗留利球场",
       "competitionName": "意甲",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000584802/112400_H169_sc.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000584802/163259_H169_sc.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png",
       "pkInfoTitle": "乌迪内斯 vs 罗马",
       "modifyTitle": "意甲联赛",
@@ -144,7 +144,7 @@
       "title": "西甲联赛",
       "keyword": "11月01日01:30",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "塞维利亚奥林匹克球场",
       "competitionName": "西甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000586139/413268_H169_sc.jpg",
@@ -216,7 +216,7 @@
       "title": "NBA常规赛",
       "keyword": "11月01日03:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "达美中心球馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/31/77QUD70NQUTG.png",
@@ -1243,16 +1243,7 @@
       "matchInfo": {
         "time": "11月01日14:30"
       },
-      "nodes": [
-        {
-          "pID": "968940158",
-          "name": "解说"
-        },
-        {
-          "pID": "968940183",
-          "name": "赛场原声"
-        }
-      ]
+      "nodes": []
     },
     {
       "mgdbId": "120000595022",
@@ -1601,7 +1592,7 @@
       "competitionName": "亚冠女足",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/27/77QQMI3BJ3K2.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/9/1000000013211060eb7f.png",
-      "pkInfoTitle": "北京京坛 vs 卡雅",
+      "pkInfoTitle": "北京京坛 vs ���雅",
       "modifyTitle": "亚冠女足小组赛",
       "presenters": "林梦鸽",
       "matchInfo": {
@@ -2163,6 +2154,10 @@
         {
           "pID": "968790990",
           "name": "清流原声"
+        },
+        {
+          "pID": "968791012",
+          "name": "���文解说原声"
         },
         {
           "pID": "968791012",
