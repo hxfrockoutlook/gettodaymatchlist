@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-31 09:32:34",
+  "updateTime": "2026-10-31 10:02:40",
   "data": [
     {
       "mgdbId": "120000597568",
@@ -23,6 +23,14 @@
         {
           "pID": "968936878",
           "name": "全场回放（张靖松）"
+        },
+        {
+          "pID": "968938024",
+          "name": "全场回放"
+        },
+        {
+          "pID": "968937497",
+          "name": "全场回放（英文解说智能字幕）"
         }
       ]
     },
@@ -192,14 +200,14 @@
     },
     {
       "mgdbId": "120000590137",
-      "pID": "968750660",
+      "pID": "968939766",
       "title": "NBANBA杯",
       "keyword": "10月31日07:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "第一资本体育馆",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/30/77QTD9JVRSMN.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/31/77QUCLT15MBA.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "黄蜂VS奇才",
       "modifyTitle": "NBANBA杯",
@@ -209,25 +217,33 @@
       },
       "nodes": [
         {
-          "pID": "968750660",
-          "name": "董倡硕"
+          "pID": "968938207",
+          "name": "第一节"
         },
         {
-          "pID": "968750693",
-          "name": "英文原声"
+          "pID": "968938700",
+          "name": "第二节"
+        },
+        {
+          "pID": "968939611",
+          "name": "第三节"
+        },
+        {
+          "pID": "968940225",
+          "name": "第四节"
         }
       ]
     },
     {
       "mgdbId": "120000590138",
-      "pID": "968746897",
+      "pID": "968940085",
       "title": "NBANBA杯",
       "keyword": "10月31日07:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "巴克莱中心",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/30/77QTDA19F0BC.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/31/77QUCO4659UP.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "活塞VS篮网",
       "modifyTitle": "NBANBA杯",
@@ -237,12 +253,16 @@
       },
       "nodes": [
         {
-          "pID": "968746897",
-          "name": "刘沛元"
+          "pID": "968938698",
+          "name": "第一节"
         },
         {
-          "pID": "968746904",
-          "name": "英文原声"
+          "pID": "968939237",
+          "name": "第二节"
+        },
+        {
+          "pID": "968940248",
+          "name": "第三节"
         }
       ]
     },
@@ -568,7 +588,7 @@
     },
     {
       "mgdbId": "120000597662",
-      "pID": "968792817",
+      "pID": "968792810",
       "title": "周跃龙出战 塞尔比PK怀特",
       "keyword": "10月31日09:30",
       "sportItemId": "8",
@@ -579,7 +599,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "周跃龙出战 塞尔比PK怀特",
       "modifyTitle": "斯诺克国际锦标赛延期资格赛/第一轮：周跃龙出战 塞尔比PK怀特",
-      "presenters": "卢正浩 陶哲铭",
+      "presenters": "陶哲铭 卢正浩",
       "matchInfo": {
         "time": "10月31日09:30"
       },
@@ -628,7 +648,7 @@
       "title": "NBANBA杯",
       "keyword": "10月31日10:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "凤凰城竞技场",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/30/77QTD99NCHO4.jpg",
@@ -1076,6 +1096,7 @@
     },
     {
       "mgdbId": "120000592496",
+      "pID": "968940135",
       "title": "中乙保级赛",
       "keyword": "10月31日14:30",
       "sportItemId": "1",
@@ -1090,10 +1111,20 @@
       "matchInfo": {
         "time": "10月31日14:30"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "968940135",
+          "name": "解说"
+        },
+        {
+          "pID": "968940145",
+          "name": "赛场原声"
+        }
+      ]
     },
     {
       "mgdbId": "120000592497",
+      "pID": "968940109",
       "title": "中乙保级赛",
       "keyword": "10月31日14:30",
       "sportItemId": "1",
@@ -1108,10 +1139,20 @@
       "matchInfo": {
         "time": "10月31日14:30"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "968940109",
+          "name": "解说"
+        },
+        {
+          "pID": "968940113",
+          "name": "赛场原声"
+        }
+      ]
     },
     {
       "mgdbId": "120000592498",
+      "pID": "968940056",
       "title": "中乙保级赛",
       "keyword": "10月31日14:30",
       "sportItemId": "1",
@@ -1126,10 +1167,20 @@
       "matchInfo": {
         "time": "10月31日14:30"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "968940056",
+          "name": "解说"
+        },
+        {
+          "pID": "968940092",
+          "name": "赛场原声"
+        }
+      ]
     },
     {
       "mgdbId": "120000592499",
+      "pID": "968940039",
       "title": "中乙保级赛",
       "keyword": "10月31日14:30",
       "sportItemId": "1",
@@ -1144,10 +1195,20 @@
       "matchInfo": {
         "time": "10月31日14:30"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "968940039",
+          "name": "解说"
+        },
+        {
+          "pID": "968940047",
+          "name": "赛场原声"
+        }
+      ]
     },
     {
       "mgdbId": "120000592500",
+      "pID": "968939980",
       "title": "中乙保级赛",
       "keyword": "10月31日14:30",
       "sportItemId": "1",
@@ -1162,10 +1223,20 @@
       "matchInfo": {
         "time": "10月31日14:30"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "968939980",
+          "name": "解说"
+        },
+        {
+          "pID": "968940005",
+          "name": "赛场原声"
+        }
+      ]
     },
     {
       "mgdbId": "120000592501",
+      "pID": "968939933",
       "title": "中乙保级赛",
       "keyword": "10月31日14:30",
       "sportItemId": "1",
@@ -1180,7 +1251,16 @@
       "matchInfo": {
         "time": "10月31日14:30"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "968939933",
+          "name": "解说"
+        },
+        {
+          "pID": "968939952",
+          "name": "赛场原声"
+        }
+      ]
     },
     {
       "mgdbId": "120000592502",
@@ -1643,6 +1723,10 @@
         {
           "pID": "968633674",
           "name": "周冠达 周雨 程靖淇"
+        },
+        {
+          "pID": "968940283",
+          "name": "CCTV5"
         },
         {
           "pID": "968632999",
