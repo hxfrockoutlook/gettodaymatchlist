@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-01 03:03:58",
+  "updateTime": "2026-11-01 03:32:24",
   "data": [
     {
       "mgdbId": "120000598479",
@@ -32,7 +32,7 @@
       "title": "意甲联赛",
       "keyword": "11月01日01:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "弗留利球场",
       "competitionName": "意甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000584802/163259_H169_sc.jpg",
@@ -45,27 +45,27 @@
       },
       "nodes": [
         {
-          "pID": "968882014",
-          "name": "涂远 李彦"
+          "pID": "968972361",
+          "name": "全场集锦"
         },
         {
-          "pID": "968881973",
-          "name": "赛场原声"
+          "pID": "968972607",
+          "name": "全场回放（涂远、李彦）"
         }
       ]
     },
     {
       "mgdbId": "120000597570",
       "pID": "968633553",
-      "title": "林诗栋对决小莫 蒯曼4-2闯进四强",
+      "title": "林诗栋止步8强 蒯曼4-2闯进四强",
       "keyword": "11月01日01:00",
       "sportItemId": "7",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/01/77STVQ5T0U4D.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/01/77SU047NAG36.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "林诗栋对决小莫 蒯曼4-2闯进四强",
+      "pkInfoTitle": "林诗栋止步8强 蒯曼4-2闯进四强",
       "modifyTitle": "WTT蒙彼利埃冠军赛男女单打1/4决赛",
       "presenters": "张靖松",
       "matchInfo": {
@@ -99,7 +99,7 @@
       "matchStatus": "1",
       "matchField": "托特纳姆热刺球场",
       "competitionName": "英超",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000584193/972702_H169_sc.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000584193/736758_H169_sc.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png",
       "pkInfoTitle": "托特纳姆热刺 vs 水晶宫",
       "modifyTitle": "英超联赛",
@@ -144,7 +144,7 @@
       "title": "西甲联赛",
       "keyword": "11月01日01:30",
       "sportItemId": "1",
-      "matchStatus": "2",
+      "matchStatus": "1",
       "matchField": "塞维利亚奥林匹克球场",
       "competitionName": "西甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000586139/413268_H169_sc.jpg",
@@ -167,6 +167,10 @@
         {
           "pID": "968955148",
           "name": "赛场原声"
+        },
+        {
+          "pID": "968876674",
+          "name": "赛场���声"
         }
       ]
     },
@@ -244,7 +248,7 @@
       "title": "意甲联赛",
       "keyword": "11月01日03:45",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "梅阿查/圣西罗球场",
       "competitionName": "意甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000584804/346245_H169_sc.jpg",
@@ -284,7 +288,7 @@
       "title": "法甲联赛",
       "keyword": "11月01日03:45",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "劳布体育场",
       "competitionName": "法甲",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000585117/202607241225_507554_H169_1080.webp",
@@ -344,7 +348,7 @@
       "title": "西甲联赛",
       "keyword": "11月01日04:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "诺坎普球场",
       "competitionName": "西甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/29/77QSGF7OBQP6.webp",
@@ -1243,7 +1247,16 @@
       "matchInfo": {
         "time": "11月01日14:30"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "968940158",
+          "name": "解说"
+        },
+        {
+          "pID": "968940183",
+          "name": "赛场原声"
+        }
+      ]
     },
     {
       "mgdbId": "120000595022",
@@ -1592,7 +1605,7 @@
       "competitionName": "亚冠女足",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/27/77QQMI3BJ3K2.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/9/1000000013211060eb7f.png",
-      "pkInfoTitle": "北京京坛 vs ���雅",
+      "pkInfoTitle": "北京京坛 vs 卡雅",
       "modifyTitle": "亚冠女足小组赛",
       "presenters": "林梦鸽",
       "matchInfo": {
@@ -1886,6 +1899,10 @@
         {
           "pID": "968857655",
           "name": "赛场原声"
+        },
+        {
+          "pID": "968857468",
+          "name": "上��主队解说"
         }
       ]
     },
@@ -2154,10 +2171,6 @@
         {
           "pID": "968790990",
           "name": "清流原声"
-        },
-        {
-          "pID": "968791012",
-          "name": "���文解说原声"
         },
         {
           "pID": "968791012",
