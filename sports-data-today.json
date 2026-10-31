@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-01 06:02:38",
+  "updateTime": "2026-11-01 06:32:39",
   "data": [
     {
       "mgdbId": "120000598479",
@@ -192,7 +192,7 @@
     },
     {
       "mgdbId": "120000588319",
-      "pID": "968975394",
+      "pID": "968975896",
       "title": "NBA常规赛",
       "keyword": "11月01日03:00",
       "sportItemId": "2",
@@ -209,6 +209,14 @@
       },
       "nodes": [
         {
+          "pID": "968975896",
+          "name": "全场集锦"
+        },
+        {
+          "pID": "968975716",
+          "name": "全场回放（邢晨）"
+        },
+        {
           "pID": "968973200",
           "name": "第一节"
         },
@@ -223,10 +231,6 @@
         {
           "pID": "968975524",
           "name": "第四节"
-        },
-        {
-          "pID": "968975716",
-          "name": "全场回放（邢晨）"
         }
       ]
     },
@@ -249,24 +253,24 @@
       },
       "nodes": [
         {
-          "pID": "968881965",
-          "name": "石庆圣 李彦 孙蕊"
+          "pID": "968976091",
+          "name": "全场集锦"
         },
         {
-          "pID": "968881923",
-          "name": "刘腾 贺宇"
+          "pID": "968976247",
+          "name": "全场回放（石庆圣、李彦、孙蕊）"
         },
         {
-          "pID": "968881854",
-          "name": "赛场原声"
+          "pID": "968976251",
+          "name": "全场回放（刘腾、贺宇）"
         },
         {
-          "pID": "968891697",
-          "name": "AI字幕"
+          "pID": "968976283",
+          "name": "全场回放（AI智慧观赛）"
         },
         {
-          "pID": "968917197",
-          "name": "智能解说"
+          "pID": "968976306",
+          "name": "全场回放（智能解说）"
         }
       ]
     },
@@ -279,7 +283,7 @@
       "matchStatus": "2",
       "matchField": "劳布体育场",
       "competitionName": "法甲",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000585117/202611010520_891525_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000585117/202611010615_204222_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/1/9106077d9.png",
       "pkInfoTitle": "特鲁瓦 vs 勒芒",
       "modifyTitle": "法甲联赛",
@@ -289,12 +293,8 @@
       },
       "nodes": [
         {
-          "pID": "968877381",
-          "name": "邵煊"
-        },
-        {
-          "pID": "968877412",
-          "name": "赛场原声"
+          "pID": "968976491",
+          "name": "全场回放（邵煊）"
         }
       ]
     },
@@ -304,10 +304,10 @@
       "title": "英超联赛",
       "keyword": "11月01日04:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "维拉公园球场",
       "competitionName": "英超",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000584201/661153_H169_sc.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000584201/506085_H169_sc.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png",
       "pkInfoTitle": "阿斯顿维拉 vs 富勒姆",
       "modifyTitle": "英超联赛",
@@ -336,7 +336,7 @@
       "title": "西甲联赛",
       "keyword": "11月01日04:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "诺坎普球场",
       "competitionName": "西甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000586137/431070_H169_sc.jpg",
@@ -349,24 +349,12 @@
       },
       "nodes": [
         {
-          "pID": "968876740",
-          "name": "张昊泽 李欣"
+          "pID": "968976356",
+          "name": "全场集锦"
         },
         {
-          "pID": "968876728",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "968891719",
-          "name": "AI字幕"
-        },
-        {
-          "pID": "968916482",
-          "name": "智能解说"
-        },
-        {
-          "pID": "968955216",
-          "name": "赛场原声"
+          "pID": "968976592",
+          "name": "全场回放（张昊泽、李欣）"
         }
       ]
     },
