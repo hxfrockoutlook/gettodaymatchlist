@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-31 19:02:52",
+  "updateTime": "2026-10-31 19:32:47",
   "data": [
     {
       "mgdbId": "120000597568",
@@ -674,7 +674,11 @@
       "nodes": [
         {
           "pID": "968951601",
-          "name": "2026跑酷世界杯北京��Day2全场回放（官方解说）（一）"
+          "name": "2026跑酷世界杯北京站Day2全场回放（官方解说）（一）"
+        },
+        {
+          "pID": "968955145",
+          "name": "2026跑酷世界杯北京站Day2全场回放（官方解说）（二）"
         }
       ]
     },
@@ -930,7 +934,7 @@
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000598094/202610270950_990380_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/9/9/100000001537106f6271.png",
       "pkInfoTitle": "沈阳队vs丹东队",
-      "modifyTitle": "辽宁省城市足球��赛",
+      "modifyTitle": "辽宁省城市足球联赛",
       "presenters": "",
       "matchInfo": {
         "time": "10月31日13:55"
@@ -975,6 +979,10 @@
         {
           "pID": "968954469",
           "name": "26/27赛季斯诺克南京国锦赛延期资格赛第1轮回放：尼尔·罗伯逊6-1江俊（AI观赛）"
+        },
+        {
+          "pID": "968955037",
+          "name": "26/27赛季斯诺克南京国锦赛延期资格赛第1轮回放：丁俊晖6-4萨希尔·纳亚尔（秦正）"
         }
       ]
     },
@@ -1541,8 +1549,8 @@
       },
       "nodes": [
         {
-          "pID": "968790289",
-          "name": "赛场原声"
+          "pID": "968954843",
+          "name": "全场回放"
         }
       ]
     },
@@ -1589,8 +1597,8 @@
       },
       "nodes": [
         {
-          "pID": "968790331",
-          "name": "赛场原声"
+          "pID": "968954910",
+          "name": "全场回放"
         }
       ]
     },
@@ -1687,30 +1695,6 @@
         {
           "pID": "968802055",
           "name": "杭州"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000598478",
-      "pID": "968912985",
-      "title": "国际自盟场地自行车世锦赛-1",
-      "keyword": "10月31日17:59",
-      "sportItemId": "8",
-      "matchStatus": "2",
-      "matchField": "",
-      "competitionName": "国际自盟场地自行车世锦赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/30/77QTEB5C06IU.png",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/10/29/10000000157210695b94.png",
-      "pkInfoTitle": "国际自盟场地自行车世锦赛-1",
-      "modifyTitle": "国际自盟场地自行车世锦赛-1",
-      "presenters": "",
-      "matchInfo": {
-        "time": "10月31日17:59"
-      },
-      "nodes": [
-        {
-          "pID": "968912985",
-          "name": "解说"
         }
       ]
     },
@@ -1819,7 +1803,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/31/77QUB7D435Q9.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/31/77QUC0BGM7P8.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "孙颖莎冲半决赛 陈幸同PK王艺迪",
       "modifyTitle": "WTT蒙彼利埃冠军赛男女单打1/4决赛",
@@ -1830,7 +1814,7 @@
       "nodes": [
         {
           "pID": "968633674",
-          "name": "周冠��� 周雨 程靖淇"
+          "name": "��冠达 周雨 程靖淇"
         },
         {
           "pID": "968940283",
@@ -1856,7 +1840,7 @@
       "title": "赵心童、吴宜泽、小特出战",
       "keyword": "10月31日19:30",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/30/77QTFS2ELNSK.jpg",
@@ -1920,7 +1904,7 @@
       "title": "诸暨VS温州",
       "keyword": "10月31日19:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "浙BA",
       "padImg": "",
@@ -1944,7 +1928,7 @@
       "title": "湖州VS义乌",
       "keyword": "10月31日19:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "浙BA",
       "padImg": "",
@@ -1968,7 +1952,7 @@
       "title": "安徽省青少年足球联赛",
       "keyword": "10月31日19:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "徽青赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000597955/202610261035_505800_H169_1080.webp",
@@ -2021,10 +2005,6 @@
           "name": "北控主队解说"
         },
         {
-          "pID": "968857361",
-          "name": "新疆主队解说"
-        },
-        {
           "pID": "968857600",
           "name": "赛场原声"
         }
@@ -2036,7 +2016,7 @@
       "title": "CBA常规赛第7轮",
       "keyword": "10月31日19:35",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "晋江祖昌体育馆",
       "competitionName": "CBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/29/77QSGL74PFMB.jpg",
@@ -2810,6 +2790,25 @@
           "name": "赛场原声"
         }
       ]
+    },
+    {
+      "mgdbId": "120000598478",
+      "pID": "120000598478",
+      "title": "国际自盟场地自行车世锦赛-1",
+      "keyword": "10月31日17:59",
+      "sportItemId": "",
+      "matchStatus": "2",
+      "matchField": "",
+      "competitionName": "国际自盟场地自行车世锦赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/30/77QTEB5C06IU.png",
+      "competitionLogo": "",
+      "pkInfoTitle": "国际自盟场地自行车世锦赛-1",
+      "modifyTitle": "国际自盟场地自行车世锦赛-1",
+      "presenters": "",
+      "matchInfo": {
+        "time": "10月31日17:59"
+      },
+      "nodes": []
     }
   ]
 }
