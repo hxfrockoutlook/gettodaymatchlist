@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-31 11:02:47",
+  "updateTime": "2026-10-31 11:32:45",
   "data": [
     {
       "mgdbId": "120000597568",
@@ -175,30 +175,6 @@
       ]
     },
     {
-      "mgdbId": "120000598375",
-      "pID": "968891042",
-      "title": "第九届四姑娘山登山大会",
-      "keyword": "10月31日04:30",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "四姑娘山登山大会",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/30/77QTE3HKTU7T.png",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/10/29/10000000157310679c60.png",
-      "pkInfoTitle": "第九届四姑娘山登山大会",
-      "modifyTitle": "第九届四姑娘山登山大会",
-      "presenters": "",
-      "matchInfo": {
-        "time": "10月31日04:30"
-      },
-      "nodes": [
-        {
-          "pID": "968891042",
-          "name": "解说"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000590137",
       "pID": "968940844",
       "title": "NBANBA杯",
@@ -223,6 +199,10 @@
         {
           "pID": "968941321",
           "name": "全场回放（董倡硕）"
+        },
+        {
+          "pID": "968942490",
+          "name": "全场回放（英文原声）"
         },
         {
           "pID": "968938207",
@@ -414,13 +394,13 @@
         },
         {
           "pID": "968941050",
-          "name": "���四节"
+          "name": "第四节"
         }
       ]
     },
     {
       "mgdbId": "120000590142",
-      "pID": "968940028",
+      "pID": "968942807",
       "title": "NBANBA杯",
       "keyword": "10月31日08:00",
       "sportItemId": "2",
@@ -436,6 +416,10 @@
         "time": "10月31日08:00"
       },
       "nodes": [
+        {
+          "pID": "968942807",
+          "name": "全场集锦"
+        },
         {
           "pID": "968941896",
           "name": "全场回放（徐秦威）"
@@ -460,7 +444,7 @@
     },
     {
       "mgdbId": "120000590143",
-      "pID": "968941403",
+      "pID": "968942128",
       "title": "NBANBA杯",
       "keyword": "10月31日08:00",
       "sportItemId": "2",
@@ -476,6 +460,14 @@
         "time": "10月31日08:00"
       },
       "nodes": [
+        {
+          "pID": "968942128",
+          "name": "全场集锦"
+        },
+        {
+          "pID": "968942211",
+          "name": "全场回放（罗森）"
+        },
         {
           "pID": "968939212",
           "name": "第一节"
@@ -496,11 +488,11 @@
     },
     {
       "mgdbId": "120000590144",
-      "pID": "968747611",
+      "pID": "968942775",
       "title": "NBANBA杯",
       "keyword": "10月31日08:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "美国航线中心体育馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/31/77QUD0H7SU83.jpg",
@@ -513,20 +505,24 @@
       },
       "nodes": [
         {
-          "pID": "968941640",
-          "name": "绝对的未来门面！弗拉格关键时刻挑大梁进球"
+          "pID": "968942775",
+          "name": "全场集锦"
         },
         {
-          "pID": "968747611",
-          "name": "孙博 巩晓彬 周鹏"
+          "pID": "968939030",
+          "name": "第一节"
         },
         {
-          "pID": "968747641",
-          "name": "英文原声"
+          "pID": "968939614",
+          "name": "第二节"
         },
         {
-          "pID": "968787494",
-          "name": "智能字幕"
+          "pID": "968940829",
+          "name": "第三节"
+        },
+        {
+          "pID": "968942110",
+          "name": "第四节"
         }
       ]
     },
