@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-01 07:02:33",
+  "updateTime": "2026-11-01 07:32:37",
   "data": [
     {
       "mgdbId": "120000598479",
@@ -319,6 +319,10 @@
         {
           "pID": "968976762",
           "name": "全场集锦"
+        },
+        {
+          "pID": "968976937",
+          "name": "全场回放"
         }
       ]
     },
@@ -504,7 +508,7 @@
       "title": "2026常州西太湖半程马拉松",
       "keyword": "11月01日07:30",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "马拉松系列赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/31/77QUASGKRT6I.png",
@@ -528,7 +532,7 @@
       "title": "2026重庆（长嘉汇）半程马拉松",
       "keyword": "11月01日07:30",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "逐马计划",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/31/77QUAST5JLHB.jpg",
@@ -552,7 +556,7 @@
       "title": "NBA常规赛",
       "keyword": "11月01日08:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "费哲论坛球馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/31/77QUD7GAJGVH.png",
@@ -608,7 +612,7 @@
       "title": "NBA常规赛",
       "keyword": "11月01日08:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "冰霜银行中心",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/31/77QUD8QACJJV.jpg",
@@ -860,7 +864,7 @@
     },
     {
       "mgdbId": "120000597665",
-      "pID": "968659670",
+      "pID": "968792693",
       "title": "希金斯、常冰玉出战 宾汉姆PK傅家俊",
       "keyword": "11月01日09:30",
       "sportItemId": "8",
@@ -919,10 +923,6 @@
         {
           "pID": "968659908",
           "name": "7号桌"
-        },
-        {
-          "pID": "968659914",
-          "name": "8号桌"
         }
       ]
     },
@@ -1115,14 +1115,6 @@
         {
           "pID": "968659137",
           "name": "6号桌"
-        },
-        {
-          "pID": "968659181",
-          "name": "7号桌"
-        },
-        {
-          "pID": "968659219",
-          "name": "8号桌"
         }
       ]
     },
@@ -1636,7 +1628,7 @@
     },
     {
       "mgdbId": "120000597667",
-      "pID": "968792569",
+      "pID": "968792599",
       "title": "赵心童、吴宜泽出战 龙泽煌PK韦克林",
       "keyword": "11月01日19:30",
       "sportItemId": "8",
@@ -1647,18 +1639,18 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "赵心童、吴宜泽出战 龙泽煌PK韦克林",
       "modifyTitle": "斯诺克国际锦标赛64进32轮次：赵心童、吴宜泽出战 龙泽煌PK韦克林",
-      "presenters": "朱峰立 柏林",
+      "presenters": "柏林 朱峰立",
       "matchInfo": {
         "time": "11月01日19:30"
       },
       "nodes": [
         {
-          "pID": "968792569",
-          "name": "朱峰立"
-        },
-        {
           "pID": "968792599",
           "name": "柏林"
+        },
+        {
+          "pID": "968792569",
+          "name": "朱峰立"
         },
         {
           "pID": "968659332",
@@ -1691,10 +1683,6 @@
         {
           "pID": "968659617",
           "name": "7号桌"
-        },
-        {
-          "pID": "968659658",
-          "name": "8号桌"
         }
       ]
     },
@@ -2474,7 +2462,7 @@
       "competitionName": "英女超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000592128/202609020935_786584_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/18/100000001333106f7427.jpg",
-      "pkInfoTitle": "查尔顿 vs 切尔西",
+      "pkInfoTitle": "查尔顿 vs 切���西",
       "modifyTitle": "英女超联赛",
       "presenters": "胡小凡",
       "matchInfo": {
