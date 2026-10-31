@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-10-31 13:03:03",
+  "updateTime": "2026-10-31 13:32:42",
   "data": [
     {
       "mgdbId": "120000597568",
@@ -537,6 +537,10 @@
           "name": "全场回放（孙博、巩晓彬、周鹏、裴优）"
         },
         {
+          "pID": "968943975",
+          "name": "全场回放（英文原声）"
+        },
+        {
           "pID": "968939030",
           "name": "第一节"
         },
@@ -672,8 +676,8 @@
     },
     {
       "mgdbId": "120000597662",
-      "pID": "968792810",
-      "title": "周跃龙出战 塞尔比6-2怀特",
+      "pID": "968660947",
+      "title": "周跃龙出局 塞尔比6-2怀特",
       "keyword": "10月31日09:30",
       "sportItemId": "8",
       "matchStatus": "1",
@@ -681,25 +685,13 @@
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/29/77QSJ0HIEUV5.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "周跃龙出战 塞尔比6-2怀特",
-      "modifyTitle": "斯诺克国际锦标赛延期资格赛/第一轮：周跃龙出战 塞尔比6-2怀特",
+      "pkInfoTitle": "周跃龙出局 塞尔比6-2怀特",
+      "modifyTitle": "斯诺克国际锦标赛延期资格赛/第一轮：周跃龙出局 塞尔比6-2怀特",
       "presenters": "陶哲铭 卢正浩",
       "matchInfo": {
         "time": "10月31日09:30"
       },
       "nodes": [
-        {
-          "pID": "968792810",
-          "name": "陶哲铭"
-        },
-        {
-          "pID": "968660854",
-          "name": "1号桌"
-        },
-        {
-          "pID": "968825723",
-          "name": "AI智慧分析"
-        },
         {
           "pID": "968660947",
           "name": "4号桌"
@@ -709,8 +701,20 @@
           "name": "6号桌"
         },
         {
+          "pID": "968792810",
+          "name": "陶哲铭"
+        },
+        {
           "pID": "968792817",
           "name": "卢正浩"
+        },
+        {
+          "pID": "968660854",
+          "name": "1号桌"
+        },
+        {
+          "pID": "968825723",
+          "name": "AI智慧分析"
         },
         {
           "pID": "968660881",
@@ -745,6 +749,10 @@
       },
       "nodes": [
         {
+          "pID": "968944445",
+          "name": "全场回放（邵化谦、盛哲）"
+        },
+        {
           "pID": "968941823",
           "name": "第一节"
         },
@@ -764,11 +772,11 @@
     },
     {
       "mgdbId": "120000590146",
-      "pID": "968749173",
+      "pID": "968943715",
       "title": "NBANBA杯",
       "keyword": "10月31日10:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "大通中心",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/31/77QUDI4C9JAE.jpg",
@@ -781,42 +789,30 @@
       },
       "nodes": [
         {
-          "pID": "968749173",
-          "name": "王冠证 陈正昊 徐咏"
+          "pID": "968942069",
+          "name": "第一节"
         },
         {
-          "pID": "968749441",
-          "name": "掘金vs太阳"
+          "pID": "968942941",
+          "name": "第二节"
         },
         {
-          "pID": "968749282",
-          "name": "拜月宁"
+          "pID": "968943882",
+          "name": "第三节"
         },
         {
-          "pID": "968749328",
-          "name": "莫俊祺"
-        },
-        {
-          "pID": "968749342",
-          "name": "洪荒"
-        },
-        {
-          "pID": "968749374",
-          "name": "英文原声"
-        },
-        {
-          "pID": "968787459",
-          "name": "智能字幕"
+          "pID": "968945308",
+          "name": "第四节"
         }
       ]
     },
     {
       "mgdbId": "120000597694",
-      "pID": "968931384",
+      "pID": "968931382",
       "title": "WTA500东京站女单半决赛：费尔南德斯 vs 拉克西莫娃",
       "keyword": "10月31日11:00",
       "sportItemId": "9",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/30/77QTF116D8T2.jpg",
@@ -829,20 +825,8 @@
       },
       "nodes": [
         {
-          "pID": "968931384",
-          "name": "费尔南德斯 vs 拉克西莫娃"
-        },
-        {
-          "pID": "968931382",
-          "name": "赛场原声（新 对抗）"
-        },
-        {
-          "pID": "968661171",
-          "name": "英文原声"
-        },
-        {
-          "pID": "968693866",
-          "name": "AI同声传译"
+          "pID": "968945260",
+          "name": "【回访】费尔南德斯2-0拉克西莫娃（鸿昆）"
         }
       ]
     },
@@ -850,9 +834,9 @@
       "mgdbId": "120000598496",
       "pID": "968931398",
       "title": "WTA东京站女单半决赛：施耐德 vs 波汉科娃",
-      "keyword": "10月31日13:30",
+      "keyword": "10月31日13:07",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/30/77QTF76QKRUU.jpg",
@@ -861,7 +845,7 @@
       "modifyTitle": "WTA东京站女单半决赛：施耐德 vs 波汉科娃",
       "presenters": "乔迁",
       "matchInfo": {
-        "time": "10月31日13:30"
+        "time": "10月31日13:07"
       },
       "nodes": [
         {
@@ -1182,34 +1166,6 @@
         },
         {
           "pID": "968847098",
-          "name": "赛场原声"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000592496",
-      "pID": "968940135",
-      "title": "中乙保级赛",
-      "keyword": "10月31日14:30",
-      "sportItemId": "1",
-      "matchStatus": "0",
-      "matchField": "赣州市全民健身中心体育场",
-      "competitionName": "中乙",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000592496/202609050331_864225_H169_1080.webp",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/7/7/1000000011571060f297.png",
-      "pkInfoTitle": "赣州瑞狮 vs 泰安天贶",
-      "modifyTitle": "中乙保级赛",
-      "presenters": "",
-      "matchInfo": {
-        "time": "10月31日14:30"
-      },
-      "nodes": [
-        {
-          "pID": "968940135",
-          "name": "解说"
-        },
-        {
-          "pID": "968940145",
           "name": "赛场原声"
         }
       ]
