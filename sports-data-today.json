@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-01 04:32:33",
+  "updateTime": "2026-11-01 05:03:50",
   "data": [
     {
       "mgdbId": "120000598479",
@@ -8,7 +8,7 @@
       "title": "UCI BMX竞速世界杯美国站",
       "keyword": "11月01日00:55",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "骑行系列赛",
       "padImg": "",
@@ -115,6 +115,10 @@
         {
           "pID": "968973463",
           "name": "全场回放（李子琪、刘建宏、孙雨轩）"
+        },
+        {
+          "pID": "968974174",
+          "name": "全场回放（江忠德）"
         }
       ]
     },
@@ -124,7 +128,7 @@
       "title": "西甲联赛",
       "keyword": "11月01日01:30",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "塞维利亚奥林匹克球场",
       "competitionName": "西甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000586139/207488_H169_sc.jpg",
@@ -137,16 +141,12 @@
       },
       "nodes": [
         {
-          "pID": "968876686",
-          "name": "兰子非"
+          "pID": "968973337",
+          "name": "全场集锦"
         },
         {
-          "pID": "968876674",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "968955148",
-          "name": "赛场原声"
+          "pID": "968973296",
+          "name": "全场回放（兰子非）"
         }
       ]
     },
@@ -174,11 +174,19 @@
         },
         {
           "pID": "968973919",
-          "name": "全场回放"
+          "name": "全场回放（胡小凡、张力、鲁靖明）"
+        },
+        {
+          "pID": "968974465",
+          "name": "全场回放（摩比动画）"
         },
         {
           "pID": "968974088",
-          "name": "全场回放"
+          "name": "全场回放（AI智慧观赛）"
+        },
+        {
+          "pID": "968974647",
+          "name": "全场回放（智能解说）"
         }
       ]
     },
@@ -259,7 +267,7 @@
       "matchStatus": "1",
       "matchField": "劳布体育场",
       "competitionName": "法甲",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000585117/202611010419_364344_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000585117/202611010458_796680_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/1/9106077d9.png",
       "pkInfoTitle": "特鲁瓦 vs 勒芒",
       "modifyTitle": "法甲联赛",
@@ -356,7 +364,7 @@
       "title": "UFC格斗之夜：莫伊卡诺VS诺兰",
       "keyword": "11月01日05:00",
       "sportItemId": "5",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "UFC格斗之夜",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/31/77QUD670OSVV.jpg",
@@ -2135,6 +2143,10 @@
         {
           "pID": "968790990",
           "name": "清流原声"
+        },
+        {
+          "pID": "968791012",
+          "name": "���文解说原声"
         },
         {
           "pID": "968791012",
