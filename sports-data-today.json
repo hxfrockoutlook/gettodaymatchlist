@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-02 07:01:26",
+  "updateTime": "2026-11-02 07:31:17",
   "data": [
     {
       "mgdbId": "120000584459",
@@ -281,12 +281,16 @@
       },
       "nodes": [
         {
+          "pID": "969017593",
+          "name": "全场集锦"
+        },
+        {
           "pID": "969017523",
-          "name": "全场回放"
+          "name": "全场回放（张天翼）"
         },
         {
           "pID": "969017639",
-          "name": "全场回放"
+          "name": "全场回放（AI智慧观赛）"
         }
       ]
     },
@@ -341,22 +345,22 @@
           "name": "全场集锦"
         },
         {
-          "pID": "969017762",
-          "name": "全场回放"
-        },
-        {
           "pID": "969017791",
           "name": "全场回放（林梦鸽、孙雷）"
+        },
+        {
+          "pID": "969017762",
+          "name": "全场回放（AI智慧观赛）"
         }
       ]
     },
     {
       "mgdbId": "120000588326",
-      "pID": "968947574",
+      "pID": "969016418",
       "title": "NBA常规赛",
       "keyword": "11月02日04:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "安利中心",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/02/77SUU7BO8LKO.jpg",
@@ -369,12 +373,24 @@
       },
       "nodes": [
         {
-          "pID": "968947574",
-          "name": "姜帆 季孟年"
+          "pID": "969019073",
+          "name": "全场回放（姜帆、季孟年）"
         },
         {
-          "pID": "968946803",
-          "name": "英文原声"
+          "pID": "969016074",
+          "name": "第一节"
+        },
+        {
+          "pID": "969017020",
+          "name": "第二节"
+        },
+        {
+          "pID": "969018156",
+          "name": "第三节"
+        },
+        {
+          "pID": "969018816",
+          "name": "第四节"
         }
       ]
     },
@@ -495,7 +511,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "范争一PK庞俊旭、袁思俊、塞尔比出战",
       "modifyTitle": "斯诺克国际锦标赛32进16轮次：范争一PK庞俊旭、袁思俊、塞尔比出战",
-      "presenters": "",
+      "presenters": "陶哲铭",
       "matchInfo": {
         "time": "11月02日09:30"
       },
@@ -527,6 +543,10 @@
         {
           "pID": "968660195",
           "name": "6号桌"
+        },
+        {
+          "pID": "969019085",
+          "name": "陶哲铭"
         }
       ]
     },
@@ -595,7 +615,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "丁俊晖PK张安达 斯佳辉、傅家俊出战",
       "modifyTitle": "斯诺克国际锦标赛32进16轮次：丁俊晖PK张安达 斯佳辉、傅家俊出战",
-      "presenters": "",
+      "presenters": "秦正 乔迁",
       "matchInfo": {
         "time": "11月02日14:00"
       },
@@ -627,6 +647,14 @@
         {
           "pID": "968660317",
           "name": "6号桌"
+        },
+        {
+          "pID": "969019107",
+          "name": "秦正"
+        },
+        {
+          "pID": "969019118",
+          "name": "乔迁"
         }
       ]
     },
@@ -667,7 +695,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "赵心童、吴宜泽、常冰玉出战",
       "modifyTitle": "斯诺克国际锦标赛32进16轮次：赵心童、吴宜泽、常冰玉出战",
-      "presenters": "",
+      "presenters": "朱峰立 柏林 杨江浩",
       "matchInfo": {
         "time": "11月02日19:30"
       },
@@ -699,6 +727,18 @@
         {
           "pID": "968660427",
           "name": "6号桌"
+        },
+        {
+          "pID": "969019182",
+          "name": "朱峰立"
+        },
+        {
+          "pID": "969019193",
+          "name": "柏林"
+        },
+        {
+          "pID": "969019210",
+          "name": "杨江浩"
         }
       ]
     },
