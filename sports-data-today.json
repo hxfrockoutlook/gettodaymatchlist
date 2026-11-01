@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-02 03:01:22",
+  "updateTime": "2026-11-02 03:31:21",
   "data": [
     {
       "mgdbId": "120000584459",
@@ -51,6 +51,10 @@
         {
           "pID": "969012040",
           "name": "全场集锦"
+        },
+        {
+          "pID": "969013128",
+          "name": "全场回放（乔迁）"
         }
       ]
     },
@@ -73,8 +77,24 @@
       },
       "nodes": [
         {
+          "pID": "969013029",
+          "name": "超长版集锦"
+        },
+        {
           "pID": "969012692",
           "name": "全场集锦"
+        },
+        {
+          "pID": "969013036",
+          "name": "全场回放（詹俊、张路、李子琪）"
+        },
+        {
+          "pID": "969013141",
+          "name": "全场回放（AI观赛）"
+        },
+        {
+          "pID": "969013085",
+          "name": "全场回放（智能解说）"
         }
       ]
     },
@@ -97,22 +117,22 @@
       },
       "nodes": [
         {
-          "pID": "968879705",
-          "name": "周楚雄"
+          "pID": "969013132",
+          "name": "全场集锦"
         },
         {
-          "pID": "968879713",
-          "name": "赛场原声"
+          "pID": "969013199",
+          "name": "全场回放（周楚雄）"
         }
       ]
     },
     {
       "mgdbId": "120000597572",
-      "pID": "968633662",
+      "pID": "969011283",
       "title": "孙颖莎4-1蒯曼夺冠 张禹珍逆转登顶",
       "keyword": "11月02日00:30",
       "sportItemId": "7",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "WTT",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/02/77SUT2IGCUKO.png",
@@ -125,24 +145,16 @@
       },
       "nodes": [
         {
+          "pID": "969011224",
+          "name": "【女单决赛】蒯曼1-4孙颖莎"
+        },
+        {
+          "pID": "969013011",
+          "name": "【男单决赛】张禹珍4-3弗朗西斯卡"
+        },
+        {
           "pID": "969011283",
-          "name": "蒯曼1-4孙颖莎"
-        },
-        {
-          "pID": "968633662",
-          "name": "周冠达 侯英超 程靖淇"
-        },
-        {
-          "pID": "968632957",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "968636192",
-          "name": "智能字幕"
-        },
-        {
-          "pID": "968990717",
-          "name": "CCTV5"
+          "name": "【集锦】蒯曼1-4孙颖莎"
         }
       ]
     },
@@ -189,12 +201,12 @@
       },
       "nodes": [
         {
-          "pID": "968881800",
-          "name": "吴奕博"
+          "pID": "969013512",
+          "name": "全场集锦"
         },
         {
-          "pID": "968881797",
-          "name": "赛场原声"
+          "pID": "969013284",
+          "name": "全场回放（吴奕博）"
         }
       ]
     },
@@ -236,7 +248,7 @@
       "title": "法甲联赛",
       "keyword": "11月02日03:45",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "韦洛德罗姆球场",
       "competitionName": "法甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000584461/124808_H169_sc.jpg",
@@ -264,7 +276,7 @@
       "title": "意甲联赛",
       "keyword": "11月02日03:45",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "Allianz Stadium",
       "competitionName": "意甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000584807/490429_H169_sc.jpg",
