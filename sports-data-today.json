@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-01 08:32:26",
+  "updateTime": "2026-11-01 09:02:31",
   "data": [
     {
       "mgdbId": "120000598479",
@@ -217,6 +217,10 @@
           "name": "全场回放（邢晨）"
         },
         {
+          "pID": "968979882",
+          "name": "全场回放（英文原声）"
+        },
+        {
           "pID": "968973200",
           "name": "第一节"
         },
@@ -408,14 +412,14 @@
     },
     {
       "mgdbId": "120000588320",
-      "pID": "968749903",
+      "pID": "968979677",
       "title": "NBA常规赛",
       "keyword": "11月01日06:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "光谱中心",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/01/77SU0QM7FTG8.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/01/77SU1LAHJOTS.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "76人VS黄蜂",
       "modifyTitle": "NBA常规赛",
@@ -425,12 +429,16 @@
       },
       "nodes": [
         {
-          "pID": "968749903",
-          "name": "蔡凯臣 季孟年"
+          "pID": "968977181",
+          "name": "第一节"
         },
         {
-          "pID": "968749918",
-          "name": "英文原声"
+          "pID": "968977530",
+          "name": "第二节"
+        },
+        {
+          "pID": "968978961",
+          "name": "第三节"
         }
       ]
     },
@@ -633,6 +641,10 @@
       },
       "nodes": [
         {
+          "pID": "968749136",
+          "name": "同看"
+        },
+        {
           "pID": "968749461",
           "name": "孙博 刘铁 马健"
         },
@@ -703,7 +715,7 @@
       "pID": "968818270",
       "title": "咪咕体育日报 第228期",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "咪咕体育日报",
       "padImg": "",
@@ -736,6 +748,10 @@
         "time": "11月01日08:30"
       },
       "nodes": [
+        {
+          "pID": "968749461",
+          "name": "同看"
+        },
         {
           "pID": "968749136",
           "name": "连睿 丁彦雨航 周鹏"
@@ -804,7 +820,7 @@
       "title": "中国自由式小轮车联赛总决赛",
       "keyword": "11月01日09:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "中国自行车运动协会系列赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/31/77QUCCUNORT1.jpg",
@@ -828,7 +844,7 @@
       "title": "全国青年攀岩锦标赛",
       "keyword": "11月01日09:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "攀岩系列赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/31/77QUCLIVJ6AV.png",
