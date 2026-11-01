@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-01 10:32:45",
+  "updateTime": "2026-11-01 11:02:49",
   "data": [
     {
       "mgdbId": "120000598479",
@@ -73,12 +73,16 @@
       },
       "nodes": [
         {
-          "pID": "968977410",
-          "name": "全场回放（英文解说智能字幕）"
-        },
-        {
           "pID": "968976151",
           "name": "全场回放（张靖松）"
+        },
+        {
+          "pID": "968984151",
+          "name": "全场回放"
+        },
+        {
+          "pID": "968977410",
+          "name": "全场回放（英文解说智能字幕）"
         },
         {
           "pID": "968977368",
@@ -195,7 +199,7 @@
       "matchStatus": "2",
       "matchField": "达美中心球馆",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/31/77QUD70NQUTG.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/01/77SU2A196FCS.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "开拓者VS爵士",
       "modifyTitle": "NBA常规赛",
@@ -369,15 +373,15 @@
     {
       "mgdbId": "120000594882",
       "pID": "968886367",
-      "title": "UFC格斗之夜：莫伊卡诺VS诺兰",
+      "title": "诺兰TKO莫伊卡诺 史密斯一致判定击败布朗",
       "keyword": "11月01日05:00",
       "sportItemId": "5",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "UFC格斗之夜",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/31/77QUD670OSVV.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/01/77SU29GVH7TM.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/3/31/1000000002391064d391.png",
-      "pkInfoTitle": "UFC格斗之夜：莫伊卡诺VS诺兰",
+      "pkInfoTitle": "诺兰TKO莫伊卡诺 史密斯一致判定击败布朗",
       "modifyTitle": "UFC格斗之夜：莫伊卡诺VS诺兰",
       "presenters": "王琰博 郝俊",
       "matchInfo": {
@@ -385,20 +389,60 @@
       },
       "nodes": [
         {
-          "pID": "968886367",
-          "name": "王琰博 郝俊"
+          "pID": "968983411",
+          "name": "布朗VS史密斯"
         },
         {
-          "pID": "968886387",
-          "name": "英文原声"
+          "pID": "968982496",
+          "name": "奥斯伯恩VS杜登"
         },
         {
-          "pID": "968942786",
-          "name": "格斗最前线"
+          "pID": "968980989",
+          "name": "亚娜VS卢安娜"
         },
         {
-          "pID": "968887641",
-          "name": "智能字幕"
+          "pID": "968980601",
+          "name": "莱博斯诺亚尼VS哈萨诺夫"
+        },
+        {
+          "pID": "968980257",
+          "name": "副赛（王琰博、郝俊）"
+        },
+        {
+          "pID": "968983961",
+          "name": "副赛（英文原声）"
+        },
+        {
+          "pID": "968979664",
+          "name": "马沙尔VS霍普"
+        },
+        {
+          "pID": "968979603",
+          "name": "塞齐南多VS伯格伦"
+        },
+        {
+          "pID": "968977690",
+          "name": "埃罗萨VS李正永"
+        },
+        {
+          "pID": "968977199",
+          "name": "里斯VS高尔"
+        },
+        {
+          "pID": "968976757",
+          "name": "克莱因VS克罗普肖特"
+        },
+        {
+          "pID": "968976618",
+          "name": "阿伦卡尔VS罗德里格兹"
+        },
+        {
+          "pID": "968976584",
+          "name": "萨博瓦VS利斯博娅"
+        },
+        {
+          "pID": "968984444",
+          "name": "UFC格斗之夜292期主赛回放：雷纳托-莫伊卡诺VS汤姆-诺兰"
         }
       ]
     },
@@ -411,7 +455,7 @@
       "matchStatus": "2",
       "matchField": "光谱中心",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/01/77SU1LAHJOTS.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/01/77SU28MUA1UU.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "76人VS黄蜂",
       "modifyTitle": "NBA常规赛",
@@ -448,7 +492,7 @@
     },
     {
       "mgdbId": "120000588321",
-      "pID": "968981592",
+      "pID": "968983642",
       "title": "NBA常规赛",
       "keyword": "11月01日07:00",
       "sportItemId": "2",
@@ -464,6 +508,14 @@
         "time": "11月01日07:00"
       },
       "nodes": [
+        {
+          "pID": "968983642",
+          "name": "全场集锦"
+        },
+        {
+          "pID": "968984240",
+          "name": "【火药味上来了】弗莱明斯与麦高文思发生冲突吃T离场"
+        },
         {
           "pID": "968978801",
           "name": "第一节"
@@ -484,7 +536,7 @@
       "title": "铁人中国T51.5舟山公开赛",
       "keyword": "11月01日07:00",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "铁人三项系列赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/31/77QUCKIU28GM.png",
@@ -576,7 +628,7 @@
     },
     {
       "mgdbId": "120000588322",
-      "pID": "968983127",
+      "pID": "968983971",
       "title": "NBA常规赛",
       "keyword": "11月01日08:00",
       "sportItemId": "2",
@@ -592,6 +644,14 @@
         "time": "11月01日08:00"
       },
       "nodes": [
+        {
+          "pID": "968983971",
+          "name": "全场集锦"
+        },
+        {
+          "pID": "968983959",
+          "name": "全场回放（王冠证、郭维盛、刘潇涵）"
+        },
         {
           "pID": "968980096",
           "name": "第一节"
@@ -612,14 +672,14 @@
     },
     {
       "mgdbId": "120000588323",
-      "pID": "968749886",
+      "pID": "968979996",
       "title": "NBA常规赛",
       "keyword": "11月01日08:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "联邦快递球馆",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/31/77QUD8SPLNNA.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/01/77SU27S5C6ET.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "国王VS灰熊",
       "modifyTitle": "NBA常规赛",
@@ -629,25 +689,33 @@
       },
       "nodes": [
         {
-          "pID": "968749886",
-          "name": "罗森"
+          "pID": "968980292",
+          "name": "第一节"
         },
         {
-          "pID": "968749829",
-          "name": "英文原声"
+          "pID": "968981232",
+          "name": "第二节"
+        },
+        {
+          "pID": "968983102",
+          "name": "第三节"
+        },
+        {
+          "pID": "968984224",
+          "name": "第四节"
         }
       ]
     },
     {
       "mgdbId": "120000588324",
-      "pID": "968749461",
+      "pID": "968980296",
       "title": "NBA常规赛",
       "keyword": "11月01日08:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "冰霜银行中心",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/31/77QUD8QACJJV.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/01/77SU27ICSP8Q.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "森林狼VS马刺",
       "modifyTitle": "NBA常规赛",
@@ -657,24 +725,28 @@
       },
       "nodes": [
         {
-          "pID": "968749136",
-          "name": "同看"
+          "pID": "968984318",
+          "name": "全场回放（孙博、刘铁、马健、裴优）"
         },
         {
-          "pID": "968749461",
-          "name": "孙博 刘铁 马健"
+          "pID": "968984219",
+          "name": "全场回放（王晓晨）"
         },
         {
-          "pID": "968749443",
-          "name": "王晓晨"
+          "pID": "968980111",
+          "name": "第一节"
         },
         {
-          "pID": "968749419",
-          "name": "英文原声"
+          "pID": "968980984",
+          "name": "第二节"
         },
         {
-          "pID": "968787436",
-          "name": "智能字幕"
+          "pID": "968982783",
+          "name": "第三节"
+        },
+        {
+          "pID": "968983775",
+          "name": "第四节"
         }
       ]
     },
@@ -755,7 +827,7 @@
       "matchStatus": "1",
       "matchField": "丰田中心球馆",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/31/77QUD8V3EIQJ.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/01/77SU29E39U4U.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "雷霆VS火箭",
       "modifyTitle": "NBA常规赛",
@@ -972,7 +1044,7 @@
       "title": "WTA500东京站女单决赛：费尔南德斯 vs 施耐德",
       "keyword": "11月01日11:00",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/31/77QUCN08N51S.jpg",
@@ -1879,6 +1951,10 @@
         {
           "pID": "968857655",
           "name": "赛场原声"
+        },
+        {
+          "pID": "968857468",
+          "name": "上海���队解说"
         }
       ]
     },
@@ -2415,7 +2491,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/01/77SU2A6OAUUE.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "抽签仪式",
       "modifyTitle": "WTT法兰克福冠军赛抽签仪式",
