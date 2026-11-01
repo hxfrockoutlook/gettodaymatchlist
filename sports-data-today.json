@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-01 08:02:53",
+  "updateTime": "2026-11-01 08:32:26",
   "data": [
     {
       "mgdbId": "120000598479",
@@ -21,8 +21,8 @@
       },
       "nodes": [
         {
-          "pID": "968915027",
-          "name": "解说"
+          "pID": "968979129",
+          "name": "2026UCI BMX竞速世界杯美国站全场回放（官方解说）"
         }
       ]
     },
@@ -327,6 +327,10 @@
         {
           "pID": "968976937",
           "name": "全场回放（刘焕）"
+        },
+        {
+          "pID": "968979085",
+          "name": "全场回放"
         }
       ]
     },
@@ -752,7 +756,7 @@
       "title": "重庆长寿湖铁人三项亚洲杯赛",
       "keyword": "11月01日08:30",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "铁人三项系列赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/31/77QUCCL7EIEM.jpg",
@@ -771,36 +775,12 @@
       ]
     },
     {
-      "mgdbId": "120000598361",
-      "pID": "968886179",
-      "title": "中国自由式小轮车联赛总决赛",
-      "keyword": "11月01日08:30",
-      "sportItemId": "8",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "中国自行车运动协会系列赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/31/77QUCCUNORT1.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/6/25/100000001499106b6db1.png",
-      "pkInfoTitle": "中国自由式小轮车联赛总决赛",
-      "modifyTitle": "中国自由式小轮车联赛总决赛",
-      "presenters": "",
-      "matchInfo": {
-        "time": "11月01日08:30"
-      },
-      "nodes": [
-        {
-          "pID": "968886179",
-          "name": "解说"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000598549",
       "pID": "968940154",
       "title": "加拿大温哥华站 2",
       "keyword": "11月01日08:30",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "短道速滑世界巡回赛",
       "padImg": "",
@@ -814,6 +794,30 @@
       "nodes": [
         {
           "pID": "968940154",
+          "name": "解说"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000598361",
+      "pID": "968886179",
+      "title": "中国自由式小轮车联赛总决赛",
+      "keyword": "11月01日09:00",
+      "sportItemId": "8",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "中国自行车运动协会系列赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/31/77QUCCUNORT1.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/6/25/100000001499106b6db1.png",
+      "pkInfoTitle": "中国自由式小轮车联赛总决赛",
+      "modifyTitle": "中国自由式小轮车联赛总决赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "11月01日09:00"
+      },
+      "nodes": [
+        {
+          "pID": "968886179",
           "name": "解说"
         }
       ]
@@ -2466,7 +2470,7 @@
       "competitionName": "英女超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000592128/202609020935_786584_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/18/100000001333106f7427.jpg",
-      "pkInfoTitle": "查尔�� vs 切尔西",
+      "pkInfoTitle": "查尔顿 vs 切尔西",
       "modifyTitle": "英女超联赛",
       "presenters": "胡小凡",
       "matchInfo": {
