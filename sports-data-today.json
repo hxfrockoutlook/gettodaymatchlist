@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-01 19:32:54",
+  "updateTime": "2026-11-01 20:03:07",
   "data": [
     {
       "mgdbId": "120000598479",
@@ -341,7 +341,7 @@
       "keyword": "11月01日04:00",
       "sportItemId": "1",
       "matchStatus": "2",
-      "matchField": "诺坎普球场",
+      "matchField": "诺坎��球场",
       "competitionName": "西甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000586137/431070_H169_sc.jpg",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/21/779JJMOFB20H.png",
@@ -759,7 +759,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "森林狼VS马刺",
       "modifyTitle": "NBA常规赛",
-      "presenters": "孙博 刘铁 马健 王晓晨",
+      "presenters": "孙博 刘铁 马健 王晓��",
       "matchInfo": {
         "time": "11月01日08:00"
       },
@@ -1023,6 +1023,10 @@
         {
           "pID": "968998406",
           "name": "26/27赛季斯诺克国际锦标赛第2轮回放：斯图尔特·宾汉姆4-6傅家俊（赛场原声）"
+        },
+        {
+          "pID": "968999062",
+          "name": "26/27赛季斯诺克国际锦标赛第1轮回放：常冰玉6-2罗斯·缪尔（赛场原声）"
         }
       ]
     },
@@ -1187,6 +1191,14 @@
         {
           "pID": "968997642",
           "name": "26/27赛季斯诺克国际锦标赛第1轮回放：贾德·特鲁姆普5-6范争一（熊冕）"
+        },
+        {
+          "pID": "968998659",
+          "name": "26/27赛季斯诺克国际锦标赛第1轮回放：贾德·特鲁姆普5-6范争一（AI观赛）"
+        },
+        {
+          "pID": "968998663",
+          "name": "26/27赛季斯诺克国际锦标赛第1轮回放：贾德·特鲁姆普5-6范争一（赛场原声）"
         }
       ]
     },
@@ -1237,12 +1249,8 @@
       },
       "nodes": [
         {
-          "pID": "968940233",
-          "name": "解说"
-        },
-        {
-          "pID": "968940245",
-          "name": "赛场原声"
+          "pID": "968998526",
+          "name": "全场回放"
         }
       ]
     },
@@ -1493,8 +1501,8 @@
       },
       "nodes": [
         {
-          "pID": "968791652",
-          "name": "赛场原声"
+          "pID": "968998792",
+          "name": "全场回放"
         }
       ]
     },
@@ -1670,7 +1678,7 @@
       "nodes": [
         {
           "pID": "968998286",
-          "name": "【集锦】陈熠2-4蒯曼"
+          "name": "陈熠2-4蒯曼"
         },
         {
           "pID": "968633544",
@@ -2147,7 +2155,7 @@
       "matchStatus": "1",
       "matchField": "义乌梅湖体育馆",
       "competitionName": "CBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/29/77QSGG3SDID2.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/01/77SU1CA4MVO4.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png",
       "pkInfoTitle": "浙江稠州金租vs江苏肯帝亚",
       "modifyTitle": "CBA常规赛第7轮",
@@ -2172,7 +2180,7 @@
       "title": "海南省城市足球联赛",
       "keyword": "11月01日19:35",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "琼超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000597980/202610261625_639555_H169_1080.webp",
@@ -2196,7 +2204,7 @@
       "title": "英女超联赛",
       "keyword": "11月01日20:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "H2T集团体育场",
       "competitionName": "英女超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000592127/202609021000_701239_H169_1080.webp",
@@ -2224,7 +2232,7 @@
       "title": "英女超联赛",
       "keyword": "11月01日20:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "酋长球场",
       "competitionName": "英女超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000592131/202609021001_334170_H169_1080.webp",
