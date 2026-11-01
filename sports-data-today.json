@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-01 10:02:39",
+  "updateTime": "2026-11-01 10:32:45",
   "data": [
     {
       "mgdbId": "120000598479",
@@ -404,7 +404,7 @@
     },
     {
       "mgdbId": "120000588320",
-      "pID": "968979677",
+      "pID": "968980507",
       "title": "NBA常规赛",
       "keyword": "11月01日06:00",
       "sportItemId": "2",
@@ -508,7 +508,7 @@
       "title": "2026吉利汽车杭州马拉松",
       "keyword": "11月01日07:00",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "马拉松系列赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/31/77QUASJDQFKJ.png",
@@ -576,14 +576,14 @@
     },
     {
       "mgdbId": "120000588322",
-      "pID": "968749712",
+      "pID": "968983127",
       "title": "NBA常规赛",
       "keyword": "11月01日08:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "费哲论坛球馆",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/31/77QUD7GAJGVH.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/01/77SU269AHDCN.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "骑士VS雄鹿",
       "modifyTitle": "NBA常规赛",
@@ -593,12 +593,20 @@
       },
       "nodes": [
         {
-          "pID": "968749712",
-          "name": "王冠证 郭维盛 刘潇涵"
+          "pID": "968980096",
+          "name": "第一节"
         },
         {
-          "pID": "968749680",
-          "name": "英文原声"
+          "pID": "968981014",
+          "name": "第二节"
+        },
+        {
+          "pID": "968982422",
+          "name": "第三节"
+        },
+        {
+          "pID": "968983314",
+          "name": "第四节"
         }
       ]
     },
@@ -676,7 +684,7 @@
       "title": "2026扬州高邮大运河半程马拉松",
       "keyword": "11月01日08:00",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "马拉松系列赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/31/77QUAT5JN2L6.png",
@@ -700,7 +708,7 @@
       "title": "2026马鞍山·采石矶半程马拉松",
       "keyword": "11月01日08:00",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "逐马计划",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/31/77QUAT2FLAVI.jpg",
@@ -940,7 +948,7 @@
       "title": "跑酷世界杯北京站day3",
       "keyword": "11月01日10:30",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "跑酷世界杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/31/77QUCJFB76IB.png",
@@ -1871,10 +1879,6 @@
         {
           "pID": "968857655",
           "name": "赛场原声"
-        },
-        {
-          "pID": "968857468",
-          "name": "上��主队解说"
         }
       ]
     },
@@ -2586,25 +2590,6 @@
           "name": "解说"
         }
       ]
-    },
-    {
-      "mgdbId": "120000598549",
-      "pID": "120000598549",
-      "title": "加拿大温哥华站 2",
-      "keyword": "11月01日08:30",
-      "sportItemId": "",
-      "matchStatus": "2",
-      "matchField": "",
-      "competitionName": "短道速滑世界巡回赛",
-      "padImg": "https://wapx.cmvideo.cn/publish/poms/v1/image/7510/553/929/202610310939_1626679712843_H32_720.webp",
-      "competitionLogo": "",
-      "pkInfoTitle": "加拿大温哥华站 2",
-      "modifyTitle": "加拿大温哥华站 2",
-      "presenters": "",
-      "matchInfo": {
-        "time": "11月01日08:30"
-      },
-      "nodes": []
     }
   ]
 }
