@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-01 09:02:31",
+  "updateTime": "2026-11-01 09:32:50",
   "data": [
     {
       "mgdbId": "120000598479",
@@ -73,20 +73,12 @@
       },
       "nodes": [
         {
-          "pID": "968970841",
-          "name": "张本美和2-4蒯曼"
+          "pID": "968977410",
+          "name": "全场回放（英文解说智能字幕）"
         },
         {
-          "pID": "968633553",
-          "name": "张靖松"
-        },
-        {
-          "pID": "968632984",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "968636226",
-          "name": "智能字幕"
+          "pID": "968976151",
+          "name": "全场回放（张靖松）"
         }
       ]
     },
@@ -331,10 +323,6 @@
         {
           "pID": "968976937",
           "name": "全场回放（刘焕）"
-        },
-        {
-          "pID": "968979085",
-          "name": "全场回放"
         }
       ]
     },
@@ -429,6 +417,10 @@
       },
       "nodes": [
         {
+          "pID": "968980507",
+          "name": "全场集锦"
+        },
+        {
           "pID": "968977181",
           "name": "第一节"
         },
@@ -439,6 +431,10 @@
         {
           "pID": "968978961",
           "name": "第三节"
+        },
+        {
+          "pID": "968980254",
+          "name": "第四节"
         }
       ]
     },
@@ -868,7 +864,7 @@
       "title": "中国体育舞蹈公开系列赛北京站Day3",
       "keyword": "11月01日09:25",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "中国体育舞蹈联合会系列赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/31/77QUCM2HPLSN.png",
@@ -892,7 +888,7 @@
       "title": "希金斯、常冰玉出战 宾汉姆PK傅家俊",
       "keyword": "11月01日09:30",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/31/77QUB88KT3GE.png",
@@ -976,7 +972,7 @@
     },
     {
       "mgdbId": "120000597695",
-      "pID": "968661188",
+      "pID": "968960122",
       "title": "WTA500东京站女单决赛：费尔南德斯 vs 施耐德",
       "keyword": "11月01日11:00",
       "sportItemId": "9",
@@ -993,16 +989,16 @@
       },
       "nodes": [
         {
+          "pID": "968960122",
+          "name": "单文强"
+        },
+        {
           "pID": "968661188",
           "name": "赛场原声"
         },
         {
           "pID": "968661219",
           "name": "英文原声"
-        },
-        {
-          "pID": "968960122",
-          "name": "单文强"
         },
         {
           "pID": "968693875",
@@ -2211,7 +2207,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "海露羽毛球公开赛第六日",
       "modifyTitle": "海露羽毛球公开赛第六日",
-      "presenters": "",
+      "presenters": "杨妮娜 朱胤丞",
       "matchInfo": {
         "time": "11月01日21:00"
       },
@@ -2223,6 +2219,26 @@
         {
           "pID": "968793561",
           "name": "1号场地英文视角"
+        },
+        {
+          "pID": "968980699",
+          "name": "杨妮娜"
+        },
+        {
+          "pID": "968980714",
+          "name": "杨妮娜"
+        },
+        {
+          "pID": "968980739",
+          "name": "杨妮娜"
+        },
+        {
+          "pID": "968980772",
+          "name": "朱胤丞"
+        },
+        {
+          "pID": "968980780",
+          "name": "朱胤丞"
         }
       ]
     },
