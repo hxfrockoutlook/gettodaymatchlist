@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-02 09:01:35",
+  "updateTime": "2026-11-02 09:31:17",
   "data": [
     {
       "mgdbId": "120000584459",
@@ -404,7 +404,7 @@
     },
     {
       "mgdbId": "120000588327",
-      "pID": "969020759",
+      "pID": "969021019",
       "title": "NBA常规赛",
       "keyword": "11月02日06:00",
       "sportItemId": "2",
@@ -420,6 +420,14 @@
         "time": "11月02日06:00"
       },
       "nodes": [
+        {
+          "pID": "969021019",
+          "name": "全场集锦"
+        },
+        {
+          "pID": "969020939",
+          "name": "全场回放（王冠证）"
+        },
         {
           "pID": "969018394",
           "name": "第一节"
@@ -520,7 +528,7 @@
       "title": "范争一PK庞俊旭、袁思俊、塞尔比出战",
       "keyword": "11月02日09:30",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/01/77SU2EV6SNU3.png",
@@ -572,7 +580,7 @@
       "title": "NBA常规赛",
       "keyword": "11月02日10:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "加密中心球馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/01/77SU29BOO7EI.png",
@@ -848,6 +856,7 @@
     },
     {
       "mgdbId": "120000598651",
+      "pID": "969020956",
       "title": "WTA250香港站：王欣瑜 vs 李芬",
       "keyword": "11月02日20:00",
       "sportItemId": "9",
@@ -858,11 +867,20 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
       "pkInfoTitle": "王欣瑜 vs 李芬",
       "modifyTitle": "WTA250香港站：王欣瑜 vs 李芬",
-      "presenters": "",
+      "presenters": "邱超",
       "matchInfo": {
         "time": "11月02日20:00"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "969020956",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "969020960",
+          "name": "邱超"
+        }
+      ]
     },
     {
       "mgdbId": "120000590424",
