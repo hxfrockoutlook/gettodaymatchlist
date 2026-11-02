@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-02 08:31:39",
+  "updateTime": "2026-11-02 09:01:35",
   "data": [
     {
       "mgdbId": "120000584459",
@@ -381,6 +381,10 @@
           "name": "全场回放（姜帆、季孟年）"
         },
         {
+          "pID": "969020700",
+          "name": "全场回放（英文原声）"
+        },
+        {
           "pID": "969016074",
           "name": "第一节"
         },
@@ -400,14 +404,14 @@
     },
     {
       "mgdbId": "120000588327",
-      "pID": "968948093",
+      "pID": "969020759",
       "title": "NBA常规赛",
       "keyword": "11月02日06:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "盖恩布里奇体育馆",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/01/77SU28PJSCDI.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/02/77SUUPOSSCMS.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "篮网VS步行者",
       "modifyTitle": "NBA常规赛",
@@ -417,12 +421,20 @@
       },
       "nodes": [
         {
-          "pID": "968948093",
-          "name": "王冠证"
+          "pID": "969018394",
+          "name": "第一节"
         },
         {
-          "pID": "968948030",
-          "name": "英文原声"
+          "pID": "969019113",
+          "name": "第二节"
+        },
+        {
+          "pID": "969020368",
+          "name": "第三节"
+        },
+        {
+          "pID": "969020804",
+          "name": "第四节"
         }
       ]
     },
@@ -431,7 +443,7 @@
       "pID": "968818237",
       "title": "咪咕体育日报 第229期",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "咪咕体育日报",
       "padImg": "",
@@ -452,7 +464,7 @@
       "title": "国际自盟场地自行车世锦赛-1",
       "keyword": "11月02日08:55",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "国际自盟场地自行车世锦赛",
       "padImg": "",
@@ -476,7 +488,7 @@
       "title": "NBA常规赛",
       "keyword": "11月02日09:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "大通中心",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/01/77SU2OO0458B.png",
