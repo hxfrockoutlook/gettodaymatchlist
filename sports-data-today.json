@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-03 07:31:47",
+  "updateTime": "2026-11-03 08:02:04",
   "data": [
     {
       "mgdbId": "120000590421",
@@ -135,6 +135,10 @@
         {
           "pID": "969050264",
           "name": "全场回放（石庆圣）"
+        },
+        {
+          "pID": "969054869",
+          "name": "全场回放"
         }
       ]
     },
@@ -292,7 +296,7 @@
       "title": "NBA常规赛",
       "keyword": "11月03日08:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "火箭信贷球馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/02/77SUVMBGN7MG.jpg",
@@ -319,7 +323,7 @@
       "pID": "968818226",
       "title": "咪咕体育日报 第230期",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "咪咕体育日报",
       "padImg": "",
@@ -452,7 +456,7 @@
       "title": "NBA常规赛",
       "keyword": "11月03日08:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "康卡斯特移动球馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/02/77SUVMHSHM44.jpg",
@@ -622,51 +626,51 @@
         },
         {
           "pID": "969045772",
-          "name": "鸿昆"
+          "name": "徐文婧VS李绍玉"
         },
         {
           "pID": "969045807",
-          "name": "金子嘉"
+          "name": "金元浩/徐承宰VS伊日/克雷尔"
         },
         {
           "pID": "969045834",
-          "name": "鸿昆"
+          "name": "王昶/谢浩南VS何莱恩/海卡尔"
         },
         {
           "pID": "969045867",
-          "name": "鸿昆"
+          "name": "周芸安/谢沛珊VS李怡婧/王漪朵"
         },
         {
           "pID": "969045895",
-          "name": "杨妮娜"
+          "name": "平本梨梨菜/志田千阳VS陈肃谕/韩蓁"
         },
         {
           "pID": "969045904",
-          "name": "杨妮娜"
+          "name": "胡珂源/梁伟铿VS后藤拓人/吉田翼"
         },
         {
           "pID": "969045922",
-          "name": "刘炳阳"
+          "name": "詹俊为VS崔智勋"
         },
         {
           "pID": "969045944",
-          "name": "刘炳阳"
+          "name": "里查多VS陈翃栎"
         },
         {
           "pID": "969045966",
-          "name": "朱胤丞"
+          "name": "何济霆/任翔宇VS冈村洋辉/山下恭平"
         },
         {
           "pID": "969045995",
-          "name": "朱胤丞"
+          "name": "赖柏佑/蔡富丞VS熊谷翔/西大辉"
         },
         {
           "pID": "969046025",
-          "name": "轩子博"
+          "name": "谢炜杰/张御宇VS陈柏阳/刘毅"
         },
         {
           "pID": "969046034",
-          "name": "轩子博"
+          "name": "万炜聪/郑凯文VS刘航益/吴永昌"
         }
       ]
     },
@@ -1112,7 +1116,7 @@
     },
     {
       "mgdbId": "120000597672",
-      "pID": "968659708",
+      "pID": "969035750",
       "title": "丁俊晖VS马奎尔 希金斯VS威廉姆斯",
       "keyword": "11月03日19:30",
       "sportItemId": "8",
@@ -1128,6 +1132,14 @@
         "time": "11月03日19:30"
       },
       "nodes": [
+        {
+          "pID": "969035750",
+          "name": "演播室"
+        },
+        {
+          "pID": "969035783",
+          "name": "宾汉姆"
+        },
         {
           "pID": "968659708",
           "name": "1号桌"
@@ -1147,14 +1159,6 @@
         {
           "pID": "968659821",
           "name": "4号桌"
-        },
-        {
-          "pID": "969035750",
-          "name": "演播室"
-        },
-        {
-          "pID": "969035783",
-          "name": "宾汉姆"
         }
       ]
     },
