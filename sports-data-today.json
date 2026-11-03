@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-03 09:02:12",
+  "updateTime": "2026-11-03 09:31:50",
   "data": [
     {
       "mgdbId": "120000590421",
@@ -616,7 +616,7 @@
     },
     {
       "mgdbId": "120000598636",
-      "pID": "968982214",
+      "pID": "969045922",
       "title": "32强战！胡珂源携手梁伟铿压场亮相",
       "keyword": "11月03日09:00",
       "sportItemId": "6",
@@ -627,11 +627,15 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "32强战！胡珂源携手梁伟铿压场亮相",
       "modifyTitle": "韩国羽毛球公开赛第一日：32强战！胡珂源携手梁伟铿压场亮相",
-      "presenters": "鸿昆 金子嘉 杨妮娜 刘炳阳 朱胤丞 轩子博",
+      "presenters": "刘炳阳 鸿昆 金子嘉 杨妮娜 朱胤丞 轩子博",
       "matchInfo": {
         "time": "11月03日09:00"
       },
       "nodes": [
+        {
+          "pID": "969045922",
+          "name": "詹俊为VS崔智勋"
+        },
         {
           "pID": "968982214",
           "name": "1号场地"
@@ -673,10 +677,6 @@
           "name": "胡珂源/梁伟铿VS后藤拓人/吉田翼"
         },
         {
-          "pID": "969045922",
-          "name": "詹俊为VS崔智勋"
-        },
-        {
           "pID": "969045944",
           "name": "里查多VS陈翃栎"
         },
@@ -704,7 +704,7 @@
       "title": "NBA常规赛",
       "keyword": "11月03日09:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "丰田中心球馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/02/77SUT7U9QFF3.jpg",
@@ -736,7 +736,7 @@
       "title": "NBA常规赛",
       "keyword": "11月03日09:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "冰霜银行中心",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/02/77SUT81104LO.jpg",
@@ -923,11 +923,11 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "斯诺克",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/03/77SVS3E71M1D.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "袁思俊VS常冰玉 赵心童出战",
       "modifyTitle": "斯诺克国际锦标赛16进8轮次：袁思俊VS常冰玉 赵心童出战",
-      "presenters": "",
+      "presenters": "乔迁 杨江源",
       "matchInfo": {
         "time": "11月03日14:00"
       },
@@ -951,6 +951,14 @@
         {
           "pID": "968659486",
           "name": "4号桌"
+        },
+        {
+          "pID": "969056413",
+          "name": "乔迁"
+        },
+        {
+          "pID": "969056466",
+          "name": "杨江源"
         }
       ]
     },
@@ -1171,11 +1179,11 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "斯诺克",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/03/77SVS4FQP343.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "丁俊晖VS马奎尔 希金斯VS威廉姆斯",
       "modifyTitle": "斯诺克国际锦标赛16进8轮次：丁俊晖VS马奎尔 希金斯VS威廉姆斯",
-      "presenters": "宾汉姆",
+      "presenters": "宾汉姆 柏林 洪豆",
       "matchInfo": {
         "time": "11月03日19:30"
       },
@@ -1207,6 +1215,10 @@
         {
           "pID": "968659821",
           "name": "4号桌"
+        },
+        {
+          "pID": "969056516",
+          "name": "涂子轩"
         }
       ]
     },
@@ -1569,7 +1581,7 @@
     {
       "mgdbId": "120000590413",
       "pID": "968878094",
-      "title": "亚冠精英联���阶段",
+      "title": "亚冠精英联赛阶段",
       "keyword": "11月03日20:15",
       "sportItemId": "1",
       "matchStatus": "0",
