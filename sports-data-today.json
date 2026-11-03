@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-03 14:01:58",
+  "updateTime": "2026-11-03 14:31:50",
   "data": [
     {
       "mgdbId": "120000590421",
@@ -343,6 +343,10 @@
         {
           "pID": "969059327",
           "name": "全场回放（吴博文）"
+        },
+        {
+          "pID": "969062565",
+          "name": "全场回放（英文原声）"
         },
         {
           "pID": "969055583",
@@ -773,6 +777,10 @@
           "name": "全场回放（庄宁宇、郭维盛）"
         },
         {
+          "pID": "969061556",
+          "name": "全场回放（周鹏）"
+        },
+        {
           "pID": "969057977",
           "name": "第一节"
         },
@@ -905,6 +913,14 @@
           "name": "全场集锦"
         },
         {
+          "pID": "969064799",
+          "name": "全场回放（李天宇、殷文玉、徐咏、廖昕阳）"
+        },
+        {
+          "pID": "969064700",
+          "name": "全场回放（AI字幕）"
+        },
+        {
           "pID": "969060510",
           "name": "第一节"
         },
@@ -924,11 +940,11 @@
     },
     {
       "mgdbId": "120000588343",
-      "pID": "968992312",
+      "pID": "969065180",
       "title": "NBA常规赛",
       "keyword": "11月03日11:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "因图特圆顶球馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/03/77SVPS8H17G8.png",
@@ -941,26 +957,38 @@
       },
       "nodes": [
         {
-          "pID": "969064301",
-          "name": "一波流抹平分差！RJ秀梦幻脚步摆脱防守"
+          "pID": "969065180",
+          "name": "全场集锦"
         },
         {
-          "pID": "968992312",
-          "name": "刘芳宇"
+          "pID": "969065274",
+          "name": "全场回放（刘芳宇）"
         },
         {
-          "pID": "969020906",
-          "name": "英文原声"
+          "pID": "969060470",
+          "name": "第一节"
+        },
+        {
+          "pID": "969061266",
+          "name": "第二节"
+        },
+        {
+          "pID": "969062329",
+          "name": "第三节"
+        },
+        {
+          "pID": "969064779",
+          "name": "第四节"
         }
       ]
     },
     {
       "mgdbId": "120000588344",
-      "pID": "968992078",
+      "pID": "969061893",
       "title": "NBA常规赛",
       "keyword": "11月03日11:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "大通中心",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/03/77SVPT1HH2Q4.jpg",
@@ -973,34 +1001,26 @@
       },
       "nodes": [
         {
-          "pID": "968992078",
-          "name": "连睿 丁彦雨航 李根"
+          "pID": "969060486",
+          "name": "第一节"
         },
         {
-          "pID": "968992844",
-          "name": "热火vs湖人"
+          "pID": "969061385",
+          "name": "第二节"
         },
         {
-          "pID": "968992312",
-          "name": "猛龙vs快船"
+          "pID": "969062985",
+          "name": "第三节"
         },
         {
-          "pID": "968992044",
-          "name": "拜月宁"
-        },
-        {
-          "pID": "969020902",
-          "name": "英文原声"
-        },
-        {
-          "pID": "969038736",
-          "name": "智能字幕"
+          "pID": "969064732",
+          "name": "第四节"
         }
       ]
     },
     {
       "mgdbId": "120000597671",
-      "pID": "968659351",
+      "pID": "969056413",
       "title": "袁思俊VS常冰玉 赵心童出战",
       "keyword": "11月03日14:00",
       "sportItemId": "8",
@@ -1259,46 +1279,10 @@
       ]
     },
     {
-      "mgdbId": "120000598236",
-      "pID": "968853874",
-      "title": "王楚钦复出首秀战林德 陈幸同冲开门红",
-      "keyword": "11月03日19:00",
-      "sportItemId": "7",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/02/77SUTB0888BF.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "王楚钦复出首秀战林德 陈幸同冲开门红",
-      "modifyTitle": "WTT法兰克福冠军赛男女单打1/16决赛",
-      "presenters": "徐铭辰 侯英超 徐晨皓",
-      "matchInfo": {
-        "time": "11月03日19:00"
-      },
-      "nodes": [
-        {
-          "pID": "968853874",
-          "name": "徐铭辰 侯英超 徐晨皓"
-        },
-        {
-          "pID": "969036625",
-          "name": "CCTV5"
-        },
-        {
-          "pID": "968853894",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "968856797",
-          "name": "智能字幕"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000597672",
       "pID": "969035750",
       "title": "宾汉姆解说！丁俊晖VS马奎尔",
-      "keyword": "11月03日19:30",
+      "keyword": "11月03日19:00",
       "sportItemId": "8",
       "matchStatus": "0",
       "matchField": "",
@@ -1309,7 +1293,7 @@
       "modifyTitle": "斯诺克国际锦标赛16进8轮次：丁俊晖VS马奎尔 希金斯VS威廉姆斯",
       "presenters": "宾汉姆 柏林 洪豆 秦正 涂子轩",
       "matchInfo": {
-        "time": "11月03日19:30"
+        "time": "11月03日19:00"
       },
       "nodes": [
         {
@@ -1347,6 +1331,42 @@
         {
           "pID": "968659821",
           "name": "4号桌"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000598236",
+      "pID": "968853874",
+      "title": "王楚钦复出首秀战林德 陈幸同冲开门红",
+      "keyword": "11月03日19:00",
+      "sportItemId": "7",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "WTT",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/02/77SUTB0888BF.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
+      "pkInfoTitle": "王楚钦复出首秀战林德 陈幸同冲开门红",
+      "modifyTitle": "WTT法兰克福冠军赛男女单打1/16决赛",
+      "presenters": "徐铭辰 侯英超 徐晨皓",
+      "matchInfo": {
+        "time": "11月03日19:00"
+      },
+      "nodes": [
+        {
+          "pID": "968853874",
+          "name": "徐铭辰 侯英超 徐晨皓"
+        },
+        {
+          "pID": "969036625",
+          "name": "CCTV5"
+        },
+        {
+          "pID": "968853894",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "968856797",
+          "name": "智能字幕"
         }
       ]
     },
