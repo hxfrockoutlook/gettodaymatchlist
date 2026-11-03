@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-03 12:01:54",
+  "updateTime": "2026-11-03 12:31:47",
   "data": [
     {
       "mgdbId": "120000590421",
@@ -661,6 +661,10 @@
       },
       "nodes": [
         {
+          "pID": "969061016",
+          "name": "全场回放（李嘉伟）"
+        },
+        {
           "pID": "969057154",
           "name": "第一节"
         },
@@ -701,6 +705,10 @@
           "name": "全场集锦"
         },
         {
+          "pID": "969060811",
+          "name": "全场回放（王冠证）"
+        },
+        {
           "pID": "969056800",
           "name": "第一节"
         },
@@ -719,10 +727,6 @@
         {
           "pID": "969060426",
           "name": "加时1"
-        },
-        {
-          "pID": "969060811",
-          "name": "全场回放（王冠证）"
         }
       ]
     },
@@ -735,11 +739,11 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "BWF",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/03/77SVS5MJN6OO.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/03/77SVSU04U351.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "32强战！胡珂源携手梁伟铿压场亮相",
       "modifyTitle": "韩国羽毛球公开赛第一日：32强战！胡珂源携手梁伟铿压场亮相",
-      "presenters": "鸿昆 金子嘉 杨妮娜 朱胤丞 轩子博 刘炳阳",
+      "presenters": "金子嘉 鸿昆 杨妮娜 朱胤丞 轩子博 刘炳阳",
       "matchInfo": {
         "time": "11月03日09:00"
       },
@@ -747,10 +751,6 @@
         {
           "pID": "968982214",
           "name": "1号场地"
-        },
-        {
-          "pID": "969045772",
-          "name": "徐文婧VS李绍玉"
         },
         {
           "pID": "968982227",
@@ -807,19 +807,23 @@
         {
           "pID": "969045944",
           "name": "里查多VS陈翃栎"
+        },
+        {
+          "pID": "969045772",
+          "name": "徐文婧VS李绍玉"
         }
       ]
     },
     {
       "mgdbId": "120000588339",
-      "pID": "968990583",
+      "pID": "969060763",
       "title": "NBA常规赛",
       "keyword": "11月03日09:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "丰田中心球馆",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/02/77SUT7U9QFF3.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/03/77SVSU2R9D4D.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "凯尔特人VS火箭",
       "modifyTitle": "NBA常规赛",
@@ -829,33 +833,33 @@
       },
       "nodes": [
         {
-          "pID": "968990583",
-          "name": "庄宁宇 郭维盛"
+          "pID": "969057977",
+          "name": "第一节"
         },
         {
-          "pID": "968990606",
-          "name": "周鹏"
+          "pID": "969059092",
+          "name": "第二节"
         },
         {
-          "pID": "968991907",
-          "name": "同看开拓者vs掘金"
+          "pID": "969060256",
+          "name": "第三节"
         },
         {
-          "pID": "968990634",
-          "name": "英文原声"
+          "pID": "969061070",
+          "name": "第四节"
         }
       ]
     },
     {
       "mgdbId": "120000588340",
-      "pID": "968990768",
+      "pID": "969061434",
       "title": "NBA常规赛",
       "keyword": "11月03日09:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "冰霜银行中心",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/02/77SUT81104LO.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/03/77SVSU4KIJNA.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "爵士VS马刺",
       "modifyTitle": "NBA常规赛",
@@ -865,16 +869,24 @@
       },
       "nodes": [
         {
-          "pID": "968990768",
-          "name": "姜帆"
+          "pID": "969061434",
+          "name": "全场集锦"
         },
         {
-          "pID": "968990793",
-          "name": "王晓晨"
+          "pID": "969057999",
+          "name": "第一节"
         },
         {
-          "pID": "968990852",
-          "name": "英文原声"
+          "pID": "969058996",
+          "name": "第二节"
+        },
+        {
+          "pID": "969060339",
+          "name": "第三节"
+        },
+        {
+          "pID": "969061220",
+          "name": "第四节"
         }
       ]
     },
@@ -887,7 +899,7 @@
       "matchStatus": "1",
       "matchField": "波尔体育馆",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/02/77SUT83SBLNQ.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/03/77SVT0420817.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "开拓者VS掘金",
       "modifyTitle": "NBA常规赛",
@@ -896,10 +908,6 @@
         "time": "11月03日10:00"
       },
       "nodes": [
-        {
-          "pID": "968990583",
-          "name": "同看凯尔特人vs火箭"
-        },
         {
           "pID": "968991907",
           "name": "邵化谦 闫宇峰"
@@ -1032,7 +1040,7 @@
       "title": "短道速滑世界巡回赛 加拿大温哥华站 2",
       "keyword": "11月03日12:27",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "短道速滑世界巡回赛",
       "padImg": "",
