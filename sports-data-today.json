@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-03 09:31:50",
+  "updateTime": "2026-11-03 10:01:56",
   "data": [
     {
       "mgdbId": "120000590421",
@@ -307,6 +307,10 @@
         {
           "pID": "969053398",
           "name": "全场回放（智能解说）"
+        },
+        {
+          "pID": "969053333",
+          "name": "全场回放"
         }
       ]
     },
@@ -507,30 +511,6 @@
       ]
     },
     {
-      "mgdbId": "120000598771",
-      "pID": "969025814",
-      "title": "国际自盟场地自行车世锦赛-2",
-      "keyword": "11月03日08:55",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "国际自盟场地自行车世锦赛",
-      "padImg": "",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/10/29/10000000157210695b94.png",
-      "pkInfoTitle": "国际自盟场地自行车世锦赛-2",
-      "modifyTitle": "国际自盟场地自行车世锦赛-2",
-      "presenters": "",
-      "matchInfo": {
-        "time": "11月03日08:55"
-      },
-      "nodes": [
-        {
-          "pID": "969025814",
-          "name": "解说"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000588336",
       "pID": "968989737",
       "title": "NBA常规赛",
@@ -616,14 +596,14 @@
     },
     {
       "mgdbId": "120000598636",
-      "pID": "969045922",
+      "pID": "969045944",
       "title": "32强战！胡珂源携手梁伟铿压场亮相",
       "keyword": "11月03日09:00",
       "sportItemId": "6",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "BWF",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/03/77SVRRE3HI1O.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/03/77SVS5MJN6OO.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "32强战！胡珂源携手梁伟铿压场亮相",
       "modifyTitle": "韩国羽毛球公开赛第一日：32强战！胡珂源携手梁伟铿压场亮相",
@@ -633,8 +613,8 @@
       },
       "nodes": [
         {
-          "pID": "969045922",
-          "name": "詹俊为VS崔智勋"
+          "pID": "969045944",
+          "name": "里查多VS陈翃栎"
         },
         {
           "pID": "968982214",
@@ -677,10 +657,6 @@
           "name": "胡珂源/梁伟铿VS后藤拓人/吉田翼"
         },
         {
-          "pID": "969045944",
-          "name": "里查多VS陈翃栎"
-        },
-        {
           "pID": "969045966",
           "name": "何济霆/任翔宇VS冈村洋辉/山下恭平"
         },
@@ -695,6 +671,10 @@
         {
           "pID": "969046034",
           "name": "万炜聪/郑凯文VS刘航益/吴永昌"
+        },
+        {
+          "pID": "969045922",
+          "name": "詹俊为VS崔智勋"
         }
       ]
     },
@@ -723,6 +703,10 @@
         {
           "pID": "968990606",
           "name": "周鹏"
+        },
+        {
+          "pID": "968991907",
+          "name": "同看开拓者vs掘金"
         },
         {
           "pID": "968990634",
@@ -768,7 +752,7 @@
       "title": "NBA常规赛",
       "keyword": "11月03日10:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "波尔体育馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/02/77SUT83SBLNQ.jpg",
@@ -780,6 +764,10 @@
         "time": "11月03日10:00"
       },
       "nodes": [
+        {
+          "pID": "968990583",
+          "name": "同看凯尔特人vs火箭"
+        },
         {
           "pID": "968991907",
           "name": "邵化谦 闫宇峰"
@@ -815,6 +803,10 @@
         {
           "pID": "968992844",
           "name": "李天宇 殷文玉 徐咏"
+        },
+        {
+          "pID": "968992078",
+          "name": "太阳vs勇士"
         },
         {
           "pID": "969020929",
@@ -877,6 +869,10 @@
           "name": "连睿 丁彦雨航 李根"
         },
         {
+          "pID": "968992844",
+          "name": "热火vs湖人"
+        },
+        {
           "pID": "968992044",
           "name": "拜月宁"
         },
@@ -933,6 +929,14 @@
       },
       "nodes": [
         {
+          "pID": "969056413",
+          "name": "乔迁"
+        },
+        {
+          "pID": "969056466",
+          "name": "杨江源"
+        },
+        {
           "pID": "968659351",
           "name": "1号桌"
         },
@@ -951,14 +955,6 @@
         {
           "pID": "968659486",
           "name": "4号桌"
-        },
-        {
-          "pID": "969056413",
-          "name": "乔迁"
-        },
-        {
-          "pID": "969056466",
-          "name": "杨江源"
         }
       ]
     },
@@ -1183,7 +1179,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "丁俊晖VS马奎尔 希金斯VS威廉姆斯",
       "modifyTitle": "斯诺克国际锦标赛16进8轮次：丁俊晖VS马奎尔 希金斯VS威廉姆斯",
-      "presenters": "宾汉姆 柏林 洪豆",
+      "presenters": "宾汉姆 柏林 洪豆 朱峰立 秦正 涂子轩",
       "matchInfo": {
         "time": "11月03日19:30"
       },
@@ -1191,6 +1187,18 @@
         {
           "pID": "969035750",
           "name": "演播室"
+        },
+        {
+          "pID": "969056655",
+          "name": "朱峰立"
+        },
+        {
+          "pID": "969056581",
+          "name": "秦正"
+        },
+        {
+          "pID": "969056516",
+          "name": "涂子轩"
         },
         {
           "pID": "969035783",
@@ -1215,10 +1223,6 @@
         {
           "pID": "968659821",
           "name": "4号桌"
-        },
-        {
-          "pID": "969056516",
-          "name": "涂子轩"
         }
       ]
     },
