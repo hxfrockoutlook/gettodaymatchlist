@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-03 17:02:00",
+  "updateTime": "2026-11-03 17:31:57",
   "data": [
     {
       "mgdbId": "120000590421",
@@ -376,7 +376,7 @@
       "competitionName": "咪咕体育日报",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/10/7/100000001233106a7b6e.png",
-      "modifyTitle": "咪咕体��日报 第230期",
+      "modifyTitle": "咪咕体育日报 ��230期",
       "presenters": "",
       "matchInfo": {},
       "nodes": [
@@ -653,6 +653,10 @@
           "name": "全场回放（刘圳展）"
         },
         {
+          "pID": "969071661",
+          "name": "全场回放（英文原声）"
+        },
+        {
           "pID": "969057226",
           "name": "第一节"
         },
@@ -777,7 +781,7 @@
       "keyword": "11月03日09:30",
       "sportItemId": "2",
       "matchStatus": "2",
-      "matchField": "丰田���心球馆",
+      "matchField": "丰田中心球��",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/03/77SVSU2R9D4D.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
@@ -1053,6 +1057,10 @@
           "name": "全场回放（连睿、丁彦雨航、李根、小七）"
         },
         {
+          "pID": "969070765",
+          "name": "全场回放（英文原声）"
+        },
+        {
           "pID": "969065602",
           "name": "全场回放（拜月宁）"
         },
@@ -1081,7 +1089,7 @@
     {
       "mgdbId": "120000597671",
       "pID": "969056413",
-      "title": "袁思俊VS常冰玉 赵心童出战",
+      "title": "袁思俊2-6常冰玉 赵心童晋级",
       "keyword": "11月03日14:00",
       "sportItemId": "8",
       "matchStatus": "1",
@@ -1089,8 +1097,8 @@
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/03/77SVS3E71M1D.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "袁思俊VS常冰玉 赵心童出战",
-      "modifyTitle": "斯诺克国际锦标赛16进8轮次：袁思俊VS常冰玉 赵心童出战",
+      "pkInfoTitle": "袁思俊2-6常冰玉 赵心童晋级",
+      "modifyTitle": "斯诺克国际锦标赛16进8轮次：袁思俊2-6常冰玉 赵心童晋级",
       "presenters": "乔迁 杨江源",
       "matchInfo": {
         "time": "11月03日14:00"
@@ -1101,16 +1109,8 @@
           "name": "乔迁"
         },
         {
-          "pID": "969056466",
-          "name": "杨江源"
-        },
-        {
           "pID": "968659351",
           "name": "1号桌"
-        },
-        {
-          "pID": "968659422",
-          "name": "3号桌"
         },
         {
           "pID": "968826188",
@@ -1119,6 +1119,14 @@
         {
           "pID": "968659380",
           "name": "2号桌"
+        },
+        {
+          "pID": "969056466",
+          "name": "杨江源"
+        },
+        {
+          "pID": "968659422",
+          "name": "3号桌"
         },
         {
           "pID": "968659486",
@@ -1139,7 +1147,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "32强战！胡珂源携手梁伟铿压场亮相",
       "modifyTitle": "韩国羽毛球公开赛第一日：32强战！胡珂源携手梁伟铿压场亮相",
-      "presenters": "朱胤丞 轩子博 鸿昆",
+      "presenters": "朱胤丞 轩子博 金子嘉 鸿昆",
       "matchInfo": {
         "time": "11月03日15:00"
       },
@@ -1149,8 +1157,12 @@
           "name": "何济霆/任翔宇VS冈村洋辉/山下恭平"
         },
         {
-          "pID": "969046025",
-          "name": "谢炜杰/张御宇VS陈柏阳/刘毅"
+          "pID": "969046034",
+          "name": "万炜聪/郑凯文VS刘航益/吴永昌"
+        },
+        {
+          "pID": "969045807",
+          "name": "金元浩/徐承宰VS伊日/克雷尔"
         },
         {
           "pID": "968982214",
@@ -1171,6 +1183,10 @@
         {
           "pID": "969045867",
           "name": "周芸安/谢沛珊VS李怡婧/王漪朵"
+        },
+        {
+          "pID": "969046025",
+          "name": "谢炜杰/张御宇VS陈柏阳/刘毅"
         }
       ]
     },
@@ -1212,7 +1228,7 @@
       "title": "加拿大温哥华站 25分钟版",
       "keyword": "11月03日17:30",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "短道速滑世界巡回赛",
       "padImg": "",
@@ -1359,11 +1375,15 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "宾汉姆解说！丁俊晖VS马奎尔",
       "modifyTitle": "斯诺克国际锦标赛16进8轮次：丁俊晖VS马奎尔 希金斯VS威廉姆斯",
-      "presenters": "宾汉姆 柏林 洪豆 秦正 涂子轩",
+      "presenters": "宾汉姆 柏林 洪豆 秦正 杨江浩",
       "matchInfo": {
         "time": "11月03日19:00"
       },
       "nodes": [
+        {
+          "pID": "969056516",
+          "name": "杨江浩"
+        },
         {
           "pID": "969035750",
           "name": "演播室"
@@ -1375,10 +1395,6 @@
         {
           "pID": "969056581",
           "name": "秦正"
-        },
-        {
-          "pID": "969056516",
-          "name": "涂子轩"
         },
         {
           "pID": "968659708",
@@ -1533,6 +1549,14 @@
           "name": "蔡凯臣 曾令旭 裴优"
         },
         {
+          "pID": "968858739",
+          "name": "同看上海vs吉林"
+        },
+        {
+          "pID": "968858636",
+          "name": "同看山西vs新疆"
+        },
+        {
           "pID": "968858498",
           "name": "辽宁主队解说"
         },
@@ -1597,6 +1621,10 @@
           "name": "李天宇 徐咏"
         },
         {
+          "pID": "968858492",
+          "name": "同看辽宁vs广州"
+        },
+        {
           "pID": "968858599",
           "name": "上海主队解说"
         },
@@ -1631,6 +1659,10 @@
         {
           "pID": "968858636",
           "name": "邵化谦 李根"
+        },
+        {
+          "pID": "968858492",
+          "name": "同看辽宁vs广州"
         },
         {
           "pID": "968858649",
