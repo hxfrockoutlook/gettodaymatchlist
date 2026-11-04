@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-04 10:01:46",
+  "updateTime": "2026-11-04 10:31:31",
   "data": [
     {
       "mgdbId": "120000590418",
@@ -148,25 +148,37 @@
     },
     {
       "mgdbId": "120000598637",
-      "pID": "969072246",
+      "pID": "969072301",
       "title": "胡哲安男单领衔 星驰组合亮相",
       "keyword": "11月04日09:00",
       "sportItemId": "6",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "BWF",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/04/77T0P7MT0B7P.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/04/77T0PG2GP7A2.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "胡哲安男单领衔 星驰组合亮相",
       "modifyTitle": "韩国羽毛球公开赛第二日：胡哲安男单领衔 星驰组合亮相",
-      "presenters": "鸿昆 轩子博 于筱睿 张婕 金子嘉 余博洋 杨妮娜",
+      "presenters": "轩子博 鸿昆 于筱睿 张婕 金子嘉 余博洋 杨妮娜",
       "matchInfo": {
         "time": "11月04日09:00"
       },
       "nodes": [
         {
-          "pID": "969072246",
-          "name": "程星/张驰VS李亨雨/朴璱"
+          "pID": "969072301",
+          "name": "胡哲安VS古贺穗"
+        },
+        {
+          "pID": "969072330",
+          "name": "董天尧VS冲本优大"
+        },
+        {
+          "pID": "969072228",
+          "name": "西本拳太VS法汉"
+        },
+        {
+          "pID": "968982417",
+          "name": "3号场地"
         },
         {
           "pID": "968982394",
@@ -177,20 +189,8 @@
           "name": "1号场地"
         },
         {
-          "pID": "968982417",
-          "name": "3号场地"
-        },
-        {
           "pID": "968982451",
           "name": "4号场地"
-        },
-        {
-          "pID": "969072301",
-          "name": "胡哲安VS古贺穗"
-        },
-        {
-          "pID": "969072228",
-          "name": "西本拳太VS法汉"
         },
         {
           "pID": "969072233",
@@ -225,8 +225,8 @@
           "name": "明地阳菜VS徐文婧"
         },
         {
-          "pID": "969072330",
-          "name": "董天尧VS冲本优大"
+          "pID": "969072246",
+          "name": "程星/张驰VS李亨雨/朴璱"
         }
       ]
     },
@@ -257,7 +257,7 @@
     {
       "mgdbId": "120000597673",
       "pID": "968659880",
-      "title": "丁俊晖PK囧哥、瓦菲出战",
+      "title": "丁俊晖VS凯伦·威尔逊 范争一VS瓦菲",
       "keyword": "11月04日14:00",
       "sportItemId": "8",
       "matchStatus": "0",
@@ -265,8 +265,8 @@
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/04/77T0Q21G94SB.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "丁俊晖PK囧哥、瓦菲出战",
-      "modifyTitle": "斯诺克国际锦标赛1/4决赛：丁俊晖PK囧哥、瓦菲出战",
+      "pkInfoTitle": "丁俊晖VS凯伦·威尔逊 范争一VS瓦菲",
+      "modifyTitle": "斯诺克国际锦标赛1/4决赛：丁俊晖VS凯伦·威尔逊 范争一VS瓦菲",
       "presenters": "秦正 乔迁",
       "matchInfo": {
         "time": "11月04日14:00"
@@ -675,7 +675,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "赵心童PK常冰玉 傅家俊PK希金斯",
       "modifyTitle": "斯诺克国际锦标赛1/4决赛：赵心童PK常冰玉 傅家俊PK希金斯",
-      "presenters": "宾汉姆 柏林 洪豆",
+      "presenters": "宾汉姆 柏林 洪豆 朱峰立",
       "matchInfo": {
         "time": "11月04日19:00"
       },
@@ -699,6 +699,10 @@
         {
           "pID": "968826369",
           "name": "AI智慧分析"
+        },
+        {
+          "pID": "969087366",
+          "name": "朱峰立"
         }
       ]
     },
