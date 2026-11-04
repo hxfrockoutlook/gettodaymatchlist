@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-05 05:02:01",
+  "updateTime": "2026-11-05 05:31:49",
   "data": [
     {
       "mgdbId": "120000590511",
@@ -109,7 +109,7 @@
       "competitionName": "WTT",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/05/77T1KUS07J6V.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "沙宾·温特迎首胜 林锺勋���二追三晋级",
+      "pkInfoTitle": "沙宾·温特迎首��� 林锺勋让二追三晋级",
       "modifyTitle": "WTT法兰克福冠军赛男女单打1/16决赛",
       "presenters": "赵曦",
       "matchInfo": {
@@ -153,8 +153,16 @@
       },
       "nodes": [
         {
+          "pID": "969120916",
+          "name": "全场集锦"
+        },
+        {
           "pID": "969120164",
           "name": "全场回放（洪宇青）"
+        },
+        {
+          "pID": "969121102",
+          "name": "全场回放"
         }
       ]
     },
@@ -176,6 +184,10 @@
         "time": "11月05日02:15"
       },
       "nodes": [
+        {
+          "pID": "969120899",
+          "name": "全场集锦"
+        },
         {
           "pID": "969120405",
           "name": "全场回放（周楚雄）"
