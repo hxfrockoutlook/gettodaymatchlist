@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-04 21:01:46",
+  "updateTime": "2026-11-04 21:31:53",
   "data": [
     {
       "mgdbId": "120000590418",
@@ -174,7 +174,7 @@
         },
         {
           "pID": "969100550",
-          "name": "【回放】韩千禧2-0杰斯瓦尔（杨妮娜）"
+          "name": "【回放】韩千禧2-0���斯瓦尔（杨妮娜）"
         },
         {
           "pID": "969098769",
@@ -219,6 +219,14 @@
         {
           "pID": "969103774",
           "name": "2026BWF韩国羽毛球公开赛女单1/16决赛回放：明地阳菜2-0徐文婧（鸿昆）"
+        },
+        {
+          "pID": "969105437",
+          "name": "2026BWF韩国羽毛球公开赛Day2一号场地全场回放（赛场原声）（二）"
+        },
+        {
+          "pID": "969105907",
+          "name": "2026BWF韩国羽毛球公开赛Day2二号场地全场回放（赛场原声）（二）"
         }
       ]
     },
@@ -391,10 +399,6 @@
         {
           "pID": "969103744",
           "name": "全场回放（邵凌霄）"
-        },
-        {
-          "pID": "969104306",
-          "name": "全场回放"
         }
       ]
     },
@@ -563,6 +567,10 @@
         {
           "pID": "969104401",
           "name": "全场回放（智能解说）"
+        },
+        {
+          "pID": "969105668",
+          "name": "全场回放"
         }
       ]
     },
@@ -599,7 +607,7 @@
       "matchStatus": "2",
       "matchField": "中央球场",
       "competitionName": "亚冠女足",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000592349/202610271540_336296_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000592349/202611042100_844286_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/9/1000000013211060eb7f.png",
       "pkInfoTitle": "卡雅 vs 墨尔本城",
       "modifyTitle": "亚冠女足小组赛",
@@ -644,7 +652,7 @@
       "title": "东亚超级联赛A组常规赛",
       "keyword": "11月04日19:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "东亚超级联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/04/77T0MR9ME8QA.png",
@@ -657,16 +665,8 @@
       },
       "nodes": [
         {
-          "pID": "969066013",
-          "name": "石楷文"
-        },
-        {
-          "pID": "968074995",
-          "name": "英文解说"
-        },
-        {
-          "pID": "968075020",
-          "name": "赛场原声"
+          "pID": "969105628",
+          "name": "全场回放（石楷文）"
         }
       ]
     },
@@ -717,21 +717,25 @@
     {
       "mgdbId": "120000598238",
       "pID": "968854024",
-      "title": "王艺迪迎战韩莹 温瑞博争开门红",
+      "title": "温瑞博争开门红 王艺迪0-3韩莹",
       "keyword": "11月04日19:00",
       "sportItemId": "7",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/04/77T0OULO4AQF.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/04/77T0P5EGK95S.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "王艺迪迎战韩莹 温瑞博争开门红",
+      "pkInfoTitle": "温瑞博争开门红 王艺迪0-3韩莹",
       "modifyTitle": "WTT法兰克福冠军赛男女单打1/16决赛",
       "presenters": "周冠达 程靖淇 杨硕",
       "matchInfo": {
         "time": "11月04日19:00"
       },
       "nodes": [
+        {
+          "pID": "969105269",
+          "name": "王艺迪集锦"
+        },
         {
           "pID": "968854024",
           "name": "周冠达 程靖淇 杨硕"
@@ -752,7 +756,7 @@
     },
     {
       "mgdbId": "120000598835",
-      "pID": "969103569",
+      "pID": "969104690",
       "title": "女篮俱乐部杯",
       "keyword": "11月04日19:00",
       "sportItemId": "2",
@@ -769,28 +773,24 @@
       },
       "nodes": [
         {
-          "pID": "969103569",
-          "name": "降维打击！张子宇内线接球无视防守轻松打进"
-        },
-        {
-          "pID": "969022938",
-          "name": "赛场原声"
+          "pID": "969104690",
+          "name": "全场集锦"
         }
       ]
     },
     {
       "mgdbId": "120000598699",
       "pID": "969022641",
-      "title": "温州VS金华",
+      "title": "温州103-69金华",
       "keyword": "11月04日19:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "浙BA",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/02/77N92ACGBBVQ.png",
-      "pkInfoTitle": "温州VS金华",
-      "modifyTitle": "温州VS金华",
+      "pkInfoTitle": "温州103-69金华",
+      "modifyTitle": "温州103-69金华",
       "presenters": "",
       "matchInfo": {
         "time": "11月04日19:30"
@@ -805,16 +805,16 @@
     {
       "mgdbId": "120000598700",
       "pID": "969022644",
-      "title": "海宁VS衢州",
+      "title": "海宁59-82衢州",
       "keyword": "11月04日19:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "浙BA",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/02/77N92ACGBBVQ.png",
-      "pkInfoTitle": "海宁VS衢州",
-      "modifyTitle": "海宁VS衢州",
+      "pkInfoTitle": "海宁59-82衢州",
+      "modifyTitle": "海宁59-82衢州",
       "presenters": "",
       "matchInfo": {
         "time": "11月04日19:30"
@@ -829,16 +829,16 @@
     {
       "mgdbId": "120000598701",
       "pID": "969022661",
-      "title": "宁海VS玉环",
+      "title": "宁海91-86玉环",
       "keyword": "11月04日19:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "浙BA",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/02/77N92ACGBBVQ.png",
-      "pkInfoTitle": "宁海VS玉环",
-      "modifyTitle": "宁海VS玉环",
+      "pkInfoTitle": "宁海91-86玉环",
+      "modifyTitle": "宁海91-86玉环",
       "presenters": "",
       "matchInfo": {
         "time": "11月04日19:30"
@@ -883,7 +883,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "女篮俱乐部杯",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/03/77SVS3Q31BG9.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/04/77T0P7AGQA09.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/2/3/100000001407106f1262.png",
       "pkInfoTitle": "武汉盛帆 VS 广西金海",
       "modifyTitle": "女篮俱乐部杯",
@@ -904,11 +904,11 @@
     },
     {
       "mgdbId": "120000598833",
-      "pID": "969022965",
+      "pID": "969104217",
       "title": "女篮俱乐部杯",
       "keyword": "11月04日19:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "女篮俱乐部杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/03/77SVR6COETDD.jpg",
@@ -920,6 +920,10 @@
         "time": "11月04日19:30"
       },
       "nodes": [
+        {
+          "pID": "969104217",
+          "name": "连续拿分！张曼曼突破上篮强势打进2+1"
+        },
         {
           "pID": "969022965",
           "name": "赛场原声"
@@ -1040,7 +1044,7 @@
       "title": "亚冠二级小组赛",
       "keyword": "11月04日21:45",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "Arkadag Stadiony",
       "competitionName": "亚冠二级",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000590514/202608190839_311893_H169_1080.webp",
