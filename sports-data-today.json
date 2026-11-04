@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-04 07:31:33",
+  "updateTime": "2026-11-04 08:01:42",
   "data": [
     {
       "mgdbId": "120000590418",
@@ -56,6 +56,10 @@
         "time": "11月04日00:00"
       },
       "nodes": [
+        {
+          "pID": "969085247",
+          "name": "全场集锦"
+        },
         {
           "pID": "969082955",
           "name": "全场回放（洪宇青）"
@@ -123,7 +127,7 @@
       "pID": "968818216",
       "title": "咪咕体育日报 第231期",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "咪咕体育日报",
       "padImg": "",
@@ -175,7 +179,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "胡哲安男单领衔 星驰组合亮相",
       "modifyTitle": "韩国羽毛球公开赛第二日：胡哲安男单领衔 星驰组合亮相",
-      "presenters": "于筱睿 张婕 金子嘉 鸿昆 余博洋 杨妮娜 轩子博",
+      "presenters": "鸿昆 于筱睿 张婕 金子嘉 余博洋 杨妮娜 轩子博",
       "matchInfo": {
         "time": "11月04日09:00"
       },
@@ -197,6 +201,14 @@
           "name": "4号场地"
         },
         {
+          "pID": "969072310",
+          "name": "德鲁夫/马尼夏VS朱一珺/李茜"
+        },
+        {
+          "pID": "969072246",
+          "name": "程星/张驰VS李亨雨/朴璱"
+        },
+        {
           "pID": "969072228",
           "name": "西本拳太VS法汉"
         },
@@ -207,10 +219,6 @@
         {
           "pID": "969072239",
           "name": "安洗莹VS卡洛亚娜"
-        },
-        {
-          "pID": "969072246",
-          "name": "程星/张驰VS李亨雨/朴璱"
         },
         {
           "pID": "969072262",
@@ -231,10 +239,6 @@
         {
           "pID": "969072301",
           "name": "胡哲安VS古贺穗"
-        },
-        {
-          "pID": "969072310",
-          "name": "德鲁夫/马尼夏VS朱一珺/李茜"
         },
         {
           "pID": "969072321",
@@ -523,7 +527,7 @@
       "matchStatus": "0",
       "matchField": "钢厂球场",
       "competitionName": "亚冠精英",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000590410/202608190645_767921_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000590410/371945_H169_sc.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/9/11/1000000012261060873b.png",
       "pkInfoTitle": "浦项铁人 vs 大阪钢巴",
       "modifyTitle": "亚冠精英联赛阶段",
