@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-04 17:01:46",
+  "updateTime": "2026-11-04 17:31:40",
   "data": [
     {
       "mgdbId": "120000590418",
@@ -165,16 +165,16 @@
       },
       "nodes": [
         {
+          "pID": "968982417",
+          "name": "3号场地"
+        },
+        {
           "pID": "969072295",
           "name": "宫崎友花VS黄瀞平"
         },
         {
           "pID": "968982394",
           "name": "2号场地"
-        },
-        {
-          "pID": "968982417",
-          "name": "3号场地"
         },
         {
           "pID": "968982356",
@@ -256,7 +256,7 @@
     },
     {
       "mgdbId": "120000597673",
-      "pID": "969087339",
+      "pID": "969087342",
       "title": "丁俊晖VS凯伦·威尔逊 范争一VS瓦菲",
       "keyword": "11月04日14:00",
       "sportItemId": "8",
@@ -267,19 +267,11 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "丁俊晖VS凯伦·威尔逊 范争一VS瓦菲",
       "modifyTitle": "斯诺克国际锦标赛1/4决赛：丁俊晖VS凯伦·威尔逊 范争一VS瓦菲",
-      "presenters": "秦正 乔迁",
+      "presenters": "乔迁 秦正",
       "matchInfo": {
         "time": "11月04日14:00"
       },
       "nodes": [
-        {
-          "pID": "969087339",
-          "name": "秦正"
-        },
-        {
-          "pID": "968659880",
-          "name": "1号桌"
-        },
         {
           "pID": "969087342",
           "name": "乔迁"
@@ -287,6 +279,14 @@
         {
           "pID": "968659944",
           "name": "2号桌"
+        },
+        {
+          "pID": "969087339",
+          "name": "秦正"
+        },
+        {
+          "pID": "968659880",
+          "name": "1号桌"
         },
         {
           "pID": "968826296",
@@ -320,11 +320,11 @@
     },
     {
       "mgdbId": "120000598840",
-      "pID": "969022917",
+      "pID": "969101208",
       "title": "女篮俱乐部杯",
       "keyword": "11月04日15:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "女篮俱乐部杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/03/77SVR8B7ARIC.jpg",
@@ -337,8 +337,8 @@
       },
       "nodes": [
         {
-          "pID": "969022917",
-          "name": "赛场原声"
+          "pID": "969101208",
+          "name": "全场集锦"
         }
       ]
     },
