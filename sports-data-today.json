@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-04 20:31:40",
+  "updateTime": "2026-11-04 21:01:46",
   "data": [
     {
       "mgdbId": "120000590418",
@@ -523,6 +523,14 @@
         {
           "pID": "969104253",
           "name": "全场回放（涂远）"
+        },
+        {
+          "pID": "969104497",
+          "name": "全场回放（智能解说）"
+        },
+        {
+          "pID": "969104521",
+          "name": "全场回放（AI观赛）"
         }
       ]
     },
@@ -547,6 +555,14 @@
         {
           "pID": "969104199",
           "name": "全场回放（刘洋）"
+        },
+        {
+          "pID": "969104318",
+          "name": "全场回放（AI智慧观赛）"
+        },
+        {
+          "pID": "969104401",
+          "name": "全场回放（智能解说）"
         }
       ]
     },
@@ -593,22 +609,18 @@
       },
       "nodes": [
         {
-          "pID": "968878201",
-          "name": "兰子非"
-        },
-        {
-          "pID": "968878169",
-          "name": "赛场原声"
+          "pID": "969104425",
+          "name": "全场回放（兰子非）"
         }
       ]
     },
     {
       "mgdbId": "120000595574",
-      "pID": "969066032",
+      "pID": "969104605",
       "title": "东亚超级联赛C组常规赛",
       "keyword": "11月04日18:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "东亚超级联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/04/77T0MRM9ONLE.png",
@@ -621,16 +633,8 @@
       },
       "nodes": [
         {
-          "pID": "969066032",
-          "name": "季孟年"
-        },
-        {
-          "pID": "968074955",
-          "name": "英文解说"
-        },
-        {
-          "pID": "968074972",
-          "name": "赛场原声"
+          "pID": "969104605",
+          "name": "全场回放（季孟年）"
         }
       ]
     },
@@ -748,14 +752,14 @@
     },
     {
       "mgdbId": "120000598835",
-      "pID": "969022938",
+      "pID": "969103569",
       "title": "女篮俱乐部杯",
       "keyword": "11月04日19:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "女篮俱乐部杯",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/03/77SVR265J2ON.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/04/77T0P0S3BLIE.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/2/3/100000001407106f1262.png",
       "pkInfoTitle": "四川远达美乐 VS 山东山高",
       "modifyTitle": "女篮俱乐部杯",
@@ -764,6 +768,10 @@
         "time": "11月04日19:00"
       },
       "nodes": [
+        {
+          "pID": "969103569",
+          "name": "降维打击！张子宇内线接球无视防守轻松打进"
+        },
         {
           "pID": "969022938",
           "name": "赛场原声"
@@ -1008,7 +1016,7 @@
       "title": "加拿大温哥华站 25分钟版",
       "keyword": "11月04日21:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "短道速滑世界巡回赛",
       "padImg": "",
