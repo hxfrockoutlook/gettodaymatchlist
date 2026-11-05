@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-05 22:02:31",
+  "updateTime": "2026-11-05 22:32:40",
   "data": [
     {
       "mgdbId": "120000590511",
@@ -109,7 +109,7 @@
       "competitionName": "WTT",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/05/77T1KUS07J6V.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "沙宾·温特迎首胜 林��勋让二追三晋级",
+      "pkInfoTitle": "沙宾·温特迎首胜 林锺勋让二追三晋级",
       "modifyTitle": "WTT法兰克福冠军赛男女单打1/16决赛",
       "presenters": "赵曦",
       "matchInfo": {
@@ -530,7 +530,7 @@
         },
         {
           "pID": "969128816",
-          "name": "全场回放（罗��）"
+          "name": "全场回放（罗森）"
         },
         {
           "pID": "969129797",
@@ -1113,6 +1113,10 @@
       },
       "nodes": [
         {
+          "pID": "969148998",
+          "name": "2026WTA250香港站女单第2轮回放：瓦伦托娃0-2伊埃拉（英文原声）"
+        },
+        {
           "pID": "969143445",
           "name": "【女双1/4决赛】吉布森/英格利斯2-0汤千慧/叶秋语（宋光振）"
         },
@@ -1484,38 +1488,6 @@
       ]
     },
     {
-      "mgdbId": "120000590508",
-      "pID": "968879619",
-      "title": "亚冠二级小组赛",
-      "keyword": "11月05日18:00",
-      "sportItemId": "1",
-      "matchStatus": "2",
-      "matchField": "惹兰勿刹球场",
-      "competitionName": "亚冠二级",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000590508/202608190837_440726_H169_1080.webp",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/9/11/100000001227106e764f.png",
-      "pkInfoTitle": "狮城水手 vs 阿德莱德联",
-      "modifyTitle": "亚冠二级小组赛",
-      "presenters": "鹿中原",
-      "matchInfo": {
-        "time": "11月05日18:00"
-      },
-      "nodes": [
-        {
-          "pID": "968879619",
-          "name": "鹿中原"
-        },
-        {
-          "pID": "968879578",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "968917032",
-          "name": "智能解说"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000595576",
       "pID": "969146085",
       "title": "东亚超级联赛B组常规赛",
@@ -1629,14 +1601,14 @@
       "title": "斯诺克国际锦标赛半决赛：凯伦·威尔逊 9-6 范争一",
       "keyword": "11月05日19:10",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/05/77T1LOUK6MOT.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "凯伦·威尔逊 9-6 范争一",
       "modifyTitle": "斯诺克国际锦标赛半决赛：凯伦·威尔逊 9-6 范争一",
-      "presenters": "宾汉姆",
+      "presenters": "",
       "matchInfo": {
         "time": "11月05日19:10"
       },
@@ -1672,6 +1644,38 @@
         {
           "pID": "969147303",
           "name": "【回放】瓦伦托娃0-2伊埃拉（李宁）"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000590508",
+      "pID": "968879619",
+      "title": "亚冠二级小组赛",
+      "keyword": "11月05日19:30",
+      "sportItemId": "1",
+      "matchStatus": "2",
+      "matchField": "惹兰勿刹球场",
+      "competitionName": "亚冠二级",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000590508/202608190837_440726_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/9/11/100000001227106e764f.png",
+      "pkInfoTitle": "狮城水手 vs 阿德莱德联",
+      "modifyTitle": "亚冠二级小组赛",
+      "presenters": "鹿中原",
+      "matchInfo": {
+        "time": "11月05日19:30"
+      },
+      "nodes": [
+        {
+          "pID": "969148822",
+          "name": "全场回放（鹿中原）"
+        },
+        {
+          "pID": "969149198",
+          "name": "全场回放"
+        },
+        {
+          "pID": "969149207",
+          "name": "全场回放"
         }
       ]
     },
@@ -1729,7 +1733,7 @@
       "title": "义乌88-85宁波",
       "keyword": "11月05日19:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "浙BA",
       "padImg": "",
@@ -1825,11 +1829,11 @@
     },
     {
       "mgdbId": "120000598951",
-      "pID": "969072096",
+      "pID": "968642904",
       "title": "中国篮球放映室：广东vs浙证",
       "keyword": "11月05日19:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "CBA经典赛事",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/04/77T0NOKSIVMV.jpg",
@@ -1842,8 +1846,8 @@
       },
       "nodes": [
         {
-          "pID": "969072096",
-          "name": "杨健 巩晓彬 王仕鹏 杨毅"
+          "pID": "968642904",
+          "name": "全场回放（杨健、巩晓彬、王仕鹏、杨毅、拜月宁）"
         }
       ]
     },
@@ -1873,7 +1877,7 @@
     },
     {
       "mgdbId": "300000002530",
-      "pID": "969146926",
+      "pID": "969098272",
       "title": "《篮色狂想》第三期",
       "sportItemId": "2",
       "matchStatus": "2",
@@ -1887,10 +1891,6 @@
       "matchInfo": {},
       "nodes": [
         {
-          "pID": "969146926",
-          "name": "金句王！郭艾伦：能坦然承认自己是 Loser 本身就是 Winner"
-        },
-        {
           "pID": "969098272",
           "name": "杨健 郭艾伦 霍楠 杨毅"
         }
@@ -1899,15 +1899,15 @@
     {
       "mgdbId": "120000598240",
       "pID": "968854172",
-      "title": "梁靖崑首轮战雨果 蒯曼斩获开门红",
+      "title": "梁靖崑2-3憾负雨果 蒯曼斩获开门红",
       "keyword": "11月05日20:00",
       "sportItemId": "7",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/05/77T1M8UCSJK0.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/05/77T1MI8JN73G.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "梁靖崑首轮战雨果 蒯曼斩获开门红",
+      "pkInfoTitle": "梁靖崑2-3憾负雨果 蒯曼斩获开门红",
       "modifyTitle": "WTT法兰克福冠军赛男女单打1/16决赛",
       "presenters": "周冠达 程靖淇 杨硕",
       "matchInfo": {
@@ -1927,6 +1927,10 @@
           "name": "蒯曼集锦"
         },
         {
+          "pID": "969149205",
+          "name": "梁靖崑2-3雨果"
+        },
+        {
           "pID": "968854187",
           "name": "赛场原声"
         },
@@ -1942,7 +1946,7 @@
       "title": "亚冠二级小组赛",
       "keyword": "11月05日20:15",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Stadium Taha Arifin",
       "competitionName": "亚冠二级",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000590503/202608191250_659985_H169_1080.webp",
@@ -1970,10 +1974,10 @@
       "title": "亚冠二级小组赛",
       "keyword": "11月05日20:15",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Morodok Techo National Stadium",
       "competitionName": "亚冠二级",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000590504/671766_H169_sc.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/05/77T1MINF5HUC.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/9/11/100000001227106e764f.png",
       "pkInfoTitle": "柴桢王权圣剑 vs 淡宾尼流浪者",
       "modifyTitle": "亚冠二级小组赛",
@@ -1983,12 +1987,8 @@
       },
       "nodes": [
         {
-          "pID": "968879261",
-          "name": "张天翼"
-        },
-        {
-          "pID": "968879240",
-          "name": "赛场原声"
+          "pID": "969149325",
+          "name": "全场回放（张天翼）"
         }
       ]
     },
@@ -1998,7 +1998,7 @@
       "title": "亚冠二级小组赛",
       "keyword": "11月05日20:15",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "BG體育場",
       "competitionName": "亚冠二级",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000590505/202608190836_521598_H169_1080.webp",
@@ -2026,7 +2026,7 @@
       "title": "短道速滑世界巡回赛 加拿大蒙特利尔站 1",
       "keyword": "11月05日21:05",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "短道速滑世界巡回赛",
       "padImg": "",
