@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-05 20:02:27",
+  "updateTime": "2026-11-05 20:32:19",
   "data": [
     {
       "mgdbId": "120000590511",
@@ -109,7 +109,7 @@
       "competitionName": "WTT",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/05/77T1KUS07J6V.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "沙宾·温特迎首胜 林锺��让二追三晋级",
+      "pkInfoTitle": "沙宾·温特迎首胜 林锺勋让���追三晋级",
       "modifyTitle": "WTT法兰克福冠军赛男女单打1/16决赛",
       "presenters": "赵曦",
       "matchInfo": {
@@ -604,22 +604,26 @@
     },
     {
       "mgdbId": "120000598638",
-      "pID": "969108881",
+      "pID": "969110525",
       "title": "冲八强！丫邦、星驰组合率先晋级",
       "keyword": "11月05日09:00",
       "sportItemId": "6",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "BWF",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/05/77T1LQE0G17N.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/05/77T1M035F105.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "冲八强！丫邦、星驰组合率先晋级",
       "modifyTitle": "韩国羽毛球公开赛第三日：冲八强！丫邦、星驰组合率先晋级",
-      "presenters": "朱胤丞 孙宁智 鸿昆 余博洋 杨妮娜 张婕 荆裕洲",
+      "presenters": "鸿昆 朱胤丞 孙宁智 余博洋 杨妮娜 张婕 荆裕洲",
       "matchInfo": {
         "time": "11月05日09:00"
       },
       "nodes": [
+        {
+          "pID": "969110525",
+          "name": "王昶/谢浩南VS松居圭一郎/三桥健也"
+        },
         {
           "pID": "969108881",
           "name": "金裕贞/李幽琳VS罗意/王汀戈"
@@ -627,6 +631,10 @@
         {
           "pID": "969109133",
           "name": "林祥毅/曾维瀚VS熊谷翔/西大辉"
+        },
+        {
+          "pID": "968982610",
+          "name": "3号场地"
         },
         {
           "pID": "968982552",
@@ -637,20 +645,12 @@
           "name": "2号场地"
         },
         {
-          "pID": "968982610",
-          "name": "3号场地"
-        },
-        {
           "pID": "968981999",
           "name": "1号场地英文视角"
         },
         {
           "pID": "968981884",
           "name": "1号场地"
-        },
-        {
-          "pID": "969110525",
-          "name": "王昶/谢浩南VS松居圭一郎/三桥健也"
         },
         {
           "pID": "969108954",
@@ -1257,7 +1257,7 @@
     },
     {
       "mgdbId": "120000598806",
-      "pID": "969143176",
+      "pID": "969142360",
       "title": "女篮俱乐部杯",
       "keyword": "11月05日16:30",
       "sportItemId": "2",
@@ -1273,6 +1273,10 @@
         "time": "11月05日16:30"
       },
       "nodes": [
+        {
+          "pID": "969142360",
+          "name": "全场集锦"
+        },
         {
           "pID": "969143176",
           "name": "全场回放（赛场原声）"
@@ -1298,12 +1302,12 @@
       },
       "nodes": [
         {
-          "pID": "969144259",
-          "name": "全场回放"
-        },
-        {
           "pID": "969142652",
           "name": "全场集锦"
+        },
+        {
+          "pID": "969144259",
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
@@ -1326,14 +1330,14 @@
       },
       "nodes": [
         {
-          "pID": "969101702",
-          "name": "解说"
+          "pID": "969144870",
+          "name": "2026中国之队·银川五人制国际足球邀请赛全场回放：中国香港0:6伊朗（官方解说）"
         }
       ]
     },
     {
       "mgdbId": "120000598799",
-      "pID": "969065306",
+      "pID": "969143230",
       "title": "女篮俱乐部杯",
       "keyword": "11月05日17:00",
       "sportItemId": "2",
@@ -1350,8 +1354,16 @@
       },
       "nodes": [
         {
+          "pID": "969143230",
+          "name": "全场集锦"
+        },
+        {
           "pID": "969144117",
-          "name": "全场回放"
+          "name": "全场回放（官方解说）"
+        },
+        {
+          "pID": "969145090",
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
@@ -1396,7 +1408,7 @@
       "matchStatus": "2",
       "matchField": "旺角大球场",
       "competitionName": "亚冠二级",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000590506/202608190836_103687_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000590506/202611052010_433872_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/9/11/100000001227106e764f.png",
       "pkInfoTitle": "杰志 vs 金边皇冠",
       "modifyTitle": "亚冠二级小组赛",
@@ -1406,16 +1418,16 @@
       },
       "nodes": [
         {
-          "pID": "968879306",
-          "name": "周楚雄"
+          "pID": "969145349",
+          "name": "全场回放"
         },
         {
-          "pID": "968879294",
-          "name": "赛场原声"
+          "pID": "969145497",
+          "name": "全场回放"
         },
         {
-          "pID": "968916886",
-          "name": "智能解说"
+          "pID": "969145602",
+          "name": "全场回放"
         }
       ]
     },
@@ -1425,7 +1437,7 @@
       "title": "亚冠二级小组赛",
       "keyword": "11月05日18:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "町田市立陆上竞技场",
       "competitionName": "亚冠二级",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/05/77T1LQ7TN4S3.jpg",
@@ -1438,15 +1450,39 @@
       },
       "nodes": [
         {
-          "pID": "968879371",
-          "name": "石庆圣 李彦 孙蕊"
+          "pID": "969145040",
+          "name": "全场集锦"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000590508",
+      "pID": "968879619",
+      "title": "亚冠二级小组赛",
+      "keyword": "11月05日18:00",
+      "sportItemId": "1",
+      "matchStatus": "1",
+      "matchField": "惹兰勿刹球场",
+      "competitionName": "亚冠二级",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000590508/202608190837_440726_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/9/11/100000001227106e764f.png",
+      "pkInfoTitle": "狮城水手 vs 阿德莱德联",
+      "modifyTitle": "亚冠二级小组赛",
+      "presenters": "鹿中原",
+      "matchInfo": {
+        "time": "11月05日18:00"
+      },
+      "nodes": [
+        {
+          "pID": "968879619",
+          "name": "鹿中原"
         },
         {
-          "pID": "968879353",
+          "pID": "968879578",
           "name": "赛场原声"
         },
         {
-          "pID": "968916952",
+          "pID": "968917032",
           "name": "智能解说"
         }
       ]
@@ -1457,7 +1493,7 @@
       "title": "东亚超级联赛B组常规赛",
       "keyword": "11月05日18:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "东亚超级联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/04/77T0MU69K0DG.png",
@@ -1470,16 +1506,8 @@
       },
       "nodes": [
         {
-          "pID": "969066038",
-          "name": "周鹏"
-        },
-        {
-          "pID": "968075033",
-          "name": "英文解说"
-        },
-        {
-          "pID": "968075061",
-          "name": "赛场原声"
+          "pID": "969145123",
+          "name": "全场回放（周鹏）"
         }
       ]
     },
@@ -1504,38 +1532,6 @@
         {
           "pID": "969087960",
           "name": "庄宁宇 刘炜 陈正昊"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000590508",
-      "pID": "968879619",
-      "title": "亚冠二级小组赛",
-      "keyword": "11月05日19:00",
-      "sportItemId": "1",
-      "matchStatus": "1",
-      "matchField": "惹兰勿刹球场",
-      "competitionName": "亚冠二级",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000590508/202608190837_440726_H169_1080.webp",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/9/11/100000001227106e764f.png",
-      "pkInfoTitle": "狮城水手 vs 阿德莱德联",
-      "modifyTitle": "亚冠二级小组赛",
-      "presenters": "鹿中原",
-      "matchInfo": {
-        "time": "11月05日19:00"
-      },
-      "nodes": [
-        {
-          "pID": "968879619",
-          "name": "鹿中原"
-        },
-        {
-          "pID": "968879578",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "968917032",
-          "name": "智能解说"
         }
       ]
     },
