@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-05 15:32:12",
+  "updateTime": "2026-11-05 16:02:14",
   "data": [
     {
       "mgdbId": "120000590511",
@@ -109,7 +109,7 @@
       "competitionName": "WTT",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/05/77T1KUS07J6V.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "沙宾·温特迎��胜 林锺勋让二追三晋级",
+      "pkInfoTitle": "沙宾·温特迎首胜 林锺��让二追三晋级",
       "modifyTitle": "WTT法兰克福冠军赛男女单打1/16决赛",
       "presenters": "赵曦",
       "matchInfo": {
@@ -509,7 +509,7 @@
     {
       "mgdbId": "120000588351",
       "pID": "969129032",
-      "title": "NBA常���赛",
+      "title": "NBA常规赛",
       "keyword": "11月05日09:00",
       "sportItemId": "2",
       "matchStatus": "2",
@@ -825,6 +825,10 @@
           "name": "全场回放（邢晨）"
         },
         {
+          "pID": "969136048",
+          "name": "全场回放（英文原声）"
+        },
+        {
           "pID": "969127108",
           "name": "第一节"
         },
@@ -916,12 +920,12 @@
     },
     {
       "mgdbId": "120000588357",
-      "pID": "969129622",
+      "pID": "969131005",
       "title": "NBA常规赛",
       "keyword": "11月05日11:00",
       "sportItemId": "2",
       "matchStatus": "2",
-      "matchField": "金色一���中心",
+      "matchField": "金色一号中心",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/05/77T1K2CQ2TVS.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
@@ -939,6 +943,10 @@
         {
           "pID": "969131505",
           "name": "全场回放（孙博、曾令旭、秋童）"
+        },
+        {
+          "pID": "969136252",
+          "name": "全场回放（英文原声）"
         },
         {
           "pID": "969129685",
@@ -1957,6 +1965,30 @@
         {
           "pID": "968879027",
           "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000600035",
+      "pID": "969135057",
+      "title": "短道速滑世界巡回赛 加拿大蒙特利尔站 1",
+      "keyword": "11月05日21:05",
+      "sportItemId": "8",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "短道速滑世界巡回赛",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/10/29/100000001571106812a8.png",
+      "pkInfoTitle": "短道速滑世界巡回赛 加拿大蒙特利尔站 1",
+      "modifyTitle": "短道速滑世界巡回赛 加拿大蒙特利尔站 1",
+      "presenters": "",
+      "matchInfo": {
+        "time": "11月05日21:05"
+      },
+      "nodes": [
+        {
+          "pID": "969135057",
+          "name": "解说"
         }
       ]
     }
