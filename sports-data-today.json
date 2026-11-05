@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-05 18:02:12",
+  "updateTime": "2026-11-05 18:32:04",
   "data": [
     {
       "mgdbId": "120000590511",
@@ -109,7 +109,7 @@
       "competitionName": "WTT",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/05/77T1KUS07J6V.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "沙宾·温特迎���胜 林锺勋让二追三晋级",
+      "pkInfoTitle": "沙宾·温特迎首胜 林锺勋让二追三晋级",
       "modifyTitle": "WTT法兰克福冠军赛男女单打1/16决赛",
       "presenters": "赵曦",
       "matchInfo": {
@@ -530,7 +530,7 @@
         },
         {
           "pID": "969128816",
-          "name": "全场回放（罗森）"
+          "name": "全场回放（罗森���"
         },
         {
           "pID": "969129797",
@@ -615,11 +615,15 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "冲八强！丫邦、星驰组合率先晋级",
       "modifyTitle": "韩国羽毛球公开赛第三日：冲八强！丫邦、星驰组合率先晋级",
-      "presenters": "杨妮娜 朱胤丞 孙宁智 荆裕洲 鸿昆 余博洋 张婕",
+      "presenters": "荆裕洲 杨妮娜 朱胤丞 孙宁智 鸿昆 余博洋 张婕",
       "matchInfo": {
         "time": "11月05日09:00"
       },
       "nodes": [
+        {
+          "pID": "969110111",
+          "name": "金元浩/徐承宰VS真龙/赵松炫"
+        },
         {
           "pID": "969109754",
           "name": "李怡婧/王漪朵VS铃木阳向/山北奈绪"
@@ -655,10 +659,6 @@
         {
           "pID": "969109133",
           "name": "林祥毅/曾维瀚VS熊谷翔/西大辉"
-        },
-        {
-          "pID": "969110111",
-          "name": "金元浩/徐承宰VS真龙/赵松炫"
         },
         {
           "pID": "969110525",
@@ -1071,6 +1071,10 @@
         {
           "pID": "969140765",
           "name": "26/27赛季斯诺克国际锦标赛半决赛第一阶段回放：凯伦·威尔逊3-5范争一（秦正）"
+        },
+        {
+          "pID": "969142650",
+          "name": "26/27赛季斯诺克国际锦标赛半决赛第一阶段回放：凯伦·威尔逊3-5范争一（赛场原声）"
         }
       ]
     },
@@ -1193,8 +1197,8 @@
       },
       "nodes": [
         {
-          "pID": "969098944",
-          "name": "解说"
+          "pID": "969142565",
+          "name": "2026环四姑娘山超级越野跑全场回放（官方解说）"
         }
       ]
     },
@@ -1249,7 +1253,7 @@
       "title": "女篮俱乐部杯",
       "keyword": "11月05日16:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "女篮俱乐部杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/04/77T0P9U3O43O.png",
@@ -1273,7 +1277,7 @@
       "title": "女篮俱乐部杯",
       "keyword": "11月05日16:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "女篮俱乐部杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/04/77T0PA353BOE.png",
@@ -1340,30 +1344,6 @@
         {
           "pID": "969023302",
           "name": "赛场原声"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000599224",
-      "pID": "969095499",
-      "title": "短道速滑世界巡回赛 加拿大蒙特利尔站 2",
-      "keyword": "11月05日17:00",
-      "sportItemId": "8",
-      "matchStatus": "2",
-      "matchField": "",
-      "competitionName": "短道速滑世界巡回赛",
-      "padImg": "",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/10/29/100000001571106812a8.png",
-      "pkInfoTitle": "短道速滑世界巡回赛 加拿大蒙特利尔站 2",
-      "modifyTitle": "短道速滑世界巡回赛 加拿大蒙特利尔站 2",
-      "presenters": "",
-      "matchInfo": {
-        "time": "11月05日17:00"
-      },
-      "nodes": [
-        {
-          "pID": "969095499",
-          "name": "解说"
         }
       ]
     },
@@ -1552,34 +1532,6 @@
       ]
     },
     {
-      "mgdbId": "120000598959",
-      "pID": "969124111",
-      "title": "WTA250香港站女单第二轮：瓦伦托娃 vs 伊埃拉",
-      "keyword": "11月05日18:30",
-      "sportItemId": "9",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "WTA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/04/77T0PASG08HO.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "瓦伦托娃 vs 伊埃拉",
-      "modifyTitle": "WTA250香港站女单第二轮：瓦伦托娃 vs 伊埃拉",
-      "presenters": "李宁",
-      "matchInfo": {
-        "time": "11月05日18:30"
-      },
-      "nodes": [
-        {
-          "pID": "969124111",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "969124161",
-          "name": "李宁"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000598838",
       "pID": "969023253",
       "title": "女篮俱乐部杯",
@@ -1600,6 +1552,34 @@
         {
           "pID": "969023253",
           "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000598959",
+      "pID": "969124111",
+      "title": "WTA250香港站女单第二轮：瓦伦托娃 vs 伊埃拉",
+      "keyword": "11月05日19:00",
+      "sportItemId": "9",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "WTA",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/04/77T0PASG08HO.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
+      "pkInfoTitle": "瓦伦托娃 vs 伊埃拉",
+      "modifyTitle": "WTA250香港站女单第二轮：瓦伦托娃 vs 伊埃拉",
+      "presenters": "李宁",
+      "matchInfo": {
+        "time": "11月05日19:00"
+      },
+      "nodes": [
+        {
+          "pID": "969124111",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "969124161",
+          "name": "李宁"
         }
       ]
     },
