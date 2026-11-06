@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-06 14:01:41",
+  "updateTime": "2026-11-06 14:31:32",
   "data": [
     {
       "mgdbId": "120000598241",
@@ -97,8 +97,8 @@
       },
       "nodes": [
         {
-          "pID": "969096991",
-          "name": "解说"
+          "pID": "969169313",
+          "name": "2026北京国际武术大赛Day1全场回放（官方解说）"
         }
       ]
     },
@@ -176,7 +176,7 @@
     },
     {
       "mgdbId": "120000588360",
-      "pID": "969168191",
+      "pID": "969168869",
       "title": "NBA常规赛",
       "keyword": "11月06日11:00",
       "sportItemId": "2",
@@ -192,6 +192,10 @@
         "time": "11月06日11:00"
       },
       "nodes": [
+        {
+          "pID": "969168869",
+          "name": "全场集锦"
+        },
         {
           "pID": "969165956",
           "name": "第一节"
@@ -233,6 +237,10 @@
           "name": "金裕贞/李幽琳VS李怡婧/王漪朵"
         },
         {
+          "pID": "969153672",
+          "name": "陈樊淑湉/罗徐敏VS岩永铃/中西贵映"
+        },
+        {
           "pID": "968981926",
           "name": "1号场地"
         },
@@ -261,10 +269,6 @@
           "name": "安洗莹VS郡司莉子"
         },
         {
-          "pID": "969153672",
-          "name": "陈樊淑湉/罗徐敏VS岩永铃/中西贵映"
-        },
-        {
           "pID": "969153757",
           "name": "宫崎友花VS明地阳菜"
         },
@@ -291,32 +295,8 @@
       ]
     },
     {
-      "mgdbId": "120000600037",
-      "pID": "969135418",
-      "title": "短道速滑世界巡回赛 加拿大蒙特利尔站 1",
-      "keyword": "11月06日12:59",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "短道速滑世界巡回赛",
-      "padImg": "",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/10/29/100000001571106812a8.png",
-      "pkInfoTitle": "短道速滑世界巡回赛 加拿大蒙特利尔站 1",
-      "modifyTitle": "短道速滑世界巡回赛 加拿大蒙特利尔站 1",
-      "presenters": "",
-      "matchInfo": {
-        "time": "11月06日12:59"
-      },
-      "nodes": [
-        {
-          "pID": "969135418",
-          "name": "解说"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000597676",
-      "pID": "968660151",
+      "pID": "969160604",
       "title": "斯诺克国际锦标赛半决赛：常冰玉 vs 约翰·希金斯",
       "keyword": "11月06日14:00",
       "sportItemId": "8",
@@ -333,16 +313,16 @@
       },
       "nodes": [
         {
+          "pID": "969160604",
+          "name": "秦正"
+        },
+        {
           "pID": "968660151",
           "name": "1号桌"
         },
         {
           "pID": "968826580",
           "name": "AI智慧分析"
-        },
-        {
-          "pID": "969160604",
-          "name": "秦正"
         }
       ]
     },
@@ -436,7 +416,7 @@
       "title": "阳羡100越野跑挑战赛",
       "keyword": "11月06日14:30",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "跑步系列赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/05/77T1LPUD08RS.png",
@@ -652,6 +632,30 @@
       ]
     },
     {
+      "mgdbId": "120000599161",
+      "pID": "969087966",
+      "title": "NBA精彩重播：热火 vs 勇士",
+      "keyword": "11月06日18:00",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "NBA经典赛事",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/06/77T2HBFL5DBV.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png",
+      "pkInfoTitle": "NBA精彩重播：热火 vs 勇士",
+      "modifyTitle": "NBA经典赛事",
+      "presenters": "杨健 郭艾伦 霍楠",
+      "matchInfo": {
+        "time": "11月06日18:00"
+      },
+      "nodes": [
+        {
+          "pID": "969087966",
+          "name": "杨健 郭艾伦 霍楠"
+        }
+      ]
+    },
+    {
       "mgdbId": "300000002540",
       "pID": "969131020",
       "title": "篮球公园丨篮下人生——李昂",
@@ -720,7 +724,7 @@
     {
       "mgdbId": "120000597677",
       "pID": "968660165",
-      "title": "斯诺克���际锦标赛半决赛：常冰玉 vs 约翰·希金斯",
+      "title": "斯诺克国际锦标赛半决赛：常冰玉 vs 约翰·希金斯",
       "keyword": "11月06日19:30",
       "sportItemId": "8",
       "matchStatus": "0",
