@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-06 11:01:42",
+  "updateTime": "2026-11-06 11:31:32",
   "data": [
     {
       "mgdbId": "120000598241",
@@ -194,11 +194,15 @@
         },
         {
           "pID": "968987933",
-          "name": "英文原声"
+          "name": "英��原声"
         },
         {
           "pID": "969038662",
           "name": "智能字幕"
+        },
+        {
+          "pID": "968987933",
+          "name": "英文原声"
         }
       ]
     },
@@ -221,6 +225,14 @@
       },
       "nodes": [
         {
+          "pID": "969153707",
+          "name": "蒋振邦/魏雅欣VS许邦荣/赖沛君"
+        },
+        {
+          "pID": "969153370",
+          "name": "程星/张驰VS古贺辉/斋藤夏"
+        },
+        {
           "pID": "968981926",
           "name": "1号场地"
         },
@@ -239,14 +251,6 @@
         {
           "pID": "969162300",
           "name": "智能字幕"
-        },
-        {
-          "pID": "969153370",
-          "name": "程星/张驰VS古贺辉/斋藤夏"
-        },
-        {
-          "pID": "969153707",
-          "name": "蒋振邦/魏雅欣VS许邦荣/赖沛君"
         },
         {
           "pID": "969153253",
@@ -469,20 +473,21 @@
     {
       "mgdbId": "300000002542",
       "pID": "969064725",
-      "title": "《球你别说了》261106期(周鹏,连睿,苏群)",
+      "title": "《球你别说了》大咖热议文班恐怖数据",
       "sportItemId": "2",
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "NBA",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/06/77T2JV2R795C.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
-      "modifyTitle": "球你别说了",
+      "pkInfoTitle": "《球你别说了》大咖热议文班恐怖数据",
+      "modifyTitle": "《球你别说了》大咖热议文班恐怖数据",
       "presenters": "周鹏 连睿 苏群",
       "matchInfo": {},
       "nodes": [
         {
           "pID": "969064725",
-          "name": "《球你别说了》261106期(周鹏,连睿,苏群)"
+          "name": "《球你别说了》(周鹏,连睿,苏群)"
         }
       ]
     },
