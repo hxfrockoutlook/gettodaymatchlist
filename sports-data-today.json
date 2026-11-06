@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-06 14:31:32",
+  "updateTime": "2026-11-06 15:01:38",
   "data": [
     {
       "mgdbId": "120000598241",
@@ -195,6 +195,14 @@
         {
           "pID": "969168869",
           "name": "全场集锦"
+        },
+        {
+          "pID": "969169781",
+          "name": "全场回放（杨健、郭艾伦、霍楠、小七）"
+        },
+        {
+          "pID": "969169828",
+          "name": "全场回放（拜月宁）"
         },
         {
           "pID": "969165956",
@@ -440,7 +448,7 @@
       "title": "女篮俱乐部杯",
       "keyword": "11月06日15:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "女篮俱乐部杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/05/77T1KBDU4VVL.png",
@@ -463,7 +471,7 @@
       "pID": "969064725",
       "title": "《球你别说了》大咖热议文班恐怖数据",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/06/77T2JV2R795C.jpg",
@@ -512,7 +520,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "女篮俱乐部杯",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/05/77T1KCAPUMH4.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/06/77T2HFHO75BO.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/2/3/100000001407106f1262.png",
       "pkInfoTitle": "福建众腾 VS 浙江稠州",
       "modifyTitle": "女篮俱乐部杯",
@@ -723,7 +731,7 @@
     },
     {
       "mgdbId": "120000597677",
-      "pID": "968660165",
+      "pID": "969160591",
       "title": "斯诺克国际锦标赛半决赛：常冰玉 vs 约翰·希金斯",
       "keyword": "11月06日19:30",
       "sportItemId": "8",
@@ -740,16 +748,16 @@
       },
       "nodes": [
         {
+          "pID": "969160591",
+          "name": "柏林"
+        },
+        {
           "pID": "968660165",
           "name": "1号桌"
         },
         {
           "pID": "968826648",
           "name": "AI智慧分析"
-        },
-        {
-          "pID": "969160591",
-          "name": "柏林"
         }
       ]
     },
