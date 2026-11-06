@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-06 16:01:41",
+  "updateTime": "2026-11-06 16:32:27",
   "data": [
     {
       "mgdbId": "120000598241",
@@ -219,12 +219,16 @@
         {
           "pID": "969168478",
           "name": "第四节"
+        },
+        {
+          "pID": "969172610",
+          "name": "全场回放"
         }
       ]
     },
     {
       "mgdbId": "120000598639",
-      "pID": "969153628",
+      "pID": "969153490",
       "title": "丫邦、高吴组合晋级 朱李组合拿下德比战",
       "keyword": "11月06日11:00",
       "sportItemId": "6",
@@ -235,18 +239,14 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "丫邦、高吴组合晋级 朱李组合拿下德比战",
       "modifyTitle": "韩国羽毛球公开赛第四日：丫邦、高吴组合晋级 朱李组合拿下德比战",
-      "presenters": "杨妮娜 朱胤丞 鸿昆 余博洋 孙宁智",
+      "presenters": "鸿昆 余博洋 孙宁智 朱胤丞 杨妮娜",
       "matchInfo": {
         "time": "11月06日11:00"
       },
       "nodes": [
         {
-          "pID": "969153628",
-          "name": "安洗莹VS郡司莉子"
-        },
-        {
-          "pID": "969153757",
-          "name": "宫崎友花VS明地阳菜"
+          "pID": "969153490",
+          "name": "金元浩/徐承宰VS王昶/谢浩南"
         },
         {
           "pID": "968981926",
@@ -267,10 +267,6 @@
         {
           "pID": "969162300",
           "name": "智能字幕"
-        },
-        {
-          "pID": "969153490",
-          "name": "金元浩/徐承宰VS王昶/谢浩南"
         },
         {
           "pID": "969153707",
@@ -299,6 +295,14 @@
         {
           "pID": "969153672",
           "name": "陈樊淑湉/罗徐敏VS岩永铃/中西贵映"
+        },
+        {
+          "pID": "969153628",
+          "name": "安洗莹VS郡司莉子"
+        },
+        {
+          "pID": "969153757",
+          "name": "宫崎友花VS明地阳菜"
         }
       ]
     },
@@ -340,7 +344,7 @@
       "title": "围甲总决赛第二轮",
       "keyword": "11月06日14:00",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "中国围棋甲级联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/05/77T1LH45PA1M.png",
@@ -392,11 +396,11 @@
     },
     {
       "mgdbId": "120000598952",
-      "pID": "969072111",
+      "pID": "968763173",
       "title": "中国篮球放映室：北京vs广州",
       "keyword": "11月06日14:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "CBA经典赛事",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/05/77T1MS25DFCD.jpg",
@@ -410,11 +414,7 @@
       "nodes": [
         {
           "pID": "968763173",
-          "name": "26/27赛季CBA常规赛第4轮全场回放：北京vs广州（姜帆、焦健）（50帧原画）"
-        },
-        {
-          "pID": "969072111",
-          "name": "姜帆 焦健"
+          "name": "全场回放"
         }
       ]
     },
@@ -471,7 +471,7 @@
       "pID": "969064725",
       "title": "《球你别说了》大咖热议文班恐怖数据",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/06/77T2JV2R795C.jpg",
@@ -517,7 +517,7 @@
       "title": "女篮俱乐部杯",
       "keyword": "11月06日16:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "女篮俱乐部杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/06/77T2HFHO75BO.jpg",
@@ -541,7 +541,7 @@
       "title": "女篮俱乐部杯",
       "keyword": "11月06日16:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "女篮俱乐部杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/05/77T1MN7U3NNN.jpg",
@@ -565,7 +565,7 @@
       "title": "伊朗vs中国",
       "keyword": "11月06日16:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "中国之队·银川五人制国际足球邀请赛",
       "padImg": "",
