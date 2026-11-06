@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-06 08:31:25",
+  "updateTime": "2026-11-06 09:01:32",
   "data": [
     {
       "mgdbId": "120000598241",
@@ -63,7 +63,7 @@
       "pID": "968818166",
       "title": "咪咕体育日报 第233期",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "咪咕体育日报",
       "padImg": "",
@@ -79,12 +79,36 @@
       ]
     },
     {
+      "mgdbId": "120000599225",
+      "pID": "969096991",
+      "title": "北京国际武术大赛第一比赛日",
+      "keyword": "11月06日09:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "北京国际武术大赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/06/77T2J7NNUFCS.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/11/4/10000000157710601af5.png",
+      "pkInfoTitle": "北京国际武术大赛第一比赛日",
+      "modifyTitle": "北京国际武术大赛第一比赛日",
+      "presenters": "",
+      "matchInfo": {
+        "time": "11月06日09:00"
+      },
+      "nodes": [
+        {
+          "pID": "969096991",
+          "name": "解说"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000599309",
       "pID": "969127975",
       "title": "单打第一、二阶段",
       "keyword": "11月06日09:00",
       "sportItemId": "7",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "中国乒协会员联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/05/77T1KB1VADST.jpg",
@@ -159,6 +183,10 @@
         {
           "pID": "968987946",
           "name": "拜月宁"
+        },
+        {
+          "pID": "968988809",
+          "name": "魔术vs太阳"
         },
         {
           "pID": "968987933",
