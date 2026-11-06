@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-06 17:31:33",
+  "updateTime": "2026-11-06 18:01:41",
   "data": [
     {
       "mgdbId": "120000598241",
@@ -253,16 +253,16 @@
           "name": "1号场地英文视角"
         },
         {
+          "pID": "969162300",
+          "name": "智能字幕"
+        },
+        {
           "pID": "968982642",
           "name": "2号场地"
         },
         {
           "pID": "968982673",
           "name": "3号场地"
-        },
-        {
-          "pID": "969162300",
-          "name": "智能字幕"
         },
         {
           "pID": "969153707",
@@ -367,7 +367,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
       "pkInfoTitle": "科斯蒂亚出战 伊埃拉压场亮相",
       "modifyTitle": "WTA250香港站女单1/4决赛：科斯蒂亚出战 伊埃拉压场亮相",
-      "presenters": "",
+      "presenters": "宋光振",
       "matchInfo": {
         "time": "11月06日14:00"
       },
@@ -383,6 +383,10 @@
         {
           "pID": "969088720",
           "name": "解说"
+        },
+        {
+          "pID": "969164771",
+          "name": "鲁季奇 vs 伊埃拉(宋光振)"
         }
       ]
     },
@@ -413,7 +417,7 @@
     {
       "mgdbId": "120000599304",
       "pID": "969125992",
-      "title": "阳羡100越野跑挑战赛",
+      "title": "���羡100越野跑挑战赛",
       "keyword": "11月06日14:30",
       "sportItemId": "8",
       "matchStatus": "1",
@@ -637,7 +641,7 @@
       "title": "NBA精彩重播：热火 vs 勇士",
       "keyword": "11月06日18:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA经典赛事",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/06/77T2HBFL5DBV.jpg",
@@ -741,11 +745,11 @@
       "nodes": [
         {
           "pID": "969160591",
-          "name": "柏林"
+          "name": "解说：柏林"
         },
         {
           "pID": "968660165",
-          "name": "1号桌"
+          "name": "现场原声"
         },
         {
           "pID": "968826648",
@@ -959,7 +963,7 @@
     },
     {
       "mgdbId": "120000600082",
-      "pID": "969164747",
+      "pID": "969164771",
       "title": "WTA250香港站女单1/4决赛：鲁季奇 vs 伊埃拉",
       "keyword": "11月06日20:00",
       "sportItemId": "9",
@@ -976,12 +980,20 @@
       },
       "nodes": [
         {
+          "pID": "969164771",
+          "name": "宋光振"
+        },
+        {
           "pID": "969164747",
           "name": "赛场原声"
         },
         {
-          "pID": "969164771",
-          "name": "宋光振"
+          "pID": "968951232",
+          "name": "英文原声"
+        },
+        {
+          "pID": "969088720",
+          "name": "AI同声传译"
         }
       ]
     },
