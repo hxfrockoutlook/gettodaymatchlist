@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-06 20:31:35",
+  "updateTime": "2026-11-06 21:01:51",
   "data": [
     {
       "mgdbId": "120000598241",
@@ -122,7 +122,7 @@
       "nodes": [
         {
           "pID": "969177467",
-          "name": "全场回放（一）"
+          "name": "全场回放"
         }
       ]
     },
@@ -295,6 +295,18 @@
         {
           "pID": "969178429",
           "name": "2026BWF韩国羽毛球公开赛Day4三号场地全场回放（赛场原声）（一）"
+        },
+        {
+          "pID": "969178943",
+          "name": "2026BWF韩国羽毛球公开赛Day4地全场回放（AI字幕）（二）"
+        },
+        {
+          "pID": "969179027",
+          "name": "2026BWF韩国羽毛球公开赛Day4地全场回放（AI字幕）（一）"
+        },
+        {
+          "pID": "969179310",
+          "name": "2026BWF韩国羽毛球公��赛Day4一号场地全场回放（赛场原声）（一）"
         }
       ]
     },
@@ -610,12 +622,12 @@
       },
       "nodes": [
         {
-          "pID": "969178516",
-          "name": "全场回放"
-        },
-        {
           "pID": "969177834",
           "name": "全场集锦"
+        },
+        {
+          "pID": "969178516",
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
@@ -677,7 +689,7 @@
     },
     {
       "mgdbId": "300000002540",
-      "pID": "969131020",
+      "pID": "969178547",
       "title": "篮球公园丨篮下人生——李昂",
       "sportItemId": "2",
       "matchStatus": "2",
@@ -691,8 +703,8 @@
       "matchInfo": {},
       "nodes": [
         {
-          "pID": "969131020",
-          "name": "CCTV"
+          "pID": "969178547",
+          "name": "【篮球公园】清华学霸注入先进篮球理念！走进吉林主帅李昂"
         }
       ]
     },
@@ -702,7 +714,7 @@
       "title": "女篮俱乐部杯",
       "keyword": "11月06日19:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "女篮俱乐部杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/05/77T1MT6JCF70.jpg",
@@ -725,7 +737,7 @@
       "pID": "967502858",
       "title": "三线烽烟并起 豪门对决来袭",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "绿茵狂想：联赛季",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/05/77T1KST0ULGT.jpg",
@@ -747,7 +759,7 @@
       "title": "斯诺克国际锦标赛半决赛：常冰玉 2-9 约翰·希金斯",
       "keyword": "11月06日19:30",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/05/77T1MI33NR15.jpg",
@@ -760,16 +772,8 @@
       },
       "nodes": [
         {
-          "pID": "969160591",
-          "name": "解说：柏林"
-        },
-        {
-          "pID": "968660165",
-          "name": "现场原声"
-        },
-        {
-          "pID": "968826648",
-          "name": "AI智慧分析"
+          "pID": "969179127",
+          "name": "26/27赛季斯诺克国际锦标赛半决赛第二阶段回放：常冰玉2-9约翰·希金斯（柏林）"
         }
       ]
     },
@@ -950,7 +954,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/06/77T2IUP86C25.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/06/77T2J6J6KK7O.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "周启豪PK林昀儒 陈幸同争八强",
       "modifyTitle": "WTT法兰克福冠军赛男女单打1/8决赛",
@@ -964,16 +968,16 @@
           "name": "周冠达 侯英超 程靖淇"
         },
         {
+          "pID": "969135535",
+          "name": "CCTV5"
+        },
+        {
           "pID": "968853951",
           "name": "赛场原声"
         },
         {
           "pID": "968857008",
           "name": "智能字幕"
-        },
-        {
-          "pID": "969135535",
-          "name": "CCTV5"
         }
       ]
     },
@@ -988,7 +992,7 @@
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/06/77T2H53NSEQ0.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "鲁季奇 vs 伊埃拉",
+      "pkInfoTitle": "鲁季奇 vs 伊埃��",
       "modifyTitle": "WTA250香港站女单1/4决赛：鲁季奇 vs 伊埃拉",
       "presenters": "宋光振",
       "matchInfo": {
