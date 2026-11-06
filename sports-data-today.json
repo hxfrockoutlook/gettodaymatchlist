@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-06 21:31:32",
+  "updateTime": "2026-11-06 22:01:43",
   "data": [
     {
       "mgdbId": "120000598241",
@@ -306,11 +306,15 @@
         },
         {
           "pID": "969179310",
-          "name": "2026BWF韩国羽毛球公开赛Day4一号��地全场回放（赛场原声）（一）"
+          "name": "2026BWF韩国羽毛球公开赛Day4一号场地全场回放（赛场原声）（一）"
         },
         {
           "pID": "969179753",
           "name": "2026BWF韩国羽毛球公开赛Day4一号场地全场回放（英文原声）（一）"
+        },
+        {
+          "pID": "969180699",
+          "name": "2026BWF韩国羽毛球公开赛Day4一号场地全场回放（英文原声）（二）"
         }
       ]
     },
@@ -334,15 +338,15 @@
       "nodes": [
         {
           "pID": "969175732",
-          "name": "26/27赛季斯诺克国际锦标赛半决赛第一阶段回放：常冰玉2-6约翰·希金斯（秦正）"
+          "name": "【回放】常冰玉2-6约翰·希金斯（秦正）"
         },
         {
           "pID": "969176866",
-          "name": "26/27赛季斯诺克国际锦标赛半决赛第一阶段回放：常冰玉2-6约翰·希金斯（赛场原声）"
+          "name": "【回放】常冰玉2-6约翰·希金斯（赛场原声）"
         },
         {
           "pID": "969177173",
-          "name": "26/27赛季斯诺克国际锦标赛半决赛第一阶段回放：常冰玉2-6约翰·希金斯（AI观赛）"
+          "name": "【回放】常冰玉2-6约翰·希金斯（AI观赛）"
         }
       ]
     },
@@ -638,16 +642,16 @@
     {
       "mgdbId": "120000598560",
       "pID": "968951956",
-      "title": "蒙哥马利出战 扎哈洛娃压场",
+      "title": "里内特出战 曾丽美逆转晋级四强",
       "keyword": "11月06日17:30",
       "sportItemId": "9",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/06/77T2J39603GA.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/06/77T2JFEBFQUI.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "蒙哥马利出战 扎哈洛娃压场",
-      "modifyTitle": "WTA250金奈站女单1/4决赛：蒙哥马利出战 扎哈洛娃压场",
+      "pkInfoTitle": "里内特出战 曾丽美逆转晋级四强",
+      "modifyTitle": "WTA250金奈站女单1/4决赛：里内特出战 曾丽美逆转晋级四强",
       "presenters": "",
       "matchInfo": {
         "time": "11月06日17:30"
@@ -731,6 +735,10 @@
       },
       "nodes": [
         {
+          "pID": "969181553",
+          "name": "全场回放"
+        },
+        {
           "pID": "969179388",
           "name": "全场集锦"
         }
@@ -785,7 +793,7 @@
         },
         {
           "pID": "969179954",
-          "name": "26/27赛季斯诺克国际锦标赛半决赛第二阶段回放：常冰玉2-9约翰·希金斯（AI观赛）"
+          "name": "【回放】常冰玉2-9约翰·希金斯（AI观赛）"
         }
       ]
     },
@@ -882,19 +890,23 @@
         {
           "pID": "969179961",
           "name": "全场集锦"
+        },
+        {
+          "pID": "969181415",
+          "name": "全场回放"
         }
       ]
     },
     {
       "mgdbId": "120000598815",
-      "pID": "969023318",
+      "pID": "969181455",
       "title": "女篮俱乐部杯",
       "keyword": "11月06日19:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "女篮俱乐部杯",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/05/77T1MU5PQ7IF.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/06/77T2JEACPDTV.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/2/3/100000001407106f1262.png",
       "pkInfoTitle": "河北英励 VS 济源王屋山",
       "modifyTitle": "女篮俱乐部杯",
@@ -904,14 +916,14 @@
       },
       "nodes": [
         {
-          "pID": "969023318",
-          "name": "赛场原声"
+          "pID": "969181455",
+          "name": "全场集锦"
         }
       ]
     },
     {
       "mgdbId": "120000598816",
-      "pID": "969023429",
+      "pID": "969180700",
       "title": "女篮俱乐部杯",
       "keyword": "11月06日19:30",
       "sportItemId": "2",
@@ -928,8 +940,8 @@
       },
       "nodes": [
         {
-          "pID": "969023429",
-          "name": "赛场原声"
+          "pID": "969180700",
+          "name": "全场集锦"
         }
       ]
     },
@@ -960,15 +972,15 @@
     {
       "mgdbId": "120000598242",
       "pID": "968853922",
-      "title": "周启豪1-3林昀儒 陈幸同争八强",
+      "title": "周启豪1-3林昀儒 陈幸同横扫晋级八强",
       "keyword": "11月06日20:00",
       "sportItemId": "7",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/06/77T2JE4PCLMP.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/06/77T2JGM6BICP.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "周启豪1-3林昀儒 陈幸同争八强",
+      "pkInfoTitle": "周启豪1-3林昀儒 陈幸同横扫晋级八强",
       "modifyTitle": "WTT法兰克福冠军赛男女单打1/8决赛",
       "presenters": "周冠达 侯英超 程靖淇",
       "matchInfo": {
@@ -980,16 +992,16 @@
           "name": "周冠达 侯英超 程靖淇"
         },
         {
-          "pID": "969135535",
-          "name": "CCTV5"
-        },
-        {
           "pID": "968853951",
           "name": "赛场原声"
         },
         {
           "pID": "968857008",
           "name": "智能字幕"
+        },
+        {
+          "pID": "969135535",
+          "name": "CCTV5"
         }
       ]
     },
