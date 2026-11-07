@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-07 14:33:26",
+  "updateTime": "2026-11-07 15:03:17",
   "data": [
     {
       "mgdbId": "120000598243",
@@ -597,6 +597,10 @@
           "name": "全场回放（徐秦威）"
         },
         {
+          "pID": "969201706",
+          "name": "全场回放（英文原声）"
+        },
+        {
           "pID": "969196282",
           "name": "第一节"
         },
@@ -732,7 +736,7 @@
     },
     {
       "mgdbId": "120000600181",
-      "pID": "969172201",
+      "pID": "969203089",
       "title": "河源50-99佛山",
       "keyword": "11月07日09:00",
       "sportItemId": "2",
@@ -750,7 +754,7 @@
       "nodes": [
         {
           "pID": "969203089",
-          "name": "2026赛季广东省女子篮球联赛第1轮全场回放：河源vs佛山（赛场原声）"
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
@@ -773,8 +777,8 @@
       },
       "nodes": [
         {
-          "pID": "969172222",
-          "name": "赛场原声"
+          "pID": "969203836",
+          "name": "2026赛季广东省女子篮球联赛第1轮全场回放：韶光vs阳江（赛场原声）"
         }
       ]
     },
@@ -821,8 +825,16 @@
       },
       "nodes": [
         {
+          "pID": "969203429",
+          "name": "【全场终结集锦】"
+        },
+        {
           "pID": "969200170",
           "name": "周家强VS乌苏比安"
+        },
+        {
+          "pID": "969203331",
+          "name": "全场回放（赵凡尘）"
         },
         {
           "pID": "969199001",
@@ -851,12 +863,16 @@
         {
           "pID": "969201633",
           "name": "孔塔尼VS内藤大树"
+        },
+        {
+          "pID": "969203346",
+          "name": "加布里埃尔VS马戈梅多夫"
         }
       ]
     },
     {
       "mgdbId": "120000598640",
-      "pID": "969183831",
+      "pID": "969183921",
       "title": "丫邦、高家炫/吴梦莹晋级决赛",
       "keyword": "11月07日10:00",
       "sportItemId": "6",
@@ -867,14 +883,14 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "丫邦、高家炫/吴梦莹晋级决赛",
       "modifyTitle": "韩国羽毛球公开赛第五日：丫邦、高家炫/吴梦莹晋级决赛",
-      "presenters": "杨妮娜 轩子博 孙宁智 鸿昆",
+      "presenters": "轩子博 杨妮娜 孙宁智 鸿昆",
       "matchInfo": {
         "time": "11月07日10:00"
       },
       "nodes": [
         {
-          "pID": "969183831",
-          "name": "李卓耀VS赖浩俊"
+          "pID": "969183921",
+          "name": "金元浩/徐承宰VS万炜聪/郑凯文"
         },
         {
           "pID": "968981954",
@@ -885,8 +901,8 @@
           "name": "1号场地英文视角"
         },
         {
-          "pID": "969183921",
-          "name": "金元浩/徐承宰VS万炜聪/郑凯文"
+          "pID": "969183936",
+          "name": "王子维VS吴英伦"
         },
         {
           "pID": "968982708",
@@ -895,10 +911,6 @@
         {
           "pID": "969183895",
           "name": "姜珉赫/李钟民VS保木卓朗/小林优吾"
-        },
-        {
-          "pID": "969183936",
-          "name": "王子维VS吴英伦"
         },
         {
           "pID": "969183860",
@@ -923,6 +935,10 @@
         {
           "pID": "969183833",
           "name": "安洗莹VS明地阳菜"
+        },
+        {
+          "pID": "969183831",
+          "name": "李卓耀VS赖浩俊"
         }
       ]
     },
@@ -995,6 +1011,22 @@
         {
           "pID": "969203151",
           "name": "全场集锦"
+        },
+        {
+          "pID": "969203547",
+          "name": "全场回放（李天宇、刘炜、陈正昊、王羽希）"
+        },
+        {
+          "pID": "969203327",
+          "name": "全场回放（邢晨）"
+        },
+        {
+          "pID": "969203442",
+          "name": "全场回放（洪荒）"
+        },
+        {
+          "pID": "969203546",
+          "name": "全场回放（莫俊祺）"
         },
         {
           "pID": "969199712",
@@ -1781,7 +1813,7 @@
       "title": "齐鲁超赛决赛次回合",
       "keyword": "11月07日15:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "齐鲁超赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000596578/202610161450_220329_H169_1080.webp",
@@ -2088,6 +2120,30 @@
         {
           "pID": "969023622",
           "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000599162",
+      "pID": "969087976",
+      "title": "NBA精彩重播：76人 vs 骑士",
+      "keyword": "11月07日18:00",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "NBA经典赛事",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/07/77T3EIAANS4L.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png",
+      "pkInfoTitle": "NBA精彩重播：76人 vs 骑士",
+      "modifyTitle": "NBA经典赛事",
+      "presenters": "杨健 丁彦雨航 苏群",
+      "matchInfo": {
+        "time": "11月07日18:00"
+      },
+      "nodes": [
+        {
+          "pID": "969087976",
+          "name": "杨健 丁彦雨航 苏群"
         }
       ]
     },
@@ -2642,7 +2698,7 @@
       "competitionName": "WTT",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/06/77T2JOCTI86F.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "温瑞博PK林昀儒 蒯曼、陈幸同冲四强",
+      "pkInfoTitle": "温瑞博PK林昀儒 蒯曼、��幸同冲四强",
       "modifyTitle": "WTT法兰克福冠军赛男女单打1/4决赛",
       "presenters": "周冠达 周雨 程靖淇",
       "matchInfo": {
