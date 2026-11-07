@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-07 10:33:15",
+  "updateTime": "2026-11-07 11:03:07",
   "data": [
     {
       "mgdbId": "120000598243",
@@ -308,7 +308,7 @@
     },
     {
       "mgdbId": "120000590147",
-      "pID": "969197194",
+      "pID": "969197794",
       "title": "NBANBA杯",
       "keyword": "11月07日08:00",
       "sportItemId": "2",
@@ -324,6 +324,14 @@
         "time": "11月07日08:00"
       },
       "nodes": [
+        {
+          "pID": "969197794",
+          "name": "全场集锦"
+        },
+        {
+          "pID": "969197780",
+          "name": "全场回放（吴博文）"
+        },
         {
           "pID": "969194930",
           "name": "第一节"
@@ -344,7 +352,7 @@
     },
     {
       "mgdbId": "120000590148",
-      "pID": "969197110",
+      "pID": "969198022",
       "title": "NBANBA杯",
       "keyword": "11月07日08:00",
       "sportItemId": "2",
@@ -360,6 +368,14 @@
         "time": "11月07日08:00"
       },
       "nodes": [
+        {
+          "pID": "969198022",
+          "name": "全场集锦"
+        },
+        {
+          "pID": "969197669",
+          "name": "全场回放（蔡凯臣）"
+        },
         {
           "pID": "969194895",
           "name": "第一节"
@@ -740,25 +756,33 @@
     },
     {
       "mgdbId": "120000598640",
-      "pID": "969183860",
+      "pID": "969183879",
       "title": "丫邦组合出战 国羽混双德比",
       "keyword": "11月07日10:00",
       "sportItemId": "6",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "BWF",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/07/77T3G1H7T8PE.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/07/77T3GTCBST4N.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "丫邦组合出战 国羽混双德比",
       "modifyTitle": "韩国羽毛球公开赛第五日：丫邦组合出战 国羽混双德比",
-      "presenters": "孙宁智 杨妮娜 鸿昆 轩子博",
+      "presenters": "鸿昆 孙宁智 杨妮娜 轩子博",
       "matchInfo": {
         "time": "11月07日10:00"
       },
       "nodes": [
         {
-          "pID": "969183860",
-          "name": "蒋振邦/魏雅欣VS古贺辉/斋藤夏"
+          "pID": "969183872",
+          "name": "高家炫/吴梦莹VS朱一珺/李茜"
+        },
+        {
+          "pID": "969183879",
+          "name": "金裕贞/李幽琳VS陈樊淑湉/罗徐敏"
+        },
+        {
+          "pID": "969183850",
+          "name": "林瑞蓉/李欣梅VS广上瑠依/保原彩夏"
         },
         {
           "pID": "968981954",
@@ -773,28 +797,16 @@
           "name": "2号场地"
         },
         {
-          "pID": "969183831",
-          "name": "李卓耀VS赖浩俊"
-        },
-        {
           "pID": "969183833",
           "name": "安洗莹VS明地阳菜"
         },
         {
+          "pID": "969183831",
+          "name": "李卓耀VS赖浩俊"
+        },
+        {
           "pID": "969183839",
           "name": "林湘缇VS山口茜"
-        },
-        {
-          "pID": "969183850",
-          "name": "林瑞蓉/李欣梅VS广上瑁依/保原彩夏"
-        },
-        {
-          "pID": "969183872",
-          "name": "高家炫/吴梦莹VS朱一珺/李茜"
-        },
-        {
-          "pID": "969183879",
-          "name": "金裕贞/李幽琳VS陈樊淑湉/罗徐敏"
         },
         {
           "pID": "969183895",
@@ -807,6 +819,10 @@
         {
           "pID": "969183936",
           "name": "王子维VS吴英伦"
+        },
+        {
+          "pID": "969183860",
+          "name": "蒋振邦/魏雅欣VS古贺辉/斋藤夏"
         }
       ]
     },
@@ -1093,7 +1109,7 @@
     },
     {
       "mgdbId": "120000598565",
-      "pID": "968951331",
+      "pID": "969197815",
       "title": "舒布拉泽PK刘婧文 伊埃拉接场亮相",
       "keyword": "11月07日14:00",
       "sportItemId": "9",
@@ -1104,11 +1120,15 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
       "pkInfoTitle": "舒布拉泽PK刘婧文 伊埃拉接场亮相",
       "modifyTitle": "WTA250香港站女双、单半决赛：舒布拉泽PK刘婧文 伊埃拉接场亮相",
-      "presenters": "",
+      "presenters": "张文悦 鸿昆",
       "matchInfo": {
         "time": "11月07日14:00"
       },
       "nodes": [
+        {
+          "pID": "969197815",
+          "name": "舒布拉泽 vs 刘婧文"
+        },
         {
           "pID": "968951331",
           "name": "赛场原声"
@@ -1120,6 +1140,14 @@
         {
           "pID": "969088752",
           "name": "解说"
+        },
+        {
+          "pID": "969197870",
+          "name": "萨卡里 vs 伊埃拉"
+        },
+        {
+          "pID": "969197917",
+          "name": "蒋欣玗/王康怡 vs 詹皓晴/加藤未唯"
         }
       ]
     },
@@ -1751,7 +1779,7 @@
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/11/6/100000001581106fa3af.jpeg",
       "pkInfoTitle": "茂名vs广州",
-      "modifyTitle": "广东省女子篮��联赛",
+      "modifyTitle": "广东省女子篮球联赛",
       "presenters": "",
       "matchInfo": {
         "time": "11月07日15:30"
@@ -1765,6 +1793,7 @@
     },
     {
       "mgdbId": "120000600227",
+      "pID": "969197870",
       "title": "WTA250香港站女单半决赛：萨卡里 vs 伊埃拉",
       "keyword": "11月07日16:00",
       "sportItemId": "9",
@@ -1775,11 +1804,24 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
       "pkInfoTitle": "萨卡里 vs 伊埃拉",
       "modifyTitle": "WTA250香港站女单半决赛：萨卡里 vs 伊埃拉",
-      "presenters": "",
+      "presenters": "张文悦",
       "matchInfo": {
         "time": "11月07日16:00"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "969197870",
+          "name": "萨卡里 vs 伊埃拉"
+        },
+        {
+          "pID": "969197860",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "968951369",
+          "name": "英文原声"
+        }
+      ]
     },
     {
       "mgdbId": "120000600176",
