@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-07 20:33:10",
+  "updateTime": "2026-11-07 21:03:12",
   "data": [
     {
       "mgdbId": "120000598243",
@@ -811,6 +811,10 @@
         {
           "pID": "969205439",
           "name": "2026年全国体育舞蹈技术等级锦标赛全场回放（西部赛区）（官方解说）（一）"
+        },
+        {
+          "pID": "969211970",
+          "name": "2026年全国体育舞蹈技术等级锦标赛全场回放（西部赛区）（官方解说）（二）"
         }
       ]
     },
@@ -1394,12 +1398,8 @@
       },
       "nodes": [
         {
-          "pID": "969210282",
-          "name": "全场回放"
-        },
-        {
           "pID": "969210905",
-          "name": "全场回放"
+          "name": "全场回放（官方解说）"
         }
       ]
     },
@@ -1516,10 +1516,6 @@
         {
           "pID": "969208848",
           "name": "全场回放（官方解说）"
-        },
-        {
-          "pID": "969209693",
-          "name": "全场回放"
         }
       ]
     },
@@ -1646,12 +1642,8 @@
       },
       "nodes": [
         {
-          "pID": "969139884",
-          "name": "解说"
-        },
-        {
-          "pID": "969139977",
-          "name": "赛场原声"
+          "pID": "969212353",
+          "name": "全场回放（官方解说）"
         }
       ]
     },
@@ -2038,18 +2030,18 @@
       },
       "nodes": [
         {
-          "pID": "969210891",
-          "name": "全场回放"
-        },
-        {
           "pID": "969209830",
           "name": "全场集锦"
+        },
+        {
+          "pID": "969210891",
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
     {
       "mgdbId": "120000598828",
-      "pID": "969023446",
+      "pID": "969209654",
       "title": "女篮俱乐部杯",
       "keyword": "11月07日16:30",
       "sportItemId": "2",
@@ -2066,8 +2058,12 @@
       },
       "nodes": [
         {
+          "pID": "969209654",
+          "name": "全场集锦"
+        },
+        {
           "pID": "969211058",
-          "name": "全场回放"
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
@@ -2114,12 +2110,12 @@
       },
       "nodes": [
         {
-          "pID": "969211670",
-          "name": "全场回放"
-        },
-        {
           "pID": "969210378",
           "name": "全场集锦"
+        },
+        {
+          "pID": "969211670",
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
@@ -2153,10 +2149,10 @@
       "title": "亚冠女足小组赛",
       "keyword": "11月07日18:30",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "中央球场",
       "competitionName": "亚冠女足",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/06/77T2I9TJNK8I.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/07/77T3G8BS4HOD.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/9/1000000013211060eb7f.png",
       "pkInfoTitle": "墨尔本城 vs 北京京坛",
       "modifyTitle": "亚冠女足小组赛",
@@ -2166,12 +2162,8 @@
       },
       "nodes": [
         {
-          "pID": "969129238",
-          "name": "林梦鸽"
-        },
-        {
-          "pID": "969129230",
-          "name": "赛场原声"
+          "pID": "969212025",
+          "name": "全场回放"
         }
       ]
     },
@@ -2181,7 +2173,7 @@
       "title": "徽BA半决赛第二轮",
       "keyword": "11月07日18:40",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "徽BA",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000598757/202611021101_661846_H169_1080.webp",
@@ -2205,7 +2197,7 @@
       "title": "徽BA半决赛第三轮",
       "keyword": "11月07日18:40",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "徽BA",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000598758/202611021105_285121_H169_1080.webp",
@@ -2917,7 +2909,7 @@
       "title": "西甲联赛",
       "keyword": "11月07日21:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "玫瑰园球场",
       "competitionName": "西甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000586331/197932_H169_sc.jpg",
