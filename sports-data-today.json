@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-07 09:32:50",
+  "updateTime": "2026-11-07 10:03:27",
   "data": [
     {
       "mgdbId": "120000598243",
@@ -509,7 +509,7 @@
       "keyword": "11月07日09:00",
       "sportItemId": "2",
       "matchStatus": "1",
-      "matchField": "冰沙���王中心",
+      "matchField": "冰沙国王中心",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/06/77T2K7U84GV5.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
@@ -671,12 +671,36 @@
       ]
     },
     {
+      "mgdbId": "120000600179",
+      "pID": "969171412",
+      "title": "全国体育舞蹈技术等级锦标赛西部赛区Day1",
+      "keyword": "11月07日09:45",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "中国体育舞蹈联合会系列赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/06/77T2J4UHUCEN.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/7/14/1000000014681066d65b.png",
+      "pkInfoTitle": "全国体育舞蹈技术等级锦标赛西部赛区Day1",
+      "modifyTitle": "全国体育舞蹈技术等级锦标赛西部赛区Day1",
+      "presenters": "",
+      "matchInfo": {
+        "time": "11月07日09:45"
+      },
+      "nodes": [
+        {
+          "pID": "969171412",
+          "name": "西部赛区"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000596327",
       "pID": "969088601",
       "title": "ONE巅峰系列赛49：加布里埃尔VS马戈梅多夫",
       "keyword": "11月07日10:00",
       "sportItemId": "5",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "ONE冠军赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/06/77T2IQFA74DH.png",
@@ -704,7 +728,7 @@
       "title": "丫邦组合出战 国羽混双德比",
       "keyword": "11月07日10:00",
       "sportItemId": "6",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "BWF",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/07/77T3G1H7T8PE.png",
@@ -984,30 +1008,6 @@
         {
           "pID": "969101639",
           "name": "解说"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000600179",
-      "pID": "969171412",
-      "title": "全国体育舞蹈技术等级锦标赛西部赛区Day1",
-      "keyword": "11月07日13:30",
-      "sportItemId": "8",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "中国体育舞蹈联合会系列赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/06/77T2J4UHUCEN.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/7/14/1000000014681066d65b.png",
-      "pkInfoTitle": "全国体育舞蹈技术等级锦标赛西部赛区Day1",
-      "modifyTitle": "全国体育舞蹈技术等级锦标赛西部赛区Day1",
-      "presenters": "",
-      "matchInfo": {
-        "time": "11月07日13:30"
-      },
-      "nodes": [
-        {
-          "pID": "969171412",
-          "name": "西部赛区"
         }
       ]
     },
