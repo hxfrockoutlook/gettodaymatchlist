@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-08 10:03:18",
+  "updateTime": "2026-11-08 10:33:23",
   "data": [
     {
       "mgdbId": "120000584795",
@@ -55,6 +55,10 @@
         {
           "pID": "969234543",
           "name": "全场回放（王琰博）"
+        },
+        {
+          "pID": "969239904",
+          "name": "全场回放（英文解说）"
         },
         {
           "pID": "969234127",
@@ -401,6 +405,10 @@
           "name": "全场回放（金哲豪）"
         },
         {
+          "pID": "969239850",
+          "name": "全场回放（英文原声）"
+        },
+        {
           "pID": "969233646",
           "name": "第一节"
         },
@@ -604,7 +612,7 @@
       "title": "黄冈半程马拉松",
       "keyword": "11月08日08:00",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "马拉松系列赛",
       "padImg": "",
@@ -801,8 +809,8 @@
           "name": "刘圳展 陈正昊 张兆旭"
         },
         {
-          "pID": "968993751",
-          "name": "同看奇才vs雷霆"
+          "pID": "968991047",
+          "name": "同看火箭vs太阳"
         },
         {
           "pID": "968991082",
@@ -817,15 +825,15 @@
     {
       "mgdbId": "120000600189",
       "pID": "969172488",
-      "title": "肇庆vs云浮",
+      "title": "肇庆90-56云浮",
       "keyword": "11月08日09:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "广东省女子篮球联赛",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/11/6/100000001581106fa3af.jpeg",
-      "pkInfoTitle": "肇庆vs云浮",
+      "pkInfoTitle": "肇庆90-56云浮",
       "modifyTitle": "广东省女子篮球联赛",
       "presenters": "",
       "matchInfo": {
@@ -885,16 +893,16 @@
           "name": "蔡凯臣 马健 季孟年"
         },
         {
-          "pID": "968991091",
-          "name": "拜月宁"
+          "pID": "968991047",
+          "name": "同看火箭vs太阳"
         },
         {
           "pID": "968993827",
           "name": "同看尼克斯vs骑士"
         },
         {
-          "pID": "968993751",
-          "name": "同看奇才vs雷霆"
+          "pID": "968991091",
+          "name": "拜月宁"
         },
         {
           "pID": "968991097",
@@ -905,24 +913,6 @@
           "name": "智能字幕"
         }
       ]
-    },
-    {
-      "mgdbId": "120000600209",
-      "title": "加拿大温哥华站 25分钟版",
-      "keyword": "11月08日09:59",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "短道速滑世界巡回赛",
-      "padImg": "",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/10/29/100000001571106812a8.png",
-      "pkInfoTitle": "加拿大温哥华站 25分钟版",
-      "modifyTitle": "加拿大温哥华站 25分钟版",
-      "presenters": "",
-      "matchInfo": {
-        "time": "11月08日09:59"
-      },
-      "nodes": []
     },
     {
       "mgdbId": "120000588366",
@@ -1010,7 +1000,7 @@
       "title": "江门vs湛江",
       "keyword": "11月08日10:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "广东省女子篮球联赛",
       "padImg": "",
@@ -1034,7 +1024,7 @@
       "title": "惠州vs东莞",
       "keyword": "11月08日10:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "广东省女子篮球联赛",
       "padImg": "",
