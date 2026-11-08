@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-09 06:31:46",
+  "updateTime": "2026-11-09 07:02:00",
   "data": [
     {
       "mgdbId": "120000600170",
@@ -165,16 +165,16 @@
           "name": "全场回放（詹俊、张路、姚安妮）"
         },
         {
-          "pID": "969279084",
-          "name": "全场回放（洪荒）"
-        },
-        {
           "pID": "969281701",
           "name": "全场回放（陈凯冬、陆毅隽）"
         },
         {
+          "pID": "969279084",
+          "name": "全场回放（洪荒）"
+        },
+        {
           "pID": "969278393",
-          "name": "全场回放（AI智慧观赛）"
+          "name": "全场回放（智能解说）"
         }
       ]
     },
@@ -247,6 +247,10 @@
         {
           "pID": "969283014",
           "name": "全场回放（英文解说）"
+        },
+        {
+          "pID": "969285824",
+          "name": "2026WTT法兰克福冠军赛Day6夜间场全场回放（赛场原声）"
         }
       ]
     },
@@ -469,40 +473,20 @@
       },
       "nodes": [
         {
-          "pID": "969285030",
-          "name": "全场回放"
+          "pID": "969285870",
+          "name": "全场集锦"
         },
         {
           "pID": "969285092",
           "name": "全场回放（张昊泽、李欣）"
         },
         {
-          "pID": "969285117",
-          "name": "全场回放"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000599150",
-      "pID": "969201469",
-      "title": "2026WTA年终总决赛：科斯秋克 vs 诺斯科娃",
-      "keyword": "11月09日04:00",
-      "sportItemId": "9",
-      "matchStatus": "2",
-      "matchField": "",
-      "competitionName": "WTA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/09/77T59L0TL48H.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "科斯秋克 vs 诺斯科娃",
-      "modifyTitle": "2026WTA年终总决赛：科斯秋克 vs 诺斯科娃",
-      "presenters": "鸿昆",
-      "matchInfo": {
-        "time": "11月09日04:00"
-      },
-      "nodes": [
+          "pID": "969285030",
+          "name": "全场回放（AI智慧观赛）"
+        },
         {
-          "pID": "969284651",
-          "name": "【回放】科斯秋克0-2诺斯科娃（鸿昆）"
+          "pID": "969285117",
+          "name": "全场回放（智能解说）"
         }
       ]
     },
@@ -555,12 +539,48 @@
       ]
     },
     {
+      "mgdbId": "120000599150",
+      "pID": "969201469",
+      "title": "2026WTA年终总决赛：科斯秋克 vs 诺斯科娃",
+      "keyword": "11月09日04:15",
+      "sportItemId": "9",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "WTA",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/09/77T59L0TL48H.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
+      "pkInfoTitle": "科斯秋克 vs 诺斯科娃",
+      "modifyTitle": "2026WTA年终总决赛：科斯秋克 vs 诺斯科娃",
+      "presenters": "鸿昆",
+      "matchInfo": {
+        "time": "11月09日04:15"
+      },
+      "nodes": [
+        {
+          "pID": "969201469",
+          "name": "鸿昆"
+        },
+        {
+          "pID": "969201424",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "969201319",
+          "name": "英文原声"
+        },
+        {
+          "pID": "969201366",
+          "name": "AI同声传译"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000588368",
-      "pID": "969203858",
+      "pID": "969283363",
       "title": "NBA常规赛",
       "keyword": "11月09日04:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "联合中心球馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/09/77T59R2LF570.jpg",
@@ -573,16 +593,20 @@
       },
       "nodes": [
         {
-          "pID": "969203858",
-          "name": "蔡凯臣 季孟年"
+          "pID": "969282720",
+          "name": "第一节"
         },
         {
-          "pID": "969203888",
-          "name": "英文原声"
+          "pID": "969283810",
+          "name": "第二节"
         },
         {
-          "pID": "969243546",
-          "name": "智能字幕"
+          "pID": "969285868",
+          "name": "第三节"
+        },
+        {
+          "pID": "969285707",
+          "name": "第四节"
         }
       ]
     },
