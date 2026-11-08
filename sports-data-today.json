@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-08 11:33:05",
+  "updateTime": "2026-11-08 12:03:11",
   "data": [
     {
       "mgdbId": "120000584795",
@@ -564,7 +564,7 @@
       "title": "新余仙女湖马拉松",
       "keyword": "11月08日07:30",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "马拉松系列赛",
       "padImg": "",
@@ -588,7 +588,7 @@
       "title": "浙江云和第六届“瓯江诗路”铁人三项挑战赛",
       "keyword": "11月08日07:50",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "铁人三项系列赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/07/77T3FV9MG8RS.jpg",
@@ -676,7 +676,7 @@
     },
     {
       "mgdbId": "120000588362",
-      "pID": "969241794",
+      "pID": "969242235",
       "title": "NBA常规赛",
       "keyword": "11月08日08:30",
       "sportItemId": "2",
@@ -692,6 +692,10 @@
         "time": "11月08日08:30"
       },
       "nodes": [
+        {
+          "pID": "969242235",
+          "name": "全场集锦"
+        },
         {
           "pID": "969237265",
           "name": "第一节"
@@ -716,7 +720,7 @@
       "title": "北京国际武术大赛第三比赛日上午场",
       "keyword": "11月08日08:30",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "北京国际武术大赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/06/77T2JG03MURI.jpg",
@@ -791,16 +795,20 @@
         {
           "pID": "969242068",
           "name": "第四节"
+        },
+        {
+          "pID": "969242546",
+          "name": "全场回放（王凯）"
         }
       ]
     },
     {
       "mgdbId": "120000588364",
-      "pID": "968993827",
+      "pID": "969242734",
       "title": "NBA常规赛",
       "keyword": "11月08日09:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "火箭信贷球馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/08/77T4E7K9AEML.jpg",
@@ -813,26 +821,30 @@
       },
       "nodes": [
         {
-          "pID": "968993827",
-          "name": "刘圳展 陈正昊 张兆旭"
+          "pID": "969242734",
+          "name": "全场集锦"
         },
         {
-          "pID": "968991047",
-          "name": "同看火箭vs太阳"
+          "pID": "969238721",
+          "name": "第一节"
         },
         {
-          "pID": "968991082",
-          "name": "同看魔术vs勇士"
+          "pID": "969239919",
+          "name": "第二节"
         },
         {
-          "pID": "968993797",
-          "name": "英文原声"
+          "pID": "969241152",
+          "name": "第三节"
+        },
+        {
+          "pID": "969242227",
+          "name": "第四节"
         }
       ]
     },
     {
       "mgdbId": "120000600189",
-      "pID": "969172488",
+      "pID": "969241423",
       "title": "肇庆90-56云浮",
       "keyword": "11月08日09:00",
       "sportItemId": "2",
@@ -850,7 +862,7 @@
       "nodes": [
         {
           "pID": "969241423",
-          "name": "2026赛季广东省女子篮球联赛第2轮全场回放：肇庆vs云浮（赛场原声）"
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
@@ -1008,7 +1020,7 @@
       "title": "江门vs湛江",
       "keyword": "11月08日10:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "广东省女子篮球联赛",
       "padImg": "",
@@ -1032,7 +1044,7 @@
       "title": "惠州vs东莞",
       "keyword": "11月08日10:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "广东省女子篮球联赛",
       "padImg": "",
@@ -1071,6 +1083,10 @@
         {
           "pID": "968990969",
           "name": "孙博 盛哲"
+        },
+        {
+          "pID": "968991047",
+          "name": "同看火箭 vs 太阳"
         },
         {
           "pID": "968990965",
@@ -1319,6 +1335,27 @@
         {
           "pID": "969200581",
           "name": "CCTV5+"
+        }
+      ]
+    },
+    {
+      "mgdbId": "300000002544",
+      "pID": "969064798",
+      "title": "《球你别说了》大咖热议中国男篮集训日",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "NBA",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
+      "pkInfoTitle": "《球你别说了》大咖热议中国男篮集训日",
+      "modifyTitle": "《球你别说了》大咖热议中国男篮集训日",
+      "presenters": "李天宇 邵化谦 王冠证",
+      "matchInfo": {},
+      "nodes": [
+        {
+          "pID": "969064798",
+          "name": "《球你别说了》(李天宇,邵化谦,王冠证)"
         }
       ]
     },
