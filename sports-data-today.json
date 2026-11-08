@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-08 09:34:25",
+  "updateTime": "2026-11-08 10:03:18",
   "data": [
     {
       "mgdbId": "120000584795",
@@ -484,7 +484,7 @@
       "title": "象山农商银行象山半程马拉松",
       "keyword": "11月08日07:30",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "马拉松系列赛",
       "padImg": "",
@@ -911,7 +911,7 @@
       "title": "加拿大温哥华站 25分钟版",
       "keyword": "11月08日09:59",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "短道速滑世界巡回赛",
       "padImg": "",
@@ -962,7 +962,7 @@
       "title": "锁定冠亚！丫邦组合PK高吴组合",
       "keyword": "11月08日10:00",
       "sportItemId": "6",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "BWF",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/07/77T3G7AC54C8.png",
@@ -1293,6 +1293,30 @@
         {
           "pID": "969126797",
           "name": "现场解说"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000600269",
+      "pID": "969200581",
+      "title": "男子110公斤以上级",
+      "keyword": "11月08日14:00",
+      "sportItemId": "8",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "举重世锦赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/08/77T4DMR4R2G4.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/9/5/100000001100106d3290.png",
+      "pkInfoTitle": "男子110公斤以上级",
+      "modifyTitle": "2026年世界举重锦标赛：男子110公斤以上级",
+      "presenters": "",
+      "matchInfo": {
+        "time": "11月08日14:00"
+      },
+      "nodes": [
+        {
+          "pID": "969200581",
+          "name": "CCTV5+"
         }
       ]
     },
@@ -2137,6 +2161,30 @@
       ]
     },
     {
+      "mgdbId": "120000600270",
+      "pID": "969200605",
+      "title": "女子86公斤以上级",
+      "keyword": "11月08日16:30",
+      "sportItemId": "8",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "举重世锦赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/08/77T4DN3ETBR4.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/9/5/100000001100106d3290.png",
+      "pkInfoTitle": "女子86公斤以上级",
+      "modifyTitle": "2026年世界举重锦标赛：女子86公斤以上级",
+      "presenters": "",
+      "matchInfo": {
+        "time": "11月08日16:30"
+      },
+      "nodes": [
+        {
+          "pID": "969200605",
+          "name": "CCTV5+"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000598818",
       "pID": "969023807",
       "title": "女篮俱乐部杯",
@@ -2617,7 +2665,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
       "pkInfoTitle": "曾丽美 vs 里内特",
       "modifyTitle": "WTA250金奈站女单决赛：曾丽美 vs 里内特",
-      "presenters": "",
+      "presenters": "蔡凯臣",
       "matchInfo": {
         "time": "11月08日21:00"
       },
@@ -2633,6 +2681,14 @@
         {
           "pID": "969087849",
           "name": "解说"
+        },
+        {
+          "pID": "969238645",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "969238682",
+          "name": "蔡凯臣"
         }
       ]
     },
