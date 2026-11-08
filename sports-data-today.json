@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-09 04:01:50",
+  "updateTime": "2026-11-09 04:31:52",
   "data": [
     {
       "mgdbId": "120000600170",
@@ -171,6 +171,10 @@
         {
           "pID": "969279084",
           "name": "全场回放（洪荒）"
+        },
+        {
+          "pID": "969280857",
+          "name": "全场回放"
         }
       ]
     },
@@ -266,11 +270,11 @@
         },
         {
           "pID": "969279506",
-          "name": "全场回放"
+          "name": "全场回放（AI智慧观赛）"
         },
         {
           "pID": "969279526",
-          "name": "全场回放"
+          "name": "全场回放（智能解说）"
         }
       ]
     },
@@ -349,12 +353,8 @@
       },
       "nodes": [
         {
-          "pID": "969128830",
-          "name": "鹿中原"
-        },
-        {
-          "pID": "969161419",
-          "name": "赛场原声"
+          "pID": "969279888",
+          "name": "全场回放（鹿中原）"
         }
       ]
     },
@@ -568,7 +568,7 @@
       "title": "NBA常规赛",
       "keyword": "11月09日04:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "联合中心球馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/08/77T4BJLQDPBO.png",
@@ -600,7 +600,7 @@
       "title": "2026WTA年终总决赛：高芙 vs 佩古拉",
       "keyword": "11月09日05:30",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/08/77T4C6K3OI5T.jpg",
@@ -1163,7 +1163,7 @@
       "sportItemId": "2",
       "matchStatus": "0",
       "matchField": "",
-      "competitionName": "广东省女子篮球���赛",
+      "competitionName": "广东省女子篮球联赛",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/11/6/100000001581106fa3af.jpeg",
       "pkInfoTitle": "潮州vs茂名",
