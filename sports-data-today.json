@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-09 00:02:07",
+  "updateTime": "2026-11-09 00:32:00",
   "data": [
     {
       "mgdbId": "120000600170",
@@ -63,7 +63,7 @@
       "matchStatus": "1",
       "matchField": "弗朗西斯·勒布雷体育场",
       "competitionName": "法甲",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000584455/202607231557_314247_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000584455/202611090028_577258_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/1/9106077d9.png",
       "pkInfoTitle": "布雷斯特 vs 里昂",
       "modifyTitle": "法甲联赛",
@@ -91,7 +91,7 @@
       "matchStatus": "1",
       "matchField": "让·布安球场",
       "competitionName": "法甲",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000584457/202607231558_546416_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000584457/202611090019_480242_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/1/9106077d9.png",
       "pkInfoTitle": "昂热 vs 尼斯",
       "modifyTitle": "法甲联赛",
@@ -200,7 +200,7 @@
       "title": "德甲联赛",
       "keyword": "11月09日00:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "Europa-Park Stadion",
       "competitionName": "德甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000588152/696057_H169_sc.jpg",
@@ -589,7 +589,7 @@
     {
       "mgdbId": "120000588368",
       "pID": "969203858",
-      "title": "NBA常规赛",
+      "title": "NBA���规赛",
       "keyword": "11月09日04:30",
       "sportItemId": "2",
       "matchStatus": "0",
@@ -979,6 +979,27 @@
       ]
     },
     {
+      "mgdbId": "300000002546",
+      "pID": "969269927",
+      "title": "《球你别说了》大咖热议CBA四川连败",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "NBA",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/09/77T5BJC9VCBQ.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
+      "pkInfoTitle": "《球你别说了》大咖热议CBA四川连败",
+      "modifyTitle": "《球你别说了》大咖热议CBA四川连败",
+      "presenters": "周鹏 邵化谦 马健",
+      "matchInfo": {},
+      "nodes": [
+        {
+          "pID": "969269927",
+          "name": "《球你别说了》（周鹏，邵化谦，马健）"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000600199",
       "pID": "969172698",
       "title": "清远vs肇庆",
@@ -1023,6 +1044,42 @@
         {
           "pID": "969172730",
           "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000598562",
+      "pID": "969238645",
+      "title": "WTA250金奈站女单决赛：曾丽美 vs 里内特",
+      "keyword": "11月09日13:30",
+      "sportItemId": "9",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "WTA",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/08/77T4EJE1JDGJ.png",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
+      "pkInfoTitle": "曾丽美 vs 里内特",
+      "modifyTitle": "WTA250金奈站女单决赛：曾丽美 vs 里内特",
+      "presenters": "蔡凯臣",
+      "matchInfo": {
+        "time": "11月09日13:30"
+      },
+      "nodes": [
+        {
+          "pID": "969238682",
+          "name": "曾丽美 vs 里内特"
+        },
+        {
+          "pID": "969238645",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "968952046",
+          "name": "英文原声"
+        },
+        {
+          "pID": "969087849",
+          "name": "解说"
         }
       ]
     },
