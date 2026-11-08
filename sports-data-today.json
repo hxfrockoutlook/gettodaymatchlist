@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-08 14:03:28",
+  "updateTime": "2026-11-08 14:33:22",
   "data": [
     {
       "mgdbId": "120000584795",
@@ -370,7 +370,7 @@
         },
         {
           "pID": "969232758",
-          "name": "全场��放（AI智慧观赛）"
+          "name": "全场回放（AI智慧观赛）"
         },
         {
           "pID": "969232873",
@@ -451,6 +451,10 @@
         {
           "pID": "969243581",
           "name": "主赛（陈瑞阳、郑文祺）"
+        },
+        {
+          "pID": "969245658",
+          "name": "主赛（英文原声）"
         },
         {
           "pID": "969243097",
@@ -657,8 +661,8 @@
       },
       "nodes": [
         {
-          "pID": "969163151",
-          "name": "解说"
+          "pID": "969245900",
+          "name": "浙江云和第六届“瓯江诗路”铁人三项挑战赛全场回放（官方解说）"
         }
       ]
     },
@@ -755,6 +759,10 @@
         {
           "pID": "969242275",
           "name": "全场回放（贾磊）"
+        },
+        {
+          "pID": "969243991",
+          "name": "全场回放（英文原声）"
         },
         {
           "pID": "969237265",
@@ -944,7 +952,7 @@
     },
     {
       "mgdbId": "120000600190",
-      "pID": "969172517",
+      "pID": "969245728",
       "title": "深圳99-46清远",
       "keyword": "11月08日09:00",
       "sportItemId": "2",
@@ -961,8 +969,8 @@
       },
       "nodes": [
         {
-          "pID": "969172517",
-          "name": "赛场原声"
+          "pID": "969245728",
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
@@ -1045,8 +1053,16 @@
           "name": "全场集锦"
         },
         {
+          "pID": "969245659",
+          "name": "全场回放（连睿、刘铁、周鹏、李雨桐）"
+        },
+        {
+          "pID": "969245176",
+          "name": "全场回放（英文原声）"
+        },
+        {
           "pID": "969241542",
-          "name": "��一节"
+          "name": "第一节"
         },
         {
           "pID": "969242019",
@@ -1181,8 +1197,24 @@
       },
       "nodes": [
         {
+          "pID": "969245504",
+          "name": "全场集锦"
+        },
+        {
+          "pID": "969245621",
+          "name": "【球星高光】一览众山小！文班亚马29分7板率队豪取八连胜"
+        },
+        {
           "pID": "969245273",
           "name": "全场回放（孙博、盛哲）"
+        },
+        {
+          "pID": "969245423",
+          "name": "全场回放（王晓晨）"
+        },
+        {
+          "pID": "969245427",
+          "name": "全场回放（邢晨）"
         },
         {
           "pID": "969242655",
@@ -1277,6 +1309,10 @@
           "name": "吉布森/英格力斯 vs 詹皓晴/加藤未唯"
         },
         {
+          "pID": "969237744",
+          "name": "赛场原声"
+        },
+        {
           "pID": "968951393",
           "name": "赛场原声"
         },
@@ -1314,6 +1350,30 @@
       "nodes": [
         {
           "pID": "969072090",
+          "name": "清流播出"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000595029",
+      "pID": "969072123",
+      "title": "市南区vs即墨区",
+      "keyword": "11月08日14:00",
+      "sportItemId": "1",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "青岛城市足球争霸赛",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/26/77NUS7RRR2CI.png",
+      "pkInfoTitle": "市南区vs即墨区",
+      "modifyTitle": "1/4决赛次回合 市南区vs即墨区",
+      "presenters": "",
+      "matchInfo": {
+        "time": "11月08日14:00"
+      },
+      "nodes": [
+        {
+          "pID": "969072123",
           "name": "清流播出"
         }
       ]
@@ -1441,7 +1501,7 @@
       "title": "中乙升级赛组",
       "keyword": "11月08日14:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "贵阳奥体中心体育场",
       "competitionName": "中乙",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000592480/202609050330_251378_H169_1080.webp",
@@ -1469,7 +1529,7 @@
       "title": "中乙升级赛组",
       "keyword": "11月08日14:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "深圳青少年足球训练基地中心场",
       "competitionName": "中乙",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000592481/202609050330_999720_H169_1080.webp",
@@ -1497,7 +1557,7 @@
       "title": "中乙升级赛组",
       "keyword": "11月08日14:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "瑞昌市体育公园体育场",
       "competitionName": "中乙",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000592482/202609050330_519501_H169_1080.webp",
@@ -1525,7 +1585,7 @@
       "title": "中乙升级赛组",
       "keyword": "11月08日14:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "临平体育中心体育场",
       "competitionName": "中乙",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000592483/202609050330_621716_H169_1080.webp",
@@ -1553,7 +1613,7 @@
       "title": "市北区vs崂山区",
       "keyword": "11月08日14:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "青岛城市足球争霸赛",
       "padImg": "",
@@ -1577,7 +1637,7 @@
       "title": "平度市vs莱西市",
       "keyword": "11月08日14:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "青岛城市足球争霸赛",
       "padImg": "",
@@ -1601,7 +1661,7 @@
       "title": "安徽省青少年足球联赛",
       "keyword": "11月08日14:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "徽青赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000598765/202611021119_660355_H169_1080.webp",
@@ -1625,7 +1685,7 @@
       "title": "安徽省青少年足球联赛",
       "keyword": "11月08日14:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "徽青赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000598766/202611021120_635404_H169_1080.webp",
@@ -1649,7 +1709,7 @@
       "title": "安徽省青少年足球联赛",
       "keyword": "11月08日14:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "徽青赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000598767/202611021125_276040_H169_1080.webp",
@@ -1673,7 +1733,7 @@
       "title": "韶关vs河源",
       "keyword": "11月08日14:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "广东省女子篮球联赛",
       "padImg": "",
@@ -1697,7 +1757,7 @@
       "title": "阳江vs佛山",
       "keyword": "11月08日14:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "广东省女子篮球联赛",
       "padImg": "",
@@ -2055,7 +2115,7 @@
       "mgdbId": "120000598917",
       "pID": "969056348",
       "title": "湖北省城市足球联赛",
-      "keyword": "11月08��15:30",
+      "keyword": "11月08日15:30",
       "sportItemId": "1",
       "matchStatus": "0",
       "matchField": "",
@@ -2066,7 +2126,7 @@
       "modifyTitle": "湖北省城市足球联赛",
       "presenters": "",
       "matchInfo": {
-        "time": "11月08��15:30"
+        "time": "11月08日15:30"
       },
       "nodes": [
         {
@@ -2360,6 +2420,30 @@
         {
           "pID": "968856905",
           "name": "智能字幕"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000599163",
+      "pID": "969087994",
+      "title": "NBA精彩重播：马刺 vs 开拓者",
+      "keyword": "11月08日18:00",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "NBA经典赛事",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png",
+      "pkInfoTitle": "NBA精彩重播：马刺 vs 开拓者",
+      "modifyTitle": "NBA经典赛事",
+      "presenters": "孙博 盛哲",
+      "matchInfo": {
+        "time": "11月08日18:00"
+      },
+      "nodes": [
+        {
+          "pID": "969087994",
+          "name": "孙博 盛哲"
         }
       ]
     },
