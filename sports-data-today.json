@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-09 04:31:52",
+  "updateTime": "2026-11-09 05:01:53",
   "data": [
     {
       "mgdbId": "120000600170",
@@ -165,16 +165,16 @@
           "name": "全场回放（詹俊、张路、姚安妮）"
         },
         {
-          "pID": "969278393",
-          "name": "全场回放（AI智慧观赛）"
-        },
-        {
           "pID": "969279084",
           "name": "全场回放（洪荒）"
         },
         {
-          "pID": "969280857",
-          "name": "全场回放"
+          "pID": "969281701",
+          "name": "全场回放（陈凯冬、陆毅隽）"
+        },
+        {
+          "pID": "969278393",
+          "name": "全场回放（AI智慧观赛）"
         }
       ]
     },
@@ -265,6 +265,10 @@
       },
       "nodes": [
         {
+          "pID": "969278977",
+          "name": "全场集锦"
+        },
+        {
           "pID": "969279169",
           "name": "全场回放（刘腾、贺宇）"
         },
@@ -284,7 +288,7 @@
       "title": "足总杯第一轮",
       "keyword": "11月09日01:15",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "邦德瑞公园球场",
       "competitionName": "足总杯",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000599318/202611061744_412019_H169_1080.webp",
@@ -297,12 +301,8 @@
       },
       "nodes": [
         {
-          "pID": "969129504",
-          "name": "黄航"
-        },
-        {
-          "pID": "969129492",
-          "name": "赛场原声"
+          "pID": "969279006",
+          "name": "全场回放（黄航）"
         }
       ]
     },
@@ -364,10 +364,10 @@
       "title": "德甲联赛",
       "keyword": "11月09日02:30",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "莱茵内卡河球场",
       "competitionName": "德甲",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/07/77T3EG5DAVII.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000588153/928432_H169_sc.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png",
       "pkInfoTitle": "霍芬海姆 vs 沙尔克04",
       "modifyTitle": "德甲联赛",
@@ -377,12 +377,12 @@
       },
       "nodes": [
         {
-          "pID": "969125981",
-          "name": "周楚雄"
+          "pID": "969281571",
+          "name": "全场集锦"
         },
         {
-          "pID": "969125941",
-          "name": "赛场原声"
+          "pID": "969281581",
+          "name": "全场回放（周楚雄）"
         }
       ]
     },
@@ -600,7 +600,7 @@
       "title": "2026WTA年终总决赛：高芙 vs 佩古拉",
       "keyword": "11月09日05:30",
       "sportItemId": "9",
-      "matchStatus": "1",
+      "matchStatus": "0",
       "matchField": "",
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/08/77T4C6K3OI5T.jpg",
