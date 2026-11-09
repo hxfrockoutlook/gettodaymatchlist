@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-09 21:32:04",
+  "updateTime": "2026-11-09 22:02:17",
   "data": [
     {
       "mgdbId": "120000600170",
@@ -1175,7 +1175,7 @@
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/08/77T4EJDKOQV2.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/8/c8067363-371e-49f9-8bdb-3e1a18ac0f7d.png",
       "pkInfoTitle": "中国篮球放映室：北京vs浙证",
-      "modifyTitle": "CBA经典赛事",
+      "modifyTitle": "CBA经���赛事",
       "presenters": "邵化谦 焦健 苏群",
       "matchInfo": {
         "time": "11月09日14:00"
@@ -1315,7 +1315,7 @@
       "sportItemId": "6",
       "matchStatus": "1",
       "matchField": "",
-      "competitionName": "全国羽毛��团体锦标赛",
+      "competitionName": "全国羽毛球团体锦标赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/09/77T59347ODRE.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/11/8/1000000015821067f593.png",
       "pkInfoTitle": "全国羽毛球团体锦标赛第一日",
@@ -1328,10 +1328,6 @@
         {
           "pID": "969267867",
           "name": "1号场地"
-        },
-        {
-          "pID": "969268319",
-          "name": "3号场地"
         },
         {
           "pID": "969268617",
@@ -1366,16 +1362,16 @@
     {
       "mgdbId": "120000598754",
       "pID": "969022833",
-      "title": "云和VS宁波",
+      "title": "云和77-79宁波",
       "keyword": "11月09日19:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "浙BA",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/02/77N92ACGBBVQ.png",
-      "pkInfoTitle": "云和VS宁波",
-      "modifyTitle": "云和VS宁波",
+      "pkInfoTitle": "云和77-79宁波",
+      "modifyTitle": "云和77-79宁波",
       "presenters": "",
       "matchInfo": {
         "time": "11月09日19:30"
@@ -1437,7 +1433,7 @@
     },
     {
       "mgdbId": "120000599187",
-      "pID": "969095207",
+      "pID": "968896596",
       "title": "中国篮球放映室：广东vs江苏",
       "keyword": "11月09日19:30",
       "sportItemId": "2",
@@ -1453,6 +1449,10 @@
         "time": "11月09日19:30"
       },
       "nodes": [
+        {
+          "pID": "968896596",
+          "name": "26/27赛季CBA常规赛第6轮全场回放：广东vs江苏（连睿、曾令旭、王仕鹏）（50帧原画）"
+        },
         {
           "pID": "969095207",
           "name": "连睿 曾令旭 王仕鹏"
@@ -1509,7 +1509,7 @@
     },
     {
       "mgdbId": "120000600154",
-      "pID": "969169676",
+      "pID": "969169668",
       "title": "斯诺克冠中冠：马克·塞尔比vs阿尔菲·博登",
       "keyword": "11月09日21:00",
       "sportItemId": "8",
@@ -1526,12 +1526,12 @@
       },
       "nodes": [
         {
-          "pID": "969169676",
-          "name": "解说"
-        },
-        {
           "pID": "969169668",
           "name": "现场原声"
+        },
+        {
+          "pID": "969169676",
+          "name": "解说"
         },
         {
           "pID": "969169716",
@@ -1543,7 +1543,7 @@
       "mgdbId": "120000600155",
       "pID": "969169801",
       "title": "斯诺克冠中冠：巴里·霍金斯vs克里斯·韦克林",
-      "keyword": "11月09日22:00",
+      "keyword": "11月09日23:00",
       "sportItemId": "8",
       "matchStatus": "0",
       "matchField": "",
@@ -1554,7 +1554,7 @@
       "modifyTitle": "斯诺克冠中冠：巴里·霍金斯vs克里斯·韦克林",
       "presenters": "杨江浩",
       "matchInfo": {
-        "time": "11月09日22:00"
+        "time": "11月09日23:00"
       },
       "nodes": [
         {
