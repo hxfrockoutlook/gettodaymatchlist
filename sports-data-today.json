@@ -1,11 +1,11 @@
 {
   "success": true,
-  "updateTime": "2026-11-09 16:31:50",
+  "updateTime": "2026-11-09 17:02:05",
   "data": [
     {
       "mgdbId": "120000600170",
       "pID": "969206155",
-      "title": "解锁播时任务 万份会员+限量周边送不停",
+      "title": "解锁播时任务 赢万份会员+限量周边",
       "keyword": "11月09日00:00",
       "sportItemId": "5",
       "matchStatus": "1",
@@ -13,7 +13,7 @@
       "competitionName": "UFC格斗马拉松",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/11/6/1000000004131061b3d9.png",
-      "pkInfoTitle": "解锁播时任务 万份会员+限量周边送不停",
+      "pkInfoTitle": "解锁播时任务 赢万份会员+限量周边",
       "modifyTitle": "UFC格斗马拉松：解锁播时任务 万份会员+限量周边送不停",
       "presenters": "",
       "matchInfo": {
@@ -1045,7 +1045,7 @@
     },
     {
       "mgdbId": "120000600199",
-      "pID": "969172698",
+      "pID": "969302040",
       "title": "清远63-91肇庆",
       "keyword": "11月09日10:30",
       "sportItemId": "2",
@@ -1100,7 +1100,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/08/77T4EJE1JDGJ.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/09/77T59AL0LMA9.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
       "pkInfoTitle": "曾丽美 vs 里内特",
       "modifyTitle": "WTA250金奈站女单决赛：曾丽美 vs 里内特",
@@ -1109,10 +1109,6 @@
         "time": "11月09日13:30"
       },
       "nodes": [
-        {
-          "pID": "969294383",
-          "name": "蔡凯臣"
-        },
         {
           "pID": "969291136",
           "name": "赛场原声"
@@ -1124,6 +1120,10 @@
         {
           "pID": "969291249",
           "name": "解说"
+        },
+        {
+          "pID": "969294383",
+          "name": "蔡凯臣"
         }
       ]
     },
@@ -1153,11 +1153,11 @@
     },
     {
       "mgdbId": "120000599186",
-      "pID": "969095061",
+      "pID": "969002817",
       "title": "中国篮球放映室：北京vs浙证",
       "keyword": "11月09日14:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "CBA经典赛事",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/08/77T4EJDKOQV2.jpg",
@@ -1171,11 +1171,7 @@
       "nodes": [
         {
           "pID": "969002817",
-          "name": "26/27赛季CBA常规赛第7轮全场回放：北京vs浙证（邵化谦、焦健、苏群、秋童）（50帧原画）"
-        },
-        {
-          "pID": "969095061",
-          "name": "邵化谦 焦健 苏群"
+          "name": "全场回放"
         }
       ]
     },
@@ -1501,7 +1497,7 @@
     },
     {
       "mgdbId": "120000600154",
-      "pID": "969169668",
+      "pID": "969169676",
       "title": "斯诺克冠中冠：马克·塞尔比vs阿尔菲·博登",
       "keyword": "11月09日21:00",
       "sportItemId": "8",
@@ -1519,15 +1515,15 @@
       "nodes": [
         {
           "pID": "969169676",
-          "name": "涂子轩"
+          "name": "解说"
         },
         {
           "pID": "969169668",
-          "name": "清流播出"
+          "name": "现场原声"
         },
         {
           "pID": "969169716",
-          "name": "AI智慧观赛"
+          "name": "AI智慧分析"
         }
       ]
     },
@@ -1551,15 +1547,15 @@
       "nodes": [
         {
           "pID": "969169836",
-          "name": "杨江浩"
+          "name": "解说"
         },
         {
           "pID": "969169801",
-          "name": "清流播出"
+          "name": "现场原声"
         },
         {
           "pID": "969169932",
-          "name": "AI智慧观赛"
+          "name": "AI智慧分析"
         }
       ]
     }
