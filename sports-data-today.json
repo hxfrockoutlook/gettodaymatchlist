@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-09 11:02:01",
+  "updateTime": "2026-11-09 11:31:51",
   "data": [
     {
       "mgdbId": "120000600170",
@@ -626,7 +626,11 @@
       "nodes": [
         {
           "pID": "969291321",
-          "name": "【回放】高芙2-1佩古拉（王东、郭丰庆）（50帧原画）"
+          "name": "【回放】高芙2-1佩古拉（王东、郭丰庆）��50帧原画）"
+        },
+        {
+          "pID": "969294469",
+          "name": "【回放】高芙2-1佩古拉（赛场原声）"
         }
       ]
     },
@@ -676,7 +680,7 @@
     },
     {
       "mgdbId": "120000588370",
-      "pID": "969293012",
+      "pID": "969295659",
       "title": "NBA常规赛",
       "keyword": "11月09日08:00",
       "sportItemId": "2",
@@ -692,6 +696,10 @@
         "time": "11月09日08:00"
       },
       "nodes": [
+        {
+          "pID": "969295659",
+          "name": "全场集锦"
+        },
         {
           "pID": "969293840",
           "name": "全场回放（刘圳展）"
@@ -736,11 +744,11 @@
     },
     {
       "mgdbId": "120000588371",
-      "pID": "969204326",
+      "pID": "969293860",
       "title": "NBA常规赛",
       "keyword": "11月09日08:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "美国航线中心体育馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/09/77T5B2AVAKAN.jpg",
@@ -753,25 +761,33 @@
       },
       "nodes": [
         {
-          "pID": "969204326",
-          "name": "王冠证"
+          "pID": "969289376",
+          "name": "第一节"
         },
         {
-          "pID": "969204379",
-          "name": "英文原声"
+          "pID": "969290798",
+          "name": "第二节"
+        },
+        {
+          "pID": "969293385",
+          "name": "第三节"
+        },
+        {
+          "pID": "969295365",
+          "name": "第四节"
         }
       ]
     },
     {
       "mgdbId": "120000588372",
-      "pID": "969206628",
+      "pID": "969294090",
       "title": "NBA常规赛",
       "keyword": "11月09日09:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "费哲论坛球馆",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/08/77T4BJSIP3J3.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/09/77T5B98D30GQ.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "凯尔特人VS雄鹿",
       "modifyTitle": "NBA常规赛",
@@ -781,24 +797,20 @@
       },
       "nodes": [
         {
-          "pID": "969206628",
-          "name": "庄宁宇 刘炜 陈正昊"
+          "pID": "969290504",
+          "name": "第一节"
         },
         {
-          "pID": "969204326",
-          "name": "同看篮网vs独行侠"
+          "pID": "969291816",
+          "name": "第二节"
         },
         {
-          "pID": "969269927",
-          "name": "《球你别说了》"
+          "pID": "969294211",
+          "name": "第三节"
         },
         {
-          "pID": "969204632",
-          "name": "英文原声"
-        },
-        {
-          "pID": "969243596",
-          "name": "智能字幕"
+          "pID": "969295721",
+          "name": "第四节"
         }
       ]
     },
@@ -952,10 +964,10 @@
     },
     {
       "mgdbId": "300000002546",
-      "pID": "969269927",
+      "pID": "969199720",
       "title": "《球你别说了》NBA里的“大连逆袭夺冠”",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/09/77T5BJC9VCBQ.jpg",
@@ -965,6 +977,10 @@
       "presenters": "周鹏 邵化谦 马健",
       "matchInfo": {},
       "nodes": [
+        {
+          "pID": "969199720",
+          "name": "乔丹硬实力GOAT！马健：詹姆斯是篮球持续推进的第一人"
+        },
         {
           "pID": "969269927",
           "name": "《球你别说了》（周鹏，邵化谦，马健）"
@@ -1038,6 +1054,10 @@
       },
       "nodes": [
         {
+          "pID": "969294383",
+          "name": "蔡凯臣"
+        },
+        {
           "pID": "969291136",
           "name": "赛场原声"
         },
@@ -1050,16 +1070,8 @@
           "name": "解说"
         },
         {
-          "pID": "969238682",
-          "name": "曾丽美 vs 里内特"
-        },
-        {
-          "pID": "969294383",
-          "name": "蔡凯臣"
-        },
-        {
-          "pID": "969294561",
-          "name": "赛场原声"
+          "pID": "969295648",
+          "name": "智慧观赛"
         }
       ]
     },
@@ -1219,7 +1231,7 @@
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/09/77T5B0IFP77G.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png",
       "pkInfoTitle": "NBA精彩重播：76人 vs 公牛",
-      "modifyTitle": "NBA��典赛事",
+      "modifyTitle": "NBA经典赛事",
       "presenters": "",
       "matchInfo": {
         "time": "11月09日18:00"
