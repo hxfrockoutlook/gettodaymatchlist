@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-11 04:31:30",
+  "updateTime": "2026-11-11 05:01:32",
   "data": [
     {
       "mgdbId": "120000600159",
@@ -31,42 +31,6 @@
         {
           "pID": "969170657",
           "name": "AI智慧分析"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000599142",
-      "pID": "969331492",
-      "title": "WTA年终总决赛小组赛：科斯秋克 vs 佩古拉",
-      "keyword": "11月11日04:00",
-      "sportItemId": "9",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "WTA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/10/77T65J9ANTP3.png",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "科斯秋克 vs 佩古拉",
-      "modifyTitle": "WTA年终总决赛小组赛：科斯秋克 vs 佩古拉",
-      "presenters": "房朕",
-      "matchInfo": {
-        "time": "11月11日04:00"
-      },
-      "nodes": [
-        {
-          "pID": "969331492",
-          "name": "科斯秋克 vs 佩古拉"
-        },
-        {
-          "pID": "969331165",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "969335311",
-          "name": "英文原声"
-        },
-        {
-          "pID": "969306531",
-          "name": "解说"
         }
       ]
     },
@@ -115,6 +79,42 @@
         {
           "pID": "969332168",
           "name": "布克沙/梅里查尔 vs 埃拉尼/保利尼"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000599142",
+      "pID": "969331492",
+      "title": "WTA年终总决赛小组赛：科斯秋克 vs 佩古拉",
+      "keyword": "11月11日04:15",
+      "sportItemId": "9",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "WTA",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/10/77T65J9ANTP3.png",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
+      "pkInfoTitle": "科斯秋克 vs 佩古拉",
+      "modifyTitle": "WTA年终总决赛小组赛：科斯秋克 vs 佩古拉",
+      "presenters": "房朕",
+      "matchInfo": {
+        "time": "11月11日04:15"
+      },
+      "nodes": [
+        {
+          "pID": "969331492",
+          "name": "科斯秋克 vs 佩古拉"
+        },
+        {
+          "pID": "969331165",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "969335311",
+          "name": "英文原声"
+        },
+        {
+          "pID": "969306531",
+          "name": "解说"
         }
       ]
     },
