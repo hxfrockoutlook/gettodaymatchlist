@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-10 16:31:33",
+  "updateTime": "2026-11-10 17:01:41",
   "data": [
     {
       "mgdbId": "120000600155",
@@ -724,7 +724,7 @@
     },
     {
       "mgdbId": "120000600304",
-      "pID": "969246499",
+      "pID": "969246531",
       "title": "国羽男双德比压阵！梨子组合止步",
       "keyword": "11月10日13:00",
       "sportItemId": "6",
@@ -741,16 +741,16 @@
       },
       "nodes": [
         {
-          "pID": "969246499",
-          "name": "2号场地"
+          "pID": "969246531",
+          "name": "3号场地"
         },
         {
           "pID": "969246473",
           "name": "1号场地"
         },
         {
-          "pID": "969246531",
-          "name": "3号场地"
+          "pID": "969246499",
+          "name": "2号场地"
         },
         {
           "pID": "969246614",
@@ -812,11 +812,11 @@
     },
     {
       "mgdbId": "120000599188",
-      "pID": "969095284",
+      "pID": "968591238",
       "title": "中国篮球放映室：北京vs广东",
       "keyword": "11月10日14:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "CBA经典赛事",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/09/77T598D995EE.png",
@@ -830,11 +830,7 @@
       "nodes": [
         {
           "pID": "968591238",
-          "name": "26/27赛季CBA常规赛第2轮全场回放：北京vs广东（杨健、杨鸣、李根、秋童）（50帧原画）"
-        },
-        {
-          "pID": "969095284",
-          "name": "杨健 杨鸣 李根"
+          "name": "全场回放"
         }
       ]
     },
@@ -916,7 +912,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/10/77T666SR0TSD.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/10/77T66E36FHFO.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "张旋、柳是宇领衔出战资格赛",
       "modifyTitle": "WTT伊斯坦布尔常规挑战赛男女单打资格赛第一轮",
@@ -977,7 +973,7 @@
       "title": "中国足球职业联赛颁奖典礼",
       "keyword": "11月10日17:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "中超",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/09/77T592FKER44.jpg",
@@ -992,6 +988,30 @@
         {
           "pID": "969173669",
           "name": "现场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000599165",
+      "pID": "969088021",
+      "title": "NBA精彩重播：掘金 vs 火箭",
+      "keyword": "11月10日18:00",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "NBA经典赛事",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/10/77T66FUPFRCU.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png",
+      "pkInfoTitle": "NBA精彩重播：掘金 vs 火箭",
+      "modifyTitle": "NBA精彩重播：掘金 vs 火箭",
+      "presenters": "连睿 曾令旭 周鹏",
+      "matchInfo": {
+        "time": "11月10日18:00"
+      },
+      "nodes": [
+        {
+          "pID": "969088021",
+          "name": "精彩重播：掘金vs火箭"
         }
       ]
     },
@@ -1204,7 +1224,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "斯诺克",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/10/77T66EKLQP10.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "贾德·特鲁姆普vs杰克·琼斯",
       "modifyTitle": "斯诺克冠中冠：贾德·特鲁姆普vs杰克·琼斯",
