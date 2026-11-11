@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-11 15:31:40",
+  "updateTime": "2026-11-11 16:01:48",
   "data": [
     {
       "mgdbId": "120000600159",
@@ -754,15 +754,15 @@
     {
       "mgdbId": "120000600942",
       "pID": "969337673",
-      "title": "肇庆vs广州",
+      "title": "肇庆68-99广州",
       "keyword": "11月11日14:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "广东省女子篮球联赛",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/11/6/100000001581106fa3af.jpeg",
-      "pkInfoTitle": "肇庆vs广州",
+      "pkInfoTitle": "肇庆68-99广州",
       "modifyTitle": "广东省女子篮球联赛八强赛",
       "presenters": "",
       "matchInfo": {
@@ -776,41 +776,17 @@
       ]
     },
     {
-      "mgdbId": "120000600921",
-      "pID": "969330206",
-      "title": "国际自盟场地自行车世锦赛-1",
-      "keyword": "11月11日14:32",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "国际自盟场地自行车世锦赛",
-      "padImg": "",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/10/29/10000000157210695b94.png",
-      "pkInfoTitle": "国际自盟场地自行车世锦赛-1",
-      "modifyTitle": "国际自盟场地自行车世锦赛-1",
-      "presenters": "",
-      "matchInfo": {
-        "time": "11月11日14:32"
-      },
-      "nodes": [
-        {
-          "pID": "969330206",
-          "name": "解说"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000600143",
       "pID": "969163911",
-      "title": "袁励岑/纵歌曼冲正赛 方博混双出战",
+      "title": "袁励岑/纵歌曼迎开门红 魏璟茗出战",
       "keyword": "11月11日15:00",
       "sportItemId": "7",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/11/77T736GBL6EI.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/11/77T738CPRCJ3.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "袁励岑/纵歌曼冲正赛 方博混双出战",
+      "pkInfoTitle": "袁励岑/纵歌曼迎开门红 魏璟茗出战",
       "modifyTitle": "WTT伊斯坦布尔常规挑战赛男女单打资格赛第二轮及双打资格赛",
       "presenters": "张铭哲 凌维康",
       "matchInfo": {
@@ -822,16 +798,16 @@
           "name": "张铭哲 凌维康"
         },
         {
+          "pID": "969163864",
+          "name": "3号桌"
+        },
+        {
           "pID": "969163804",
           "name": "1号桌"
         },
         {
           "pID": "969163830",
           "name": "2号桌"
-        },
-        {
-          "pID": "969163864",
-          "name": "3号桌"
         },
         {
           "pID": "969163889",
@@ -869,7 +845,7 @@
       "title": "韶光vs东莞",
       "keyword": "11月11日16:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "广东省女子篮球联赛",
       "padImg": "",
@@ -1126,22 +1102,22 @@
       },
       "nodes": [
         {
-          "pID": "969170700",
-          "name": "卢正浩"
+          "pID": "969170685",
+          "name": "现场原声"
         },
         {
-          "pID": "969170685",
-          "name": "清流播出"
+          "pID": "969170700",
+          "name": "解说"
         },
         {
           "pID": "969170737",
-          "name": "AI智慧观赛"
+          "name": "AI智慧分析"
         }
       ]
     },
     {
       "mgdbId": "120000600161",
-      "pID": "969170773",
+      "pID": "969170815",
       "title": "斯诺克冠中冠：吴宜泽vs常冰玉",
       "keyword": "11月11日22:00",
       "sportItemId": "8",
@@ -1159,15 +1135,15 @@
       "nodes": [
         {
           "pID": "969170815",
-          "name": "朱峰立"
+          "name": "解说"
         },
         {
           "pID": "969170773",
-          "name": "清流播出"
+          "name": "现场原声"
         },
         {
           "pID": "969170870",
-          "name": "AI智慧观赛"
+          "name": "AI智慧分析"
         }
       ]
     }
