@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-11 10:01:32",
+  "updateTime": "2026-11-11 10:31:28",
   "data": [
     {
       "mgdbId": "120000600159",
@@ -66,7 +66,7 @@
         },
         {
           "pID": "969306531",
-          "name": "解说"
+          "name": "AI同声传译"
         },
         {
           "pID": "969331492",
@@ -400,7 +400,7 @@
       "title": "加拿大蒙特利尔站 1",
       "keyword": "11月11日09:00",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "短道速滑世界巡回赛",
       "padImg": "",
@@ -465,6 +465,10 @@
           "name": "王冠证 殷文玉"
         },
         {
+          "pID": "969245260",
+          "name": "热火vs爵士"
+        },
+        {
           "pID": "969244944",
           "name": "英文原声"
         }
@@ -493,6 +497,10 @@
           "name": "姜帆 盛哲"
         },
         {
+          "pID": "969244904",
+          "name": "快船vs太阳"
+        },
+        {
           "pID": "969245387",
           "name": "英文原声"
         }
@@ -504,7 +512,7 @@
       "title": "茂名vs深圳",
       "keyword": "11月11日10:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "广东省女子篮球联赛",
       "padImg": "",
@@ -605,6 +613,10 @@
       },
       "nodes": [
         {
+          "pID": "968717790",
+          "name": "26/27赛季CBA常规赛第4轮全场回放：浙证vs吉林（徐秦威）（50帧原画）"
+        },
+        {
           "pID": "969095369",
           "name": "徐秦威"
         }
@@ -701,7 +713,7 @@
     {
       "mgdbId": "120000600891",
       "pID": "969322360",
-      "title": "乒乓球总决赛男女团体���一阶段第3轮、半决赛及决赛",
+      "title": "乒乓球总决赛男女团体第一阶段第3轮、半决赛及决赛",
       "keyword": "11月11日16:00",
       "sportItemId": "8",
       "matchStatus": "0",
@@ -876,6 +888,7 @@
     },
     {
       "mgdbId": "120000600895",
+      "pID": "969345076",
       "title": "熊猫杯国际足球锦标赛友谊赛",
       "keyword": "11月11日19:35",
       "sportItemId": "1",
@@ -886,11 +899,20 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/11/13/100000001241106af1c1.png",
       "pkInfoTitle": "中国U19 vs 越南U19",
       "modifyTitle": "熊猫杯国际足球锦标赛友谊赛",
-      "presenters": "",
+      "presenters": "张昊泽 赵宇",
       "matchInfo": {
         "time": "11月11日19:35"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "969345076",
+          "name": "张昊泽 赵宇"
+        },
+        {
+          "pID": "969345092",
+          "name": "赛场原声"
+        }
+      ]
     },
     {
       "mgdbId": "120000600144",
