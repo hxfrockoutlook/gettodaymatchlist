@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-11 21:01:39",
+  "updateTime": "2026-11-11 21:31:32",
   "data": [
     {
       "mgdbId": "120000600159",
@@ -494,7 +494,7 @@
         },
         {
           "pID": "969347505",
-          "name": "第��节"
+          "name": "第三节"
         },
         {
           "pID": "969348167",
@@ -884,16 +884,24 @@
         {
           "pID": "969360314",
           "name": "全场回放（石楷文）"
+        },
+        {
+          "pID": "969360853",
+          "name": "全场回放"
+        },
+        {
+          "pID": "969360895",
+          "name": "全场回放"
         }
       ]
     },
     {
       "mgdbId": "120000599166",
-      "pID": "969088032",
+      "pID": "969347854",
       "title": "NBA精彩重播：凯尔特人 vs 76人",
       "keyword": "11月11日18:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA经典赛事",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/11/77T741NIKIDN.jpg",
@@ -906,8 +914,8 @@
       },
       "nodes": [
         {
-          "pID": "969088032",
-          "name": "解说"
+          "pID": "969347854",
+          "name": "全场回放（杨健、丁彦雨航、霍楠、佳依）"
         }
       ]
     },
@@ -938,15 +946,15 @@
     {
       "mgdbId": "120000600349",
       "pID": "969292097",
-      "title": "内蒙古vs安徽",
+      "title": "内蒙古93-74安徽",
       "keyword": "11月11日19:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "中国篮球城市冠军联赛",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/11/9/100000001583106a6a52.png",
-      "pkInfoTitle": "内蒙古vs安徽",
+      "pkInfoTitle": "内蒙古93-74安徽",
       "modifyTitle": "中国篮球城市冠军联赛",
       "presenters": "",
       "matchInfo": {
@@ -986,7 +994,7 @@
     {
       "mgdbId": "120000600431",
       "pID": "969302068",
-      "title": "杭州VS安吉",
+      "title": "杭州68-76安吉",
       "keyword": "11月11日19:30",
       "sportItemId": "2",
       "matchStatus": "1",
@@ -994,8 +1002,8 @@
       "competitionName": "浙BA",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/02/77N92ACGBBVQ.png",
-      "pkInfoTitle": "杭州VS安吉",
-      "modifyTitle": "杭州VS安吉",
+      "pkInfoTitle": "杭州68-76安吉",
+      "modifyTitle": "杭州68-76安吉",
       "presenters": "",
       "matchInfo": {
         "time": "11月11日19:30"
@@ -1037,14 +1045,14 @@
     },
     {
       "mgdbId": "120000600144",
-      "pID": "969164039",
+      "pID": "969163935",
       "title": "袁励岑冲正赛 方博出战男双",
       "keyword": "11月11日21:00",
       "sportItemId": "7",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/11/77T74ETVE3T8.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/11/77T74U4B5KBR.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "袁励岑冲正赛 方博出战男双",
       "modifyTitle": "WTT伊斯坦布尔常规挑战赛男女单打资格赛第三轮及男女双打资格赛",
@@ -1053,10 +1061,6 @@
         "time": "11月11日21:00"
       },
       "nodes": [
-        {
-          "pID": "969163992",
-          "name": "3号桌"
-        },
         {
           "pID": "969164039",
           "name": "林睿思"
@@ -1068,6 +1072,10 @@
         {
           "pID": "969163970",
           "name": "2号桌"
+        },
+        {
+          "pID": "969163992",
+          "name": "3号桌"
         },
         {
           "pID": "969164016",
