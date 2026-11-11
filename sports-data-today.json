@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-11 13:01:35",
+  "updateTime": "2026-11-11 13:31:33",
   "data": [
     {
       "mgdbId": "120000600159",
@@ -192,25 +192,25 @@
     },
     {
       "mgdbId": "120000600305",
-      "pID": "969337201",
+      "pID": "969337088",
       "title": "冲开门红！王祉怡、娃卉组合领衔出战",
       "keyword": "11月11日08:00",
       "sportItemId": "6",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "BWF",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/11/77T75Q86M73S.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/11/77T72JPLO991.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "冲开门红！王祉怡、娃卉组合领衔出战",
       "modifyTitle": "日本羽毛球大师赛第二日：冲开门红！王祉怡、娃卉组合领衔出战",
-      "presenters": "鸿昆 轩子博 杨妮娜 金子嘉 孙宁智 朱胤丞 余博洋",
+      "presenters": "轩子博 鸿昆 杨妮娜 金子嘉 孙宁智 朱胤丞 余博洋",
       "matchInfo": {
         "time": "11月11日08:00"
       },
       "nodes": [
         {
-          "pID": "969337201",
-          "name": "何济霆/任翔宇 vs 谢炜杰/张御宇"
+          "pID": "969337088",
+          "name": "苏力扬 vs 大波波夫"
         },
         {
           "pID": "969246754",
@@ -231,10 +231,6 @@
         {
           "pID": "969337071",
           "name": "田中涌士 vs 朱轩辰"
-        },
-        {
-          "pID": "969337088",
-          "name": "苏力扬 vs 大波波夫"
         },
         {
           "pID": "969337096",
@@ -303,6 +299,10 @@
         {
           "pID": "969337064",
           "name": "小波波夫 vs 古贺穗"
+        },
+        {
+          "pID": "969337201",
+          "name": "何济霆/任翔宇 vs 谢炜杰/张御宇"
         }
       ]
     },
@@ -427,36 +427,16 @@
         {
           "pID": "969346700",
           "name": "第四节"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000600317",
-      "pID": "969267944",
-      "title": "全国羽毛球团体锦标赛第三日",
-      "keyword": "11月11日09:00",
-      "sportItemId": "6",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "全国羽毛球团体锦标赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/10/77T66PHA978R.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/11/8/1000000015821067f593.png",
-      "pkInfoTitle": "全国羽毛球团体锦标赛第三日",
-      "modifyTitle": "全国羽毛球团体锦标赛第三日",
-      "presenters": "",
-      "matchInfo": {
-        "time": "11月11日09:00"
-      },
-      "nodes": [
+        },
         {
-          "pID": "969267944",
-          "name": "1号场地"
+          "pID": "969348695",
+          "name": "全场回放"
         }
       ]
     },
     {
       "mgdbId": "120000600940",
-      "pID": "969337596",
+      "pID": "969347270",
       "title": "惠州67-99佛山",
       "keyword": "11月11日09:00",
       "sportItemId": "2",
@@ -474,13 +454,13 @@
       "nodes": [
         {
           "pID": "969347270",
-          "name": "2026赛季广东省女子篮球联赛八强赛全场回放：惠州vs佛山（赛场原声）"
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
     {
       "mgdbId": "120000588385",
-      "pID": "969346292",
+      "pID": "969348439",
       "title": "NBA常规赛",
       "keyword": "11月11日10:00",
       "sportItemId": "2",
@@ -497,6 +477,14 @@
       },
       "nodes": [
         {
+          "pID": "969348439",
+          "name": "全场集锦"
+        },
+        {
+          "pID": "969348441",
+          "name": "全场回放（王冠证、殷文玉）"
+        },
+        {
           "pID": "969345537",
           "name": "第一节"
         },
@@ -511,16 +499,12 @@
         {
           "pID": "969348167",
           "name": "第四节"
-        },
-        {
-          "pID": "969348441",
-          "name": "全场回放（王冠证、殷文玉）"
         }
       ]
     },
     {
       "mgdbId": "120000588386",
-      "pID": "969348138",
+      "pID": "969349026",
       "title": "NBA常规赛",
       "keyword": "11月11日10:00",
       "sportItemId": "2",
@@ -537,6 +521,14 @@
       },
       "nodes": [
         {
+          "pID": "969349026",
+          "name": "全场集锦"
+        },
+        {
+          "pID": "969348901",
+          "name": "全场回放（姜帆、盛哲）"
+        },
+        {
           "pID": "969345825",
           "name": "第一节"
         },
@@ -547,6 +539,10 @@
         {
           "pID": "969347734",
           "name": "第三节"
+        },
+        {
+          "pID": "969348541",
+          "name": "第四节"
         }
       ]
     },
@@ -569,18 +565,18 @@
       },
       "nodes": [
         {
-          "pID": "969337636",
-          "name": "赛场原声"
+          "pID": "969349412",
+          "name": "2026赛季广东省女子篮球联赛八强赛全场回放：茂名vs深圳（赛场原声）"
         }
       ]
     },
     {
       "mgdbId": "120000588387",
-      "pID": "969242471",
+      "pID": "969348935",
       "title": "NBA常规赛",
       "keyword": "11月11日11:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "金色一号中心",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/10/77T65IG1PEJO.png",
@@ -593,12 +589,16 @@
       },
       "nodes": [
         {
-          "pID": "969242471",
-          "name": "罗森"
+          "pID": "969346975",
+          "name": "第一节"
         },
         {
-          "pID": "969242462",
-          "name": "英文原声"
+          "pID": "969348118",
+          "name": "第二节"
+        },
+        {
+          "pID": "969348679",
+          "name": "第三节"
         }
       ]
     },
@@ -625,10 +625,6 @@
           "name": "李天宇 陈正昊 徐咏"
         },
         {
-          "pID": "969242471",
-          "name": "魔术vs国王"
-        },
-        {
           "pID": "969242554",
           "name": "邢晨"
         },
@@ -644,10 +640,10 @@
     },
     {
       "mgdbId": "300000002568",
-      "pID": "969290173",
+      "pID": "969199720",
       "title": "《球你别说了》无詹湖人表现更好？",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/11/77T75FH8IED8.jpg",
@@ -657,6 +653,10 @@
       "presenters": "连睿 马健 季孟年",
       "matchInfo": {},
       "nodes": [
+        {
+          "pID": "969199720",
+          "name": "乔丹硬实力GOAT！马健：詹姆斯是篮球持续推进的第一人"
+        },
         {
           "pID": "969290173",
           "name": "连睿 马健 季孟年"
@@ -688,6 +688,30 @@
         {
           "pID": "969095369",
           "name": "徐秦威"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000600317",
+      "pID": "969267944",
+      "title": "全国羽毛球团体锦标赛第三日",
+      "keyword": "11月11日14:00",
+      "sportItemId": "6",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "全国羽毛球团体锦标赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/10/77T66PHA978R.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/11/8/1000000015821067f593.png",
+      "pkInfoTitle": "全国羽毛球团体锦标赛第三日",
+      "modifyTitle": "全国羽毛球团体锦标赛第三日",
+      "presenters": "",
+      "matchInfo": {
+        "time": "11月11日14:00"
+      },
+      "nodes": [
+        {
+          "pID": "969267944",
+          "name": "1号场地"
         }
       ]
     },
