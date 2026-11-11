@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-11 11:01:52",
+  "updateTime": "2026-11-11 11:31:31",
   "data": [
     {
       "mgdbId": "120000600159",
@@ -309,6 +309,10 @@
       },
       "nodes": [
         {
+          "pID": "969346263",
+          "name": "全场回放（周赫）"
+        },
+        {
           "pID": "969343618",
           "name": "第一节"
         },
@@ -335,7 +339,7 @@
       "matchStatus": "1",
       "matchField": "康卡斯特移动球馆",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/10/77T65I4E10A2.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/11/77T75HICJ23N.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "凯尔特人VS76人",
       "modifyTitle": "NBA常规赛",
@@ -425,7 +429,7 @@
     {
       "mgdbId": "120000600940",
       "pID": "969337596",
-      "title": "惠州vs佛山",
+      "title": "惠州67-99佛山",
       "keyword": "11月11日09:00",
       "sportItemId": "2",
       "matchStatus": "2",
@@ -433,7 +437,7 @@
       "competitionName": "广东省女子篮球联赛",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/11/6/100000001581106fa3af.jpeg",
-      "pkInfoTitle": "惠州vs佛山",
+      "pkInfoTitle": "惠州67-99佛山",
       "modifyTitle": "广东省女子篮球联赛八强赛",
       "presenters": "",
       "matchInfo": {
@@ -568,7 +572,7 @@
       "title": "NBA常规赛",
       "keyword": "11月11日12:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "摩达中心",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/10/77T65IMUPT5O.png",
@@ -595,6 +599,27 @@
         {
           "pID": "969301289",
           "name": "智能字幕"
+        }
+      ]
+    },
+    {
+      "mgdbId": "300000002568",
+      "pID": "969290173",
+      "title": "《球你别说了》无詹湖人表现更好？",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "NBA",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/11/77T75FH8IED8.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
+      "pkInfoTitle": "《球你别说了》无詹湖人表现更好？",
+      "modifyTitle": "《球你别说了》无詹湖人表现更好？",
+      "presenters": "连睿 马健 季孟年",
+      "matchInfo": {},
+      "nodes": [
+        {
+          "pID": "969290173",
+          "name": "连睿 马健 季孟年"
         }
       ]
     },
@@ -658,7 +683,7 @@
       "sportItemId": "8",
       "matchStatus": "0",
       "matchField": "",
-      "competitionName": "国际自盟场地自行车世锦赛",
+      "competitionName": "国��自盟场地自行车世锦赛",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/10/29/10000000157210695b94.png",
       "pkInfoTitle": "国际自盟场地自行车世锦赛-1",
