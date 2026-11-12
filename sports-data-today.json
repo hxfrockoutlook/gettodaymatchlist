@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-12 16:01:46",
+  "updateTime": "2026-11-12 16:31:41",
   "data": [
     {
       "mgdbId": "120000600162",
@@ -203,7 +203,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "骑士VS尼克斯",
       "modifyTitle": "NBA常规赛",
-      "presenters": "姜帆 闫宇�� 霍楠",
+      "presenters": "姜帆 闫宇峰 霍楠",
       "matchInfo": {
         "time": "11月12日08:00"
       },
@@ -347,7 +347,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "王祉怡冲八强 王昶/谢浩南拿下德比战",
       "modifyTitle": "日本羽毛球大师赛第三日：王祉怡冲八强 王昶/谢浩南拿下德比战",
-      "presenters": "杨妮娜 朱胤丞 孙宁智 王政 余博洋",
+      "presenters": "杨妮娜 孙宁智 朱胤丞 王政 余博洋",
       "matchInfo": {
         "time": "11月12日08:00"
       },
@@ -357,15 +357,19 @@
           "name": "米娅VS王祉怡"
         },
         {
-          "pID": "969362480",
-          "name": "罗意/王汀戈VS中出堇/高桥美优"
-        },
-        {
           "pID": "969247074",
           "name": "2号场地"
         },
         {
           "pID": "969246883",
+          "name": "1号场地"
+        },
+        {
+          "pID": "969247233",
+          "name": "4号场地"
+        },
+        {
+          "pID": "969246842",
           "name": "1号场地"
         },
         {
@@ -379,14 +383,6 @@
         {
           "pID": "969247111",
           "name": "3号场地"
-        },
-        {
-          "pID": "969247233",
-          "name": "4号场地"
-        },
-        {
-          "pID": "969246842",
-          "name": "1号场地"
         },
         {
           "pID": "969362538",
@@ -407,6 +403,10 @@
         {
           "pID": "969362513",
           "name": "陈雨菲VS卡洛亚娜"
+        },
+        {
+          "pID": "969362480",
+          "name": "罗意/王汀戈VS中出堇/高桥美优"
         },
         {
           "pID": "969362519",
@@ -674,7 +674,7 @@
       "nodes": [
         {
           "pID": "969378169",
-          "name": "2026第二届全国全民健身总决赛（乒乓球）Day3全场回放"
+          "name": "全场回放"
         }
       ]
     },
@@ -901,11 +901,11 @@
     },
     {
       "mgdbId": "120000599192",
-      "pID": "969095497",
+      "pID": "969201374",
       "title": "中国篮球放映室：四川vs天津",
       "keyword": "11月12日14:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "CBA经典赛事",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/11/77T73FND314L.png",
@@ -917,6 +917,10 @@
         "time": "11月12日14:00"
       },
       "nodes": [
+        {
+          "pID": "969201374",
+          "name": "CBA常规赛第一阶段全景回顾：多位外教狼狈下课 北京势不可挡四川神奇逆袭"
+        },
         {
           "pID": "969095497",
           "name": "寇逸豪"
@@ -954,7 +958,7 @@
     {
       "mgdbId": "120000601066",
       "pID": "969362338",
-      "title": "佛山vs深圳",
+      "title": "佛山78-72深圳",
       "keyword": "11月12日14:30",
       "sportItemId": "2",
       "matchStatus": "2",
@@ -962,7 +966,7 @@
       "competitionName": "广东省女子篮球联赛",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/11/6/100000001581106fa3af.jpeg",
-      "pkInfoTitle": "佛山vs深圳",
+      "pkInfoTitle": "佛山78-72深圳",
       "modifyTitle": "广东省女子篮球联赛1-4名",
       "presenters": "",
       "matchInfo": {
@@ -977,7 +981,7 @@
     },
     {
       "mgdbId": "120000600145",
-      "pID": "969164211",
+      "pID": "969164178",
       "title": "黄友政一日迎三赛 陈垣宇PK陈俊菘",
       "keyword": "11月12日15:00",
       "sportItemId": "7",
@@ -998,16 +1002,16 @@
           "name": "凌维康 高文清"
         },
         {
-          "pID": "969164121",
-          "name": "2号桌"
+          "pID": "969164178",
+          "name": "4号桌"
         },
         {
           "pID": "969164149",
           "name": "3号桌"
         },
         {
-          "pID": "969164178",
-          "name": "4号桌"
+          "pID": "969164121",
+          "name": "2号桌"
         },
         {
           "pID": "969164082",
