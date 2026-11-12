@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-12 09:01:39",
+  "updateTime": "2026-11-12 09:31:39",
   "data": [
     {
       "mgdbId": "120000600162",
@@ -252,7 +252,7 @@
     },
     {
       "mgdbId": "120000600306",
-      "pID": "969246842",
+      "pID": "969362475",
       "title": "男双混双内战打响！陈雨菲冲八强",
       "keyword": "11月12日08:00",
       "sportItemId": "6",
@@ -263,11 +263,19 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "男双混双内战打响！陈雨菲冲八强",
       "modifyTitle": "日本羽毛球大师赛第三日：男双混双内战打响！陈雨菲冲八强",
-      "presenters": "杨妮娜 孙宁智 朱胤丞 余博洋 王政",
+      "presenters": "杨妮娜 朱胤丞 孙宁智 余博洋 王政",
       "matchInfo": {
         "time": "11月12日08:00"
       },
       "nodes": [
+        {
+          "pID": "969362497",
+          "name": "李哲辉/杨博轩VS胡珂源/梁伟铿"
+        },
+        {
+          "pID": "969362475",
+          "name": "高家炫/吴梦莹VS郭新娃/陈芳卉"
+        },
         {
           "pID": "969246842",
           "name": "1号场地"
@@ -293,16 +301,8 @@
           "name": "4号场地"
         },
         {
-          "pID": "969362497",
-          "name": "李哲辉/杨博轩VS胡珂源/梁伟铿"
-        },
-        {
           "pID": "969362534",
           "name": "蒋振邦/魏雅欣VS许邦荣/赖沛君"
-        },
-        {
-          "pID": "969362475",
-          "name": "高家炫/吴梦莹VS郭新娃/陈芳卉"
         },
         {
           "pID": "969246883",
@@ -367,30 +367,6 @@
         {
           "pID": "968818030",
           "name": "咪咕体育日报 第239期"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000601024",
-      "pID": "969357495",
-      "title": "加拿大蒙特利尔站 2",
-      "keyword": "11月12日08:03",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "短道速滑世界巡回赛",
-      "padImg": "",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/10/29/100000001571106812a8.png",
-      "pkInfoTitle": "加拿大蒙特利尔站 2",
-      "modifyTitle": "加拿大蒙特利尔站 2",
-      "presenters": "",
-      "matchInfo": {
-        "time": "11月12日08:03"
-      },
-      "nodes": [
-        {
-          "pID": "969357495",
-          "name": "解说"
         }
       ]
     },
@@ -775,6 +751,27 @@
         {
           "pID": "969240966",
           "name": "邢晨"
+        }
+      ]
+    },
+    {
+      "mgdbId": "300000002571",
+      "pID": "969290140",
+      "title": "《球你别说了》状元失辉！迪班萨前路何为",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "NBA",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/12/77T820P74UN3.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
+      "pkInfoTitle": "《球你别说了》状元失辉！迪班萨前路何为",
+      "modifyTitle": "《球你别说了》状元失辉！迪班萨前路何为",
+      "presenters": "连睿 周鹏 王冠证",
+      "matchInfo": {},
+      "nodes": [
+        {
+          "pID": "969290140",
+          "name": "《球你别说了》状元失辉！迪班萨前路何为"
         }
       ]
     },
