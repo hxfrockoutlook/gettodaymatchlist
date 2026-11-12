@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-13 04:01:25",
+  "updateTime": "2026-11-13 04:31:22",
   "data": [
     {
       "mgdbId": "120000600338",
@@ -11,7 +11,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "乒乓球欧冠",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/13/77T8TDQANNJR.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/13/77T8TMTHBLB3.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/11/13/1000000013711060938f.png",
       "pkInfoTitle": "蓬图瓦兹塞尔吉vs杜塞尔多夫",
       "modifyTitle": "欧乒联男子欧冠联赛1/8决赛第一回合：蓬图瓦兹塞尔吉vs杜塞尔多夫",
@@ -63,42 +63,6 @@
       ]
     },
     {
-      "mgdbId": "120000599144",
-      "pID": "969378163",
-      "title": "WTA年终总决赛小组赛：科斯秋克 vs 高芙",
-      "keyword": "11月13日04:00",
-      "sportItemId": "9",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "WTA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/11/77T74KE4NBDG.png",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "科斯秋克 vs 高芙",
-      "modifyTitle": "WTA年终总决赛小组赛：科斯秋克 vs 高芙",
-      "presenters": "房朕",
-      "matchInfo": {
-        "time": "11月13日04:00"
-      },
-      "nodes": [
-        {
-          "pID": "969306505",
-          "name": "解说"
-        },
-        {
-          "pID": "969378163",
-          "name": "科斯秋克 vs 高芙（房朕）"
-        },
-        {
-          "pID": "969378145",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "969378120",
-          "name": "英文原声"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000600265",
       "pID": "969378163",
       "title": "全力争胜！高芙、佩古拉接连登场",
@@ -143,6 +107,42 @@
         {
           "pID": "969378333",
           "name": "佩雷兹/舒尔斯 vs 埃拉尼/保利尼(刘钟鸣)"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000599144",
+      "pID": "969378163",
+      "title": "WTA年终总决赛小组赛：科斯秋克 vs 高芙",
+      "keyword": "11月13日04:00",
+      "sportItemId": "9",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "WTA",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/11/77T74KE4NBDG.png",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
+      "pkInfoTitle": "科斯秋克 vs 高芙",
+      "modifyTitle": "WTA年终总决赛小组赛：科斯秋克 vs 高芙",
+      "presenters": "房朕",
+      "matchInfo": {
+        "time": "11月13日04:00"
+      },
+      "nodes": [
+        {
+          "pID": "969306505",
+          "name": "解说"
+        },
+        {
+          "pID": "969378163",
+          "name": "科斯秋克 vs 高芙（房朕）"
+        },
+        {
+          "pID": "969378145",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "969378120",
+          "name": "英文原声"
         }
       ]
     },
