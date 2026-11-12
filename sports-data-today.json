@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-12 12:31:36",
+  "updateTime": "2026-11-12 13:01:44",
   "data": [
     {
       "mgdbId": "120000600162",
@@ -90,7 +90,7 @@
       "nodes": [
         {
           "pID": "969372726",
-          "name": "2026WTA年终总决赛女双小组赛回放：谢淑薇/奥斯塔彭科2-0张帅/梅尔滕斯（单文强）"
+          "name": "【女双小组赛】谢淑薇/奥斯塔彭科2-0张帅/梅尔滕斯（单文强）"
         },
         {
           "pID": "969369239",
@@ -127,6 +127,10 @@
         {
           "pID": "969365876",
           "name": "【女单小组赛】斯维托丽娜2-1穆霍娃（英文原声）"
+        },
+        {
+          "pID": "969373056",
+          "name": "【女双小组赛】谢淑薇/奥斯塔彭科2-0张帅/梅尔滕斯（AI同声传译）"
         },
         {
           "pID": "969369861",
@@ -191,7 +195,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "骑士VS尼克斯",
       "modifyTitle": "NBA常规赛",
-      "presenters": "姜帆 闫宇峰 霍楠",
+      "presenters": "姜帆 ���宇峰 霍楠",
       "matchInfo": {
         "time": "11月12日08:00"
       },
@@ -247,6 +251,10 @@
         {
           "pID": "969371131",
           "name": "全场回放（李嘉伟）"
+        },
+        {
+          "pID": "969373227",
+          "name": "全场回放（英文原声）"
         },
         {
           "pID": "969366682",
@@ -316,8 +324,8 @@
     },
     {
       "mgdbId": "120000600306",
-      "pID": "969362519",
-      "title": "男双内战打响！陈雨菲冲八强",
+      "pID": "969362509",
+      "title": "男双内战打响！王祉怡冲八强",
       "keyword": "11月12日08:00",
       "sportItemId": "6",
       "matchStatus": "1",
@@ -325,16 +333,16 @@
       "competitionName": "BWF",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/12/77T82NCIC04E.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
-      "pkInfoTitle": "男双内战打响！陈雨菲冲八强",
-      "modifyTitle": "日本羽毛球大师赛第三日：男双内战打响！陈雨菲冲八强",
+      "pkInfoTitle": "男双内战打响！王祉怡冲八强",
+      "modifyTitle": "日本羽毛球大师赛第三日：男双内战打响！王祉怡冲八强",
       "presenters": "王政 余博洋 朱胤丞 杨妮娜 孙宁智",
       "matchInfo": {
         "time": "11月12日08:00"
       },
       "nodes": [
         {
-          "pID": "969362519",
-          "name": "赖浩俊VS田中涌士"
+          "pID": "969362509",
+          "name": "拉克什亚VS董天尧"
         },
         {
           "pID": "969246842",
@@ -385,10 +393,6 @@
           "name": "金元浩/徐承宰VS真龙/赵松炫"
         },
         {
-          "pID": "969362509",
-          "name": "拉克什亚VS董天尧"
-        },
-        {
           "pID": "969362528",
           "name": "山口茜VS革通"
         },
@@ -411,6 +415,10 @@
         {
           "pID": "969362513",
           "name": "陈雨菲VS卡洛亚娜"
+        },
+        {
+          "pID": "969362519",
+          "name": "赖浩俊VS田中涌士"
         }
       ]
     },
@@ -475,6 +483,10 @@
         {
           "pID": "969371691",
           "name": "第四节"
+        },
+        {
+          "pID": "969373136",
+          "name": "全场回放"
         }
       ]
     },
@@ -619,30 +631,6 @@
       ]
     },
     {
-      "mgdbId": "120000600318",
-      "pID": "969268571",
-      "title": "全国羽毛球团体锦标赛第四日",
-      "keyword": "11月12日09:00",
-      "sportItemId": "6",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "全国羽毛球团体锦标赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/11/77T743L42KEL.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/11/8/1000000015821067f593.png",
-      "pkInfoTitle": "全国羽毛球团体锦标赛第四日",
-      "modifyTitle": "全国羽毛球团体锦标赛第四日",
-      "presenters": "",
-      "matchInfo": {
-        "time": "11月12日09:00"
-      },
-      "nodes": [
-        {
-          "pID": "969268571",
-          "name": "5号场地"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000600892",
       "pID": "969322390",
       "title": "乒乓球总决赛男女团体决赛及闭幕式",
@@ -668,7 +656,7 @@
     },
     {
       "mgdbId": "120000601064",
-      "pID": "969362330",
+      "pID": "969372083",
       "title": "惠州90-75茂名",
       "keyword": "11月12日09:00",
       "sportItemId": "2",
@@ -686,17 +674,17 @@
       "nodes": [
         {
           "pID": "969372083",
-          "name": "2026赛季广东省女子篮球联赛5-8名全场回放：惠州vs茂名（赛场原声）"
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
     {
       "mgdbId": "120000588396",
-      "pID": "969240520",
+      "pID": "969373058",
       "title": "NBA常规赛",
       "keyword": "11月12日10:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "达美中心球馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/12/77T82SETQTKD.jpg",
@@ -709,12 +697,24 @@
       },
       "nodes": [
         {
-          "pID": "969240520",
-          "name": "张泽欣"
+          "pID": "969373502",
+          "name": "全场回放（张泽欣）"
         },
         {
-          "pID": "969240548",
-          "name": "英文原声"
+          "pID": "969369902",
+          "name": "第一节"
+        },
+        {
+          "pID": "969371075",
+          "name": "第二节"
+        },
+        {
+          "pID": "969372564",
+          "name": "第三节"
+        },
+        {
+          "pID": "969373207",
+          "name": "第四节"
         }
       ]
     },
@@ -769,10 +769,6 @@
           "name": "雷霆vs开拓者"
         },
         {
-          "pID": "969240520",
-          "name": "魔术vs爵士"
-        },
-        {
           "pID": "969240758",
           "name": "董倡硕"
         },
@@ -809,8 +805,8 @@
       },
       "nodes": [
         {
-          "pID": "969362334",
-          "name": "赛场原声"
+          "pID": "969373504",
+          "name": "2026赛季广东省女子篮球联赛5-8名全场回放：肇庆58:72韶关（赛场原声）"
         }
       ]
     },
@@ -835,10 +831,6 @@
         {
           "pID": "969240865",
           "name": "邵化谦 王润陶 季孟年"
-        },
-        {
-          "pID": "969240520",
-          "name": "魔术vs爵士"
         },
         {
           "pID": "969240966",
@@ -892,6 +884,30 @@
         {
           "pID": "969095497",
           "name": "寇逸豪"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000600318",
+      "pID": "969267964",
+      "title": "全国羽毛球团体锦标赛第四日",
+      "keyword": "11月12日14:00",
+      "sportItemId": "6",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "全国羽毛球团体锦标赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/11/77T743L42KEL.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/11/8/1000000015821067f593.png",
+      "pkInfoTitle": "全国羽毛球团体锦标赛第四日",
+      "modifyTitle": "全国羽毛球团体锦标赛第四日",
+      "presenters": "",
+      "matchInfo": {
+        "time": "11月12日14:00"
+      },
+      "nodes": [
+        {
+          "pID": "969267964",
+          "name": "1号场地"
         }
       ]
     },
