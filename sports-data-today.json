@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-12 19:01:44",
+  "updateTime": "2026-11-12 19:31:32",
   "data": [
     {
       "mgdbId": "120000600162",
@@ -337,7 +337,7 @@
     {
       "mgdbId": "120000600306",
       "pID": "969246883",
-      "title": "王祉怡晋级八强 王昶/谢浩南拿下德比战",
+      "title": "王祉怡晋级 王昶/谢浩南拿下德比战",
       "keyword": "11月12日08:00",
       "sportItemId": "6",
       "matchStatus": "2",
@@ -345,8 +345,8 @@
       "competitionName": "BWF",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/12/77T7VVAQUKPB.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
-      "pkInfoTitle": "王祉怡晋级八强 王昶/谢浩南拿下德比战",
-      "modifyTitle": "日本羽毛球大师赛第三日：王祉怡晋级八强 王昶/谢浩南拿下德比战",
+      "pkInfoTitle": "王祉怡晋级 王昶/谢浩南拿下德比战",
+      "modifyTitle": "日本羽毛球大师赛第三日：王祉怡晋级 王昶/谢浩南拿下德比战",
       "presenters": "孙宁智 杨妮娜 朱胤丞 王政 余博洋",
       "matchInfo": {
         "time": "11月12日08:00"
@@ -362,7 +362,7 @@
         },
         {
           "pID": "969374759",
-          "name": "【回放】拉克什亚2-0董天尧（王政��"
+          "name": "【回放】拉克什亚2-0董天尧（王政）"
         },
         {
           "pID": "969380212",
@@ -405,12 +405,24 @@
           "name": "【全场回放】一号场地（赛场原声）（二）"
         },
         {
+          "pID": "969382894",
+          "name": "【全场回放】一号场地（赛场原声）（三）"
+        },
+        {
           "pID": "969381249",
           "name": "【全场回放】二号场地（赛场原声）（一）"
         },
         {
+          "pID": "969382207",
+          "name": "【全场回放】二号场地（赛场原声）（二）"
+        },
+        {
           "pID": "969377060",
           "name": "【全场回放】四号场地（赛场原声）（一）"
+        },
+        {
+          "pID": "969382815",
+          "name": "【全场回放】四号场地（赛场原声）（二）"
         },
         {
           "pID": "969381402",
@@ -427,18 +439,6 @@
         {
           "pID": "969380033",
           "name": "【全场回放】一号场地（智能字幕）（二）"
-        },
-        {
-          "pID": "969382207",
-          "name": "2026BWF日本羽毛球大师赛第三日二号场地全场回放（赛场原声）（二）"
-        },
-        {
-          "pID": "969382815",
-          "name": "2026BWF日本羽毛球大师赛第三日四号场地全场回放（赛场原声）（二）"
-        },
-        {
-          "pID": "969382894",
-          "name": "2026BWF日本羽毛球大师赛第三日一号场地全场回放（赛场原声）（三）"
         }
       ]
     },
@@ -1018,16 +1018,16 @@
           "name": "凌维康 高文清"
         },
         {
+          "pID": "969164178",
+          "name": "4号桌"
+        },
+        {
           "pID": "969164149",
           "name": "3号桌"
         },
         {
           "pID": "969164121",
           "name": "2号桌"
-        },
-        {
-          "pID": "969164178",
-          "name": "4号桌"
         },
         {
           "pID": "969164082",
@@ -1079,7 +1079,7 @@
       "nodes": [
         {
           "pID": "969382487",
-          "name": "2026赛季广东省女子篮球联赛1-4名全场回放：广州vs东莞（赛场原声）"
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
@@ -1137,7 +1137,7 @@
       "title": "中国篮球放映室：山东vs辽宁",
       "keyword": "11月12日19:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "CBA经典赛事",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/11/77T73R5L4QM7.png",
@@ -1161,7 +1161,7 @@
       "title": "四川vs广东",
       "keyword": "11月12日19:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "中国篮球城市冠军联赛",
       "padImg": "",
@@ -1185,7 +1185,7 @@
       "title": "普陀VS江山",
       "keyword": "11月12日19:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "浙BA",
       "padImg": "",
@@ -1209,7 +1209,7 @@
       "title": "永康VS舟山",
       "keyword": "11月12日19:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "浙BA",
       "padImg": "",
@@ -1232,7 +1232,7 @@
       "pID": "969350356",
       "title": "《篮色狂想》第四期",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "CBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/12/77T82KB5I9JB.jpg",
