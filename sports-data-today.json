@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-12 13:31:36",
+  "updateTime": "2026-11-12 14:01:42",
   "data": [
     {
       "mgdbId": "120000600162",
@@ -89,10 +89,6 @@
       },
       "nodes": [
         {
-          "pID": "969374603",
-          "name": "2026WTA年终总决赛女双小组赛回放：谢淑薇/奥斯塔彭科2-0张帅/梅尔滕斯（赛场原声）"
-        },
-        {
           "pID": "969372726",
           "name": "【女双小组赛】谢淑薇/奥斯塔彭科2-0张帅/梅尔滕斯（单文强）"
         },
@@ -107,6 +103,10 @@
         {
           "pID": "969365575",
           "name": "【女单小组赛】斯维托丽娜2-1穆霍娃（蔡凯臣）"
+        },
+        {
+          "pID": "969374603",
+          "name": "【女双小组赛】谢淑薇/奥斯塔彭科2-0张帅/梅尔滕斯（赛场原声）"
         },
         {
           "pID": "969372142",
@@ -266,7 +266,7 @@
         },
         {
           "pID": "969373227",
-          "name": "全场回放（英文原声）"
+          "name": "全场回放（英文原���）"
         },
         {
           "pID": "969366682",
@@ -529,8 +529,12 @@
           "name": "全场回放（李天宇、陈正昊、郭维盛、魏欣怡）"
         },
         {
-          "pID": "969372350",
+          "pID": "969374865",
           "name": "全场回放（英文原声）"
+        },
+        {
+          "pID": "969372350",
+          "name": "全场回放（AI字幕）"
         },
         {
           "pID": "969367700",
@@ -627,6 +631,10 @@
         {
           "pID": "969372278",
           "name": "全场回放（王凯）"
+        },
+        {
+          "pID": "969375051",
+          "name": "全场回放（英文原声）"
         },
         {
           "pID": "969367805",
@@ -760,7 +768,7 @@
     },
     {
       "mgdbId": "120000588397",
-      "pID": "969373480",
+      "pID": "969375244",
       "title": "NBA常规赛",
       "keyword": "11月12日10:30",
       "sportItemId": "2",
@@ -777,8 +785,20 @@
       },
       "nodes": [
         {
+          "pID": "969375244",
+          "name": "全场集锦"
+        },
+        {
+          "pID": "969375365",
+          "name": "全场回放（连睿、马健、周鹏、拜月宁）"
+        },
+        {
           "pID": "969374535",
           "name": "全场回放（董倡硕）"
+        },
+        {
+          "pID": "969375253",
+          "name": "全场回放（洪荒）"
         },
         {
           "pID": "969370991",
@@ -796,7 +816,7 @@
     },
     {
       "mgdbId": "120000601065",
-      "pID": "969362334",
+      "pID": "969373504",
       "title": "肇庆58-72韶关",
       "keyword": "11月12日10:30",
       "sportItemId": "2",
@@ -814,20 +834,20 @@
       "nodes": [
         {
           "pID": "969373504",
-          "name": "2026赛季广东省女子篮球联赛5-8名全场回放：肇庆58:72韶关（赛场原声）"
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
     {
       "mgdbId": "120000588398",
-      "pID": "969240865",
+      "pID": "969375097",
       "title": "NBA常规赛",
       "keyword": "11月12日11:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "摩达中心",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/11/77T737JM6TGT.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/12/77T7VOHDIPQ5.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "雷霆VS开拓者",
       "modifyTitle": "NBA常规赛",
@@ -837,16 +857,24 @@
       },
       "nodes": [
         {
-          "pID": "969240865",
-          "name": "邵化谦 王润陶 季孟年"
+          "pID": "969375097",
+          "name": "全场集锦"
         },
         {
-          "pID": "969240966",
-          "name": "邢晨"
+          "pID": "969371865",
+          "name": "第一节"
         },
         {
-          "pID": "969240940",
-          "name": "英文原声"
+          "pID": "969372684",
+          "name": "第二节"
+        },
+        {
+          "pID": "969373488",
+          "name": "第三节"
+        },
+        {
+          "pID": "969374897",
+          "name": "第四节"
         }
       ]
     },
@@ -877,7 +905,7 @@
       "title": "中国篮球放映室：四川vs天津",
       "keyword": "11月12日14:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "CBA经典赛事",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/11/77T73FND314L.png",
@@ -901,7 +929,7 @@
       "title": "全国羽毛球团体锦标赛第四日",
       "keyword": "11月12日14:00",
       "sportItemId": "6",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "全国羽毛球团体锦标赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/11/77T743L42KEL.jpg",
@@ -916,6 +944,14 @@
         {
           "pID": "969267964",
           "name": "1号场地"
+        },
+        {
+          "pID": "969268384",
+          "name": "3号场地"
+        },
+        {
+          "pID": "969268571",
+          "name": "5号场地"
         }
       ]
     },
@@ -971,7 +1007,7 @@
       "mgdbId": "120000600145",
       "pID": "969164211",
       "title": "黄友政一日迎三赛 陈垣宇PK陈俊菘",
-      "keyword": "11月12日15:00",
+      "keyword": "11���12日15:00",
       "sportItemId": "7",
       "matchStatus": "0",
       "matchField": "",
@@ -982,7 +1018,7 @@
       "modifyTitle": "WTT伊斯坦布尔常规挑战赛男女单打1/16决赛及双打1/8决赛",
       "presenters": "凌维康 高文清",
       "matchInfo": {
-        "time": "11月12日15:00"
+        "time": "11���12日15:00"
       },
       "nodes": [
         {
