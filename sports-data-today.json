@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-12 14:31:41",
+  "updateTime": "2026-11-12 15:01:51",
   "data": [
     {
       "mgdbId": "120000600162",
@@ -336,8 +336,8 @@
     },
     {
       "mgdbId": "120000600306",
-      "pID": "969247074",
-      "title": "男双内战打响！王祉怡冲八强",
+      "pID": "969362490",
+      "title": "王祉怡冲八强 王昶/谢浩南拿下德比战",
       "keyword": "11月12日08:00",
       "sportItemId": "6",
       "matchStatus": "1",
@@ -345,13 +345,21 @@
       "competitionName": "BWF",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/12/77T7VVAQUKPB.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
-      "pkInfoTitle": "男双内战打响！王祉怡冲八强",
-      "modifyTitle": "日本羽毛球大师赛第三日：男双内战打响！王祉怡冲八强",
+      "pkInfoTitle": "王祉怡冲八强 王昶/谢浩南拿下德比战",
+      "modifyTitle": "日本羽毛球大师赛第三日：王祉怡冲八强 王昶/谢浩南拿下德比战",
       "presenters": "朱胤丞 杨妮娜 孙宁智 王政 余博洋",
       "matchInfo": {
         "time": "11月12日08:00"
       },
       "nodes": [
+        {
+          "pID": "969362490",
+          "name": "金广美希/加藤佑奈VS许尹鏸/林芝昀"
+        },
+        {
+          "pID": "969362503",
+          "name": "金元浩/徐承宰VS真龙/赵松炫"
+        },
         {
           "pID": "969247074",
           "name": "2号场地"
@@ -385,16 +393,8 @@
           "name": "罗意/王汀戈VS中出堇/高桥美优"
         },
         {
-          "pID": "969362490",
-          "name": "金广美希/加藤佑奈VS许尹鏸/林芝昀"
-        },
-        {
           "pID": "969362500",
           "name": "米娅VS王祉怡"
-        },
-        {
-          "pID": "969362503",
-          "name": "金元浩/徐承宰VS真龙/赵松炫"
         },
         {
           "pID": "969362538",
@@ -704,7 +704,7 @@
     },
     {
       "mgdbId": "120000588396",
-      "pID": "969373058",
+      "pID": "969375878",
       "title": "NBA常规赛",
       "keyword": "11月12日10:00",
       "sportItemId": "2",
@@ -721,8 +721,16 @@
       },
       "nodes": [
         {
+          "pID": "969375878",
+          "name": "全场集锦"
+        },
+        {
           "pID": "969373502",
           "name": "全场回放（张泽欣）"
+        },
+        {
+          "pID": "969376093",
+          "name": "全场回放（英文原声）"
         },
         {
           "pID": "969369902",
@@ -867,7 +875,7 @@
       "pID": "969290140",
       "title": "《球你别说了》状元失辉！迪班萨前路何为",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/12/77T820P74UN3.jpg",
@@ -993,7 +1001,7 @@
       "title": "黄友政一日迎三赛 陈垣宇PK陈俊菘",
       "keyword": "11月12日15:00",
       "sportItemId": "7",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/12/77T80374BVC3.png",
@@ -1010,20 +1018,20 @@
           "name": "凌维康 高文清"
         },
         {
-          "pID": "969164082",
-          "name": "1号桌"
+          "pID": "969164149",
+          "name": "3号桌"
         },
         {
           "pID": "969164121",
           "name": "2号桌"
         },
         {
-          "pID": "969164149",
-          "name": "3号桌"
-        },
-        {
           "pID": "969164178",
           "name": "4号桌"
+        },
+        {
+          "pID": "969164082",
+          "name": "1号桌"
         }
       ]
     },
@@ -1033,7 +1041,7 @@
       "title": "奥运会女足亚洲区预选赛抽签仪式",
       "keyword": "11月12日15:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "女足奥预赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/11/77T75KI56QS8.jpg",
@@ -1116,14 +1124,14 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png",
       "pkInfoTitle": "NBA精彩重播：勇士 vs 火箭",
       "modifyTitle": "NBA经典赛事",
-      "presenters": "",
+      "presenters": "连睿 马健 周鹏",
       "matchInfo": {
         "time": "11月12日18:00"
       },
       "nodes": [
         {
           "pID": "969088064",
-          "name": "伪直播"
+          "name": "解说"
         }
       ]
     },
