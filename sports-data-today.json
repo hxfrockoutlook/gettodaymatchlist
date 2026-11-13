@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-13 11:01:35",
+  "updateTime": "2026-11-13 11:31:35",
   "data": [
     {
       "mgdbId": "120000600338",
@@ -64,25 +64,25 @@
     },
     {
       "mgdbId": "120000600265",
-      "pID": "969378297",
-      "title": "保利尼女双出战 汤森德组合登场",
+      "pID": "969378333",
+      "title": "保利尼女双出战 汤森德组合晋级四强",
       "keyword": "11月13日04:00",
       "sportItemId": "9",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/11/77T74LTA0SQR.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/13/77T8VMT447RD.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "保利尼女双出战 汤森德组合登场",
-      "modifyTitle": "WTA年终总决赛小组赛：保利尼女双出战 汤森德组合登场",
+      "pkInfoTitle": "保利尼女双出战 汤森德组合晋级四强",
+      "modifyTitle": "WTA年终总决赛小组赛：保利尼女双出战 汤森德组合晋级四强",
       "presenters": "刘钟鸣 房朕 蔡凯臣 张文悦",
       "matchInfo": {
         "time": "11月13日04:00"
       },
       "nodes": [
         {
-          "pID": "969378297",
-          "name": "西尼亚科娃/汤森德 vs 布克沙/梅里查尔(刘钟鸣)"
+          "pID": "969378333",
+          "name": "佩雷兹/舒尔斯 vs 埃拉尼/保利尼(刘钟鸣)"
         },
         {
           "pID": "969378090",
@@ -97,12 +97,12 @@
           "name": "AI同声传译"
         },
         {
-          "pID": "969378333",
-          "name": "佩雷兹/舒尔斯 vs 埃拉尼/保利尼(刘钟鸣)"
-        },
-        {
           "pID": "969378163",
           "name": "科斯秋克 vs 高芙（房朕）"
+        },
+        {
+          "pID": "969378297",
+          "name": "西尼亚科娃/汤森德 vs 布克沙/梅里查尔(刘钟鸣)"
         },
         {
           "pID": "969378254",
@@ -197,6 +197,14 @@
           "name": "全场集锦"
         },
         {
+          "pID": "969395589",
+          "name": "全场回放（庄宁宇、陈正昊、郭维盛、王羽希）"
+        },
+        {
+          "pID": "969395612",
+          "name": "全场回放（AI字幕）"
+        },
+        {
           "pID": "969391828",
           "name": "第一节"
         },
@@ -216,11 +224,11 @@
     },
     {
       "mgdbId": "120000588400",
-      "pID": "969241871",
+      "pID": "969395766",
       "title": "NBA常规赛",
       "keyword": "11月13日08:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "第一资本体育馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/13/77T8VER2CIGN.jpg",
@@ -233,12 +241,28 @@
       },
       "nodes": [
         {
-          "pID": "969241871",
-          "name": "邵化谦 盛哲"
+          "pID": "969391822",
+          "name": "第一节"
         },
         {
-          "pID": "969241880",
-          "name": "英文原声"
+          "pID": "969392290",
+          "name": "第二节"
+        },
+        {
+          "pID": "969393557",
+          "name": "第三节"
+        },
+        {
+          "pID": "969395102",
+          "name": "第四节"
+        },
+        {
+          "pID": "969395535",
+          "name": "加时1"
+        },
+        {
+          "pID": "969396296",
+          "name": "加时2"
         }
       ]
     },
@@ -264,14 +288,14 @@
     },
     {
       "mgdbId": "120000588401",
-      "pID": "969241926",
+      "pID": "969395225",
       "title": "NBA常规赛",
       "keyword": "11月13日09:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "標靶中心",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/12/77T8305O64U7.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/13/77T8VNLS1EUS.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "独行侠VS森林狼",
       "modifyTitle": "NBA常规赛",
@@ -281,22 +305,26 @@
       },
       "nodes": [
         {
-          "pID": "969241926",
-          "name": "连睿 邢晨 拜月宁"
+          "pID": "969393171",
+          "name": "第一节"
         },
         {
-          "pID": "969241934",
-          "name": "英文原声"
+          "pID": "969394117",
+          "name": "第二节"
         },
         {
-          "pID": "969301248",
-          "name": "智能字幕"
+          "pID": "969395278",
+          "name": "第三节"
+        },
+        {
+          "pID": "969396261",
+          "name": "第四节"
         }
       ]
     },
     {
       "mgdbId": "120000600307",
-      "pID": "969386103",
+      "pID": "969247260",
       "title": "王昶/谢浩南登场 陈雨菲迎战李美妙",
       "keyword": "11月13日09:00",
       "sportItemId": "6",
@@ -307,22 +335,18 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "王昶/谢浩南登场 陈雨菲迎战李美妙",
       "modifyTitle": "日本羽毛球大师赛第四日：王昶/谢浩南登场 陈雨菲迎战李美妙",
-      "presenters": "鸿昆 杨妮娜 孙宁智 余博洋 金子嘉 王政",
+      "presenters": "鸿昆 孙宁智 余博洋 金子嘉 杨妮娜 王政",
       "matchInfo": {
         "time": "11月13日09:00"
       },
       "nodes": [
         {
-          "pID": "969386103",
-          "name": "真龙/赵松炫VS王昶/谢浩南"
-        },
-        {
-          "pID": "969386126",
-          "name": "吴轩毅/杨筑云VS古贺辉/斋藤夏"
-        },
-        {
           "pID": "969247260",
           "name": "1号场地"
+        },
+        {
+          "pID": "969386103",
+          "name": "真龙/赵松炫VS王昶/谢浩南"
         },
         {
           "pID": "969247282",
@@ -379,6 +403,10 @@
         {
           "pID": "969386078",
           "name": "乌拜迪拉VS法汉"
+        },
+        {
+          "pID": "969386126",
+          "name": "吴轩毅/杨筑云VS古贺辉/斋藤夏"
         }
       ]
     },
@@ -716,6 +744,30 @@
       ]
     },
     {
+      "mgdbId": "120000599168",
+      "pID": "969088089",
+      "title": "NBA精彩重播：猛龙 vs 76人",
+      "keyword": "11月13日18:00",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "NBA经典赛事",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/13/77T8VM6089RS.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png",
+      "pkInfoTitle": "NBA精彩重播：猛龙 vs 76人",
+      "modifyTitle": "NBA精彩重播：猛龙 vs 76人",
+      "presenters": "庄宁宇 陈正昊 郭维盛",
+      "matchInfo": {
+        "time": "11月13日18:00"
+      },
+      "nodes": [
+        {
+          "pID": "969088089",
+          "name": "精彩重播：猛龙vs76人"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000599195",
       "pID": "969095674",
       "title": "中国篮球放映室：青岛vs辽宁",
@@ -823,7 +875,7 @@
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000601006/202611111505_586487_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/7/22/100000001316106d1913.png",
       "pkInfoTitle": "长沙队VS益阳队",
-      "modifyTitle": "湘超1/4决赛第二回合",
+      "modifyTitle": "湘超1/4决赛���二回合",
       "presenters": "",
       "matchInfo": {
         "time": "11月13日19:38"
