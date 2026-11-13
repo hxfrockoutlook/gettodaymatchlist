@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-13 10:01:30",
+  "updateTime": "2026-11-13 10:31:25",
   "data": [
     {
       "mgdbId": "120000600338",
@@ -165,20 +165,12 @@
       },
       "nodes": [
         {
-          "pID": "969378254",
-          "name": "佩古拉 vs 诺斯科娃(蔡凯臣,张文悦)"
+          "pID": "969393507",
+          "name": "全场回放（蔡凯臣、张文悦）"
         },
         {
-          "pID": "969378191",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "969378120",
-          "name": "英文原声"
-        },
-        {
-          "pID": "969306505",
-          "name": "解说"
+          "pID": "969393620",
+          "name": "全场回放"
         }
       ]
     },
@@ -227,7 +219,7 @@
       "matchStatus": "1",
       "matchField": "第一资本体育馆",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/12/77T82VT2T3KQ.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/13/77T8VER2CIGN.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "活塞VS奇才",
       "modifyTitle": "NBA常规赛",
@@ -301,7 +293,7 @@
     {
       "mgdbId": "120000600307",
       "pID": "969386089",
-      "title": "丫邦PK星驰组合 陈雨菲迎战李美妙",
+      "title": "王昶/谢浩南登场 陈雨菲迎战李美妙",
       "keyword": "11月13日09:00",
       "sportItemId": "6",
       "matchStatus": "1",
@@ -309,8 +301,8 @@
       "competitionName": "BWF",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/13/77T8V8FETRHQ.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
-      "pkInfoTitle": "丫邦PK星驰组合 陈雨菲迎战李美妙",
-      "modifyTitle": "日本羽毛球大师赛第四日：丫邦PK星驰组合 陈雨菲迎战李美妙",
+      "pkInfoTitle": "王昶/谢浩南登场 陈雨菲迎战李美妙",
+      "modifyTitle": "日本羽毛球大师赛第四日：王昶/谢浩南登场 陈雨菲迎战李美妙",
       "presenters": "鸿昆 王政 杨妮娜 孙宁智 余博洋 金子嘉",
       "matchInfo": {
         "time": "11月13日09:00"
@@ -421,15 +413,15 @@
     {
       "mgdbId": "120000601153",
       "pID": "969384999",
-      "title": "茂名vs肇庆",
+      "title": "茂名75-58肇庆",
       "keyword": "11月13日09:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "广东省女子篮球联赛",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/11/6/100000001581106fa3af.jpeg",
-      "pkInfoTitle": "茂名vs肇庆",
+      "pkInfoTitle": "茂名75-58肇庆",
       "modifyTitle": "广东省女子篮球联赛7、8名",
       "presenters": "",
       "matchInfo": {
@@ -476,7 +468,7 @@
       "title": "惠州vs韶关",
       "keyword": "11月13日10:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "广东省女子篮球联赛",
       "padImg": "",
@@ -688,6 +680,34 @@
         {
           "pID": "969349472",
           "name": "北京站"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000601187",
+      "pID": "969392876",
+      "title": "东京星点 VS 马尼拉太阳神",
+      "keyword": "11月13日17:00",
+      "sportItemId": "8",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "MLP亚洲匹克球超级联赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/13/77T8VDQ3FGQM.png",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/11/13/10000000158810641d8a.png",
+      "pkInfoTitle": "东京星点 VS 马尼拉太阳神",
+      "modifyTitle": "MLP亚洲匹克球超级联赛DAY1：东京星点 VS 马尼拉太阳神",
+      "presenters": "",
+      "matchInfo": {
+        "time": "11月13日17:00"
+      },
+      "nodes": [
+        {
+          "pID": "969392876",
+          "name": "清流播出"
+        },
+        {
+          "pID": "969392896",
+          "name": "清流播出"
         }
       ]
     },
