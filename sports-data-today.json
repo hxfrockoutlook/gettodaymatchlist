@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-14 04:02:12",
+  "updateTime": "2026-11-14 04:32:14",
   "data": [
     {
       "mgdbId": "120000600346",
@@ -55,6 +55,10 @@
         {
           "pID": "969413391",
           "name": "全场回放（王睿涓）"
+        },
+        {
+          "pID": "969413561",
+          "name": "26/27赛季乒乓球欧冠1/8决赛第一回合全场回放：亨尼邦3-0奥斯特罗夫（赛场原声）"
         }
       ]
     },
@@ -78,7 +82,11 @@
       "nodes": [
         {
           "pID": "969413453",
-          "name": "26/27赛季乒乓球欧冠1/8决赛第一回合全场回放：代尔多沃德科格拉斯3-1布拉格埃尔尼诺（徐儒叶）"
+          "name": "全场回放（徐儒叶）"
+        },
+        {
+          "pID": "969413564",
+          "name": "26/27赛季乒乓球欧冠1/8决赛第一回合全场回放：代尔多沃德科格拉斯3-1布拉格埃尔尼诺（赛场原声）"
         }
       ]
     },
@@ -101,12 +109,8 @@
       },
       "nodes": [
         {
-          "pID": "969295909",
-          "name": "李柯鑫"
-        },
-        {
-          "pID": "969295902",
-          "name": "赛场原声"
+          "pID": "969413507",
+          "name": "全场回放（李柯鑫）"
         }
       ]
     },
@@ -151,7 +155,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/11/13/1000000013711060938f.png",
       "pkInfoTitle": "萨尔布吕肯vs里尔大都会",
       "modifyTitle": "欧乒联男子欧冠联赛1/8决赛第一回合：萨尔布吕肯vs里尔大都会",
-      "presenters": "肖���",
+      "presenters": "肖扬",
       "matchInfo": {
         "time": "11月14日02:30"
       },
@@ -187,42 +191,6 @@
         {
           "pID": "969171514",
           "name": "秦正"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000599143",
-      "pID": "969378434",
-      "title": "WTA年终总决赛小组赛：米拉·安德列娃 vs 施耐德",
-      "keyword": "11月14日04:00",
-      "sportItemId": "9",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "WTA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/14/77T9QA5KRC9P.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "米拉·安德列娃 vs 施耐德",
-      "modifyTitle": "WTA年终总决赛小组赛：米拉·安德列娃 vs 施耐德",
-      "presenters": "邱超 李宁",
-      "matchInfo": {
-        "time": "11月14日04:00"
-      },
-      "nodes": [
-        {
-          "pID": "969378434",
-          "name": "安德列娃 vs 施耐德(邱超,李宁)"
-        },
-        {
-          "pID": "969378422",
-          "name": "赛场原声"
-        },
-        {
-          "pID": "969306491",
-          "name": "AI同声传译"
-        },
-        {
-          "pID": "969378392",
-          "name": "英文原声"
         }
       ]
     },
@@ -271,6 +239,42 @@
         {
           "pID": "969378592",
           "name": "郭涵煜/穆拉德诺维奇 vs 张帅/梅尔滕斯(邱超,李宁)"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000599143",
+      "pID": "969378434",
+      "title": "WTA年终总决赛小组赛：米拉·安德列娃 vs 施耐德",
+      "keyword": "11月14日04:10",
+      "sportItemId": "9",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "WTA",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/14/77T9QA5KRC9P.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
+      "pkInfoTitle": "米拉·安德列娃 vs 施耐德",
+      "modifyTitle": "WTA年终总决赛小组赛：米拉·安德列娃 vs 施耐德",
+      "presenters": "邱超 李宁",
+      "matchInfo": {
+        "time": "11月14日04:10"
+      },
+      "nodes": [
+        {
+          "pID": "969378434",
+          "name": "安德列娃 vs 施耐德(邱超,李宁)"
+        },
+        {
+          "pID": "969378422",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "969306491",
+          "name": "AI同声传译"
+        },
+        {
+          "pID": "969378392",
+          "name": "英文原声"
         }
       ]
     },
@@ -1421,7 +1425,7 @@
     {
       "mgdbId": "120000600894",
       "pID": "969345113",
-      "title": "熊猫杯国际足球锦标赛友谊��",
+      "title": "熊猫杯国际足球锦标赛友谊赛",
       "keyword": "11月14日19:35",
       "sportItemId": "1",
       "matchStatus": "0",
