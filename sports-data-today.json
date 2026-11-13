@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-13 14:01:38",
+  "updateTime": "2026-11-13 14:31:27",
   "data": [
     {
       "mgdbId": "120000600338",
@@ -411,7 +411,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "陈雨菲、王祉怡晋级 丫邦拿下德比战",
       "modifyTitle": "日本羽毛球大师赛第四日：陈雨菲、王祉怡晋级 丫邦拿下德比战",
-      "presenters": "孙宁智 金子嘉 杨妮娜 王政 鸿昆 余博洋",
+      "presenters": "金子嘉 杨妮娜 王政 鸿昆 余博洋 孙宁智",
       "matchInfo": {
         "time": "11月13日09:00"
       },
@@ -421,8 +421,12 @@
           "name": "1号场地"
         },
         {
-          "pID": "969386129",
-          "name": "罗意/王汀戈VS许尹鏸/林芝昀"
+          "pID": "969247316",
+          "name": "1号场地英文视角"
+        },
+        {
+          "pID": "969301380",
+          "name": "智能字幕"
         },
         {
           "pID": "969247282",
@@ -431,14 +435,6 @@
         {
           "pID": "969247303",
           "name": "3号场地"
-        },
-        {
-          "pID": "969247316",
-          "name": "1号场地英文视角"
-        },
-        {
-          "pID": "969301380",
-          "name": "智能字幕"
         },
         {
           "pID": "969386082",
@@ -483,6 +479,10 @@
         {
           "pID": "969386145",
           "name": "奥原希望VS王祉怡"
+        },
+        {
+          "pID": "969386129",
+          "name": "罗意/王汀戈VS许尹鏸/林芝昀"
         }
       ]
     },
@@ -560,7 +560,7 @@
     },
     {
       "mgdbId": "120000601154",
-      "pID": "969385018",
+      "pID": "969400797",
       "title": "惠州100-98韶关",
       "keyword": "11月13日10:30",
       "sportItemId": "2",
@@ -577,8 +577,8 @@
       },
       "nodes": [
         {
-          "pID": "969385018",
-          "name": "赛场原声"
+          "pID": "969400797",
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
@@ -657,7 +657,7 @@
       "title": "深圳vs广州",
       "keyword": "11月13日14:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "广东省女子篮球联赛",
       "padImg": "",
@@ -1030,7 +1030,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "ONE冠军赛",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/13/77T8ST82DJDE.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/7/16/1000000015101065ca9b.png",
       "pkInfoTitle": "ONE周五格斗夜178：苏帕勒克VS马马多夫",
       "modifyTitle": "ONE周五格斗夜178：苏帕勒克VS马马多夫",
