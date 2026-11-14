@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-14 13:32:06",
+  "updateTime": "2026-11-14 14:02:07",
   "data": [
     {
       "mgdbId": "120000600346",
@@ -225,6 +225,10 @@
       },
       "nodes": [
         {
+          "pID": "969422268",
+          "name": "【女双小组赛】郭涵煜/穆拉德诺维奇2-1张帅/梅尔滕斯（50帧原画）（邱超、李宁）"
+        },
+        {
           "pID": "969416875",
           "name": "【女双小组赛】达布劳斯基/史蒂芬妮2-1谢淑薇/奥斯塔彭科（郭丰庆）"
         },
@@ -247,6 +251,10 @@
         {
           "pID": "969416994",
           "name": "【女单小组赛】萨巴伦卡1-2斯维托丽娜（赛场原声）"
+        },
+        {
+          "pID": "969422323",
+          "name": "【女双小组赛】郭涵煜/穆拉德诺维奇2-1张帅/梅尔滕斯（AI同声传译）"
         },
         {
           "pID": "969417087",
@@ -481,6 +489,10 @@
           "name": "全场回放（贾磊）"
         },
         {
+          "pID": "969422487",
+          "name": "全场回放（英文原声）"
+        },
+        {
           "pID": "969416185",
           "name": "第一节"
         },
@@ -523,6 +535,10 @@
         {
           "pID": "969420241",
           "name": "全场回放（吴博文）"
+        },
+        {
+          "pID": "969422923",
+          "name": "全场回放（英文原声）"
         },
         {
           "pID": "969416143",
@@ -588,7 +604,7 @@
     },
     {
       "mgdbId": "120000600308",
-      "pID": "969411218",
+      "pID": "969411201",
       "title": "王祉怡冲决赛 陈雨菲vs山口茜",
       "keyword": "11月14日09:00",
       "sportItemId": "6",
@@ -599,14 +615,18 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "王祉怡冲决赛 陈雨菲vs山口茜",
       "modifyTitle": "日本羽毛球大师赛第五日：王祉怡冲决赛 陈雨菲vs山口茜",
-      "presenters": "孙宁智 王政 余博洋 鸿昆",
+      "presenters": "王政 鸿昆 余博洋 孙宁智",
       "matchInfo": {
         "time": "11月14日09:00"
       },
       "nodes": [
         {
-          "pID": "969411218",
-          "name": "渡边航贵VS昆拉武特"
+          "pID": "969411154",
+          "name": "金慧贞/李妍雨VS岩永铃/中西贵映"
+        },
+        {
+          "pID": "969411201",
+          "name": "宫崎友花VS王祉怡"
         },
         {
           "pID": "969247343",
@@ -619,10 +639,6 @@
         {
           "pID": "969301369",
           "name": "智能字幕"
-        },
-        {
-          "pID": "969411154",
-          "name": "金慧贞/李妍雨VS岩永铃/中西贵映"
         },
         {
           "pID": "969247360",
@@ -641,10 +657,6 @@
           "name": "戴伟钦/叶睿庆VS伦加德/麦斯"
         },
         {
-          "pID": "969411201",
-          "name": "宫崎友花VS王祉怡"
-        },
-        {
           "pID": "969411251",
           "name": "蒋振邦/魏雅欣VS渡边勇大/田口真彩"
         },
@@ -659,6 +671,10 @@
         {
           "pID": "969411231",
           "name": "王昶/谢浩南VS保木卓朗/小林优吾"
+        },
+        {
+          "pID": "969411218",
+          "name": "渡边航贵VS昆拉武特"
         }
       ]
     },
@@ -732,7 +748,7 @@
     },
     {
       "mgdbId": "120000590162",
-      "pID": "969418282",
+      "pID": "969422092",
       "title": "NBANBA杯",
       "keyword": "11月14日10:30",
       "sportItemId": "2",
@@ -748,6 +764,30 @@
         "time": "11月14日10:30"
       },
       "nodes": [
+        {
+          "pID": "969422092",
+          "name": "全场集锦"
+        },
+        {
+          "pID": "969422456",
+          "name": "全场回放（杨健、曾令旭、苏群、拜月宁）"
+        },
+        {
+          "pID": "969422555",
+          "name": "全场回放（王晓晨）"
+        },
+        {
+          "pID": "969422622",
+          "name": "全场回放（董倡硕）"
+        },
+        {
+          "pID": "969422623",
+          "name": "全场回放（莫俊祺）"
+        },
+        {
+          "pID": "969422663",
+          "name": "全场回放（洪荒）"
+        },
         {
           "pID": "969418621",
           "name": "第一节"
@@ -792,11 +832,11 @@
     },
     {
       "mgdbId": "120000590163",
-      "pID": "969246166",
+      "pID": "969423126",
       "title": "NBANBA杯",
       "keyword": "11月14日11:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "金色一号中心",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/14/77T9PUJM6RHD.jpg",
@@ -809,24 +849,24 @@
       },
       "nodes": [
         {
-          "pID": "969246166",
-          "name": "徐秦威 陈正昊 郭维盛"
+          "pID": "969423126",
+          "name": "全场集锦"
         },
         {
-          "pID": "969246307",
-          "name": "同看雷霆vs快船"
+          "pID": "969419328",
+          "name": "第一节"
         },
         {
-          "pID": "969246217",
-          "name": "邢晨"
+          "pID": "969420347",
+          "name": "第二节"
         },
         {
-          "pID": "969246227",
-          "name": "英文原声"
+          "pID": "969421370",
+          "name": "第三节"
         },
         {
-          "pID": "969301203",
-          "name": "智能字幕"
+          "pID": "969422513",
+          "name": "第四节"
         }
       ]
     },
@@ -856,14 +896,14 @@
     },
     {
       "mgdbId": "120000590164",
-      "pID": "969246307",
+      "pID": "969423185",
       "title": "NBANBA杯",
       "keyword": "11月14日11:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "因图特圆顶球馆",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/13/77T8VH5B4BML.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/14/77T9PUVVGSLI.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "雷霆VS快船",
       "modifyTitle": "NBANBA杯",
@@ -873,12 +913,16 @@
       },
       "nodes": [
         {
-          "pID": "969246307",
-          "name": "刘芳宇"
+          "pID": "969420368",
+          "name": "第一节"
         },
         {
-          "pID": "969246326",
-          "name": "英文原声"
+          "pID": "969421173",
+          "name": "第二节"
+        },
+        {
+          "pID": "969422486",
+          "name": "第三节"
         }
       ]
     },
@@ -923,7 +967,11 @@
       "nodes": [
         {
           "pID": "969290010",
-          "name": "26/27赛季NBA: 《球你别说了》261114期(连睿,马健,季孟年)"
+          "name": "《球你别说了》(连睿,马健,季孟年)"
+        },
+        {
+          "pID": "969246307",
+          "name": "同看雷霆vs快船"
         }
       ]
     },
@@ -933,7 +981,7 @@
       "title": "中国篮球放映室：吉林vs四川",
       "keyword": "11月14日14:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "CBA经典赛事",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/13/77T8VQ6CE0KJ.jpg",
@@ -976,6 +1024,10 @@
         {
           "pID": "969268364",
           "name": "3号场地"
+        },
+        {
+          "pID": "969268520",
+          "name": "5号场地"
         }
       ]
     },
@@ -985,7 +1037,7 @@
       "title": "半决赛第一轮",
       "keyword": "11月14日14:00",
       "sportItemId": "7",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "中国乒乓球城市联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/13/77T8UJNS0QF8.jpg",
@@ -1009,7 +1061,7 @@
       "title": "中国香港加农炮主场首秀",
       "keyword": "11月14日14:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "MLP亚洲匹克球超级联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/14/77T9S6IQQS4B.png",
