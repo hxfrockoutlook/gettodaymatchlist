@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-14 09:02:02",
+  "updateTime": "2026-11-14 09:32:04",
   "data": [
     {
       "mgdbId": "120000600346",
@@ -166,7 +166,7 @@
         },
         {
           "pID": "969413937",
-          "name": "26/27赛季乒乓球欧冠1/8决赛第一回合全场回放：萨尔布吕肯2-3里尔大都会（赛场原声）"
+          "name": "全场回放"
         }
       ]
     },
@@ -306,7 +306,7 @@
         },
         {
           "pID": "969415169",
-          "name": "全场回放"
+          "name": "【回放】萨巴伦卡1-2斯维托丽娜（英文原声）"
         }
       ]
     },
@@ -403,7 +403,7 @@
       "matchStatus": "1",
       "matchField": "冰沙国王中心",
       "competitionName": "NBA",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/14/77T9S7JF9HM5.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "灰熊VS鹈鹕",
       "modifyTitle": "NBANBA杯",
@@ -468,6 +468,10 @@
         "time": "11月14日09:00"
       },
       "nodes": [
+        {
+          "pID": "969245902",
+          "name": "同看爵士vs火箭"
+        },
         {
           "pID": "969241974",
           "name": "李嘉伟"
@@ -628,6 +632,10 @@
         "time": "11月14日09:30"
       },
       "nodes": [
+        {
+          "pID": "969241974",
+          "name": "同看骑士vs热火"
+        },
         {
           "pID": "969245902",
           "name": "孙博 马健 周鹏"
@@ -823,6 +831,27 @@
       ]
     },
     {
+      "mgdbId": "300000002575",
+      "pID": "969290010",
+      "title": "《球你别说了》詹杜库谁能体面退场？",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "NBA",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/14/77T9S8OBQCMB.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
+      "pkInfoTitle": "《球你别说了》詹杜库谁能体面退场？",
+      "modifyTitle": "《球你别说了》詹杜库谁能体面退场？",
+      "presenters": "连睿 马健 季孟年",
+      "matchInfo": {},
+      "nodes": [
+        {
+          "pID": "969290010",
+          "name": "26/27赛季NBA: 《球你别说了》261114期(连睿,马健,季孟年)"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000599196",
       "pID": "969095811",
       "title": "中国篮球放映室：吉林vs四川",
@@ -873,16 +902,16 @@
     {
       "mgdbId": "120000601190",
       "pID": "969392953",
-      "title": "MLP DAY2",
+      "title": "中国香港加农炮主场首秀",
       "keyword": "11月14日14:00",
       "sportItemId": "8",
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "MLP亚洲匹克球超级联赛",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/14/77T9S6IQQS4B.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/11/13/10000000158810641d8a.png",
-      "pkInfoTitle": "MLP DAY2",
-      "modifyTitle": "MLP亚洲匹克球超级联赛",
+      "pkInfoTitle": "中国香港加农炮主场首秀",
+      "modifyTitle": "MLP亚洲匹克球超级联赛小组赛：中国香港加农炮一日双赛",
       "presenters": "",
       "matchInfo": {
         "time": "11月14日14:00"
@@ -890,10 +919,6 @@
       "nodes": [
         {
           "pID": "969392953",
-          "name": "清流播出"
-        },
-        {
-          "pID": "969392975",
           "name": "清流播出"
         }
       ]
