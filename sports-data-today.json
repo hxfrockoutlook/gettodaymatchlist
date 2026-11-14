@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-14 11:02:12",
+  "updateTime": "2026-11-14 11:32:05",
   "data": [
     {
       "mgdbId": "120000600346",
@@ -142,7 +142,7 @@
         },
         {
           "pID": "969417328",
-          "name": "26/27赛季乒乓球欧冠1/8决赛第一回合全场回放：索卡霍博肯3-2尼姆-普列戈皇家卡哈苏尔（赛场原声）"
+          "name": "全场回放"
         }
       ]
     },
@@ -202,7 +202,7 @@
         },
         {
           "pID": "969416730",
-          "name": "26/27赛季斯诺克冠中冠半决赛回放：克里斯·韦克林6-2尼尔·罗伯逊（AI观赛）"
+          "name": "26/27赛季斯诺克冠中冠半决赛回放：克里斯·韦克林6-2尼尔·罗伯逊（AI观赛���"
         }
       ]
     },
@@ -359,6 +359,10 @@
         {
           "pID": "969417570",
           "name": "第四节"
+        },
+        {
+          "pID": "969418680",
+          "name": "全场回放（张泽欣）"
         }
       ]
     },
@@ -380,6 +384,10 @@
         "time": "11月14日08:00"
       },
       "nodes": [
+        {
+          "pID": "969418642",
+          "name": "全场集锦"
+        },
         {
           "pID": "969415034",
           "name": "第一节"
@@ -427,7 +435,7 @@
       "matchStatus": "1",
       "matchField": "冰沙国王中心",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/14/77T9S7JF9HM5.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/14/77T9SPFV43Q6.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "灰熊VS鹈鹕",
       "modifyTitle": "NBANBA杯",
@@ -494,15 +502,11 @@
       "nodes": [
         {
           "pID": "969245902",
-          "name": "��看爵士vs火箭"
+          "name": "同看爵士vs火箭"
         },
         {
           "pID": "969241974",
           "name": "李嘉伟"
-        },
-        {
-          "pID": "969245902",
-          "name": "同看爵士vs火箭"
         },
         {
           "pID": "969241928",
@@ -512,29 +516,25 @@
     },
     {
       "mgdbId": "120000600308",
-      "pID": "969411159",
-      "title": "丫邦组合冲决赛 陈雨菲vs山口茜",
+      "pID": "969411231",
+      "title": "王祉怡冲决赛 陈雨菲vs山口茜",
       "keyword": "11月14日09:00",
       "sportItemId": "6",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "BWF",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/14/77T9SB2P7VCM.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/14/77T9SQ1L625O.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
-      "pkInfoTitle": "丫邦组合冲决赛 陈雨菲vs山口茜",
-      "modifyTitle": "日本羽毛球大师赛第五日：丫邦组合冲决赛 陈雨菲vs山口茜",
-      "presenters": "王政 鸿昆 余博洋 孙宁智",
+      "pkInfoTitle": "王祉怡冲决赛 陈雨菲vs山口茜",
+      "modifyTitle": "日本羽毛球大师赛第五日：王祉怡冲决赛 陈雨菲vs山口茜",
+      "presenters": "孙宁智 鸿昆 王政 余博洋",
       "matchInfo": {
         "time": "11月14日09:00"
       },
       "nodes": [
         {
-          "pID": "969411159",
-          "name": "高家炫/吴梦莹VS古贺辉/斋藤夏"
-        },
-        {
-          "pID": "969411243",
-          "name": "法汉VS拉克什亚"
+          "pID": "969411231",
+          "name": "王昶/谢浩南VS保木卓朗/小林优吾"
         },
         {
           "pID": "969247343",
@@ -549,12 +549,16 @@
           "name": "智能字幕"
         },
         {
-          "pID": "969247360",
-          "name": "2号场地"
+          "pID": "969411218",
+          "name": "渡边航贵VS昆拉武特"
         },
         {
           "pID": "969411154",
           "name": "金慧贞/李妍雨VS岩永铃/中西贵映"
+        },
+        {
+          "pID": "969247360",
+          "name": "2号场地"
         },
         {
           "pID": "969411166",
@@ -573,22 +577,22 @@
           "name": "宫崎友花VS王祉怡"
         },
         {
-          "pID": "969411218",
-          "name": "渡边航贵VS昆拉武特"
-        },
-        {
-          "pID": "969411231",
-          "name": "王昶/谢浩南VS保木卓朗/小林优吾"
-        },
-        {
           "pID": "969411251",
           "name": "蒋振邦/魏雅欣VS渡边勇大/田口真彩"
+        },
+        {
+          "pID": "969411159",
+          "name": "高家炫/吴梦莹VS古贺辉/斋藤夏"
+        },
+        {
+          "pID": "969411243",
+          "name": "法汉VS拉克什亚"
         }
       ]
     },
     {
       "mgdbId": "120000600320",
-      "pID": "969268004",
+      "pID": "969268364",
       "title": "男团决9-16名、女团决9-12名",
       "keyword": "11月14日09:00",
       "sportItemId": "6",
@@ -604,10 +608,6 @@
         "time": "11月14日09:00"
       },
       "nodes": [
-        {
-          "pID": "969268004",
-          "name": "1号场地"
-        },
         {
           "pID": "969268364",
           "name": "3号场地"
@@ -732,7 +732,7 @@
       "title": "赛道内外——听郑小倩说给你听",
       "keyword": "11月14日10:30",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "逐马计划",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/11/77T73SDMISO4.jpg",
@@ -816,7 +816,7 @@
       "title": "NBANBA杯",
       "keyword": "11月14日11:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "因图特圆顶球馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/13/77T8VH5B4BML.png",
