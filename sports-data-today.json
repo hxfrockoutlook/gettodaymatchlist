@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-14 13:02:11",
+  "updateTime": "2026-11-14 13:32:06",
   "data": [
     {
       "mgdbId": "120000600346",
@@ -365,6 +365,10 @@
           "name": "全场回放（张泽欣）"
         },
         {
+          "pID": "969421267",
+          "name": "全场回放（英文原声）"
+        },
+        {
           "pID": "969415035",
           "name": "第一节"
         },
@@ -379,10 +383,6 @@
         {
           "pID": "969417570",
           "name": "第四节"
-        },
-        {
-          "pID": "969421267",
-          "name": "全场回放"
         }
       ]
     },
@@ -456,7 +456,7 @@
     },
     {
       "mgdbId": "120000590158",
-      "pID": "969418809",
+      "pID": "969421681",
       "title": "NBANBA杯",
       "keyword": "11月14日09:00",
       "sportItemId": "2",
@@ -472,6 +472,10 @@
         "time": "11月14日09:00"
       },
       "nodes": [
+        {
+          "pID": "969421681",
+          "name": "全场集锦"
+        },
         {
           "pID": "969419761",
           "name": "全场回放（贾磊）"
@@ -705,6 +709,10 @@
           "name": "全场集锦"
         },
         {
+          "pID": "969421050",
+          "name": "全场回放（孙博、马健、周鹏、裴优）"
+        },
+        {
           "pID": "969417197",
           "name": "第一节"
         },
@@ -724,14 +732,14 @@
     },
     {
       "mgdbId": "120000590162",
-      "pID": "969246013",
+      "pID": "969418282",
       "title": "NBANBA杯",
       "keyword": "11月14日10:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "冰霜银行中心",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/13/77T8VGSGB9HG.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/14/77T9PSNT0IT6.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "勇士VS马刺",
       "modifyTitle": "NBANBA杯",
@@ -741,36 +749,20 @@
       },
       "nodes": [
         {
-          "pID": "969246013",
-          "name": "杨健 曾令旭 苏群"
+          "pID": "969418621",
+          "name": "第一节"
         },
         {
-          "pID": "969246166",
-          "name": "同看开拓者vs国王"
+          "pID": "969419832",
+          "name": "第二节"
         },
         {
-          "pID": "969246018",
-          "name": "王晓晨"
+          "pID": "969420680",
+          "name": "第三节"
         },
         {
-          "pID": "969246034",
-          "name": "董倡硕"
-        },
-        {
-          "pID": "969246065",
-          "name": "莫俊祺"
-        },
-        {
-          "pID": "969246078",
-          "name": "洪荒"
-        },
-        {
-          "pID": "969246093",
-          "name": "英文原声"
-        },
-        {
-          "pID": "969301233",
-          "name": "智能字幕"
+          "pID": "969421893",
+          "name": "第四节"
         }
       ]
     },
@@ -807,7 +799,7 @@
       "matchStatus": "1",
       "matchField": "金色一号中心",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/13/77T8VH25P9Q9.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/14/77T9PUJM6RHD.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "开拓者VS国王",
       "modifyTitle": "NBANBA杯",
@@ -896,7 +888,7 @@
       "title": "国际滑联速度滑冰世界杯北京站Day2",
       "keyword": "11月14日13:25",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "冰雪系列赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/13/77T8UAO6FBO3.png",
@@ -919,7 +911,7 @@
       "pID": "969290010",
       "title": "《球你别说了》詹杜库谁能体面退场？",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/14/77T9S8OBQCMB.jpg",
@@ -1172,7 +1164,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "JCK",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/14/77T9PU1C5H8T.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/3/31/10000000103110616c76.png",
       "pkInfoTitle": "JCK觉城之夜N125：内格马托夫VS迪亚斯",
       "modifyTitle": "JCK觉城之夜N125：内格马托夫VS迪亚斯",
@@ -1227,7 +1219,7 @@
       "sportItemId": "2",
       "matchStatus": "0",
       "matchField": "",
-      "competitionName": "CBA经典��事",
+      "competitionName": "CBA经典赛事",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/13/77T8UL9K99UL.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/8/c8067363-371e-49f9-8bdb-3e1a18ac0f7d.png",
       "pkInfoTitle": "中国篮球放映室：辽宁vs四川",
