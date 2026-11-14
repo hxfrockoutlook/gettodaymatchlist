@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-14 21:04:53",
+  "updateTime": "2026-11-14 21:32:07",
   "data": [
     {
       "mgdbId": "120000600346",
@@ -202,7 +202,7 @@
         },
         {
           "pID": "969416730",
-          "name": "26/27赛季斯诺克冠中冠半决赛回放：克里斯·韦克林6-2尼尔·罗伯逊（AI观赛）"
+          "name": "26/27赛季斯诺克冠中冠半决赛回放：克里斯·韦克林6-2尼尔·罗伯逊（AI观赛���"
         }
       ]
     },
@@ -382,19 +382,31 @@
       "nodes": [
         {
           "pID": "969417619",
-          "name": "26/27赛季NBA常规赛全场集锦：雄鹿99:107魔术（20261114）"
+          "name": "全场集锦"
         },
         {
-          "pID": "969241851",
-          "name": "张泽欣"
+          "pID": "969418680",
+          "name": "全场回放（张泽欣）"
         },
         {
-          "pID": "969242033",
-          "name": "同看尼克斯vs步行者"
+          "pID": "969421267",
+          "name": "全场回放（英文原声）"
         },
         {
-          "pID": "969241795",
-          "name": "英文原声"
+          "pID": "969415035",
+          "name": "第一节"
+        },
+        {
+          "pID": "969415607",
+          "name": "第二节"
+        },
+        {
+          "pID": "969416386",
+          "name": "第三节"
+        },
+        {
+          "pID": "969417570",
+          "name": "第四节"
         }
       ]
     },
@@ -666,7 +678,7 @@
         },
         {
           "pID": "969425701",
-          "name": "【回放】戴伟钦/叶睿庆2-0伦加德/麦斯（孙宁智）"
+          "name": "【��放】戴伟钦/叶睿庆2-0伦加德/麦斯（孙宁智）"
         },
         {
           "pID": "969427190",
@@ -1225,11 +1237,11 @@
     },
     {
       "mgdbId": "120000601257",
-      "pID": "969421707",
+      "pID": "969422456",
       "title": "NBA精彩重播：勇士 vs 马刺",
       "keyword": "11月14日18:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA经典赛事",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/14/77T9QA15TOEP.jpg",
@@ -1242,29 +1254,10 @@
       },
       "nodes": [
         {
-          "pID": "969421707",
-          "name": "杨健 曾令旭 苏群"
+          "pID": "969422456",
+          "name": "全场回放（杨健、曾令旭、苏群、拜月宁）"
         }
       ]
-    },
-    {
-      "mgdbId": "120000601240",
-      "pID": "969406240",
-      "title": "加拿大温哥华站 25分钟版",
-      "keyword": "11月14日18:07",
-      "sportItemId": "8",
-      "matchStatus": "2",
-      "matchField": "",
-      "competitionName": "短道速滑世界巡回赛",
-      "padImg": "",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/10/29/100000001571106812a8.png",
-      "pkInfoTitle": "加拿大温哥华站 25分钟版",
-      "modifyTitle": "加拿大温哥华站 25分钟版",
-      "presenters": "",
-      "matchInfo": {
-        "time": "11月14日18:07"
-      },
-      "nodes": []
     },
     {
       "mgdbId": "120000600443",
@@ -1320,7 +1313,7 @@
     },
     {
       "mgdbId": "120000599198",
-      "pID": "969095816",
+      "pID": "968670828",
       "title": "中国篮球放映室：辽宁vs四川",
       "keyword": "11月14日19:30",
       "sportItemId": "2",
@@ -1337,6 +1330,10 @@
       },
       "nodes": [
         {
+          "pID": "968670828",
+          "name": "全场回放（孙博、巩晓彬、曾令旭、佳依）"
+        },
+        {
           "pID": "969095816",
           "name": "孙博 巩晓彬 曾令旭"
         }
@@ -1345,15 +1342,15 @@
     {
       "mgdbId": "120000600351",
       "pID": "969292061",
-      "title": "江西vs四川",
+      "title": "江西80-67四川",
       "keyword": "11月14日19:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "中国篮球城市冠军联赛",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/11/9/100000001583106a6a52.png",
-      "pkInfoTitle": "江西vs四川",
+      "pkInfoTitle": "江西80-67四川",
       "modifyTitle": "中国篮球城市冠军联赛",
       "presenters": "",
       "matchInfo": {
@@ -1369,16 +1366,16 @@
     {
       "mgdbId": "120000600437",
       "pID": "969302267",
-      "title": "温州VS玉环",
+      "title": "温州111-68玉环",
       "keyword": "11月14日19:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "浙BA",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/02/77N92ACGBBVQ.png",
-      "pkInfoTitle": "温州VS玉环",
-      "modifyTitle": "温州VS玉环",
+      "pkInfoTitle": "温州111-68玉环",
+      "modifyTitle": "温州111-68玉环",
       "presenters": "",
       "matchInfo": {
         "time": "11月14日19:30"
@@ -1417,16 +1414,16 @@
     {
       "mgdbId": "120000600439",
       "pID": "969302318",
-      "title": "苍南VS湖州",
+      "title": "苍南103-79湖州",
       "keyword": "11月14日19:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "浙BA",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/02/77N92ACGBBVQ.png",
-      "pkInfoTitle": "苍南VS湖州",
-      "modifyTitle": "苍南VS湖州",
+      "pkInfoTitle": "苍南103-79湖州",
+      "modifyTitle": "苍南103-79湖州",
       "presenters": "",
       "matchInfo": {
         "time": "11月14日19:30"
@@ -1440,11 +1437,11 @@
     },
     {
       "mgdbId": "120000600670",
-      "pID": "969322761",
+      "pID": "969431419",
       "title": "WCBA常规赛A组",
       "keyword": "11月14日19:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "WCBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/11/77T73FKTJB57.png",
@@ -1457,16 +1454,8 @@
       },
       "nodes": [
         {
-          "pID": "969322761",
-          "name": "吕程 赵爽"
-        },
-        {
-          "pID": "969322872",
-          "name": "官方解说"
-        },
-        {
-          "pID": "969322918",
-          "name": "赛场原声"
+          "pID": "969431419",
+          "name": "全场集锦"
         }
       ]
     },
@@ -1476,7 +1465,7 @@
       "title": "安徽省青少年足球联赛",
       "keyword": "11月14日19:30",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "徽青赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000600881/202611101000_290550_H169_1080.webp",
@@ -1500,7 +1489,7 @@
       "title": "安徽省青少年足球联赛",
       "keyword": "11月14日19:30",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "徽青赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000600883/202611101005_286013_H169_1080.webp",
@@ -1524,7 +1513,7 @@
       "title": "安徽省青少年足球联赛",
       "keyword": "11月14日19:30",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "徽青赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000600884/202611101005_937045_H169_1080.webp",
@@ -1541,25 +1530,6 @@
           "name": "赛场原声"
         }
       ]
-    },
-    {
-      "mgdbId": "120000601238",
-      "pID": "969406169",
-      "title": "中国队两金一铜",
-      "keyword": "11月14日19:30",
-      "sportItemId": "8",
-      "matchStatus": "2",
-      "matchField": "",
-      "competitionName": "国际自盟场地自行车世锦赛",
-      "padImg": "",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/10/29/10000000157210695b94.png",
-      "pkInfoTitle": "中国队两金一铜",
-      "modifyTitle": "中国队两金一铜",
-      "presenters": "",
-      "matchInfo": {
-        "time": "11月14日19:30"
-      },
-      "nodes": []
     },
     {
       "mgdbId": "120000600360",
@@ -1666,7 +1636,7 @@
       "matchStatus": "1",
       "matchField": "双流体育中心",
       "competitionName": "熊猫杯国际足球锦标赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/12/77T80SHVIGBM.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/14/77T9S99KU15G.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/11/13/100000001241106af1c1.png",
       "pkInfoTitle": "中国U19 vs 塔吉克斯坦U19",
       "modifyTitle": "熊猫杯国际足球锦标赛友谊赛",
@@ -1811,7 +1781,7 @@
       "title": "英女超联赛",
       "keyword": "11月14日21:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "斯坦福桥球场",
       "competitionName": "英女超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000592118/202609020957_653582_H169_1080.webp",
@@ -1839,10 +1809,10 @@
       "title": "方博冲决赛 桥本帆乃香迎内战",
       "keyword": "11月14日21:30",
       "sportItemId": "7",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/14/77T9RDJO8CVK.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/14/77T9S97BL42U.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "方博冲决赛 桥本帆乃香迎内战",
       "modifyTitle": "WTT伊斯坦布尔常规挑战赛男女单打半决赛、混双决赛",
