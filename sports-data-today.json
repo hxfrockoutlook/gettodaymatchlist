@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-14 14:02:07",
+  "updateTime": "2026-11-14 14:32:13",
   "data": [
     {
       "mgdbId": "120000600346",
@@ -267,6 +267,10 @@
         {
           "pID": "969414581",
           "name": "【女单小组赛】萨巴伦卡1-2斯维托丽娜（AI同声传译）"
+        },
+        {
+          "pID": "969423990",
+          "name": "【女双小组赛】郭涵煜/穆拉德诺维奇2-1张帅/梅尔滕斯（英文原声）"
         },
         {
           "pID": "969418159",
@@ -789,6 +793,10 @@
           "name": "全场回放（洪荒）"
         },
         {
+          "pID": "969423097",
+          "name": "全场回放（智能字幕）"
+        },
+        {
           "pID": "969418621",
           "name": "第一节"
         },
@@ -851,6 +859,14 @@
         {
           "pID": "969423126",
           "name": "全场集锦"
+        },
+        {
+          "pID": "969423511",
+          "name": "全场回放（徐秦威、陈正昊、郭维盛、廖昕阳）"
+        },
+        {
+          "pID": "969423149",
+          "name": "全场回放（邢晨）"
         },
         {
           "pID": "969419328",
@@ -923,6 +939,14 @@
         {
           "pID": "969422486",
           "name": "第三节"
+        },
+        {
+          "pID": "969423393",
+          "name": "第四节"
+        },
+        {
+          "pID": "969423870",
+          "name": "全场回放（刘芳宇）"
         }
       ]
     },
@@ -968,10 +992,6 @@
         {
           "pID": "969290010",
           "name": "《球你别说了》(连睿,马健,季孟年)"
-        },
-        {
-          "pID": "969246307",
-          "name": "同看雷霆vs快船"
         }
       ]
     },
@@ -1024,10 +1044,6 @@
         {
           "pID": "969268364",
           "name": "3号场地"
-        },
-        {
-          "pID": "969268520",
-          "name": "5号场地"
         }
       ]
     },
@@ -1056,36 +1072,12 @@
       ]
     },
     {
-      "mgdbId": "120000601190",
-      "pID": "969392953",
-      "title": "中国香港加农炮主场首秀",
-      "keyword": "11月14日14:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "MLP亚洲匹克球超级联赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/14/77T9S6IQQS4B.png",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/11/13/10000000158810641d8a.png",
-      "pkInfoTitle": "中国香港加农炮主场首秀",
-      "modifyTitle": "MLP亚洲匹克球超级联赛小组赛：中国香港加农炮一日双赛",
-      "presenters": "",
-      "matchInfo": {
-        "time": "11月14日14:00"
-      },
-      "nodes": [
-        {
-          "pID": "969392953",
-          "name": "清流播出"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000600882",
       "pID": "969321147",
       "title": "安徽省青少年足球联赛",
       "keyword": "11月14日14:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "徽青赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000600882/202611101000_105435_H169_1080.webp",
@@ -1886,6 +1878,25 @@
           "name": "赛场原声"
         }
       ]
+    },
+    {
+      "mgdbId": "120000601190",
+      "pID": "120000601190",
+      "title": "中国香港加农炮主场首秀",
+      "keyword": "11月14日14:00",
+      "sportItemId": "",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "MLP亚洲匹克球超级联赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/14/77T9S6IQQS4B.png",
+      "competitionLogo": "",
+      "pkInfoTitle": "中国香港加农炮主场首秀",
+      "modifyTitle": "MLP DAY2",
+      "presenters": "",
+      "matchInfo": {
+        "time": "11月14日14:00"
+      },
+      "nodes": []
     }
   ]
 }
