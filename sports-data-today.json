@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-14 14:32:13",
+  "updateTime": "2026-11-14 15:02:16",
   "data": [
     {
       "mgdbId": "120000600346",
@@ -241,6 +241,10 @@
           "name": "【女单小组赛】萨巴伦卡1-2斯维托丽娜（郭丰庆）"
         },
         {
+          "pID": "969424366",
+          "name": "【女双小组赛】郭涵煜/穆拉德诺维奇2-1张帅/梅尔滕斯（赛场原声）"
+        },
+        {
           "pID": "969418020",
           "name": "【女双小组赛】达布劳斯基/史蒂芬妮2-1谢淑薇/奥斯塔彭科（赛场原声）"
         },
@@ -250,7 +254,7 @@
         },
         {
           "pID": "969416994",
-          "name": "【女单小组赛】萨巴伦卡1-2斯维托丽娜（赛场原声）"
+          "name": "【女单小组赛】萨巴伦卡1-2斯维托���娜（赛场原声）"
         },
         {
           "pID": "969422323",
@@ -271,6 +275,10 @@
         {
           "pID": "969423990",
           "name": "【女双小组赛】郭涵煜/穆拉德诺维奇2-1张帅/梅尔滕斯（英文原声）"
+        },
+        {
+          "pID": "969424312",
+          "name": "【女单小组赛】米拉·安德列娃2-0施耐德（英文原声）"
         },
         {
           "pID": "969418159",
@@ -311,6 +319,10 @@
         {
           "pID": "969413734",
           "name": "【回放】米拉·安德列娃2-0施耐德（AI同声传译）"
+        },
+        {
+          "pID": "969424312",
+          "name": "【回放】米拉·安德列娃2-0施耐德（英文原声）"
         }
       ]
     },
@@ -608,29 +620,29 @@
     },
     {
       "mgdbId": "120000600308",
-      "pID": "969411201",
-      "title": "王祉怡冲决赛 陈雨菲vs山口茜",
+      "pID": "969411184",
+      "title": "日本羽毛球大师赛第五日：陈雨菲vs山口茜 王祉怡轻取",
       "keyword": "11月14日09:00",
       "sportItemId": "6",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "BWF",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/14/77T9T5LRHHQ4.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/14/77T9Q8URCUGV.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
-      "pkInfoTitle": "王祉怡冲决赛 陈雨菲vs山口茜",
-      "modifyTitle": "日本羽毛球大师赛第五日：王祉怡冲决赛 陈雨菲vs山口茜",
-      "presenters": "王政 鸿昆 余博洋 孙宁智",
+      "pkInfoTitle": "日本羽毛球大师赛第五日：陈雨菲vs山口茜 王祉怡轻取",
+      "modifyTitle": "日本羽毛球大师赛第五日：陈雨菲vs山口茜 王祉怡轻取",
+      "presenters": "孙宁智 王政 余博洋 鸿昆",
       "matchInfo": {
         "time": "11月14日09:00"
       },
       "nodes": [
         {
-          "pID": "969411154",
-          "name": "金慧贞/李妍雨VS岩永铃/中西贵映"
+          "pID": "969411184",
+          "name": "戴伟钦/叶睿庆VS伦加德/麦斯"
         },
         {
-          "pID": "969411201",
-          "name": "宫崎友花VS王祉怡"
+          "pID": "969411154",
+          "name": "金慧贞/李妍雨VS岩永铃/中西贵映"
         },
         {
           "pID": "969247343",
@@ -657,10 +669,6 @@
           "name": "山口茜VS陈雨菲"
         },
         {
-          "pID": "969411184",
-          "name": "戴伟钦/叶睿庆VS伦加德/麦斯"
-        },
-        {
           "pID": "969411251",
           "name": "蒋振邦/魏雅欣VS渡边勇大/田口真彩"
         },
@@ -679,30 +687,10 @@
         {
           "pID": "969411218",
           "name": "渡边航贵VS昆拉武特"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000600981",
-      "pID": "969346309",
-      "title": "全国攀岩锦标赛重庆九龙坡Day3",
-      "keyword": "11月14日09:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "攀岩系列赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/13/77T8UC1U4DBN.png",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/10/22/10000000136010611504.jpg",
-      "pkInfoTitle": "全国攀岩锦标赛重庆九龙坡Day3",
-      "modifyTitle": "全国攀岩锦标赛重庆九龙坡Day3",
-      "presenters": "",
-      "matchInfo": {
-        "time": "11月14日09:00"
-      },
-      "nodes": [
+        },
         {
-          "pID": "969346309",
-          "name": "重庆九龙坡"
+          "pID": "969411201",
+          "name": "宫崎友花VS王祉怡"
         }
       ]
     },
@@ -912,7 +900,7 @@
     },
     {
       "mgdbId": "120000590164",
-      "pID": "969423185",
+      "pID": "969424167",
       "title": "NBANBA杯",
       "keyword": "11月14日11:30",
       "sportItemId": "2",
@@ -929,6 +917,14 @@
       },
       "nodes": [
         {
+          "pID": "969424167",
+          "name": "全场集锦"
+        },
+        {
+          "pID": "969423870",
+          "name": "全场回放（刘芳宇）"
+        },
+        {
           "pID": "969420368",
           "name": "第一节"
         },
@@ -943,10 +939,6 @@
         {
           "pID": "969423393",
           "name": "第四节"
-        },
-        {
-          "pID": "969423870",
-          "name": "全场回放（刘芳宇）"
         }
       ]
     },
@@ -979,13 +971,13 @@
       "pID": "969290010",
       "title": "《球你别说了》詹杜库谁能体面退场？",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/14/77T9S8OBQCMB.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "《球你别说了》詹杜库谁能体面退场？",
-      "modifyTitle": "《球你别说了》詹杜库谁能体面退场？",
+      "modifyTitle": "《球你别说了》詹杜库谁能体面退场���",
       "presenters": "连睿 马健 季孟年",
       "matchInfo": {},
       "nodes": [
@@ -1056,7 +1048,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "中国乒乓球城市联赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/13/77T8UJNS0QF8.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/14/77T9Q9O6NPVI.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/11/12/100000000209106ff653.jpeg",
       "pkInfoTitle": "半决赛第一轮",
       "modifyTitle": "2026年“体彩杯”第五届中国乒乓球城市联赛海口站半决赛第一轮",
@@ -1101,10 +1093,10 @@
       "title": "冲四强！纵歌曼迎战平野 李天阳PK吉山",
       "keyword": "11月14日15:00",
       "sportItemId": "7",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/14/77T9R5BR2DAF.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/14/77T9QAP98C9M.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "冲四强！纵歌曼迎战平野 李天阳PK吉山",
       "modifyTitle": "WTT伊斯坦布尔常规挑战赛男女单打1/4决赛、双打半决赛",
@@ -1133,7 +1125,7 @@
       "title": "激战前夜：盖恩迎击不败挑战者霍基特",
       "keyword": "11月14日15:00",
       "sportItemId": "5",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "UFC前瞻与回顾",
       "padImg": "",
@@ -1157,10 +1149,10 @@
       "title": "半决赛第一轮",
       "keyword": "11月14日15:00",
       "sportItemId": "7",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "中国乒乓球城市联赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/13/77T8UK525AQV.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/14/77T9Q9P0MLJ3.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/11/12/100000000209106ff653.jpeg",
       "pkInfoTitle": "半决赛第一轮",
       "modifyTitle": "2026年“体彩杯”第五届中国乒乓球城市联赛雅安站半决赛第一轮",
@@ -1172,6 +1164,54 @@
         {
           "pID": "969376883",
           "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000600981",
+      "pID": "969346309",
+      "title": "全国攀岩锦标赛重庆九龙坡Day3",
+      "keyword": "11月14日18:00",
+      "sportItemId": "8",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "攀岩系列赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/13/77T8UC1U4DBN.png",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/10/22/10000000136010611504.jpg",
+      "pkInfoTitle": "全国攀岩锦标赛重庆九龙坡Day3",
+      "modifyTitle": "全国攀岩锦标赛重庆九龙坡Day3",
+      "presenters": "",
+      "matchInfo": {
+        "time": "11月14日18:00"
+      },
+      "nodes": [
+        {
+          "pID": "969346309",
+          "name": "重庆九龙坡"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000601257",
+      "pID": "969421707",
+      "title": "NBA精彩重播：勇士 vs 马刺",
+      "keyword": "11月14日18:00",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "NBA经典赛事",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/14/77T9QA15TOEP.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png",
+      "pkInfoTitle": "NBA精彩重播：勇士 vs 马刺",
+      "modifyTitle": "NBA精彩重播：勇士 vs 马刺",
+      "presenters": "杨健 曾令旭 苏群",
+      "matchInfo": {
+        "time": "11月14日18:00"
+      },
+      "nodes": [
+        {
+          "pID": "969421707",
+          "name": "杨健 曾令旭 苏群"
         }
       ]
     },
@@ -1832,7 +1872,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "PFL",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/14/77T9QA41R1CI.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/3/31/100000001408106a8f70.png",
       "pkInfoTitle": "PFL迪拜站：内姆科夫VS比洛斯特尼",
       "modifyTitle": "PFL迪拜站：内姆科夫VS比洛斯特尼",
@@ -1878,25 +1918,6 @@
           "name": "赛场原声"
         }
       ]
-    },
-    {
-      "mgdbId": "120000601190",
-      "pID": "120000601190",
-      "title": "中国香港加农炮主场首秀",
-      "keyword": "11月14日14:00",
-      "sportItemId": "",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "MLP亚洲匹克球超级联赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/14/77T9S6IQQS4B.png",
-      "competitionLogo": "",
-      "pkInfoTitle": "中国香港加农炮主场首秀",
-      "modifyTitle": "MLP DAY2",
-      "presenters": "",
-      "matchInfo": {
-        "time": "11月14日14:00"
-      },
-      "nodes": []
     }
   ]
 }
