@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-16 05:01:30",
+  "updateTime": "2026-11-16 05:31:23",
   "data": [
     {
       "mgdbId": "120000601188",
@@ -82,7 +82,7 @@
     },
     {
       "mgdbId": "120000588408",
-      "pID": "969459305",
+      "pID": "969459621",
       "title": "NBA常规赛",
       "keyword": "11月16日02:00",
       "sportItemId": "2",
@@ -98,6 +98,14 @@
         "time": "11月16日02:00"
       },
       "nodes": [
+        {
+          "pID": "969459621",
+          "name": "全场集锦"
+        },
+        {
+          "pID": "969459645",
+          "name": "全场回放（英文原声）"
+        },
         {
           "pID": "969459202",
           "name": "第一节"
@@ -262,7 +270,7 @@
       "title": "NBA常规赛",
       "keyword": "11月16日05:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "因图特圆顶球馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/15/77TAQ6FKRUT6.jpg",
