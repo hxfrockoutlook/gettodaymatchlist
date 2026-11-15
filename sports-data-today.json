@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-16 04:31:22",
+  "updateTime": "2026-11-16 05:01:30",
   "data": [
     {
       "mgdbId": "120000601188",
@@ -67,7 +67,7 @@
       "title": "加拿大蒙特利尔站",
       "keyword": "11月16日00:35",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "短道速滑世界巡回赛",
       "padImg": "",
@@ -82,11 +82,11 @@
     },
     {
       "mgdbId": "120000588408",
-      "pID": "969442339",
+      "pID": "969459305",
       "title": "NBA常规赛",
       "keyword": "11月16日02:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "康卡斯特移动球馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/16/77TBKUS3K3JO.jpg",
@@ -99,16 +99,20 @@
       },
       "nodes": [
         {
-          "pID": "969442339",
-          "name": "庄宁宇"
+          "pID": "969459202",
+          "name": "第一节"
         },
         {
-          "pID": "969442273",
-          "name": "英文原声"
+          "pID": "969459309",
+          "name": "第二节"
         },
         {
-          "pID": "969453791",
-          "name": "智能字幕"
+          "pID": "969459405",
+          "name": "第三节"
+        },
+        {
+          "pID": "969459582",
+          "name": "第四节"
         }
       ]
     },
@@ -226,7 +230,7 @@
       "title": "NBA常规赛",
       "keyword": "11月16日05:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "凤凰城竞技场",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/15/77TAQ670JNN4.jpg",
