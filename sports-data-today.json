@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-15 10:32:00",
+  "updateTime": "2026-11-15 11:02:11",
   "data": [
     {
       "mgdbId": "120000600343",
@@ -106,7 +106,7 @@
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/15/77TAPBLCOP6J.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
       "pkInfoTitle": "冲决赛！郭涵煜组合vs保利尼/埃拉尼",
-      "modifyTitle": "WTA年终总决赛半决��：冲决赛！郭涵煜组合vs保利尼/埃拉尼",
+      "modifyTitle": "WTA年终总决赛半决赛：冲决赛！郭涵煜组合vs保利尼/埃拉尼",
       "presenters": "房朕 王东 王蔷 张浩",
       "matchInfo": {
         "time": "11月15日04:00"
@@ -440,14 +440,14 @@
     },
     {
       "mgdbId": "120000588403",
-      "pID": "969241803",
+      "pID": "969442205",
       "title": "NBA常规赛",
       "keyword": "11月15日08:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "冰沙国王中心",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/14/77T9PTO6J1QB.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/15/77TAPML4A1QB.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "掘金VS鹈鹕",
       "modifyTitle": "NBA常规赛",
@@ -457,16 +457,24 @@
       },
       "nodes": [
         {
-          "pID": "969241803",
-          "name": "宋俊潼"
+          "pID": "969442205",
+          "name": "全场集锦"
         },
         {
-          "pID": "969355074",
-          "name": "同看独行侠vs骑士"
+          "pID": "969439723",
+          "name": "第一节"
         },
         {
-          "pID": "969241830",
-          "name": "英文原声"
+          "pID": "969440357",
+          "name": "第二节"
+        },
+        {
+          "pID": "969441238",
+          "name": "第三节"
+        },
+        {
+          "pID": "969442048",
+          "name": "第四节"
         }
       ]
     },
@@ -556,7 +564,7 @@
       "title": "上海农商银行·2026金山平湖半程马拉松",
       "keyword": "11月15日08:30",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "马拉松系列赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/12/77T818U0HFRG.jpg",
@@ -712,7 +720,7 @@
     },
     {
       "mgdbId": "120000600309",
-      "pID": "969433495",
+      "pID": "969433518",
       "title": "丫邦PK高吴组合 王祉怡迎战山口茜",
       "keyword": "11月15日10:00",
       "sportItemId": "6",
@@ -723,11 +731,15 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "丫邦PK高吴组合 王祉怡迎战山口茜",
       "modifyTitle": "日本羽毛球大师赛第六日：丫邦PK高吴组合 王祉怡迎战山口茜",
-      "presenters": "鸿昆 余博洋",
+      "presenters": "余博洋 鸿昆",
       "matchInfo": {
         "time": "11月15日10:00"
       },
       "nodes": [
+        {
+          "pID": "969433518",
+          "name": "拉克什亚VS渡边航贵"
+        },
         {
           "pID": "969433495",
           "name": "蒋振邦/魏雅欣VS高家炫/吴梦莹"
@@ -743,10 +755,6 @@
         {
           "pID": "969301337",
           "name": "智能字幕"
-        },
-        {
-          "pID": "969433518",
-          "name": "拉克什亚VS渡边航贵"
         }
       ]
     },
