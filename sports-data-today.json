@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-15 08:31:52",
+  "updateTime": "2026-11-15 09:02:05",
   "data": [
     {
       "mgdbId": "120000600343",
@@ -54,15 +54,11 @@
         },
         {
           "pID": "969437922",
-          "name": "全场回放"
+          "name": "全场回放（AI观赛）"
         },
         {
           "pID": "969437974",
-          "name": "全场回放"
-        },
-        {
-          "pID": "969438470",
-          "name": "全场回放"
+          "name": "全场回放（智能解说）"
         }
       ]
     },
@@ -90,11 +86,11 @@
         },
         {
           "pID": "969438739",
-          "name": "26/27赛季斯诺克冠中冠半决赛回放：肖恩·墨菲4-6凯伦·威尔逊（AI观赛）"
+          "name": "【回放】肖恩·墨菲4-6凯伦·威尔逊（AI观赛）"
         },
         {
           "pID": "969438796",
-          "name": "26/27赛季斯诺克冠中冠半决赛回放：肖恩·墨菲4-6凯伦·威尔逊（赛场原声）"
+          "name": "【回放】肖恩·墨菲4-6凯伦·威尔逊（赛场原声）"
         }
       ]
     },
@@ -110,7 +106,7 @@
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/14/77T9R1KFHKH5.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
       "pkInfoTitle": "史蒂芬妮女双出战 郭涵煜组合压场",
-      "modifyTitle": "WTA年终总决赛半决赛：史蒂芬���女双出战 郭涵煜组合压场",
+      "modifyTitle": "WTA年终总决赛半决赛：���蒂芬妮女双出战 郭涵煜组合压场",
       "presenters": "房朕 王东 王蔷 张浩",
       "matchInfo": {
         "time": "11月15日04:00"
@@ -239,6 +235,10 @@
         {
           "pID": "969439204",
           "name": "【回放】诺斯科娃0-2斯维托丽娜（王东、王蔷、张浩）（50帧原画）"
+        },
+        {
+          "pID": "969439645",
+          "name": "全场回放"
         }
       ]
     },
@@ -320,7 +320,7 @@
       "title": "港珠澳大桥（香港段）半程马拉松",
       "keyword": "11月15日07:15",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "马拉松系列赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/12/77T81EB3QK4L.jpg",
@@ -495,7 +495,7 @@
       "pID": "968817980",
       "title": "咪咕体育日报 第242期",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "咪咕体育日报",
       "padImg": "",
@@ -608,7 +608,7 @@
       "title": "NBA常规赛",
       "keyword": "11月15日09:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "標靶中心",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/14/77T9PV4PLFSS.png",
@@ -636,7 +636,7 @@
       "title": "NBA常规赛",
       "keyword": "11月15日09:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "联邦快递球馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/14/77T9PVDCFHNJ.png",
@@ -661,16 +661,16 @@
     {
       "mgdbId": "120000600321",
       "pID": "969268278",
-      "title": "男团、女团决赛",
+      "title": "收官日！女团、男团决赛",
       "keyword": "11月15日09:00",
       "sportItemId": "6",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "全国羽毛球团体锦标赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/14/77T9QPJ3KNS4.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/11/8/1000000015821067f593.png",
-      "pkInfoTitle": "男团、女团决赛",
-      "modifyTitle": "全国羽毛球团体锦标赛第七日：男团、女团决赛",
+      "pkInfoTitle": "收官日！女团、男团决赛",
+      "modifyTitle": "全国羽毛球团体锦标赛第七日：女团、男团决赛",
       "presenters": "",
       "matchInfo": {
         "time": "11月15日09:00"
@@ -692,7 +692,7 @@
     },
     {
       "mgdbId": "120000600309",
-      "pID": "969247389",
+      "pID": "969433495",
       "title": "丫邦PK高吴组合 王祉怡迎战山口茜",
       "keyword": "11月15日10:00",
       "sportItemId": "6",
@@ -709,6 +709,10 @@
       },
       "nodes": [
         {
+          "pID": "969433495",
+          "name": "蒋振邦/魏雅欣VS高家炫/吴梦莹"
+        },
+        {
           "pID": "969247389",
           "name": "1号场地"
         },
@@ -719,22 +723,6 @@
         {
           "pID": "969301337",
           "name": "智能字幕"
-        },
-        {
-          "pID": "969433495",
-          "name": "蒋振邦/魏雅欣VS高家炫/吴梦莹"
-        },
-        {
-          "pID": "969433500",
-          "name": "山口茜VS王祉怡"
-        },
-        {
-          "pID": "969433504",
-          "name": "岩永铃/中西贵映VS平本梨梨菜/志田千阳"
-        },
-        {
-          "pID": "969433512",
-          "name": "保木卓朗/小林优吾VS戴伟钦/叶睿庆"
         },
         {
           "pID": "969433518",
@@ -817,7 +805,7 @@
     {
       "mgdbId": "120000601015",
       "pID": "969354911",
-      "title": "青岛城市足球争霸赛",
+      "title": "半决赛 市南区vs平度市",
       "keyword": "11月15日14:00",
       "sportItemId": "1",
       "matchStatus": "0",
@@ -826,7 +814,7 @@
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000601015/202611111605_960521_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/26/77NUS7RRR2CI.png",
       "pkInfoTitle": "市南区vs平度市",
-      "modifyTitle": "青岛城市足球争霸赛",
+      "modifyTitle": "半决赛 市南区vs平度市",
       "presenters": "",
       "matchInfo": {
         "time": "11月15日14:00"
@@ -1080,7 +1068,7 @@
     {
       "mgdbId": "120000601014",
       "pID": "969354904",
-      "title": "青岛城市足球争霸赛",
+      "title": "半决赛 市北区vs西海岸新区",
       "keyword": "11月15日19:00",
       "sportItemId": "1",
       "matchStatus": "0",
@@ -1089,7 +1077,7 @@
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000601014/202611111605_704904_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/26/77NUS7RRR2CI.png",
       "pkInfoTitle": "市北区vs西海岸新区",
-      "modifyTitle": "青岛城市足球争霸赛",
+      "modifyTitle": "半决赛 市北区vs西海岸新区",
       "presenters": "",
       "matchInfo": {
         "time": "11月15日19:00"
@@ -1359,7 +1347,7 @@
     },
     {
       "mgdbId": "120000600168",
-      "pID": "969171891",
+      "pID": "969171925",
       "title": "斯诺克冠中冠：克里斯·韦克林 vs 凯伦·威尔逊",
       "keyword": "11月15日21:00",
       "sportItemId": "8",
@@ -1378,6 +1366,14 @@
         {
           "pID": "969171925",
           "name": "秦正"
+        },
+        {
+          "pID": "969171891",
+          "name": "清流播出"
+        },
+        {
+          "pID": "969171972",
+          "name": "AI智慧观赛"
         }
       ]
     },
