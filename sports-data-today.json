@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-16 23:01:36",
+  "updateTime": "2026-11-16 23:31:30",
   "data": [
     {
       "mgdbId": "120000601188",
@@ -14,7 +14,7 @@
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/14/77T9Q6OV7K3I.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/11/6/1000000004131061b3d9.png",
       "pkInfoTitle": "解锁播时任务 赢万份会员+限量周边",
-      "modifyTitle": "UFC格斗马拉松：解锁播时任务 ��份会员+限量周边送不停",
+      "modifyTitle": "UFC格斗马拉松：解锁播时任务 万份会员+限量周边送不停",
       "presenters": "",
       "matchInfo": {
         "time": "11月16日00:00"
@@ -841,7 +841,7 @@
       "title": "精彩回顾：郑钦文 vs 施晗",
       "keyword": "11月16日19:00",
       "sportItemId": "9",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "中国网球公开赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/15/77TAOF5A6G71.png",
@@ -926,16 +926,16 @@
       },
       "nodes": [
         {
+          "pID": "969479276",
+          "name": "全场集锦"
+        },
+        {
           "pID": "969479988",
-          "name": "全场回放"
+          "name": "全场回放（官方解说）"
         },
         {
           "pID": "969480649",
-          "name": "全场回放"
-        },
-        {
-          "pID": "969479276",
-          "name": "全场集锦"
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
@@ -958,22 +958,22 @@
       },
       "nodes": [
         {
-          "pID": "969479924",
-          "name": "全场回放"
+          "pID": "969479133",
+          "name": "全场集锦"
         },
         {
           "pID": "969480632",
-          "name": "全场回放"
+          "name": "全场回放（官方解说）"
         },
         {
-          "pID": "969479133",
-          "name": "全场集锦"
+          "pID": "969479924",
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
     {
       "mgdbId": "120000601284",
-      "pID": "969463487",
+      "pID": "969462999",
       "title": "方博冲正赛 冯怡璇3-1力克科克",
       "keyword": "11月16日21:00",
       "sportItemId": "7",
@@ -990,16 +990,12 @@
       },
       "nodes": [
         {
-          "pID": "969463487",
-          "name": "李柯鑫"
-        },
-        {
           "pID": "969462999",
           "name": "1号桌"
         },
         {
-          "pID": "969463070",
-          "name": "2号桌"
+          "pID": "969463487",
+          "name": "李柯鑫"
         },
         {
           "pID": "969463205",
@@ -1064,10 +1060,6 @@
         {
           "pID": "969404440",
           "name": "8号桌"
-        },
-        {
-          "pID": "969404313",
-          "name": "2���桌"
         }
       ]
     }
