@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-16 08:01:31",
+  "updateTime": "2026-11-16 08:31:31",
   "data": [
     {
       "mgdbId": "120000601188",
@@ -155,16 +155,16 @@
     {
       "mgdbId": "120000600268",
       "pID": "969445688",
-      "title": "女双决赛上演！安德列娃全胜夺年终🏆",
+      "title": "西尼亚科娃组合年终夺冠🏆",
       "keyword": "11月16日04:00",
       "sportItemId": "9",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/15/77TANKKG69VV.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/16/77TBM5ROF27L.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "女双决赛上演！安德列娃全胜夺年终🏆",
-      "modifyTitle": "WTA年终总决赛决赛：女双决赛上演！安德列娃全胜夺年终🏆",
+      "pkInfoTitle": "西尼亚科娃组合年终夺冠🏆",
+      "modifyTitle": "WTA年终总决赛决赛：西尼亚科娃组合年终夺冠🏆",
       "presenters": "王东 王蔷 张浩",
       "matchInfo": {
         "time": "11月16日04:00"
@@ -230,7 +230,7 @@
     },
     {
       "mgdbId": "120000588409",
-      "pID": "969460710",
+      "pID": "969461531",
       "title": "NBA常规赛",
       "keyword": "11月16日05:00",
       "sportItemId": "2",
@@ -246,6 +246,18 @@
         "time": "11月16日05:00"
       },
       "nodes": [
+        {
+          "pID": "969461531",
+          "name": "全场集锦"
+        },
+        {
+          "pID": "969461530",
+          "name": "全场回放（孙博、周赫）"
+        },
+        {
+          "pID": "969461548",
+          "name": "全场回放（AI字幕）"
+        },
         {
           "pID": "969459816",
           "name": "第一节"
@@ -266,7 +278,7 @@
     },
     {
       "mgdbId": "120000588410",
-      "pID": "969460644",
+      "pID": "969461702",
       "title": "NBA常规赛",
       "keyword": "11月16日05:30",
       "sportItemId": "2",
@@ -283,6 +295,14 @@
       },
       "nodes": [
         {
+          "pID": "969461702",
+          "name": "全场集锦"
+        },
+        {
+          "pID": "969461798",
+          "name": "全场回放（董倡硕）"
+        },
+        {
           "pID": "969459997",
           "name": "第一节"
         },
@@ -293,19 +313,23 @@
         {
           "pID": "969460926",
           "name": "第三节"
+        },
+        {
+          "pID": "969461528",
+          "name": "第四节"
         }
       ]
     },
     {
       "mgdbId": "120000588411",
-      "pID": "969442659",
+      "pID": "969461203",
       "title": "NBA常规赛",
       "keyword": "11月16日06:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "达美中心球馆",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/15/77TAQ6JMVSQP.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/16/77TBM5SAE2JB.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "马刺VS爵士",
       "modifyTitle": "NBA常规赛",
@@ -315,16 +339,20 @@
       },
       "nodes": [
         {
-          "pID": "969442659",
-          "name": "李嘉伟"
+          "pID": "969460482",
+          "name": "第一节"
         },
         {
-          "pID": "969442618",
-          "name": "王晓晨"
+          "pID": "969460668",
+          "name": "第二节"
         },
         {
-          "pID": "969442589",
-          "name": "英文原声"
+          "pID": "969461333",
+          "name": "第三节"
+        },
+        {
+          "pID": "969461813",
+          "name": "第四节"
         }
       ]
     },
