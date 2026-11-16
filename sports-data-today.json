@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-16 09:31:37",
+  "updateTime": "2026-11-16 10:01:27",
   "data": [
     {
       "mgdbId": "120000601188",
@@ -14,7 +14,7 @@
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/14/77T9Q6OV7K3I.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/11/6/1000000004131061b3d9.png",
       "pkInfoTitle": "解锁播时任务 赢万份会员+限量周边",
-      "modifyTitle": "UFC格斗马拉松：解锁播时任务 万份��员+限量周边送不停",
+      "modifyTitle": "UFC格斗马拉松：解锁播时任务 万份会员+限量周边送不停",
       "presenters": "",
       "matchInfo": {
         "time": "11月16日00:00"
@@ -162,7 +162,7 @@
       "nodes": [
         {
           "pID": "969462522",
-          "name": "2026WTA年终总决赛女双决赛回放：西尼亚科娃/汤森德2-0埃拉尼/保利尼（王东、王蔷、张浩）（50帧原画）"
+          "name": "【女双决赛】西尼亚科娃/汤森德2-0埃拉尼/保利尼（王东、王蔷、张浩）（50帧原画）"
         },
         {
           "pID": "969460540",
@@ -171,6 +171,10 @@
         {
           "pID": "969460613",
           "name": "【女单决赛】斯维托丽娜0-2安德列娃（赛场原声）"
+        },
+        {
+          "pID": "969462657",
+          "name": "【女双决赛】西尼亚科娃/汤森德2-0埃拉尼/保利尼（AI同声传译）"
         },
         {
           "pID": "969460483",
@@ -185,7 +189,7 @@
     {
       "mgdbId": "120000601280",
       "pID": "969445648",
-      "title": "WTA年终总决赛小组赛：斯维托丽娜 vs 米拉·安德列娃",
+      "title": "WTA年终总决赛女单决赛：斯维托丽娜 vs 米拉·安德列娃",
       "keyword": "11月16日04:10",
       "sportItemId": "9",
       "matchStatus": "2",
@@ -194,7 +198,7 @@
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
       "pkInfoTitle": "斯维托丽娜 vs 米拉·安德列娃",
-      "modifyTitle": "WTA年终总决赛小组赛：斯维托丽娜 vs 米拉·安德列娃",
+      "modifyTitle": "WTA年终总决赛女单决赛：斯维托丽娜 vs 米拉·安德列娃",
       "presenters": "王东 王蔷 张浩",
       "matchInfo": {
         "time": "11月16日04:10"
@@ -316,7 +320,7 @@
     },
     {
       "mgdbId": "120000588411",
-      "pID": "969461203",
+      "pID": "969462502",
       "title": "NBA常规赛",
       "keyword": "11月16日06:00",
       "sportItemId": "2",
@@ -332,6 +336,10 @@
         "time": "11月16日06:00"
       },
       "nodes": [
+        {
+          "pID": "969462502",
+          "name": "全场集锦"
+        },
         {
           "pID": "969461966",
           "name": "全场回放（李嘉伟）"
@@ -388,7 +396,7 @@
     },
     {
       "mgdbId": "120000588413",
-      "pID": "969462081",
+      "pID": "969462998",
       "title": "NBA常规赛",
       "keyword": "11月16日07:00",
       "sportItemId": "2",
@@ -404,6 +412,14 @@
         "time": "11月16日07:00"
       },
       "nodes": [
+        {
+          "pID": "969462998",
+          "name": "全场集锦"
+        },
+        {
+          "pID": "969463242",
+          "name": "全场回放（蔡凯臣、曾令旭、季孟年、李雨桐）"
+        },
         {
           "pID": "969461209",
           "name": "第一节"
@@ -504,7 +520,7 @@
       "title": "NBA常规赛",
       "keyword": "11月16日10:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "金色一号中心",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/15/77TAQ7DEEF29.jpg",
@@ -622,6 +638,7 @@
     },
     {
       "mgdbId": "120000601283",
+      "pID": "969462961",
       "title": "徐奕迎首秀 唐乙仁、杨惠泽冲开门红",
       "keyword": "11月16日15:00",
       "sportItemId": "7",
@@ -636,7 +653,24 @@
       "matchInfo": {
         "time": "11月16日15:00"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "969462961",
+          "name": "1号桌"
+        },
+        {
+          "pID": "969463060",
+          "name": "2号桌"
+        },
+        {
+          "pID": "969463181",
+          "name": "3号桌"
+        },
+        {
+          "pID": "969463297",
+          "name": "4号桌"
+        }
+      ]
     },
     {
       "mgdbId": "120000601201",
@@ -707,7 +741,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "NBA经典赛事",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/16/77TBMGR299FT.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png",
       "pkInfoTitle": "NBA精彩重播：步行者 vs 76人",
       "modifyTitle": "NBA经典赛事",
@@ -852,6 +886,7 @@
     },
     {
       "mgdbId": "120000601284",
+      "pID": "969462999",
       "title": "方博冲正赛 孙杨、冯怡璇轮番上阵",
       "keyword": "11月16日21:00",
       "sportItemId": "7",
@@ -866,7 +901,20 @@
       "matchInfo": {
         "time": "11月16日21:00"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "969462999",
+          "name": "1号桌"
+        },
+        {
+          "pID": "969463070",
+          "name": "2号桌"
+        },
+        {
+          "pID": "969463205",
+          "name": "3号桌"
+        }
+      ]
     }
   ]
 }
