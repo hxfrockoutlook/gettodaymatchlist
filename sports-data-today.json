@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-16 22:01:33",
+  "updateTime": "2026-11-16 22:31:28",
   "data": [
     {
       "mgdbId": "120000601188",
@@ -14,7 +14,7 @@
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/14/77T9Q6OV7K3I.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/11/6/1000000004131061b3d9.png",
       "pkInfoTitle": "解锁播时任务 赢万份会员+限量周边",
-      "modifyTitle": "UFC格斗马拉松：解锁播时任�� 万份会员+限量周边送不停",
+      "modifyTitle": "UFC格斗马拉松：解锁播时任务 万份会员+限量周边送不停",
       "presenters": "",
       "matchInfo": {
         "time": "11月16日00:00"
@@ -841,7 +841,7 @@
       "title": "精彩回顾：郑钦文 vs 施晗",
       "keyword": "11月16日19:00",
       "sportItemId": "9",
-      "matchStatus": "2",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "中国网球公开赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/15/77TAOF5A6G71.png",
@@ -926,6 +926,10 @@
       },
       "nodes": [
         {
+          "pID": "969479988",
+          "name": "全场回放"
+        },
+        {
           "pID": "969479276",
           "name": "全场集锦"
         }
@@ -949,6 +953,10 @@
         "time": "11月16日19:30"
       },
       "nodes": [
+        {
+          "pID": "969479924",
+          "name": "全场回放"
+        },
         {
           "pID": "969479133",
           "name": "全场集锦"
@@ -997,14 +1005,14 @@
       "title": "吕昊天PK潘查亚 高阳出战",
       "keyword": "11月16日22:30",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/16/77TBMHE1CPNC.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "吕昊天PK潘查亚 高阳出战",
       "modifyTitle": "斯诺克德国大师赛资格赛：吕昊天PK潘查亚 高阳出战",
-      "presenters": "卢正浩 乔迁 小罗",
+      "presenters": "卢正浩 小罗",
       "matchInfo": {
         "time": "11月16日22:30"
       },
@@ -1050,8 +1058,8 @@
           "name": "8号桌"
         },
         {
-          "pID": "969404489",
-          "name": "解说：乔迁"
+          "pID": "969404313",
+          "name": "2号��"
         }
       ]
     }
