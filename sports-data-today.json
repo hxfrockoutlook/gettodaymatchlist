@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-16 11:31:41",
+  "updateTime": "2026-11-16 12:01:39",
   "data": [
     {
       "mgdbId": "120000601188",
@@ -384,7 +384,7 @@
     },
     {
       "mgdbId": "120000588412",
-      "pID": "969463305",
+      "pID": "969466251",
       "title": "NBA常规赛",
       "keyword": "11月16日07:00",
       "sportItemId": "2",
@@ -400,6 +400,10 @@
         "time": "11月16日07:00"
       },
       "nodes": [
+        {
+          "pID": "969466251",
+          "name": "全场集锦"
+        },
         {
           "pID": "969464454",
           "name": "全场回放（王凯）"
@@ -540,7 +544,7 @@
     },
     {
       "mgdbId": "120000588415",
-      "pID": "969465468",
+      "pID": "969466146",
       "title": "NBA常规赛",
       "keyword": "11月16日09:00",
       "sportItemId": "2",
@@ -557,6 +561,14 @@
       },
       "nodes": [
         {
+          "pID": "969466146",
+          "name": "全场集锦"
+        },
+        {
+          "pID": "969466284",
+          "name": "全场回放（宋俊潼）"
+        },
+        {
           "pID": "969462845",
           "name": "第一节"
         },
@@ -567,6 +579,10 @@
         {
           "pID": "969464789",
           "name": "第三节"
+        },
+        {
+          "pID": "969465848",
+          "name": "第四节"
         }
       ]
     },
@@ -629,7 +645,7 @@
       "title": "精彩回顾：袁悦 vs 奥利尼科娃",
       "keyword": "11月16日12:00",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "中国网球公开赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/15/77TAOEALNSL9.png",
