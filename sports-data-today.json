@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-17 12:01:38",
+  "updateTime": "2026-11-17 12:31:31",
   "data": [
     {
       "mgdbId": "120000601202",
@@ -83,6 +83,10 @@
         {
           "pID": "969487473",
           "name": "全场回放（贾磊）"
+        },
+        {
+          "pID": "969489108",
+          "name": "全场回放（英文原声）"
         },
         {
           "pID": "969484191",
@@ -233,6 +237,10 @@
           "name": "全场集锦"
         },
         {
+          "pID": "969488761",
+          "name": "全场回放（杨健、霍楠、秋童）"
+        },
+        {
           "pID": "969484574",
           "name": "第一节"
         },
@@ -340,7 +348,7 @@
     },
     {
       "mgdbId": "120000588423",
-      "pID": "969488385",
+      "pID": "969488822",
       "title": "NBA常规赛",
       "keyword": "11月17日09:00",
       "sportItemId": "2",
@@ -357,6 +365,22 @@
       },
       "nodes": [
         {
+          "pID": "969488822",
+          "name": "全场集锦"
+        },
+        {
+          "pID": "969489104",
+          "name": "全场回放（刘圳展、陈正昊、魏欣怡）"
+        },
+        {
+          "pID": "969488840",
+          "name": "全场回放（邢晨）"
+        },
+        {
+          "pID": "969488975",
+          "name": "全场回放（AI字幕）"
+        },
+        {
           "pID": "969485422",
           "name": "第一节"
         },
@@ -371,16 +395,12 @@
         {
           "pID": "969488621",
           "name": "第四节"
-        },
-        {
-          "pID": "969488840",
-          "name": "全场回放（邢晨）"
         }
       ]
     },
     {
       "mgdbId": "120000601326",
-      "pID": "969480664",
+      "pID": "969463783",
       "title": "梁王、任何组合登场 贾一凡搭档张驰出战",
       "keyword": "11月17日09:00",
       "sportItemId": "6",
@@ -391,14 +411,14 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "梁王、任何组合登场 贾一凡搭档张驰出战",
       "modifyTitle": "中国香港羽毛球公开赛第一日：梁王、任何组合登场 贾一凡搭档张驰出战",
-      "presenters": "孙宁智 鸿昆 轩子博 王政 朱胤丞 杨妮娜",
+      "presenters": "鸿昆 轩子博 王政 朱胤丞 杨妮娜 孙宁智",
       "matchInfo": {
         "time": "11月17日09:00"
       },
       "nodes": [
         {
-          "pID": "969480664",
-          "name": "马子雪VS托鲁格"
+          "pID": "969463783",
+          "name": "3号场地"
         },
         {
           "pID": "969463647",
@@ -407,10 +427,6 @@
         {
           "pID": "969463737",
           "name": "2号场地"
-        },
-        {
-          "pID": "969463783",
-          "name": "3号场地"
         },
         {
           "pID": "969463852",
@@ -463,19 +479,23 @@
         {
           "pID": "969480966",
           "name": "吴轩毅/杨筑云VS鲁塔纳帕克/塔纳普迪特"
+        },
+        {
+          "pID": "969480664",
+          "name": "马子雪VS托鲁格"
         }
       ]
     },
     {
       "mgdbId": "120000588424",
-      "pID": "969443033",
+      "pID": "969488935",
       "title": "NBA常规赛",
       "keyword": "11月17日10:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "波尔体育馆",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/16/77TBMO4O4BVJ.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/17/77TCKF3DJOGA.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "太阳VS掘金",
       "modifyTitle": "NBA常规赛",
@@ -485,12 +505,16 @@
       },
       "nodes": [
         {
-          "pID": "969443033",
-          "name": "王冠证 殷文玉"
+          "pID": "969487191",
+          "name": "第一节"
         },
         {
-          "pID": "969443052",
-          "name": "英文原声"
+          "pID": "969488246",
+          "name": "第二节"
+        },
+        {
+          "pID": "969489057",
+          "name": "第三节"
         }
       ]
     },
