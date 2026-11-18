@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-18 12:01:36",
+  "updateTime": "2026-11-18 12:31:31",
   "data": [
     {
       "mgdbId": "120000601204",
@@ -109,6 +109,10 @@
           "name": "全场回放（盛哲）"
         },
         {
+          "pID": "969516162",
+          "name": "全场回放（英文原声）"
+        },
+        {
           "pID": "969512056",
           "name": "第一节"
         },
@@ -149,6 +153,18 @@
           "name": "全场集锦"
         },
         {
+          "pID": "969516216",
+          "name": "全场回放（杨健、丁彦雨航、佳依）"
+        },
+        {
+          "pID": "969516075",
+          "name": "全场回放（王晓晨）"
+        },
+        {
+          "pID": "969516118",
+          "name": "全场回放（AI字幕）"
+        },
+        {
           "pID": "969512835",
           "name": "第一节"
         },
@@ -168,7 +184,7 @@
     },
     {
       "mgdbId": "120000588427",
-      "pID": "969515572",
+      "pID": "969516148",
       "title": "NBA常规赛",
       "keyword": "11月18日09:00",
       "sportItemId": "2",
@@ -184,6 +200,10 @@
         "time": "11月18日09:00"
       },
       "nodes": [
+        {
+          "pID": "969516148",
+          "name": "全场集锦"
+        },
         {
           "pID": "969512729",
           "name": "第一节"
@@ -204,33 +224,37 @@
     },
     {
       "mgdbId": "120000601327",
-      "pID": "969505837",
+      "pID": "969506886",
       "title": "王祉怡、陈雨菲领衔 凤凰组合回归",
       "keyword": "11月18日09:00",
       "sportItemId": "6",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "BWF",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/18/77TDHBMGS2E5.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/18/77TDHIBC8FLI.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "王祉怡、陈雨菲领衔 凤凰组合回归",
       "modifyTitle": "中国香港羽毛球公开赛第二日：王祉怡、陈雨菲领衔 凤凰组合回归",
-      "presenters": "鸿昆 孙宁智 王政 朱胤丞 杨妮娜 余博洋 轩子博",
+      "presenters": "孙宁智 鸿昆 王政 朱胤丞 杨妮娜 余博洋 轩子博",
       "matchInfo": {
         "time": "11月18日09:00"
       },
       "nodes": [
         {
+          "pID": "969506886",
+          "name": "加西亚/露西娅VS程星/张驰"
+        },
+        {
+          "pID": "969506354",
+          "name": "胡达VS韩悦"
+        },
+        {
+          "pID": "969506824",
+          "name": "朱轩辰VS苏力扬"
+        },
+        {
           "pID": "969505837",
           "name": "王祉怡VS白驭珀"
-        },
-        {
-          "pID": "969506872",
-          "name": "高家炫/吴梦莹VS杨博轩/胡绫芳"
-        },
-        {
-          "pID": "969506821",
-          "name": "明地阳菜VS徐文婧"
         },
         {
           "pID": "969463884",
@@ -247,18 +271,6 @@
         {
           "pID": "969463986",
           "name": "4号场地"
-        },
-        {
-          "pID": "969506886",
-          "name": "加西亚/露西娅VS程星/张驰"
-        },
-        {
-          "pID": "969506824",
-          "name": "朱轩辰VS苏力扬"
-        },
-        {
-          "pID": "969506354",
-          "name": "胡达VS韩悦"
         },
         {
           "pID": "969506389",
@@ -299,6 +311,14 @@
         {
           "pID": "969506868",
           "name": "瓦尔达尼VS蕾莎娜"
+        },
+        {
+          "pID": "969506821",
+          "name": "明地阳菜VS徐文婧"
+        },
+        {
+          "pID": "969506872",
+          "name": "高家炫/吴梦莹VS杨博轩/胡绫芳"
         }
       ]
     },
@@ -703,6 +723,30 @@
         {
           "pID": "969404610",
           "name": "乔迁"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000601261",
+      "pID": "969421771",
+      "title": "NBA精彩重播：活塞 vs 马刺",
+      "keyword": "11月18日18:00",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "NBA经典赛事",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/18/77TDHH0A0S7D.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png",
+      "pkInfoTitle": "NBA精彩重播：活塞 vs 马刺",
+      "modifyTitle": "NBA经典赛事",
+      "presenters": "杨健 丁彦雨航 佳依",
+      "matchInfo": {
+        "time": "11月18日18:00"
+      },
+      "nodes": [
+        {
+          "pID": "969421771",
+          "name": "杨健 丁彦雨航 佳依"
         }
       ]
     },
