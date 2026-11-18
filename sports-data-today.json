@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-18 21:31:45",
+  "updateTime": "2026-11-18 22:01:53",
   "data": [
     {
       "mgdbId": "120000601204",
@@ -511,6 +511,14 @@
         {
           "pID": "969529952",
           "name": "全场回放（英文解说智能字幕）"
+        },
+        {
+          "pID": "969531455",
+          "name": "2026WTT马斯喀特球星挑战赛Day3下午场二号桌全场回放（赛场原声）"
+        },
+        {
+          "pID": "969531462",
+          "name": "2026WTT马斯喀特球星挑战赛Day3下午场全场回放（英文解说）"
         }
       ]
     },
@@ -777,23 +785,15 @@
       },
       "nodes": [
         {
-          "pID": "969488764",
-          "name": "王冠证"
-        },
-        {
-          "pID": "968075216",
-          "name": "英文解说"
-        },
-        {
-          "pID": "968075237",
-          "name": "赛场原声"
+          "pID": "969531274",
+          "name": "全场回放（王冠证）"
         }
       ]
     },
     {
       "mgdbId": "120000601205",
-      "pID": "969404274",
-      "title": "吉米·怀特出战 刘宏宇5-2晋级",
+      "pID": "969404485",
+      "title": "吉米·怀特险胜晋级 刘宏宇5-2晋级",
       "keyword": "11月18日18:00",
       "sportItemId": "8",
       "matchStatus": "1",
@@ -801,25 +801,13 @@
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/18/77TDGODJU8HV.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "吉米·怀特出战 刘宏宇5-2晋级",
-      "modifyTitle": "斯诺克德国大师赛资格赛：吉米·怀特出战 刘宏宇5-2晋级",
+      "pkInfoTitle": "吉米·怀特险胜晋级 刘宏宇5-2晋级",
+      "modifyTitle": "斯诺克德国大师赛资格赛：吉米·怀特险胜晋级 刘宏宇5-2晋级",
       "presenters": "陶哲铭 柏林 乔迁",
       "matchInfo": {
         "time": "11月18日18:00"
       },
       "nodes": [
-        {
-          "pID": "969404538",
-          "name": "AI智慧观赛"
-        },
-        {
-          "pID": "969404324",
-          "name": "3号桌"
-        },
-        {
-          "pID": "969404336",
-          "name": "4号桌"
-        },
         {
           "pID": "969404373",
           "name": "5号桌"
@@ -837,12 +825,24 @@
           "name": "柏林"
         },
         {
+          "pID": "969404538",
+          "name": "AI智慧观赛"
+        },
+        {
           "pID": "969404610",
           "name": "乔迁"
         },
         {
           "pID": "969404299",
           "name": "2号桌"
+        },
+        {
+          "pID": "969404324",
+          "name": "3号桌"
+        },
+        {
+          "pID": "969404336",
+          "name": "4号桌"
         },
         {
           "pID": "969404392",
@@ -873,8 +873,8 @@
       },
       "nodes": [
         {
-          "pID": "969421771",
-          "name": "杨健 丁彦雨航 佳依"
+          "pID": "969516216",
+          "name": "全场回放（杨健、丁彦雨航、佳依）"
         }
       ]
     },
@@ -935,7 +935,7 @@
       "matchStatus": "2",
       "matchField": "",
       "competitionName": "WCBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/15/77TANL06N7L8.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/18/77TDGO26O5M0.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/10/20/100000000535106f44f7.png",
       "pkInfoTitle": "江苏南钢 VS 石家庄英励",
       "modifyTitle": "WCBA",
@@ -960,10 +960,10 @@
       "title": "WCBA",
       "keyword": "11月18日19:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "WCBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/15/77TANION2GA1.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/18/77TDGNT6AB0B.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/10/20/100000000535106f44f7.png",
       "pkInfoTitle": "山西竹叶青酒 VS 合肥文旅",
       "modifyTitle": "WCBA",
@@ -1009,16 +1009,16 @@
     {
       "mgdbId": "120000601335",
       "pID": "969463571",
-      "title": "湖州VS嘉兴",
+      "title": "湖州69-76嘉兴",
       "keyword": "11月18日19:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "浙BA",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/02/77N92ACGBBVQ.png",
-      "pkInfoTitle": "湖州VS嘉兴",
-      "modifyTitle": "湖州VS嘉兴",
+      "pkInfoTitle": "湖州69-76嘉兴",
+      "modifyTitle": "湖州69-76嘉兴",
       "presenters": "",
       "matchInfo": {
         "time": "11月18日19:30"
@@ -1036,10 +1036,10 @@
       "title": "CBA俱乐部杯小组赛",
       "keyword": "11月18日20:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "CBA俱乐部杯",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/16/77TBKO7RASOL.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/18/77TDGOVEUBCH.jpg",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/30/77QTFHTMB7SI.png",
       "pkInfoTitle": "山东高速vs广东东阳光",
       "modifyTitle": "CBA俱乐部杯小组赛",
@@ -1049,33 +1049,29 @@
       },
       "nodes": [
         {
-          "pID": "969493362",
-          "name": "李天宇 于德豪"
+          "pID": "969530036",
+          "name": "第一节"
         },
         {
-          "pID": "969493399",
-          "name": "山东主队"
+          "pID": "969530275",
+          "name": "第二节"
         },
         {
-          "pID": "969493413",
-          "name": "广东主队"
-        },
-        {
-          "pID": "969493435",
-          "name": "赛场原声"
+          "pID": "969530991",
+          "name": "第三节"
         }
       ]
     },
     {
       "mgdbId": "120000596681",
-      "pID": "969493142",
+      "pID": "969531324",
       "title": "CBA俱乐部杯小组赛",
       "keyword": "11月18日20:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "烟台八角湾国际体育中心体育馆",
       "competitionName": "CBA俱乐部杯",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/16/77TBL10KBUBM.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/18/77TDGNJ4KGP7.png",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/30/77QTFHTMB7SI.png",
       "pkInfoTitle": "江苏肯帝亚vs北京首钢",
       "modifyTitle": "CBA俱乐部杯小组赛",
@@ -1085,33 +1081,37 @@
       },
       "nodes": [
         {
-          "pID": "969493142",
-          "name": "邵化谦 李根 季孟年"
+          "pID": "969531324",
+          "name": "全场集锦"
         },
         {
-          "pID": "969493163",
-          "name": "江苏主队"
+          "pID": "969529989",
+          "name": "第一节"
         },
         {
-          "pID": "969493187",
-          "name": "北京主队"
+          "pID": "969530225",
+          "name": "第二节"
         },
         {
-          "pID": "969493199",
-          "name": "赛场原声"
+          "pID": "969530920",
+          "name": "第三节"
+        },
+        {
+          "pID": "969531297",
+          "name": "第四节"
         }
       ]
     },
     {
       "mgdbId": "120000596682",
-      "pID": "969493274",
+      "pID": "969531418",
       "title": "CBA俱乐部杯小组赛",
       "keyword": "11月18日20:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "宁夏体育馆",
       "competitionName": "CBA俱乐部杯",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/16/77TBKO1H9A2C.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/18/77TDGOBGGA9P.jpg",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/30/77QTFHTMB7SI.png",
       "pkInfoTitle": "宁波町渥vs辽宁本钢",
       "modifyTitle": "CBA俱乐部杯小组赛",
@@ -1121,33 +1121,33 @@
       },
       "nodes": [
         {
-          "pID": "969493274",
-          "name": "孙博 曾令旭"
+          "pID": "969530033",
+          "name": "第一节"
         },
         {
-          "pID": "969493300",
-          "name": "宁波主队"
+          "pID": "969530276",
+          "name": "第二节"
         },
         {
-          "pID": "969493336",
-          "name": "辽宁主队"
+          "pID": "969530971",
+          "name": "第三节"
         },
         {
-          "pID": "969493349",
-          "name": "赛场原声"
+          "pID": "969531460",
+          "name": "第四节"
         }
       ]
     },
     {
       "mgdbId": "120000596683",
-      "pID": "969493210",
+      "pID": "969529991",
       "title": "CBA俱乐部杯小组赛",
       "keyword": "11月18日20:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "洪山体育馆",
       "competitionName": "CBA俱乐部杯",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/16/77TBL1EHSIR4.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/18/77TDGOHM2AB4.png",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/30/77QTFHTMB7SI.png",
       "pkInfoTitle": "四川锦城vs青岛崂山啤酒",
       "modifyTitle": "CBA俱乐部杯小组赛",
@@ -1157,20 +1157,20 @@
       },
       "nodes": [
         {
-          "pID": "969493210",
-          "name": "连睿 周鹏"
+          "pID": "969529991",
+          "name": "第一节"
         },
         {
-          "pID": "969493235",
-          "name": "青岛主队"
+          "pID": "969530209",
+          "name": "第二节"
         },
         {
-          "pID": "969493952",
-          "name": "四川主队"
+          "pID": "969530915",
+          "name": "第三节"
         },
         {
-          "pID": "969493262",
-          "name": "赛场原声"
+          "pID": "969531341",
+          "name": "第四节"
         }
       ]
     },
@@ -1183,7 +1183,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/18/77TDGJS3P5F8.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/18/77TDGNN00QC9.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "黄友政冲32强 范姝涵迎国乒内战",
       "modifyTitle": "WTT球星挑战赛马斯喀特站男女单打1/32决赛、双打1/8决赛",
@@ -1195,10 +1195,6 @@
         {
           "pID": "969463128",
           "name": "张靖松"
-        },
-        {
-          "pID": "969463011",
-          "name": "3号桌"
         },
         {
           "pID": "969463031",
@@ -1213,6 +1209,10 @@
           "name": "1号桌"
         },
         {
+          "pID": "969463011",
+          "name": "3号桌"
+        },
+        {
           "pID": "969514137",
           "name": "智能字幕"
         }
@@ -1223,7 +1223,7 @@
       "pID": "969499116",
       "title": "《球你别说了》名嘴热议CBA俱乐部杯开打",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "CBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/18/77TDEMSP23KF.jpg",
