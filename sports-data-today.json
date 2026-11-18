@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-18 19:01:37",
+  "updateTime": "2026-11-18 19:31:33",
   "data": [
     {
       "mgdbId": "120000601204",
@@ -110,7 +110,7 @@
         },
         {
           "pID": "969516162",
-          "name": "全场回放（英文原声）"
+          "name": "全场回���（英文原声）"
         },
         {
           "pID": "969512056",
@@ -240,7 +240,7 @@
     },
     {
       "mgdbId": "120000601327",
-      "pID": "969506446",
+      "pID": "969506918",
       "title": "陈雨菲领衔 凤凰组合速胜",
       "keyword": "11月18日09:00",
       "sportItemId": "6",
@@ -251,11 +251,23 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "陈雨菲领衔 凤凰组合速胜",
       "modifyTitle": "中国香港羽毛球公开赛第二日：陈雨菲领衔 凤凰组合速胜",
-      "presenters": "杨妮娜 朱胤丞 鸿昆 余博洋 轩子博 王政 孙宁智",
+      "presenters": "鸿昆 朱胤丞 杨妮娜 余博洋 轩子博 王政 孙宁智",
       "matchInfo": {
         "time": "11月18日09:00"
       },
       "nodes": [
+        {
+          "pID": "969506918",
+          "name": "舒尔茨VS陈雨菲"
+        },
+        {
+          "pID": "969506389",
+          "name": "亨明/埃斯特尔VS陈延泽/吴芷柔"
+        },
+        {
+          "pID": "969506807",
+          "name": "平本梨梨菜/志田千阳VS哈泰蒂普/纳帕帕卡孔"
+        },
         {
           "pID": "969506446",
           "name": "彭雨薇VS因达农"
@@ -277,20 +289,8 @@
           "name": "4号场地"
         },
         {
-          "pID": "969506389",
-          "name": "亨明/埃斯特尔VS陈延泽/吴芷柔"
-        },
-        {
           "pID": "969506414",
           "name": "胡哲安VS李卓耀"
-        },
-        {
-          "pID": "969506807",
-          "name": "平本梨梨菜/志田千阳VS哈泰蒂普/纳帕帕卡孔"
-        },
-        {
-          "pID": "969506918",
-          "name": "舒尔茨VS陈雨菲"
         },
         {
           "pID": "969505683",
@@ -496,7 +496,7 @@
     },
     {
       "mgdbId": "120000601287",
-      "pID": "969463451",
+      "pID": "969463141",
       "title": "袁励岑零封晋级 陈垣宇/黄友政止步16强",
       "keyword": "11月18日15:00",
       "sportItemId": "7",
@@ -513,28 +513,16 @@
       },
       "nodes": [
         {
-          "pID": "969463451",
-          "name": "肖扬"
-        },
-        {
           "pID": "969463141",
           "name": "2号桌"
-        },
-        {
-          "pID": "969463048",
-          "name": "1号桌"
         },
         {
           "pID": "969463271",
           "name": "3号桌"
         },
         {
-          "pID": "969463384",
-          "name": "4号桌"
-        },
-        {
-          "pID": "969514149",
-          "name": "智能字幕"
+          "pID": "969463451",
+          "name": "肖扬"
         }
       ]
     },
@@ -573,6 +561,10 @@
           "name": "全场回放（石楷文）"
         },
         {
+          "pID": "969528436",
+          "name": "全场回放（赛场原声）"
+        },
+        {
           "pID": "969527233",
           "name": "全场精华"
         },
@@ -591,10 +583,6 @@
         {
           "pID": "969526650",
           "name": "第四节"
-        },
-        {
-          "pID": "969528436",
-          "name": "全场回放"
         }
       ]
     },
@@ -691,6 +679,10 @@
         {
           "pID": "969527282",
           "name": "全场回放（陈涛）"
+        },
+        {
+          "pID": "969528837",
+          "name": "全场回放（赛场原声）"
         },
         {
           "pID": "969527059",
@@ -920,7 +912,7 @@
       "title": "辽宁vs安徽",
       "keyword": "11月18日19:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "中国篮球城市冠军联赛",
       "padImg": "",
@@ -944,7 +936,7 @@
       "title": "WCBA",
       "keyword": "11月18日19:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WCBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/15/77TANL06N7L8.png",
@@ -972,7 +964,7 @@
       "title": "WCBA",
       "keyword": "11月18日19:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WCBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/15/77TANION2GA1.jpg",
@@ -1000,7 +992,7 @@
       "title": "舟山VS绍兴",
       "keyword": "11月18日19:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "浙BA",
       "padImg": "",
@@ -1024,7 +1016,7 @@
       "title": "湖州VS嘉兴",
       "keyword": "11月18日19:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "浙BA",
       "padImg": "",
@@ -1048,7 +1040,7 @@
       "title": "CBA俱乐部杯小组赛",
       "keyword": "11月18日20:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "CBA俱乐部杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/16/77TBKO7RASOL.jpg",
@@ -1084,7 +1076,7 @@
       "title": "CBA俱乐部杯小组赛",
       "keyword": "11月18日20:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "烟台八角湾国际体育中心体育馆",
       "competitionName": "CBA俱乐部杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/16/77TBL10KBUBM.png",
