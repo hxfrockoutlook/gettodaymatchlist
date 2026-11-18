@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-18 15:31:42",
+  "updateTime": "2026-11-18 16:02:00",
   "data": [
     {
       "mgdbId": "120000601204",
@@ -340,7 +340,7 @@
     },
     {
       "mgdbId": "120000588429",
-      "pID": "969518657",
+      "pID": "969522095",
       "title": "NBA常规赛",
       "keyword": "11月18日11:30",
       "sportItemId": "2",
@@ -356,6 +356,10 @@
         "time": "11月18日11:30"
       },
       "nodes": [
+        {
+          "pID": "969522095",
+          "name": "全场集锦"
+        },
         {
           "pID": "969520045",
           "name": "全场回放（王琰博）"
@@ -384,7 +388,7 @@
     },
     {
       "mgdbId": "120000588428",
-      "pID": "969521254",
+      "pID": "969522699",
       "title": "NBA常规赛",
       "keyword": "11月18日12:00",
       "sportItemId": "2",
@@ -400,6 +404,22 @@
         "time": "11月18日12:00"
       },
       "nodes": [
+        {
+          "pID": "969522699",
+          "name": "全场集锦"
+        },
+        {
+          "pID": "969523070",
+          "name": "全场回放（庄宁宇、陈正昊、郭维盛、王羽希）"
+        },
+        {
+          "pID": "969522950",
+          "name": "全场回放（莫俊祺）"
+        },
+        {
+          "pID": "969523251",
+          "name": "全场回放（洪荒）"
+        },
         {
           "pID": "969517127",
           "name": "第一节"
@@ -479,7 +499,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/18/77TDEO2VRDLI.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/18/77TDEVE1826S.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "陈垣宇/黄友政冲8强 袁励岑争正赛首胜",
       "modifyTitle": "WTT球星挑战赛马斯喀特站男女单打1/32决赛、双打1/8决赛",
@@ -493,20 +513,20 @@
           "name": "肖扬"
         },
         {
-          "pID": "969463141",
-          "name": "2号桌"
-        },
-        {
-          "pID": "969463048",
-          "name": "1号桌"
-        },
-        {
           "pID": "969463384",
           "name": "4号桌"
         },
         {
           "pID": "969463271",
           "name": "3号桌"
+        },
+        {
+          "pID": "969463048",
+          "name": "1号桌"
+        },
+        {
+          "pID": "969463141",
+          "name": "2号桌"
         },
         {
           "pID": "969514149",
@@ -628,7 +648,7 @@
       "title": "CBA俱乐部杯小组赛",
       "keyword": "11月18日16:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "烟台八角湾国际体育中心体育馆",
       "competitionName": "CBA俱乐部杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/16/77TBKP1RVINN.png",
