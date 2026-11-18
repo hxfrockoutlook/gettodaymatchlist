@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-18 14:01:35",
+  "updateTime": "2026-11-18 14:31:39",
   "data": [
     {
       "mgdbId": "120000601204",
@@ -217,6 +217,10 @@
           "name": "全场回放（邢晨）"
         },
         {
+          "pID": "969518767",
+          "name": "全场回放（英文原声）"
+        },
+        {
           "pID": "969512729",
           "name": "第一节"
         },
@@ -236,26 +240,22 @@
     },
     {
       "mgdbId": "120000601327",
-      "pID": "969506830",
+      "pID": "969463884",
       "title": "陈雨菲领衔 凤凰组合速胜",
       "keyword": "11月18日09:00",
       "sportItemId": "6",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "BWF",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/18/77TDEC7QF5V2.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/18/77TDEJV8CLSQ.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "陈雨菲领衔 凤凰组合速胜",
       "modifyTitle": "中国香港羽毛球公开赛第二日：陈雨菲领衔 凤凰组合速胜",
-      "presenters": "王政 朱胤丞 杨妮娜 鸿昆 余博洋 轩子博 孙宁智",
+      "presenters": "朱胤丞 杨妮娜 鸿昆 余博洋 轩子博 王政 孙宁智",
       "matchInfo": {
         "time": "11月18日09:00"
       },
       "nodes": [
-        {
-          "pID": "969506830",
-          "name": "德鲁夫/马尼夏VS蒋振邦/魏雅欣"
-        },
         {
           "pID": "969463884",
           "name": "1号场地"
@@ -331,6 +331,10 @@
         {
           "pID": "969506354",
           "name": "胡达VS韩悦"
+        },
+        {
+          "pID": "969506830",
+          "name": "德鲁夫/马尼夏VS蒋振邦/魏雅欣"
         }
       ]
     },
@@ -353,6 +357,10 @@
       },
       "nodes": [
         {
+          "pID": "969520045",
+          "name": "全场回放（王琰博）"
+        },
+        {
           "pID": "969516293",
           "name": "第一节"
         },
@@ -363,6 +371,10 @@
         {
           "pID": "969517968",
           "name": "第三节"
+        },
+        {
+          "pID": "969519730",
+          "name": "第四节"
         }
       ]
     },
@@ -1097,6 +1109,19 @@
           "name": "智能字幕"
         }
       ]
+    },
+    {
+      "mgdbId": "300000002585",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "CBA",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png",
+      "modifyTitle": "《球你别说了》名嘴热议CBA俱乐部杯开打",
+      "presenters": "",
+      "matchInfo": {},
+      "nodes": []
     }
   ]
 }
