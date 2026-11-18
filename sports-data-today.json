@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-19 07:01:43",
+  "updateTime": "2026-11-19 07:31:39",
   "data": [
     {
       "mgdbId": "120000601206",
@@ -31,6 +31,18 @@
         {
           "pID": "969537863",
           "name": "26/27赛季斯诺克德国大师赛资格赛第3轮回放：丁俊晖5-3扎克·舒尔第（AI观赛）"
+        },
+        {
+          "pID": "969537969",
+          "name": "26/27赛季斯诺克德国大师赛资格赛第3轮回放：加里·威尔逊5-4吕昊天（赛场原声）"
+        },
+        {
+          "pID": "969538021",
+          "name": "26/27赛季斯诺克德国大师赛资格赛第3轮回放：周跃龙5-3杰克逊·佩奇（赛场原声）"
+        },
+        {
+          "pID": "969538315",
+          "name": "26/27赛季斯诺克德国大师赛资格赛第3轮回放：斯佳辉5-3斯坦·穆迪（赛场原声）"
         }
       ]
     },
@@ -40,7 +52,7 @@
       "title": "NBA常规赛",
       "keyword": "11月19日08:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "安利中心",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/18/77TDH74V81JA.png",
@@ -96,7 +108,7 @@
       "title": "NBA常规赛",
       "keyword": "11月19日08:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "盖恩布里奇体育馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/18/77TDH8C3EBEU.png",
@@ -583,30 +595,6 @@
       ]
     },
     {
-      "mgdbId": "120000601371",
-      "pID": "969471245",
-      "title": "微博竞燃之夜",
-      "keyword": "11月19日14:15",
-      "sportItemId": "8",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "竞燃之夜",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/17/77TCJSEKNKQS.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/11/16/1000000015901069ab2f.png",
-      "pkInfoTitle": "微博竞燃之夜",
-      "modifyTitle": "2026微博竞燃之夜",
-      "presenters": "",
-      "matchInfo": {
-        "time": "11月19日14:15"
-      },
-      "nodes": [
-        {
-          "pID": "969471245",
-          "name": "微博竞燃之夜"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000601224",
       "pID": "969405269",
       "title": "精彩回顾：孙心然 vs 高芙",
@@ -779,6 +767,30 @@
         {
           "pID": "969493596",
           "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000601371",
+      "pID": "969471245",
+      "title": "微博竞燃之夜",
+      "keyword": "11月19日15:30",
+      "sportItemId": "8",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "竞燃之夜",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/17/77TCJSEKNKQS.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/11/16/1000000015901069ab2f.png",
+      "pkInfoTitle": "微博竞燃之夜",
+      "modifyTitle": "2026微博竞燃之夜",
+      "presenters": "",
+      "matchInfo": {
+        "time": "11月19日15:30"
+      },
+      "nodes": [
+        {
+          "pID": "969471245",
+          "name": "微博竞燃之夜"
         }
       ]
     },
