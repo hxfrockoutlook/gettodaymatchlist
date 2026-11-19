@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-19 15:31:47",
+  "updateTime": "2026-11-19 16:01:48",
   "data": [
     {
       "mgdbId": "120000601206",
@@ -653,6 +653,10 @@
           "name": "全场回放（李嘉伟）"
         },
         {
+          "pID": "969551982",
+          "name": "全场回放（英文原声）"
+        },
+        {
           "pID": "969544306",
           "name": "第一节"
         },
@@ -711,6 +715,10 @@
         {
           "pID": "969548093",
           "name": "第四节"
+        },
+        {
+          "pID": "969551715",
+          "name": "全场回放"
         }
       ]
     },
@@ -847,7 +855,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/19/77TEBRAOEINM.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/19/77TEC2OC55RC.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "陈垣宇冲16强 范姝涵迎战长崎美柚",
       "modifyTitle": "WTT球星挑战赛马斯喀特站男女单打1/16决赛、男女双打1/4决赛",
@@ -1020,7 +1028,7 @@
       "title": "CBA俱乐部杯小组赛",
       "keyword": "11月19日16:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "烟台八角湾国际体育中心体育馆",
       "competitionName": "CBA俱乐部杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/17/77TCHSIMAAP1.png",
@@ -1107,6 +1115,30 @@
         {
           "pID": "969405202",
           "name": "8号桌"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000601262",
+      "pID": "969421786",
+      "title": "NBA精彩重播：76人 vs 魔术",
+      "keyword": "11月19日18:00",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "NBA经典赛事",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png",
+      "pkInfoTitle": "NBA精彩重播：76人 vs 魔术",
+      "modifyTitle": "NBA经典赛事",
+      "presenters": "蔡凯臣 马健 霍楠",
+      "matchInfo": {
+        "time": "11月19日18:00"
+      },
+      "nodes": [
+        {
+          "pID": "969421786",
+          "name": "蔡凯臣 马健 霍楠"
         }
       ]
     },
