@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-19 13:31:41",
+  "updateTime": "2026-11-19 14:01:47",
   "data": [
     {
       "mgdbId": "120000601206",
@@ -297,6 +297,10 @@
           "name": "全场回放（贾磊）"
         },
         {
+          "pID": "969547876",
+          "name": "全场回放（英文原声）"
+        },
+        {
           "pID": "969539808",
           "name": "第一节"
         },
@@ -387,6 +391,10 @@
         {
           "pID": "969545095",
           "name": "全场回放（刘芳宇）"
+        },
+        {
+          "pID": "969548460",
+          "name": "全场回放（英文原声）"
         },
         {
           "pID": "969541005",
@@ -508,26 +516,22 @@
     },
     {
       "mgdbId": "120000601328",
-      "pID": "969534189",
-      "title": "陈雨菲亮相 任何组合拿下德比战",
+      "pID": "969533885",
+      "title": "任何组合拿下德比战 陈雨菲止步",
       "keyword": "11月19日09:00",
       "sportItemId": "6",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "BWF",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/19/77TEEJULGQ6D.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/19/77TEBGMVM0OM.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
-      "pkInfoTitle": "陈雨菲亮相 任何组合拿下德比战",
-      "modifyTitle": "中国香港羽毛球公开赛第三日：陈雨菲亮相 任何组合拿下德比战",
-      "presenters": "鸿昆 孙宁智 余博洋 朱胤丞 杨妮娜 轩子博",
+      "pkInfoTitle": "任何组合拿下德比战 陈雨菲止步",
+      "modifyTitle": "中国香港羽毛球公开赛第三日：任何组合拿下德比战 陈雨菲止步",
+      "presenters": "孙宁智 鸿昆 余博洋 朱胤丞 杨妮娜 轩子博",
       "matchInfo": {
         "time": "11月19日09:00"
       },
       "nodes": [
-        {
-          "pID": "969534189",
-          "name": "拉克希塔VS陈雨菲"
-        },
         {
           "pID": "969533885",
           "name": "帕克卡波/沙西丽VS高家炫/吴梦莹"
@@ -603,12 +607,16 @@
         {
           "pID": "969535084",
           "name": "冯彦哲/黄东萍VS黄天启/林秋仙"
+        },
+        {
+          "pID": "969534189",
+          "name": "拉克希塔VS陈雨菲"
         }
       ]
     },
     {
       "mgdbId": "120000588438",
-      "pID": "969547342",
+      "pID": "969548266",
       "title": "NBA常规赛",
       "keyword": "11月19日10:30",
       "sportItemId": "2",
@@ -624,6 +632,14 @@
         "time": "11月19日10:30"
       },
       "nodes": [
+        {
+          "pID": "969548266",
+          "name": "全场集锦"
+        },
+        {
+          "pID": "969548319",
+          "name": "全场回放（李嘉伟）"
+        },
         {
           "pID": "969544306",
           "name": "第一节"
@@ -644,7 +660,7 @@
     },
     {
       "mgdbId": "120000588440",
-      "pID": "969545867",
+      "pID": "969548232",
       "title": "NBA常规赛",
       "keyword": "11月19日11:00",
       "sportItemId": "2",
@@ -661,6 +677,14 @@
       },
       "nodes": [
         {
+          "pID": "969548232",
+          "name": "全场集锦"
+        },
+        {
+          "pID": "969548348",
+          "name": "全场回放（殷文玉）"
+        },
+        {
           "pID": "969544961",
           "name": "第一节"
         },
@@ -671,19 +695,23 @@
         {
           "pID": "969546704",
           "name": "第三节"
+        },
+        {
+          "pID": "969548093",
+          "name": "第四节"
         }
       ]
     },
     {
       "mgdbId": "120000588441",
-      "pID": "969443480",
+      "pID": "969548702",
       "title": "NBA常规赛",
       "keyword": "11月19日11:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "加密中心球馆",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/18/77TDF1C8IA7G.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/19/77TEBG261FGR.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "爵士VS湖人",
       "modifyTitle": "NBA常规赛",
@@ -693,16 +721,24 @@
       },
       "nodes": [
         {
-          "pID": "969443480",
-          "name": "姜帆 闫宇峰 周赫"
+          "pID": "969548702",
+          "name": "全场集锦"
         },
         {
-          "pID": "969443602",
-          "name": "同看太阳 vs 国王"
+          "pID": "969544983",
+          "name": "第一节"
         },
         {
-          "pID": "969443448",
-          "name": "英文原声"
+          "pID": "969545668",
+          "name": "第二节"
+        },
+        {
+          "pID": "969546828",
+          "name": "第三节"
+        },
+        {
+          "pID": "969548125",
+          "name": "第四节"
         }
       ]
     },
@@ -712,7 +748,7 @@
       "title": "精彩回顾：孙心然 vs 布克沙",
       "keyword": "11月19日12:00",
       "sportItemId": "9",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "中国网球公开赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/18/77TDG5SRK2QN.jpg",
@@ -736,13 +772,13 @@
       "title": "男子成年甲组个人全能决赛",
       "keyword": "11月19日14:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "全国青年体操U系列冠军赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/16/77TBLHLTHG6G.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/11/16/1000000015891066d60f.png",
       "pkInfoTitle": "男子成年甲组个人全能决赛",
-      "modifyTitle": "全国青年体操U系列冠军赛Day1",
+      "modifyTitle": "全国青年体操U系列冠军赛Day1：男子成年甲组个人全能决赛",
       "presenters": "",
       "matchInfo": {
         "time": "11月19日14:00"
@@ -1366,15 +1402,15 @@
     {
       "mgdbId": "300000002587",
       "pID": "969499104",
-      "title": "《球你别说了》畅聊CBA俱乐部杯表现",
+      "title": "《球你别说了》名嘴畅聊CBA、NBL差距",
       "sportItemId": "2",
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "CBA",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/30/77QTDOK0QB8R.png",
-      "pkInfoTitle": "《球你别说了》畅聊CBA俱乐部杯表现",
-      "modifyTitle": "《球你别说了》畅聊CBA俱乐部杯表现",
+      "pkInfoTitle": "《球你别说了》名嘴畅聊CBA、NBL差距",
+      "modifyTitle": "《球你别说了》名嘴畅聊CBA、NBL差距",
       "presenters": "庄宁宇 郭维盛 霍楠",
       "matchInfo": {},
       "nodes": [
