@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-19 20:31:57",
+  "updateTime": "2026-11-19 21:01:55",
   "data": [
     {
       "mgdbId": "120000601206",
@@ -373,7 +373,7 @@
     {
       "mgdbId": "120000588436",
       "pID": "969545069",
-      "title": "NBA常规赛",
+      "title": "NBA常��赛",
       "keyword": "11月19日09:00",
       "sportItemId": "2",
       "matchStatus": "2",
@@ -741,6 +741,10 @@
           "name": "全场回放（王睿涓）"
         },
         {
+          "pID": "969560667",
+          "name": "全场回放（四号桌）"
+        },
+        {
           "pID": "969559392",
           "name": "全场回放（英文解说智能字幕）"
         }
@@ -996,8 +1000,8 @@
     },
     {
       "mgdbId": "120000601207",
-      "pID": "969405147",
-      "title": "庞俊旭VS吉米·怀特 张安达出战",
+      "pID": "969405074",
+      "title": "庞俊旭VS吉米·怀特 张安达、范争一晋级",
       "keyword": "11月19日18:00",
       "sportItemId": "8",
       "matchStatus": "1",
@@ -1005,17 +1009,13 @@
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/19/77TEDP4RB7E1.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "庞俊旭VS吉米·怀特 张安达出战",
-      "modifyTitle": "斯诺克德国大师赛资格赛：庞俊旭VS吉米·怀特 张安达出战",
+      "pkInfoTitle": "庞俊旭VS吉米·怀特 张安达、范争一晋级",
+      "modifyTitle": "斯诺克德国大师赛资格赛：庞俊旭VS吉米·怀特 张安达、范争一晋级",
       "presenters": "涂子轩 杨江源",
       "matchInfo": {
         "time": "11月19日18:00"
       },
       "nodes": [
-        {
-          "pID": "969405147",
-          "name": "6号桌"
-        },
         {
           "pID": "969405074",
           "name": "2号桌"
@@ -1033,24 +1033,28 @@
           "name": "4号桌"
         },
         {
-          "pID": "969405280",
-          "name": "涂子轩"
-        },
-        {
           "pID": "969405240",
           "name": "杨江源"
         },
         {
-          "pID": "969405083",
-          "name": "3号桌"
+          "pID": "969405147",
+          "name": "6号桌"
         },
         {
           "pID": "969405202",
           "name": "8号桌"
         },
         {
+          "pID": "969405280",
+          "name": "涂子轩"
+        },
+        {
           "pID": "969405063",
           "name": "1号桌"
+        },
+        {
+          "pID": "969405083",
+          "name": "3号桌"
         }
       ]
     },
@@ -1445,7 +1449,7 @@
       "title": "曼谷亚足联年度颁奖典礼",
       "keyword": "11月19日21:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "亚冠精英",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/13/77T8T4J0E2NH.jpg",
@@ -1473,10 +1477,10 @@
       "title": "黄友政PK普卡 李天阳、袁励岑冲16强",
       "keyword": "11月19日21:00",
       "sportItemId": "7",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/19/77TEBHMMUJRN.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/19/77TEDJ5VE73E.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "黄友政PK普卡 李天阳、袁励岑冲16强",
       "modifyTitle": "WTT球星挑战赛马斯喀特站男女单打1/16决赛、男女双打半决赛",
@@ -1498,12 +1502,12 @@
           "name": "2号桌"
         },
         {
-          "pID": "969463439",
-          "name": "3号桌"
-        },
-        {
           "pID": "969463485",
           "name": "4号桌"
+        },
+        {
+          "pID": "969463439",
+          "name": "3号桌"
         },
         {
           "pID": "969514052",
