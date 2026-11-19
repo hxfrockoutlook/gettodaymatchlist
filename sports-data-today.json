@@ -1,11 +1,11 @@
 {
   "success": true,
-  "updateTime": "2026-11-19 11:31:41",
+  "updateTime": "2026-11-19 12:01:40",
   "data": [
     {
       "mgdbId": "120000601206",
       "pID": "969404916",
-      "title": "丁俊晖、周跃龙、斯佳辉晋级",
+      "title": "丁俊晖错失147！周跃龙、斯佳辉晋级",
       "keyword": "11月19日03:00",
       "sportItemId": "8",
       "matchStatus": "2",
@@ -13,8 +13,8 @@
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/17/77TCHSA9D18S.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "丁俊晖、周跃龙、斯佳辉晋级",
-      "modifyTitle": "斯诺克德国大师赛资格赛：丁俊晖、周跃龙、斯佳辉晋级",
+      "pkInfoTitle": "丁俊晖错失147！周跃龙、斯佳辉晋级",
+      "modifyTitle": "斯诺克德国大师赛资格赛：丁俊晖错失147！周跃龙、斯佳辉晋级",
       "presenters": "朱峰立 卢正浩",
       "matchInfo": {
         "time": "11月19日03:00"
@@ -64,7 +64,7 @@
     },
     {
       "mgdbId": "120000588430",
-      "pID": "969542824",
+      "pID": "969544789",
       "title": "NBA常规赛",
       "keyword": "11月19日08:00",
       "sportItemId": "2",
@@ -80,6 +80,10 @@
         "time": "11月19日08:00"
       },
       "nodes": [
+        {
+          "pID": "969544789",
+          "name": "全场集锦"
+        },
         {
           "pID": "969539297",
           "name": "第一节"
@@ -252,7 +256,7 @@
     },
     {
       "mgdbId": "120000588434",
-      "pID": "969543301",
+      "pID": "969544037",
       "title": "NBA常规赛",
       "keyword": "11月19日08:30",
       "sportItemId": "2",
@@ -268,6 +272,14 @@
         "time": "11月19日08:30"
       },
       "nodes": [
+        {
+          "pID": "969544037",
+          "name": "全场集锦"
+        },
+        {
+          "pID": "969544016",
+          "name": "全场回放（贾磊）"
+        },
         {
           "pID": "969539808",
           "name": "第一节"
@@ -309,6 +321,10 @@
           "name": "全场集锦"
         },
         {
+          "pID": "969543679",
+          "name": "全场回放（吴博文）"
+        },
+        {
           "pID": "969539749",
           "name": "第一节"
         },
@@ -328,14 +344,14 @@
     },
     {
       "mgdbId": "120000588436",
-      "pID": "969443045",
-      "title": "NBA常规赛",
+      "pID": "969545069",
+      "title": "NBA���规赛",
       "keyword": "11月19日09:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "冰沙国王中心",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/19/77TEDO43MBF0.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/19/77TEEC7SBF8C.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "活塞VS鹈鹕",
       "modifyTitle": "NBA常规赛",
@@ -345,26 +361,30 @@
       },
       "nodes": [
         {
-          "pID": "969443045",
-          "name": "刘芳宇"
+          "pID": "969545069",
+          "name": "全场集锦"
         },
         {
-          "pID": "969443308",
-          "name": "同看勇士vs独行侠"
+          "pID": "969541005",
+          "name": "第一节"
         },
         {
-          "pID": "969442573",
-          "name": "同看老鹰vs雷霆"
+          "pID": "969541886",
+          "name": "第二节"
         },
         {
-          "pID": "969443019",
-          "name": "英文原声"
+          "pID": "969543576",
+          "name": "第三节"
+        },
+        {
+          "pID": "969544659",
+          "name": "第四节"
         }
       ]
     },
     {
       "mgdbId": "120000588437",
-      "pID": "969542894",
+      "pID": "969544810",
       "title": "NBA常规赛",
       "keyword": "11月19日09:00",
       "sportItemId": "2",
@@ -381,6 +401,14 @@
       },
       "nodes": [
         {
+          "pID": "969544810",
+          "name": "全场集锦"
+        },
+        {
+          "pID": "969544599",
+          "name": "全场回放（罗森）"
+        },
+        {
           "pID": "969540743",
           "name": "第一节"
         },
@@ -391,16 +419,20 @@
         {
           "pID": "969543221",
           "name": "第三节"
+        },
+        {
+          "pID": "969544191",
+          "name": "第四节"
         }
       ]
     },
     {
       "mgdbId": "120000588439",
-      "pID": "969443308",
+      "pID": "969545004",
       "title": "NBA常规赛",
       "keyword": "11月19日09:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "美国航线中心体育馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/19/77TEE9UI34NU.jpg",
@@ -413,32 +445,36 @@
       },
       "nodes": [
         {
-          "pID": "969443308",
-          "name": "杨健 苏群 小七"
+          "pID": "969545004",
+          "name": "全场集锦"
         },
         {
-          "pID": "969442573",
-          "name": "同看老鹰vs雷霆"
+          "pID": "969544924",
+          "name": "全场回放（拜月宁）"
         },
         {
-          "pID": "969443045",
-          "name": "同看活塞vs鹈鹕"
+          "pID": "969545050",
+          "name": "全场回放（洪荒）"
         },
         {
-          "pID": "969443277",
-          "name": "拜月宁"
+          "pID": "969540824",
+          "name": "第一节"
         },
         {
-          "pID": "969443191",
-          "name": "洪荒"
+          "pID": "969541968",
+          "name": "第二节"
         },
         {
-          "pID": "969443158",
-          "name": "英文原声"
+          "pID": "969543536",
+          "name": "第三节"
         },
         {
-          "pID": "969462218",
-          "name": "智能字幕"
+          "pID": "969544603",
+          "name": "第四节"
+        },
+        {
+          "pID": "969545112",
+          "name": "全场回放"
         }
       ]
     },
@@ -565,6 +601,10 @@
           "name": "李嘉伟"
         },
         {
+          "pID": "969443602",
+          "name": "太阳vs国王"
+        },
+        {
           "pID": "969442788",
           "name": "英文原声"
         },
@@ -644,7 +684,7 @@
       "title": "精彩回顾：孙心然 vs 布克沙",
       "keyword": "11月19日12:00",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "中国网球公开赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/18/77TDG5SRK2QN.jpg",
@@ -929,7 +969,7 @@
     {
       "mgdbId": "120000601207",
       "pID": "969405280",
-      "title": "张安达、袁思俊、庞俊旭出战",
+      "title": "庞俊旭VS吉米·怀特 张安达出战",
       "keyword": "11月19日18:00",
       "sportItemId": "8",
       "matchStatus": "0",
@@ -937,8 +977,8 @@
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/19/77TEDP4RB7E1.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "张安达、袁思俊、庞俊旭出战",
-      "modifyTitle": "斯诺克德国大师赛资格赛：张安达、袁思俊、庞俊旭出战",
+      "pkInfoTitle": "庞俊旭VS吉米·怀特 张安达出战",
+      "modifyTitle": "斯诺克德国大师赛资格赛：庞俊旭VS吉米·怀特 张安达出战",
       "presenters": "涂子轩 杨江源",
       "matchInfo": {
         "time": "11月19日18:00"
