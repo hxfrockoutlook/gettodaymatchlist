@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-19 20:01:56",
+  "updateTime": "2026-11-19 20:31:57",
   "data": [
     {
       "mgdbId": "120000601206",
@@ -737,6 +737,10 @@
       },
       "nodes": [
         {
+          "pID": "969560020",
+          "name": "全场回放（王睿涓）"
+        },
+        {
           "pID": "969559392",
           "name": "全场回放（英文解说智能字幕）"
         }
@@ -1025,10 +1029,6 @@
           "name": "7号桌"
         },
         {
-          "pID": "969405202",
-          "name": "8号桌"
-        },
-        {
           "pID": "969405104",
           "name": "4号桌"
         },
@@ -1041,12 +1041,16 @@
           "name": "杨江源"
         },
         {
-          "pID": "969405063",
-          "name": "1号桌"
-        },
-        {
           "pID": "969405083",
           "name": "3号桌"
+        },
+        {
+          "pID": "969405202",
+          "name": "8号桌"
+        },
+        {
+          "pID": "969405063",
+          "name": "1号桌"
         }
       ]
     },
@@ -1076,7 +1080,7 @@
     },
     {
       "mgdbId": "300000002582",
-      "pID": "969558328",
+      "pID": "969559952",
       "title": "《篮色狂想》第五期",
       "sportItemId": "2",
       "matchStatus": "2",
@@ -1090,19 +1094,15 @@
       "matchInfo": {},
       "nodes": [
         {
-          "pID": "969558328",
-          "name": "倾向团队型！小丁：和杰特配合很舒服 外援不能只进攻不防守"
-        },
-        {
-          "pID": "969512789",
-          "name": "篮色狂想"
+          "pID": "969559952",
+          "name": "全场回放（篮色狂想第5期）"
         }
       ]
     },
     {
       "mgdbId": "120000601328",
-      "pID": "969534381",
-      "title": "梁王组合晚间亮相 陈雨菲无缘八强",
+      "pID": "969464158",
+      "title": "梁王组合逆转 陈雨菲无缘八强",
       "keyword": "11月19日18:30",
       "sportItemId": "6",
       "matchStatus": "1",
@@ -1110,16 +1110,16 @@
       "competitionName": "BWF",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/19/77TEC0PBOELH.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
-      "pkInfoTitle": "梁王组合晚间亮相 陈雨菲无缘八强",
-      "modifyTitle": "中国香港羽毛球公开赛第三日：梁王组合晚间亮相 陈雨菲无缘八强",
-      "presenters": "鸿昆 朱胤丞 杨妮娜 轩子博 孙宁智 余博洋",
+      "pkInfoTitle": "梁王组合逆转 陈雨菲无缘八强",
+      "modifyTitle": "中国香港羽毛球公开赛第三日：梁王组合逆转 陈雨菲无缘八强",
+      "presenters": "朱胤丞 杨妮娜 轩子博 鸿昆 孙宁智 余博洋",
       "matchInfo": {
         "time": "11月19日18:30"
       },
       "nodes": [
         {
-          "pID": "969534381",
-          "name": "谢炜杰/张御宇VS梁伟铿/王昶"
+          "pID": "969464158",
+          "name": "3号场地"
         },
         {
           "pID": "969464073",
@@ -1128,10 +1128,6 @@
         {
           "pID": "969464115",
           "name": "2号场地"
-        },
-        {
-          "pID": "969464158",
-          "name": "3号场地"
         },
         {
           "pID": "969464253",
@@ -1192,6 +1188,10 @@
         {
           "pID": "969535072",
           "name": "林俊易VS朱轩辰"
+        },
+        {
+          "pID": "969534381",
+          "name": "谢炜杰/张御宇VS梁伟铿/王昶"
         }
       ]
     },
@@ -1206,7 +1206,7 @@
       "competitionName": "中国网球公开赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/18/77TDGAM44QP7.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/9/25/10000000111010617861.jpg",
-      "pkInfoTitle": "精彩回顾：郑钦文 vs 查拉���娃",
+      "pkInfoTitle": "精彩回顾：郑钦文 vs 查拉耶娃",
       "modifyTitle": "中网女单1/8决赛精彩回顾：郑钦文 vs 查拉耶娃",
       "presenters": "",
       "matchInfo": {
@@ -1340,7 +1340,7 @@
       "matchStatus": "1",
       "matchField": "洪山体育馆",
       "competitionName": "CBA俱乐部杯",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/17/77TCHR0ST3MC.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/19/77TEDE58PBRM.jpg",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/30/77QTFHTMB7SI.png",
       "pkInfoTitle": "上海久事vs四川锦城",
       "modifyTitle": "CBA俱乐部杯小组赛",
