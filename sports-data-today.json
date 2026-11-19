@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-19 18:31:41",
+  "updateTime": "2026-11-19 19:01:52",
   "data": [
     {
       "mgdbId": "120000601206",
@@ -741,10 +741,6 @@
           "name": "王睿涓"
         },
         {
-          "pID": "969463248",
-          "name": "2号桌"
-        },
-        {
           "pID": "969463308",
           "name": "4号桌"
         },
@@ -755,6 +751,10 @@
         {
           "pID": "969463279",
           "name": "3号桌"
+        },
+        {
+          "pID": "969463248",
+          "name": "2号桌"
         },
         {
           "pID": "969514097",
@@ -815,6 +815,10 @@
         {
           "pID": "969556326",
           "name": "第四节"
+        },
+        {
+          "pID": "969557843",
+          "name": "全场回放"
         }
       ]
     },
@@ -983,6 +987,18 @@
         {
           "pID": "969557319",
           "name": "第四节"
+        },
+        {
+          "pID": "969557619",
+          "name": "全场回放（李嘉伟）"
+        },
+        {
+          "pID": "969557643",
+          "name": "全场回放（荣浩达）"
+        },
+        {
+          "pID": "969557665",
+          "name": "全场回放（邵化谦、李根、季孟年）"
         }
       ]
     },
@@ -1013,6 +1029,18 @@
           "name": "2号桌"
         },
         {
+          "pID": "969405119",
+          "name": "5号桌"
+        },
+        {
+          "pID": "969405173",
+          "name": "7号桌"
+        },
+        {
+          "pID": "969405202",
+          "name": "8号桌"
+        },
+        {
           "pID": "969405280",
           "name": "涂子轩"
         },
@@ -1025,24 +1053,12 @@
           "name": "1号桌"
         },
         {
-          "pID": "969405083",
-          "name": "3号桌"
-        },
-        {
           "pID": "969405104",
           "name": "4号桌"
         },
         {
-          "pID": "969405119",
-          "name": "5号桌"
-        },
-        {
-          "pID": "969405173",
-          "name": "7号桌"
-        },
-        {
-          "pID": "969405202",
-          "name": "8号桌"
+          "pID": "969405083",
+          "name": "3号桌"
         }
       ]
     },
@@ -1193,7 +1209,7 @@
       "title": "精彩回顾：郑钦文 vs 查拉耶娃",
       "keyword": "11月19日19:00",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "中国网球公开赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/18/77TDGAM44QP7.jpg",
@@ -1214,7 +1230,7 @@
     {
       "mgdbId": "120000601347",
       "pID": "969469446",
-      "title": "青年组单项决赛",
+      "title": "青年组单项决��",
       "keyword": "11月19日19:00",
       "sportItemId": "8",
       "matchStatus": "1",
@@ -1404,7 +1420,7 @@
       "matchStatus": "1",
       "matchField": "琼海市文化体育中心体育馆",
       "competitionName": "CBA俱乐部杯",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/19/77TECRPU8T13.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/19/77TECVEGJEF3.jpg",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/30/77QTFHTMB7SI.png",
       "pkInfoTitle": "广东东阳光vs浙江稠州金租",
       "modifyTitle": "CBA俱乐部杯小组赛",
@@ -1521,6 +1537,30 @@
         {
           "pID": "969499104",
           "name": "庄宁宇 郭维盛 霍楠"
+        }
+      ]
+    },
+    {
+      "mgdbId": "WY900018618",
+      "pID": "WY900018618",
+      "title": "聚焦国内足球！19时播央视足球之夜",
+      "keyword": "11月19日19:00",
+      "sportItemId": "",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "足球盛宴",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/07/77C1PNVU5L46.jpg",
+      "competitionLogo": "",
+      "pkInfoTitle": "聚焦国内足球！19时播央视足球之夜",
+      "modifyTitle": "聚焦国内足球！19时播央视足球之夜",
+      "presenters": "",
+      "matchInfo": {
+        "time": "11月19日19:00"
+      },
+      "nodes": [
+        {
+          "pID": "969525318",
+          "name": "CCTV5"
         }
       ]
     }
