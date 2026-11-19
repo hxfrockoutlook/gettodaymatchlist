@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-19 16:31:54",
+  "updateTime": "2026-11-19 17:01:49",
   "data": [
     {
       "mgdbId": "120000601206",
@@ -695,40 +695,12 @@
       ]
     },
     {
-      "mgdbId": "120000601347",
-      "pID": "969469418",
-      "title": "男子成年甲组个人全能决赛",
-      "keyword": "11月19日14:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "全国青年体操U系列冠军赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/16/77TBLHLTHG6G.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/11/16/1000000015891066d60f.png",
-      "pkInfoTitle": "男子成年甲组个人全能决赛",
-      "modifyTitle": "全国青年体操U系列冠军赛Day1：男子成年甲组个人全能决赛",
-      "presenters": "",
-      "matchInfo": {
-        "time": "11月19日14:00"
-      },
-      "nodes": [
-        {
-          "pID": "969469418",
-          "name": "清流播出"
-        },
-        {
-          "pID": "969469446",
-          "name": "清流播出"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000601224",
       "pID": "969405269",
       "title": "精彩回顾：孙心然 vs 高芙",
       "keyword": "11月19日15:00",
       "sportItemId": "9",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "中国网球公开赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/18/77TDG6997TL4.jpg",
@@ -755,7 +727,7 @@
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/19/77TEC9G1IIEH.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/19/77TECDFBVLGQ.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
       "pkInfoTitle": "陈垣宇冲16强 范姝涵迎战长崎美柚",
       "modifyTitle": "WTT球星挑战赛马斯喀特站男女单打1/16决赛、男女双打1/4决赛",
@@ -769,20 +741,20 @@
           "name": "王睿涓"
         },
         {
-          "pID": "969463248",
-          "name": "2号桌"
-        },
-        {
           "pID": "969463193",
           "name": "1号桌"
         },
         {
-          "pID": "969463308",
-          "name": "4号桌"
+          "pID": "969463248",
+          "name": "2号桌"
         },
         {
           "pID": "969463279",
           "name": "3号桌"
+        },
+        {
+          "pID": "969463308",
+          "name": "4号桌"
         },
         {
           "pID": "969514097",
@@ -1180,6 +1152,34 @@
         {
           "pID": "969405296",
           "name": "詹俊、王蔷"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000601347",
+      "pID": "969469446",
+      "title": "青年组单项决赛",
+      "keyword": "11月19日19:00",
+      "sportItemId": "8",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "全国青年体操U系列冠军赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/16/77TBLHLTHG6G.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/11/16/1000000015891066d60f.png",
+      "pkInfoTitle": "青年组单项决赛",
+      "modifyTitle": "全国青年体操U系列冠军赛Day1：青年���单项决赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "11月19日19:00"
+      },
+      "nodes": [
+        {
+          "pID": "969469446",
+          "name": "清流播出"
+        },
+        {
+          "pID": "969469418",
+          "name": "清流播出"
         }
       ]
     },
