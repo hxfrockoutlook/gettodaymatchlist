@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-20 17:31:38",
+  "updateTime": "2026-11-20 18:02:18",
   "data": [
     {
       "mgdbId": "120000601133",
@@ -206,7 +206,7 @@
         },
         {
           "pID": "969573969",
-          "name": "第���节"
+          "name": "第三节"
         },
         {
           "pID": "969575404",
@@ -289,8 +289,8 @@
       },
       "nodes": [
         {
-          "pID": "969405369",
-          "name": "鸿昆、刘钟鸣"
+          "pID": "969588002",
+          "name": "2026中国网球公开赛男单第1轮精彩回顾：德约科维奇vs博尔热斯"
         }
       ]
     },
@@ -324,11 +324,11 @@
     },
     {
       "mgdbId": "120000601294",
-      "pID": "969463622",
+      "pID": "969463528",
       "title": "袁励岑3-2李天阳 陈垣宇晋级八强",
       "keyword": "11月20日14:00",
       "sportItemId": "7",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "WTT",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/20/77TF9C7172T3.jpg",
@@ -341,16 +341,20 @@
       },
       "nodes": [
         {
-          "pID": "969463622",
-          "name": "肖扬"
+          "pID": "969587340",
+          "name": "全场回放（肖扬）"
         },
         {
-          "pID": "969463528",
-          "name": "1号桌"
+          "pID": "969586440",
+          "name": "全场回放（三号桌）"
         },
         {
-          "pID": "969514008",
-          "name": "智能字幕"
+          "pID": "969585992",
+          "name": "全场回放（四号桌）"
+        },
+        {
+          "pID": "969587500",
+          "name": "全场回放（AI观赛）"
         }
       ]
     },
@@ -407,19 +411,35 @@
         {
           "pID": "969586101",
           "name": "第三节"
+        },
+        {
+          "pID": "969587099",
+          "name": "第四节"
+        },
+        {
+          "pID": "969587552",
+          "name": "全场回放（吴博文）"
+        },
+        {
+          "pID": "969587603",
+          "name": "全场回放（洪荒）"
+        },
+        {
+          "pID": "969587691",
+          "name": "全场回放（连睿、周鹏）"
         }
       ]
     },
     {
       "mgdbId": "120000596694",
-      "pID": "969512691",
+      "pID": "969587164",
       "title": "CBA俱乐部杯小组赛",
       "keyword": "11月20日15:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "琼海市文化体育中心体育馆",
       "competitionName": "CBA俱乐部杯",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/20/77TF93FIL6LE.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/20/77TF9O2BADPA.png",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/30/77QTFHTMB7SI.png",
       "pkInfoTitle": "香港金牛vs广州智都集团",
       "modifyTitle": "CBA俱乐部杯小组赛",
@@ -429,26 +449,26 @@
       },
       "nodes": [
         {
-          "pID": "969512691",
-          "name": "李天宇 于德豪"
+          "pID": "969584142",
+          "name": "第一节"
         },
         {
-          "pID": "969493950",
-          "name": "香港主队"
+          "pID": "969585478",
+          "name": "第二节"
         },
         {
-          "pID": "969493961",
-          "name": "广州主队"
+          "pID": "969586851",
+          "name": "第三节"
         },
         {
-          "pID": "969493983",
-          "name": "赛场原声"
+          "pID": "969588008",
+          "name": "第四节"
         }
       ]
     },
     {
       "mgdbId": "120000596695",
-      "pID": "969584235",
+      "pID": "969587601",
       "title": "CBA俱乐部杯小组赛",
       "keyword": "11月20日15:30",
       "sportItemId": "2",
@@ -464,6 +484,26 @@
         "time": "11月20日15:30"
       },
       "nodes": [
+        {
+          "pID": "969587601",
+          "name": "全场集锦"
+        },
+        {
+          "pID": "969587505",
+          "name": "全场回放（孙博、曾令旭）"
+        },
+        {
+          "pID": "969587427",
+          "name": "全场回放（石楷文）"
+        },
+        {
+          "pID": "969587546",
+          "name": "全场回放（王港）"
+        },
+        {
+          "pID": "969587721",
+          "name": "全场精华"
+        },
         {
           "pID": "969584235",
           "name": "第一节"
@@ -488,7 +528,7 @@
       "title": "CBA俱乐部杯小组赛",
       "keyword": "11月20日16:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "烟台八角湾国际体育中心体育馆",
       "competitionName": "CBA俱乐部杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/18/77TDG3GJ4MQ3.jpg",
@@ -501,24 +541,20 @@
       },
       "nodes": [
         {
-          "pID": "969584180",
-          "name": "伤病远离球场！孙浩钦：贺希宁在队内对我非常照顾 希望他早日康复"
+          "pID": "969584794",
+          "name": "第一节"
         },
         {
-          "pID": "969493544",
-          "name": "邵化谦 季孟年"
+          "pID": "969585523",
+          "name": "第二节"
         },
         {
-          "pID": "969493606",
-          "name": "玄鸟主队"
+          "pID": "969586770",
+          "name": "第三节"
         },
         {
-          "pID": "969493615",
-          "name": "深圳主队"
-        },
-        {
-          "pID": "969493638",
-          "name": "赛场原声"
+          "pID": "969587976",
+          "name": "第四节"
         }
       ]
     },
@@ -528,7 +564,7 @@
       "title": "马尼拉太阳神一日双赛",
       "keyword": "11月20日18:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "MLP亚洲匹克球超级联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/18/77TDGT96BS8E.png",
@@ -539,12 +575,7 @@
       "matchInfo": {
         "time": "11月20日18:00"
       },
-      "nodes": [
-        {
-          "pID": "969393050",
-          "name": "清流播出"
-        }
-      ]
+      "nodes": []
     },
     {
       "mgdbId": "120000601263",
@@ -552,7 +583,7 @@
       "title": "NBA精彩重播：勇士 vs 灰熊",
       "keyword": "11月20日18:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA经典赛事",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/20/77TFBICIUC55.png",
@@ -576,7 +607,7 @@
       "title": "娃卉组合止步 王祉怡两局险胜",
       "keyword": "11月20日18:30",
       "sportItemId": "6",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "BWF",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/20/77TF97IB1061.png",
@@ -617,24 +648,20 @@
           "name": "安东森VS朱轩辰"
         },
         {
-          "pID": "969565507",
-          "name": "福岛由纪/松本麻佑VS阿玛莉亚/拉马丹蒂"
-        },
-        {
           "pID": "969565750",
           "name": "何济霆/任翔宇VS卡尔南多/马丁"
         },
         {
-          "pID": "969565763",
-          "name": "加西亚/露西娅VS德扬/费利沙"
-        },
-        {
-          "pID": "969565770",
-          "name": "高家炫/吴梦莹VS蒋振邦/魏雅欣"
-        },
-        {
           "pID": "969565785",
           "name": "王曦曦/盖骆VS刘子瑜/安琪拉"
+        },
+        {
+          "pID": "969565507",
+          "name": "福岛由纪/松本麻佑VS阿玛莉亚/拉马丹蒂"
+        },
+        {
+          "pID": "969565763",
+          "name": "加西亚/露西娅VS德扬/费利沙"
         },
         {
           "pID": "969564807",
@@ -663,6 +690,10 @@
         {
           "pID": "969565271",
           "name": "姜珉赫/李钟民VS梁伟铿/王昶"
+        },
+        {
+          "pID": "969565770",
+          "name": "高家炫/吴梦莹VS蒋振邦/魏雅欣"
         }
       ]
     },
@@ -837,6 +868,14 @@
         {
           "pID": "969494002",
           "name": "邵化谦 季孟年"
+        },
+        {
+          "pID": "969512706",
+          "name": "同看浙江vs山东"
+        },
+        {
+          "pID": "969494137",
+          "name": "同看青岛vs上海"
         },
         {
           "pID": "969494024",
@@ -1031,6 +1070,14 @@
           "name": "连睿 周鹏"
         },
         {
+          "pID": "969494241",
+          "name": "同看辽宁vs山西"
+        },
+        {
+          "pID": "969494002",
+          "name": "同看北京vs浙证"
+        },
+        {
           "pID": "969494173",
           "name": "青岛主队"
         },
@@ -1067,6 +1114,14 @@
           "name": "李天宇 于德豪"
         },
         {
+          "pID": "969494241",
+          "name": "同看辽宁vs山西"
+        },
+        {
+          "pID": "969494002",
+          "name": "同看北京vs浙证"
+        },
+        {
           "pID": "969494367",
           "name": "浙江主队"
         },
@@ -1101,6 +1156,14 @@
         {
           "pID": "969494241",
           "name": "孙博 曾令旭"
+        },
+        {
+          "pID": "969494137",
+          "name": "同看青岛vs上海"
+        },
+        {
+          "pID": "969512706",
+          "name": "同看浙江vs山东"
         },
         {
           "pID": "969494266",
