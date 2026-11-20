@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-20 07:31:37",
+  "updateTime": "2026-11-20 08:01:43",
   "data": [
     {
       "mgdbId": "120000601133",
@@ -43,7 +43,7 @@
       "pID": "968817826",
       "title": "咪咕体育日报 第247期",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "咪咕体育日报",
       "padImg": "",
@@ -224,7 +224,7 @@
     },
     {
       "mgdbId": "120000601330",
-      "pID": "969464347",
+      "pID": "969564807",
       "title": "芳新组合出战 王祉怡PK瓦尔达尼",
       "keyword": "11月20日11:00",
       "sportItemId": "6",
@@ -240,6 +240,10 @@
         "time": "11月20日11:00"
       },
       "nodes": [
+        {
+          "pID": "969564807",
+          "name": "李文珊VS因达农"
+        },
         {
           "pID": "969464347",
           "name": "1号场地"
@@ -263,10 +267,6 @@
         {
           "pID": "969469433",
           "name": "智能字幕"
-        },
-        {
-          "pID": "969564807",
-          "name": "李文珊VS因达农"
         },
         {
           "pID": "969564889",
@@ -353,7 +353,7 @@
       "competitionName": "HADO世冠杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/18/77TDH7SP7I0F.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/11/16/100000001587106f1e5d.png",
-      "pkInfoTitle": "全球公开赛 3v3热血开战",
+      "pkInfoTitle": "全球���开赛 3v3热血开战",
       "modifyTitle": "HADO世冠杯Day1：全球公开赛 3v3全年龄组热血开战",
       "presenters": "",
       "matchInfo": {
