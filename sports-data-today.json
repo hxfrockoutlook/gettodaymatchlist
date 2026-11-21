@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-21 12:32:20",
+  "updateTime": "2026-11-21 13:02:39",
   "data": [
     {
       "mgdbId": "120000601134",
@@ -31,6 +31,10 @@
         {
           "pID": "969606445",
           "name": "2026维罗纳季后赛GCL超级杯半决赛全场回放（赛场原声）"
+        },
+        {
+          "pID": "969615271",
+          "name": "2026维罗纳季后赛GCL超级杯半决赛全场回放（智能字幕）"
         }
       ]
     },
@@ -281,6 +285,10 @@
           "name": "全场回放（张泽欣）"
         },
         {
+          "pID": "969614773",
+          "name": "全场回放（英文原声）"
+        },
+        {
           "pID": "969607942",
           "name": "第一节"
         },
@@ -300,7 +308,7 @@
     },
     {
       "mgdbId": "120000590168",
-      "pID": "969610861",
+      "pID": "969615297",
       "title": "NBANBA杯",
       "keyword": "11月21日08:30",
       "sportItemId": "2",
@@ -316,6 +324,10 @@
         "time": "11月21日08:30"
       },
       "nodes": [
+        {
+          "pID": "969615297",
+          "name": "全场集锦"
+        },
         {
           "pID": "969612201",
           "name": "全场回放（王冠证）"
@@ -344,7 +356,7 @@
     },
     {
       "mgdbId": "120000590169",
-      "pID": "969611958",
+      "pID": "969614410",
       "title": "NBANBA杯",
       "keyword": "11月21日09:00",
       "sportItemId": "2",
@@ -360,6 +372,10 @@
         "time": "11月21日09:00"
       },
       "nodes": [
+        {
+          "pID": "969614410",
+          "name": "全场集锦"
+        },
         {
           "pID": "969614005",
           "name": "全场回放（吴博文）"
@@ -527,30 +543,6 @@
       ]
     },
     {
-      "mgdbId": "120000601537",
-      "pID": "969497310",
-      "title": "复合弓、反曲弓多项金牌争夺",
-      "keyword": "11月21日10:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "射箭亚洲杯",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/18/77TDECC38ARM.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/11/17/10000000159110662fb8.png",
-      "pkInfoTitle": "复合弓、反曲弓多项金牌争夺",
-      "modifyTitle": "射箭亚洲杯：各项目决赛及颁奖仪式",
-      "presenters": "",
-      "matchInfo": {
-        "time": "11月21日10:00"
-      },
-      "nodes": [
-        {
-          "pID": "969497310",
-          "name": "清流播出"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000590171",
       "pID": "969442192",
       "title": "NBANBA杯",
@@ -587,7 +579,7 @@
       "matchStatus": "1",
       "matchField": "加密中心球馆",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/20/77TFB811V3OO.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/21/77TG8UL503TT.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "国王VS湖人",
       "modifyTitle": "NBANBA杯",
@@ -702,6 +694,30 @@
       "nodes": [
         {
           "pID": "969486681",
+          "name": "清流播出"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000601537",
+      "pID": "969497310",
+      "title": "复合弓、反曲弓多项金牌争夺",
+      "keyword": "11月21日14:00",
+      "sportItemId": "8",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "射箭亚洲杯",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/18/77TDECC38ARM.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/11/17/10000000159110662fb8.png",
+      "pkInfoTitle": "复合弓、反曲弓多项金牌争夺",
+      "modifyTitle": "射箭亚洲杯：复合弓、反曲弓各项目决赛及颁奖仪式",
+      "presenters": "",
+      "matchInfo": {
+        "time": "11月21日14:00"
+      },
+      "nodes": [
+        {
+          "pID": "969497310",
           "name": "清流播出"
         }
       ]
@@ -2039,7 +2055,7 @@
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/20/77TFB80VIVGR.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "白雨露出战 吴安仪PK赵翰洋",
-      "modifyTitle": "斯诺克英锦赛资格赛第一轮：白雨露出战 吴安仪PK赵翰洋",
+      "modifyTitle": "斯��克英锦赛资格赛第一轮：白雨露出战 吴安仪PK赵翰洋",
       "presenters": "柏林 朱峰立",
       "matchInfo": {
         "time": "11月21日22:30"
@@ -2318,25 +2334,6 @@
           "name": "赛场原声"
         }
       ]
-    },
-    {
-      "mgdbId": "120000601799",
-      "pID": "120000601799",
-      "title": "2026峨眉山越野挑战赛（冬季）",
-      "keyword": "11月21日16:30",
-      "sportItemId": "",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "跑步系列赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/20/77TF9GQJMN65.png",
-      "competitionLogo": "",
-      "pkInfoTitle": "2026峨眉山越野挑战赛（冬季）",
-      "modifyTitle": "2026峨眉山越野挑战赛（冬季）",
-      "presenters": "",
-      "matchInfo": {
-        "time": "11月21日16:30"
-      },
-      "nodes": []
     }
   ]
 }
