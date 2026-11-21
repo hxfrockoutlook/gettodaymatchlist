@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-21 12:02:39",
+  "updateTime": "2026-11-21 12:32:20",
   "data": [
     {
       "mgdbId": "120000601134",
@@ -233,6 +233,10 @@
           "name": "全场集锦"
         },
         {
+          "pID": "969613414",
+          "name": "全场回放（金哲豪）"
+        },
+        {
           "pID": "969608254",
           "name": "第一节"
         },
@@ -317,12 +321,16 @@
           "name": "全场回放（王冠证）"
         },
         {
+          "pID": "969614247",
+          "name": "全场回放（英文原声）"
+        },
+        {
           "pID": "969608236",
           "name": "第一节"
         },
         {
           "pID": "969609232",
-          "name": "第���节"
+          "name": "第二节"
         },
         {
           "pID": "969610655",
@@ -353,6 +361,10 @@
       },
       "nodes": [
         {
+          "pID": "969614005",
+          "name": "全场回放（吴博文）"
+        },
+        {
           "pID": "969609166",
           "name": "第一节"
         },
@@ -372,7 +384,7 @@
     },
     {
       "mgdbId": "120000590170",
-      "pID": "969612004",
+      "pID": "969613865",
       "title": "NBANBA杯",
       "keyword": "11月21日09:00",
       "sportItemId": "2",
@@ -388,6 +400,14 @@
         "time": "11月21日09:00"
       },
       "nodes": [
+        {
+          "pID": "969613865",
+          "name": "全场集锦"
+        },
+        {
+          "pID": "969614054",
+          "name": "全场回放（罗森）"
+        },
         {
           "pID": "969609070",
           "name": "第一节"
@@ -432,7 +452,7 @@
     },
     {
       "mgdbId": "120000601332",
-      "pID": "969598465",
+      "pID": "969598477",
       "title": "王祉怡PK宫崎友花 凤凰冲决赛",
       "keyword": "11月21日10:00",
       "sportItemId": "6",
@@ -443,14 +463,14 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "王祉怡PK宫崎友花 凤凰冲决赛",
       "modifyTitle": "中国香港羽毛球公开赛第五日：王祉怡PK宫崎友花 凤凰冲决赛",
-      "presenters": "余博洋 鸿昆 孙宁智 轩子博 朱胤丞 杨妮娜",
+      "presenters": "鸿昆 余博洋 孙宁智 轩子博 朱胤丞 杨妮娜",
       "matchInfo": {
         "time": "11月21日10:00"
       },
       "nodes": [
         {
-          "pID": "969598465",
-          "name": "万炜聪/郑凯文VS兰基雷迪/谢提"
+          "pID": "969598477",
+          "name": "王祉怡VS宫崎友花"
         },
         {
           "pID": "969464501",
@@ -471,10 +491,6 @@
         {
           "pID": "969598486",
           "name": "卡尔南多/马丁VS姜珉赫/李钟民"
-        },
-        {
-          "pID": "969598477",
-          "name": "王祉怡VS宫崎友花"
         },
         {
           "pID": "969464562",
@@ -503,6 +519,10 @@
         {
           "pID": "969598442",
           "name": "因达农VS李美妙"
+        },
+        {
+          "pID": "969598465",
+          "name": "万炜聪/郑凯文VS兰基雷迪/谢提"
         }
       ]
     },
@@ -979,30 +999,6 @@
         {
           "pID": "969608678",
           "name": "字诚"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000601799",
-      "pID": "969572755",
-      "title": "2026峨眉山越野挑战赛（冬季）",
-      "keyword": "11月21日16:30",
-      "sportItemId": "8",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "跑步系列赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/20/77TF9GQJMN65.png",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/11/4/10000000157810680041.png",
-      "pkInfoTitle": "2026峨眉山越野挑战赛（冬季）",
-      "modifyTitle": "2026峨眉山越野挑战赛（冬季）",
-      "presenters": "",
-      "matchInfo": {
-        "time": "11月21日16:30"
-      },
-      "nodes": [
-        {
-          "pID": "969572755",
-          "name": "冬季"
         }
       ]
     },
@@ -1873,15 +1869,15 @@
     {
       "mgdbId": "300000002595",
       "pID": "969499064",
-      "title": "《球你别说了》",
+      "title": "《球你别说了》女士之夜：体育女主持的穿衣自由",
       "sportItemId": "2",
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "CBA",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/21/77TG8RR0T2KQ.jpg",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/30/77QTDOK0QB8R.png",
-      "pkInfoTitle": "《球你别说了》",
-      "modifyTitle": "《球你别说了》",
+      "pkInfoTitle": "《球你别说了》女士之夜：体育女主持的穿衣自由",
+      "modifyTitle": "《球你别说了》女士之夜：体育女主持的穿衣自由",
       "presenters": "拜月宁 秋童 廖昕阳",
       "matchInfo": {},
       "nodes": [
@@ -2322,6 +2318,25 @@
           "name": "赛场原声"
         }
       ]
+    },
+    {
+      "mgdbId": "120000601799",
+      "pID": "120000601799",
+      "title": "2026峨眉山越野挑战赛（冬季）",
+      "keyword": "11月21日16:30",
+      "sportItemId": "",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "跑步系列赛",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/20/77TF9GQJMN65.png",
+      "competitionLogo": "",
+      "pkInfoTitle": "2026峨眉山越野挑战赛（冬季）",
+      "modifyTitle": "2026峨眉山越野挑战赛（冬季）",
+      "presenters": "",
+      "matchInfo": {
+        "time": "11月21日16:30"
+      },
+      "nodes": []
     }
   ]
 }
