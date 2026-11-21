@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-22 01:32:38",
+  "updateTime": "2026-11-22 02:02:39",
   "data": [
     {
       "mgdbId": "120000584446",
@@ -204,7 +204,7 @@
       "title": "NBA常规赛",
       "keyword": "11月22日02:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "康卡斯特移动球馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/21/77TG5OLA1P6N.jpg",
@@ -1199,7 +1199,7 @@
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/21/77TG8HANA1CF.jpg",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/30/77QTFHTMB7SI.png",
       "pkInfoTitle": "山东高速vs浙江稠州金租",
-      "modifyTitle": "CBA俱乐部杯小组赛第二阶段",
+      "modifyTitle": "CBA俱���部杯小组赛第二阶段",
       "presenters": "",
       "matchInfo": {
         "time": "11月22日15:30"
@@ -2083,11 +2083,15 @@
       "nodes": [
         {
           "pID": "969526552",
-          "name": "梁祥宇"
+          "name": "梁祥���"
         },
         {
           "pID": "969526457",
           "name": "赛场原声"
+        },
+        {
+          "pID": "969526552",
+          "name": "梁祥宇"
         }
       ]
     },
