@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-22 04:32:21",
+  "updateTime": "2026-11-22 05:02:33",
   "data": [
     {
       "mgdbId": "120000584446",
@@ -29,8 +29,12 @@
           "name": "全场回放（鹿中原、王宇）"
         },
         {
+          "pID": "969640610",
+          "name": "全场回放（AI智慧观赛）"
+        },
+        {
           "pID": "969642747",
-          "name": "全场回放"
+          "name": "全场回放（智能解说）"
         }
       ]
     },
@@ -111,6 +115,10 @@
         {
           "pID": "969642869",
           "name": "全场回放（詹俊、张路、程思钦）"
+        },
+        {
+          "pID": "969644146",
+          "name": "全场回放（陈凯冬、何辉）"
         }
       ]
     },
@@ -141,12 +149,12 @@
           "name": "全场回放（林梦鸽、孙雷）"
         },
         {
-          "pID": "969642688",
-          "name": "全场回放（智能解说）"
+          "pID": "969643257",
+          "name": "全场回放（AI智慧观赛）"
         },
         {
-          "pID": "969643257",
-          "name": "全场回放"
+          "pID": "969642688",
+          "name": "全场回放（智能解说）"
         }
       ]
     },
@@ -180,14 +188,14 @@
     },
     {
       "mgdbId": "120000588446",
-      "pID": "969443258",
+      "pID": "969643593",
       "title": "NBA常规赛",
       "keyword": "11月22日02:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "康卡斯特移动球馆",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/21/77TG5OLA1P6N.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/22/77TH3M891FBN.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "雄鹿VS76人",
       "modifyTitle": "NBA常规赛",
@@ -197,16 +205,20 @@
       },
       "nodes": [
         {
-          "pID": "969443258",
-          "name": "吴博文"
+          "pID": "969640613",
+          "name": "第一节"
         },
         {
-          "pID": "969443273",
-          "name": "英文原声"
+          "pID": "969641484",
+          "name": "第二节"
         },
         {
-          "pID": "969462155",
-          "name": "智能字幕"
+          "pID": "969643037",
+          "name": "第三节"
+        },
+        {
+          "pID": "969644397",
+          "name": "第四节"
         }
       ]
     },
@@ -257,7 +269,7 @@
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/20/77TFB81KP0HS.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "王信伯、罗泽涛、埃文斯��战",
+      "pkInfoTitle": "王信伯、罗泽涛、埃文斯出战",
       "modifyTitle": "斯诺克英锦赛资格赛第一轮：王信伯、罗泽涛、埃文斯出战",
       "presenters": "杨江源",
       "matchInfo": {
@@ -307,7 +319,7 @@
       "matchStatus": "1",
       "matchField": "梅纳乌球场",
       "competitionName": "法甲",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000584444/202611220430_134250_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000584444/202611220459_978284_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/1/9106077d9.png",
       "pkInfoTitle": "斯特拉斯堡 vs 布雷斯特",
       "modifyTitle": "法甲联赛",
@@ -395,7 +407,7 @@
       "matchStatus": "1",
       "matchField": "波莱蒂德勒利斯体育场",
       "competitionName": "法甲",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000584450/202611220426_215133_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000584450/202611220458_431093_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/4/1/9106077d9.png",
       "pkInfoTitle": "朗斯 vs 图卢兹",
       "modifyTitle": "法甲联赛",
