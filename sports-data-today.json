@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-21 14:02:44",
+  "updateTime": "2026-11-21 14:32:32",
   "data": [
     {
       "mgdbId": "120000601134",
@@ -381,6 +381,10 @@
           "name": "全场回放（吴博文）"
         },
         {
+          "pID": "969616293",
+          "name": "全场回放"
+        },
+        {
           "pID": "969609166",
           "name": "第一节"
         },
@@ -395,10 +399,6 @@
         {
           "pID": "969612936",
           "name": "第四节"
-        },
-        {
-          "pID": "969616293",
-          "name": "全场回放"
         }
       ]
     },
@@ -487,7 +487,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "凤凰组合、蒋振邦/魏雅欣冲决赛",
       "modifyTitle": "中国香港羽毛球公开赛第五日：凤凰组合、蒋振邦/魏雅欣冲决赛",
-      "presenters": "鸿昆 余博洋 孙宁智 轩子博 朱胤丞 杨妮娜",
+      "presenters": "鸿昆 孙宁智 轩子博 朱胤丞 杨妮娜 余博洋",
       "matchInfo": {
         "time": "11月21日10:00"
       },
@@ -495,10 +495,6 @@
         {
           "pID": "969598496",
           "name": "冯彦哲/黄东萍VS吴埙阀/赖洁敏"
-        },
-        {
-          "pID": "969598486",
-          "name": "卡尔南多/马丁VS姜珉赫/李钟民"
         },
         {
           "pID": "969464501",
@@ -547,6 +543,10 @@
         {
           "pID": "969598477",
           "name": "王祉怡VS宫崎友花"
+        },
+        {
+          "pID": "969598486",
+          "name": "卡尔南多/马丁VS姜珉赫/李钟民"
         }
       ]
     },
@@ -596,7 +596,7 @@
     },
     {
       "mgdbId": "120000590172",
-      "pID": "969616437",
+      "pID": "969617033",
       "title": "NBANBA杯",
       "keyword": "11月21日11:00",
       "sportItemId": "2",
@@ -612,6 +612,14 @@
         "time": "11月21日11:00"
       },
       "nodes": [
+        {
+          "pID": "969617033",
+          "name": "全场集锦"
+        },
+        {
+          "pID": "969617309",
+          "name": "全场回放（徐秦威、刘炜、陈正昊、王羽希）"
+        },
         {
           "pID": "969613363",
           "name": "第一节"
@@ -632,7 +640,7 @@
     },
     {
       "mgdbId": "120000590173",
-      "pID": "969616700",
+      "pID": "969617013",
       "title": "NBANBA杯",
       "keyword": "11月21日11:00",
       "sportItemId": "2",
@@ -648,6 +656,10 @@
         "time": "11月21日11:00"
       },
       "nodes": [
+        {
+          "pID": "969617013",
+          "name": "全场集锦"
+        },
         {
           "pID": "969613501",
           "name": "第一节"
@@ -768,7 +780,7 @@
       "title": "UIM MotoSurf动力冲浪世界锦标赛Day1",
       "keyword": "11月21日14:23",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "世界动力冲浪板锦标赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/20/77TF9LEIV8TQ.png",
@@ -792,7 +804,7 @@
       "title": "安徽省青少年足球联赛",
       "keyword": "11月21日14:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "徽青赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000601352/202611161335_802109_H169_1080.webp",
@@ -816,7 +828,7 @@
       "title": "安徽省青少年足球联赛",
       "keyword": "11月21日14:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "徽青赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000601353/202611161335_106557_H169_1080.webp",
