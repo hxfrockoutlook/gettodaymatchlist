@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-21 22:02:56",
+  "updateTime": "2026-11-21 22:32:39",
   "data": [
     {
       "mgdbId": "120000601134",
@@ -943,7 +943,7 @@
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/30/77QTFHTMB7SI.png",
       "pkInfoTitle": "合肥狂风vs宁波町渥",
       "modifyTitle": "CBA俱乐部杯小组赛第二阶段",
-      "presenters": "孙博 曾���旭",
+      "presenters": "孙博 曾令旭",
       "matchInfo": {
         "time": "11月21日15:30"
       },
@@ -1372,7 +1372,7 @@
       "title": "川超",
       "keyword": "11月21日19:22",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "川超",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000601798/202611200804_101784_H169_1080.webp",
@@ -1392,7 +1392,7 @@
     },
     {
       "mgdbId": "120000600521",
-      "pID": "969324684",
+      "pID": "969629195",
       "title": "WCBA",
       "keyword": "11月21日19:30",
       "sportItemId": "2",
@@ -1409,14 +1409,18 @@
       },
       "nodes": [
         {
-          "pID": "969324684",
-          "name": "赛场原声"
+          "pID": "969631086",
+          "name": "全场回放"
+        },
+        {
+          "pID": "969629195",
+          "name": "全场集锦"
         }
       ]
     },
     {
       "mgdbId": "120000600640",
-      "pID": "969627770",
+      "pID": "969629481",
       "title": "WCBA",
       "keyword": "11月21日19:30",
       "sportItemId": "2",
@@ -1433,12 +1437,8 @@
       },
       "nodes": [
         {
-          "pID": "969627770",
-          "name": "双重身份！黄思静披挂上阵 化身球队大脑"
-        },
-        {
-          "pID": "969324679",
-          "name": "赛场原声"
+          "pID": "969629481",
+          "name": "全场集锦"
         }
       ]
     },
@@ -1744,11 +1744,11 @@
     },
     {
       "mgdbId": "120000601871",
-      "pID": "969609089",
+      "pID": "969630295",
       "title": "CBA俱乐部杯小组赛第二阶段",
       "keyword": "11月21日20:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "宁夏体育馆",
       "competitionName": "CBA俱乐部杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/21/77TG832IHS23.png",
@@ -1761,37 +1761,41 @@
       },
       "nodes": [
         {
-          "pID": "969609089",
-          "name": "孙博 曾令旭"
+          "pID": "969630295",
+          "name": "全场集锦"
         },
         {
-          "pID": "969609181",
-          "name": "同看广东vs香港"
+          "pID": "969630735",
+          "name": "全场精华"
         },
         {
-          "pID": "969609132",
-          "name": "辽宁主队"
+          "pID": "969627184",
+          "name": "第一节"
         },
         {
-          "pID": "969609160",
-          "name": "南京主队"
+          "pID": "969627730",
+          "name": "第二节"
         },
         {
-          "pID": "969609126",
-          "name": "赛场原声"
+          "pID": "969629259",
+          "name": "第三节"
+        },
+        {
+          "pID": "969630642",
+          "name": "第四节"
         }
       ]
     },
     {
       "mgdbId": "120000601872",
-      "pID": "969627134",
+      "pID": "969630270",
       "title": "CBA俱乐部杯小组赛第二阶段",
       "keyword": "11月21日20:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "洪山体育馆",
       "competitionName": "CBA俱乐部杯",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/21/77TG8HLDVNRR.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/21/77TG87QC0HN1.jpg",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/30/77QTFHTMB7SI.png",
       "pkInfoTitle": "上海久事vs江西大谦",
       "modifyTitle": "CBA俱乐部杯小组赛第二阶段",
@@ -1801,41 +1805,53 @@
       },
       "nodes": [
         {
+          "pID": "969630270",
+          "name": "全场集锦"
+        },
+        {
+          "pID": "969630882",
+          "name": "全场回放（连睿、周鹏）"
+        },
+        {
+          "pID": "969630760",
+          "name": "全场回放（薛思佳）"
+        },
+        {
+          "pID": "969630764",
+          "name": "全场回放（吴博文）"
+        },
+        {
+          "pID": "969630472",
+          "name": "全场精华"
+        },
+        {
           "pID": "969627134",
-          "name": "26/27赛季CBA俱乐部杯B组小组赛回放：上海vs江西大谦（第1节）"
+          "name": "第一节"
         },
         {
-          "pID": "969609002",
-          "name": "连睿 周鹏"
+          "pID": "969627720",
+          "name": "第二节"
         },
         {
-          "pID": "969609089",
-          "name": "同看辽宁vs南京"
+          "pID": "969628806",
+          "name": "第三节"
         },
         {
-          "pID": "969609050",
-          "name": "上海主队"
-        },
-        {
-          "pID": "969609067",
-          "name": "江西主队"
-        },
-        {
-          "pID": "969609028",
-          "name": "赛场原声"
+          "pID": "969630161",
+          "name": "第四节"
         }
       ]
     },
     {
       "mgdbId": "120000601873",
-      "pID": "969629702",
+      "pID": "969630155",
       "title": "CBA俱乐部杯小组赛第二阶段",
       "keyword": "11月21日20:00",
       "sportItemId": "2",
       "matchStatus": "2",
       "matchField": "琼海市文化体育中心体育馆",
       "competitionName": "CBA俱乐部杯",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/21/77TG8HOU58LD.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/21/77TG88EP9915.jpg",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/30/77QTFHTMB7SI.png",
       "pkInfoTitle": "广东东阳光vs香港金牛",
       "modifyTitle": "CBA俱乐部杯小组赛第二阶段",
@@ -1844,6 +1860,26 @@
         "time": "11月21日20:00"
       },
       "nodes": [
+        {
+          "pID": "969630155",
+          "name": "全场集锦"
+        },
+        {
+          "pID": "969630744",
+          "name": "全场回放（李天宇、于德豪）"
+        },
+        {
+          "pID": "969630965",
+          "name": "全场回放（翻译小余）"
+        },
+        {
+          "pID": "969630890",
+          "name": "全场回放（盛哲）"
+        },
+        {
+          "pID": "969631018",
+          "name": "全场精华"
+        },
         {
           "pID": "969627179",
           "name": "第一节"
@@ -1871,7 +1907,7 @@
       "matchStatus": "1",
       "matchField": "伊蒂哈德球场",
       "competitionName": "英超",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000584175/908491_H169_sc.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000584175/321421_H169_sc.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png",
       "pkInfoTitle": "曼城 vs 富勒姆",
       "modifyTitle": "英超联赛",
@@ -2081,7 +2117,7 @@
       "title": "德甲联赛",
       "keyword": "11月21日22:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "帝王椴林畔乌尔萨法尔姆竞技场",
       "competitionName": "德甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000588139/525375_H169_sc.jpg",
@@ -2109,7 +2145,7 @@
       "title": "德甲联赛",
       "keyword": "11月21日22:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "普鲁士公园球场",
       "competitionName": "德甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000588142/859840_H169_sc.jpg",
@@ -2137,7 +2173,7 @@
       "title": "德甲联赛",
       "keyword": "11月21日22:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "老林务所畔体育场",
       "competitionName": "德甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000588143/640831_H169_sc.jpg",
@@ -2165,7 +2201,7 @@
       "title": "德甲联赛",
       "keyword": "11月21日22:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "法兰克福竞技场",
       "competitionName": "德甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000588145/373902_H169_sc.jpg",
@@ -2193,7 +2229,7 @@
       "title": "德甲联赛",
       "keyword": "11月21日22:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "拜尔竞技场",
       "competitionName": "德甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000588146/263871_H169_sc.jpg",
@@ -2221,7 +2257,7 @@
       "title": "白雨露出战 吴安仪PK赵翰洋",
       "keyword": "11月21日22:30",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/20/77TFB80VIVGR.png",
@@ -2277,7 +2313,7 @@
       "title": "英超联赛",
       "keyword": "11月21日23:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "托特纳姆热刺球场",
       "competitionName": "英超",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000584173/908002_H169_sc.jpg",
@@ -2349,7 +2385,7 @@
       "title": "英超联赛",
       "keyword": "11月21日23:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "斯坦福桥球场",
       "competitionName": "英超",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000584179/481026_H169_sc.jpg",
@@ -2412,6 +2448,10 @@
         {
           "pID": "969525777",
           "name": "英文原声"
+        },
+        {
+          "pID": "969525789",
+          "name": "赛��原声"
         }
       ]
     },
