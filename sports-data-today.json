@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-21 08:02:16",
+  "updateTime": "2026-11-21 08:32:13",
   "data": [
     {
       "mgdbId": "120000601134",
@@ -196,7 +196,7 @@
       "title": "NBANBA杯",
       "keyword": "11月21日08:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "小凯撒球馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/20/77TFB6NIEGAF.jpg",
@@ -228,7 +228,7 @@
       "title": "NBANBA杯",
       "keyword": "11月21日08:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "巴克莱中心",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/20/77TFB6U5E6IS.jpg",
@@ -256,7 +256,7 @@
       "title": "NBANBA杯",
       "keyword": "11月21日08:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "火箭信贷球馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/20/77TFB76DQH5U.jpg",
@@ -364,22 +364,26 @@
     },
     {
       "mgdbId": "120000601332",
-      "pID": "969464501",
+      "pID": "969598442",
       "title": "王祉怡PK宫崎友花 凤凰冲决赛",
       "keyword": "11月21日10:00",
       "sportItemId": "6",
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "BWF",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/20/77TFB9292OH6.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/21/77TG7MR5M2QI.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "王祉怡PK宫崎友花 凤凰冲决赛",
       "modifyTitle": "中国香港羽毛球公开赛第五日：王祉怡PK宫崎友花 凤凰冲决赛",
-      "presenters": "杨妮娜 余博洋 鸿昆 孙宁智 轩子博 朱胤丞",
+      "presenters": "鸿昆 余博洋 杨妮娜 孙宁智 轩子博 朱胤丞",
       "matchInfo": {
         "time": "11月21日10:00"
       },
       "nodes": [
+        {
+          "pID": "969598442",
+          "name": "因达农VS李美妙"
+        },
         {
           "pID": "969464501",
           "name": "1号场地"
@@ -397,24 +401,20 @@
           "name": "智能字幕"
         },
         {
-          "pID": "969598442",
-          "name": "因达农VS李美妙"
-        },
-        {
-          "pID": "969598465",
-          "name": "万炜聪/郑凯文VS兰基雷迪/谢提"
-        },
-        {
-          "pID": "969598477",
-          "name": "王祉怡VS宫崎友花"
+          "pID": "969598496",
+          "name": "冯彦哲/黄东萍VS吴埙阀/赖洁敏"
         },
         {
           "pID": "969598486",
           "name": "卡尔南多/马丁VS姜珉赫/李钟民"
         },
         {
-          "pID": "969598496",
-          "name": "冯彦哲/黄东萍VS吴埙阀/赖洁敏"
+          "pID": "969598477",
+          "name": "王祉怡VS宫崎友花"
+        },
+        {
+          "pID": "969598465",
+          "name": "万炜聪/郑凯文VS兰基雷迪/谢提"
         },
         {
           "pID": "969598510",
@@ -497,7 +497,7 @@
       "keyword": "11月21日11:00",
       "sportItemId": "2",
       "matchStatus": "0",
-      "matchField": "加密中心球馆",
+      "matchField": "���密中心球馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/20/77TFB811V3OO.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
@@ -1872,10 +1872,6 @@
         {
           "pID": "969525777",
           "name": "英文原声"
-        },
-        {
-          "pID": "969525789",
-          "name": "赛��原声"
         }
       ]
     },
