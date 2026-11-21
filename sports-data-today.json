@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-21 10:32:18",
+  "updateTime": "2026-11-21 11:02:33",
   "data": [
     {
       "mgdbId": "120000601134",
@@ -144,7 +144,7 @@
     },
     {
       "mgdbId": "120000590165",
-      "pID": "969609916",
+      "pID": "969611077",
       "title": "NBANBA杯",
       "keyword": "11月21日08:00",
       "sportItemId": "2",
@@ -160,6 +160,14 @@
         "time": "11月21日08:00"
       },
       "nodes": [
+        {
+          "pID": "969611077",
+          "name": "全场集锦"
+        },
+        {
+          "pID": "969610882",
+          "name": "全场回放（刘沛元）"
+        },
         {
           "pID": "969607562",
           "name": "第一节"
@@ -239,7 +247,7 @@
       "matchStatus": "1",
       "matchField": "巴克莱中心",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/20/77TFB6U5E6IS.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/21/77TG8BNVL10O.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "魔术VS篮网",
       "modifyTitle": "NBANBA杯",
@@ -260,14 +268,14 @@
     },
     {
       "mgdbId": "120000590168",
-      "pID": "969443555",
+      "pID": "969610861",
       "title": "NBANBA杯",
       "keyword": "11月21日08:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "火箭信贷球馆",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/20/77TFB76DQH5U.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/21/77TG8CKSC6T6.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "步行者VS骑士",
       "modifyTitle": "NBANBA杯",
@@ -277,16 +285,16 @@
       },
       "nodes": [
         {
-          "pID": "969443555",
-          "name": "王冠证"
+          "pID": "969608236",
+          "name": "第一节"
         },
         {
-          "pID": "969443797",
-          "name": "同看猛龙vs活塞"
+          "pID": "969609232",
+          "name": "第二节"
         },
         {
-          "pID": "969443600",
-          "name": "英文原声"
+          "pID": "969610655",
+          "name": "第三节"
         }
       ]
     },
@@ -443,6 +451,30 @@
         {
           "pID": "969598593",
           "name": "乌拜迪拉VS昆拉武特"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000601537",
+      "pID": "969497310",
+      "title": "复合弓、反曲弓多项金牌争夺",
+      "keyword": "11月21日10:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "射箭亚洲杯",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/18/77TDECC38ARM.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/11/17/10000000159110662fb8.png",
+      "pkInfoTitle": "复合弓、反曲弓多项金牌争夺",
+      "modifyTitle": "射箭亚洲杯：各项目决赛及颁奖仪式",
+      "presenters": "",
+      "matchInfo": {
+        "time": "11月21日10:00"
+      },
+      "nodes": [
+        {
+          "pID": "969497310",
+          "name": "清流播出"
         }
       ]
     },
@@ -751,6 +783,150 @@
         {
           "pID": "969513979",
           "name": "智能字幕"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000601866",
+      "pID": "969608786",
+      "title": "CBA俱乐部杯小组赛第二阶段",
+      "keyword": "11月21日15:30",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "琼海市文化体育中心体育馆",
+      "competitionName": "CBA俱乐部杯",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000601866/202611202211_739653_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/30/77QTFHTMB7SI.png",
+      "pkInfoTitle": "长白山恩都里vs浙江稠州金租",
+      "modifyTitle": "CBA俱乐部杯小组赛第二阶段",
+      "presenters": "李天宇 于德豪 陈涛 金哲豪",
+      "matchInfo": {
+        "time": "11月21日15:30"
+      },
+      "nodes": [
+        {
+          "pID": "969608786",
+          "name": "李天宇 于德豪"
+        },
+        {
+          "pID": "969608814",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "969608834",
+          "name": "陈涛"
+        },
+        {
+          "pID": "969608850",
+          "name": "金哲豪"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000601867",
+      "pID": "969608462",
+      "title": "CBA俱乐部杯小组赛第二阶段",
+      "keyword": "11月21日15:30",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "烟台八角湾国际体育中心体育馆",
+      "competitionName": "CBA俱乐部杯",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000601867/202611202215_836633_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/30/77QTFHTMB7SI.png",
+      "pkInfoTitle": "深圳马可波罗vs江苏肯帝亚",
+      "modifyTitle": "CBA俱乐部杯小组赛第二阶段",
+      "presenters": "邵化谦 季孟年 李嘉伟 洪超",
+      "matchInfo": {
+        "time": "11月21日15:30"
+      },
+      "nodes": [
+        {
+          "pID": "969608462",
+          "name": "邵化谦 季孟年"
+        },
+        {
+          "pID": "969608512",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "969608549",
+          "name": "李嘉伟"
+        },
+        {
+          "pID": "969608556",
+          "name": "洪超"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000601868",
+      "pID": "969608693",
+      "title": "CBA俱乐部杯小组赛第二阶段",
+      "keyword": "11月21日15:30",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "宁夏体育馆",
+      "competitionName": "CBA俱乐部杯",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000601868/202611202215_549571_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/30/77QTFHTMB7SI.png",
+      "pkInfoTitle": "合肥狂风vs宁波町渥",
+      "modifyTitle": "CBA俱乐部杯小组赛第二阶段",
+      "presenters": "孙博 曾令旭 石楷文 林国雄",
+      "matchInfo": {
+        "time": "11月21日15:30"
+      },
+      "nodes": [
+        {
+          "pID": "969608693",
+          "name": "孙博 曾令旭"
+        },
+        {
+          "pID": "969608724",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "969608739",
+          "name": "石楷文"
+        },
+        {
+          "pID": "969608762",
+          "name": "林国雄"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000601869",
+      "pID": "969608585",
+      "title": "CBA俱乐部杯小组赛第二阶段",
+      "keyword": "11月21日15:30",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "洪山体育馆",
+      "competitionName": "CBA俱乐部杯",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000601869/202611202215_542516_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/30/77QTFHTMB7SI.png",
+      "pkInfoTitle": "福建晋江文旅vs四川锦城",
+      "modifyTitle": "CBA俱乐部杯小组赛第二阶段",
+      "presenters": "连睿 周鹏 刘时 字诚",
+      "matchInfo": {
+        "time": "11月21日15:30"
+      },
+      "nodes": [
+        {
+          "pID": "969608585",
+          "name": "连睿 周鹏"
+        },
+        {
+          "pID": "969608637",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "969608645",
+          "name": "刘时"
+        },
+        {
+          "pID": "969608678",
+          "name": "字诚"
         }
       ]
     },
@@ -1159,6 +1335,42 @@
       ]
     },
     {
+      "mgdbId": "120000601870",
+      "pID": "969608875",
+      "title": "CBA俱乐部杯小组赛第二阶段",
+      "keyword": "11月21日19:30",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "烟台八角湾国际体育中心体育馆",
+      "competitionName": "CBA俱乐部杯",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000601870/202611202216_281090_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/30/77QTFHTMB7SI.png",
+      "pkInfoTitle": "浙江浙商证券vs上海玄鸟",
+      "modifyTitle": "CBA俱乐部杯小组赛第二阶段",
+      "presenters": "邵化谦 季孟年 徐秦威 张俊卿",
+      "matchInfo": {
+        "time": "11月21日19:30"
+      },
+      "nodes": [
+        {
+          "pID": "969608875",
+          "name": "邵化谦 季孟年"
+        },
+        {
+          "pID": "969608934",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "969608962",
+          "name": "徐秦威"
+        },
+        {
+          "pID": "969608987",
+          "name": "张俊卿"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000601360",
       "pID": "969470459",
       "title": "海南省城市足球联赛",
@@ -1299,6 +1511,114 @@
         {
           "pID": "969470894",
           "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000601871",
+      "pID": "969609089",
+      "title": "CBA俱乐部杯小组赛第二阶段",
+      "keyword": "11月21日20:00",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "宁夏体育馆",
+      "competitionName": "CBA俱乐部杯",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000601871/202611202216_552013_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/30/77QTFHTMB7SI.png",
+      "pkInfoTitle": "辽宁本钢vs南京同曦宙光",
+      "modifyTitle": "CBA俱乐部杯小组赛第二阶段",
+      "presenters": "孙博 曾令旭 哈秋 王港",
+      "matchInfo": {
+        "time": "11月21日20:00"
+      },
+      "nodes": [
+        {
+          "pID": "969609089",
+          "name": "孙博 曾令旭"
+        },
+        {
+          "pID": "969609126",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "969609132",
+          "name": "哈秋"
+        },
+        {
+          "pID": "969609160",
+          "name": "王港"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000601872",
+      "pID": "969609002",
+      "title": "CBA俱乐部杯小组赛第二阶段",
+      "keyword": "11月21日20:00",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "洪山体育馆",
+      "competitionName": "CBA俱乐部杯",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000601872/202611202216_294605_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/30/77QTFHTMB7SI.png",
+      "pkInfoTitle": "上海久事vs江西大谦",
+      "modifyTitle": "CBA俱乐部杯小组赛第二阶段",
+      "presenters": "连睿 周鹏 薛思佳 吴博文",
+      "matchInfo": {
+        "time": "11月21日20:00"
+      },
+      "nodes": [
+        {
+          "pID": "969609002",
+          "name": "连睿 周鹏"
+        },
+        {
+          "pID": "969609028",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "969609050",
+          "name": "薛思佳"
+        },
+        {
+          "pID": "969609067",
+          "name": "吴博文"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000601873",
+      "pID": "969609181",
+      "title": "CBA俱乐部杯小组赛第二阶段",
+      "keyword": "11月21日20:00",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "琼海市文化体育中心体育馆",
+      "competitionName": "CBA俱乐部杯",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000601873/202611202216_270231_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/30/77QTFHTMB7SI.png",
+      "pkInfoTitle": "广东东阳光vs香港金牛",
+      "modifyTitle": "CBA俱乐部杯小组赛第二阶段",
+      "presenters": "李天宇 于德豪 翻译小余 盛哲",
+      "matchInfo": {
+        "time": "11月21日20:00"
+      },
+      "nodes": [
+        {
+          "pID": "969609181",
+          "name": "李天宇 于德豪"
+        },
+        {
+          "pID": "969609254",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "969609265",
+          "name": "翻译小余"
+        },
+        {
+          "pID": "969609295",
+          "name": "盛哲"
         }
       ]
     },
@@ -1950,25 +2270,6 @@
           "name": "赛场原声"
         }
       ]
-    },
-    {
-      "mgdbId": "120000601537",
-      "pID": "120000601537",
-      "title": "复合弓、反曲弓多项金牌争夺",
-      "keyword": "11月21日10:00",
-      "sportItemId": "",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "射箭亚洲杯",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/18/77TDECC38ARM.jpg",
-      "competitionLogo": "",
-      "pkInfoTitle": "复合弓、反曲弓多项金牌争夺",
-      "modifyTitle": "复合弓、反曲弓多项金牌争夺",
-      "presenters": "",
-      "matchInfo": {
-        "time": "11月21日10:00"
-      },
-      "nodes": []
     }
   ]
 }
