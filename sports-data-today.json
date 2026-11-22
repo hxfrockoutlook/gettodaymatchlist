@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-22 12:32:33",
+  "updateTime": "2026-11-22 13:03:02",
   "data": [
     {
       "mgdbId": "120000584446",
@@ -322,7 +322,7 @@
         },
         {
           "pID": "969656843",
-          "name": "2026斯诺克英锦赛资格赛回放：王信伯6-5哈马德·��亚（赛场原声）"
+          "name": "2026斯诺克英锦赛资格赛回放：王信伯6-5哈马德·米亚（赛场原声）"
         },
         {
           "pID": "969658642",
@@ -844,7 +844,7 @@
     },
     {
       "mgdbId": "120000588450",
-      "pID": "969656882",
+      "pID": "969659324",
       "title": "NBA常规赛",
       "keyword": "11月22日09:00",
       "sportItemId": "2",
@@ -860,6 +860,10 @@
         "time": "11月22日09:00"
       },
       "nodes": [
+        {
+          "pID": "969659324",
+          "name": "全场集锦"
+        },
         {
           "pID": "969658690",
           "name": "全场回放（罗森）"
@@ -944,7 +948,7 @@
       "title": "UIM MotoSurf动力冲浪世界锦标赛Day2",
       "keyword": "11月22日12:48",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "世界动力冲浪板锦标赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/21/77TG6T5D6ONO.png",
@@ -1395,6 +1399,34 @@
         {
           "pID": "969652302",
           "name": "洪荒"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000601918",
+      "pID": "969657756",
+      "title": "中乙升级赛组",
+      "keyword": "11月22日15:30",
+      "sportItemId": "1",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "中乙",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000601918/202611221150_917985_H169_1080.webp",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/7/7/1000000011571060f297.png",
+      "pkInfoTitle": "定南赣联vs 贵州贵阳竞技",
+      "modifyTitle": "中乙升级赛组",
+      "presenters": "",
+      "matchInfo": {
+        "time": "11月22日15:30"
+      },
+      "nodes": [
+        {
+          "pID": "969657756",
+          "name": "解说"
+        },
+        {
+          "pID": "969657772",
+          "name": "赛场原声"
         }
       ]
     },
