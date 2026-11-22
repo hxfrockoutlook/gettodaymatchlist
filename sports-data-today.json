@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-23 03:31:32",
+  "updateTime": "2026-11-23 04:01:36",
   "data": [
     {
       "mgdbId": "120000601899",
@@ -10,7 +10,7 @@
       "sportItemId": "5",
       "matchStatus": "1",
       "matchField": "",
-      "competitionName": "UFC格斗马拉松",
+      "competitionName": "UFC格斗马��松",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/21/77TG87GENM48.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/11/6/1000000004131061b3d9.png",
       "pkInfoTitle": "解锁播时任务 赢万份会员+限量周边",
@@ -81,6 +81,10 @@
           "name": "全场集锦"
         },
         {
+          "pID": "969685309",
+          "name": "全场回放（詹俊、张路、李子琪）"
+        },
+        {
           "pID": "969685151",
           "name": "全场回放（洪荒）"
         },
@@ -90,15 +94,7 @@
         },
         {
           "pID": "969685272",
-          "name": "全场回放"
-        },
-        {
-          "pID": "969685309",
-          "name": "全场回放（詹俊、张路、李子琪）"
-        },
-        {
-          "pID": "969685319",
-          "name": "全场回放"
+          "name": "全场回放（AI观赛）"
         }
       ]
     },
@@ -155,10 +151,6 @@
         {
           "pID": "969685291",
           "name": "全场回放（石庆圣、李彦）"
-        },
-        {
-          "pID": "969685463",
-          "name": "全场回放"
         }
       ]
     },
@@ -168,7 +160,7 @@
       "title": "西甲联赛",
       "keyword": "11月23日01:30",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "纳瓦拉王国球场",
       "competitionName": "西甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000586120/258447_H169_sc.jpg",
@@ -181,12 +173,12 @@
       },
       "nodes": [
         {
-          "pID": "969526663",
-          "name": "鹿中原"
+          "pID": "969685973",
+          "name": "全场集锦"
         },
         {
-          "pID": "969526633",
-          "name": "赛场原声"
+          "pID": "969685678",
+          "name": "全场回放（鹿中原）"
         }
       ]
     },
@@ -312,7 +304,7 @@
       "title": "西甲联赛",
       "keyword": "11月23日04:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "阿方索·佩雷斯球场",
       "competitionName": "西甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000586122/592466_H169_sc.jpg",
