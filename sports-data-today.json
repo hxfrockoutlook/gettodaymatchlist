@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-22 14:32:34",
+  "updateTime": "2026-11-22 15:02:35",
   "data": [
     {
       "mgdbId": "120000584446",
@@ -414,7 +414,7 @@
         },
         {
           "pID": "969646333",
-          "name": "���场回放（邵煊）"
+          "name": "全场回放（邵煊）"
         },
         {
           "pID": "969646373",
@@ -829,6 +829,10 @@
           "name": "全场回放（王晓晨）"
         },
         {
+          "pID": "969659627",
+          "name": "全场回放（英文原声）"
+        },
+        {
           "pID": "969652878",
           "name": "第一节"
         },
@@ -915,6 +919,14 @@
         {
           "pID": "969662751",
           "name": "全场集锦"
+        },
+        {
+          "pID": "969663650",
+          "name": "全场回放（刘圳展、刘炜、陈正昊、刘潇涵）"
+        },
+        {
+          "pID": "969663803",
+          "name": "全场回放（英文原声）"
         },
         {
           "pID": "969657679",
@@ -1160,7 +1172,7 @@
       "title": "精彩回顾：德约科维奇 vs 德米纳尔",
       "keyword": "11月22日15:00",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "中国网球公开赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/21/77TG67BUBCHK.jpg",
@@ -1323,14 +1335,14 @@
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/30/77QTFHTMB7SI.png",
       "pkInfoTitle": "山东高速vs浙江稠州金租",
       "modifyTitle": "CBA俱乐部杯小组赛第二阶段",
-      "presenters": "李天宇 于德豪",
+      "presenters": "魏铭 于德豪",
       "matchInfo": {
         "time": "11月22日15:30"
       },
       "nodes": [
         {
           "pID": "969652531",
-          "name": "李天宇 于德豪"
+          "name": "魏铭 于德豪"
         },
         {
           "pID": "969652618",
@@ -1633,7 +1645,7 @@
       "competitionName": "乒乓球经典赛事",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/22/77TH2P5LONR7.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/4/3/10000000117810627118.jpg",
-      "pkInfoTitle": "莎头组合横扫 中国队首秀8-1中国香港",
+      "pkInfoTitle": "莎头组合横扫 中国队���秀8-1中国香港",
       "modifyTitle": "【赛事放映厅】重温2025混团世界杯：第一阶段循环赛第1轮",
       "presenters": "",
       "matchInfo": {
@@ -2379,11 +2391,15 @@
       "nodes": [
         {
           "pID": "969526552",
-          "name": "梁祥宇"
+          "name": "���祥宇"
         },
         {
           "pID": "969526457",
           "name": "赛场原声"
+        },
+        {
+          "pID": "969526552",
+          "name": "梁祥宇"
         }
       ]
     },
