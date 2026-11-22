@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-22 20:32:31",
+  "updateTime": "2026-11-22 21:02:43",
   "data": [
     {
       "mgdbId": "120000584446",
@@ -418,7 +418,7 @@
         },
         {
           "pID": "969646333",
-          "name": "全场���放（邵煊）"
+          "name": "全场回放（邵煊）"
         },
         {
           "pID": "969646373",
@@ -1584,8 +1584,8 @@
     },
     {
       "mgdbId": "120000601523",
-      "pID": "969494005",
-      "title": "吉米·怀特、许医尘出战 刘文炜淘汰",
+      "pID": "969494094",
+      "title": "刘文炜退赛 许医尘晋级",
       "keyword": "11月22日17:30",
       "sportItemId": "8",
       "matchStatus": "1",
@@ -1593,13 +1593,17 @@
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/22/77TH52FBOEAD.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "吉米·怀特、许医尘出战 刘文炜淘汰",
-      "modifyTitle": "斯诺克英锦赛资格赛第一轮：吉米·怀特、许医尘出战 刘文炜淘汰",
+      "pkInfoTitle": "刘文炜退赛 许医尘晋级",
+      "modifyTitle": "斯诺克英锦赛资格赛第一轮：刘文炜退赛 许医尘晋级",
       "presenters": "涂子轩",
       "matchInfo": {
         "time": "11月22日17:30"
       },
       "nodes": [
+        {
+          "pID": "969494094",
+          "name": "7号桌"
+        },
         {
           "pID": "969539709",
           "name": "涂子轩"
@@ -1609,16 +1613,12 @@
           "name": "2号桌"
         },
         {
-          "pID": "969493981",
-          "name": "4号桌"
-        },
-        {
-          "pID": "969494094",
-          "name": "7号桌"
-        },
-        {
           "pID": "969493953",
           "name": "3号桌"
+        },
+        {
+          "pID": "969493981",
+          "name": "4号桌"
         },
         {
           "pID": "969494022",
@@ -1633,7 +1633,7 @@
     {
       "mgdbId": "120000601350",
       "pID": "969469517",
-      "title": "收官日！成年组单项决赛",
+      "title": "陈志毅获得男子跳马金牌",
       "keyword": "11月22日18:00",
       "sportItemId": "8",
       "matchStatus": "1",
@@ -1641,8 +1641,8 @@
       "competitionName": "全国青年体操U系列冠军赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/19/77TEBHKDJ011.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/11/16/1000000015891066d60f.png",
-      "pkInfoTitle": "收官日！成年组单项决赛",
-      "modifyTitle": "全国青年体操U系列冠军赛Day4：成年组单项决赛",
+      "pkInfoTitle": "陈志毅获得男子跳马金牌",
+      "modifyTitle": "全国青年体操U系列冠军赛Day4：陈志毅获得男子跳马金牌",
       "presenters": "",
       "matchInfo": {
         "time": "11月22日18:00"
@@ -1759,7 +1759,7 @@
       "matchStatus": "1",
       "matchField": "Allianz Stadium",
       "competitionName": "意甲",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/18/77TDHAJ6O20A.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/22/77TH4SJSEM5K.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png",
       "pkInfoTitle": "尤文图斯 vs 威尼斯",
       "modifyTitle": "意甲联赛",
@@ -2575,7 +2575,7 @@
         },
         {
           "pID": "969554158",
-          "name": "智能��说"
+          "name": "智能解说"
         },
         {
           "pID": "969553069",
@@ -2588,10 +2588,6 @@
         {
           "pID": "969552939",
           "name": "沪语智能字幕"
-        },
-        {
-          "pID": "969554158",
-          "name": "智能解说"
         }
       ]
     }
