@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-23 06:31:33",
+  "updateTime": "2026-11-23 07:01:34",
   "data": [
     {
       "mgdbId": "120000601899",
@@ -54,7 +54,7 @@
         },
         {
           "pID": "969683943",
-          "name": "全场回放（乔迁）"
+          "name": "全场回放（乔���）"
         }
       ]
     },
@@ -217,10 +217,6 @@
           "name": "陶哲铭"
         },
         {
-          "pID": "969493810",
-          "name": "2号桌"
-        },
-        {
           "pID": "969493911",
           "name": "3号桌"
         },
@@ -243,6 +239,10 @@
         {
           "pID": "969494115",
           "name": "8号桌"
+        },
+        {
+          "pID": "969493810",
+          "name": "2号桌"
         }
       ]
     },
@@ -333,21 +333,37 @@
       },
       "nodes": [
         {
+          "pID": "969690797",
+          "name": "全场集锦"
+        },
+        {
+          "pID": "969690865",
+          "name": "全场集锦"
+        },
+        {
           "pID": "969690352",
           "name": "全场回放（张天翼、王宇）"
+        },
+        {
+          "pID": "969690872",
+          "name": "全场回放"
+        },
+        {
+          "pID": "969691006",
+          "name": "全场回放"
         }
       ]
     },
     {
       "mgdbId": "120000588452",
-      "pID": "969578517",
+      "pID": "969689562",
       "title": "NBA常规赛",
       "keyword": "11月23日04:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "州立农业球馆",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/22/77TH5TS06IAN.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/23/77TI1DTT14MT.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "活塞VS老鹰",
       "modifyTitle": "NBA常规赛",
@@ -357,12 +373,20 @@
       },
       "nodes": [
         {
-          "pID": "969578517",
-          "name": "王琰博"
+          "pID": "969688166",
+          "name": "第一节"
         },
         {
-          "pID": "969578560",
-          "name": "英文原声"
+          "pID": "969689373",
+          "name": "第二节"
+        },
+        {
+          "pID": "969690418",
+          "name": "第三节"
+        },
+        {
+          "pID": "969691109",
+          "name": "第四节"
         }
       ]
     },
@@ -372,10 +396,10 @@
       "title": "NBA常规赛",
       "keyword": "11月23日07:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "卡西亚中心",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/22/77TH5U80QF32.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/23/77TI1DCV52C8.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "雷霆VS热火",
       "modifyTitle": "NBA常规赛",
