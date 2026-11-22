@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-23 07:01:34",
+  "updateTime": "2026-11-23 07:31:31",
   "data": [
     {
       "mgdbId": "120000601899",
@@ -54,7 +54,7 @@
         },
         {
           "pID": "969683943",
-          "name": "全场回放（乔���）"
+          "name": "全场回放（乔迁）"
         }
       ]
     },
@@ -196,8 +196,8 @@
     },
     {
       "mgdbId": "120000601525",
-      "pID": "969539623",
-      "title": "江俊PK张家玮 刘宏宇、吕昊天出战",
+      "pID": "969493911",
+      "title": "江俊3-6张家玮 刘宏宇、吕昊天出战",
       "keyword": "11月23日03:30",
       "sportItemId": "8",
       "matchStatus": "1",
@@ -205,17 +205,13 @@
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/22/77TH52TPJA43.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "江俊PK张家玮 刘宏宇、吕昊天出战",
-      "modifyTitle": "斯诺克英锦赛资格赛第二轮：江俊PK张家玮 刘宏宇、吕昊天出战",
+      "pkInfoTitle": "江俊3-6张家玮 刘宏宇、吕昊天出战",
+      "modifyTitle": "斯诺克英锦赛资格赛第二轮：江俊3-6张家玮 刘宏宇、吕昊天出战",
       "presenters": "陶哲铭",
       "matchInfo": {
         "time": "11月23日03:30"
       },
       "nodes": [
-        {
-          "pID": "969539623",
-          "name": "陶哲铭"
-        },
         {
           "pID": "969493911",
           "name": "3号桌"
@@ -229,20 +225,24 @@
           "name": "5号桌"
         },
         {
-          "pID": "969494015",
-          "name": "6号桌"
-        },
-        {
           "pID": "969494085",
           "name": "7号桌"
         },
         {
-          "pID": "969494115",
-          "name": "8号桌"
+          "pID": "969539623",
+          "name": "陶哲铭"
         },
         {
           "pID": "969493810",
           "name": "2号桌"
+        },
+        {
+          "pID": "969494015",
+          "name": "6号桌"
+        },
+        {
+          "pID": "969494115",
+          "name": "8号桌"
         }
       ]
     },
@@ -266,7 +266,7 @@
       "nodes": [
         {
           "pID": "969690054",
-          "name": "全场集锦"
+          "name": "超长版集锦"
         },
         {
           "pID": "969689969",
@@ -278,11 +278,11 @@
         },
         {
           "pID": "969690207",
-          "name": "全场回放"
+          "name": "全场回放（AI智慧观赛）"
         },
         {
           "pID": "969690254",
-          "name": "全场回放"
+          "name": "全场回放（智能解说）"
         }
       ]
     },
@@ -326,7 +326,7 @@
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/23/77TI14FE3KNV.jpg",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/21/779JJMOFB20H.png",
       "pkInfoTitle": "赫塔费 vs 马德里竞技",
-      "modifyTitle": "西甲联赛",
+      "modifyTitle": "西��联赛",
       "presenters": "张天翼 王宇",
       "matchInfo": {
         "time": "11月23日04:00"
@@ -334,7 +334,7 @@
       "nodes": [
         {
           "pID": "969690797",
-          "name": "全场集锦"
+          "name": "超长版集锦"
         },
         {
           "pID": "969690865",
@@ -346,11 +346,11 @@
         },
         {
           "pID": "969690872",
-          "name": "全场回放"
+          "name": "全场回放（AI智慧观赛）"
         },
         {
           "pID": "969691006",
-          "name": "全场回放"
+          "name": "全场回放（智能解说）"
         }
       ]
     },
@@ -372,6 +372,10 @@
         "time": "11月23日04:30"
       },
       "nodes": [
+        {
+          "pID": "969691258",
+          "name": "全场回放（王琰博）"
+        },
         {
           "pID": "969688166",
           "name": "第一节"
@@ -428,7 +432,7 @@
       "title": "NBA常规赛",
       "keyword": "11月23日08:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "联合中心球馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/22/77TH5U1IUA5Q.jpg",
