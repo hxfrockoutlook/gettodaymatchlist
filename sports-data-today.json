@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-22 09:02:23",
+  "updateTime": "2026-11-22 09:32:27",
   "data": [
     {
       "mgdbId": "120000584446",
@@ -126,7 +126,7 @@
         },
         {
           "pID": "969646603",
-          "name": "全场回放"
+          "name": "全场回放（英文原声）"
         }
       ]
     },
@@ -281,7 +281,7 @@
     {
       "mgdbId": "120000601522",
       "pID": "969493528",
-      "title": "王信伯、罗泽涛、埃文斯出战",
+      "title": "王信伯、罗泽涛、埃文斯晋级",
       "keyword": "11月22日03:30",
       "sportItemId": "8",
       "matchStatus": "1",
@@ -289,8 +289,8 @@
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/20/77TFB81KP0HS.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "王信伯、罗泽涛、埃文斯出战",
-      "modifyTitle": "斯诺克英锦赛资格赛第一轮：王信伯、罗泽涛、埃文斯出战",
+      "pkInfoTitle": "王信伯、罗泽涛、埃文斯晋级",
+      "modifyTitle": "斯诺克英锦赛资格赛第一轮：王信伯、罗泽涛、埃文斯晋级",
       "presenters": "杨江源",
       "matchInfo": {
         "time": "11月22日03:30"
@@ -410,7 +410,7 @@
         },
         {
           "pID": "969646333",
-          "name": "全场回放（邵煊）"
+          "name": "全场��放（邵煊）"
         },
         {
           "pID": "969646373",
@@ -713,16 +713,16 @@
           "name": "蔡凯臣 霍楠 拜月宁"
         },
         {
-          "pID": "969443344",
-          "name": "邢晨"
-        },
-        {
           "pID": "969445683",
-          "name": "同看火箭vs森林狼"
+          "name": "灰熊vs森林狼"
         },
         {
           "pID": "969445844",
-          "name": "同看鹈鹕vs马刺"
+          "name": "鹈鹕vs马刺"
+        },
+        {
+          "pID": "969443344",
+          "name": "邢晨"
         },
         {
           "pID": "969443383",
@@ -753,16 +753,16 @@
       },
       "nodes": [
         {
-          "pID": "969443323",
-          "name": "同看开拓者vs尼克斯"
-        },
-        {
           "pID": "969445683",
           "name": "刘芳宇"
         },
         {
+          "pID": "969443323",
+          "name": "开拓者vs尼克斯"
+        },
+        {
           "pID": "969445844",
-          "name": "同看鹈鹕vs马刺"
+          "name": "鹈鹕vs马刺"
         },
         {
           "pID": "969445670",
@@ -793,16 +793,16 @@
           "name": "徐秦威"
         },
         {
-          "pID": "969445831",
-          "name": "王晓晨"
-        },
-        {
           "pID": "969443323",
-          "name": "同看开拓者vs尼克斯"
+          "name": "开拓者vs尼克斯"
         },
         {
           "pID": "969445683",
-          "name": "同播灰熊vs森林狼"
+          "name": "灰熊vs森林狼"
+        },
+        {
+          "pID": "969445831",
+          "name": "王晓晨"
         },
         {
           "pID": "969445806",
@@ -1226,11 +1226,16 @@
       "matchInfo": {
         "time": "11月22日15:30"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "969652381",
+          "name": "孙博 曾令旭"
+        }
+      ]
     },
     {
       "mgdbId": "120000601908",
-      "title": "CBA俱乐部杯小组赛第二阶段",
+      "title": "CBA俱乐部杯���组赛第二阶段",
       "keyword": "11月22日15:30",
       "sportItemId": "2",
       "matchStatus": "0",
@@ -1248,6 +1253,7 @@
     },
     {
       "mgdbId": "120000601909",
+      "pID": "969651973",
       "title": "CBA俱乐部杯小组赛第二阶段",
       "keyword": "11月22日15:30",
       "sportItemId": "2",
@@ -1258,14 +1264,32 @@
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/30/77QTFHTMB7SI.png",
       "pkInfoTitle": "北京首钢vs深圳马可波罗",
       "modifyTitle": "CBA俱乐部杯小组赛第二阶段",
-      "presenters": "",
+      "presenters": "邵化谦 季孟年 刘芳宇 李嘉伟",
       "matchInfo": {
         "time": "11月22日15:30"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "969651973",
+          "name": "邵化谦 季孟年"
+        },
+        {
+          "pID": "969652022",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "969652041",
+          "name": "刘芳宇"
+        },
+        {
+          "pID": "969652083",
+          "name": "李嘉伟"
+        }
+      ]
     },
     {
       "mgdbId": "120000601910",
+      "pID": "969652173",
       "title": "CBA俱乐部杯小组赛第二阶段",
       "keyword": "11月22日15:30",
       "sportItemId": "2",
@@ -1276,11 +1300,28 @@
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/30/77QTFHTMB7SI.png",
       "pkInfoTitle": "青岛崂山啤酒vs福建晋江文旅",
       "modifyTitle": "CBA俱乐部杯小组赛第二阶段",
-      "presenters": "",
+      "presenters": "连睿 周鹏 刘沛元 洪荒",
       "matchInfo": {
         "time": "11月22日15:30"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "969652173",
+          "name": "连睿 周鹏"
+        },
+        {
+          "pID": "969652136",
+          "name": "赛场原声"
+        },
+        {
+          "pID": "969652255",
+          "name": "刘沛元"
+        },
+        {
+          "pID": "969652302",
+          "name": "洪荒"
+        }
+      ]
     },
     {
       "mgdbId": "120000601831",
@@ -1317,16 +1358,16 @@
     {
       "mgdbId": "120000601523",
       "pID": "969539709",
-      "title": "许医尘、刘文炜出战",
+      "title": "吉米·怀特、许医尘、刘文炜出战",
       "keyword": "11月22日17:30",
       "sportItemId": "8",
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "斯诺克",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/22/77TH52FBOEAD.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "许医尘、刘文炜出战",
-      "modifyTitle": "斯诺克英锦赛资格赛第一轮：许医尘、刘文炜出战",
+      "pkInfoTitle": "吉米·怀特、许医尘、刘文炜出战",
+      "modifyTitle": "斯诺克英锦赛资格赛第一轮：吉米·怀特、许医尘、刘文炜出战",
       "presenters": "涂子轩",
       "matchInfo": {
         "time": "11月22日17:30"
@@ -2050,16 +2091,16 @@
     {
       "mgdbId": "120000601524",
       "pID": "969539663",
-      "title": "傅家俊、龙泽煌出战",
+      "title": "傅家俊PK巩晨智 龙泽煌出战",
       "keyword": "11月22日22:30",
       "sportItemId": "8",
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "斯诺克",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/22/77TH52O16K32.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "傅家俊、龙泽煌出战",
-      "modifyTitle": "斯诺克英锦赛资格赛第二轮：傅家俊、龙泽煌出战",
+      "pkInfoTitle": "傅家俊PK巩晨智 龙泽煌出战",
+      "modifyTitle": "斯诺克英锦赛资格赛第二轮：傅家俊PK巩晨智 龙泽煌出战",
       "presenters": "朱峰立 柏林",
       "matchInfo": {
         "time": "11月22日22:30"
