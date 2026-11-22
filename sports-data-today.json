@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-22 14:02:34",
+  "updateTime": "2026-11-22 14:32:34",
   "data": [
     {
       "mgdbId": "120000584446",
@@ -414,7 +414,7 @@
         },
         {
           "pID": "969646333",
-          "name": "全场回放（邵煊）"
+          "name": "���场回放（邵煊）"
         },
         {
           "pID": "969646373",
@@ -621,8 +621,8 @@
       },
       "nodes": [
         {
-          "pID": "969548516",
-          "name": "清流播出"
+          "pID": "969663404",
+          "name": "2026中都樾玺黄石马拉松全场回放（赛场原声）"
         }
       ]
     },
@@ -896,7 +896,7 @@
     },
     {
       "mgdbId": "120000588451",
-      "pID": "969662065",
+      "pID": "969662751",
       "title": "NBA常规赛",
       "keyword": "11月22日11:00",
       "sportItemId": "2",
@@ -912,6 +912,10 @@
         "time": "11月22日11:00"
       },
       "nodes": [
+        {
+          "pID": "969662751",
+          "name": "全场集锦"
+        },
         {
           "pID": "969657679",
           "name": "第一节"
@@ -936,7 +940,7 @@
       "title": "精彩回顾：德米纳尔 vs 卢布列夫",
       "keyword": "11月22日12:00",
       "sportItemId": "9",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "中国网球公开赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/21/77TG6SISK4NK.png",
@@ -949,8 +953,8 @@
       },
       "nodes": [
         {
-          "pID": "969405761",
-          "name": "张文悦"
+          "pID": "968123376",
+          "name": "【回放】德米纳尔2-1卢布列夫（张文悦）"
         }
       ]
     },
@@ -1060,7 +1064,7 @@
       "title": "安徽省青少年足球联赛",
       "keyword": "11月22日14:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "徽青赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000601356/202611161338_509493_H169_1080.webp",
@@ -1084,7 +1088,7 @@
       "title": "安徽省青少年足球联赛",
       "keyword": "11月22日14:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "徽青赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000601357/202611161340_806681_H169_1080.webp",
@@ -1108,7 +1112,7 @@
       "title": "安徽省青少年足球联赛",
       "keyword": "11月22日14:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "徽青赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000601359/202611161342_260572_H169_1080.webp",
@@ -1132,7 +1136,7 @@
       "title": "韩国站-男子1000米决赛等",
       "keyword": "11月22日14:30",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "短道速滑世界巡回赛",
       "padImg": "",
@@ -1283,7 +1287,7 @@
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/30/77QTFHTMB7SI.png",
       "pkInfoTitle": "山西汾酒vs宁波町渥",
       "modifyTitle": "CBA俱乐部杯小组赛第二阶段",
-      "presenters": "孙博 曾令旭 侯向锋 林国雄",
+      "presenters": "孙博 曾令旭",
       "matchInfo": {
         "time": "11月22日15:30"
       },
@@ -1293,16 +1297,16 @@
           "name": "孙博 曾令旭"
         },
         {
-          "pID": "969652427",
-          "name": "赛场原声"
-        },
-        {
           "pID": "969652439",
-          "name": "侯向锋"
+          "name": "山西主队"
         },
         {
           "pID": "969652487",
-          "name": "林国雄"
+          "name": "宁波主队"
+        },
+        {
+          "pID": "969652427",
+          "name": "赛场原声"
         }
       ]
     },
@@ -1319,7 +1323,7 @@
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/30/77QTFHTMB7SI.png",
       "pkInfoTitle": "山东高速vs浙江稠州金租",
       "modifyTitle": "CBA俱乐部杯小组赛第二阶段",
-      "presenters": "李天宇 于德豪 罗森 金哲豪",
+      "presenters": "李天宇 于德豪",
       "matchInfo": {
         "time": "11月22日15:30"
       },
@@ -1329,16 +1333,16 @@
           "name": "李天宇 于德豪"
         },
         {
-          "pID": "969652605",
-          "name": "赛场原声"
-        },
-        {
           "pID": "969652618",
-          "name": "罗森"
+          "name": "山东主队"
         },
         {
           "pID": "969652664",
-          "name": "金哲豪"
+          "name": "浙江主队"
+        },
+        {
+          "pID": "969652605",
+          "name": "赛场原声"
         }
       ]
     },
@@ -1355,7 +1359,7 @@
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/30/77QTFHTMB7SI.png",
       "pkInfoTitle": "北京首钢vs深圳马可波罗",
       "modifyTitle": "CBA俱乐部杯小组赛第二阶段",
-      "presenters": "邵化谦 季孟年 刘芳宇 李嘉伟",
+      "presenters": "邵化谦 季孟年",
       "matchInfo": {
         "time": "11月22日15:30"
       },
@@ -1365,16 +1369,16 @@
           "name": "邵化谦 季孟年"
         },
         {
-          "pID": "969652022",
-          "name": "赛场原声"
-        },
-        {
           "pID": "969652041",
-          "name": "刘芳宇"
+          "name": "北京主队"
         },
         {
           "pID": "969652083",
-          "name": "李嘉伟"
+          "name": "深圳主队"
+        },
+        {
+          "pID": "969652022",
+          "name": "赛场原声"
         }
       ]
     },
@@ -1391,7 +1395,7 @@
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/30/77QTFHTMB7SI.png",
       "pkInfoTitle": "青岛崂山啤酒vs福建晋江文旅",
       "modifyTitle": "CBA俱乐部杯小组赛第二阶段",
-      "presenters": "连睿 周鹏 刘沛元 洪荒",
+      "presenters": "连睿 周鹏",
       "matchInfo": {
         "time": "11月22日15:30"
       },
@@ -1401,16 +1405,16 @@
           "name": "连睿 周鹏"
         },
         {
-          "pID": "969652136",
-          "name": "赛场原声"
-        },
-        {
           "pID": "969652255",
-          "name": "刘沛元"
+          "name": "青岛主队"
         },
         {
           "pID": "969652302",
-          "name": "洪荒"
+          "name": "福建主队"
+        },
+        {
+          "pID": "969652136",
+          "name": "赛场原声"
         }
       ]
     },
@@ -1759,7 +1763,7 @@
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/30/77QTFHTMB7SI.png",
       "pkInfoTitle": "天津先行者vs浙江浙商证券",
       "modifyTitle": "CBA俱乐部杯小组赛第二阶段",
-      "presenters": "邵化谦 季孟年 荣浩达 徐秦威",
+      "presenters": "邵化谦 季孟年",
       "matchInfo": {
         "time": "11月22日19:30"
       },
@@ -1769,16 +1773,16 @@
           "name": "邵化谦 季孟年"
         },
         {
-          "pID": "969652960",
-          "name": "赛场原声"
-        },
-        {
           "pID": "969652989",
-          "name": "荣浩达"
+          "name": "天津主队"
         },
         {
           "pID": "969653064",
-          "name": "徐秦威"
+          "name": "浙证主队"
+        },
+        {
+          "pID": "969652960",
+          "name": "赛场原声"
         }
       ]
     },
@@ -1875,7 +1879,7 @@
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/30/77QTFHTMB7SI.png",
       "pkInfoTitle": "广州智都集团vs香港金牛",
       "modifyTitle": "CBA俱乐部杯小组赛第二阶段",
-      "presenters": "李天宇 于德豪 张泽欣 盛哲",
+      "presenters": "李天宇 于德豪",
       "matchInfo": {
         "time": "11月22日20:00"
       },
@@ -1885,16 +1889,16 @@
           "name": "李天宇 于德豪"
         },
         {
-          "pID": "969653460",
-          "name": "赛场原声"
-        },
-        {
           "pID": "969653473",
-          "name": "张泽欣"
+          "name": "广州主队"
         },
         {
           "pID": "969653508",
-          "name": "盛哲"
+          "name": "香港主队"
+        },
+        {
+          "pID": "969653460",
+          "name": "赛场原声"
         }
       ]
     },
@@ -1911,7 +1915,7 @@
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/30/77QTFHTMB7SI.png",
       "pkInfoTitle": "北京控股vs江西大谦",
       "modifyTitle": "CBA俱乐部杯小组赛第二阶段",
-      "presenters": "连睿 周鹏 周赫 吴博文",
+      "presenters": "连睿 周鹏",
       "matchInfo": {
         "time": "11月22日20:00"
       },
@@ -1921,16 +1925,16 @@
           "name": "连睿 周鹏"
         },
         {
-          "pID": "969653168",
-          "name": "赛场原声"
-        },
-        {
           "pID": "969653220",
-          "name": "周赫"
+          "name": "北控主队"
         },
         {
           "pID": "969653240",
-          "name": "吴博文"
+          "name": "江西主队"
+        },
+        {
+          "pID": "969653168",
+          "name": "赛场原声"
         }
       ]
     },
@@ -1947,7 +1951,7 @@
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/10/30/77QTFHTMB7SI.png",
       "pkInfoTitle": "新疆广汇能源vs辽宁本钢",
       "modifyTitle": "CBA俱乐部杯小组赛第二阶段",
-      "presenters": "孙博 曾令旭 卢鹏儒 哈秋",
+      "presenters": "孙博 曾令旭",
       "matchInfo": {
         "time": "11月22日20:00"
       },
@@ -1957,16 +1961,16 @@
           "name": "孙博 曾令旭"
         },
         {
-          "pID": "969653348",
-          "name": "赛场原声"
-        },
-        {
           "pID": "969653370",
-          "name": "卢鹏儒"
+          "name": "新疆主队"
         },
         {
           "pID": "969653401",
-          "name": "哈秋"
+          "name": "辽宁主队"
+        },
+        {
+          "pID": "969653348",
+          "name": "赛场原声"
         }
       ]
     },
