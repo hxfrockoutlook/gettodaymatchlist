@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-22 08:02:31",
+  "updateTime": "2026-11-22 08:32:27",
   "data": [
     {
       "mgdbId": "120000584446",
@@ -284,7 +284,7 @@
     },
     {
       "mgdbId": "120000601522",
-      "pID": "969539744",
+      "pID": "969493491",
       "title": "王信伯、罗泽涛、埃文斯出战",
       "keyword": "11月22日03:30",
       "sportItemId": "8",
@@ -301,14 +301,6 @@
       },
       "nodes": [
         {
-          "pID": "969539744",
-          "name": "杨江源"
-        },
-        {
-          "pID": "969493382",
-          "name": "3号桌"
-        },
-        {
           "pID": "969493491",
           "name": "5号桌"
         },
@@ -317,8 +309,20 @@
           "name": "6号桌"
         },
         {
+          "pID": "969493382",
+          "name": "3号桌"
+        },
+        {
+          "pID": "969539744",
+          "name": "杨江源"
+        },
+        {
           "pID": "969493550",
           "name": "7号桌"
+        },
+        {
+          "pID": "969493598",
+          "name": "8号桌"
         },
         {
           "pID": "969493400",
@@ -327,10 +331,6 @@
         {
           "pID": "969493465",
           "name": "4号桌"
-        },
-        {
-          "pID": "969493598",
-          "name": "8号桌"
         }
       ]
     },
@@ -703,7 +703,7 @@
       "matchStatus": "1",
       "matchField": "麦迪逊广场花园",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/21/77TG5OQBKADU.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/22/77TH4NV2RGMG.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "开拓者VS尼克斯",
       "modifyTitle": "NBA常规赛",
@@ -749,8 +749,16 @@
       },
       "nodes": [
         {
+          "pID": "969443323",
+          "name": "同看开拓者vs尼克斯"
+        },
+        {
           "pID": "969445683",
           "name": "刘芳宇"
+        },
+        {
+          "pID": "969445844",
+          "name": "同看鹈鹕vs马刺"
         },
         {
           "pID": "969445670",
@@ -783,6 +791,14 @@
         {
           "pID": "969445831",
           "name": "王晓晨"
+        },
+        {
+          "pID": "969443323",
+          "name": "同看开拓者vs尼克斯"
+        },
+        {
+          "pID": "969445683",
+          "name": "同播灰熊vs森林狼"
         },
         {
           "pID": "969445806",
@@ -2103,11 +2119,15 @@
       "nodes": [
         {
           "pID": "969526552",
-          "name": "梁祥宇"
+          "name": "���祥宇"
         },
         {
           "pID": "969526457",
           "name": "赛场原声"
+        },
+        {
+          "pID": "969526552",
+          "name": "梁祥宇"
         }
       ]
     },
