@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-23 20:31:57",
+  "updateTime": "2026-11-23 21:01:46",
   "data": [
     {
       "mgdbId": "120000601899",
@@ -820,7 +820,7 @@
       "title": "永劫无间世界冠军赛 Day1",
       "keyword": "11月23日16:00",
       "sportItemId": "10",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "永劫无间世界冠军赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/22/77TH4PNRTU2S.jpg",
@@ -841,7 +841,7 @@
     {
       "mgdbId": "120000601526",
       "pID": "969539602",
-      "title": "高阳VS“女皇”埃文斯 王信伯出战",
+      "title": "高阳6-1埃文斯 王信伯出战",
       "keyword": "11月23日17:30",
       "sportItemId": "8",
       "matchStatus": "1",
@@ -849,8 +849,8 @@
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/23/77TI2EBD76MP.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "高阳VS“女皇”埃文斯 王信伯出战",
-      "modifyTitle": "斯诺克英锦赛资格赛第二轮：高阳迎战“女皇”埃文斯 王信伯出战",
+      "pkInfoTitle": "高阳6-1埃文斯 王信伯出战",
+      "modifyTitle": "斯诺克英锦赛资格赛第二轮：高阳6-1埃文斯 王信伯出战",
       "presenters": "乔迁",
       "matchInfo": {
         "time": "11月23日17:30"
@@ -859,10 +859,6 @@
         {
           "pID": "969539602",
           "name": "乔迁"
-        },
-        {
-          "pID": "969493403",
-          "name": "2号桌"
         },
         {
           "pID": "969493495",
@@ -883,6 +879,10 @@
         {
           "pID": "969493607",
           "name": "7号桌"
+        },
+        {
+          "pID": "969493403",
+          "name": "2号桌"
         },
         {
           "pID": "969493711",
@@ -906,7 +906,7 @@
       "sportItemId": "2",
       "matchStatus": "1",
       "matchField": "",
-      "competitionName": "NBA经典赛事",
+      "competitionName": "NBA经典���事",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/23/77TI05HE421H.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png",
       "pkInfoTitle": "NBA精彩重播：凯尔特人vs勇士",
@@ -928,7 +928,7 @@
       "title": "中国8-2法国 王曼昱3-0帕瓦德",
       "keyword": "11月23日19:00",
       "sportItemId": "7",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "乒乓球经典赛事",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/22/77TH3E9T3PPP.png",
@@ -941,8 +941,8 @@
       },
       "nodes": [
         {
-          "pID": "969579647",
-          "name": "经典赛事"
+          "pID": "960942739",
+          "name": "全场回放"
         }
       ]
     },
@@ -1071,30 +1071,6 @@
         {
           "pID": "969322820",
           "name": "赛场原声"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000601934",
-      "pID": "969667530",
-      "title": "短道速滑世界巡回赛 韩国首尔站 1",
-      "keyword": "11月23日19:30",
-      "sportItemId": "8",
-      "matchStatus": "2",
-      "matchField": "",
-      "competitionName": "短道速滑世界巡回赛",
-      "padImg": "",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/10/29/100000001571106812a8.png",
-      "pkInfoTitle": "短道速滑世界巡回赛 韩国首尔站 1",
-      "modifyTitle": "短道速滑世界巡回赛",
-      "presenters": "",
-      "matchInfo": {
-        "time": "11月23日19:30"
-      },
-      "nodes": [
-        {
-          "pID": "969667530",
-          "name": "解说"
         }
       ]
     },
