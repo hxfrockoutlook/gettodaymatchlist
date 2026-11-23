@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-23 14:01:37",
+  "updateTime": "2026-11-23 14:32:56",
   "data": [
     {
       "mgdbId": "120000601899",
@@ -616,7 +616,7 @@
     },
     {
       "mgdbId": "120000588457",
-      "pID": "969699067",
+      "pID": "969700481",
       "title": "NBA常规赛",
       "keyword": "11月23日09:00",
       "sportItemId": "2",
@@ -633,6 +633,18 @@
       },
       "nodes": [
         {
+          "pID": "969700481",
+          "name": "全场集锦"
+        },
+        {
+          "pID": "969700691",
+          "name": "全场回放（王晓晨、王润陶、裴优）"
+        },
+        {
+          "pID": "969702873",
+          "name": "全场回放（英文原声）"
+        },
+        {
           "pID": "969695864",
           "name": "第一节"
         },
@@ -647,14 +659,6 @@
         {
           "pID": "969700206",
           "name": "第四节"
-        },
-        {
-          "pID": "969700691",
-          "name": "全场回放（王晓晨、王润陶、裴优）"
-        },
-        {
-          "pID": "969702873",
-          "name": "全场回放"
         }
       ]
     },
@@ -883,6 +887,30 @@
       ]
     },
     {
+      "mgdbId": "120000601814",
+      "pID": "969582950",
+      "title": "NBA精彩重播：凯尔特人vs勇士",
+      "keyword": "11月23日18:00",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "NBA经典赛事",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/23/77TI05HE421H.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png",
+      "pkInfoTitle": "NBA精彩重播：凯尔特人vs勇士",
+      "modifyTitle": "NBA精彩重播：凯尔特人vs勇士",
+      "presenters": "蔡凯臣 霍楠 小七",
+      "matchInfo": {
+        "time": "11月23日18:00"
+      },
+      "nodes": [
+        {
+          "pID": "969582950",
+          "name": "蔡凯臣 霍楠 小七"
+        }
+      ]
+    },
+    {
       "mgdbId": "120000601803",
       "pID": "969579647",
       "title": "中国8-2法国 王曼昱3-0帕瓦德",
@@ -892,7 +920,7 @@
       "matchField": "",
       "competitionName": "乒乓球经典赛事",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/22/77TH3E9T3PPP.png",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/4/3/10000000117810627118.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/23/77TI04HB9NPV.png",
       "pkInfoTitle": "中国8-2法国 王曼昱3-0帕瓦德",
       "modifyTitle": "【赛事放映厅】重温2025混团世界杯：第二阶段循环赛第3轮",
       "presenters": "",
