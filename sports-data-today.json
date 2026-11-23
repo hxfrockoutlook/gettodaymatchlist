@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-23 22:01:49",
+  "updateTime": "2026-11-23 22:31:32",
   "data": [
     {
       "mgdbId": "120000601899",
@@ -865,14 +865,6 @@
           "name": "8号桌"
         },
         {
-          "pID": "969493554",
-          "name": "6号桌"
-        },
-        {
-          "pID": "969493607",
-          "name": "7号桌"
-        },
-        {
           "pID": "969493403",
           "name": "2号桌"
         },
@@ -885,6 +877,10 @@
           "name": "4号桌"
         },
         {
+          "pID": "969493554",
+          "name": "6号桌"
+        },
+        {
           "pID": "969493321",
           "name": "1号桌"
         },
@@ -895,12 +891,16 @@
         {
           "pID": "969493532",
           "name": "5号桌"
+        },
+        {
+          "pID": "969493607",
+          "name": "7号桌"
         }
       ]
     },
     {
       "mgdbId": "120000601814",
-      "pID": "969582950",
+      "pID": "969701619",
       "title": "NBA精彩重播：凯尔特人vs勇士",
       "keyword": "11月23日18:00",
       "sportItemId": "2",
@@ -917,8 +917,8 @@
       },
       "nodes": [
         {
-          "pID": "969582950",
-          "name": "蔡凯臣 霍楠 小七"
+          "pID": "969701619",
+          "name": "全场回放（蔡凯臣、霍楠、小七）"
         }
       ]
     },
@@ -1000,7 +1000,7 @@
       "title": "四川vs江西",
       "keyword": "11月23日19:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "中国篮球城市冠军联赛",
       "padImg": "",
@@ -1037,6 +1037,10 @@
       },
       "nodes": [
         {
+          "pID": "969713948",
+          "name": "全场回放"
+        },
+        {
           "pID": "969713352",
           "name": "全场集锦"
         }
@@ -1068,7 +1072,7 @@
     },
     {
       "mgdbId": "120000600495",
-      "pID": "969713103",
+      "pID": "969713439",
       "title": "WCBA",
       "keyword": "11月23日20:00",
       "sportItemId": "2",
@@ -1085,16 +1089,8 @@
       },
       "nodes": [
         {
-          "pID": "969713103",
-          "name": "穿针引线！武桐桐过掉对手后妙传助攻队友篮下打进"
-        },
-        {
-          "pID": "969324705",
-          "name": "解说"
-        },
-        {
-          "pID": "969324739",
-          "name": "赛场原声"
+          "pID": "969713439",
+          "name": "全场集锦"
         }
       ]
     },
@@ -1104,10 +1100,10 @@
       "title": "2026国际足联U17世界杯",
       "keyword": "11月23日20:30",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "U17世界杯",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/23/77TI2NSJOEHD.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/23/77TI2FHUB5AP.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/100000000345106d154d.png",
       "pkInfoTitle": "西班牙vs斐济",
       "modifyTitle": "2026国际足联U17世界杯",
@@ -1119,30 +1115,6 @@
         {
           "pID": "969696740",
           "name": "CCTV5"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000601937",
-      "pID": "969667611",
-      "title": "短道速滑世界巡回赛 韩国首尔站 1",
-      "keyword": "11月23日21:06",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "短道速滑世界巡回赛",
-      "padImg": "",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/10/29/100000001571106812a8.png",
-      "pkInfoTitle": "短道速滑世界巡回赛 韩国首尔站 1",
-      "modifyTitle": "短道速滑世界巡回赛 韩国首尔站 1",
-      "presenters": "",
-      "matchInfo": {
-        "time": "11月23日21:06"
-      },
-      "nodes": [
-        {
-          "pID": "969667611",
-          "name": "解说"
         }
       ]
     },
@@ -1201,7 +1173,7 @@
       "title": "许医尘PK伯恩斯 吉米·怀特出战",
       "keyword": "11月23日22:30",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/23/77TI2DS8LJEO.jpg",
