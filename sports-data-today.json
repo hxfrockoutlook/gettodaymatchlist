@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-24 12:01:53",
+  "updateTime": "2026-11-24 12:32:02",
   "data": [
     {
       "mgdbId": "120000590405",
@@ -10,7 +10,7 @@
       "sportItemId": "1",
       "matchStatus": "2",
       "matchField": "巴伊特球场",
-      "competitionName": "亚冠精英",
+      "competitionName": "亚冠���英",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/24/77TIT6N8V8SC.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/9/11/1000000012261060873b.png",
       "pkInfoTitle": "撒马尔 vs 吉达国民",
@@ -325,6 +325,10 @@
           "name": "全场回放（张泽欣）"
         },
         {
+          "pID": "969730333",
+          "name": "全场回放（英文原声）"
+        },
+        {
           "pID": "969724079",
           "name": "第一节"
         },
@@ -601,6 +605,10 @@
       },
       "nodes": [
         {
+          "pID": "969730364",
+          "name": "全场回放（李嘉伟）"
+        },
+        {
           "pID": "969725613",
           "name": "第一节"
         },
@@ -615,20 +623,16 @@
         {
           "pID": "969729709",
           "name": "第四节"
-        },
-        {
-          "pID": "969730364",
-          "name": "全场回放（李嘉伟）"
         }
       ]
     },
     {
       "mgdbId": "120000588466",
-      "pID": "969579261",
+      "pID": "969727006",
       "title": "NBA常规赛",
       "keyword": "11月24日09:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "丰田中心球馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/24/77TIVV9VO4BV.jpg",
@@ -641,12 +645,24 @@
       },
       "nodes": [
         {
-          "pID": "969579261",
-          "name": "孙博 周鹏 裴优"
+          "pID": "969730926",
+          "name": "全场回放（孙博、周鹏、裴优）"
         },
         {
-          "pID": "969579215",
-          "name": "英文原声"
+          "pID": "969726487",
+          "name": "第一节"
+        },
+        {
+          "pID": "969727614",
+          "name": "第二节"
+        },
+        {
+          "pID": "969729115",
+          "name": "第三节"
+        },
+        {
+          "pID": "969730335",
+          "name": "第四节"
         }
       ]
     },
@@ -737,10 +753,6 @@
           "name": "努迈尔VS兹科"
         },
         {
-          "pID": "969714407",
-          "name": "凯达尔/希拉尔VS李易博/何颖萱"
-        },
-        {
           "pID": "969703952",
           "name": "1号场地"
         },
@@ -783,6 +795,10 @@
         {
           "pID": "969714538",
           "name": "布洛娃/坎特米尔VS奥恩尼卡/索菲塔"
+        },
+        {
+          "pID": "969714407",
+          "name": "凯达尔/希拉尔VS李易博/何颖萱"
         }
       ]
     },
