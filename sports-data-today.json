@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-24 14:32:04",
+  "updateTime": "2026-11-24 15:02:01",
   "data": [
     {
       "mgdbId": "120000590405",
@@ -10,7 +10,7 @@
       "sportItemId": "1",
       "matchStatus": "2",
       "matchField": "巴伊特球场",
-      "competitionName": "���冠精英",
+      "competitionName": "亚冠精英",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/24/77TIT6N8V8SC.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/9/11/1000000012261060873b.png",
       "pkInfoTitle": "撒马尔 vs 吉达国民",
@@ -374,7 +374,7 @@
         },
         {
           "pID": "969728450",
-          "name": "全场回放（杨健、丁彦雨航、曾令旭、佳依）"
+          "name": "全场回放（杨健、曾令旭、佳依）"
         },
         {
           "pID": "969728181",
@@ -760,7 +760,7 @@
     },
     {
       "mgdbId": "120000588468",
-      "pID": "969730719",
+      "pID": "969733228",
       "title": "NBA常规赛",
       "keyword": "11月24日11:00",
       "sportItemId": "2",
@@ -776,6 +776,10 @@
         "time": "11月24日11:00"
       },
       "nodes": [
+        {
+          "pID": "969733228",
+          "name": "全场集锦"
+        },
         {
           "pID": "969733225",
           "name": "全场回放（庄宁宇、陈正昊、徐咏、王羽希）"
@@ -800,7 +804,7 @@
     },
     {
       "mgdbId": "120000602117",
-      "pID": "969714465",
+      "pID": "969714482",
       "title": "因陀罗/华金领衔出战男双",
       "keyword": "11月24日11:30",
       "sportItemId": "6",
@@ -816,6 +820,10 @@
         "time": "11月24日11:30"
       },
       "nodes": [
+        {
+          "pID": "969714482",
+          "name": "沃塔拉/拉杰VS卡尔蒂克/帕尔斯"
+        },
         {
           "pID": "969714465",
           "name": "加内什/普拉穆特什VS迪普塔/卡尼卡"
@@ -835,10 +843,6 @@
         {
           "pID": "969704083",
           "name": "4号场地"
-        },
-        {
-          "pID": "969714482",
-          "name": "沃塔拉/拉杰VS卡尔蒂克/帕尔斯"
         },
         {
           "pID": "969714494",
@@ -949,7 +953,7 @@
       "title": "精彩回顾：莱巴金娜 vs 施耐德",
       "keyword": "11月24日15:00",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/23/77TI29VUIGV0.jpg",
@@ -973,7 +977,7 @@
       "title": "中国女子围棋甲级联赛-第18轮",
       "keyword": "11月24日15:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "中国围棋甲级联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/23/77TI2Q0RFQPT.png",
@@ -1045,7 +1049,7 @@
     },
     {
       "mgdbId": "120000601529",
-      "pID": "969539554",
+      "pID": "969494064",
       "title": "资格赛第三轮：张安达、庞俊旭等7位中国选手出战",
       "keyword": "11月24日17:30",
       "sportItemId": "8",
@@ -1062,12 +1066,12 @@
       },
       "nodes": [
         {
-          "pID": "969539554",
-          "name": "乔迁"
-        },
-        {
           "pID": "969494064",
           "name": "1号桌"
+        },
+        {
+          "pID": "969539554",
+          "name": "乔迁"
         },
         {
           "pID": "969494376",
