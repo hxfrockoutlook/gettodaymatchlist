@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-24 17:31:52",
+  "updateTime": "2026-11-24 18:02:10",
   "data": [
     {
       "mgdbId": "120000590405",
@@ -10,7 +10,7 @@
       "sportItemId": "1",
       "matchStatus": "2",
       "matchField": "巴伊特球场",
-      "competitionName": "���冠精英",
+      "competitionName": "亚冠精英",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/24/77TIT6N8V8SC.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/9/11/1000000012261060873b.png",
       "pkInfoTitle": "撒马尔 vs 吉达国民",
@@ -816,7 +816,7 @@
     },
     {
       "mgdbId": "120000602117",
-      "pID": "969703952",
+      "pID": "969714494",
       "title": "因陀罗/华金领衔出战男双",
       "keyword": "11月24日11:30",
       "sportItemId": "6",
@@ -833,6 +833,10 @@
       },
       "nodes": [
         {
+          "pID": "969714494",
+          "name": "纳坦/德尚VS德夫/迪伦"
+        },
+        {
           "pID": "969703952",
           "name": "1号场地"
         },
@@ -847,10 +851,6 @@
         {
           "pID": "969704083",
           "name": "4号场地"
-        },
-        {
-          "pID": "969714494",
-          "name": "纳坦/德尚VS德夫/迪伦"
         },
         {
           "pID": "969714504",
@@ -937,7 +937,7 @@
       "title": "中国篮球放映室：北控vs新疆",
       "keyword": "11月24日14:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "CBA经典赛事",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/23/77THVVCQINQC.png",
@@ -951,11 +951,7 @@
       "nodes": [
         {
           "pID": "968959234",
-          "name": "26/27赛季CBA常规赛第7轮全场回放：北控vs新疆（吕程、李根、季孟年）（50帧原画）"
-        },
-        {
-          "pID": "969094361",
-          "name": "吕程 李根 季孟年"
+          "name": "全场回放"
         }
       ]
     },
@@ -984,34 +980,15 @@
       ]
     },
     {
-      "mgdbId": "120000602128",
-      "pID": "969706210",
-      "title": "中国女子围棋甲级联赛-第18轮",
-      "keyword": "11月24日15:00",
-      "sportItemId": "8",
-      "matchStatus": "2",
-      "matchField": "",
-      "competitionName": "中国围棋甲级联赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/23/77TI2Q0RFQPT.png",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/5/27/100000001472106214f8.png",
-      "pkInfoTitle": "中国女子围棋甲级联赛-第18轮",
-      "modifyTitle": "中国女子围棋甲级联赛-第18轮",
-      "presenters": "",
-      "matchInfo": {
-        "time": "11月24日15:00"
-      },
-      "nodes": []
-    },
-    {
       "mgdbId": "120000590402",
       "pID": "969555846",
       "title": "亚冠精英联赛阶段",
       "keyword": "11月24日15:45",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "中岸球場",
       "competitionName": "亚冠精英",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000590402/847869_H169_sc.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/24/77TIU5BJ8JP2.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/9/11/1000000012261060873b.png",
       "pkInfoTitle": "纽卡斯尔喷气机 vs 柏太阳神",
       "modifyTitle": "亚冠精英联赛阶段",
@@ -1021,12 +998,8 @@
       },
       "nodes": [
         {
-          "pID": "969555846",
-          "name": "孙雨轩"
-        },
-        {
-          "pID": "969526267",
-          "name": "赛场原声"
+          "pID": "969739879",
+          "name": "全场回放（孙雨轩）"
         }
       ]
     },
@@ -1056,7 +1029,7 @@
     },
     {
       "mgdbId": "120000601529",
-      "pID": "969494064",
+      "pID": "969494252",
       "title": "资格赛第三轮：张安达、庞俊旭等7位中国选手出战",
       "keyword": "11月24日17:30",
       "sportItemId": "8",
@@ -1073,16 +1046,28 @@
       },
       "nodes": [
         {
-          "pID": "969494064",
-          "name": "1号桌"
-        },
-        {
           "pID": "969539554",
           "name": "乔迁"
         },
         {
+          "pID": "969494252",
+          "name": "4号桌"
+        },
+        {
+          "pID": "969494338",
+          "name": "8号桌"
+        },
+        {
           "pID": "969494376",
           "name": "AI智慧观赛"
+        },
+        {
+          "pID": "969494302",
+          "name": "6号桌"
+        },
+        {
+          "pID": "969494064",
+          "name": "1号桌"
         },
         {
           "pID": "969494112",
@@ -1093,24 +1078,12 @@
           "name": "3号桌"
         },
         {
-          "pID": "969494252",
-          "name": "4号桌"
-        },
-        {
           "pID": "969494271",
           "name": "5号桌"
         },
         {
-          "pID": "969494302",
-          "name": "6号桌"
-        },
-        {
           "pID": "969494322",
           "name": "7号桌"
-        },
-        {
-          "pID": "969494338",
-          "name": "8号桌"
         }
       ]
     },
@@ -1120,7 +1093,7 @@
       "title": "亚冠精英联赛阶段",
       "keyword": "11月24日18:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "Sanga Stadium by Kyocera",
       "competitionName": "亚冠精英",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000590400/237811_H169_sc.jpg",
@@ -1176,7 +1149,7 @@
       "title": "NBA精彩重播：开拓者vs76人",
       "keyword": "11月24日18:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA经典赛事",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/24/77TITPEPE40A.jpg",
