@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-25 21:01:38",
+  "updateTime": "2026-11-25 21:31:42",
   "data": [
     {
       "mgdbId": "120000590396",
@@ -473,16 +473,12 @@
       },
       "nodes": [
         {
+          "pID": "969765501",
+          "name": "全场集锦"
+        },
+        {
           "pID": "969764449",
           "name": "全场回放（乔迁）"
-        },
-        {
-          "pID": "969764514",
-          "name": "全场回放"
-        },
-        {
-          "pID": "969764568",
-          "name": "全场回放"
         }
       ]
     },
@@ -550,7 +546,7 @@
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/25/77TJRTQD5OG5.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/9/11/1000000012261060873b.png",
       "pkInfoTitle": "大阪钢巴 vs 泰港",
-      "modifyTitle": "亚冠精英联赛���段",
+      "modifyTitle": "亚冠精��联赛阶段",
       "presenters": "盛斌",
       "matchInfo": {
         "time": "11月25日18:00"
@@ -575,7 +571,7 @@
       "matchStatus": "2",
       "matchField": "鹿岛足球场",
       "competitionName": "亚冠精英",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/25/77TJS2LCKJHF.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/25/77TJSCC4TTSP.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/9/11/1000000012261060873b.png",
       "pkInfoTitle": "鹿岛鹿角 vs 全北现代汽车",
       "modifyTitle": "亚冠精英联赛阶段",
@@ -584,10 +580,6 @@
         "time": "11月25日18:00"
       },
       "nodes": [
-        {
-          "pID": "969766575",
-          "name": "全场回放"
-        },
         {
           "pID": "969766603",
           "name": "全场回放（鲁靖明）"
@@ -624,7 +616,7 @@
       "title": "王曼昱2-1伊藤 莎头组合零封对手",
       "keyword": "11月25日19:00",
       "sportItemId": "7",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "乒乓球经典赛事",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/24/77TITUF931H8.png",
@@ -637,8 +629,8 @@
       },
       "nodes": [
         {
-          "pID": "969579764",
-          "name": "经典赛事"
+          "pID": "960977703",
+          "name": "全场回放"
         }
       ]
     },
@@ -648,7 +640,7 @@
       "title": "精彩回顾：萨巴伦卡 vs 穆霍娃",
       "keyword": "11月25日19:00",
       "sportItemId": "9",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/24/77TIUMOPJ69J.jpg",
@@ -661,8 +653,8 @@
       },
       "nodes": [
         {
-          "pID": "969609149",
-          "name": "李宁"
+          "pID": "969317786",
+          "name": "【回放】萨巴伦卡2-0穆霍娃（李宁）"
         }
       ]
     },
@@ -672,7 +664,7 @@
       "title": "中国篮球放映室：上海vs南京",
       "keyword": "11月25日19:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "CBA经典赛事",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/25/77TJSUCNE7MS.png",
@@ -685,8 +677,8 @@
       },
       "nodes": [
         {
-          "pID": "969094599",
-          "name": "李天宇 徐咏"
+          "pID": "969001829",
+          "name": "全场回放（李天宇、徐咏）"
         }
       ]
     },
@@ -768,7 +760,7 @@
     },
     {
       "mgdbId": "120000601532",
-      "pID": "969493714",
+      "pID": "969752522",
       "title": "晋级轮：斯佳辉VS霍尔特 龙泽煌出战",
       "keyword": "11月25日21:00",
       "sportItemId": "8",
@@ -785,16 +777,20 @@
       },
       "nodes": [
         {
-          "pID": "969493714",
-          "name": "1号桌"
+          "pID": "969752522",
+          "name": "柏林"
+        },
+        {
+          "pID": "969493808",
+          "name": "2号桌"
         },
         {
           "pID": "969493967",
           "name": "AI智慧观赛"
         },
         {
-          "pID": "969493808",
-          "name": "2号桌"
+          "pID": "969493714",
+          "name": "1号桌"
         },
         {
           "pID": "969493875",
@@ -803,10 +799,6 @@
         {
           "pID": "969494007",
           "name": "4号桌"
-        },
-        {
-          "pID": "969752522",
-          "name": "柏林"
         }
       ]
     },
@@ -816,7 +808,7 @@
       "title": "亚冠二级小组赛",
       "keyword": "11月25日21:45",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "中央球场",
       "competitionName": "亚冠二级",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000590499/202608190835_669120_H169_1080.webp",
