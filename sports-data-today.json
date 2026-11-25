@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-26 07:01:49",
+  "updateTime": "2026-11-26 07:31:37",
   "data": [
     {
       "mgdbId": "120000590495",
@@ -148,8 +148,8 @@
     },
     {
       "mgdbId": "120000601533",
-      "pID": "969495880",
-      "title": "晋级轮：范争一vs宾汉姆 张安达6-0穆迪",
+      "pID": "969496076",
+      "title": "晋级轮：范争一6-5宾汉姆 张安达6-0穆迪",
       "keyword": "11月26日03:00",
       "sportItemId": "8",
       "matchStatus": "1",
@@ -157,21 +157,13 @@
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/25/77TJTAH4E04G.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "晋级轮：范争一vs宾汉姆 张安达6-0穆迪",
-      "modifyTitle": "斯诺克英锦赛资格赛审判轮：范争一vs宾汉姆 张安达6-0穆迪",
+      "pkInfoTitle": "晋级轮：范争一6-5宾汉姆 张安达6-0穆迪",
+      "modifyTitle": "斯诺克英锦赛资格赛审判轮：范争一6-5宾汉姆 张安达6-0穆迪",
       "presenters": "卢正浩",
       "matchInfo": {
         "time": "11月26日03:00"
       },
       "nodes": [
-        {
-          "pID": "969495880",
-          "name": "2号桌"
-        },
-        {
-          "pID": "969495979",
-          "name": "3号桌"
-        },
         {
           "pID": "969496076",
           "name": "4号桌"
@@ -183,6 +175,14 @@
         {
           "pID": "969494340",
           "name": "AI智慧观赛"
+        },
+        {
+          "pID": "969495880",
+          "name": "2号桌"
+        },
+        {
+          "pID": "969495979",
+          "name": "3号桌"
         },
         {
           "pID": "969752484",
@@ -592,7 +592,7 @@
     },
     {
       "mgdbId": "120000602119",
-      "pID": "969704340",
+      "pID": "969769100",
       "title": "郑加恒、郡司莉子出战 李梓嘉冲八强",
       "keyword": "11月26日12:30",
       "sportItemId": "6",
@@ -603,11 +603,15 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "郑加恒、郡司莉子出战 李梓嘉冲八强",
       "modifyTitle": "赛德莫迪羽毛球国际赛Day3：郑加恒、郡司莉子出战 李梓嘉冲八强",
-      "presenters": "朱胤丞 轩子博 杨妮娜",
+      "presenters": "杨妮娜 朱胤丞 轩子博",
       "matchInfo": {
         "time": "11月26日12:30"
       },
       "nodes": [
+        {
+          "pID": "969769100",
+          "name": "查布拉/阿迪蒂VS亨明/埃斯特尔"
+        },
         {
           "pID": "969704340",
           "name": "1号场地"
@@ -623,6 +627,14 @@
         {
           "pID": "969704542",
           "name": "4号场地"
+        },
+        {
+          "pID": "969769150",
+          "name": "里查多VS兹科"
+        },
+        {
+          "pID": "969769134",
+          "name": "卡纳普拉姆/雷希卡VS马希贾/派伊"
         },
         {
           "pID": "969768984",
@@ -647,18 +659,6 @@
         {
           "pID": "969769087",
           "name": "因陀罗/华金VS阿里夫/海卡尔"
-        },
-        {
-          "pID": "969769100",
-          "name": "查布拉/阿迪蒂VS亨明/埃斯特尔"
-        },
-        {
-          "pID": "969769134",
-          "name": "卡纳普拉姆/雷希卡VS马希贾/派伊"
-        },
-        {
-          "pID": "969769150",
-          "name": "里查多VS兹科"
         }
       ]
     },
@@ -718,7 +718,7 @@
       "sportItemId": "7",
       "matchStatus": "0",
       "matchField": "",
-      "competitionName": "国际乒联混合团体世界杯",
+      "competitionName": "国���乒联混合团体世界杯",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/23/77TI04JP508I.png",
       "pkInfoTitle": "小马哥、徐晨皓、周冠达为您前瞻",
