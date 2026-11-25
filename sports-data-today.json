@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-25 10:31:24",
+  "updateTime": "2026-11-25 11:01:31",
   "data": [
     {
       "mgdbId": "120000590396",
@@ -136,11 +136,11 @@
     },
     {
       "mgdbId": "120000590174",
-      "pID": "969581933",
+      "pID": "969752749",
       "title": "NBANBA杯",
       "keyword": "11月25日08:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "安利中心",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/25/77TJSMLCAHAK.png",
@@ -153,12 +153,24 @@
       },
       "nodes": [
         {
-          "pID": "969581933",
-          "name": "姜帆 周赫 裴优"
+          "pID": "969752749",
+          "name": "全场集锦"
         },
         {
-          "pID": "969581911",
-          "name": "英文原声"
+          "pID": "969750522",
+          "name": "第一节"
+        },
+        {
+          "pID": "969750807",
+          "name": "第二节"
+        },
+        {
+          "pID": "969751578",
+          "name": "第三节"
+        },
+        {
+          "pID": "969752242",
+          "name": "第四节"
         }
       ]
     },
@@ -711,7 +723,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "晋级轮：斯佳辉VS霍尔特 龙泽煌出战",
       "modifyTitle": "斯诺克英锦赛资格赛审判轮：斯佳辉VS霍尔特 龙泽煌出战",
-      "presenters": "",
+      "presenters": "柏林",
       "matchInfo": {
         "time": "11月25日21:00"
       },
@@ -735,6 +747,10 @@
         {
           "pID": "969494007",
           "name": "4号桌"
+        },
+        {
+          "pID": "969752522",
+          "name": "柏林"
         }
       ]
     },
