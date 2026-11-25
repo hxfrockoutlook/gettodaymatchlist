@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-25 08:32:17",
+  "updateTime": "2026-11-25 09:01:32",
   "data": [
     {
       "mgdbId": "120000590396",
@@ -203,7 +203,7 @@
       "pID": "968817740",
       "title": "咪咕体育日报 第252期",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "咪咕体育日报",
       "padImg": "",
@@ -215,6 +215,34 @@
         {
           "pID": "968817740",
           "name": "咪咕体育日报 第252期"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000601899",
+      "pID": "969609329",
+      "title": "解锁播时任务 赢万份会员+限量周边",
+      "keyword": "11月25日08:30",
+      "sportItemId": "5",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "UFC格斗马拉松",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/21/77TG87GENM48.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/11/6/1000000004131061b3d9.png",
+      "pkInfoTitle": "解锁播时任务 赢万份会员+限量周边",
+      "modifyTitle": "UFC格斗马拉松：解锁播时任务 万份会员+限量周边送不停",
+      "presenters": "",
+      "matchInfo": {
+        "time": "11月25日08:30"
+      },
+      "nodes": [
+        {
+          "pID": "969609329",
+          "name": "格斗马拉松"
+        },
+        {
+          "pID": "969324404",
+          "name": "薅羊毛攻略"
         }
       ]
     },
@@ -511,7 +539,7 @@
       "matchStatus": "0",
       "matchField": "市立吹田球场",
       "competitionName": "亚冠精英",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000590393/202608190640_210184_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000590393/564737_H169_sc.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/9/11/1000000012261060873b.png",
       "pkInfoTitle": "大阪钢巴 vs 泰港",
       "modifyTitle": "亚冠精英联赛阶段",
@@ -555,6 +583,30 @@
         {
           "pID": "969526686",
           "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000601816",
+      "pID": "969583007",
+      "title": "NBA精彩重播：独行侠vs掘金",
+      "keyword": "11月25日18:00",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "NBA经典赛事",
+      "padImg": "",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png",
+      "pkInfoTitle": "NBA精彩重播：独行侠vs掘金",
+      "modifyTitle": "NBA经典赛事",
+      "presenters": "连睿 于德豪 周鹏",
+      "matchInfo": {
+        "time": "11月25日18:00"
+      },
+      "nodes": [
+        {
+          "pID": "969583007",
+          "name": "连睿 于德豪 周鹏"
         }
       ]
     },
