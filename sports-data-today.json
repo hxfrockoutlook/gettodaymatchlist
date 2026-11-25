@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-25 13:32:09",
+  "updateTime": "2026-11-25 14:01:56",
   "data": [
     {
       "mgdbId": "120000590396",
@@ -233,6 +233,10 @@
           "name": "全场回放（蔡凯臣、季孟年、拜月宁）"
         },
         {
+          "pID": "969755924",
+          "name": "全场回放（AI字幕）"
+        },
+        {
           "pID": "969751297",
           "name": "第一节"
         },
@@ -252,14 +256,14 @@
     },
     {
       "mgdbId": "120000590176",
-      "pID": "969582088",
+      "pID": "969755715",
       "title": "NBANBA杯",
       "keyword": "11月25日11:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "波尔体育馆",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/24/77TIST9FHON4.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/25/77TJQ2JPM5E8.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "独行侠VS掘金",
       "modifyTitle": "NBANBA杯",
@@ -267,7 +271,24 @@
       "matchInfo": {
         "time": "11月25日11:00"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "969754677",
+          "name": "第一节"
+        },
+        {
+          "pID": "969755448",
+          "name": "第二节"
+        },
+        {
+          "pID": "969756232",
+          "name": "第三节"
+        },
+        {
+          "pID": "969757007",
+          "name": "第四节"
+        }
+      ]
     },
     {
       "mgdbId": "120000602118",
@@ -282,7 +303,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "郑加恒、郡司莉子领衔 李梓嘉冲开门红",
       "modifyTitle": "赛德莫迪羽毛球国际赛Day2：郑加恒、郡司莉子领衔 李梓嘉冲开门红",
-      "presenters": "杨妮娜 轩子博 朱胤丞",
+      "presenters": "轩子博 杨妮娜 朱胤丞",
       "matchInfo": {
         "time": "11月25日11:30"
       },
@@ -347,7 +368,7 @@
       "title": "精彩回顾：科斯秋克 vs 诺斯科娃",
       "keyword": "11月25日12:00",
       "sportItemId": "9",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/24/77TIUMI7UP7E.jpg",
@@ -399,7 +420,7 @@
       "title": "中国篮球放映室：山东vs北控",
       "keyword": "11月25日14:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "CBA经典赛事",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/24/77TITC1BTOQQ.jpg",
@@ -486,7 +507,12 @@
       "matchInfo": {
         "time": "11月25日16:00"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "969665778",
+          "name": "清流播出"
+        }
+      ]
     },
     {
       "mgdbId": "120000590393",
@@ -553,7 +579,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "NBA经典赛事",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/25/77TJQ3OQTQI1.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png",
       "pkInfoTitle": "NBA精彩重播：独行侠vs掘金",
       "modifyTitle": "NBA经典赛事",
