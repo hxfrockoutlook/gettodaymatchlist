@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-25 12:31:21",
+  "updateTime": "2026-11-25 13:01:28",
   "data": [
     {
       "mgdbId": "120000590396",
@@ -134,7 +134,11 @@
         },
         {
           "pID": "969754208",
-          "name": "26/27赛季斯诺克英锦赛资格赛第3轮回放：徐思5-6马克·乔伊斯（赛场原声）"
+          "name": "【回放】徐思5-6马克·乔伊斯（赛场原声）"
+        },
+        {
+          "pID": "969755762",
+          "name": "26/27赛季斯诺克英锦赛资格赛第3轮回放：亚伦·希尔5-6本·默滕斯（赛场原声）"
         }
       ]
     },
@@ -162,7 +166,11 @@
         },
         {
           "pID": "969753020",
-          "name": "全场回放（��帆、周赫、裴优）"
+          "name": "全场回放（姜帆、周赫、裴优）"
+        },
+        {
+          "pID": "969755241",
+          "name": "全场回放（英文原声）"
         },
         {
           "pID": "969750522",
@@ -203,34 +211,6 @@
       ]
     },
     {
-      "mgdbId": "120000601899",
-      "pID": "969609329",
-      "title": "解锁播时任务 赢万份会员+限量周边",
-      "keyword": "11月25日08:30",
-      "sportItemId": "5",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "UFC格斗马拉松",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/21/77TG87GENM48.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/11/6/1000000004131061b3d9.png",
-      "pkInfoTitle": "解锁播时任务 赢万份会员+限量周边",
-      "modifyTitle": "UFC格斗马拉松：解锁播时任务 万份会员+限量周边送不停",
-      "presenters": "",
-      "matchInfo": {
-        "time": "11月25日08:30"
-      },
-      "nodes": [
-        {
-          "pID": "969609329",
-          "name": "格斗马拉松"
-        },
-        {
-          "pID": "969324404",
-          "name": "薅羊毛攻略"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000590175",
       "pID": "969754419",
       "title": "NBANBA杯",
@@ -249,6 +229,10 @@
       },
       "nodes": [
         {
+          "pID": "969755750",
+          "name": "全场回放（蔡凯臣、季孟年、拜月宁）"
+        },
+        {
           "pID": "969751297",
           "name": "第一节"
         },
@@ -263,6 +247,10 @@
         {
           "pID": "969754533",
           "name": "第四节"
+        },
+        {
+          "pID": "969755924",
+          "name": "全场回放"
         }
       ]
     },
@@ -300,7 +288,7 @@
     },
     {
       "mgdbId": "120000602118",
-      "pID": "969746473",
+      "pID": "969746477",
       "title": "郑加恒、郡司莉子领衔 李梓嘉冲开门红",
       "keyword": "11月25日11:30",
       "sportItemId": "6",
@@ -317,8 +305,8 @@
       },
       "nodes": [
         {
-          "pID": "969746473",
-          "name": "高永杰/黄家豪VS沃塔拉/拉杰"
+          "pID": "969746477",
+          "name": "阿卡尔西VS黄玲青"
         },
         {
           "pID": "969704203",
@@ -335,10 +323,6 @@
         {
           "pID": "969704312",
           "name": "4号场地"
-        },
-        {
-          "pID": "969746477",
-          "name": "阿卡尔西VS黄玲青"
         },
         {
           "pID": "969746487",
@@ -367,6 +351,10 @@
         {
           "pID": "969746460",
           "name": "刘奕胜/李易博VS阿布尤迪/马希贾"
+        },
+        {
+          "pID": "969746473",
+          "name": "高永杰/黄家豪VS沃塔拉/拉杰"
         }
       ]
     },
@@ -391,6 +379,34 @@
         {
           "pID": "969609101",
           "name": "鸿昆"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000601899",
+      "pID": "969609329",
+      "title": "解锁播时任务 赢万份会员+限量周边",
+      "keyword": "11月25日12:00",
+      "sportItemId": "5",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "UFC格斗马拉松",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/21/77TG87GENM48.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/11/6/1000000004131061b3d9.png",
+      "pkInfoTitle": "解锁播时任务 赢万份会员+限量周边",
+      "modifyTitle": "UFC格斗马拉松：解锁播时任务 万份会员+限量周边送不停",
+      "presenters": "",
+      "matchInfo": {
+        "time": "11月25日12:00"
+      },
+      "nodes": [
+        {
+          "pID": "969609329",
+          "name": "格斗马拉松"
+        },
+        {
+          "pID": "969324404",
+          "name": "薅羊毛攻略"
         }
       ]
     },
@@ -731,7 +747,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "斯诺克",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/25/77TJTABISPJC.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "晋级轮：斯佳辉VS霍尔特 龙泽煌出战",
       "modifyTitle": "斯诺克英锦赛资格赛审判轮：斯佳辉VS霍尔特 龙泽煌出战",
