@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-25 15:01:27",
+  "updateTime": "2026-11-25 15:31:25",
   "data": [
     {
       "mgdbId": "120000590396",
@@ -212,7 +212,7 @@
     },
     {
       "mgdbId": "120000590175",
-      "pID": "969754419",
+      "pID": "969758664",
       "title": "NBANBA杯",
       "keyword": "11月25日09:00",
       "sportItemId": "2",
@@ -228,6 +228,10 @@
         "time": "11月25日09:00"
       },
       "nodes": [
+        {
+          "pID": "969758664",
+          "name": "全场集锦"
+        },
         {
           "pID": "969755750",
           "name": "全场回放（蔡凯臣、季孟年、拜月宁）"
@@ -260,7 +264,7 @@
     },
     {
       "mgdbId": "120000590176",
-      "pID": "969755715",
+      "pID": "969759006",
       "title": "NBANBA杯",
       "keyword": "11月25日11:00",
       "sportItemId": "2",
@@ -276,6 +280,10 @@
         "time": "11月25日11:00"
       },
       "nodes": [
+        {
+          "pID": "969759006",
+          "name": "全场集锦"
+        },
         {
           "pID": "969757346",
           "name": "全场回放（ 连睿、于德豪、周鹏、秋童）"
@@ -300,7 +308,7 @@
     },
     {
       "mgdbId": "120000602118",
-      "pID": "969704253",
+      "pID": "969746547",
       "title": "郑加恒、郡司莉子领衔 李梓嘉冲开门红",
       "keyword": "11月25日11:30",
       "sportItemId": "6",
@@ -317,6 +325,10 @@
       },
       "nodes": [
         {
+          "pID": "969746547",
+          "name": "米蒂莱什/瓦尔纳VS库沙扬托/梅拉蒂"
+        },
+        {
           "pID": "969704253",
           "name": "2号场地"
         },
@@ -331,10 +343,6 @@
         {
           "pID": "969704312",
           "name": "4号场地"
-        },
-        {
-          "pID": "969746547",
-          "name": "米蒂莱什/瓦尔纳VS库沙扬托/梅拉蒂"
         },
         {
           "pID": "969746487",
@@ -476,7 +484,7 @@
       "title": "亚冠二级小组赛",
       "keyword": "11月25日15:45",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "GMHBA体育场",
       "competitionName": "亚冠二级",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000590500/202608190835_178956_H169_1080.webp",
@@ -507,7 +515,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "永劫无间世界冠军赛",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/25/77TJQL6IBAS7.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/11/22/1000000015951067768d.png",
       "pkInfoTitle": "永劫无间世界冠军赛Day3",
       "modifyTitle": "永劫无间世界冠军赛Day3",
