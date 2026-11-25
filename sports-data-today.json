@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-26 04:31:48",
+  "updateTime": "2026-11-26 05:01:50",
   "data": [
     {
       "mgdbId": "120000590495",
@@ -20,6 +20,10 @@
         "time": "11月26日00:00"
       },
       "nodes": [
+        {
+          "pID": "969773814",
+          "name": "全场集锦"
+        },
         {
           "pID": "969773304",
           "name": "全场回放（鹿中原）"
@@ -93,6 +97,10 @@
       },
       "nodes": [
         {
+          "pID": "969773806",
+          "name": "全场集锦"
+        },
+        {
           "pID": "969773339",
           "name": "全场回放（洪宇青）"
         }
@@ -107,7 +115,7 @@
       "matchStatus": "2",
       "matchField": "阿卜杜拉国王体育城球场",
       "competitionName": "亚冠二级",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000590494/202608190833_741137_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000590494/202611260435_578158_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/9/11/100000001227106e764f.png",
       "pkInfoTitle": "布赖代合作 vs 布赖米复兴",
       "modifyTitle": "亚冠二级小组赛",
@@ -117,19 +125,19 @@
       },
       "nodes": [
         {
-          "pID": "969526300",
-          "name": "吴子越"
+          "pID": "969773820",
+          "name": "全场回放"
         },
         {
-          "pID": "969526287",
-          "name": "赛场原声"
+          "pID": "969773833",
+          "name": "全场回放"
         }
       ]
     },
     {
       "mgdbId": "120000601533",
-      "pID": "969752484",
-      "title": "晋级轮：张安达PK穆迪 范争一vs宾汉姆",
+      "pID": "969495880",
+      "title": "晋级轮：范争一vs宾汉姆 张安达6-0穆迪",
       "keyword": "11月26日03:00",
       "sportItemId": "8",
       "matchStatus": "1",
@@ -137,25 +145,13 @@
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/25/77TJTAH4E04G.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "晋级轮：张安达PK穆迪 范争一vs宾汉姆",
-      "modifyTitle": "斯诺克英锦赛资格赛审判轮：张安达PK穆迪 范争一vs宾汉姆",
+      "pkInfoTitle": "晋级轮：范争一vs宾汉姆 张安达6-0穆迪",
+      "modifyTitle": "斯诺克英锦赛资格赛审判轮：范争一vs宾汉姆 张安达6-0穆迪",
       "presenters": "卢正浩",
       "matchInfo": {
         "time": "11月26日03:00"
       },
       "nodes": [
-        {
-          "pID": "969752484",
-          "name": "卢正浩"
-        },
-        {
-          "pID": "969494222",
-          "name": "1号桌"
-        },
-        {
-          "pID": "969494340",
-          "name": "AI智慧观赛"
-        },
         {
           "pID": "969495880",
           "name": "2号桌"
@@ -167,6 +163,18 @@
         {
           "pID": "969496076",
           "name": "4号桌"
+        },
+        {
+          "pID": "969494222",
+          "name": "1号桌"
+        },
+        {
+          "pID": "969494340",
+          "name": "AI智慧观赛"
+        },
+        {
+          "pID": "969752484",
+          "name": "卢正浩"
         }
       ]
     },
