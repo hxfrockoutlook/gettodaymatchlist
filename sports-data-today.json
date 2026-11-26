@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-26 11:31:50",
+  "updateTime": "2026-11-26 12:01:52",
   "data": [
     {
       "mgdbId": "120000590495",
@@ -304,7 +304,7 @@
     },
     {
       "mgdbId": "120000590179",
-      "pID": "969779067",
+      "pID": "969779895",
       "title": "NBANBA杯",
       "keyword": "11月26日08:30",
       "sportItemId": "2",
@@ -320,6 +320,14 @@
         "time": "11月26日08:30"
       },
       "nodes": [
+        {
+          "pID": "969779895",
+          "name": "全场集锦"
+        },
+        {
+          "pID": "969780012",
+          "name": "全场回放（王冠证、殷文玉）"
+        },
         {
           "pID": "969776022",
           "name": "第一节"
@@ -357,6 +365,10 @@
       },
       "nodes": [
         {
+          "pID": "969780415",
+          "name": "全场集锦"
+        },
+        {
           "pID": "969776766",
           "name": "第一节"
         },
@@ -367,6 +379,10 @@
         {
           "pID": "969779083",
           "name": "第三节"
+        },
+        {
+          "pID": "969780535",
+          "name": "第四节"
         }
       ]
     },
@@ -408,7 +424,7 @@
     },
     {
       "mgdbId": "120000590182",
-      "pID": "969779838",
+      "pID": "969780958",
       "title": "NBANBA杯",
       "keyword": "11月26日09:00",
       "sportItemId": "2",
@@ -425,6 +441,14 @@
       },
       "nodes": [
         {
+          "pID": "969780958",
+          "name": "全场集锦"
+        },
+        {
+          "pID": "969780713",
+          "name": "全场回放（贾磊）"
+        },
+        {
           "pID": "969777034",
           "name": "第一节"
         },
@@ -435,6 +459,10 @@
         {
           "pID": "969778944",
           "name": "第三节"
+        },
+        {
+          "pID": "969780268",
+          "name": "第四节"
         }
       ]
     },
@@ -459,10 +487,6 @@
         {
           "pID": "969578622",
           "name": "连睿 曾令旭 周鹏"
-        },
-        {
-          "pID": "969578298",
-          "name": "同看快船vs灰熊"
         },
         {
           "pID": "969578606",
@@ -612,7 +636,7 @@
       "title": "精彩回顾：安德列娃 vs 斯维托丽娜",
       "keyword": "11月26日12:00",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/25/77TJRPH6C4U3.jpg",
@@ -782,7 +806,7 @@
       "sportItemId": "8",
       "matchStatus": "0",
       "matchField": "",
-      "competitionName": "短道速滑世界巡回赛",
+      "competitionName": "短道速滑世界巡回���",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/10/29/100000001571106812a8.png",
       "pkInfoTitle": "韩国首尔站 1",
