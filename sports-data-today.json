@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-26 16:01:47",
+  "updateTime": "2026-11-26 16:31:46",
   "data": [
     {
       "mgdbId": "120000590495",
@@ -605,6 +605,10 @@
           "name": "全场回放（董倡硕）"
         },
         {
+          "pID": "969787887",
+          "name": "全场回放（英文原声）"
+        },
+        {
           "pID": "969780659",
           "name": "第一节"
         },
@@ -645,12 +649,12 @@
           "name": "全场集锦"
         },
         {
-          "pID": "969786482",
-          "name": "【球星】表哥进攻依旧稳定！利拉德砍29+7助夺取胜果"
-        },
-        {
           "pID": "969785447",
           "name": "全场回放（杨健、杜锋、于德豪、拜月宁）"
+        },
+        {
+          "pID": "969787381",
+          "name": "全场回放（英文原声）"
         },
         {
           "pID": "969786622",
@@ -704,7 +708,7 @@
     },
     {
       "mgdbId": "120000602119",
-      "pID": "969704340",
+      "pID": "969768984",
       "title": "郑加恒、郡司莉子出战 李梓嘉冲八强",
       "keyword": "11月26日12:30",
       "sportItemId": "6",
@@ -721,6 +725,10 @@
       },
       "nodes": [
         {
+          "pID": "969768984",
+          "name": "郑加恒VS普拉迪斯卡"
+        },
+        {
           "pID": "969704340",
           "name": "1号场地"
         },
@@ -735,10 +743,6 @@
         {
           "pID": "969704542",
           "name": "4号场地"
-        },
-        {
-          "pID": "969768984",
-          "name": "郑加恒VS普拉迪斯卡"
         },
         {
           "pID": "969769007",
@@ -775,34 +779,6 @@
       ]
     },
     {
-      "mgdbId": "120000601899",
-      "pID": "969609373",
-      "title": "解锁播时任务 赢万份会员+限量周边",
-      "keyword": "11月26日13:00",
-      "sportItemId": "5",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "UFC格斗马拉松",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/21/77TG87GENM48.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/11/6/1000000004131061b3d9.png",
-      "pkInfoTitle": "解锁播时任务 赢万份会员+限量周边",
-      "modifyTitle": "UFC格斗马拉松：解锁播时任务 万份会员+限量周边送不停",
-      "presenters": "",
-      "matchInfo": {
-        "time": "11月26日13:00"
-      },
-      "nodes": [
-        {
-          "pID": "969609373",
-          "name": "格斗马拉松"
-        },
-        {
-          "pID": "969324404",
-          "name": "薅羊毛攻略"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000601888",
       "pID": "969609183",
       "title": "精彩回顾：科斯秋克 vs 佩古拉",
@@ -823,6 +799,34 @@
         {
           "pID": "969609183",
           "name": "房朕"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000601899",
+      "pID": "969609373",
+      "title": "解锁播时任务 赢万份会员+限量周边",
+      "keyword": "11月26日16:00",
+      "sportItemId": "5",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "UFC格斗马拉松",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/21/77TG87GENM48.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/11/6/1000000004131061b3d9.png",
+      "pkInfoTitle": "解锁播时任务 赢万份会员+限量周边",
+      "modifyTitle": "UFC格斗马拉松：解锁播时任务 万份会员+限量周边送不停",
+      "presenters": "",
+      "matchInfo": {
+        "time": "11月26日16:00"
+      },
+      "nodes": [
+        {
+          "pID": "969609373",
+          "name": "格斗马拉松"
+        },
+        {
+          "pID": "969324404",
+          "name": "薅羊毛攻略"
         }
       ]
     },
