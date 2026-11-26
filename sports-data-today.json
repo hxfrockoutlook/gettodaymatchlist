@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-27 05:01:46",
+  "updateTime": "2026-11-27 05:31:44",
   "data": [
     {
       "mgdbId": "120000598312",
@@ -68,7 +68,7 @@
     },
     {
       "mgdbId": "120000598319",
-      "pID": "969797101",
+      "pID": "969797438",
       "title": "男篮世预赛欧洲赛区",
       "keyword": "11月27日02:00",
       "sportItemId": "2",
@@ -85,14 +85,22 @@
       },
       "nodes": [
         {
+          "pID": "969797438",
+          "name": "全场集锦"
+        },
+        {
           "pID": "969797101",
           "name": "全场回放（徐秦威）"
+        },
+        {
+          "pID": "969797375",
+          "name": "全场回放（原声）"
         }
       ]
     },
     {
       "mgdbId": "120000598321",
-      "pID": "969797251",
+      "pID": "969797368",
       "title": "男篮世预赛欧洲赛区",
       "keyword": "11月27日02:00",
       "sportItemId": "2",
@@ -108,6 +116,10 @@
         "time": "11月27日02:00"
       },
       "nodes": [
+        {
+          "pID": "969797368",
+          "name": "全场集锦"
+        },
         {
           "pID": "969797251",
           "name": "全场回放（王冠证）"
@@ -133,26 +145,18 @@
       },
       "nodes": [
         {
-          "pID": "969797292",
-          "name": "局势逆转！比江岛慎连拿5分反超黎巴嫩"
-        },
-        {
-          "pID": "969760886",
-          "name": "季孟年"
-        },
-        {
-          "pID": "969760858",
-          "name": "赛场原声"
+          "pID": "969797373",
+          "name": "全场回放（季孟年）"
         }
       ]
     },
     {
       "mgdbId": "120000598320",
-      "pID": "969760628",
+      "pID": "969797495",
       "title": "男篮世预赛欧洲赛区",
       "keyword": "11月27日03:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Centro de Desportos e Congressos de Matosinhos",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000598320/202610291046_870794_H169_1080.webp",
@@ -165,18 +169,18 @@
       },
       "nodes": [
         {
-          "pID": "969760628",
-          "name": "赛场原声"
+          "pID": "969797495",
+          "name": "全场集锦"
         }
       ]
     },
     {
       "mgdbId": "120000598325",
-      "pID": "969760640",
+      "pID": "969757359",
       "title": "男篮世预赛欧洲赛区",
       "keyword": "11月27日03:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Palaeur",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/25/77TJR6KKPTSB.png",
@@ -188,6 +192,10 @@
         "time": "11月27日03:00"
       },
       "nodes": [
+        {
+          "pID": "969757359",
+          "name": "上咪咕 看男篮世预赛！周琦王哲林领衔 中国男篮出战第五窗口期"
+        },
         {
           "pID": "969760640",
           "name": "赛场原声"
@@ -236,11 +244,11 @@
     },
     {
       "mgdbId": "120000598327",
-      "pID": "969760662",
+      "pID": "969757359",
       "title": "男篮世预赛欧洲赛区",
       "keyword": "11月27日03:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "Laugardalshöll",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000598327/202610291044_383454_H169_1080.webp",
@@ -252,6 +260,10 @@
         "time": "11月27日03:30"
       },
       "nodes": [
+        {
+          "pID": "969757359",
+          "name": "上咪咕 看男篮世预赛！周琦王哲林领衔 中国男篮出战第五窗口期"
+        },
         {
           "pID": "969760662",
           "name": "赛场原声"
