@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-26 12:01:52",
+  "updateTime": "2026-11-26 12:32:08",
   "data": [
     {
       "mgdbId": "120000590495",
@@ -265,6 +265,10 @@
           "name": "全场回放（王凯）"
         },
         {
+          "pID": "969780954",
+          "name": "全场回放（英文原声）"
+        },
+        {
           "pID": "969775441",
           "name": "第一节"
         },
@@ -348,7 +352,7 @@
     },
     {
       "mgdbId": "120000590180",
-      "pID": "969778683",
+      "pID": "969780415",
       "title": "NBANBA杯",
       "keyword": "11月26日08:30",
       "sportItemId": "2",
@@ -383,12 +387,16 @@
         {
           "pID": "969780535",
           "name": "第四节"
+        },
+        {
+          "pID": "969781761",
+          "name": "全场回放（邵化谦、罗森）"
         }
       ]
     },
     {
       "mgdbId": "120000590181",
-      "pID": "969778659",
+      "pID": "969781366",
       "title": "NBANBA杯",
       "keyword": "11月26日09:00",
       "sportItemId": "2",
@@ -404,6 +412,14 @@
         "time": "11月26日09:00"
       },
       "nodes": [
+        {
+          "pID": "969781366",
+          "name": "全场集锦"
+        },
+        {
+          "pID": "969781125",
+          "name": "全场回放（宋俊潼）"
+        },
         {
           "pID": "969776584",
           "name": "第一节"
@@ -468,14 +484,14 @@
     },
     {
       "mgdbId": "120000590183",
-      "pID": "969578622",
+      "pID": "969779368",
       "title": "NBANBA杯",
       "keyword": "11月26日09:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "丰田中心球馆",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/25/77TJQBJDKQT9.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/26/77TKQB4HLDGG.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "太阳VS火箭",
       "modifyTitle": "NBANBA杯",
@@ -485,12 +501,20 @@
       },
       "nodes": [
         {
-          "pID": "969578622",
-          "name": "连睿 曾令旭 周鹏"
+          "pID": "969778398",
+          "name": "第一节"
         },
         {
-          "pID": "969578606",
-          "name": "英文原声"
+          "pID": "969780668",
+          "name": "第二节"
+        },
+        {
+          "pID": "969780459",
+          "name": "第三节"
+        },
+        {
+          "pID": "969781433",
+          "name": "第四节"
         }
       ]
     },
@@ -660,7 +684,7 @@
       "title": "郑加恒、郡司莉子出战 李梓嘉冲八强",
       "keyword": "11月26日12:30",
       "sportItemId": "6",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "BWF",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/25/77TJSV4OI1IC.png",
@@ -806,7 +830,7 @@
       "sportItemId": "8",
       "matchStatus": "0",
       "matchField": "",
-      "competitionName": "短道速滑世界巡回���",
+      "competitionName": "短道���滑世界巡回赛",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/10/29/100000001571106812a8.png",
       "pkInfoTitle": "韩国首尔站 1",
