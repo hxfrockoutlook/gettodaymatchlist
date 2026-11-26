@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-26 10:31:46",
+  "updateTime": "2026-11-26 11:01:44",
   "data": [
     {
       "mgdbId": "120000590495",
@@ -236,7 +236,7 @@
     },
     {
       "mgdbId": "120000590178",
-      "pID": "969777055",
+      "pID": "969778546",
       "title": "NBANBA杯",
       "keyword": "11月26日08:00",
       "sportItemId": "2",
@@ -253,6 +253,14 @@
       },
       "nodes": [
         {
+          "pID": "969778546",
+          "name": "全场集锦"
+        },
+        {
+          "pID": "969778484",
+          "name": "全场回放（王凯）"
+        },
+        {
           "pID": "969775441",
           "name": "第一节"
         },
@@ -263,34 +271,10 @@
         {
           "pID": "969776886",
           "name": "第三节"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000601899",
-      "pID": "969609373",
-      "title": "解锁播时任务 赢万份会员+限量周边",
-      "keyword": "11月26日08:00",
-      "sportItemId": "5",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "UFC格斗马拉松",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/21/77TG87GENM48.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/11/6/1000000004131061b3d9.png",
-      "pkInfoTitle": "解锁播时任务 赢万份会员+限量周边",
-      "modifyTitle": "UFC格斗马拉松：解锁播时任务 万份会员+限量周边送不停",
-      "presenters": "",
-      "matchInfo": {
-        "time": "11月26日08:00"
-      },
-      "nodes": [
-        {
-          "pID": "969609373",
-          "name": "格斗马拉松"
         },
         {
-          "pID": "969324404",
-          "name": "薅羊毛攻略"
+          "pID": "969778209",
+          "name": "第四节"
         }
       ]
     },
@@ -332,6 +316,10 @@
         "time": "11月26日08:30"
       },
       "nodes": [
+        {
+          "pID": "969779067",
+          "name": "骑四崩？老六三分+达迪耶奔袭 骑士末节3分钟被轰12-0"
+        },
         {
           "pID": "969582478",
           "name": "王冠证 殷文玉"
@@ -491,6 +479,34 @@
         {
           "pID": "969094700",
           "name": "杨健 杨毅 杨鸣"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000601899",
+      "pID": "969609373",
+      "title": "解锁播时任务 赢万份会员+限量周边",
+      "keyword": "11月26日10:50",
+      "sportItemId": "5",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "UFC格斗马拉松",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/21/77TG87GENM48.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/11/6/1000000004131061b3d9.png",
+      "pkInfoTitle": "解锁播时任务 赢万份会员+限量周边",
+      "modifyTitle": "UFC格斗马拉松：解锁播时任务 万份会员+限量周边送不停",
+      "presenters": "",
+      "matchInfo": {
+        "time": "11月26日10:50"
+      },
+      "nodes": [
+        {
+          "pID": "969609373",
+          "name": "格斗马拉松"
+        },
+        {
+          "pID": "969324404",
+          "name": "薅羊毛攻略"
         }
       ]
     },
@@ -735,7 +751,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "国际乒联混合团体世界杯",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/26/77TKPSHMJNC9.jpg",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/23/77TI04JP508I.png",
       "pkInfoTitle": "小马哥、徐晨皓、周冠达为您前瞻",
       "modifyTitle": "成都国际乒联混团世界杯乒乓观察室",
