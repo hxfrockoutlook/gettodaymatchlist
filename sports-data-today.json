@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-26 18:02:13",
+  "updateTime": "2026-11-26 18:31:48",
   "data": [
     {
       "mgdbId": "120000590495",
@@ -708,7 +708,7 @@
     },
     {
       "mgdbId": "120000602119",
-      "pID": "969769007",
+      "pID": "969769025",
       "title": "郑加恒、郡司莉子出战 李梓嘉冲八强",
       "keyword": "11月26日12:30",
       "sportItemId": "6",
@@ -725,8 +725,8 @@
       },
       "nodes": [
         {
-          "pID": "969769007",
-          "name": "郡司莉子VS拉克希塔"
+          "pID": "969769025",
+          "name": "普里娅/米什拉VS伊斯亚纳/林加尼"
         },
         {
           "pID": "969704340",
@@ -743,10 +743,6 @@
         {
           "pID": "969704542",
           "name": "4号场地"
-        },
-        {
-          "pID": "969769025",
-          "name": "普里娅/米什拉VS伊斯亚纳/林加尼"
         },
         {
           "pID": "969769048",
@@ -775,6 +771,10 @@
         {
           "pID": "969768984",
           "name": "郑加恒VS普拉迪斯卡"
+        },
+        {
+          "pID": "969769007",
+          "name": "郡司莉子VS拉克希塔"
         }
       ]
     },
@@ -875,30 +875,6 @@
         {
           "pID": "969667035",
           "name": "小马哥 徐晨皓 周冠达"
-        }
-      ]
-    },
-    {
-      "mgdbId": "120000602412",
-      "pID": "969761484",
-      "title": "韩国首尔站 1",
-      "keyword": "11月26日17:00",
-      "sportItemId": "8",
-      "matchStatus": "2",
-      "matchField": "",
-      "competitionName": "短道速滑世界巡回赛",
-      "padImg": "",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/10/29/100000001571106812a8.png",
-      "pkInfoTitle": "韩国首尔站 1",
-      "modifyTitle": "短道速滑世界巡回赛",
-      "presenters": "",
-      "matchInfo": {
-        "time": "11月26日17:00"
-      },
-      "nodes": [
-        {
-          "pID": "969761484",
-          "name": "解说"
         }
       ]
     },
@@ -1489,6 +1465,30 @@
         {
           "pID": "969760921",
           "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "WY900018633",
+      "pID": "WY900018633",
+      "title": "19:00播足球之夜：红图 宏图",
+      "keyword": "11月26日19:00",
+      "sportItemId": "",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "足球盛宴",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/05/07/77C1PNVU5L46.jpg",
+      "competitionLogo": "",
+      "pkInfoTitle": "19:00播足球之夜：红图 宏图",
+      "modifyTitle": "19:00播足球之夜：红图 宏图",
+      "presenters": "",
+      "matchInfo": {
+        "time": "11月26日19:00"
+      },
+      "nodes": [
+        {
+          "pID": "969761365",
+          "name": "CCTV5"
         }
       ]
     }
