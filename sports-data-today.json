@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-26 10:01:41",
+  "updateTime": "2026-11-26 10:31:46",
   "data": [
     {
       "mgdbId": "120000590495",
@@ -213,6 +213,10 @@
           "name": "全场回放（莫俊祺）"
         },
         {
+          "pID": "969777492",
+          "name": "全场回放（英文原声）"
+        },
+        {
           "pID": "969774297",
           "name": "第一节"
         },
@@ -232,14 +236,14 @@
     },
     {
       "mgdbId": "120000590178",
-      "pID": "969582324",
+      "pID": "969777055",
       "title": "NBANBA杯",
       "keyword": "11月26日08:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "光谱中心",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/25/77TJSV24QQF8.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/26/77TKPQ72UB0E.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "公牛VS黄蜂",
       "modifyTitle": "NBANBA杯",
@@ -249,12 +253,16 @@
       },
       "nodes": [
         {
-          "pID": "969582324",
-          "name": "王凯"
+          "pID": "969775441",
+          "name": "第一节"
         },
         {
-          "pID": "969582292",
-          "name": "英文原声"
+          "pID": "969775870",
+          "name": "第二节"
+        },
+        {
+          "pID": "969776886",
+          "name": "第三节"
         }
       ]
     },
@@ -347,7 +355,7 @@
       "matchStatus": "1",
       "matchField": "Paycom中心",
       "competitionName": "NBA",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/25/77TJSVGRIBKN.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/26/77TKPPMR7MF7.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png",
       "pkInfoTitle": "森林狼VS雷霆",
       "modifyTitle": "NBANBA杯",
@@ -492,7 +500,7 @@
       "title": "NBANBA杯",
       "keyword": "11月26日11:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "大通中心",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/25/77TJQBKUP6SN.png",
@@ -532,7 +540,7 @@
       "title": "NBANBA杯",
       "keyword": "11月26日11:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "摩达中心",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/25/77TJQBNTC83Q.png",
@@ -847,6 +855,30 @@
         {
           "pID": "969526498",
           "name": "赛场原声"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000601817",
+      "pID": "969583026",
+      "title": "NBA精彩重播：热火vs76人",
+      "keyword": "11月26日18:00",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "NBA经典赛事",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/26/77TKPQ31TDU2.png",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png",
+      "pkInfoTitle": "NBA精彩重播：热火vs76人",
+      "modifyTitle": "NBA经典赛事",
+      "presenters": "孙博 丁彦雨航 霍楠",
+      "matchInfo": {
+        "time": "11月26日18:00"
+      },
+      "nodes": [
+        {
+          "pID": "969583026",
+          "name": "孙博 丁彦雨航 霍楠"
         }
       ]
     },
