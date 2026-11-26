@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-26 09:01:48",
+  "updateTime": "2026-11-26 09:31:56",
   "data": [
     {
       "mgdbId": "120000590495",
@@ -192,7 +192,7 @@
     },
     {
       "mgdbId": "120000590177",
-      "pID": "969775311",
+      "pID": "969775669",
       "title": "NBANBA杯",
       "keyword": "11月26日06:00",
       "sportItemId": "2",
@@ -208,6 +208,18 @@
         "time": "11月26日06:00"
       },
       "nodes": [
+        {
+          "pID": "969775669",
+          "name": "全场集锦"
+        },
+        {
+          "pID": "969775855",
+          "name": "全场回放（孙博、丁彦雨航、霍楠、佳依）"
+        },
+        {
+          "pID": "969775869",
+          "name": "全场回放（莫俊祺）"
+        },
         {
           "pID": "969774297",
           "name": "第一节"
@@ -411,6 +423,10 @@
         {
           "pID": "969578298",
           "name": "宋俊潼"
+        },
+        {
+          "pID": "969578622",
+          "name": "同看太阳vs火箭"
         },
         {
           "pID": "969578276",
@@ -1180,7 +1196,7 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/11/26/10000000019110696ecb.jpg",
       "pkInfoTitle": "沙特阿拉伯vs中国",
       "modifyTitle": "男篮世预赛亚洲赛区",
-      "presenters": "杨健 杜锋 杨毅 周鹏 字诚 哈秋 莫俊祺 陈渤胄 荣浩达",
+      "presenters": "杨健 杜锋 杨毅",
       "matchInfo": {
         "time": "11月26日21:00"
       },
@@ -1191,27 +1207,27 @@
         },
         {
           "pID": "969761144",
-          "name": "周鹏"
+          "name": "河南话直播间"
         },
         {
           "pID": "969761127",
-          "name": "字诚"
+          "name": "四川话直播间"
         },
         {
           "pID": "969761080",
-          "name": "哈秋"
+          "name": "东北话直播间"
         },
         {
           "pID": "969761064",
-          "name": "莫俊祺"
+          "name": "粤语直播间"
         },
         {
           "pID": "969761013",
-          "name": "陈渤胄"
+          "name": "沪语直播间"
         },
         {
           "pID": "969761002",
-          "name": "荣浩达"
+          "name": "天津话直播间"
         },
         {
           "pID": "969760956",
@@ -1288,6 +1304,34 @@
         {
           "pID": "969761674",
           "name": "CCTV5"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000598312",
+      "pID": "120000598312",
+      "title": "卡塔尔vs韩国",
+      "keyword": "11月26日23:50",
+      "sportItemId": "",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "男篮世预赛",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2025/11/26/11005/72259572190c4f6197b87ddfe23e1498/72259572190c4f6197b87ddfe23e1498_H169_P1080_WEBP.webp",
+      "competitionLogo": "",
+      "pkInfoTitle": "卡塔尔vs韩国",
+      "modifyTitle": "卡塔尔vs韩国",
+      "presenters": "",
+      "matchInfo": {
+        "time": "11月26日23:50"
+      },
+      "nodes": [
+        {
+          "pID": "969760935",
+          "name": "盛哲"
+        },
+        {
+          "pID": "969760921",
+          "name": "赛场原声"
         }
       ]
     }
