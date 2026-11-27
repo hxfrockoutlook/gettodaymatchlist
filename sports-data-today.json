@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-27 17:32:24",
+  "updateTime": "2026-11-27 18:01:49",
   "data": [
     {
       "mgdbId": "120000598312",
@@ -464,7 +464,7 @@
     },
     {
       "mgdbId": "120000602120",
-      "pID": "969801971",
+      "pID": "969801984",
       "title": "冲四强！革通、李梓嘉轮番出战",
       "keyword": "11月27日14:30",
       "sportItemId": "6",
@@ -475,14 +475,14 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "冲四强！革通、李梓嘉轮番出战",
       "modifyTitle": "赛德莫迪羽毛球国际赛Day4：冲四强！革通、李梓嘉轮番出战",
-      "presenters": "孙宁智 朱胤丞 杨妮娜",
+      "presenters": "朱胤丞 杨妮娜 孙宁智",
       "matchInfo": {
         "time": "11月27日14:30"
       },
       "nodes": [
         {
-          "pID": "969801971",
-          "name": "革通VS黄玲青"
+          "pID": "969801984",
+          "name": "普拉蒂维VS夏尔马"
         },
         {
           "pID": "969704590",
@@ -495,10 +495,6 @@
         {
           "pID": "969704672",
           "name": "3号场地"
-        },
-        {
-          "pID": "969801984",
-          "name": "普拉蒂维VS夏尔马"
         },
         {
           "pID": "969801983",
@@ -519,6 +515,10 @@
         {
           "pID": "969801973",
           "name": "因陀罗/华金VS普拉泰克/雷蒂纳萨巴蒂"
+        },
+        {
+          "pID": "969801971",
+          "name": "革通VS黄玲青"
         }
       ]
     },
@@ -632,7 +632,7 @@
       "title": "龙战士主场一日双赛",
       "keyword": "11月27日18:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "MLP亚洲匹克球超级联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/26/77TKPFDED9PM.png",
@@ -660,7 +660,7 @@
       "title": "NBA精彩重播：马刺vs开拓者",
       "keyword": "11月27日18:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA经典赛事",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/27/77TLL66ME52Q.jpg",
@@ -684,7 +684,7 @@
       "title": "亚洲大学生篮球联赛东区小组赛",
       "keyword": "11月27日18:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "亚洲大学生篮球联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/27/77TLLRBFMQHL.png",
@@ -949,7 +949,12 @@
       "matchInfo": {
         "time": "11月27日19:30"
       },
-      "nodes": []
+      "nodes": [
+        {
+          "pID": "969696223",
+          "name": "赛场原声"
+        }
+      ]
     },
     {
       "mgdbId": "120000602099",
