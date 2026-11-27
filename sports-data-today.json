@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-28 07:02:45",
+  "updateTime": "2026-11-28 07:32:36",
   "data": [
     {
       "mgdbId": "120000598336",
@@ -137,16 +137,8 @@
       },
       "nodes": [
         {
-          "pID": "969757359",
-          "name": "上咪咕 看男篮世预赛！周琦王哲林领衔 中国男篮出战第五窗口期"
-        },
-        {
-          "pID": "969786848",
-          "name": "姜帆"
-        },
-        {
-          "pID": "969760918",
-          "name": "赛场原声"
+          "pID": "969831172",
+          "name": "全场回放（姜帆）"
         }
       ]
     },
@@ -253,6 +245,10 @@
       },
       "nodes": [
         {
+          "pID": "969831223",
+          "name": "全场回放"
+        },
+        {
           "pID": "969830601",
           "name": "全场集锦"
         }
@@ -300,6 +296,10 @@
         "time": "11月28日04:00"
       },
       "nodes": [
+        {
+          "pID": "969831227",
+          "name": "全场集锦"
+        },
         {
           "pID": "969830069",
           "name": "全场回放（洪宇青）"
@@ -364,7 +364,7 @@
       "title": "国际自盟场地自行车世锦赛-1",
       "keyword": "11月28日07:29",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "国际自盟场地自行车世锦赛",
       "padImg": "",
@@ -388,7 +388,7 @@
       "title": "NBANBA杯",
       "keyword": "11月28日08:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "麦迪逊广场花园",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/27/77TLM38OKUHG.png",
@@ -1737,7 +1737,7 @@
       "competitionName": "浙BA",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/02/77N92ACGBBVQ.png",
-      "pkInfoTitle": "瑞安VS绍兴",
+      "pkInfoTitle": "瑞��VS绍兴",
       "modifyTitle": "瑞安VS绍兴",
       "presenters": "",
       "matchInfo": {
@@ -1929,7 +1929,7 @@
     {
       "mgdbId": "120000601727",
       "pID": "969811470",
-      "title": "斯诺克英锦赛",
+      "title": "斯诺克英锦赛：马克·塞尔比vs马修·塞尔特",
       "keyword": "11月28日21:00",
       "sportItemId": "8",
       "matchStatus": "0",
@@ -1938,7 +1938,7 @@
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "马克·塞尔比vs马修·塞尔特",
-      "modifyTitle": "斯诺克英锦赛",
+      "modifyTitle": "斯诺克英锦赛：马克·塞尔比vs马修·塞尔特",
       "presenters": "秦正 庞卫国 乔迁 涂子轩 麦特威",
       "matchInfo": {
         "time": "11月28日21:00"
@@ -1955,6 +1955,14 @@
         {
           "pID": "969809869",
           "name": "涂子轩"
+        },
+        {
+          "pID": "969547690",
+          "name": "1号桌"
+        },
+        {
+          "pID": "969809782",
+          "name": "AI智慧观赛"
         },
         {
           "pID": "969809839",
