@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-28 06:32:44",
+  "updateTime": "2026-11-28 07:02:45",
   "data": [
     {
       "mgdbId": "120000598336",
@@ -81,12 +81,12 @@
       },
       "nodes": [
         {
-          "pID": "969828805",
-          "name": "全场回放"
-        },
-        {
           "pID": "969826338",
           "name": "全场集锦"
+        },
+        {
+          "pID": "969828805",
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
@@ -109,12 +109,12 @@
       },
       "nodes": [
         {
-          "pID": "969830134",
-          "name": "全场回放"
-        },
-        {
           "pID": "969827648",
           "name": "全场集锦"
+        },
+        {
+          "pID": "969830134",
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
@@ -236,7 +236,7 @@
     },
     {
       "mgdbId": "120000598317",
-      "pID": "969757359",
+      "pID": "969830601",
       "title": "男篮世预赛欧洲赛区",
       "keyword": "11月28日03:45",
       "sportItemId": "2",
@@ -253,12 +253,8 @@
       },
       "nodes": [
         {
-          "pID": "969757359",
-          "name": "上咪咕 看男篮世预赛！周琦王哲林领衔 中国男篮出战第五窗口期"
-        },
-        {
-          "pID": "969760943",
-          "name": "赛场原声"
+          "pID": "969830601",
+          "name": "全场集锦"
         }
       ]
     },
@@ -281,24 +277,8 @@
       },
       "nodes": [
         {
-          "pID": "969779352",
-          "name": "颜强 贺宇 李子琪"
-        },
-        {
-          "pID": "969786754",
-          "name": "4K赛场原声"
-        },
-        {
-          "pID": "969779370",
-          "name": "英文原声"
-        },
-        {
-          "pID": "969788572",
-          "name": "战术视角"
-        },
-        {
-          "pID": "969788441",
-          "name": "顶层视角"
+          "pID": "969830921",
+          "name": "全场回放（颜强、贺宇、李子琪）"
         }
       ]
     },
@@ -308,7 +288,7 @@
       "title": "西甲联赛",
       "keyword": "11月28日04:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "巴伦西亚城市球场",
       "competitionName": "西甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000586327/421609_H169_sc.jpg",
@@ -321,12 +301,8 @@
       },
       "nodes": [
         {
-          "pID": "969777892",
-          "name": "洪宇青"
-        },
-        {
-          "pID": "969777886",
-          "name": "赛场原声"
+          "pID": "969830069",
+          "name": "全场回放（洪宇青）"
         }
       ]
     },
@@ -360,7 +336,7 @@
       "title": "男篮世预赛美洲赛区",
       "keyword": "11月28日07:10",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "Ginásio do Ibirapuera",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/26/77TKOARRHQFG.jpg",
