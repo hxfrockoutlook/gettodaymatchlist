@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-28 06:02:44",
+  "updateTime": "2026-11-28 06:32:44",
   "data": [
     {
       "mgdbId": "120000598336",
@@ -109,6 +109,10 @@
       },
       "nodes": [
         {
+          "pID": "969830134",
+          "name": "全场回放"
+        },
+        {
           "pID": "969827648",
           "name": "全场集锦"
         }
@@ -165,8 +169,12 @@
       },
       "nodes": [
         {
+          "pID": "969829920",
+          "name": "全场集锦"
+        },
+        {
           "pID": "969828286",
-          "name": "全场回放"
+          "name": "全场回放（李霄）"
         }
       ]
     },
@@ -189,6 +197,10 @@
       },
       "nodes": [
         {
+          "pID": "969829976",
+          "name": "全场回放（乔迁）"
+        },
+        {
           "pID": "969829068",
           "name": "全场集锦"
         }
@@ -203,7 +215,7 @@
       "matchStatus": "2",
       "matchField": "皮埃路易吉·彭佐体育场",
       "competitionName": "意甲",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000584772/202611280535_313049_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000584772/202611280615_544489_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png",
       "pkInfoTitle": "威尼斯 vs 博洛尼亚",
       "modifyTitle": "意甲联赛",
@@ -213,12 +225,12 @@
       },
       "nodes": [
         {
-          "pID": "969784375",
-          "name": "张昊泽"
+          "pID": "969829463",
+          "name": "全场集锦"
         },
         {
-          "pID": "969784491",
-          "name": "赛场原声"
+          "pID": "969829970",
+          "name": "全场回放（张昊泽）"
         }
       ]
     },
@@ -256,10 +268,10 @@
       "title": "英超联赛",
       "keyword": "11月28日04:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "诺丁汉城市球场",
       "competitionName": "英超",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/26/77TKN8P5DRRF.webp",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000584164/349296_H169_sc.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png",
       "pkInfoTitle": "诺丁汉森林 vs 切尔西",
       "modifyTitle": "英超联赛",
@@ -324,7 +336,7 @@
       "title": "男篮世预赛美洲赛区",
       "keyword": "11月28日06:40",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "Coliseo Ismenia Pauchard Demierre",
       "competitionName": "男篮世预赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000598342/202610291047_714391_H169_1080.webp",
@@ -1157,7 +1169,7 @@
     {
       "mgdbId": "120000601924",
       "pID": "969665817",
-      "title": "��排败者组突围晋级",
+      "title": "三排败者组突围晋级",
       "keyword": "11月28日16:00",
       "sportItemId": "10",
       "matchStatus": "0",
