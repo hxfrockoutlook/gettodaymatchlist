@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-27 21:01:52",
+  "updateTime": "2026-11-27 21:31:51",
   "data": [
     {
       "mgdbId": "120000598312",
@@ -465,8 +465,12 @@
       },
       "nodes": [
         {
+          "pID": "969814204",
+          "name": "全场集锦"
+        },
+        {
           "pID": "969816796",
-          "name": "全场回放"
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
@@ -515,6 +519,10 @@
         {
           "pID": "969819503",
           "name": "2026BWF赛德莫迪羽毛球国际赛第四日三号场地全场回放（赛场原声）（二）"
+        },
+        {
+          "pID": "969820681",
+          "name": "2026BWF赛德莫迪羽毛球国际赛第四日二号场地全场回放（赛场原声）（二）"
         }
       ]
     },
@@ -632,21 +640,21 @@
       "title": "NBA精彩重播：马刺vs开拓者",
       "keyword": "11月27日18:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA经典赛事",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/27/77TLLMI5ACFA.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png",
       "pkInfoTitle": "NBA精彩重播：马刺vs开拓者",
       "modifyTitle": "NBA精彩重播：马刺vs开拓者",
-      "presenters": "杨健 杜锋 于德豪",
+      "presenters": "杨��� 杜锋 于德豪",
       "matchInfo": {
         "time": "11月27日18:00"
       },
       "nodes": [
         {
-          "pID": "969583035",
-          "name": "杨健 杜锋 于德豪"
+          "pID": "969785447",
+          "name": "全场回放（杨健、杜锋、于德豪、拜月宁）"
         }
       ]
     },
@@ -669,12 +677,12 @@
       },
       "nodes": [
         {
-          "pID": "969587643",
-          "name": "英文解说"
+          "pID": "969820109",
+          "name": "全场回放"
         },
         {
-          "pID": "969587673",
-          "name": "赛场原声"
+          "pID": "969820184",
+          "name": "全场回放"
         }
       ]
     },
@@ -799,15 +807,15 @@
     {
       "mgdbId": "120000600358",
       "pID": "969291928",
-      "title": "广东vs四川",
+      "title": "广东91-71四川",
       "keyword": "11月27日19:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "中国篮球城市冠军联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/27/77TLL7IST747.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/11/9/100000001583106a6a52.png",
-      "pkInfoTitle": "广东vs四川",
+      "pkInfoTitle": "广东91-71四川",
       "modifyTitle": "中国篮球城市冠军联赛",
       "presenters": "",
       "matchInfo": {
@@ -826,7 +834,7 @@
       "title": "WCBA",
       "keyword": "11月27日19:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "WCBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/26/77TKOA7025M3.png",
@@ -846,11 +854,11 @@
     },
     {
       "mgdbId": "120000600493",
-      "pID": "969323258",
+      "pID": "969820283",
       "title": "WCBA",
       "keyword": "11月27日19:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "WCBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/26/77TKOAM6KQT5.png",
@@ -863,12 +871,8 @@
       },
       "nodes": [
         {
-          "pID": "969323258",
-          "name": "解说"
-        },
-        {
-          "pID": "969323277",
-          "name": "赛场原声"
+          "pID": "969820283",
+          "name": "全场集锦"
         }
       ]
     },
@@ -878,7 +882,7 @@
       "title": "WCBA",
       "keyword": "11月27日19:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "WCBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/26/77TKOAPAS84S.png",
@@ -931,16 +935,16 @@
     {
       "mgdbId": "120000602098",
       "pID": "969696223",
-      "title": "嘉兴VS宁波",
+      "title": "嘉兴63-64宁波",
       "keyword": "11月27日19:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "浙BA",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/02/77N92ACGBBVQ.png",
-      "pkInfoTitle": "嘉兴VS宁波",
-      "modifyTitle": "��兴VS宁波",
+      "pkInfoTitle": "嘉兴63-64宁波",
+      "modifyTitle": "嘉兴63-64宁波",
       "presenters": "",
       "matchInfo": {
         "time": "11月27日19:30"
@@ -995,8 +999,8 @@
       },
       "nodes": [
         {
-          "pID": "969726085",
-          "name": "轮滑/滑板车"
+          "pID": "969820524",
+          "name": "2026极限运动国际公开赛开幕式全场回放"
         }
       ]
     },
@@ -1078,7 +1082,7 @@
       "title": "ONE周五格斗夜180：登克里昂克雷VS德韦林赫特",
       "keyword": "11月27日21:30",
       "sportItemId": "5",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "ONE冠军赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/27/77TLL8K84QEP.png",
