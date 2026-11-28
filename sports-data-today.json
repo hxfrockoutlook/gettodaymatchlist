@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-28 12:02:41",
+  "updateTime": "2026-11-28 12:32:29",
   "data": [
     {
       "mgdbId": "120000598336",
@@ -427,34 +427,6 @@
       ]
     },
     {
-      "mgdbId": "120000601899",
-      "pID": "969609373",
-      "title": "解锁播时任务 赢万份会员+限量周边",
-      "keyword": "11月28日08:00",
-      "sportItemId": "5",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "UFC格斗马拉松",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/21/77TG87GENM48.jpg",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/11/6/1000000004131061b3d9.png",
-      "pkInfoTitle": "解锁播时任务 赢万份会员+限量周边",
-      "modifyTitle": "UFC格斗马拉松：解锁播时任务 万份会员+限量周边送不停",
-      "presenters": "",
-      "matchInfo": {
-        "time": "11月28日08:00"
-      },
-      "nodes": [
-        {
-          "pID": "969609373",
-          "name": "格斗马拉松"
-        },
-        {
-          "pID": "969324404",
-          "name": "薅羊毛攻略"
-        }
-      ]
-    },
-    {
       "mgdbId": "120000602206",
       "pID": "969726098",
       "title": "极限运动国际公开赛Day2",
@@ -462,11 +434,11 @@
       "sportItemId": "8",
       "matchStatus": "1",
       "matchField": "",
-      "competitionName": "极限运动国际公开赛",
+      "competitionName": "CitySPEN极限运动国际公开赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/27/77TLL81PO0V2.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/11/24/10000000159810692355.png",
       "pkInfoTitle": "极限运动国际公开赛Day2",
-      "modifyTitle": "极限运动国际公开赛Day2",
+      "modifyTitle": "CitySPEN极限运动国际公开赛Day2",
       "presenters": "",
       "matchInfo": {
         "time": "11月28日08:00"
@@ -712,7 +684,7 @@
     },
     {
       "mgdbId": "120000590190",
-      "pID": "969834804",
+      "pID": "969837620",
       "title": "NBANBA杯",
       "keyword": "11月28日09:00",
       "sportItemId": "2",
@@ -728,6 +700,10 @@
         "time": "11月28日09:00"
       },
       "nodes": [
+        {
+          "pID": "969837620",
+          "name": "全场集锦"
+        },
         {
           "pID": "969836640",
           "name": "全场回放（李嘉伟）"
@@ -793,6 +769,10 @@
       },
       "nodes": [
         {
+          "pID": "969837662",
+          "name": "全场回放（盛哲）"
+        },
+        {
           "pID": "969834390",
           "name": "第一节"
         },
@@ -803,6 +783,10 @@
         {
           "pID": "969836200",
           "name": "第三节"
+        },
+        {
+          "pID": "969837281",
+          "name": "第四节"
         }
       ]
     },
@@ -1027,6 +1011,34 @@
         {
           "pID": "969609310",
           "name": "蔡凯臣、张文悦"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000601899",
+      "pID": "969609373",
+      "title": "解锁播时任务 赢万份会员+限量周边",
+      "keyword": "11月28日12:10",
+      "sportItemId": "5",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "UFC格斗马拉松",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/21/77TG87GENM48.jpg",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/11/6/1000000004131061b3d9.png",
+      "pkInfoTitle": "解锁播时任务 赢万份会员+限量周边",
+      "modifyTitle": "UFC格斗马拉松：解锁播时任务 万份会员+限量周边送不停",
+      "presenters": "",
+      "matchInfo": {
+        "time": "11月28日12:10"
+      },
+      "nodes": [
+        {
+          "pID": "969609373",
+          "name": "格斗马拉松"
+        },
+        {
+          "pID": "969324404",
+          "name": "薅羊毛攻略"
         }
       ]
     },
