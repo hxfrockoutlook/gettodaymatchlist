@@ -1,10 +1,10 @@
 {
   "success": true,
-  "updateTime": "2026-11-28 07:32:36",
+  "updateTime": "2026-11-28 08:02:49",
   "data": [
     {
       "mgdbId": "120000598336",
-      "pID": "969757359",
+      "pID": "969760675",
       "title": "男篮世预赛欧洲赛区",
       "keyword": "11月28日01:00",
       "sportItemId": "2",
@@ -20,10 +20,6 @@
         "time": "11月28日01:00"
       },
       "nodes": [
-        {
-          "pID": "969757359",
-          "name": "上咪咕 看男篮世预赛！周琦王哲林领衔 中国男篮出战第五窗口期"
-        },
         {
           "pID": "969760675",
           "name": "赛场原声"
@@ -120,7 +116,7 @@
     },
     {
       "mgdbId": "120000598335",
-      "pID": "969757359",
+      "pID": "969831261",
       "title": "男篮世预赛欧洲赛区",
       "keyword": "11月28日03:00",
       "sportItemId": "2",
@@ -136,6 +132,10 @@
         "time": "11月28日03:00"
       },
       "nodes": [
+        {
+          "pID": "969831261",
+          "name": "全场集锦"
+        },
         {
           "pID": "969831172",
           "name": "全场回放（姜帆）"
@@ -245,12 +245,12 @@
       },
       "nodes": [
         {
-          "pID": "969831223",
-          "name": "全场回放"
-        },
-        {
           "pID": "969830601",
           "name": "全场集锦"
+        },
+        {
+          "pID": "969831223",
+          "name": "全场回放（赛场原声）"
         }
       ]
     },
@@ -273,8 +273,20 @@
       },
       "nodes": [
         {
+          "pID": "969831872",
+          "name": "超长版集锦"
+        },
+        {
+          "pID": "969831850",
+          "name": "全场集锦"
+        },
+        {
           "pID": "969830921",
           "name": "全场回放（颜强、贺宇、李子琪）"
+        },
+        {
+          "pID": "969831979",
+          "name": "全场回放"
         }
       ]
     },
@@ -416,7 +428,7 @@
       "title": "解锁播时任务 赢万份会员+限量周边",
       "keyword": "11月28日08:00",
       "sportItemId": "5",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "UFC格斗马拉松",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/21/77TG87GENM48.jpg",
@@ -444,7 +456,7 @@
       "title": "极限运动国际公开赛Day2",
       "keyword": "11月28日08:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "极限运动国际公开赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/27/77TLL81PO0V2.png",
@@ -471,7 +483,7 @@
       "pID": "968817602",
       "title": "咪咕体育日报 第255期",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "咪咕体育日报",
       "padImg": "",
@@ -548,7 +560,7 @@
       "title": "NBANBA杯",
       "keyword": "11月28日08:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "盖恩布里奇体育馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/27/77TLM3NV1R7Q.png",
@@ -1737,7 +1749,7 @@
       "competitionName": "浙BA",
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/09/02/77N92ACGBBVQ.png",
-      "pkInfoTitle": "瑞��VS绍兴",
+      "pkInfoTitle": "瑞安VS绍兴",
       "modifyTitle": "瑞安VS绍兴",
       "presenters": "",
       "matchInfo": {
@@ -1929,7 +1941,7 @@
     {
       "mgdbId": "120000601727",
       "pID": "969811470",
-      "title": "斯诺克英锦赛：马克·塞尔比vs马修·塞尔特",
+      "title": "斯诺克英锦赛32进16轮次：马克·塞尔比vs马修·塞尔特",
       "keyword": "11月28日21:00",
       "sportItemId": "8",
       "matchStatus": "0",
@@ -1938,8 +1950,8 @@
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "马克·塞尔比vs马修·塞尔特",
-      "modifyTitle": "斯诺克英锦赛：马克·塞尔比vs马修·塞尔特",
-      "presenters": "秦正 庞卫国 乔迁 涂子轩 麦特威",
+      "modifyTitle": "斯诺克英锦赛32进16轮次：马克·塞尔比vs马修·塞尔特",
+      "presenters": "秦正 庞卫国 乔迁 麦特威",
       "matchInfo": {
         "time": "11月28日21:00"
       },
@@ -1953,8 +1965,8 @@
           "name": "乔迁"
         },
         {
-          "pID": "969809869",
-          "name": "涂子轩"
+          "pID": "969809839",
+          "name": "麦特威"
         },
         {
           "pID": "969547690",
@@ -1963,17 +1975,13 @@
         {
           "pID": "969809782",
           "name": "AI智慧观赛"
-        },
-        {
-          "pID": "969809839",
-          "name": "麦特威"
         }
       ]
     },
     {
       "mgdbId": "120000601728",
       "pID": "969547719",
-      "title": "斯诺克英锦赛",
+      "title": "斯诺克英锦赛32进16轮次：马克·威廉姆斯vs斯蒂芬·马奎尔",
       "keyword": "11月28日21:00",
       "sportItemId": "8",
       "matchStatus": "0",
@@ -1982,7 +1990,7 @@
       "padImg": "",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "马克·威廉姆斯vs斯蒂芬·马奎尔",
-      "modifyTitle": "斯诺克英锦赛",
+      "modifyTitle": "斯诺克英锦赛32进16轮次：马克·威廉姆斯vs斯蒂芬·马奎尔",
       "presenters": "涂子轩",
       "matchInfo": {
         "time": "11月28日21:00"
@@ -1991,6 +1999,10 @@
         {
           "pID": "969809869",
           "name": "涂子轩"
+        },
+        {
+          "pID": "969547719",
+          "name": "2号桌"
         }
       ]
     },
