@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-28 10:02:45",
+  "updateTime": "2026-11-28 10:32:38",
   "data": [
     {
       "mgdbId": "120000598336",
@@ -336,6 +336,10 @@
         "time": "11月28日06:40"
       },
       "nodes": [
+        {
+          "pID": "969834342",
+          "name": "全场回放"
+        },
         {
           "pID": "969832565",
           "name": "全场集锦"
@@ -772,7 +776,7 @@
       "title": "E-POWER CROSS广州站Day1",
       "keyword": "11月28日10:15",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "越野系列赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/27/77TLMSIETKEJ.png",
@@ -796,7 +800,7 @@
       "title": "NBANBA杯",
       "keyword": "11月28日10:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "达美中心球馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/27/77TLMU7QLFM3.jpg",
@@ -808,6 +812,10 @@
         "time": "11月28日10:30"
       },
       "nodes": [
+        {
+          "pID": "969579350",
+          "name": "同看鹈鹕vs快船"
+        },
         {
           "pID": "969579153",
           "name": "金哲豪"
@@ -868,7 +876,7 @@
       "title": "NBANBA杯",
       "keyword": "11月28日10:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "因图特圆顶球馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/27/77TLMUANQG48.jpg",
@@ -1000,7 +1008,7 @@
     },
     {
       "mgdbId": "120000602121",
-      "pID": "969704694",
+      "pID": "969833938",
       "title": "郡司莉子PK革通 因陀罗/华金出战",
       "keyword": "11月28日14:30",
       "sportItemId": "6",
@@ -1011,11 +1019,19 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "郡司莉子PK革通 因陀罗/华金出战",
       "modifyTitle": "赛德莫迪羽毛球国际赛Day5：郡司莉子PK革通 因陀罗/华金出战",
-      "presenters": "朱胤丞 轩子博 余博洋 孙宁智",
+      "presenters": "孙宁智 朱胤丞 轩子博 余博洋",
       "matchInfo": {
         "time": "11月28日14:30"
       },
       "nodes": [
+        {
+          "pID": "969833938",
+          "name": "黄宇恒/温妮VS卡纳普拉姆/雷希卡"
+        },
+        {
+          "pID": "969833879",
+          "name": "库沙扬托/梅拉蒂VS希达亚图拉/林加尼"
+        },
         {
           "pID": "969704694",
           "name": "1号场地"
@@ -1033,44 +1049,36 @@
           "name": "智能字幕"
         },
         {
+          "pID": "969833934",
+          "name": "吴哲颖VS梅克尔"
+        },
+        {
           "pID": "969833875",
-          "name": "朱胤丞"
-        },
-        {
-          "pID": "969833879",
-          "name": "朱胤丞"
-        },
-        {
-          "pID": "969833885",
-          "name": "轩子博"
-        },
-        {
-          "pID": "969833895",
-          "name": "轩子博"
-        },
-        {
-          "pID": "969833916",
-          "name": "余博洋"
-        },
-        {
-          "pID": "969833920",
-          "name": "余博洋"
-        },
-        {
-          "pID": "969833925",
-          "name": "余博洋"
+          "name": "普拉迪斯卡VS里查多"
         },
         {
           "pID": "969833930",
-          "name": "孙宁智"
+          "name": "罗圣胜/王灿VS佩拉查伊/帕克卡波"
         },
         {
-          "pID": "969833934",
-          "name": "孙宁智"
+          "pID": "969833885",
+          "name": "乔莉/葛雅特莉VS布洛娃/坎特米尔"
         },
         {
-          "pID": "969833938",
-          "name": "孙宁智"
+          "pID": "969833895",
+          "name": "艾比盖尔/埃斯特尔VS伊斯亚纳/林加尼"
+        },
+        {
+          "pID": "969833916",
+          "name": "胡达VS夏尔马"
+        },
+        {
+          "pID": "969833920",
+          "name": "因陀罗/华金VS查能蓬/通萨"
+        },
+        {
+          "pID": "969833925",
+          "name": "郡司莉子VS革通"
         }
       ]
     },
@@ -1206,7 +1214,7 @@
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/27/77TLMBT927PG.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2026/11/22/1000000015951067768d.png",
       "pkInfoTitle": "三排败者组突围晋级",
-      "modifyTitle": "永劫无间世界冠军赛Day6：三排败者组突围晋级",
+      "modifyTitle": "永劫无间世界冠军��Day6：三排败者组突围晋级",
       "presenters": "",
       "matchInfo": {
         "time": "11月28日16:00"
@@ -1987,7 +1995,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "斯诺克",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/28/77TMK0CPCFT9.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "马克·塞尔比vs马修·塞尔特",
       "modifyTitle": "斯诺克英锦赛32进16轮次：马克·塞尔比vs马修·塞尔特",
@@ -2031,7 +2039,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "斯诺克",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/28/77TMK0LDJK09.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
       "pkInfoTitle": "马克·威廉姆斯vs斯蒂芬·马奎尔",
       "modifyTitle": "斯诺克英锦赛32进16轮次：马克·威廉姆斯vs斯蒂芬·马奎尔",
