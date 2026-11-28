@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-28 23:03:05",
+  "updateTime": "2026-11-28 23:32:59",
   "data": [
     {
       "mgdbId": "120000598336",
@@ -1977,6 +1977,10 @@
           "name": "全场集锦"
         },
         {
+          "pID": "969852394",
+          "name": "全场回放（官方解说）"
+        },
+        {
           "pID": "969851227",
           "name": "全场回放（赛场原声）"
         }
@@ -2105,8 +2109,8 @@
       },
       "nodes": [
         {
-          "pID": "969698135",
-          "name": "赛场原声"
+          "pID": "969852373",
+          "name": "全场回放"
         }
       ]
     },
@@ -2216,10 +2220,10 @@
       "title": "西甲联赛",
       "keyword": "11月28日21:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "塞维利亚奥林匹克球场",
       "competitionName": "西甲",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000586116/432999_H169_sc.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/120000586116/523392_H169_sc.jpg",
       "competitionLogo": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/04/21/779JJMOFB20H.png",
       "pkInfoTitle": "皇家贝蒂斯 vs 巴列卡诺",
       "modifyTitle": "西甲联赛",
@@ -2327,7 +2331,7 @@
       "matchStatus": "1",
       "matchField": "贝尼托·斯蒂尔佩体育场",
       "competitionName": "意甲",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000584779/202611282243_740084_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000584779/202611282324_669683_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png",
       "pkInfoTitle": "佛罗西诺内 vs 帕尔马",
       "modifyTitle": "意甲联赛",
@@ -2348,10 +2352,10 @@
     },
     {
       "mgdbId": "300000002630",
-      "pID": "969665862",
+      "pID": "969850759",
       "title": "《球你别说了》女士之夜",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "CBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/28/77TMKCADN6FE.jpg",
@@ -2361,6 +2365,10 @@
       "presenters": "拜月宁 魏欣怡 廖昕阳",
       "matchInfo": {},
       "nodes": [
+        {
+          "pID": "969850759",
+          "name": "角度定位不同！魏欣怡：女主播需衔接节目流程承接不确定情况"
+        },
         {
           "pID": "969665862",
           "name": "李钰博 拜月宁 魏欣怡 廖昕阳"
