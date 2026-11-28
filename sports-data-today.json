@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2026-11-28 16:02:47",
+  "updateTime": "2026-11-28 16:32:44",
   "data": [
     {
       "mgdbId": "120000598336",
@@ -1130,7 +1130,7 @@
         },
         {
           "pID": "969788340",
-          "name": "格斗马拉松第七期"
+          "name": "格斗马拉松"
         }
       ]
     },
@@ -1164,7 +1164,7 @@
       "title": "市南区vs西海岸新区",
       "keyword": "11月28日14:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "青岛城市足球争霸赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000595035/202611261045_868473_H169_1080.webp",
@@ -1184,7 +1184,7 @@
     },
     {
       "mgdbId": "120000602121",
-      "pID": "969833934",
+      "pID": "969833930",
       "title": "郡司莉子PK革通 因陀罗/华金出战",
       "keyword": "11月28日14:30",
       "sportItemId": "6",
@@ -1195,26 +1195,18 @@
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png",
       "pkInfoTitle": "郡司莉子PK革通 因陀罗/华金出战",
       "modifyTitle": "赛德莫迪羽毛球国际赛Day5：郡司莉子PK革通 因陀罗/华金出战",
-      "presenters": "孙宁智 朱胤丞 轩子博 余博洋",
+      "presenters": "孙宁智 余博洋 轩子博 朱胤丞",
       "matchInfo": {
         "time": "11月28日14:30"
       },
       "nodes": [
         {
-          "pID": "969833934",
-          "name": "吴哲颖VS梅克尔"
-        },
-        {
-          "pID": "969833875",
-          "name": "普拉迪斯卡VS里查多"
+          "pID": "969833930",
+          "name": "罗圣胜/王灿VS佩拉查伊/帕克卡波"
         },
         {
           "pID": "969704694",
           "name": "1号场地"
-        },
-        {
-          "pID": "969704728",
-          "name": "2号场地"
         },
         {
           "pID": "969704769",
@@ -1225,8 +1217,12 @@
           "name": "智能字幕"
         },
         {
-          "pID": "969833930",
-          "name": "罗圣胜/王灿VS佩拉查伊/帕克卡波"
+          "pID": "969833925",
+          "name": "郡司莉子VS革通"
+        },
+        {
+          "pID": "969704728",
+          "name": "2号场地"
         },
         {
           "pID": "969833885",
@@ -1245,16 +1241,20 @@
           "name": "因陀罗/华金VS查能蓬/通萨"
         },
         {
-          "pID": "969833925",
-          "name": "郡司莉子VS革通"
-        },
-        {
           "pID": "969833938",
           "name": "黄宇恒/温妮VS卡纳普拉姆/雷希卡"
         },
         {
           "pID": "969833879",
           "name": "库沙扬托/梅拉蒂VS希达亚图拉/林加尼"
+        },
+        {
+          "pID": "969833934",
+          "name": "吴哲颖VS梅克尔"
+        },
+        {
+          "pID": "969833875",
+          "name": "普拉迪斯卡VS里查多"
         }
       ]
     },
@@ -1484,7 +1484,7 @@
       "title": "半决赛第二轮",
       "keyword": "11月28日16:30",
       "sportItemId": "7",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "中国乒乓球城市联赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/27/77TLK7RP33NH.jpg",
@@ -1527,6 +1527,30 @@
         {
           "pID": "969393352",
           "name": "清流播出"
+        }
+      ]
+    },
+    {
+      "mgdbId": "120000601819",
+      "pID": "969583054",
+      "title": "NBA精彩重播：湖人vs马刺",
+      "keyword": "11月28日18:00",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "NBA经典赛事",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2026/11/28/77TMI8A1DH1E.png",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png",
+      "pkInfoTitle": "NBA精彩重播：湖人vs马刺",
+      "modifyTitle": "NBA精彩重播：湖人vs马刺",
+      "presenters": "杨健 曾令旭 秋童",
+      "matchInfo": {
+        "time": "11月28日18:00"
+      },
+      "nodes": [
+        {
+          "pID": "969583054",
+          "name": "杨健 曾令旭 秋童"
         }
       ]
     },
